@@ -1,0 +1,19 @@
+match_id,date,innings,team,player,runs,balls_faced,strike_rate,fours,sixes,dismissed,dismissal_kind
+1512764,2026-02-25,1,New Zealand,MJ Santner,47,29,162.07,2,4,True,caught
+1512764,2026-02-25,1,New Zealand,R Ravindra,32,22,145.45,3,1,True,caught
+1512764,2026-02-25,1,New Zealand,CE McConchie,31,24,129.17,3,2,False,
+1512764,2026-02-25,1,New Zealand,FH Allen,23,13,176.92,3,1,True,caught and bowled
+1512764,2026-02-25,1,New Zealand,GD Phillips,18,18,100.0,1,0,True,bowled
+1512764,2026-02-25,1,New Zealand,TL Seifert,8,9,88.89,1,0,True,caught
+1512764,2026-02-25,1,New Zealand,DJ Mitchell,3,7,42.86,0,0,True,bowled
+1512764,2026-02-25,1,New Zealand,MS Chapman,0,2,0.0,0,0,True,bowled
+1512764,2026-02-25,2,Sri Lanka,PHKD Mendis,31,26,119.23,4,0,True,caught
+1512764,2026-02-25,2,Sri Lanka,DN Wellalage,29,24,120.83,2,1,True,caught
+1512764,2026-02-25,2,Sri Lanka,BKG Mendis,11,22,50.0,1,0,True,stumped
+1512764,2026-02-25,2,Sri Lanka,P Rathnayake,10,18,55.56,0,0,True,stumped
+1512764,2026-02-25,2,Sri Lanka,PVD Chameera,7,12,58.33,0,0,False,
+1512764,2026-02-25,2,Sri Lanka,KIC Asalanka,5,9,55.56,1,0,True,caught
+1512764,2026-02-25,2,Sri Lanka,MADI Hemantha,3,6,50.0,0,0,True,caught
+1512764,2026-02-25,2,Sri Lanka,MD Shanaka,3,5,60.0,0,0,True,caught
+1512764,2026-02-25,2,Sri Lanka,M Theekshana,1,1,100.0,0,0,False,
+1512764,2026-02-25,2,Sri Lanka,P Nissanka,0,1,0.0,0,0,True,bowled

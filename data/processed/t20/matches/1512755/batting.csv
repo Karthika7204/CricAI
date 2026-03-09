@@ -1,0 +1,20 @@
+match_id,date,innings,team,player,runs,balls_faced,strike_rate,fours,sixes,dismissed,dismissal_kind
+1512755,2026-02-19,1,West Indies,SD Hope,75,46,163.04,6,4,True,bowled
+1512755,2026-02-19,1,West Indies,RL Chase,24,25,96.0,2,0,True,caught
+1512755,2026-02-19,1,West Indies,SE Rutherford,24,17,141.18,2,1,False,
+1512755,2026-02-19,1,West Indies,MW Forde,16,8,200.0,3,0,False,
+1512755,2026-02-19,1,West Indies,JO Holder,9,7,128.57,0,1,True,caught
+1512755,2026-02-19,1,West Indies,R Powell,9,9,100.0,0,1,True,caught
+1512755,2026-02-19,1,West Indies,BA King,4,6,66.67,0,0,True,caught
+1512755,2026-02-19,1,West Indies,SO Hetmyer,1,5,20.0,0,0,True,caught
+1512755,2026-02-19,2,Italy,BAD Manenti,26,22,118.18,2,1,True,bowled
+1512755,2026-02-19,2,Italy,JT Smuts,24,27,88.89,3,0,True,caught
+1512755,2026-02-19,2,Italy,AJ Mosca,19,12,158.33,1,2,True,caught
+1512755,2026-02-19,2,Italy,G Stewart,12,7,171.43,0,1,True,caught
+1512755,2026-02-19,2,Italy,HJ Manenti,8,11,72.73,0,1,True,caught
+1512755,2026-02-19,2,Italy,Syed Naqvi,6,11,54.55,0,0,True,caught
+1512755,2026-02-19,2,Italy,TJ Draca,5,3,166.67,1,0,True,caught
+1512755,2026-02-19,2,Italy,GP Meade,4,8,50.0,0,0,True,caught
+1512755,2026-02-19,2,Italy,CJPF Kalugamage,2,4,50.0,0,0,False,
+1512755,2026-02-19,2,Italy,J Mosca,2,6,33.33,0,0,True,bowled
+1512755,2026-02-19,2,Italy,Ali Hasan,0,2,0.0,0,0,True,caught

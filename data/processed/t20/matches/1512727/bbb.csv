@@ -1,0 +1,262 @@
+match_id,season,start_date,venue,innings,over,ball,batting_team,bowling_team,striker,non_striker,bowler,runs_off_bat,extras,ball_in_over,extra_ball,balls_remaining,runs_scored_yet,wicket,wickets_lost_yet,innings1_total,innings2_total,target,wides,noballs,byes,legbyes,penalty,wicket_type,player_dismissed,other_wicket_type,other_player_dismissed,.groups
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",1,1,1,South Africa,Canada,AK Markram,Q de Kock,Kaleem Sana,0,1,0,True,120,1,False,0,213,156,214,1.0,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",1,1,2,South Africa,Canada,AK Markram,Q de Kock,Kaleem Sana,1,0,1,False,119,2,False,0,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",1,1,3,South Africa,Canada,Q de Kock,AK Markram,Kaleem Sana,0,1,1,True,119,3,False,0,213,156,214,1.0,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",1,1,4,South Africa,Canada,Q de Kock,AK Markram,Kaleem Sana,2,0,2,False,118,5,False,0,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",1,1,5,South Africa,Canada,Q de Kock,AK Markram,Kaleem Sana,0,0,3,False,117,5,False,0,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",1,1,6,South Africa,Canada,Q de Kock,AK Markram,Kaleem Sana,0,0,4,False,116,5,False,0,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",1,1,7,South Africa,Canada,Q de Kock,AK Markram,Kaleem Sana,2,0,5,False,115,7,False,0,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",1,1,8,South Africa,Canada,Q de Kock,AK Markram,Kaleem Sana,0,0,6,False,114,7,False,0,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",1,2,1,South Africa,Canada,AK Markram,Q de Kock,D Heyliger,0,0,1,False,113,7,False,0,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",1,2,2,South Africa,Canada,AK Markram,Q de Kock,D Heyliger,4,0,2,False,112,11,False,0,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",1,2,3,South Africa,Canada,AK Markram,Q de Kock,D Heyliger,0,0,3,False,111,11,False,0,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",1,2,4,South Africa,Canada,AK Markram,Q de Kock,D Heyliger,4,0,4,False,110,15,False,0,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",1,2,5,South Africa,Canada,AK Markram,Q de Kock,D Heyliger,0,0,5,False,109,15,False,0,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",1,2,6,South Africa,Canada,AK Markram,Q de Kock,D Heyliger,0,1,5,True,109,16,False,0,213,156,214,1.0,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",1,2,7,South Africa,Canada,AK Markram,Q de Kock,D Heyliger,4,0,6,False,108,20,False,0,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",1,3,1,South Africa,Canada,Q de Kock,AK Markram,Kaleem Sana,0,0,1,False,107,20,False,0,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",1,3,2,South Africa,Canada,Q de Kock,AK Markram,Kaleem Sana,1,0,2,False,106,21,False,0,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",1,3,3,South Africa,Canada,AK Markram,Q de Kock,Kaleem Sana,0,1,2,True,106,22,False,0,213,156,214,1.0,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",1,3,4,South Africa,Canada,AK Markram,Q de Kock,Kaleem Sana,1,0,3,False,105,23,False,0,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",1,3,5,South Africa,Canada,Q de Kock,AK Markram,Kaleem Sana,1,0,4,False,104,24,False,0,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",1,3,6,South Africa,Canada,AK Markram,Q de Kock,Kaleem Sana,4,0,5,False,103,28,False,0,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",1,3,7,South Africa,Canada,AK Markram,Q de Kock,Kaleem Sana,0,4,6,False,102,32,False,0,213,156,214,,,,4.0,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",1,4,1,South Africa,Canada,Q de Kock,AK Markram,Saad Bin Zafar,2,0,1,False,101,34,False,0,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",1,4,2,South Africa,Canada,Q de Kock,AK Markram,Saad Bin Zafar,0,0,2,False,100,34,False,0,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",1,4,3,South Africa,Canada,Q de Kock,AK Markram,Saad Bin Zafar,4,0,3,False,99,38,False,0,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",1,4,4,South Africa,Canada,Q de Kock,AK Markram,Saad Bin Zafar,4,0,4,False,98,42,False,0,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",1,4,5,South Africa,Canada,Q de Kock,AK Markram,Saad Bin Zafar,0,0,5,False,97,42,False,0,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",1,4,6,South Africa,Canada,Q de Kock,AK Markram,Saad Bin Zafar,1,0,6,False,96,43,False,0,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",1,5,1,South Africa,Canada,Q de Kock,AK Markram,DS Bajwa,0,1,0,True,96,44,False,0,213,156,214,1.0,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",1,5,2,South Africa,Canada,Q de Kock,AK Markram,DS Bajwa,1,0,1,False,95,45,False,0,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",1,5,3,South Africa,Canada,AK Markram,Q de Kock,DS Bajwa,4,0,2,False,94,49,False,0,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",1,5,4,South Africa,Canada,AK Markram,Q de Kock,DS Bajwa,1,0,3,False,93,50,False,0,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",1,5,5,South Africa,Canada,Q de Kock,AK Markram,DS Bajwa,2,0,4,False,92,52,False,0,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",1,5,6,South Africa,Canada,Q de Kock,AK Markram,DS Bajwa,1,0,5,False,91,53,False,0,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",1,5,7,South Africa,Canada,AK Markram,Q de Kock,DS Bajwa,1,0,6,False,90,54,False,0,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",1,6,1,South Africa,Canada,AK Markram,Q de Kock,Jaskaran Singh,0,0,1,False,89,54,False,0,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",1,6,2,South Africa,Canada,AK Markram,Q de Kock,Jaskaran Singh,1,0,2,False,88,55,False,0,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",1,6,3,South Africa,Canada,Q de Kock,AK Markram,Jaskaran Singh,1,0,3,False,87,56,False,0,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",1,6,4,South Africa,Canada,AK Markram,Q de Kock,Jaskaran Singh,6,0,4,False,86,62,False,0,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",1,6,5,South Africa,Canada,AK Markram,Q de Kock,Jaskaran Singh,0,0,5,False,85,62,False,0,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",1,6,6,South Africa,Canada,AK Markram,Q de Kock,Jaskaran Singh,4,0,6,False,84,66,False,0,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",1,7,1,South Africa,Canada,Q de Kock,AK Markram,DS Bajwa,0,0,1,False,83,66,False,0,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",1,7,2,South Africa,Canada,Q de Kock,AK Markram,DS Bajwa,2,0,2,False,82,68,False,0,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",1,7,3,South Africa,Canada,Q de Kock,AK Markram,DS Bajwa,1,0,3,False,81,69,False,0,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",1,7,4,South Africa,Canada,AK Markram,Q de Kock,DS Bajwa,1,0,4,False,80,70,False,0,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",1,7,5,South Africa,Canada,Q de Kock,AK Markram,DS Bajwa,0,0,5,False,79,70,True,1,213,156,214,,,,,,bowled,Q de Kock,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",1,7,6,South Africa,Canada,RD Rickelton,AK Markram,DS Bajwa,0,1,5,True,79,71,False,1,213,156,214,,1.0,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",1,7,7,South Africa,Canada,RD Rickelton,AK Markram,DS Bajwa,1,0,6,False,78,72,False,1,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",1,8,1,South Africa,Canada,RD Rickelton,AK Markram,Ansh Patel,2,0,1,False,77,74,False,1,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",1,8,2,South Africa,Canada,RD Rickelton,AK Markram,Ansh Patel,0,0,2,False,76,74,False,1,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",1,8,3,South Africa,Canada,RD Rickelton,AK Markram,Ansh Patel,4,0,3,False,75,78,False,1,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",1,8,4,South Africa,Canada,RD Rickelton,AK Markram,Ansh Patel,1,0,4,False,74,79,False,1,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",1,8,5,South Africa,Canada,AK Markram,RD Rickelton,Ansh Patel,0,0,5,False,73,79,False,1,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",1,8,6,South Africa,Canada,AK Markram,RD Rickelton,Ansh Patel,1,0,6,False,72,80,False,1,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",1,9,1,South Africa,Canada,AK Markram,RD Rickelton,Saad Bin Zafar,0,2,0,True,72,82,False,1,213,156,214,2.0,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",1,9,2,South Africa,Canada,RD Rickelton,AK Markram,Saad Bin Zafar,1,0,1,False,71,83,False,1,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",1,9,3,South Africa,Canada,AK Markram,RD Rickelton,Saad Bin Zafar,1,0,2,False,70,84,False,1,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",1,9,4,South Africa,Canada,RD Rickelton,AK Markram,Saad Bin Zafar,1,0,3,False,69,85,False,1,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",1,9,5,South Africa,Canada,AK Markram,RD Rickelton,Saad Bin Zafar,0,0,4,False,68,85,False,1,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",1,9,6,South Africa,Canada,AK Markram,RD Rickelton,Saad Bin Zafar,1,0,5,False,67,86,False,1,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",1,9,7,South Africa,Canada,RD Rickelton,AK Markram,Saad Bin Zafar,4,0,6,False,66,90,False,1,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",1,10,1,South Africa,Canada,AK Markram,RD Rickelton,DS Bajwa,4,0,1,False,65,94,False,1,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",1,10,2,South Africa,Canada,AK Markram,RD Rickelton,DS Bajwa,2,0,2,False,64,96,False,1,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",1,10,3,South Africa,Canada,AK Markram,RD Rickelton,DS Bajwa,1,0,3,False,63,97,False,1,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",1,10,4,South Africa,Canada,RD Rickelton,AK Markram,DS Bajwa,2,0,4,False,62,99,False,1,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",1,10,5,South Africa,Canada,RD Rickelton,AK Markram,DS Bajwa,1,0,5,False,61,100,False,1,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",1,10,6,South Africa,Canada,AK Markram,RD Rickelton,DS Bajwa,4,0,6,False,60,104,False,1,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",1,11,1,South Africa,Canada,RD Rickelton,AK Markram,Saad Bin Zafar,6,0,1,False,59,110,False,1,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",1,11,2,South Africa,Canada,RD Rickelton,AK Markram,Saad Bin Zafar,1,0,2,False,58,111,False,1,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",1,11,3,South Africa,Canada,AK Markram,RD Rickelton,Saad Bin Zafar,4,0,3,False,57,115,False,1,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",1,11,4,South Africa,Canada,AK Markram,RD Rickelton,Saad Bin Zafar,1,0,4,False,56,116,False,1,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",1,11,5,South Africa,Canada,RD Rickelton,AK Markram,Saad Bin Zafar,4,0,5,False,55,120,False,1,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",1,11,6,South Africa,Canada,RD Rickelton,AK Markram,Saad Bin Zafar,1,0,6,False,54,121,False,1,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",1,12,1,South Africa,Canada,RD Rickelton,AK Markram,Ansh Patel,1,0,1,False,53,122,False,1,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",1,12,2,South Africa,Canada,AK Markram,RD Rickelton,Ansh Patel,4,0,2,False,52,126,False,1,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",1,12,3,South Africa,Canada,AK Markram,RD Rickelton,Ansh Patel,0,0,3,False,51,126,True,2,213,156,214,,,,,,caught,AK Markram,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",1,12,4,South Africa,Canada,D Brevis,RD Rickelton,Ansh Patel,1,0,4,False,50,127,False,2,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",1,12,5,South Africa,Canada,RD Rickelton,D Brevis,Ansh Patel,1,0,5,False,49,128,False,2,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",1,12,6,South Africa,Canada,D Brevis,RD Rickelton,Ansh Patel,4,0,6,False,48,132,False,2,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",1,13,1,South Africa,Canada,RD Rickelton,D Brevis,Jaskaran Singh,0,0,1,False,47,132,False,2,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",1,13,2,South Africa,Canada,RD Rickelton,D Brevis,Jaskaran Singh,0,1,1,True,47,133,False,2,213,156,214,1.0,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",1,13,3,South Africa,Canada,RD Rickelton,D Brevis,Jaskaran Singh,1,0,2,False,46,134,False,2,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",1,13,4,South Africa,Canada,D Brevis,RD Rickelton,Jaskaran Singh,0,0,3,False,45,134,False,2,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",1,13,5,South Africa,Canada,D Brevis,RD Rickelton,Jaskaran Singh,0,1,3,True,45,135,False,2,213,156,214,1.0,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",1,13,6,South Africa,Canada,D Brevis,RD Rickelton,Jaskaran Singh,1,0,4,False,44,136,False,2,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",1,13,7,South Africa,Canada,RD Rickelton,D Brevis,Jaskaran Singh,1,0,5,False,43,137,False,2,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",1,13,8,South Africa,Canada,D Brevis,RD Rickelton,Jaskaran Singh,0,0,6,False,42,137,False,2,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",1,14,1,South Africa,Canada,RD Rickelton,D Brevis,Ansh Patel,0,0,1,False,41,137,True,3,213,156,214,,,,,,caught,RD Rickelton,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",1,14,2,South Africa,Canada,DA Miller,D Brevis,Ansh Patel,0,0,2,False,40,137,False,3,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",1,14,3,South Africa,Canada,DA Miller,D Brevis,Ansh Patel,0,0,3,False,39,137,False,3,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",1,14,4,South Africa,Canada,DA Miller,D Brevis,Ansh Patel,1,0,4,False,38,138,False,3,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",1,14,5,South Africa,Canada,D Brevis,DA Miller,Ansh Patel,0,0,5,False,37,138,True,4,213,156,214,,,,,,caught,D Brevis,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",1,14,6,South Africa,Canada,T Stubbs,DA Miller,Ansh Patel,4,0,6,False,36,142,False,4,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",1,15,1,South Africa,Canada,DA Miller,T Stubbs,DS Bajwa,2,0,1,False,35,144,False,4,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",1,15,2,South Africa,Canada,DA Miller,T Stubbs,DS Bajwa,4,0,2,False,34,148,False,4,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",1,15,3,South Africa,Canada,DA Miller,T Stubbs,DS Bajwa,0,0,3,False,33,148,False,4,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",1,15,4,South Africa,Canada,DA Miller,T Stubbs,DS Bajwa,2,0,4,False,32,150,False,4,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",1,15,5,South Africa,Canada,DA Miller,T Stubbs,DS Bajwa,1,0,5,False,31,151,False,4,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",1,15,6,South Africa,Canada,T Stubbs,DA Miller,DS Bajwa,0,0,6,False,30,151,False,4,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",1,16,1,South Africa,Canada,DA Miller,T Stubbs,Ansh Patel,1,0,1,False,29,152,False,4,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",1,16,2,South Africa,Canada,T Stubbs,DA Miller,Ansh Patel,0,0,2,False,28,152,False,4,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",1,16,3,South Africa,Canada,T Stubbs,DA Miller,Ansh Patel,2,0,3,False,27,154,False,4,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",1,16,4,South Africa,Canada,T Stubbs,DA Miller,Ansh Patel,2,0,4,False,26,156,False,4,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",1,16,5,South Africa,Canada,T Stubbs,DA Miller,Ansh Patel,1,0,5,False,25,157,False,4,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",1,16,6,South Africa,Canada,DA Miller,T Stubbs,Ansh Patel,1,0,6,False,24,158,False,4,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",1,17,1,South Africa,Canada,DA Miller,T Stubbs,Kaleem Sana,1,0,1,False,23,159,False,4,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",1,17,2,South Africa,Canada,T Stubbs,DA Miller,Kaleem Sana,2,0,2,False,22,161,False,4,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",1,17,3,South Africa,Canada,T Stubbs,DA Miller,Kaleem Sana,1,0,3,False,21,162,False,4,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",1,17,4,South Africa,Canada,DA Miller,T Stubbs,Kaleem Sana,1,0,4,False,20,163,False,4,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",1,17,5,South Africa,Canada,T Stubbs,DA Miller,Kaleem Sana,1,0,5,False,19,164,False,4,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",1,17,6,South Africa,Canada,DA Miller,T Stubbs,Kaleem Sana,0,1,5,True,19,165,False,4,213,156,214,1.0,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",1,17,7,South Africa,Canada,DA Miller,T Stubbs,Kaleem Sana,1,0,6,False,18,166,False,4,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",1,18,1,South Africa,Canada,DA Miller,T Stubbs,Jaskaran Singh,0,0,1,False,17,166,False,4,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",1,18,2,South Africa,Canada,DA Miller,T Stubbs,Jaskaran Singh,1,0,2,False,16,167,False,4,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",1,18,3,South Africa,Canada,T Stubbs,DA Miller,Jaskaran Singh,0,0,3,False,15,167,False,4,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",1,18,4,South Africa,Canada,T Stubbs,DA Miller,Jaskaran Singh,4,0,4,False,14,171,False,4,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",1,18,5,South Africa,Canada,T Stubbs,DA Miller,Jaskaran Singh,6,0,5,False,13,177,False,4,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",1,18,6,South Africa,Canada,T Stubbs,DA Miller,Jaskaran Singh,0,0,6,False,12,177,False,4,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",1,19,1,South Africa,Canada,DA Miller,T Stubbs,Kaleem Sana,1,0,1,False,11,178,False,4,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",1,19,2,South Africa,Canada,T Stubbs,DA Miller,Kaleem Sana,0,0,2,False,10,178,False,4,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",1,19,3,South Africa,Canada,T Stubbs,DA Miller,Kaleem Sana,1,0,3,False,9,179,False,4,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",1,19,4,South Africa,Canada,DA Miller,T Stubbs,Kaleem Sana,6,0,4,False,8,185,False,4,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",1,19,5,South Africa,Canada,DA Miller,T Stubbs,Kaleem Sana,1,1,4,True,8,187,False,4,213,156,214,,1.0,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",1,19,6,South Africa,Canada,T Stubbs,DA Miller,Kaleem Sana,1,1,4,True,8,189,False,4,213,156,214,,1.0,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",1,19,7,South Africa,Canada,DA Miller,T Stubbs,Kaleem Sana,1,0,5,False,7,190,False,4,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",1,19,8,South Africa,Canada,T Stubbs,DA Miller,Kaleem Sana,2,0,6,False,6,192,False,4,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",1,20,1,South Africa,Canada,DA Miller,T Stubbs,Jaskaran Singh,6,0,1,False,5,198,False,4,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",1,20,2,South Africa,Canada,DA Miller,T Stubbs,Jaskaran Singh,6,0,2,False,4,204,False,4,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",1,20,3,South Africa,Canada,DA Miller,T Stubbs,Jaskaran Singh,1,0,3,False,3,205,False,4,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",1,20,4,South Africa,Canada,T Stubbs,DA Miller,Jaskaran Singh,1,0,4,False,2,206,False,4,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",1,20,5,South Africa,Canada,DA Miller,T Stubbs,Jaskaran Singh,1,0,5,False,1,207,False,4,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",1,20,6,South Africa,Canada,T Stubbs,DA Miller,Jaskaran Singh,6,0,6,False,0,213,False,4,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",2,1,1,Canada,South Africa,DS Bajwa,YS Samra,L Ngidi,0,0,1,False,119,0,True,1,213,156,214,,,,,,caught,DS Bajwa,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",2,1,2,Canada,South Africa,NS Dhaliwal,YS Samra,L Ngidi,0,0,2,False,118,0,False,1,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",2,1,3,Canada,South Africa,NS Dhaliwal,YS Samra,L Ngidi,0,0,3,False,117,0,False,1,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",2,1,4,Canada,South Africa,NS Dhaliwal,YS Samra,L Ngidi,4,0,4,False,116,4,False,1,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",2,1,5,Canada,South Africa,NS Dhaliwal,YS Samra,L Ngidi,0,0,5,False,115,4,False,1,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",2,1,6,Canada,South Africa,NS Dhaliwal,YS Samra,L Ngidi,0,0,6,False,114,4,False,1,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",2,2,1,Canada,South Africa,YS Samra,NS Dhaliwal,M Jansen,0,0,1,False,113,4,False,1,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",2,2,2,Canada,South Africa,YS Samra,NS Dhaliwal,M Jansen,0,0,2,False,112,4,False,1,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",2,2,3,Canada,South Africa,YS Samra,NS Dhaliwal,M Jansen,0,0,3,False,111,4,False,1,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",2,2,4,Canada,South Africa,YS Samra,NS Dhaliwal,M Jansen,0,5,3,True,111,9,False,1,213,156,214,5.0,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",2,2,5,Canada,South Africa,YS Samra,NS Dhaliwal,M Jansen,4,0,4,False,110,13,False,1,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",2,2,6,Canada,South Africa,YS Samra,NS Dhaliwal,M Jansen,0,0,5,False,109,13,False,1,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",2,2,7,Canada,South Africa,YS Samra,NS Dhaliwal,M Jansen,4,0,6,False,108,17,False,1,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",2,3,1,Canada,South Africa,NS Dhaliwal,YS Samra,L Ngidi,1,0,1,False,107,18,False,1,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",2,3,2,Canada,South Africa,YS Samra,NS Dhaliwal,L Ngidi,4,0,2,False,106,22,False,1,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",2,3,3,Canada,South Africa,YS Samra,NS Dhaliwal,L Ngidi,0,0,3,False,105,22,True,2,213,156,214,,,,,,caught,YS Samra,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",2,3,4,Canada,South Africa,NR Kirton,NS Dhaliwal,L Ngidi,0,0,4,False,104,22,False,2,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",2,3,5,Canada,South Africa,NR Kirton,NS Dhaliwal,L Ngidi,4,0,5,False,103,26,False,2,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",2,3,6,Canada,South Africa,NR Kirton,NS Dhaliwal,L Ngidi,0,0,6,False,102,26,True,3,213,156,214,,,,,,caught,NR Kirton,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",2,4,1,Canada,South Africa,NS Dhaliwal,S Movva,K Rabada,0,0,1,False,101,26,False,3,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",2,4,2,Canada,South Africa,NS Dhaliwal,S Movva,K Rabada,4,0,2,False,100,30,False,3,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",2,4,3,Canada,South Africa,NS Dhaliwal,S Movva,K Rabada,1,0,3,False,99,31,False,3,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",2,4,4,Canada,South Africa,S Movva,NS Dhaliwal,K Rabada,0,0,4,False,98,31,False,3,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",2,4,5,Canada,South Africa,S Movva,NS Dhaliwal,K Rabada,1,0,5,False,97,32,False,3,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",2,4,6,Canada,South Africa,NS Dhaliwal,S Movva,K Rabada,4,0,6,False,96,36,False,3,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",2,5,1,Canada,South Africa,S Movva,NS Dhaliwal,L Ngidi,4,0,1,False,95,40,False,3,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",2,5,2,Canada,South Africa,S Movva,NS Dhaliwal,L Ngidi,4,0,2,False,94,44,False,3,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",2,5,3,Canada,South Africa,S Movva,NS Dhaliwal,L Ngidi,0,0,3,False,93,44,False,3,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",2,5,4,Canada,South Africa,S Movva,NS Dhaliwal,L Ngidi,0,0,4,False,92,44,False,3,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",2,5,5,Canada,South Africa,S Movva,NS Dhaliwal,L Ngidi,0,0,5,False,91,44,False,3,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",2,5,6,Canada,South Africa,S Movva,NS Dhaliwal,L Ngidi,0,0,6,False,90,44,False,3,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",2,6,1,Canada,South Africa,NS Dhaliwal,S Movva,K Rabada,1,0,1,False,89,45,False,3,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",2,6,2,Canada,South Africa,S Movva,NS Dhaliwal,K Rabada,0,0,2,False,88,45,False,3,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",2,6,3,Canada,South Africa,S Movva,NS Dhaliwal,K Rabada,0,0,3,False,87,45,False,3,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",2,6,4,Canada,South Africa,S Movva,NS Dhaliwal,K Rabada,0,0,4,False,86,45,True,4,213,156,214,,,,,,bowled,S Movva,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",2,6,5,Canada,South Africa,H Thaker,NS Dhaliwal,K Rabada,4,0,5,False,85,49,False,4,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",2,6,6,Canada,South Africa,H Thaker,NS Dhaliwal,K Rabada,1,0,6,False,84,50,False,4,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",2,7,1,Canada,South Africa,H Thaker,NS Dhaliwal,C Bosch,0,0,1,False,83,50,False,4,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",2,7,2,Canada,South Africa,H Thaker,NS Dhaliwal,C Bosch,1,0,2,False,82,51,False,4,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",2,7,3,Canada,South Africa,NS Dhaliwal,H Thaker,C Bosch,1,0,3,False,81,52,False,4,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",2,7,4,Canada,South Africa,H Thaker,NS Dhaliwal,C Bosch,0,0,4,False,80,52,False,4,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",2,7,5,Canada,South Africa,H Thaker,NS Dhaliwal,C Bosch,1,0,5,False,79,53,False,4,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",2,7,6,Canada,South Africa,NS Dhaliwal,H Thaker,C Bosch,1,0,6,False,78,54,False,4,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",2,8,1,Canada,South Africa,NS Dhaliwal,H Thaker,KA Maharaj,1,0,1,False,77,55,False,4,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",2,8,2,Canada,South Africa,H Thaker,NS Dhaliwal,KA Maharaj,1,0,2,False,76,56,False,4,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",2,8,3,Canada,South Africa,NS Dhaliwal,H Thaker,KA Maharaj,4,0,3,False,75,60,False,4,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",2,8,4,Canada,South Africa,NS Dhaliwal,H Thaker,KA Maharaj,2,0,4,False,74,62,False,4,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",2,8,5,Canada,South Africa,NS Dhaliwal,H Thaker,KA Maharaj,1,0,5,False,73,63,False,4,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",2,8,6,Canada,South Africa,H Thaker,NS Dhaliwal,KA Maharaj,1,0,6,False,72,64,False,4,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",2,9,1,Canada,South Africa,H Thaker,NS Dhaliwal,M Jansen,0,0,1,False,71,64,False,4,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",2,9,2,Canada,South Africa,H Thaker,NS Dhaliwal,M Jansen,1,0,2,False,70,65,False,4,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",2,9,3,Canada,South Africa,NS Dhaliwal,H Thaker,M Jansen,0,0,3,False,69,65,False,4,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",2,9,4,Canada,South Africa,NS Dhaliwal,H Thaker,M Jansen,0,0,4,False,68,65,False,4,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",2,9,5,Canada,South Africa,NS Dhaliwal,H Thaker,M Jansen,1,0,5,False,67,66,False,4,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",2,9,6,Canada,South Africa,H Thaker,NS Dhaliwal,M Jansen,6,0,6,False,66,72,False,4,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",2,10,1,Canada,South Africa,NS Dhaliwal,H Thaker,KA Maharaj,0,0,1,False,65,72,False,4,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",2,10,2,Canada,South Africa,NS Dhaliwal,H Thaker,KA Maharaj,1,0,2,False,64,73,False,4,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",2,10,3,Canada,South Africa,H Thaker,NS Dhaliwal,KA Maharaj,0,0,3,False,63,73,False,4,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",2,10,4,Canada,South Africa,H Thaker,NS Dhaliwal,KA Maharaj,0,0,4,False,62,73,False,4,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",2,10,5,Canada,South Africa,H Thaker,NS Dhaliwal,KA Maharaj,1,0,5,False,61,74,False,4,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",2,10,6,Canada,South Africa,NS Dhaliwal,H Thaker,KA Maharaj,1,0,6,False,60,75,False,4,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",2,11,1,Canada,South Africa,NS Dhaliwal,H Thaker,C Bosch,1,0,1,False,59,76,False,4,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",2,11,2,Canada,South Africa,H Thaker,NS Dhaliwal,C Bosch,1,0,2,False,58,77,False,4,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",2,11,3,Canada,South Africa,NS Dhaliwal,H Thaker,C Bosch,0,0,3,False,57,77,False,4,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",2,11,4,Canada,South Africa,NS Dhaliwal,H Thaker,C Bosch,1,0,4,False,56,78,False,4,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",2,11,5,Canada,South Africa,H Thaker,NS Dhaliwal,C Bosch,6,0,5,False,55,84,False,4,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",2,11,6,Canada,South Africa,H Thaker,NS Dhaliwal,C Bosch,0,0,6,False,54,84,False,4,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",2,12,1,Canada,South Africa,NS Dhaliwal,H Thaker,K Rabada,0,2,0,True,54,86,False,4,213,156,214,2.0,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",2,12,2,Canada,South Africa,H Thaker,NS Dhaliwal,K Rabada,0,0,1,False,53,86,False,4,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",2,12,3,Canada,South Africa,H Thaker,NS Dhaliwal,K Rabada,1,0,2,False,52,87,False,4,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",2,12,4,Canada,South Africa,NS Dhaliwal,H Thaker,K Rabada,4,0,3,False,51,91,False,4,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",2,12,5,Canada,South Africa,NS Dhaliwal,H Thaker,K Rabada,1,0,4,False,50,92,False,4,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",2,12,6,Canada,South Africa,H Thaker,NS Dhaliwal,K Rabada,1,1,4,True,50,94,False,4,213,156,214,,1.0,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",2,12,7,Canada,South Africa,NS Dhaliwal,H Thaker,K Rabada,0,1,4,True,50,95,False,4,213,156,214,1.0,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",2,12,8,Canada,South Africa,NS Dhaliwal,H Thaker,K Rabada,1,0,5,False,49,96,False,4,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",2,12,9,Canada,South Africa,H Thaker,NS Dhaliwal,K Rabada,0,0,6,False,48,96,False,4,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",2,13,1,Canada,South Africa,NS Dhaliwal,H Thaker,M Jansen,1,0,1,False,47,97,False,4,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",2,13,2,Canada,South Africa,H Thaker,NS Dhaliwal,M Jansen,0,0,2,False,46,97,False,4,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",2,13,3,Canada,South Africa,H Thaker,NS Dhaliwal,M Jansen,1,0,3,False,45,98,False,4,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",2,13,4,Canada,South Africa,NS Dhaliwal,H Thaker,M Jansen,1,0,4,False,44,99,False,4,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",2,13,5,Canada,South Africa,H Thaker,NS Dhaliwal,M Jansen,0,0,5,False,43,99,False,4,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",2,13,6,Canada,South Africa,H Thaker,NS Dhaliwal,M Jansen,0,0,6,False,42,99,False,4,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",2,14,1,Canada,South Africa,NS Dhaliwal,H Thaker,KA Maharaj,0,0,1,False,41,99,False,4,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",2,14,2,Canada,South Africa,NS Dhaliwal,H Thaker,KA Maharaj,1,0,2,False,40,100,False,4,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",2,14,3,Canada,South Africa,H Thaker,NS Dhaliwal,KA Maharaj,0,1,2,True,40,101,False,4,213,156,214,1.0,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",2,14,4,Canada,South Africa,H Thaker,NS Dhaliwal,KA Maharaj,1,0,3,False,39,102,False,4,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",2,14,5,Canada,South Africa,NS Dhaliwal,H Thaker,KA Maharaj,1,0,4,False,38,103,False,4,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",2,14,6,Canada,South Africa,H Thaker,NS Dhaliwal,KA Maharaj,1,0,5,False,37,104,False,4,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",2,14,7,Canada,South Africa,NS Dhaliwal,H Thaker,KA Maharaj,6,0,6,False,36,110,False,4,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",2,15,1,Canada,South Africa,H Thaker,NS Dhaliwal,L Ngidi,4,0,1,False,35,114,False,4,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",2,15,2,Canada,South Africa,H Thaker,NS Dhaliwal,L Ngidi,0,0,2,False,34,114,True,5,213,156,214,,,,,,caught,H Thaker,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",2,15,3,Canada,South Africa,Saad Bin Zafar,NS Dhaliwal,L Ngidi,0,0,3,False,33,114,False,5,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",2,15,4,Canada,South Africa,Saad Bin Zafar,NS Dhaliwal,L Ngidi,1,0,4,False,32,115,False,5,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",2,15,5,Canada,South Africa,NS Dhaliwal,Saad Bin Zafar,L Ngidi,1,0,5,False,31,116,False,5,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",2,15,6,Canada,South Africa,Saad Bin Zafar,NS Dhaliwal,L Ngidi,4,0,6,False,30,120,False,5,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",2,16,1,Canada,South Africa,NS Dhaliwal,Saad Bin Zafar,KA Maharaj,1,0,1,False,29,121,False,5,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",2,16,2,Canada,South Africa,Saad Bin Zafar,NS Dhaliwal,KA Maharaj,0,0,2,False,28,121,False,5,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",2,16,3,Canada,South Africa,Saad Bin Zafar,NS Dhaliwal,KA Maharaj,0,0,3,False,27,121,False,5,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",2,16,4,Canada,South Africa,Saad Bin Zafar,NS Dhaliwal,KA Maharaj,1,0,4,False,26,122,False,5,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",2,16,5,Canada,South Africa,NS Dhaliwal,Saad Bin Zafar,KA Maharaj,1,0,5,False,25,123,False,5,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",2,16,6,Canada,South Africa,Saad Bin Zafar,NS Dhaliwal,KA Maharaj,1,0,6,False,24,124,False,5,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",2,17,1,Canada,South Africa,Saad Bin Zafar,NS Dhaliwal,C Bosch,0,0,1,False,23,124,False,5,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",2,17,2,Canada,South Africa,Saad Bin Zafar,NS Dhaliwal,C Bosch,2,0,2,False,22,126,False,5,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",2,17,3,Canada,South Africa,Saad Bin Zafar,NS Dhaliwal,C Bosch,1,0,3,False,21,127,False,5,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",2,17,4,Canada,South Africa,NS Dhaliwal,Saad Bin Zafar,C Bosch,0,1,3,True,21,128,False,5,213,156,214,1.0,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",2,17,5,Canada,South Africa,NS Dhaliwal,Saad Bin Zafar,C Bosch,1,0,4,False,20,129,False,5,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",2,17,6,Canada,South Africa,Saad Bin Zafar,NS Dhaliwal,C Bosch,1,0,5,False,19,130,False,5,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",2,17,7,Canada,South Africa,NS Dhaliwal,Saad Bin Zafar,C Bosch,2,0,6,False,18,132,False,5,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",2,18,1,Canada,South Africa,Saad Bin Zafar,NS Dhaliwal,M Jansen,0,1,0,True,18,133,False,5,213,156,214,1.0,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",2,18,2,Canada,South Africa,Saad Bin Zafar,NS Dhaliwal,M Jansen,0,0,1,False,17,133,True,6,213,156,214,,,,,,caught,Saad Bin Zafar,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",2,18,3,Canada,South Africa,Jaskaran Singh,NS Dhaliwal,M Jansen,0,0,2,False,16,133,True,7,213,156,214,,,,,,caught,Jaskaran Singh,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",2,18,4,Canada,South Africa,D Heyliger,NS Dhaliwal,M Jansen,1,0,3,False,15,134,False,7,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",2,18,5,Canada,South Africa,NS Dhaliwal,D Heyliger,M Jansen,1,0,4,False,14,135,False,7,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",2,18,6,Canada,South Africa,D Heyliger,NS Dhaliwal,M Jansen,0,1,4,True,14,136,False,7,213,156,214,1.0,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",2,18,7,Canada,South Africa,D Heyliger,NS Dhaliwal,M Jansen,1,0,5,False,13,137,False,7,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",2,18,8,Canada,South Africa,NS Dhaliwal,D Heyliger,M Jansen,1,0,6,False,12,138,False,7,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",2,19,1,Canada,South Africa,NS Dhaliwal,D Heyliger,K Rabada,4,0,1,False,11,142,False,7,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",2,19,2,Canada,South Africa,NS Dhaliwal,D Heyliger,K Rabada,4,0,2,False,10,146,False,7,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",2,19,3,Canada,South Africa,NS Dhaliwal,D Heyliger,K Rabada,0,0,3,False,9,146,False,7,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",2,19,4,Canada,South Africa,NS Dhaliwal,D Heyliger,K Rabada,1,1,3,True,9,148,False,7,213,156,214,,1.0,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",2,19,5,Canada,South Africa,D Heyliger,NS Dhaliwal,K Rabada,1,0,4,False,8,149,False,7,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",2,19,6,Canada,South Africa,NS Dhaliwal,D Heyliger,K Rabada,0,0,5,False,7,149,False,7,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",2,19,7,Canada,South Africa,NS Dhaliwal,D Heyliger,K Rabada,1,0,6,False,6,150,False,7,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",2,20,1,Canada,South Africa,NS Dhaliwal,D Heyliger,C Bosch,0,0,1,False,5,150,True,8,213,156,214,,,,,,caught,NS Dhaliwal,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",2,20,2,Canada,South Africa,Kaleem Sana,D Heyliger,C Bosch,0,0,2,False,4,150,False,8,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",2,20,3,Canada,South Africa,Kaleem Sana,D Heyliger,C Bosch,1,0,3,False,3,151,False,8,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",2,20,4,Canada,South Africa,D Heyliger,Kaleem Sana,C Bosch,0,0,4,False,2,151,False,8,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",2,20,5,Canada,South Africa,D Heyliger,Kaleem Sana,C Bosch,1,0,5,False,1,152,False,8,213,156,214,,,,,,,,,,drop
+1512727,2025/26,2026-02-09,"Narendra Modi Stadium, Ahmedabad",2,20,6,Canada,South Africa,Kaleem Sana,D Heyliger,C Bosch,4,0,6,False,0,156,False,8,213,156,214,,,,,,,,,,drop

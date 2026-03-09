@@ -1,0 +1,15 @@
+match_id,date,innings,team,player,runs,balls_faced,strike_rate,fours,sixes,dismissed,dismissal_kind
+1512728,2026-02-10,1,Namibia,JN Loftie-Eaton,42,38,110.53,1,2,True,caught
+1512728,2026-02-10,1,Namibia,JN Frylinck,30,27,111.11,3,1,True,caught
+1512728,2026-02-10,1,Namibia,JJ Smit,22,16,137.5,1,2,True,bowled
+1512728,2026-02-10,1,Namibia,MG Erasmus,18,9,200.0,2,1,True,caught
+1512728,2026-02-10,1,Namibia,R Trumpelmann,9,10,90.0,0,1,True,run out
+1512728,2026-02-10,1,Namibia,ZE Green,9,11,81.82,1,0,True,caught
+1512728,2026-02-10,1,Namibia,DO Leicher,6,5,120.0,0,0,False,
+1512728,2026-02-10,1,Namibia,L Steenkamp,6,6,100.0,1,0,True,stumped
+1512728,2026-02-10,1,Namibia,WP Myburgh,4,5,80.0,0,0,True,run out
+1512728,2026-02-10,2,Netherlands,BFW de Leede,72,48,150.0,5,4,False,
+1512728,2026-02-10,2,Netherlands,CN Ackermann,32,28,114.29,0,1,True,caught
+1512728,2026-02-10,2,Netherlands,M Levitt,28,15,186.67,1,3,True,caught
+1512728,2026-02-10,2,Netherlands,SA Edwards,18,9,200.0,1,1,False,
+1512728,2026-02-10,2,Netherlands,MP O'Dowd,7,9,77.78,1,0,True,caught

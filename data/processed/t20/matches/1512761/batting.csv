@@ -1,0 +1,21 @@
+match_id,date,innings,team,player,runs,balls_faced,strike_rate,fours,sixes,dismissed,dismissal_kind
+1512761,2026-02-22,1,South Africa,DA Miller,63,37,170.27,7,3,True,caught
+1512761,2026-02-22,1,South Africa,D Brevis,45,33,136.36,3,3,True,caught
+1512761,2026-02-22,1,South Africa,T Stubbs,44,24,183.33,1,3,False,
+1512761,2026-02-22,1,South Africa,RD Rickelton,7,7,100.0,0,1,True,caught
+1512761,2026-02-22,1,South Africa,Q de Kock,6,7,85.71,1,0,True,bowled
+1512761,2026-02-22,1,South Africa,C Bosch,5,6,83.33,1,0,True,caught and bowled
+1512761,2026-02-22,1,South Africa,AK Markram,4,7,57.14,0,0,True,caught
+1512761,2026-02-22,1,South Africa,M Jansen,2,6,33.33,0,0,True,caught
+1512761,2026-02-22,1,South Africa,K Rabada,0,1,0.0,0,0,False,
+1512761,2026-02-22,2,India,S Dube,42,37,113.51,1,3,True,caught
+1512761,2026-02-22,2,India,HH Pandya,18,19,94.74,0,1,True,caught
+1512761,2026-02-22,2,India,SA Yadav,18,23,78.26,2,0,True,caught
+1512761,2026-02-22,2,India,Abhishek Sharma,15,13,115.38,2,1,True,caught
+1512761,2026-02-22,2,India,Washington Sundar,11,11,100.0,0,1,True,caught
+1512761,2026-02-22,2,India,Arshdeep Singh,1,2,50.0,0,0,True,caught
+1512761,2026-02-22,2,India,Tilak Varma,1,2,50.0,0,0,True,caught
+1512761,2026-02-22,2,India,CV Varun,0,3,0.0,0,0,False,
+1512761,2026-02-22,2,India,Ishan Kishan,0,4,0.0,0,0,True,caught
+1512761,2026-02-22,2,India,JJ Bumrah,0,1,0.0,0,0,True,caught
+1512761,2026-02-22,2,India,RK Singh,0,2,0.0,0,0,True,caught

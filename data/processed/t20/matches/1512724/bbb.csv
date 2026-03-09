@@ -1,0 +1,251 @@
+match_id,season,start_date,venue,innings,over,ball,batting_team,bowling_team,striker,non_striker,bowler,runs_off_bat,extras,ball_in_over,extra_ball,balls_remaining,runs_scored_yet,wicket,wickets_lost_yet,innings1_total,innings2_total,target,wides,noballs,byes,legbyes,penalty,wicket_type,player_dismissed,other_wicket_type,other_player_dismissed,.groups
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",1,1,1,Sri Lanka,Ireland,P Nissanka,K Mishara,MJ Humphreys,2,0,1,False,119,2,False,0,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",1,1,2,Sri Lanka,Ireland,P Nissanka,K Mishara,MJ Humphreys,0,0,2,False,118,2,False,0,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",1,1,3,Sri Lanka,Ireland,P Nissanka,K Mishara,MJ Humphreys,0,0,3,False,117,2,False,0,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",1,1,4,Sri Lanka,Ireland,P Nissanka,K Mishara,MJ Humphreys,1,0,4,False,116,3,False,0,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",1,1,5,Sri Lanka,Ireland,K Mishara,P Nissanka,MJ Humphreys,0,0,5,False,115,3,False,0,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",1,1,6,Sri Lanka,Ireland,K Mishara,P Nissanka,MJ Humphreys,2,0,6,False,114,5,False,0,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",1,2,1,Sri Lanka,Ireland,P Nissanka,K Mishara,MR Adair,4,0,1,False,113,9,False,0,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",1,2,2,Sri Lanka,Ireland,P Nissanka,K Mishara,MR Adair,1,0,2,False,112,10,False,0,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",1,2,3,Sri Lanka,Ireland,K Mishara,P Nissanka,MR Adair,0,1,2,True,112,11,False,0,163,143,164,1.0,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",1,2,4,Sri Lanka,Ireland,K Mishara,P Nissanka,MR Adair,2,0,3,False,111,13,False,0,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",1,2,5,Sri Lanka,Ireland,K Mishara,P Nissanka,MR Adair,4,0,4,False,110,17,False,0,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",1,2,6,Sri Lanka,Ireland,K Mishara,P Nissanka,MR Adair,1,0,5,False,109,18,False,0,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",1,2,7,Sri Lanka,Ireland,P Nissanka,K Mishara,MR Adair,0,0,6,False,108,18,False,0,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",1,3,1,Sri Lanka,Ireland,K Mishara,P Nissanka,BJ McCarthy,4,0,1,False,107,22,False,0,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",1,3,2,Sri Lanka,Ireland,K Mishara,P Nissanka,BJ McCarthy,0,1,1,True,107,23,False,0,163,143,164,1.0,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",1,3,3,Sri Lanka,Ireland,K Mishara,P Nissanka,BJ McCarthy,0,0,2,False,106,23,False,0,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",1,3,4,Sri Lanka,Ireland,K Mishara,P Nissanka,BJ McCarthy,0,0,3,False,105,23,False,0,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",1,3,5,Sri Lanka,Ireland,K Mishara,P Nissanka,BJ McCarthy,1,0,4,False,104,24,False,0,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",1,3,6,Sri Lanka,Ireland,P Nissanka,K Mishara,BJ McCarthy,2,0,5,False,103,26,False,0,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",1,3,7,Sri Lanka,Ireland,P Nissanka,K Mishara,BJ McCarthy,1,0,6,False,102,27,False,0,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",1,4,1,Sri Lanka,Ireland,P Nissanka,K Mishara,MR Adair,0,0,1,False,101,27,False,0,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",1,4,2,Sri Lanka,Ireland,P Nissanka,K Mishara,MR Adair,0,0,2,False,100,27,False,0,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",1,4,3,Sri Lanka,Ireland,P Nissanka,K Mishara,MR Adair,0,0,3,False,99,27,False,0,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",1,4,4,Sri Lanka,Ireland,P Nissanka,K Mishara,MR Adair,1,0,4,False,98,28,False,0,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",1,4,5,Sri Lanka,Ireland,K Mishara,P Nissanka,MR Adair,0,0,5,False,97,28,False,0,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",1,4,6,Sri Lanka,Ireland,K Mishara,P Nissanka,MR Adair,0,0,6,False,96,28,True,1,163,143,164,,,,,,caught,K Mishara,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",1,5,1,Sri Lanka,Ireland,P Nissanka,BKG Mendis,MJ Humphreys,1,0,1,False,95,29,False,1,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",1,5,2,Sri Lanka,Ireland,BKG Mendis,P Nissanka,MJ Humphreys,1,0,2,False,94,30,False,1,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",1,5,3,Sri Lanka,Ireland,P Nissanka,BKG Mendis,MJ Humphreys,6,0,3,False,93,36,False,1,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",1,5,4,Sri Lanka,Ireland,P Nissanka,BKG Mendis,MJ Humphreys,1,0,4,False,92,37,False,1,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",1,5,5,Sri Lanka,Ireland,BKG Mendis,P Nissanka,MJ Humphreys,1,0,5,False,91,38,False,1,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",1,5,6,Sri Lanka,Ireland,P Nissanka,BKG Mendis,MJ Humphreys,0,0,6,False,90,38,False,1,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",1,6,1,Sri Lanka,Ireland,BKG Mendis,P Nissanka,BJ McCarthy,0,0,1,False,89,38,False,1,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",1,6,2,Sri Lanka,Ireland,BKG Mendis,P Nissanka,BJ McCarthy,4,0,2,False,88,42,False,1,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",1,6,3,Sri Lanka,Ireland,BKG Mendis,P Nissanka,BJ McCarthy,0,0,3,False,87,42,False,1,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",1,6,4,Sri Lanka,Ireland,BKG Mendis,P Nissanka,BJ McCarthy,4,0,4,False,86,46,False,1,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",1,6,5,Sri Lanka,Ireland,BKG Mendis,P Nissanka,BJ McCarthy,0,0,5,False,85,46,False,1,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",1,6,6,Sri Lanka,Ireland,BKG Mendis,P Nissanka,BJ McCarthy,4,0,6,False,84,50,False,1,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",1,7,1,Sri Lanka,Ireland,P Nissanka,BKG Mendis,GH Dockrell,0,0,1,False,83,50,False,1,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",1,7,2,Sri Lanka,Ireland,P Nissanka,BKG Mendis,GH Dockrell,1,0,2,False,82,51,False,1,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",1,7,3,Sri Lanka,Ireland,BKG Mendis,P Nissanka,GH Dockrell,1,0,3,False,81,52,False,1,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",1,7,4,Sri Lanka,Ireland,P Nissanka,BKG Mendis,GH Dockrell,1,0,4,False,80,53,False,1,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",1,7,5,Sri Lanka,Ireland,BKG Mendis,P Nissanka,GH Dockrell,0,0,5,False,79,53,False,1,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",1,7,6,Sri Lanka,Ireland,BKG Mendis,P Nissanka,GH Dockrell,1,0,6,False,78,54,False,1,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",1,8,1,Sri Lanka,Ireland,BKG Mendis,P Nissanka,GJ Delany,2,0,1,False,77,56,False,1,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",1,8,2,Sri Lanka,Ireland,BKG Mendis,P Nissanka,GJ Delany,1,0,2,False,76,57,False,1,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",1,8,3,Sri Lanka,Ireland,P Nissanka,BKG Mendis,GJ Delany,1,0,3,False,75,58,False,1,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",1,8,4,Sri Lanka,Ireland,BKG Mendis,P Nissanka,GJ Delany,1,0,4,False,74,59,False,1,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",1,8,5,Sri Lanka,Ireland,P Nissanka,BKG Mendis,GJ Delany,1,0,5,False,73,60,False,1,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",1,8,6,Sri Lanka,Ireland,BKG Mendis,P Nissanka,GJ Delany,1,0,6,False,72,61,False,1,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",1,9,1,Sri Lanka,Ireland,BKG Mendis,P Nissanka,GH Dockrell,1,0,1,False,71,62,False,1,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",1,9,2,Sri Lanka,Ireland,P Nissanka,BKG Mendis,GH Dockrell,0,0,2,False,70,62,True,2,163,143,164,,,,,,caught,P Nissanka,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",1,9,3,Sri Lanka,Ireland,P Rathnayake,BKG Mendis,GH Dockrell,0,0,3,False,69,62,False,2,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",1,9,4,Sri Lanka,Ireland,P Rathnayake,BKG Mendis,GH Dockrell,0,0,4,False,68,62,False,2,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",1,9,5,Sri Lanka,Ireland,P Rathnayake,BKG Mendis,GH Dockrell,1,0,5,False,67,63,False,2,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",1,9,6,Sri Lanka,Ireland,BKG Mendis,P Rathnayake,GH Dockrell,0,0,6,False,66,63,False,2,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",1,10,1,Sri Lanka,Ireland,P Rathnayake,BKG Mendis,GJ Delany,1,0,1,False,65,64,False,2,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",1,10,2,Sri Lanka,Ireland,BKG Mendis,P Rathnayake,GJ Delany,1,0,2,False,64,65,False,2,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",1,10,3,Sri Lanka,Ireland,P Rathnayake,BKG Mendis,GJ Delany,2,0,3,False,63,67,False,2,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",1,10,4,Sri Lanka,Ireland,P Rathnayake,BKG Mendis,GJ Delany,0,0,4,False,62,67,False,2,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",1,10,5,Sri Lanka,Ireland,P Rathnayake,BKG Mendis,GJ Delany,0,0,5,False,61,67,False,2,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",1,10,6,Sri Lanka,Ireland,P Rathnayake,BKG Mendis,GJ Delany,1,0,6,False,60,68,False,2,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",1,11,1,Sri Lanka,Ireland,P Rathnayake,BKG Mendis,GH Dockrell,0,0,1,False,59,68,True,3,163,143,164,,,,,,bowled,P Rathnayake,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",1,11,2,Sri Lanka,Ireland,DN Wellalage,BKG Mendis,GH Dockrell,0,0,2,False,58,68,False,3,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",1,11,3,Sri Lanka,Ireland,DN Wellalage,BKG Mendis,GH Dockrell,0,0,3,False,57,68,False,3,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",1,11,4,Sri Lanka,Ireland,DN Wellalage,BKG Mendis,GH Dockrell,1,0,4,False,56,69,False,3,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",1,11,5,Sri Lanka,Ireland,BKG Mendis,DN Wellalage,GH Dockrell,1,0,5,False,55,70,False,3,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",1,11,6,Sri Lanka,Ireland,DN Wellalage,BKG Mendis,GH Dockrell,1,0,6,False,54,71,False,3,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",1,12,1,Sri Lanka,Ireland,DN Wellalage,BKG Mendis,HT Tector,1,0,1,False,53,72,False,3,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",1,12,2,Sri Lanka,Ireland,BKG Mendis,DN Wellalage,HT Tector,1,0,2,False,52,73,False,3,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",1,12,3,Sri Lanka,Ireland,DN Wellalage,BKG Mendis,HT Tector,0,0,3,False,51,73,False,3,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",1,12,4,Sri Lanka,Ireland,DN Wellalage,BKG Mendis,HT Tector,1,0,4,False,50,74,False,3,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",1,12,5,Sri Lanka,Ireland,BKG Mendis,DN Wellalage,HT Tector,0,0,5,False,49,74,False,3,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",1,12,6,Sri Lanka,Ireland,BKG Mendis,DN Wellalage,HT Tector,2,0,6,False,48,76,False,3,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",1,13,1,Sri Lanka,Ireland,DN Wellalage,BKG Mendis,GH Dockrell,1,0,1,False,47,77,False,3,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",1,13,2,Sri Lanka,Ireland,BKG Mendis,DN Wellalage,GH Dockrell,1,0,2,False,46,78,False,3,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",1,13,3,Sri Lanka,Ireland,DN Wellalage,BKG Mendis,GH Dockrell,1,0,3,False,45,79,False,3,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",1,13,4,Sri Lanka,Ireland,BKG Mendis,DN Wellalage,GH Dockrell,1,0,4,False,44,80,False,3,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",1,13,5,Sri Lanka,Ireland,DN Wellalage,BKG Mendis,GH Dockrell,0,1,4,True,44,81,False,3,163,143,164,1.0,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",1,13,6,Sri Lanka,Ireland,DN Wellalage,BKG Mendis,GH Dockrell,2,0,5,False,43,83,False,3,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",1,13,7,Sri Lanka,Ireland,DN Wellalage,BKG Mendis,GH Dockrell,1,0,6,False,42,84,False,3,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",1,14,1,Sri Lanka,Ireland,DN Wellalage,BKG Mendis,GJ Delany,1,0,1,False,41,85,False,3,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",1,14,2,Sri Lanka,Ireland,BKG Mendis,DN Wellalage,GJ Delany,0,0,2,False,40,85,False,3,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",1,14,3,Sri Lanka,Ireland,BKG Mendis,DN Wellalage,GJ Delany,0,0,3,False,39,85,False,3,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",1,14,4,Sri Lanka,Ireland,BKG Mendis,DN Wellalage,GJ Delany,1,0,4,False,38,86,False,3,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",1,14,5,Sri Lanka,Ireland,DN Wellalage,BKG Mendis,GJ Delany,0,0,5,False,37,86,True,4,163,143,164,,,,,,caught,DN Wellalage,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",1,14,6,Sri Lanka,Ireland,PHKD Mendis,BKG Mendis,GJ Delany,1,0,6,False,36,87,False,4,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",1,15,1,Sri Lanka,Ireland,PHKD Mendis,BKG Mendis,MJ Humphreys,1,0,1,False,35,88,False,4,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",1,15,2,Sri Lanka,Ireland,BKG Mendis,PHKD Mendis,MJ Humphreys,1,0,2,False,34,89,False,4,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",1,15,3,Sri Lanka,Ireland,PHKD Mendis,BKG Mendis,MJ Humphreys,1,0,3,False,33,90,False,4,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",1,15,4,Sri Lanka,Ireland,BKG Mendis,PHKD Mendis,MJ Humphreys,1,0,4,False,32,91,False,4,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",1,15,5,Sri Lanka,Ireland,PHKD Mendis,BKG Mendis,MJ Humphreys,2,0,5,False,31,93,False,4,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",1,15,6,Sri Lanka,Ireland,PHKD Mendis,BKG Mendis,MJ Humphreys,2,0,6,False,30,95,False,4,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",1,16,1,Sri Lanka,Ireland,BKG Mendis,PHKD Mendis,GJ Delany,1,0,1,False,29,96,False,4,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",1,16,2,Sri Lanka,Ireland,PHKD Mendis,BKG Mendis,GJ Delany,0,0,2,False,28,96,False,4,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",1,16,3,Sri Lanka,Ireland,PHKD Mendis,BKG Mendis,GJ Delany,4,0,3,False,27,100,False,4,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",1,16,4,Sri Lanka,Ireland,PHKD Mendis,BKG Mendis,GJ Delany,1,0,4,False,26,101,False,4,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",1,16,5,Sri Lanka,Ireland,BKG Mendis,PHKD Mendis,GJ Delany,1,0,5,False,25,102,False,4,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",1,16,6,Sri Lanka,Ireland,PHKD Mendis,BKG Mendis,GJ Delany,2,0,6,False,24,104,False,4,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",1,17,1,Sri Lanka,Ireland,BKG Mendis,PHKD Mendis,MJ Humphreys,2,0,1,False,23,106,False,4,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",1,17,2,Sri Lanka,Ireland,BKG Mendis,PHKD Mendis,MJ Humphreys,2,0,2,False,22,108,False,4,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",1,17,3,Sri Lanka,Ireland,BKG Mendis,PHKD Mendis,MJ Humphreys,3,0,3,False,21,111,False,4,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",1,17,4,Sri Lanka,Ireland,PHKD Mendis,BKG Mendis,MJ Humphreys,6,0,4,False,20,117,False,4,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",1,17,5,Sri Lanka,Ireland,PHKD Mendis,BKG Mendis,MJ Humphreys,4,0,5,False,19,121,False,4,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",1,17,6,Sri Lanka,Ireland,PHKD Mendis,BKG Mendis,MJ Humphreys,4,0,6,False,18,125,False,4,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",1,18,1,Sri Lanka,Ireland,BKG Mendis,PHKD Mendis,MR Adair,1,0,1,False,17,126,False,4,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",1,18,2,Sri Lanka,Ireland,PHKD Mendis,BKG Mendis,MR Adair,1,0,2,False,16,127,False,4,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",1,18,3,Sri Lanka,Ireland,BKG Mendis,PHKD Mendis,MR Adair,1,0,3,False,15,128,False,4,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",1,18,4,Sri Lanka,Ireland,PHKD Mendis,BKG Mendis,MR Adair,1,0,4,False,14,129,False,4,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",1,18,5,Sri Lanka,Ireland,BKG Mendis,PHKD Mendis,MR Adair,2,0,5,False,13,131,False,4,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",1,18,6,Sri Lanka,Ireland,BKG Mendis,PHKD Mendis,MR Adair,4,0,6,False,12,135,False,4,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",1,19,1,Sri Lanka,Ireland,PHKD Mendis,BKG Mendis,BJ McCarthy,4,1,0,True,12,140,False,4,163,143,164,,1.0,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",1,19,2,Sri Lanka,Ireland,PHKD Mendis,BKG Mendis,BJ McCarthy,0,1,0,True,12,141,False,4,163,143,164,1.0,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",1,19,3,Sri Lanka,Ireland,PHKD Mendis,BKG Mendis,BJ McCarthy,0,1,0,True,12,142,False,4,163,143,164,1.0,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",1,19,4,Sri Lanka,Ireland,PHKD Mendis,BKG Mendis,BJ McCarthy,6,0,1,False,11,148,False,4,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",1,19,5,Sri Lanka,Ireland,PHKD Mendis,BKG Mendis,BJ McCarthy,2,0,2,False,10,150,False,4,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",1,19,6,Sri Lanka,Ireland,PHKD Mendis,BKG Mendis,BJ McCarthy,0,1,2,True,10,151,False,4,163,143,164,1.0,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",1,19,7,Sri Lanka,Ireland,PHKD Mendis,BKG Mendis,BJ McCarthy,2,0,3,False,9,153,False,4,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",1,19,8,Sri Lanka,Ireland,PHKD Mendis,BKG Mendis,BJ McCarthy,0,0,4,False,8,153,True,5,163,143,164,,,,,,caught,PHKD Mendis,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",1,19,9,Sri Lanka,Ireland,MD Shanaka,BKG Mendis,BJ McCarthy,0,0,5,False,7,153,True,6,163,143,164,,,,,,caught,MD Shanaka,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",1,19,10,Sri Lanka,Ireland,PWH de Silva,BKG Mendis,BJ McCarthy,0,1,5,True,7,154,False,6,163,143,164,1.0,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",1,19,11,Sri Lanka,Ireland,PWH de Silva,BKG Mendis,BJ McCarthy,0,0,6,False,6,154,False,6,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",1,20,1,Sri Lanka,Ireland,BKG Mendis,PWH de Silva,MR Adair,4,0,1,False,5,158,False,6,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",1,20,2,Sri Lanka,Ireland,BKG Mendis,PWH de Silva,MR Adair,0,0,2,False,4,158,False,6,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",1,20,3,Sri Lanka,Ireland,BKG Mendis,PWH de Silva,MR Adair,1,0,3,False,3,159,False,6,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",1,20,4,Sri Lanka,Ireland,PWH de Silva,BKG Mendis,MR Adair,1,0,4,False,2,160,False,6,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",1,20,5,Sri Lanka,Ireland,BKG Mendis,PWH de Silva,MR Adair,0,0,5,False,1,160,False,6,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",1,20,6,Sri Lanka,Ireland,BKG Mendis,PWH de Silva,MR Adair,0,1,5,True,1,161,False,6,163,143,164,1.0,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",1,20,7,Sri Lanka,Ireland,BKG Mendis,PWH de Silva,MR Adair,2,0,6,False,0,163,False,6,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",2,1,1,Ireland,Sri Lanka,PR Stirling,GR Adair,PVD Chameera,0,0,1,False,119,0,False,0,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",2,1,2,Ireland,Sri Lanka,PR Stirling,GR Adair,PVD Chameera,0,0,2,False,118,0,False,0,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",2,1,3,Ireland,Sri Lanka,PR Stirling,GR Adair,PVD Chameera,0,0,3,False,117,0,False,0,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",2,1,4,Ireland,Sri Lanka,PR Stirling,GR Adair,PVD Chameera,1,0,4,False,116,1,False,0,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",2,1,5,Ireland,Sri Lanka,GR Adair,PR Stirling,PVD Chameera,0,0,5,False,115,1,False,0,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",2,1,6,Ireland,Sri Lanka,GR Adair,PR Stirling,PVD Chameera,4,0,6,False,114,5,False,0,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",2,2,1,Ireland,Sri Lanka,PR Stirling,GR Adair,M Theekshana,0,1,1,False,113,6,False,0,163,143,164,,,,1.0,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",2,2,2,Ireland,Sri Lanka,GR Adair,PR Stirling,M Theekshana,0,0,2,False,112,6,False,0,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",2,2,3,Ireland,Sri Lanka,GR Adair,PR Stirling,M Theekshana,1,0,3,False,111,7,False,0,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",2,2,4,Ireland,Sri Lanka,PR Stirling,GR Adair,M Theekshana,0,0,4,False,110,7,False,0,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",2,2,5,Ireland,Sri Lanka,PR Stirling,GR Adair,M Theekshana,1,0,5,False,109,8,False,0,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",2,2,6,Ireland,Sri Lanka,GR Adair,PR Stirling,M Theekshana,4,0,6,False,108,12,False,0,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",2,3,1,Ireland,Sri Lanka,PR Stirling,GR Adair,M Pathirana,0,1,0,True,108,13,False,0,163,143,164,1.0,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",2,3,2,Ireland,Sri Lanka,PR Stirling,GR Adair,M Pathirana,0,1,1,False,107,14,False,0,163,143,164,,,,1.0,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",2,3,3,Ireland,Sri Lanka,GR Adair,PR Stirling,M Pathirana,1,0,2,False,106,15,False,0,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",2,3,4,Ireland,Sri Lanka,PR Stirling,GR Adair,M Pathirana,4,0,3,False,105,19,False,0,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",2,3,5,Ireland,Sri Lanka,PR Stirling,GR Adair,M Pathirana,0,0,4,False,104,19,False,0,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",2,3,6,Ireland,Sri Lanka,PR Stirling,GR Adair,M Pathirana,0,1,5,False,103,20,False,0,163,143,164,,,,1.0,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",2,3,7,Ireland,Sri Lanka,GR Adair,PR Stirling,M Pathirana,4,0,6,False,102,24,False,0,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",2,4,1,Ireland,Sri Lanka,PR Stirling,GR Adair,M Theekshana,0,0,1,False,101,24,False,0,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",2,4,2,Ireland,Sri Lanka,PR Stirling,GR Adair,M Theekshana,0,0,2,False,100,24,True,1,163,143,164,,,,,,bowled,PR Stirling,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",2,4,3,Ireland,Sri Lanka,HT Tector,GR Adair,M Theekshana,1,0,3,False,99,25,False,1,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",2,4,4,Ireland,Sri Lanka,GR Adair,HT Tector,M Theekshana,1,0,4,False,98,26,False,1,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",2,4,5,Ireland,Sri Lanka,HT Tector,GR Adair,M Theekshana,0,0,5,False,97,26,False,1,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",2,4,6,Ireland,Sri Lanka,HT Tector,GR Adair,M Theekshana,1,0,6,False,96,27,False,1,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",2,5,1,Ireland,Sri Lanka,HT Tector,GR Adair,DN Wellalage,0,0,1,False,95,27,False,1,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",2,5,2,Ireland,Sri Lanka,HT Tector,GR Adair,DN Wellalage,1,0,2,False,94,28,False,1,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",2,5,3,Ireland,Sri Lanka,GR Adair,HT Tector,DN Wellalage,0,0,3,False,93,28,False,1,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",2,5,4,Ireland,Sri Lanka,GR Adair,HT Tector,DN Wellalage,6,0,4,False,92,34,False,1,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",2,5,5,Ireland,Sri Lanka,GR Adair,HT Tector,DN Wellalage,0,0,5,False,91,34,False,1,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",2,5,6,Ireland,Sri Lanka,GR Adair,HT Tector,DN Wellalage,0,0,6,False,90,34,False,1,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",2,6,1,Ireland,Sri Lanka,HT Tector,GR Adair,PVD Chameera,2,0,1,False,89,36,False,1,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",2,6,2,Ireland,Sri Lanka,HT Tector,GR Adair,PVD Chameera,1,0,2,False,88,37,False,1,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",2,6,3,Ireland,Sri Lanka,GR Adair,HT Tector,PVD Chameera,4,0,3,False,87,41,False,1,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",2,6,4,Ireland,Sri Lanka,GR Adair,HT Tector,PVD Chameera,0,0,4,False,86,41,False,1,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",2,6,5,Ireland,Sri Lanka,GR Adair,HT Tector,PVD Chameera,4,0,5,False,85,45,False,1,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",2,6,6,Ireland,Sri Lanka,GR Adair,HT Tector,PVD Chameera,0,0,6,False,84,45,False,1,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",2,7,1,Ireland,Sri Lanka,HT Tector,GR Adair,DN Wellalage,1,0,1,False,83,46,False,1,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",2,7,2,Ireland,Sri Lanka,GR Adair,HT Tector,DN Wellalage,0,1,1,True,83,47,False,1,163,143,164,1.0,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",2,7,3,Ireland,Sri Lanka,GR Adair,HT Tector,DN Wellalage,1,0,2,False,82,48,False,1,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",2,7,4,Ireland,Sri Lanka,HT Tector,GR Adair,DN Wellalage,2,0,3,False,81,50,False,1,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",2,7,5,Ireland,Sri Lanka,HT Tector,GR Adair,DN Wellalage,1,0,4,False,80,51,False,1,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",2,7,6,Ireland,Sri Lanka,GR Adair,HT Tector,DN Wellalage,1,0,5,False,79,52,False,1,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",2,7,7,Ireland,Sri Lanka,HT Tector,GR Adair,DN Wellalage,0,0,6,False,78,52,False,1,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",2,8,1,Ireland,Sri Lanka,GR Adair,HT Tector,PWH de Silva,0,0,1,False,77,52,False,1,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",2,8,2,Ireland,Sri Lanka,GR Adair,HT Tector,PWH de Silva,1,0,2,False,76,53,False,1,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",2,8,3,Ireland,Sri Lanka,HT Tector,GR Adair,PWH de Silva,1,0,3,False,75,54,False,1,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",2,8,4,Ireland,Sri Lanka,GR Adair,HT Tector,PWH de Silva,2,0,4,False,74,56,False,1,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",2,8,5,Ireland,Sri Lanka,GR Adair,HT Tector,PWH de Silva,0,0,5,False,73,56,False,1,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",2,8,6,Ireland,Sri Lanka,GR Adair,HT Tector,PWH de Silva,0,0,6,False,72,56,True,2,163,143,164,,,,,,bowled,GR Adair,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",2,9,1,Ireland,Sri Lanka,HT Tector,L Tucker,MD Shanaka,1,0,1,False,71,57,False,2,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",2,9,2,Ireland,Sri Lanka,L Tucker,HT Tector,MD Shanaka,0,0,2,False,70,57,False,2,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",2,9,3,Ireland,Sri Lanka,L Tucker,HT Tector,MD Shanaka,1,0,3,False,69,58,False,2,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",2,9,4,Ireland,Sri Lanka,HT Tector,L Tucker,MD Shanaka,2,0,4,False,68,60,False,2,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",2,9,5,Ireland,Sri Lanka,HT Tector,L Tucker,MD Shanaka,0,0,5,False,67,60,False,2,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",2,9,6,Ireland,Sri Lanka,HT Tector,L Tucker,MD Shanaka,2,0,6,False,66,62,False,2,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",2,10,1,Ireland,Sri Lanka,L Tucker,HT Tector,M Pathirana,1,0,1,False,65,63,False,2,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",2,10,2,Ireland,Sri Lanka,HT Tector,L Tucker,M Pathirana,2,0,2,False,64,65,False,2,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",2,10,3,Ireland,Sri Lanka,HT Tector,L Tucker,M Pathirana,1,0,3,False,63,66,False,2,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",2,10,4,Ireland,Sri Lanka,L Tucker,HT Tector,M Pathirana,1,0,4,False,62,67,False,2,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",2,10,5,Ireland,Sri Lanka,HT Tector,L Tucker,M Pathirana,4,0,5,False,61,71,False,2,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",2,10,6,Ireland,Sri Lanka,HT Tector,L Tucker,M Pathirana,1,0,6,False,60,72,False,2,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",2,11,1,Ireland,Sri Lanka,HT Tector,L Tucker,MD Shanaka,2,0,1,False,59,74,False,2,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",2,11,2,Ireland,Sri Lanka,HT Tector,L Tucker,MD Shanaka,1,0,2,False,58,75,False,2,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",2,11,3,Ireland,Sri Lanka,L Tucker,HT Tector,MD Shanaka,0,0,3,False,57,75,False,2,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",2,11,4,Ireland,Sri Lanka,L Tucker,HT Tector,MD Shanaka,1,0,4,False,56,76,False,2,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",2,11,5,Ireland,Sri Lanka,HT Tector,L Tucker,MD Shanaka,1,0,5,False,55,77,False,2,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",2,11,6,Ireland,Sri Lanka,L Tucker,HT Tector,MD Shanaka,1,0,6,False,54,78,False,2,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",2,12,1,Ireland,Sri Lanka,L Tucker,HT Tector,DN Wellalage,1,0,1,False,53,79,False,2,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",2,12,2,Ireland,Sri Lanka,HT Tector,L Tucker,DN Wellalage,2,0,2,False,52,81,False,2,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",2,12,3,Ireland,Sri Lanka,HT Tector,L Tucker,DN Wellalage,1,0,3,False,51,82,False,2,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",2,12,4,Ireland,Sri Lanka,L Tucker,HT Tector,DN Wellalage,0,0,4,False,50,82,False,2,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",2,12,5,Ireland,Sri Lanka,L Tucker,HT Tector,DN Wellalage,0,0,5,False,49,82,False,2,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",2,12,6,Ireland,Sri Lanka,L Tucker,HT Tector,DN Wellalage,2,0,6,False,48,84,False,2,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",2,13,1,Ireland,Sri Lanka,HT Tector,L Tucker,PWH de Silva,1,0,1,False,47,85,False,2,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",2,13,2,Ireland,Sri Lanka,L Tucker,HT Tector,PWH de Silva,4,0,2,False,46,89,False,2,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",2,13,3,Ireland,Sri Lanka,L Tucker,HT Tector,PWH de Silva,1,0,3,False,45,90,False,2,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",2,13,4,Ireland,Sri Lanka,HT Tector,L Tucker,PWH de Silva,1,0,4,False,44,91,False,2,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",2,13,5,Ireland,Sri Lanka,L Tucker,HT Tector,PWH de Silva,2,0,5,False,43,93,False,2,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",2,13,6,Ireland,Sri Lanka,L Tucker,HT Tector,PWH de Silva,1,0,6,False,42,94,False,2,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",2,14,1,Ireland,Sri Lanka,L Tucker,HT Tector,M Theekshana,4,0,1,False,41,98,False,2,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",2,14,2,Ireland,Sri Lanka,L Tucker,HT Tector,M Theekshana,1,0,2,False,40,99,False,2,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",2,14,3,Ireland,Sri Lanka,HT Tector,L Tucker,M Theekshana,0,0,3,False,39,99,False,2,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",2,14,4,Ireland,Sri Lanka,HT Tector,L Tucker,M Theekshana,2,0,4,False,38,101,False,2,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",2,14,5,Ireland,Sri Lanka,HT Tector,L Tucker,M Theekshana,2,0,5,False,37,103,False,2,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",2,14,6,Ireland,Sri Lanka,HT Tector,L Tucker,M Theekshana,1,0,6,False,36,104,False,2,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",2,15,1,Ireland,Sri Lanka,HT Tector,L Tucker,DN Wellalage,1,0,1,False,35,105,False,2,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",2,15,2,Ireland,Sri Lanka,L Tucker,HT Tector,DN Wellalage,0,0,2,False,34,105,True,3,163,143,164,,,,,,caught,L Tucker,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",2,15,3,Ireland,Sri Lanka,C Campher,HT Tector,DN Wellalage,0,1,3,False,33,106,False,3,163,143,164,,,1.0,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",2,15,4,Ireland,Sri Lanka,HT Tector,C Campher,DN Wellalage,1,0,4,False,32,107,False,3,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",2,15,5,Ireland,Sri Lanka,C Campher,HT Tector,DN Wellalage,2,0,5,False,31,109,False,3,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",2,15,6,Ireland,Sri Lanka,C Campher,HT Tector,DN Wellalage,4,0,6,False,30,113,False,3,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",2,16,1,Ireland,Sri Lanka,HT Tector,C Campher,PWH de Silva,0,0,1,False,29,113,True,4,163,143,164,,,,,,caught,HT Tector,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",2,16,2,Ireland,Sri Lanka,BF Calitz,C Campher,PWH de Silva,1,0,2,False,28,114,False,4,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",2,16,3,Ireland,Sri Lanka,C Campher,BF Calitz,PWH de Silva,0,0,3,False,27,114,False,4,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",2,16,4,Ireland,Sri Lanka,C Campher,BF Calitz,PWH de Silva,1,0,4,False,26,115,False,4,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",2,16,5,Ireland,Sri Lanka,BF Calitz,C Campher,PWH de Silva,1,0,5,False,25,116,False,4,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",2,16,6,Ireland,Sri Lanka,C Campher,BF Calitz,PWH de Silva,1,0,6,False,24,117,False,4,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",2,17,1,Ireland,Sri Lanka,C Campher,BF Calitz,M Theekshana,1,0,1,False,23,118,False,4,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",2,17,2,Ireland,Sri Lanka,BF Calitz,C Campher,M Theekshana,2,0,2,False,22,120,False,4,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",2,17,3,Ireland,Sri Lanka,BF Calitz,C Campher,M Theekshana,0,0,3,False,21,120,True,5,163,143,164,,,,,,stumped,BF Calitz,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",2,17,4,Ireland,Sri Lanka,GJ Delany,C Campher,M Theekshana,0,0,4,False,20,120,True,6,163,143,164,,,,,,caught,GJ Delany,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",2,17,5,Ireland,Sri Lanka,GH Dockrell,C Campher,M Theekshana,1,0,5,False,19,121,False,6,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",2,17,6,Ireland,Sri Lanka,C Campher,GH Dockrell,M Theekshana,0,0,6,False,18,121,False,6,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",2,18,1,Ireland,Sri Lanka,GH Dockrell,C Campher,PWH de Silva,1,0,1,False,17,122,False,6,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",2,18,2,Ireland,Sri Lanka,C Campher,GH Dockrell,PWH de Silva,2,0,2,False,16,124,False,6,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",2,18,3,Ireland,Sri Lanka,C Campher,GH Dockrell,PWH de Silva,2,0,3,False,15,126,False,6,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",2,18,4,Ireland,Sri Lanka,C Campher,GH Dockrell,PWH de Silva,0,0,4,False,14,126,True,7,163,143,164,,,,,,caught,C Campher,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",2,18,5,Ireland,Sri Lanka,MR Adair,GH Dockrell,PWH de Silva,0,0,5,False,13,126,False,7,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",2,18,6,Ireland,Sri Lanka,MR Adair,GH Dockrell,PWH de Silva,2,0,6,False,12,128,False,7,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",2,19,1,Ireland,Sri Lanka,GH Dockrell,MR Adair,PVD Chameera,0,0,1,False,11,128,False,7,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",2,19,2,Ireland,Sri Lanka,GH Dockrell,MR Adair,PVD Chameera,1,0,2,False,10,129,False,7,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",2,19,3,Ireland,Sri Lanka,MR Adair,GH Dockrell,PVD Chameera,2,0,3,False,9,131,False,7,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",2,19,4,Ireland,Sri Lanka,MR Adair,GH Dockrell,PVD Chameera,2,0,4,False,8,133,False,7,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",2,19,5,Ireland,Sri Lanka,MR Adair,GH Dockrell,PVD Chameera,4,0,5,False,7,137,False,7,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",2,19,6,Ireland,Sri Lanka,MR Adair,GH Dockrell,PVD Chameera,0,0,6,False,6,137,True,8,163,143,164,,,,,,caught,MR Adair,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",2,20,1,Ireland,Sri Lanka,GH Dockrell,BJ McCarthy,M Pathirana,2,0,1,False,5,139,False,8,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",2,20,2,Ireland,Sri Lanka,GH Dockrell,BJ McCarthy,M Pathirana,4,0,2,False,4,143,False,8,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",2,20,3,Ireland,Sri Lanka,GH Dockrell,BJ McCarthy,M Pathirana,0,0,3,False,3,143,True,9,163,143,164,,,,,,caught,GH Dockrell,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",2,20,4,Ireland,Sri Lanka,MJ Humphreys,BJ McCarthy,M Pathirana,0,0,4,False,2,143,False,9,163,143,164,,,,,,,,,,drop
+1512724,2025/26,2026-02-08,"R Premadasa Stadium, Colombo",2,20,5,Ireland,Sri Lanka,MJ Humphreys,BJ McCarthy,M Pathirana,0,0,5,False,1,143,True,10,163,143,164,,,,,,bowled,MJ Humphreys,,,drop

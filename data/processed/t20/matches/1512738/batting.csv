@@ -1,0 +1,17 @@
+match_id,date,innings,team,player,runs,balls_faced,strike_rate,fours,sixes,dismissed,dismissal_kind
+1512738,2026-02-13,1,Canada,H Thaker,50,43,116.28,2,3,True,caught
+1512738,2026-02-13,1,Canada,NS Dhaliwal,34,29,117.24,4,0,False,
+1512738,2026-02-13,1,Canada,S Movva,21,21,100.0,2,0,True,caught
+1512738,2026-02-13,1,Canada,DS Bajwa,11,13,84.62,2,0,True,caught
+1512738,2026-02-13,1,Canada,D Heyliger,6,2,300.0,0,1,False,
+1512738,2026-02-13,1,Canada,Saad Bin Zafar,5,4,125.0,1,0,True,caught
+1512738,2026-02-13,1,Canada,YS Samra,5,5,100.0,0,0,True,caught
+1512738,2026-02-13,1,Canada,Jaskaran Singh,4,4,100.0,0,0,False,
+1512738,2026-02-13,1,Canada,NR Kirton,4,8,50.0,0,0,True,caught
+1512738,2026-02-13,2,United Arab Emirates,A Sharma,74,57,129.82,6,3,False,
+1512738,2026-02-13,2,United Arab Emirates,Shoaib Khan,51,30,170.0,4,4,True,caught
+1512738,2026-02-13,2,United Arab Emirates,A Sharafu,5,13,38.46,0,0,True,caught
+1512738,2026-02-13,2,United Arab Emirates,H Kaushik,5,9,55.56,1,0,True,caught
+1512738,2026-02-13,2,United Arab Emirates,MR Kumar,4,6,66.67,0,0,True,caught
+1512738,2026-02-13,2,United Arab Emirates,Waseem Muhammad,4,8,50.0,0,0,True,caught
+1512738,2026-02-13,2,United Arab Emirates,Muhammad Arfan,1,1,100.0,0,0,False,

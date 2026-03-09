@@ -1,0 +1,20 @@
+match_id,date,innings,team,player,runs,balls_faced,strike_rate,fours,sixes,dismissed,dismissal_kind
+1512745,2026-02-15,1,India,Ishan Kishan,77,40,192.5,10,3,True,bowled
+1512745,2026-02-15,1,India,SA Yadav,32,30,106.67,3,0,True,caught
+1512745,2026-02-15,1,India,S Dube,27,17,158.82,3,1,False,
+1512745,2026-02-15,1,India,Tilak Varma,25,24,104.17,2,1,True,lbw
+1512745,2026-02-15,1,India,RK Singh,11,4,275.0,1,1,False,
+1512745,2026-02-15,1,India,AR Patel,0,1,0.0,0,0,True,caught
+1512745,2026-02-15,1,India,Abhishek Sharma,0,4,0.0,0,0,True,caught
+1512745,2026-02-15,1,India,HH Pandya,0,1,0.0,0,0,True,caught
+1512745,2026-02-15,2,Pakistan,Usman Khan,44,34,129.41,6,1,True,stumped
+1512745,2026-02-15,2,Pakistan,Shaheen Shah Afridi,23,20,115.0,2,1,False,
+1512745,2026-02-15,2,Pakistan,Shadab Khan,14,15,93.33,1,0,True,caught
+1512745,2026-02-15,2,Pakistan,Faheem Ashraf,10,15,66.67,1,0,True,caught
+1512745,2026-02-15,2,Pakistan,Saim Ayub,6,2,300.0,0,1,True,lbw
+1512745,2026-02-15,2,Pakistan,Babar Azam,5,8,62.5,0,0,True,bowled
+1512745,2026-02-15,2,Pakistan,Agha Salman,4,4,100.0,1,0,True,caught
+1512745,2026-02-15,2,Pakistan,Mohammad Nawaz,4,5,80.0,1,0,True,caught
+1512745,2026-02-15,2,Pakistan,Abrar Ahmed,0,1,0.0,0,0,True,lbw
+1512745,2026-02-15,2,Pakistan,Sahibzada Farhan,0,4,0.0,0,0,True,caught
+1512745,2026-02-15,2,Pakistan,Usman Tariq,0,3,0.0,0,0,True,bowled

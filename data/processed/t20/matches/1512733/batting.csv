@@ -1,0 +1,20 @@
+match_id,date,innings,team,player,runs,balls_faced,strike_rate,fours,sixes,dismissed,dismissal_kind
+1512733,2026-02-11,1,West Indies,SE Rutherford,76,45,168.89,2,7,False,
+1512733,2026-02-11,1,West Indies,RL Chase,34,29,117.24,6,0,True,lbw
+1512733,2026-02-11,1,West Indies,JO Holder,33,17,194.12,1,4,True,caught
+1512733,2026-02-11,1,West Indies,SO Hetmyer,23,12,191.67,2,2,True,caught
+1512733,2026-02-11,1,West Indies,R Powell,14,13,107.69,2,0,True,caught
+1512733,2026-02-11,1,West Indies,BA King,1,4,25.0,0,0,True,caught
+1512733,2026-02-11,1,West Indies,R Shepherd,1,1,100.0,0,0,False,
+1512733,2026-02-11,1,West Indies,SD Hope,0,5,0.0,0,0,True,caught
+1512733,2026-02-11,2,England,SM Curran,43,30,143.33,3,2,False,
+1512733,2026-02-11,2,England,JG Bethell,33,23,143.48,4,1,True,bowled
+1512733,2026-02-11,2,England,PD Salt,30,15,200.0,4,2,True,caught
+1512733,2026-02-11,2,England,JC Buttler,21,14,150.0,2,1,True,caught
+1512733,2026-02-11,2,England,HC Brook,17,16,106.25,1,0,True,caught and bowled
+1512733,2026-02-11,2,England,JC Archer,6,4,150.0,1,0,True,run out
+1512733,2026-02-11,2,England,J Overton,5,6,83.33,0,0,True,caught
+1512733,2026-02-11,2,England,T Banton,2,4,50.0,0,0,True,caught
+1512733,2026-02-11,2,England,WG Jacks,2,3,66.67,0,0,True,lbw
+1512733,2026-02-11,2,England,LA Dawson,1,1,100.0,0,0,False,
+1512733,2026-02-11,2,England,AU Rashid,0,1,0.0,0,0,True,caught

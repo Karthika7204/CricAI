@@ -1,0 +1,13 @@
+match_id,date,innings,team,player,overs,balls_bowled,wickets,runs_conceded,economy,maidens,wides,no_balls
+1512739,2026-02-13,1,Netherlands,BFW de Leede,4.0,24,3,37,9.25,0,0,0
+1512739,2026-02-13,1,Netherlands,LV van Beek,4.0,24,1,32,8.0,0,2,0
+1512739,2026-02-13,1,Netherlands,K Klein,4.0,24,1,35,8.75,0,0,0
+1512739,2026-02-13,1,Netherlands,FJ Klaassen,3.0,18,1,32,10.67,0,0,0
+1512739,2026-02-13,1,Netherlands,A Dutt,2.0,12,0,24,12.0,0,0,0
+1512739,2026-02-13,1,Netherlands,RE van der Merwe,3.0,18,0,36,12.0,0,1,0
+1512739,2026-02-13,2,United States of America,Harmeet Singh,4.0,24,4,21,5.25,0,0,0
+1512739,2026-02-13,2,United States of America,SC van Schalkwyk,2.5,17,3,21,7.41,0,1,0
+1512739,2026-02-13,2,United States of America,Mohammad Mohsin,3.0,18,2,19,6.33,0,0,0
+1512739,2026-02-13,2,United States of America,NP Kenjige,3.0,18,1,20,6.67,0,1,0
+1512739,2026-02-13,2,United States of America,Shubham Ranjane,1.0,6,0,4,4.0,0,0,0
+1512739,2026-02-13,2,United States of America,Ali Khan,2.0,12,0,18,9.0,0,2,0

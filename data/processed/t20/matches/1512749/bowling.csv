@@ -1,0 +1,13 @@
+match_id,date,innings,team,player,overs,balls_bowled,wickets,runs_conceded,economy,maidens,wides,no_balls
+1512749,2026-02-17,1,New Zealand,JA Duffy,4.0,24,1,25,6.25,0,0,0
+1512749,2026-02-17,1,New Zealand,MJ Henry,4.0,24,1,28,7.0,0,2,0
+1512749,2026-02-17,1,New Zealand,JDS Neesham,4.0,24,1,38,9.5,0,0,0
+1512749,2026-02-17,1,New Zealand,KA Jamieson,4.0,24,1,41,10.25,0,1,0
+1512749,2026-02-17,1,New Zealand,GD Phillips,1.0,6,0,6,6.0,0,0,0
+1512749,2026-02-17,1,New Zealand,CE McConchie,3.0,18,0,35,11.67,0,0,0
+1512749,2026-02-17,2,Canada,Saad Bin Zafar,3.0,18,1,30,10.0,0,1,0
+1512749,2026-02-17,2,Canada,D Heyliger,4.0,24,1,42,10.5,0,3,0
+1512749,2026-02-17,2,Canada,Shivam Sharma,2.0,12,0,23,11.5,0,1,0
+1512749,2026-02-17,2,Canada,Ansh Patel,2.0,12,0,24,12.0,0,0,0
+1512749,2026-02-17,2,Canada,DS Bajwa,2.0,12,0,26,13.0,0,1,1
+1512749,2026-02-17,2,Canada,Jaskaran Singh,2.1,13,0,31,14.31,0,3,1

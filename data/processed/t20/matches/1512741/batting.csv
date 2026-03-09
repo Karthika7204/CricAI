@@ -1,0 +1,19 @@
+match_id,date,innings,team,player,runs,balls_faced,strike_rate,fours,sixes,dismissed,dismissal_kind
+1512741,2026-02-14,1,Scotland,RD Berrington,49,34,144.12,5,2,True,lbw
+1512741,2026-02-14,1,Scotland,MA Jones,33,20,165.0,5,1,True,caught
+1512741,2026-02-14,1,Scotland,TC Bruce,24,18,133.33,1,1,True,caught
+1512741,2026-02-14,1,Scotland,O Davidson,20,17,117.65,2,1,False,
+1512741,2026-02-14,1,Scotland,MH Cross,8,10,80.0,1,0,True,caught
+1512741,2026-02-14,1,Scotland,HG Munsey,4,6,66.67,1,0,True,caught
+1512741,2026-02-14,1,Scotland,BJ Currie,2,5,40.0,0,0,False,
+1512741,2026-02-14,1,Scotland,BTJ Wheal,2,3,66.67,0,0,True,caught
+1512741,2026-02-14,1,Scotland,MRJ Watt,2,4,50.0,0,0,True,bowled
+1512741,2026-02-14,1,Scotland,MA Leask,1,4,25.0,0,0,True,caught
+1512741,2026-02-14,1,Scotland,BJ McMullen,0,2,0.0,0,0,True,caught
+1512741,2026-02-14,2,England,T Banton,63,42,150.0,4,3,False,
+1512741,2026-02-14,2,England,JG Bethell,32,28,114.29,2,1,True,caught
+1512741,2026-02-14,2,England,SM Curran,28,20,140.0,1,2,True,caught
+1512741,2026-02-14,2,England,WG Jacks,16,11,145.45,1,1,False,
+1512741,2026-02-14,2,England,HC Brook,4,4,100.0,0,0,True,caught
+1512741,2026-02-14,2,England,JC Buttler,3,5,60.0,0,0,True,caught
+1512741,2026-02-14,2,England,PD Salt,2,3,66.67,0,0,True,caught

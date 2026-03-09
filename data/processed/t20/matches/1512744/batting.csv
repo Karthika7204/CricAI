@@ -1,0 +1,15 @@
+match_id,date,innings,team,player,runs,balls_faced,strike_rate,fours,sixes,dismissed,dismissal_kind
+1512744,2026-02-15,1,United States of America,SP Krishnamurthi,68,34,200.0,4,6,False,
+1512744,2026-02-15,1,United States of America,MD Patel,52,31,167.74,3,3,True,caught
+1512744,2026-02-15,1,United States of America,Milind Kumar,28,21,133.33,1,1,True,caught
+1512744,2026-02-15,1,United States of America,Shayan Jahangir,22,18,122.22,2,1,True,caught
+1512744,2026-02-15,1,United States of America,SR Mukkamalla,17,18,94.44,2,0,True,caught
+1512744,2026-02-15,1,United States of America,Shubham Ranjane,5,2,250.0,1,0,False,
+1512744,2026-02-15,2,Namibia,L Steenkamp,58,41,141.46,5,3,True,caught
+1512744,2026-02-15,2,Namibia,JJ Smit,31,24,129.17,1,1,True,caught
+1512744,2026-02-15,2,Namibia,JN Loftie-Eaton,28,17,164.71,4,0,True,caught
+1512744,2026-02-15,2,Namibia,JN Frylinck,19,15,126.67,1,1,True,caught and bowled
+1512744,2026-02-15,2,Namibia,ZE Green,18,13,138.46,2,0,True,retired out
+1512744,2026-02-15,2,Namibia,MG Erasmus,6,10,60.0,0,0,True,caught
+1512744,2026-02-15,2,Namibia,R Trumpelmann,3,2,150.0,0,0,False,
+1512744,2026-02-15,2,Namibia,DO Leicher,0,1,0.0,0,0,False,

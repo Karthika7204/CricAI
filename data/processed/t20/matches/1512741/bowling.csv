@@ -1,0 +1,12 @@
+match_id,date,innings,team,player,overs,balls_bowled,wickets,runs_conceded,economy,maidens,wides,no_balls
+1512741,2026-02-14,1,England,AU Rashid,4.0,24,3,36,9.0,0,1,0
+1512741,2026-02-14,1,England,JC Archer,4.0,24,2,25,6.25,0,2,0
+1512741,2026-02-14,1,England,LA Dawson,4.0,24,2,34,8.5,0,1,0
+1512741,2026-02-14,1,England,J Overton,4.0,24,1,24,6.0,0,0,0
+1512741,2026-02-14,1,England,SM Curran,3.4,22,1,33,9.0,0,1,0
+1512741,2026-02-14,2,Scotland,O Davidson,2.0,12,1,12,6.0,0,0,0
+1512741,2026-02-14,2,Scotland,BTJ Wheal,3.2,20,1,23,6.9,0,1,0
+1512741,2026-02-14,2,Scotland,BJ Currie,3.0,18,1,21,7.0,0,1,0
+1512741,2026-02-14,2,Scotland,BJ McMullen,3.0,18,1,23,7.67,0,0,0
+1512741,2026-02-14,2,Scotland,MA Leask,4.0,24,1,33,8.25,0,0,0
+1512741,2026-02-14,2,Scotland,MRJ Watt,3.0,18,0,43,14.33,0,1,0

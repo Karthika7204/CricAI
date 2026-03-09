@@ -1,0 +1,16 @@
+match_id,date,innings,team,player,runs,balls_faced,strike_rate,fours,sixes,dismissed,dismissal_kind
+1512737,2026-02-13,1,Zimbabwe,BJ Bennett,64,58,110.34,7,0,False,
+1512737,2026-02-13,1,Zimbabwe,RP Burl,35,32,109.38,4,0,True,caught
+1512737,2026-02-13,1,Zimbabwe,T Marumani,35,22,159.09,7,0,True,caught
+1512737,2026-02-13,1,Zimbabwe,Sikandar Raza,25,13,192.31,2,1,False,
+1512737,2026-02-13,2,Australia,MT Renshaw,65,46,141.3,5,1,True,caught
+1512737,2026-02-13,2,Australia,GJ Maxwell,31,32,96.88,1,1,True,bowled
+1512737,2026-02-13,2,Australia,TM Head,17,15,113.33,3,0,True,bowled
+1512737,2026-02-13,2,Australia,JP Inglis,8,4,200.0,0,1,True,caught
+1512737,2026-02-13,2,Australia,NT Ellis,7,4,175.0,1,0,False,
+1512737,2026-02-13,2,Australia,BJ Dwarshuis,6,7,85.71,0,0,True,caught
+1512737,2026-02-13,2,Australia,MP Stoinis,6,4,150.0,1,0,True,caught
+1512737,2026-02-13,2,Australia,A Zampa,2,2,100.0,0,0,True,bowled
+1512737,2026-02-13,2,Australia,C Green,0,2,0.0,0,0,True,caught
+1512737,2026-02-13,2,Australia,MP Kuhnemann,0,1,0.0,0,0,True,run out
+1512737,2026-02-13,2,Australia,TH David,0,2,0.0,0,0,True,caught

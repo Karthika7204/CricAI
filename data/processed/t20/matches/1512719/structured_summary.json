@@ -1,0 +1,277 @@
+{
+    "match_context": {
+        "match_id": "1512719",
+        "date": "2026-02-07",
+        "tournament": "2025/26",
+        "venue": "Sinhalese Sports Club Ground, Colombo",
+        "stage": "ICC Men's T20 World Cup",
+        "Teams": {
+            "India": {
+                "captain": "Surya Kumar Yadav",
+                "playing_xi_count": 11
+            },
+            "United States of America": {
+                "captain": "Monank Patel",
+                "playing_xi_count": 11
+            }
+        }
+    },
+    "Match_Result": {
+        "summary": "Pakistan won by 3 wickets",
+        "winner": "Pakistan",
+        "margin": 3,
+        "margin_type": "wickets"
+    },
+    "Scorecard_Highlights": {
+        "Key_Support_Performers": [
+            {
+                "player": "BFW de Leede",
+                "team": "Netherlands",
+                "runs": 30,
+                "balls": 26,
+                "sr": 115.38,
+                "fours": 4,
+                "sixes": 0,
+                "win_contribution_percent": 20.4,
+                "score": 53.87
+            },
+            {
+                "player": "M Levitt",
+                "team": "Netherlands",
+                "runs": 24,
+                "balls": 15,
+                "sr": 160.0,
+                "fours": 3,
+                "sixes": 1,
+                "win_contribution_percent": 16.3,
+                "score": 57.1
+            },
+            {
+                "player": "CN Ackermann",
+                "team": "Netherlands",
+                "runs": 20,
+                "balls": 15,
+                "sr": 133.33,
+                "fours": 4,
+                "sixes": 0,
+                "win_contribution_percent": 13.6,
+                "score": 47.59
+            }
+        ],
+        "Worst_Economy_Spells": [
+            {
+                "player": "LV van Beek",
+                "team": "Netherlands",
+                "overs": 4.0,
+                "runs": 46,
+                "wickets": 1,
+                "econ": 11.5,
+                "score": 42.83
+            }
+        ],
+        "Significant_Collapses": [
+            {
+                "player": "Mohammad Nawaz",
+                "runs": 6,
+                "balls": 14
+            }
+        ]
+    },
+    "Innings_Metrics": [
+        {
+            "innings": 1,
+            "team": "Netherlands",
+            "total_runs": 147,
+            "total_wickets": 10,
+            "balls_faced": 119,
+            "overs_faced": 19.5,
+            "phase_analysis": {
+                "Powerplay": {
+                    "runs": 50,
+                    "wkts": 2,
+                    "rr": 8.33
+                },
+                "Middle": {
+                    "runs": 73,
+                    "wkts": 2,
+                    "rr": 8.11
+                },
+                "Death": {
+                    "runs": 24,
+                    "wkts": 6,
+                    "rr": 4.97
+                }
+            }
+        },
+        {
+            "innings": 2,
+            "team": "Pakistan",
+            "total_runs": 148,
+            "total_wickets": 7,
+            "balls_faced": 117,
+            "overs_faced": 19.3,
+            "phase_analysis": {
+                "Powerplay": {
+                    "runs": 61,
+                    "wkts": 2,
+                    "rr": 10.17
+                },
+                "Middle": {
+                    "runs": 50,
+                    "wkts": 3,
+                    "rr": 5.56
+                },
+                "Death": {
+                    "runs": 37,
+                    "wkts": 2,
+                    "rr": 8.22
+                }
+            },
+            "pressure_index": 2.0,
+            "target": 148
+        }
+    ],
+    "Detailed_Impact_Analysis": [
+        {
+            "player": "Salman Mirza",
+            "team": "Pakistan",
+            "overs": 3.5,
+            "runs": 25,
+            "wickets": 3,
+            "econ": 6.52,
+            "score": 112.62,
+            "role": "bowling",
+            "match_stats": "3.5o-25r-3w"
+        },
+        {
+            "player": "PA van Meekeren",
+            "team": "Netherlands",
+            "overs": 4.0,
+            "runs": 20,
+            "wickets": 2,
+            "econ": 5.0,
+            "score": 89.5,
+            "role": "bowling",
+            "match_stats": "4.0o-20r-2w"
+        },
+        {
+            "player": "Abrar Ahmed",
+            "team": "Pakistan",
+            "overs": 4.0,
+            "runs": 23,
+            "wickets": 2,
+            "econ": 5.75,
+            "score": 85.65,
+            "role": "bowling",
+            "match_stats": "4.0o-23r-2w"
+        },
+        {
+            "player": "Faheem Ashraf",
+            "team": "Pakistan",
+            "runs": 29,
+            "balls": 11,
+            "sr": 263.64,
+            "fours": 2,
+            "sixes": 3,
+            "win_contribution_percent": 19.6,
+            "score": 83.55,
+            "role": "batting",
+            "match_stats": "29(11)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "Saim Ayub",
+            "team": "Pakistan",
+            "overs": 1.0,
+            "runs": 7,
+            "wickets": 2,
+            "econ": 7.0,
+            "score": 81.07,
+            "role": "bowling",
+            "match_stats": "1.0o-7r-2w"
+        },
+        {
+            "player": "A Dutt",
+            "team": "Netherlands",
+            "overs": 4.0,
+            "runs": 33,
+            "wickets": 2,
+            "econ": 8.25,
+            "score": 77.88,
+            "role": "bowling",
+            "match_stats": "4.0o-33r-2w"
+        },
+        {
+            "player": "Sahibzada Farhan",
+            "team": "Pakistan",
+            "runs": 47,
+            "balls": 32,
+            "sr": 146.88,
+            "fours": 4,
+            "sixes": 2,
+            "win_contribution_percent": 31.8,
+            "score": 77.39,
+            "role": "batting",
+            "match_stats": "47(32)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "Mohammad Nawaz",
+            "team": "Pakistan",
+            "overs": 4.0,
+            "runs": 38,
+            "wickets": 2,
+            "econ": 9.5,
+            "score": 75.53,
+            "role": "bowling",
+            "match_stats": "4.0o-38r-2w"
+        },
+        {
+            "player": "RE van der Merwe",
+            "team": "Netherlands",
+            "overs": 3.0,
+            "runs": 13,
+            "wickets": 1,
+            "econ": 4.33,
+            "score": 64.06,
+            "role": "bowling",
+            "match_stats": "3.0o-13r-1w"
+        },
+        {
+            "player": "SA Edwards",
+            "team": "Netherlands",
+            "runs": 37,
+            "balls": 29,
+            "sr": 127.59,
+            "fours": 3,
+            "sixes": 1,
+            "win_contribution_percent": 25.2,
+            "score": 63.4,
+            "role": "batting",
+            "match_stats": "37(29)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        }
+    ],
+    "Tactical_Post_Match_Analysis": [
+        "Pakistan's victory was anchored by Faheem Ashraf, who contributed 19.6% of the team's runs.",
+        "Defensive pressure was sustained by Salman Mirza, finishing with an impact score of 112.62."
+    ]
+}

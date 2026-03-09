@@ -1,0 +1,17 @@
+match_id,date,innings,team,player,runs,balls_faced,strike_rate,fours,sixes,dismissed,dismissal_kind
+1512725,2026-02-09,1,Scotland,HG Munsey,84,58,144.83,13,2,True,caught
+1512725,2026-02-09,1,Scotland,BJ McMullen,41,20,205.0,0,4,False,
+1512725,2026-02-09,1,Scotland,MA Jones,37,31,119.35,1,2,True,caught
+1512725,2026-02-09,1,Scotland,MA Leask,22,5,440.0,2,2,False,
+1512725,2026-02-09,1,Scotland,RD Berrington,15,11,136.36,2,0,True,caught
+1512725,2026-02-09,1,Scotland,TC Bruce,1,2,50.0,0,0,True,caught
+1512725,2026-02-09,2,Italy,BAD Manenti,52,31,167.74,5,1,True,caught
+1512725,2026-02-09,2,Italy,HJ Manenti,37,26,142.31,1,3,True,caught
+1512725,2026-02-09,2,Italy,JT Smuts,22,12,183.33,2,2,True,caught
+1512725,2026-02-09,2,Italy,AJ Mosca,13,12,108.33,1,1,True,caught
+1512725,2026-02-09,2,Italy,CJPF Kalugamage,3,6,50.0,0,0,False,
+1512725,2026-02-09,2,Italy,G Stewart,2,6,33.33,0,0,True,caught
+1512725,2026-02-09,2,Italy,TJ Draca,2,5,40.0,0,0,True,caught
+1512725,2026-02-09,2,Italy,Ali Hasan,0,2,0.0,0,0,True,caught
+1512725,2026-02-09,2,Italy,GP Meade,0,2,0.0,0,0,True,caught
+1512725,2026-02-09,2,Italy,J Mosca,0,1,0.0,0,0,True,caught

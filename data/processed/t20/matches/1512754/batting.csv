@@ -1,0 +1,17 @@
+match_id,date,innings,team,player,runs,balls_faced,strike_rate,fours,sixes,dismissed,dismissal_kind
+1512754,2026-02-18,1,India,S Dube,66,36,183.33,4,6,True,caught
+1512754,2026-02-18,1,India,SA Yadav,34,30,113.33,2,1,True,caught
+1512754,2026-02-18,1,India,Tilak Varma,31,27,114.81,3,1,True,caught
+1512754,2026-02-18,1,India,HH Pandya,30,21,142.86,0,3,True,caught
+1512754,2026-02-18,1,India,Ishan Kishan,18,7,257.14,2,1,True,bowled
+1512754,2026-02-18,1,India,RK Singh,6,3,200.0,0,1,False,
+1512754,2026-02-18,1,India,Abhishek Sharma,0,3,0.0,0,0,True,bowled
+1512754,2026-02-18,2,Netherlands,BFW de Leede,33,25,132.0,3,1,True,caught
+1512754,2026-02-18,2,Netherlands,ZB Lion-Cachet,26,16,162.5,1,1,True,caught
+1512754,2026-02-18,2,Netherlands,NRJ Croes,25,12,208.33,5,0,False,
+1512754,2026-02-18,2,Netherlands,M Levitt,24,23,104.35,4,0,True,caught
+1512754,2026-02-18,2,Netherlands,CN Ackermann,23,16,143.75,1,2,True,caught
+1512754,2026-02-18,2,Netherlands,MP O'Dowd,20,19,105.26,2,1,True,bowled
+1512754,2026-02-18,2,Netherlands,SA Edwards,15,10,150.0,2,0,True,bowled
+1512754,2026-02-18,2,Netherlands,LV van Beek,4,2,200.0,1,0,False,
+1512754,2026-02-18,2,Netherlands,A Dutt,0,1,0.0,0,0,True,bowled

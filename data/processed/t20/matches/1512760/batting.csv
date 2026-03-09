@@ -1,0 +1,23 @@
+match_id,date,innings,team,player,runs,balls_faced,strike_rate,fours,sixes,dismissed,dismissal_kind
+1512760,2026-02-22,1,England,PD Salt,62,41,151.22,6,2,True,caught
+1512760,2026-02-22,1,England,WG Jacks,21,15,140.0,4,0,True,caught
+1512760,2026-02-22,1,England,HC Brook,14,7,200.0,1,1,True,lbw
+1512760,2026-02-22,1,England,SM Curran,11,11,100.0,0,1,True,caught
+1512760,2026-02-22,1,England,J Overton,10,11,90.91,0,1,False,
+1512760,2026-02-22,1,England,JC Buttler,7,14,50.0,0,0,True,lbw
+1512760,2026-02-22,1,England,LA Dawson,6,11,54.55,0,0,True,caught
+1512760,2026-02-22,1,England,T Banton,6,7,85.71,0,0,True,run out
+1512760,2026-02-22,1,England,JG Bethell,3,4,75.0,0,0,True,caught
+1512760,2026-02-22,1,England,AU Rashid,1,1,100.0,0,0,False,
+1512760,2026-02-22,1,England,JC Archer,0,1,0.0,0,0,True,caught
+1512760,2026-02-22,2,Sri Lanka,MD Shanaka,30,24,125.0,1,2,True,caught
+1512760,2026-02-22,2,Sri Lanka,PHKD Mendis,13,11,118.18,1,1,True,caught and bowled
+1512760,2026-02-22,2,Sri Lanka,DN Wellalage,10,10,100.0,2,0,True,caught
+1512760,2026-02-22,2,Sri Lanka,M Theekshana,10,8,125.0,1,0,False,
+1512760,2026-02-22,2,Sri Lanka,P Nissanka,9,8,112.5,2,0,True,caught
+1512760,2026-02-22,2,Sri Lanka,K Mishara,6,12,50.0,1,0,True,caught
+1512760,2026-02-22,2,Sri Lanka,PVD Chameera,6,14,42.86,0,0,True,bowled
+1512760,2026-02-22,2,Sri Lanka,MADI Hemantha,5,8,62.5,0,0,True,hit wicket
+1512760,2026-02-22,2,Sri Lanka,BKG Mendis,4,4,100.0,1,0,True,caught and bowled
+1512760,2026-02-22,2,Sri Lanka,D Madushanka,0,2,0.0,0,0,True,bowled
+1512760,2026-02-22,2,Sri Lanka,P Rathnayake,0,1,0.0,0,0,True,caught

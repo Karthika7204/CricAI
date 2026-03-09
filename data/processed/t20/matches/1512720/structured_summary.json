@@ -1,0 +1,363 @@
+{
+    "match_context": {
+        "match_id": "1512720",
+        "date": "2026-02-07",
+        "tournament": "2025/26",
+        "venue": "Eden Gardens, Kolkata",
+        "stage": "ICC Men's T20 World Cup",
+        "Teams": {
+            "West Indies": {
+                "captain": "SD Hope",
+                "playing_xi_count": 11
+            },
+            "Scotland": {
+                "captain": "RD Berrington",
+                "playing_xi_count": 11
+            }
+        }
+    },
+    "Match_Result": {
+        "summary": "West Indies won by 35 runs",
+        "winner": "West Indies",
+        "margin": 35,
+        "margin_type": "runs"
+    },
+    "Scorecard_Highlights": {
+        "Key_Support_Performers": [
+            {
+                "player": "SD Hope",
+                "team": "West Indies",
+                "runs": 19,
+                "balls": 22,
+                "sr": 86.36,
+                "fours": 2,
+                "sixes": 0,
+                "win_contribution_percent": 10.4,
+                "score": 35.78
+            },
+            {
+                "player": "HG Munsey",
+                "team": "Scotland",
+                "runs": 19,
+                "balls": 15,
+                "sr": 126.67,
+                "fours": 3,
+                "sixes": 0,
+                "win_contribution_percent": 12.9,
+                "score": 43.61
+            }
+        ],
+        "Career_vs_Match_Bowling": [],
+        "Bowling_Standouts": {
+            "Economical_Spells": [],
+            "Expensive_Spells": [],
+            "High_Economy_No_Baseline": [
+                {
+                    "player": "AJ Hosein",
+                    "team": "West Indies",
+                    "overs": 2.0,
+                    "runs": 26,
+                    "wickets": 0,
+                    "econ": 13.0,
+                    "score": 12.45,
+                    "bowling_baseline": {
+                        "career_wickets": 0,
+                        "career_economy": 0.0,
+                        "career_sr": 0.0,
+                        "career_avg": 0.0,
+                        "best_bowling": "N/A",
+                        "matches": 0,
+                        "source": "none",
+                        "baseline_available": false
+                    }
+                },
+                {
+                    "player": "SM Sharif",
+                    "team": "Scotland",
+                    "overs": 4.0,
+                    "runs": 46,
+                    "wickets": 1,
+                    "econ": 11.5,
+                    "score": 44.07,
+                    "bowling_baseline": {
+                        "career_wickets": 0,
+                        "career_economy": 0.0,
+                        "career_sr": 0.0,
+                        "career_avg": 0.0,
+                        "best_bowling": "N/A",
+                        "matches": 0,
+                        "source": "none",
+                        "baseline_available": false
+                    }
+                }
+            ]
+        },
+        "Significant_Collapses": []
+    },
+    "Innings_Metrics": [
+        {
+            "innings": 1,
+            "team": "West Indies",
+            "total_runs": 182,
+            "total_wickets": 5,
+            "balls_faced": 120,
+            "overs_faced": 20.0,
+            "phase_analysis": {
+                "Powerplay": {
+                    "runs": 33,
+                    "wkts": 0,
+                    "rr": 5.5
+                },
+                "Middle": {
+                    "runs": 105,
+                    "wkts": 2,
+                    "rr": 11.67
+                },
+                "Death": {
+                    "runs": 44,
+                    "wkts": 3,
+                    "rr": 8.8
+                }
+            }
+        },
+        {
+            "innings": 2,
+            "team": "Scotland",
+            "total_runs": 147,
+            "total_wickets": 10,
+            "balls_faced": 113,
+            "overs_faced": 18.5,
+            "phase_analysis": {
+                "Powerplay": {
+                    "runs": 38,
+                    "wkts": 3,
+                    "rr": 6.33
+                },
+                "Middle": {
+                    "runs": 87,
+                    "wkts": 2,
+                    "rr": 9.67
+                },
+                "Death": {
+                    "runs": 22,
+                    "wkts": 5,
+                    "rr": 5.74
+                }
+            },
+            "pressure_index": 90.0,
+            "target": 183
+        }
+    ],
+    "Detailed_Impact_Analysis": [
+        {
+            "player": "R Shepherd",
+            "team": "West Indies",
+            "overs": 3.0,
+            "runs": 20,
+            "wickets": 5,
+            "econ": 6.67,
+            "score": 150.0,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "3.0o-20r-5w"
+        },
+        {
+            "player": "JO Holder",
+            "team": "West Indies",
+            "overs": 3.5,
+            "runs": 30,
+            "wickets": 3,
+            "econ": 7.83,
+            "score": 110.66,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "3.5o-30r-3w"
+        },
+        {
+            "player": "SO Hetmyer",
+            "team": "West Indies",
+            "runs": 64,
+            "balls": 37,
+            "sr": 172.97,
+            "fours": 2,
+            "sixes": 6,
+            "win_contribution_percent": 35.2,
+            "score": 97.6,
+            "role": "batting",
+            "match_stats": "64(37)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "BJ Currie",
+            "team": "Scotland",
+            "overs": 4.0,
+            "runs": 23,
+            "wickets": 2,
+            "econ": 5.75,
+            "score": 88.14,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-23r-2w"
+        },
+        {
+            "player": "RD Berrington",
+            "team": "Scotland",
+            "runs": 42,
+            "balls": 24,
+            "sr": 175.0,
+            "fours": 3,
+            "sixes": 2,
+            "win_contribution_percent": 28.6,
+            "score": 76.0,
+            "role": "batting",
+            "match_stats": "42(24)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "SE Rutherford",
+            "team": "West Indies",
+            "runs": 26,
+            "balls": 13,
+            "sr": 200.0,
+            "fours": 4,
+            "sixes": 1,
+            "win_contribution_percent": 14.3,
+            "score": 64.85,
+            "role": "batting",
+            "match_stats": "26(13)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "BA King",
+            "team": "West Indies",
+            "runs": 35,
+            "balls": 31,
+            "sr": 112.9,
+            "fours": 4,
+            "sixes": 1,
+            "win_contribution_percent": 19.2,
+            "score": 56.93,
+            "role": "batting",
+            "match_stats": "35(31)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "TC Bruce",
+            "team": "Scotland",
+            "runs": 35,
+            "balls": 31,
+            "sr": 112.9,
+            "fours": 1,
+            "sixes": 2,
+            "win_contribution_percent": 23.8,
+            "score": 56.93,
+            "role": "batting",
+            "match_stats": "35(31)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "S Joseph",
+            "team": "West Indies",
+            "overs": 4.0,
+            "runs": 26,
+            "wickets": 1,
+            "econ": 6.5,
+            "score": 54.89,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-26r-1w"
+        },
+        {
+            "player": "R Powell",
+            "team": "West Indies",
+            "runs": 24,
+            "balls": 16,
+            "sr": 150.0,
+            "fours": 1,
+            "sixes": 2,
+            "win_contribution_percent": 13.2,
+            "score": 53.14,
+            "role": "batting",
+            "match_stats": "24(16)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        }
+    ],
+    "Tactical_Post_Match_Analysis": [
+        "West Indies's victory was anchored by SO Hetmyer, who contributed 35.2% of the team's runs.",
+        "Defensive pressure was sustained by R Shepherd, finishing with an impact score of 150.0.",
+        "Scotland struggled under extreme chase pressure (Index: 90.0), leading to a late-innings collapse.",
+        "Scotland lost 3 wickets in Powerplay, failing to build a stable foundation."
+    ]
+}

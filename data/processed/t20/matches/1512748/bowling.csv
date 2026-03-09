@@ -1,0 +1,14 @@
+match_id,date,innings,team,player,overs,balls_bowled,wickets,runs_conceded,economy,maidens,wides,no_balls
+1512748,2026-02-16,1,Sri Lanka,MADI Hemantha,4.0,24,3,37,9.25,0,0,0
+1512748,2026-02-16,1,Sri Lanka,PVD Chameera,4.0,24,2,36,9.0,0,0,1
+1512748,2026-02-16,1,Sri Lanka,DN Wellalage,4.0,24,1,33,8.25,0,2,0
+1512748,2026-02-16,1,Sri Lanka,M Theekshana,4.0,24,1,37,9.25,0,0,0
+1512748,2026-02-16,1,Sri Lanka,PHKD Mendis,2.0,12,1,19,9.5,0,0,0
+1512748,2026-02-16,1,Sri Lanka,M Pathirana,0.4,4,0,3,4.5,0,1,0
+1512748,2026-02-16,1,Sri Lanka,MD Shanaka,1.2,8,0,16,12.0,0,0,0
+1512748,2026-02-16,2,Australia,MP Stoinis,4.0,24,2,46,11.5,0,1,0
+1512748,2026-02-16,2,Australia,GJ Maxwell,2.0,12,0,16,8.0,0,0,0
+1512748,2026-02-16,2,Australia,C Connolly,3.0,18,0,27,9.0,0,0,0
+1512748,2026-02-16,2,Australia,A Zampa,4.0,24,0,41,10.25,0,0,0
+1512748,2026-02-16,2,Australia,NT Ellis,3.0,18,0,32,10.67,0,2,0
+1512748,2026-02-16,2,Australia,XC Bartlett,2.0,12,0,22,11.0,0,1,0

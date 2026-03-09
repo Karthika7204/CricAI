@@ -1,0 +1,13 @@
+match_id,date,innings,team,player,overs,balls_bowled,wickets,runs_conceded,economy,maidens,wides,no_balls
+1512736,2026-02-12,1,Namibia,MG Erasmus,4.0,24,4,20,5.0,0,1,0
+1512736,2026-02-12,1,Namibia,BM Scholtz,4.0,24,1,41,10.25,0,2,0
+1512736,2026-02-12,1,Namibia,JJ Smit,4.0,24,1,50,12.5,0,0,0
+1512736,2026-02-12,1,Namibia,B Shikongo,3.0,18,1,41,13.67,0,0,0
+1512736,2026-02-12,1,Namibia,R Trumpelmann,4.0,24,0,39,9.75,0,2,0
+1512736,2026-02-12,1,Namibia,M Heingo,1.0,6,0,18,18.0,0,0,0
+1512736,2026-02-12,2,India,CV Varun,2.0,12,3,7,3.5,0,0,0
+1512736,2026-02-12,2,India,HH Pandya,4.0,24,2,21,5.25,0,0,0
+1512736,2026-02-12,2,India,AR Patel,3.0,18,2,20,6.67,1,0,0
+1512736,2026-02-12,2,India,S Dube,2.2,14,1,11,4.71,1,1,2
+1512736,2026-02-12,2,India,JJ Bumrah,4.0,24,1,21,5.25,0,1,1
+1512736,2026-02-12,2,India,Arshdeep Singh,3.0,18,1,36,12.0,0,2,0

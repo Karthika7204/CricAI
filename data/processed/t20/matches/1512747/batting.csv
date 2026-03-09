@@ -1,0 +1,21 @@
+match_id,date,innings,team,player,runs,balls_faced,strike_rate,fours,sixes,dismissed,dismissal_kind
+1512747,2026-02-16,1,England,WG Jacks,53,24,220.83,3,4,False,
+1512747,2026-02-16,1,England,T Banton,30,21,142.86,3,1,True,caught
+1512747,2026-02-16,1,England,PD Salt,28,16,175.0,2,2,True,caught
+1512747,2026-02-16,1,England,SM Curran,25,19,131.58,0,2,True,caught
+1512747,2026-02-16,1,England,JG Bethell,23,20,115.0,2,1,True,caught
+1512747,2026-02-16,1,England,J Overton,15,12,125.0,1,1,True,caught
+1512747,2026-02-16,1,England,HC Brook,14,9,155.56,1,1,True,caught
+1512747,2026-02-16,1,England,JC Buttler,3,4,75.0,0,0,True,caught
+1512747,2026-02-16,1,England,JC Archer,1,2,50.0,0,0,False,
+1512747,2026-02-16,2,Italy,BAD Manenti,60,25,240.0,4,6,True,caught
+1512747,2026-02-16,2,Italy,G Stewart,45,24,187.5,2,5,True,caught
+1512747,2026-02-16,2,Italy,J Mosca,43,34,126.47,7,0,True,caught
+1512747,2026-02-16,2,Italy,HJ Manenti,12,11,109.09,1,1,True,caught
+1512747,2026-02-16,2,Italy,Jaspreet Singh,12,12,100.0,0,1,True,caught
+1512747,2026-02-16,2,Italy,M Campopiano,2,6,33.33,0,0,True,caught
+1512747,2026-02-16,2,Italy,AJ Mosca,0,1,0.0,0,0,True,caught
+1512747,2026-02-16,2,Italy,Ali Hasan,0,4,0.0,0,0,True,bowled
+1512747,2026-02-16,2,Italy,CJPF Kalugamage,0,1,0.0,0,0,False,
+1512747,2026-02-16,2,Italy,GP Meade,0,1,0.0,0,0,True,caught
+1512747,2026-02-16,2,Italy,JT Smuts,0,4,0.0,0,0,True,caught

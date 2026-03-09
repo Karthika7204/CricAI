@@ -1,0 +1,667 @@
+"match_id","date","innings","team","player","runs","balls_faced","strike_rate","fours","sixes","dismissed","dismissal_kind"
+1512719,"2026-02-07",1,"Netherlands","SA Edwards",37,29,127.59,3,1,TRUE,"caught"
+1512719,"2026-02-07",1,"Netherlands","BFW de Leede",30,26,115.38,4,0,TRUE,"caught"
+1512719,"2026-02-07",1,"Netherlands","M Levitt",24,15,160,3,1,TRUE,"caught"
+1512719,"2026-02-07",1,"Netherlands","CN Ackermann",20,15,133.33,4,0,TRUE,"bowled"
+1512719,"2026-02-07",1,"Netherlands","A Dutt",13,8,162.5,2,0,TRUE,"caught"
+1512719,"2026-02-07",1,"Netherlands","ZB Lion-Cachet",9,8,112.5,1,0,TRUE,"caught"
+1512719,"2026-02-07",1,"Netherlands","MP O'Dowd",5,7,71.43,1,0,TRUE,"caught"
+1512719,"2026-02-07",1,"Netherlands","RE van der Merwe",4,9,44.44,0,0,TRUE,"caught"
+1512719,"2026-02-07",1,"Netherlands","K Klein",2,2,100,0,0,FALSE,NA
+1512719,"2026-02-07",1,"Netherlands","LV van Beek",0,1,0,0,0,TRUE,"caught"
+1512719,"2026-02-07",1,"Netherlands","PA van Meekeren",0,1,0,0,0,TRUE,"caught"
+1512719,"2026-02-07",2,"Pakistan","Sahibzada Farhan",47,32,146.88,4,2,TRUE,"caught"
+1512719,"2026-02-07",2,"Pakistan","Faheem Ashraf",29,11,263.64,2,3,FALSE,NA
+1512719,"2026-02-07",2,"Pakistan","Saim Ayub",24,13,184.62,4,1,TRUE,"caught"
+1512719,"2026-02-07",2,"Pakistan","Babar Azam",15,18,83.33,1,0,TRUE,"caught"
+1512719,"2026-02-07",2,"Pakistan","Agha Salman",12,8,150,3,0,TRUE,"caught"
+1512719,"2026-02-07",2,"Pakistan","Shadab Khan",8,12,66.67,0,0,TRUE,"caught"
+1512719,"2026-02-07",2,"Pakistan","Mohammad Nawaz",6,14,42.86,0,0,TRUE,"caught"
+1512719,"2026-02-07",2,"Pakistan","Shaheen Shah Afridi",5,9,55.56,0,0,FALSE,NA
+1512719,"2026-02-07",2,"Pakistan","Usman Khan",0,2,0,0,0,TRUE,"bowled"
+1512720,"2026-02-07",1,"West Indies","SO Hetmyer",64,37,172.97,2,6,TRUE,"caught"
+1512720,"2026-02-07",1,"West Indies","BA King",35,31,112.9,4,1,TRUE,"caught"
+1512720,"2026-02-07",1,"West Indies","SE Rutherford",26,13,200,4,1,TRUE,"caught"
+1512720,"2026-02-07",1,"West Indies","R Powell",24,16,150,1,2,TRUE,"caught"
+1512720,"2026-02-07",1,"West Indies","SD Hope",19,22,86.36,2,0,TRUE,"bowled"
+1512720,"2026-02-07",1,"West Indies","R Shepherd",6,3,200,0,1,FALSE,NA
+1512720,"2026-02-07",1,"West Indies","MW Forde",1,2,50,0,0,FALSE,NA
+1512720,"2026-02-07",2,"Scotland","RD Berrington",42,24,175,3,2,TRUE,"caught"
+1512720,"2026-02-07",2,"Scotland","TC Bruce",35,31,112.9,1,2,TRUE,"lbw"
+1512720,"2026-02-07",2,"Scotland","HG Munsey",19,15,126.67,3,0,TRUE,"caught"
+1512720,"2026-02-07",2,"Scotland","MRJ Watt",15,12,125,2,0,TRUE,"caught"
+1512720,"2026-02-07",2,"Scotland","BJ McMullen",14,13,107.69,1,1,TRUE,"bowled"
+1512720,"2026-02-07",2,"Scotland","MH Cross",11,11,100,1,0,TRUE,"caught"
+1512720,"2026-02-07",2,"Scotland","BJ Currie",2,4,50,0,0,FALSE,NA
+1512720,"2026-02-07",2,"Scotland","MA Jones",1,6,16.67,0,0,TRUE,"caught"
+1512720,"2026-02-07",2,"Scotland","MA Leask",0,1,0,0,0,TRUE,"caught"
+1512720,"2026-02-07",2,"Scotland","O Davidson",0,1,0,0,0,TRUE,"bowled"
+1512720,"2026-02-07",2,"Scotland","SM Sharif",0,2,0,0,0,TRUE,"caught"
+1512721,"2026-02-07",1,"India","SA Yadav",84,50,168,10,4,FALSE,NA
+1512721,"2026-02-07",1,"India","Tilak Varma",25,16,156.25,3,1,TRUE,"caught"
+1512721,"2026-02-07",1,"India","Ishan Kishan",20,16,125,1,2,TRUE,"caught"
+1512721,"2026-02-07",1,"India","AR Patel",14,12,116.67,2,0,TRUE,"caught"
+1512721,"2026-02-07",1,"India","RK Singh",6,14,42.86,0,0,TRUE,"caught"
+1512721,"2026-02-07",1,"India","HH Pandya",5,6,83.33,1,0,TRUE,"caught"
+1512721,"2026-02-07",1,"India","Arshdeep Singh",4,7,57.14,1,0,TRUE,"caught"
+1512721,"2026-02-07",1,"India","Abhishek Sharma",0,1,0,0,0,TRUE,"caught"
+1512721,"2026-02-07",1,"India","S Dube",0,1,0,0,0,TRUE,"caught"
+1512721,"2026-02-07",2,"United States of America","SP Krishnamurthi",37,32,115.62,1,2,TRUE,"caught"
+1512721,"2026-02-07",2,"United States of America","Shubham Ranjane",37,23,160.87,2,3,TRUE,"lbw"
+1512721,"2026-02-07",2,"United States of America","Milind Kumar",34,34,100,3,1,TRUE,"stumped"
+1512721,"2026-02-07",2,"United States of America","Mohammad Mohsin",8,9,88.89,1,0,TRUE,"caught"
+1512721,"2026-02-07",2,"United States of America","AGS Gous",6,10,60,0,1,TRUE,"caught"
+1512721,"2026-02-07",2,"United States of America","SC van Schalkwyk",2,5,40,0,0,FALSE,NA
+1512721,"2026-02-07",2,"United States of America","SR Mukkamalla",2,7,28.57,0,0,TRUE,"caught"
+1512721,"2026-02-07",2,"United States of America","Harmeet Singh",0,1,0,0,0,TRUE,"caught"
+1512721,"2026-02-07",2,"United States of America","MD Patel",0,2,0,0,0,TRUE,"caught"
+1512723,"2026-02-08",1,"England","JG Bethell",55,38,144.74,4,4,TRUE,"caught"
+1512723,"2026-02-08",1,"England","HC Brook",53,33,160.61,4,3,TRUE,"caught"
+1512723,"2026-02-08",1,"England","WG Jacks",39,18,216.67,1,4,FALSE,NA
+1512723,"2026-02-08",1,"England","JC Buttler",26,17,152.94,5,0,TRUE,"caught"
+1512723,"2026-02-08",1,"England","SM Curran",2,8,25,0,0,TRUE,"bowled"
+1512723,"2026-02-08",1,"England","T Banton",2,5,40,0,0,TRUE,"lbw"
+1512723,"2026-02-08",1,"England","JC Archer",1,3,33.33,0,0,TRUE,"run out"
+1512723,"2026-02-08",1,"England","PD Salt",1,2,50,0,0,TRUE,"caught"
+1512723,"2026-02-08",2,"Nepal","DS Airee",44,29,151.72,6,1,TRUE,"caught"
+1512723,"2026-02-08",2,"Nepal","Lokesh Bam",39,24,162.5,4,2,FALSE,NA
+1512723,"2026-02-08",2,"Nepal","RK Paudel",39,37,105.41,2,2,TRUE,"caught"
+1512723,"2026-02-08",2,"Nepal","K Bhurtel",29,18,161.11,4,1,TRUE,"caught and bowled"
+1512723,"2026-02-08",2,"Nepal","Aarif Sheikh",10,9,111.11,0,1,TRUE,"caught"
+1512723,"2026-02-08",2,"Nepal","Aasif Sheikh",7,9,77.78,1,0,TRUE,"caught"
+1512723,"2026-02-08",2,"Nepal","Gulsan Jha",1,2,50,0,0,TRUE,"bowled"
+1512723,"2026-02-08",2,"Nepal","Karan KC",1,1,100,0,0,FALSE,NA
+1512724,"2026-02-08",1,"Sri Lanka","BKG Mendis",56,44,127.27,5,0,FALSE,NA
+1512724,"2026-02-08",1,"Sri Lanka","PHKD Mendis",44,22,200,4,2,TRUE,"caught"
+1512724,"2026-02-08",1,"Sri Lanka","P Nissanka",24,23,104.35,1,1,TRUE,"caught"
+1512724,"2026-02-08",1,"Sri Lanka","K Mishara",14,13,107.69,2,0,TRUE,"caught"
+1512724,"2026-02-08",1,"Sri Lanka","DN Wellalage",10,14,71.43,0,0,TRUE,"caught"
+1512724,"2026-02-08",1,"Sri Lanka","P Rathnayake",5,9,55.56,0,0,TRUE,"bowled"
+1512724,"2026-02-08",1,"Sri Lanka","PWH de Silva",1,3,33.33,0,0,FALSE,NA
+1512724,"2026-02-08",1,"Sri Lanka","MD Shanaka",0,1,0,0,0,TRUE,"caught"
+1512724,"2026-02-08",2,"Ireland","HT Tector",40,34,117.65,1,0,TRUE,"caught"
+1512724,"2026-02-08",2,"Ireland","GR Adair",34,24,141.67,5,1,TRUE,"bowled"
+1512724,"2026-02-08",2,"Ireland","L Tucker",21,18,116.67,2,0,TRUE,"caught"
+1512724,"2026-02-08",2,"Ireland","C Campher",13,11,118.18,1,0,TRUE,"caught"
+1512724,"2026-02-08",2,"Ireland","MR Adair",10,6,166.67,1,0,TRUE,"caught"
+1512724,"2026-02-08",2,"Ireland","GH Dockrell",9,7,128.57,1,0,TRUE,"caught"
+1512724,"2026-02-08",2,"Ireland","PR Stirling",6,14,42.86,1,0,TRUE,"bowled"
+1512724,"2026-02-08",2,"Ireland","BF Calitz",4,4,100,0,0,TRUE,"stumped"
+1512724,"2026-02-08",2,"Ireland","GJ Delany",0,1,0,0,0,TRUE,"caught"
+1512724,"2026-02-08",2,"Ireland","MJ Humphreys",0,2,0,0,0,TRUE,"bowled"
+1512725,"2026-02-09",1,"Scotland","HG Munsey",84,58,144.83,13,2,TRUE,"caught"
+1512725,"2026-02-09",1,"Scotland","BJ McMullen",41,20,205,0,4,FALSE,NA
+1512725,"2026-02-09",1,"Scotland","MA Jones",37,31,119.35,1,2,TRUE,"caught"
+1512725,"2026-02-09",1,"Scotland","MA Leask",22,5,440,2,2,FALSE,NA
+1512725,"2026-02-09",1,"Scotland","RD Berrington",15,11,136.36,2,0,TRUE,"caught"
+1512725,"2026-02-09",1,"Scotland","TC Bruce",1,2,50,0,0,TRUE,"caught"
+1512725,"2026-02-09",2,"Italy","BAD Manenti",52,31,167.74,5,1,TRUE,"caught"
+1512725,"2026-02-09",2,"Italy","HJ Manenti",37,26,142.31,1,3,TRUE,"caught"
+1512725,"2026-02-09",2,"Italy","JT Smuts",22,12,183.33,2,2,TRUE,"caught"
+1512725,"2026-02-09",2,"Italy","AJ Mosca",13,12,108.33,1,1,TRUE,"caught"
+1512725,"2026-02-09",2,"Italy","CJPF Kalugamage",3,6,50,0,0,FALSE,NA
+1512725,"2026-02-09",2,"Italy","G Stewart",2,6,33.33,0,0,TRUE,"caught"
+1512725,"2026-02-09",2,"Italy","TJ Draca",2,5,40,0,0,TRUE,"caught"
+1512725,"2026-02-09",2,"Italy","Ali Hasan",0,2,0,0,0,TRUE,"caught"
+1512725,"2026-02-09",2,"Italy","GP Meade",0,2,0,0,0,TRUE,"caught"
+1512725,"2026-02-09",2,"Italy","J Mosca",0,1,0,0,0,TRUE,"caught"
+1512726,"2026-02-09",1,"Oman","V Shukla",28,21,133.33,4,0,TRUE,"caught"
+1512726,"2026-02-09",1,"Oman","Sufyan Mehmood",25,39,64.1,2,0,TRUE,"caught"
+1512726,"2026-02-09",1,"Oman","Nadeem Khan",20,19,105.26,1,1,TRUE,"caught"
+1512726,"2026-02-09",1,"Oman","Aamir Kaleem",5,8,62.5,1,0,TRUE,"caught"
+1512726,"2026-02-09",1,"Oman","Jatinder Singh",5,5,100,1,0,TRUE,"bowled"
+1512726,"2026-02-09",1,"Oman","Shah Faisal",5,2,250,1,0,FALSE,NA
+1512726,"2026-02-09",1,"Oman","Shakeel Ahmed",4,5,80,0,0,TRUE,"bowled"
+1512726,"2026-02-09",1,"Oman","Wasim Ali",3,8,37.5,0,0,TRUE,"bowled"
+1512726,"2026-02-09",1,"Oman","J Ramanandi",1,3,33.33,0,0,TRUE,"caught"
+1512726,"2026-02-09",1,"Oman","Hammad Mirza",0,5,0,0,0,TRUE,"caught"
+1512726,"2026-02-09",1,"Oman","K Sonavale",0,6,0,0,0,TRUE,"caught"
+1512726,"2026-02-09",2,"Zimbabwe","BJ Bennett",48,36,133.33,7,0,FALSE,NA
+1512726,"2026-02-09",2,"Zimbabwe","BRM Taylor",31,30,103.33,3,0,FALSE,NA
+1512726,"2026-02-09",2,"Zimbabwe","T Marumani",21,11,190.91,5,0,TRUE,"caught"
+1512726,"2026-02-09",2,"Zimbabwe","Sikandar Raza",5,2,250,1,0,FALSE,NA
+1512726,"2026-02-09",2,"Zimbabwe","D Myers",0,2,0,0,0,TRUE,"caught"
+1512727,"2026-02-09",1,"South Africa","AK Markram",59,36,163.89,10,1,TRUE,"caught"
+1512727,"2026-02-09",1,"South Africa","DA Miller",39,24,162.5,1,3,FALSE,NA
+1512727,"2026-02-09",1,"South Africa","T Stubbs",34,19,178.95,2,2,FALSE,NA
+1512727,"2026-02-09",1,"South Africa","RD Rickelton",33,22,150,3,1,TRUE,"caught"
+1512727,"2026-02-09",1,"South Africa","Q de Kock",25,24,104.17,2,0,TRUE,"bowled"
+1512727,"2026-02-09",1,"South Africa","D Brevis",6,7,85.71,1,0,TRUE,"caught"
+1512727,"2026-02-09",2,"Canada","NS Dhaliwal",64,52,123.08,7,1,TRUE,"caught"
+1512727,"2026-02-09",2,"Canada","H Thaker",33,30,110,2,2,TRUE,"caught"
+1512727,"2026-02-09",2,"Canada","YS Samra",12,9,133.33,3,0,TRUE,"caught"
+1512727,"2026-02-09",2,"Canada","Saad Bin Zafar",11,13,84.62,1,0,TRUE,"caught"
+1512727,"2026-02-09",2,"Canada","S Movva",9,11,81.82,2,0,TRUE,"bowled"
+1512727,"2026-02-09",2,"Canada","Kaleem Sana",5,3,166.67,1,0,FALSE,NA
+1512727,"2026-02-09",2,"Canada","D Heyliger",4,6,66.67,0,0,FALSE,NA
+1512727,"2026-02-09",2,"Canada","NR Kirton",4,3,133.33,1,0,TRUE,"caught"
+1512727,"2026-02-09",2,"Canada","DS Bajwa",0,1,0,0,0,TRUE,"caught"
+1512727,"2026-02-09",2,"Canada","Jaskaran Singh",0,1,0,0,0,TRUE,"caught"
+1512728,"2026-02-10",1,"Namibia","JN Loftie-Eaton",42,38,110.53,1,2,TRUE,"caught"
+1512728,"2026-02-10",1,"Namibia","JN Frylinck",30,27,111.11,3,1,TRUE,"caught"
+1512728,"2026-02-10",1,"Namibia","JJ Smit",22,16,137.5,1,2,TRUE,"bowled"
+1512728,"2026-02-10",1,"Namibia","MG Erasmus",18,9,200,2,1,TRUE,"caught"
+1512728,"2026-02-10",1,"Namibia","R Trumpelmann",9,10,90,0,1,TRUE,"run out"
+1512728,"2026-02-10",1,"Namibia","ZE Green",9,11,81.82,1,0,TRUE,"caught"
+1512728,"2026-02-10",1,"Namibia","DO Leicher",6,5,120,0,0,FALSE,NA
+1512728,"2026-02-10",1,"Namibia","L Steenkamp",6,6,100,1,0,TRUE,"stumped"
+1512728,"2026-02-10",1,"Namibia","WP Myburgh",4,5,80,0,0,TRUE,"run out"
+1512728,"2026-02-10",2,"Netherlands","BFW de Leede",72,48,150,5,4,FALSE,NA
+1512728,"2026-02-10",2,"Netherlands","CN Ackermann",32,28,114.29,0,1,TRUE,"caught"
+1512728,"2026-02-10",2,"Netherlands","M Levitt",28,15,186.67,1,3,TRUE,"caught"
+1512728,"2026-02-10",2,"Netherlands","SA Edwards",18,9,200,1,1,FALSE,NA
+1512728,"2026-02-10",2,"Netherlands","MP O'Dowd",7,9,77.78,1,0,TRUE,"caught"
+1512729,"2026-02-10",1,"United Arab Emirates","Waseem Muhammad",66,46,143.48,4,3,FALSE,NA
+1512729,"2026-02-10",1,"United Arab Emirates","A Sharafu",55,48,114.58,5,2,TRUE,"caught"
+1512729,"2026-02-10",1,"United Arab Emirates","MR Kumar",21,15,140,2,1,TRUE,"caught"
+1512729,"2026-02-10",1,"United Arab Emirates","A Sharma",8,7,114.29,2,0,TRUE,"caught"
+1512729,"2026-02-10",1,"United Arab Emirates","Shoaib Khan",7,3,233.33,0,1,TRUE,"caught"
+1512729,"2026-02-10",1,"United Arab Emirates","H Kaushik",2,6,33.33,0,0,TRUE,"caught"
+1512729,"2026-02-10",1,"United Arab Emirates","Muhammad Arfan",0,1,0,0,0,TRUE,"caught"
+1512729,"2026-02-10",2,"New Zealand","TL Seifert",89,43,206.98,12,3,FALSE,NA
+1512729,"2026-02-10",2,"New Zealand","FH Allen",84,51,164.71,5,5,FALSE,NA
+1512730,"2026-02-10",1,"Pakistan","Sahibzada Farhan",73,42,173.81,6,5,TRUE,"caught"
+1512730,"2026-02-10",1,"Pakistan","Babar Azam",46,33,139.39,4,1,TRUE,"caught"
+1512730,"2026-02-10",1,"Pakistan","Shadab Khan",30,12,250,4,1,TRUE,"caught"
+1512730,"2026-02-10",1,"Pakistan","Saim Ayub",19,17,111.76,1,2,TRUE,"caught"
+1512730,"2026-02-10",1,"Pakistan","Shaheen Shah Afridi",9,4,225,0,1,FALSE,NA
+1512730,"2026-02-10",1,"Pakistan","Mohammad Nawaz",5,10,50,0,0,TRUE,"caught"
+1512730,"2026-02-10",1,"Pakistan","Agha Salman",1,3,33.33,0,0,TRUE,"caught"
+1512730,"2026-02-10",1,"Pakistan","Faheem Ashraf",1,2,50,0,0,TRUE,"caught"
+1512730,"2026-02-10",1,"Pakistan","Usman Khan",0,1,0,0,0,TRUE,"run out"
+1512730,"2026-02-10",2,"United States of America","Shubham Ranjane",51,32,159.38,3,3,TRUE,"lbw"
+1512730,"2026-02-10",2,"United States of America","Shayan Jahangir",49,34,144.12,5,2,TRUE,"caught"
+1512730,"2026-02-10",2,"United States of America","Milind Kumar",29,23,126.09,2,1,TRUE,"caught"
+1512730,"2026-02-10",2,"United States of America","AGS Gous",13,13,100,2,0,TRUE,"caught"
+1512730,"2026-02-10",2,"United States of America","Harmeet Singh",6,5,120,1,0,TRUE,"caught"
+1512730,"2026-02-10",2,"United States of America","MD Patel",3,10,30,0,0,TRUE,"caught and bowled"
+1512730,"2026-02-10",2,"United States of America","Ehsan Adil",1,2,50,0,0,FALSE,NA
+1512730,"2026-02-10",2,"United States of America","SC van Schalkwyk",1,2,50,0,0,FALSE,NA
+1512730,"2026-02-10",2,"United States of America","Mohammad Mohsin",0,1,0,0,0,TRUE,"bowled"
+1512730,"2026-02-10",2,"United States of America","SP Krishnamurthi",0,2,0,0,0,TRUE,"bowled"
+1512732,"2026-02-11",1,"Australia","MP Stoinis",45,30,150,2,1,TRUE,"caught"
+1512732,"2026-02-11",1,"Australia","JP Inglis",37,18,205.56,6,1,TRUE,"caught"
+1512732,"2026-02-11",1,"Australia","MT Renshaw",37,33,112.12,2,0,TRUE,"bowled"
+1512732,"2026-02-11",1,"Australia","C Green",21,11,190.91,1,2,TRUE,"caught"
+1512732,"2026-02-11",1,"Australia","C Connolly",11,8,137.5,0,1,FALSE,NA
+1512732,"2026-02-11",1,"Australia","XC Bartlett",11,7,157.14,2,0,FALSE,NA
+1512732,"2026-02-11",1,"Australia","GJ Maxwell",9,9,100,1,0,TRUE,"caught"
+1512732,"2026-02-11",1,"Australia","TM Head",6,7,85.71,1,0,TRUE,"run out"
+1512732,"2026-02-11",2,"Ireland","GH Dockrell",41,29,141.38,3,2,TRUE,"stumped"
+1512732,"2026-02-11",2,"Ireland","L Tucker",24,27,88.89,1,1,TRUE,"caught"
+1512732,"2026-02-11",2,"Ireland","GR Adair",12,9,133.33,1,1,TRUE,"bowled"
+1512732,"2026-02-11",2,"Ireland","MR Adair",12,6,200,2,0,TRUE,"caught"
+1512732,"2026-02-11",2,"Ireland","GJ Delany",11,12,91.67,1,1,TRUE,"caught"
+1512732,"2026-02-11",2,"Ireland","C Campher",4,2,200,1,0,TRUE,"caught"
+1512732,"2026-02-11",2,"Ireland","MJ Humphreys",3,4,75,0,0,FALSE,NA
+1512732,"2026-02-11",2,"Ireland","BF Calitz",2,4,50,0,0,TRUE,"bowled"
+1512732,"2026-02-11",2,"Ireland","BJ McCarthy",2,4,50,0,0,TRUE,"caught"
+1512732,"2026-02-11",2,"Ireland","PR Stirling",1,1,100,0,0,TRUE,"retired hurt"
+1512732,"2026-02-11",2,"Ireland","HT Tector",0,3,0,0,0,TRUE,"caught"
+1512733,"2026-02-11",1,"West Indies","SE Rutherford",76,45,168.89,2,7,FALSE,NA
+1512733,"2026-02-11",1,"West Indies","RL Chase",34,29,117.24,6,0,TRUE,"lbw"
+1512733,"2026-02-11",1,"West Indies","JO Holder",33,17,194.12,1,4,TRUE,"caught"
+1512733,"2026-02-11",1,"West Indies","SO Hetmyer",23,12,191.67,2,2,TRUE,"caught"
+1512733,"2026-02-11",1,"West Indies","R Powell",14,13,107.69,2,0,TRUE,"caught"
+1512733,"2026-02-11",1,"West Indies","BA King",1,4,25,0,0,TRUE,"caught"
+1512733,"2026-02-11",1,"West Indies","R Shepherd",1,1,100,0,0,FALSE,NA
+1512733,"2026-02-11",1,"West Indies","SD Hope",0,5,0,0,0,TRUE,"caught"
+1512733,"2026-02-11",2,"England","SM Curran",43,30,143.33,3,2,FALSE,NA
+1512733,"2026-02-11",2,"England","JG Bethell",33,23,143.48,4,1,TRUE,"bowled"
+1512733,"2026-02-11",2,"England","PD Salt",30,15,200,4,2,TRUE,"caught"
+1512733,"2026-02-11",2,"England","JC Buttler",21,14,150,2,1,TRUE,"caught"
+1512733,"2026-02-11",2,"England","HC Brook",17,16,106.25,1,0,TRUE,"caught and bowled"
+1512733,"2026-02-11",2,"England","JC Archer",6,4,150,1,0,TRUE,"run out"
+1512733,"2026-02-11",2,"England","J Overton",5,6,83.33,0,0,TRUE,"caught"
+1512733,"2026-02-11",2,"England","T Banton",2,4,50,0,0,TRUE,"caught"
+1512733,"2026-02-11",2,"England","WG Jacks",2,3,66.67,0,0,TRUE,"lbw"
+1512733,"2026-02-11",2,"England","LA Dawson",1,1,100,0,0,FALSE,NA
+1512733,"2026-02-11",2,"England","AU Rashid",0,1,0,0,0,TRUE,"caught"
+1512734,"2026-02-12",1,"Sri Lanka","BKG Mendis",61,45,135.56,7,0,FALSE,NA
+1512734,"2026-02-12",1,"Sri Lanka","P Rathnayake",60,28,214.29,8,1,TRUE,"bowled"
+1512734,"2026-02-12",1,"Sri Lanka","MD Shanaka",50,20,250,2,5,TRUE,"caught"
+1512734,"2026-02-12",1,"Sri Lanka","PHKD Mendis",19,8,237.5,1,2,FALSE,NA
+1512734,"2026-02-12",1,"Sri Lanka","P Nissanka",13,11,118.18,2,0,TRUE,"lbw"
+1512734,"2026-02-12",1,"Sri Lanka","K Mishara",8,8,100,2,0,TRUE,"bowled"
+1512734,"2026-02-12",1,"Sri Lanka","DN Wellalage",6,4,150,1,0,FALSE,NA
+1512734,"2026-02-12",2,"Oman","Mohammad Nadeem",53,60,88.33,3,1,FALSE,NA
+1512734,"2026-02-12",2,"Oman","Wasim Ali",27,20,135,0,3,TRUE,"caught"
+1512734,"2026-02-12",2,"Oman","Hammad Mirza",9,12,75,1,0,TRUE,"caught"
+1512734,"2026-02-12",2,"Oman","Aamir Kaleem",6,6,100,1,0,TRUE,"lbw"
+1512734,"2026-02-12",2,"Oman","Jay Odedra",4,12,33.33,0,0,FALSE,NA
+1512734,"2026-02-12",2,"Oman","Nadeem Khan",2,3,66.67,0,0,TRUE,"caught"
+1512734,"2026-02-12",2,"Oman","Jatinder Singh",1,2,50,0,0,TRUE,"bowled"
+1512734,"2026-02-12",2,"Oman","Shah Faisal",1,8,12.5,0,0,TRUE,"caught"
+1512734,"2026-02-12",2,"Oman","Sufyan Mehmood",1,1,100,0,0,FALSE,NA
+1512734,"2026-02-12",2,"Oman","V Shukla",1,1,100,0,0,TRUE,"run out"
+1512734,"2026-02-12",2,"Oman","J Ramanandi",0,1,0,0,0,TRUE,"stumped"
+1512735,"2026-02-12",1,"Nepal","Aarif Sheikh",27,24,112.5,3,0,TRUE,"caught"
+1512735,"2026-02-12",1,"Nepal","RK Paudel",23,14,164.29,0,2,TRUE,"caught"
+1512735,"2026-02-12",1,"Nepal","Aasif Sheikh",20,20,100,2,0,TRUE,"stumped"
+1512735,"2026-02-12",1,"Nepal","Karan KC",18,11,163.64,1,1,FALSE,NA
+1512735,"2026-02-12",1,"Nepal","DS Airee",17,19,89.47,0,0,TRUE,"bowled"
+1512735,"2026-02-12",1,"Nepal","K Bhurtel",5,11,45.45,1,0,TRUE,"caught"
+1512735,"2026-02-12",1,"Nepal","S Lamichhane",5,7,71.43,0,0,TRUE,"caught"
+1512735,"2026-02-12",1,"Nepal","Gulsan Jha",3,4,75,0,0,TRUE,"caught"
+1512735,"2026-02-12",1,"Nepal","Lokesh Bam",3,5,60,0,0,TRUE,"caught"
+1512735,"2026-02-12",1,"Nepal","LN Rajbanshi",0,2,0,0,0,TRUE,"run out"
+1512735,"2026-02-12",1,"Nepal","NK Yadav",0,2,0,0,0,TRUE,"run out"
+1512735,"2026-02-12",2,"Italy","AJ Mosca",62,32,193.75,3,6,FALSE,NA
+1512735,"2026-02-12",2,"Italy","J Mosca",60,44,136.36,5,3,FALSE,NA
+1512736,"2026-02-12",1,"India","Ishan Kishan",61,25,244,6,5,TRUE,"caught"
+1512736,"2026-02-12",1,"India","HH Pandya",52,29,179.31,4,4,TRUE,"caught"
+1512736,"2026-02-12",1,"India","Tilak Varma",25,21,119.05,3,0,TRUE,"caught"
+1512736,"2026-02-12",1,"India","S Dube",23,18,127.78,1,1,FALSE,NA
+1512736,"2026-02-12",1,"India","SV Samson",22,8,275,1,3,TRUE,"caught"
+1512736,"2026-02-12",1,"India","SA Yadav",12,14,85.71,0,1,TRUE,"stumped"
+1512736,"2026-02-12",1,"India","Arshdeep Singh",2,2,100,0,0,TRUE,"run out"
+1512736,"2026-02-12",1,"India","CV Varun",1,1,100,0,0,FALSE,NA
+1512736,"2026-02-12",1,"India","RK Singh",1,6,16.67,0,0,TRUE,"caught"
+1512736,"2026-02-12",1,"India","AR Patel",0,1,0,0,0,TRUE,"bowled"
+1512736,"2026-02-12",2,"Namibia","L Steenkamp",29,21,138.1,3,1,TRUE,"bowled"
+1512736,"2026-02-12",2,"Namibia","JN Frylinck",22,16,137.5,3,1,TRUE,"caught"
+1512736,"2026-02-12",2,"Namibia","MG Erasmus",18,11,163.64,0,2,TRUE,"caught"
+1512736,"2026-02-12",2,"Namibia","JN Loftie-Eaton",13,14,92.86,1,0,TRUE,"caught"
+1512736,"2026-02-12",2,"Namibia","ZE Green",11,19,57.89,0,0,TRUE,"hit wicket"
+1512736,"2026-02-12",2,"Namibia","R Trumpelmann",6,17,35.29,0,0,TRUE,"bowled"
+1512736,"2026-02-12",2,"Namibia","MB Kruger",5,10,50,1,0,TRUE,"caught"
+1512736,"2026-02-12",2,"Namibia","BM Scholtz",4,4,100,1,0,TRUE,"caught"
+1512736,"2026-02-12",2,"Namibia","B Shikongo",0,1,0,0,0,TRUE,"lbw"
+1512736,"2026-02-12",2,"Namibia","JJ Smit",0,2,0,0,0,TRUE,"bowled"
+1512736,"2026-02-12",2,"Namibia","M Heingo",0,2,0,0,0,FALSE,NA
+1512737,"2026-02-13",1,"Zimbabwe","BJ Bennett",64,58,110.34,7,0,FALSE,NA
+1512737,"2026-02-13",1,"Zimbabwe","RP Burl",35,32,109.38,4,0,TRUE,"caught"
+1512737,"2026-02-13",1,"Zimbabwe","T Marumani",35,22,159.09,7,0,TRUE,"caught"
+1512737,"2026-02-13",1,"Zimbabwe","Sikandar Raza",25,13,192.31,2,1,FALSE,NA
+1512737,"2026-02-13",2,"Australia","MT Renshaw",65,46,141.3,5,1,TRUE,"caught"
+1512737,"2026-02-13",2,"Australia","GJ Maxwell",31,32,96.88,1,1,TRUE,"bowled"
+1512737,"2026-02-13",2,"Australia","TM Head",17,15,113.33,3,0,TRUE,"bowled"
+1512737,"2026-02-13",2,"Australia","JP Inglis",8,4,200,0,1,TRUE,"caught"
+1512737,"2026-02-13",2,"Australia","NT Ellis",7,4,175,1,0,FALSE,NA
+1512737,"2026-02-13",2,"Australia","BJ Dwarshuis",6,7,85.71,0,0,TRUE,"caught"
+1512737,"2026-02-13",2,"Australia","MP Stoinis",6,4,150,1,0,TRUE,"caught"
+1512737,"2026-02-13",2,"Australia","A Zampa",2,2,100,0,0,TRUE,"bowled"
+1512737,"2026-02-13",2,"Australia","C Green",0,2,0,0,0,TRUE,"caught"
+1512737,"2026-02-13",2,"Australia","MP Kuhnemann",0,1,0,0,0,TRUE,"run out"
+1512737,"2026-02-13",2,"Australia","TH David",0,2,0,0,0,TRUE,"caught"
+1512738,"2026-02-13",1,"Canada","H Thaker",50,43,116.28,2,3,TRUE,"caught"
+1512738,"2026-02-13",1,"Canada","NS Dhaliwal",34,29,117.24,4,0,FALSE,NA
+1512738,"2026-02-13",1,"Canada","S Movva",21,21,100,2,0,TRUE,"caught"
+1512738,"2026-02-13",1,"Canada","DS Bajwa",11,13,84.62,2,0,TRUE,"caught"
+1512738,"2026-02-13",1,"Canada","D Heyliger",6,2,300,0,1,FALSE,NA
+1512738,"2026-02-13",1,"Canada","Saad Bin Zafar",5,4,125,1,0,TRUE,"caught"
+1512738,"2026-02-13",1,"Canada","YS Samra",5,5,100,0,0,TRUE,"caught"
+1512738,"2026-02-13",1,"Canada","Jaskaran Singh",4,4,100,0,0,FALSE,NA
+1512738,"2026-02-13",1,"Canada","NR Kirton",4,8,50,0,0,TRUE,"caught"
+1512738,"2026-02-13",2,"United Arab Emirates","A Sharma",74,57,129.82,6,3,FALSE,NA
+1512738,"2026-02-13",2,"United Arab Emirates","Shoaib Khan",51,30,170,4,4,TRUE,"caught"
+1512738,"2026-02-13",2,"United Arab Emirates","A Sharafu",5,13,38.46,0,0,TRUE,"caught"
+1512738,"2026-02-13",2,"United Arab Emirates","H Kaushik",5,9,55.56,1,0,TRUE,"caught"
+1512738,"2026-02-13",2,"United Arab Emirates","MR Kumar",4,6,66.67,0,0,TRUE,"caught"
+1512738,"2026-02-13",2,"United Arab Emirates","Waseem Muhammad",4,8,50,0,0,TRUE,"caught"
+1512738,"2026-02-13",2,"United Arab Emirates","Muhammad Arfan",1,1,100,0,0,FALSE,NA
+1512739,"2026-02-13",1,"United States of America","SR Mukkamalla",79,53,149.06,5,4,TRUE,"caught"
+1512739,"2026-02-13",1,"United States of America","Shubham Ranjane",48,25,192,3,2,FALSE,NA
+1512739,"2026-02-13",1,"United States of America","MD Patel",36,22,163.64,3,1,TRUE,"caught"
+1512739,"2026-02-13",1,"United States of America","Shayan Jahangir",20,14,142.86,1,2,TRUE,"bowled"
+1512739,"2026-02-13",1,"United States of America","Milind Kumar",3,4,75,0,0,TRUE,"caught"
+1512739,"2026-02-13",1,"United States of America","Harmeet Singh",1,2,50,0,0,TRUE,"caught"
+1512739,"2026-02-13",1,"United States of America","Mohammad Mohsin",1,1,100,0,0,FALSE,NA
+1512739,"2026-02-13",1,"United States of America","SP Krishnamurthi",1,2,50,0,0,TRUE,"bowled"
+1512739,"2026-02-13",2,"Netherlands","BFW de Leede",23,18,127.78,1,1,TRUE,"caught"
+1512739,"2026-02-13",2,"Netherlands","SA Edwards",20,14,142.86,2,0,TRUE,"bowled"
+1512739,"2026-02-13",2,"Netherlands","MP O'Dowd",13,11,118.18,1,0,TRUE,"caught"
+1512739,"2026-02-13",2,"Netherlands","RE van der Merwe",10,11,90.91,0,0,TRUE,"lbw"
+1512739,"2026-02-13",2,"Netherlands","A Dutt",9,7,128.57,0,1,TRUE,"bowled"
+1512739,"2026-02-13",2,"Netherlands","K Klein",6,11,54.55,0,0,FALSE,NA
+1512739,"2026-02-13",2,"Netherlands","ZB Lion-Cachet",6,5,120,1,0,TRUE,"bowled"
+1512739,"2026-02-13",2,"Netherlands","FJ Klaassen",3,7,42.86,0,0,TRUE,"caught"
+1512739,"2026-02-13",2,"Netherlands","M Levitt",3,9,33.33,0,0,TRUE,"bowled"
+1512739,"2026-02-13",2,"Netherlands","LV van Beek",2,5,40,0,0,TRUE,"bowled"
+1512739,"2026-02-13",2,"Netherlands","CN Ackermann",0,1,0,0,0,TRUE,"caught"
+1512740,"2026-02-14",1,"Ireland","L Tucker",94,53,177.36,10,4,FALSE,NA
+1512740,"2026-02-14",1,"Ireland","GJ Delany",56,31,180.65,3,4,TRUE,"caught"
+1512740,"2026-02-14",1,"Ireland","GH Dockrell",35,9,388.89,0,5,FALSE,NA
+1512740,"2026-02-14",1,"Ireland","GR Adair",14,7,200,3,0,TRUE,"caught"
+1512740,"2026-02-14",1,"Ireland","HT Tector",14,13,107.69,2,0,TRUE,"bowled"
+1512740,"2026-02-14",1,"Ireland","C Campher",12,7,171.43,2,0,TRUE,"lbw"
+1512740,"2026-02-14",1,"Ireland","TH Tector",5,4,125,1,0,TRUE,"bowled"
+1512740,"2026-02-14",2,"Oman","Aamir Kaleem",50,29,172.41,5,2,TRUE,"caught"
+1512740,"2026-02-14",2,"Oman","Hammad Mirza",46,37,124.32,6,1,TRUE,"run out"
+1512740,"2026-02-14",2,"Oman","Sufyan Mehmood",10,11,90.91,1,0,TRUE,"caught"
+1512740,"2026-02-14",2,"Oman","Shah Faisal",9,7,128.57,1,0,FALSE,NA
+1512740,"2026-02-14",2,"Oman","Jatinder Singh",7,5,140,1,0,TRUE,"lbw"
+1512740,"2026-02-14",2,"Oman","Shakeel Ahmed",4,6,66.67,1,0,TRUE,"caught and bowled"
+1512740,"2026-02-14",2,"Oman","J Ramanandi",3,6,50,0,0,TRUE,"caught"
+1512740,"2026-02-14",2,"Oman","AR Odedara",1,3,33.33,0,0,TRUE,"run out"
+1512740,"2026-02-14",2,"Oman","Mohammad Nadeem",1,3,33.33,0,0,TRUE,"caught"
+1512740,"2026-02-14",2,"Oman","Nadeem Khan",0,2,0,0,0,TRUE,"bowled"
+1512740,"2026-02-14",2,"Oman","V Shukla",0,3,0,0,0,TRUE,"caught"
+1512741,"2026-02-14",1,"Scotland","RD Berrington",49,34,144.12,5,2,TRUE,"lbw"
+1512741,"2026-02-14",1,"Scotland","MA Jones",33,20,165,5,1,TRUE,"caught"
+1512741,"2026-02-14",1,"Scotland","TC Bruce",24,18,133.33,1,1,TRUE,"caught"
+1512741,"2026-02-14",1,"Scotland","O Davidson",20,17,117.65,2,1,FALSE,NA
+1512741,"2026-02-14",1,"Scotland","MH Cross",8,10,80,1,0,TRUE,"caught"
+1512741,"2026-02-14",1,"Scotland","HG Munsey",4,6,66.67,1,0,TRUE,"caught"
+1512741,"2026-02-14",1,"Scotland","BJ Currie",2,5,40,0,0,FALSE,NA
+1512741,"2026-02-14",1,"Scotland","BTJ Wheal",2,3,66.67,0,0,TRUE,"caught"
+1512741,"2026-02-14",1,"Scotland","MRJ Watt",2,4,50,0,0,TRUE,"bowled"
+1512741,"2026-02-14",1,"Scotland","MA Leask",1,4,25,0,0,TRUE,"caught"
+1512741,"2026-02-14",1,"Scotland","BJ McMullen",0,2,0,0,0,TRUE,"caught"
+1512741,"2026-02-14",2,"England","T Banton",63,42,150,4,3,FALSE,NA
+1512741,"2026-02-14",2,"England","JG Bethell",32,28,114.29,2,1,TRUE,"caught"
+1512741,"2026-02-14",2,"England","SM Curran",28,20,140,1,2,TRUE,"caught"
+1512741,"2026-02-14",2,"England","WG Jacks",16,11,145.45,1,1,FALSE,NA
+1512741,"2026-02-14",2,"England","HC Brook",4,4,100,0,0,TRUE,"caught"
+1512741,"2026-02-14",2,"England","JC Buttler",3,5,60,0,0,TRUE,"caught"
+1512741,"2026-02-14",2,"England","PD Salt",2,3,66.67,0,0,TRUE,"caught"
+1512742,"2026-02-14",1,"New Zealand","MS Chapman",48,26,184.62,6,2,TRUE,"caught"
+1512742,"2026-02-14",1,"New Zealand","DJ Mitchell",32,24,133.33,2,1,TRUE,"caught"
+1512742,"2026-02-14",1,"New Zealand","FH Allen",31,17,182.35,4,2,TRUE,"caught"
+1512742,"2026-02-14",1,"New Zealand","JDS Neesham",23,15,153.33,3,0,FALSE,NA
+1512742,"2026-02-14",1,"New Zealand","R Ravindra",13,8,162.5,1,1,TRUE,"caught"
+1512742,"2026-02-14",1,"New Zealand","TL Seifert",13,9,144.44,1,1,TRUE,"caught"
+1512742,"2026-02-14",1,"New Zealand","MJ Henry",9,8,112.5,1,0,FALSE,NA
+1512742,"2026-02-14",1,"New Zealand","MJ Santner",4,10,40,0,0,TRUE,"caught"
+1512742,"2026-02-14",1,"New Zealand","GD Phillips",1,3,33.33,0,0,TRUE,"bowled"
+1512742,"2026-02-14",2,"South Africa","AK Markram",86,48,179.17,8,4,FALSE,NA
+1512742,"2026-02-14",2,"South Africa","DA Miller",24,18,133.33,1,1,FALSE,NA
+1512742,"2026-02-14",2,"South Africa","D Brevis",21,17,123.53,1,1,TRUE,"caught"
+1512742,"2026-02-14",2,"South Africa","RD Rickelton",21,11,190.91,2,1,TRUE,"caught"
+1512742,"2026-02-14",2,"South Africa","Q de Kock",20,15,133.33,3,1,TRUE,"bowled"
+1512743,"2026-02-15",1,"Nepal","DS Airee",58,48,120.83,3,3,TRUE,"caught"
+1512743,"2026-02-15",1,"Nepal","Sompal Kami",26,15,173.33,4,0,FALSE,NA
+1512743,"2026-02-15",1,"Nepal","Lokesh Bam",13,16,81.25,2,0,TRUE,"caught"
+1512743,"2026-02-15",1,"Nepal","Aasif Sheikh",11,10,110,2,0,TRUE,"caught"
+1512743,"2026-02-15",1,"Nepal","Gulsan Jha",11,14,78.57,0,1,TRUE,"bowled"
+1512743,"2026-02-15",1,"Nepal","RK Paudel",5,7,71.43,1,0,TRUE,"lbw"
+1512743,"2026-02-15",1,"Nepal","Aarif Sheikh",2,8,25,0,0,TRUE,"caught"
+1512743,"2026-02-15",1,"Nepal","K Bhurtel",1,3,33.33,0,0,TRUE,"bowled"
+1512743,"2026-02-15",1,"Nepal","Karan KC",1,3,33.33,0,0,TRUE,"caught"
+1512743,"2026-02-15",2,"West Indies","SD Hope",61,44,138.64,5,3,FALSE,NA
+1512743,"2026-02-15",2,"West Indies","SO Hetmyer",46,33,139.39,4,2,FALSE,NA
+1512743,"2026-02-15",2,"West Indies","BA King",22,20,110,4,0,TRUE,"caught"
+1512744,"2026-02-15",1,"United States of America","SP Krishnamurthi",68,34,200,4,6,FALSE,NA
+1512744,"2026-02-15",1,"United States of America","MD Patel",52,31,167.74,3,3,TRUE,"caught"
+1512744,"2026-02-15",1,"United States of America","Milind Kumar",28,21,133.33,1,1,TRUE,"caught"
+1512744,"2026-02-15",1,"United States of America","Shayan Jahangir",22,18,122.22,2,1,TRUE,"caught"
+1512744,"2026-02-15",1,"United States of America","SR Mukkamalla",17,18,94.44,2,0,TRUE,"caught"
+1512744,"2026-02-15",1,"United States of America","Shubham Ranjane",5,2,250,1,0,FALSE,NA
+1512744,"2026-02-15",2,"Namibia","L Steenkamp",58,41,141.46,5,3,TRUE,"caught"
+1512744,"2026-02-15",2,"Namibia","JJ Smit",31,24,129.17,1,1,TRUE,"caught"
+1512744,"2026-02-15",2,"Namibia","JN Loftie-Eaton",28,17,164.71,4,0,TRUE,"caught"
+1512744,"2026-02-15",2,"Namibia","JN Frylinck",19,15,126.67,1,1,TRUE,"caught and bowled"
+1512744,"2026-02-15",2,"Namibia","ZE Green",18,13,138.46,2,0,TRUE,"retired out"
+1512744,"2026-02-15",2,"Namibia","MG Erasmus",6,10,60,0,0,TRUE,"caught"
+1512744,"2026-02-15",2,"Namibia","R Trumpelmann",3,2,150,0,0,FALSE,NA
+1512744,"2026-02-15",2,"Namibia","DO Leicher",0,1,0,0,0,FALSE,NA
+1512745,"2026-02-15",1,"India","Ishan Kishan",77,40,192.5,10,3,TRUE,"bowled"
+1512745,"2026-02-15",1,"India","SA Yadav",32,30,106.67,3,0,TRUE,"caught"
+1512745,"2026-02-15",1,"India","S Dube",27,17,158.82,3,1,FALSE,NA
+1512745,"2026-02-15",1,"India","Tilak Varma",25,24,104.17,2,1,TRUE,"lbw"
+1512745,"2026-02-15",1,"India","RK Singh",11,4,275,1,1,FALSE,NA
+1512745,"2026-02-15",1,"India","AR Patel",0,1,0,0,0,TRUE,"caught"
+1512745,"2026-02-15",1,"India","Abhishek Sharma",0,4,0,0,0,TRUE,"caught"
+1512745,"2026-02-15",1,"India","HH Pandya",0,1,0,0,0,TRUE,"caught"
+1512745,"2026-02-15",2,"Pakistan","Usman Khan",44,34,129.41,6,1,TRUE,"stumped"
+1512745,"2026-02-15",2,"Pakistan","Shaheen Shah Afridi",23,20,115,2,1,FALSE,NA
+1512745,"2026-02-15",2,"Pakistan","Shadab Khan",14,15,93.33,1,0,TRUE,"caught"
+1512745,"2026-02-15",2,"Pakistan","Faheem Ashraf",10,15,66.67,1,0,TRUE,"caught"
+1512745,"2026-02-15",2,"Pakistan","Saim Ayub",6,2,300,0,1,TRUE,"lbw"
+1512745,"2026-02-15",2,"Pakistan","Babar Azam",5,8,62.5,0,0,TRUE,"bowled"
+1512745,"2026-02-15",2,"Pakistan","Agha Salman",4,4,100,1,0,TRUE,"caught"
+1512745,"2026-02-15",2,"Pakistan","Mohammad Nawaz",4,5,80,1,0,TRUE,"caught"
+1512745,"2026-02-15",2,"Pakistan","Abrar Ahmed",0,1,0,0,0,TRUE,"lbw"
+1512745,"2026-02-15",2,"Pakistan","Sahibzada Farhan",0,4,0,0,0,TRUE,"caught"
+1512745,"2026-02-15",2,"Pakistan","Usman Tariq",0,3,0,0,0,TRUE,"bowled"
+1512747,"2026-02-16",1,"England","WG Jacks",53,24,220.83,3,4,FALSE,NA
+1512747,"2026-02-16",1,"England","T Banton",30,21,142.86,3,1,TRUE,"caught"
+1512747,"2026-02-16",1,"England","PD Salt",28,16,175,2,2,TRUE,"caught"
+1512747,"2026-02-16",1,"England","SM Curran",25,19,131.58,0,2,TRUE,"caught"
+1512747,"2026-02-16",1,"England","JG Bethell",23,20,115,2,1,TRUE,"caught"
+1512747,"2026-02-16",1,"England","J Overton",15,12,125,1,1,TRUE,"caught"
+1512747,"2026-02-16",1,"England","HC Brook",14,9,155.56,1,1,TRUE,"caught"
+1512747,"2026-02-16",1,"England","JC Buttler",3,4,75,0,0,TRUE,"caught"
+1512747,"2026-02-16",1,"England","JC Archer",1,2,50,0,0,FALSE,NA
+1512747,"2026-02-16",2,"Italy","BAD Manenti",60,25,240,4,6,TRUE,"caught"
+1512747,"2026-02-16",2,"Italy","G Stewart",45,24,187.5,2,5,TRUE,"caught"
+1512747,"2026-02-16",2,"Italy","J Mosca",43,34,126.47,7,0,TRUE,"caught"
+1512747,"2026-02-16",2,"Italy","HJ Manenti",12,11,109.09,1,1,TRUE,"caught"
+1512747,"2026-02-16",2,"Italy","Jaspreet Singh",12,12,100,0,1,TRUE,"caught"
+1512747,"2026-02-16",2,"Italy","M Campopiano",2,6,33.33,0,0,TRUE,"caught"
+1512747,"2026-02-16",2,"Italy","AJ Mosca",0,1,0,0,0,TRUE,"caught"
+1512747,"2026-02-16",2,"Italy","Ali Hasan",0,4,0,0,0,TRUE,"bowled"
+1512747,"2026-02-16",2,"Italy","CJPF Kalugamage",0,1,0,0,0,FALSE,NA
+1512747,"2026-02-16",2,"Italy","GP Meade",0,1,0,0,0,TRUE,"caught"
+1512747,"2026-02-16",2,"Italy","JT Smuts",0,4,0,0,0,TRUE,"caught"
+1512748,"2026-02-16",1,"Australia","TM Head",56,30,186.67,7,3,TRUE,"caught"
+1512748,"2026-02-16",1,"Australia","MR Marsh",54,28,192.86,8,2,TRUE,"lbw"
+1512748,"2026-02-16",1,"Australia","JP Inglis",27,22,122.73,3,0,TRUE,"caught"
+1512748,"2026-02-16",1,"Australia","GJ Maxwell",22,15,146.67,1,1,TRUE,"caught"
+1512748,"2026-02-16",1,"Australia","TH David",6,6,100,1,0,TRUE,"caught"
+1512748,"2026-02-16",1,"Australia","MP Stoinis",4,6,66.67,0,0,TRUE,"caught"
+1512748,"2026-02-16",1,"Australia","C Connolly",3,4,75,0,0,TRUE,"caught"
+1512748,"2026-02-16",1,"Australia","C Green",3,7,42.86,0,0,TRUE,"stumped"
+1512748,"2026-02-16",1,"Australia","A Zampa",1,1,100,0,0,TRUE,"run out"
+1512748,"2026-02-16",1,"Australia","NT Ellis",0,2,0,0,0,FALSE,NA
+1512748,"2026-02-16",1,"Australia","XC Bartlett",0,3,0,0,0,FALSE,NA
+1512748,"2026-02-16",2,"Sri Lanka","P Nissanka",100,55,181.82,10,5,FALSE,NA
+1512748,"2026-02-16",2,"Sri Lanka","BKG Mendis",51,39,130.77,6,1,TRUE,"caught"
+1512748,"2026-02-16",2,"Sri Lanka","P Rathnayake",28,15,186.67,6,0,FALSE,NA
+1512748,"2026-02-16",2,"Sri Lanka","MDKJ Perera",1,3,33.33,0,0,TRUE,"caught"
+1512749,"2026-02-17",1,"Canada","YS Samra",110,67,164.18,11,6,TRUE,"caught"
+1512749,"2026-02-17",1,"Canada","DS Bajwa",36,40,90,4,0,TRUE,"caught"
+1512749,"2026-02-17",1,"Canada","NS Dhaliwal",10,7,142.86,0,1,TRUE,"caught"
+1512749,"2026-02-17",1,"Canada","D Heyliger",8,3,266.67,0,1,FALSE,NA
+1512749,"2026-02-17",1,"Canada","H Thaker",3,3,100,0,0,FALSE,NA
+1512749,"2026-02-17",1,"Canada","NR Kirton",2,3,66.67,0,0,TRUE,"lbw"
+1512749,"2026-02-17",2,"New Zealand","GD Phillips",76,41,185.37,4,6,FALSE,NA
+1512749,"2026-02-17",2,"New Zealand","R Ravindra",59,42,140.48,4,3,FALSE,NA
+1512749,"2026-02-17",2,"New Zealand","FH Allen",21,9,233.33,2,1,TRUE,"caught"
+1512749,"2026-02-17",2,"New Zealand","TL Seifert",6,10,60,1,0,TRUE,"caught"
+1512751,"2026-02-17",1,"Scotland","MA Jones",71,46,154.35,8,3,TRUE,"bowled"
+1512751,"2026-02-17",1,"Scotland","HG Munsey",27,29,93.1,4,0,TRUE,"caught"
+1512751,"2026-02-17",1,"Scotland","BJ McMullen",25,20,125,1,1,TRUE,"caught and bowled"
+1512751,"2026-02-17",1,"Scotland","MRJ Watt",10,4,250,0,1,FALSE,NA
+1512751,"2026-02-17",1,"Scotland","RD Berrington",10,6,166.67,0,1,TRUE,"caught"
+1512751,"2026-02-17",1,"Scotland","TC Bruce",5,6,83.33,0,0,TRUE,"bowled"
+1512751,"2026-02-17",1,"Scotland","MA Leask",4,8,50,0,0,TRUE,"caught"
+1512751,"2026-02-17",1,"Scotland","MH Cross",4,2,200,1,0,TRUE,"bowled"
+1512751,"2026-02-17",1,"Scotland","O Davidson",1,2,50,0,0,FALSE,NA
+1512751,"2026-02-17",2,"Nepal","DS Airee",50,23,217.39,4,3,FALSE,NA
+1512751,"2026-02-17",2,"Nepal","K Bhurtel",43,35,122.86,1,4,TRUE,"caught"
+1512751,"2026-02-17",2,"Nepal","Aasif Sheikh",33,28,117.86,0,2,TRUE,"caught"
+1512751,"2026-02-17",2,"Nepal","Gulsan Jha",24,18,133.33,1,2,FALSE,NA
+1512751,"2026-02-17",2,"Nepal","RK Paudel",16,14,114.29,1,0,TRUE,"caught"
+1512752,"2026-02-18",1,"United Arab Emirates","A Sharafu",45,38,118.42,5,1,TRUE,"caught"
+1512752,"2026-02-18",1,"United Arab Emirates","Waseem Muhammad",22,14,157.14,4,0,TRUE,"lbw"
+1512752,"2026-02-18",1,"United Arab Emirates","A Sharma",13,18,72.22,1,1,TRUE,"caught"
+1512752,"2026-02-18",1,"United Arab Emirates","Muhammad Arfan",11,19,57.89,0,0,TRUE,"caught"
+1512752,"2026-02-18",1,"United Arab Emirates","Shoaib Khan",6,11,54.55,0,0,TRUE,"caught"
+1512752,"2026-02-18",1,"United Arab Emirates","Syed Haider",6,15,40,0,0,TRUE,"caught"
+1512752,"2026-02-18",1,"United Arab Emirates","D Parashar",5,7,71.43,0,0,FALSE,NA
+1512752,"2026-02-18",1,"United Arab Emirates","Muhammad Farooq",1,2,50,0,0,FALSE,NA
+1512752,"2026-02-18",2,"South Africa","D Brevis",36,27,133.33,1,3,TRUE,"caught"
+1512752,"2026-02-18",2,"South Africa","RD Rickelton",30,16,187.5,3,2,TRUE,"caught"
+1512752,"2026-02-18",2,"South Africa","AK Markram",28,11,254.55,5,1,TRUE,"bowled"
+1512752,"2026-02-18",2,"South Africa","Q de Kock",14,16,87.5,3,0,TRUE,"caught"
+1512752,"2026-02-18",2,"South Africa","T Stubbs",6,7,85.71,0,0,FALSE,NA
+1512752,"2026-02-18",2,"South Africa","JF Smith",3,5,60,0,0,FALSE,NA
+1512753,"2026-02-18",1,"Pakistan","Sahibzada Farhan",100,59,169.49,11,4,FALSE,NA
+1512753,"2026-02-18",1,"Pakistan","Agha Salman",38,24,158.33,3,2,TRUE,"caught"
+1512753,"2026-02-18",1,"Pakistan","Shadab Khan",36,24,150,1,3,FALSE,NA
+1512753,"2026-02-18",1,"Pakistan","Saim Ayub",14,12,116.67,2,0,TRUE,"caught"
+1512753,"2026-02-18",1,"Pakistan","Khawaja Nafay",5,5,100,1,0,TRUE,"caught and bowled"
+1512753,"2026-02-18",2,"Namibia","L Steenkamp",23,22,104.55,3,1,TRUE,"caught"
+1512753,"2026-02-18",2,"Namibia","A Busing-Volschenk",20,22,90.91,1,1,TRUE,"stumped"
+1512753,"2026-02-18",2,"Namibia","JJ Smit",9,13,69.23,0,0,TRUE,"caught"
+1512753,"2026-02-18",2,"Namibia","JN Frylinck",9,12,75,1,0,TRUE,"bowled"
+1512753,"2026-02-18",2,"Namibia","WP Myburgh",8,14,57.14,0,0,TRUE,"caught"
+1512753,"2026-02-18",2,"Namibia","MG Erasmus",7,7,100,1,0,TRUE,"caught"
+1512753,"2026-02-18",2,"Namibia","ZE Green",7,9,77.78,0,0,TRUE,"caught"
+1512753,"2026-02-18",2,"Namibia","JN Loftie-Eaton",5,5,100,1,0,TRUE,"run out"
+1512753,"2026-02-18",2,"Namibia","BM Scholtz",1,2,50,0,0,TRUE,"bowled"
+1512753,"2026-02-18",2,"Namibia","JT Brassell",1,1,100,0,0,FALSE,NA
+1512753,"2026-02-18",2,"Namibia","R Trumpelmann",0,2,0,0,0,TRUE,"bowled"
+1512754,"2026-02-18",1,"India","S Dube",66,36,183.33,4,6,TRUE,"caught"
+1512754,"2026-02-18",1,"India","SA Yadav",34,30,113.33,2,1,TRUE,"caught"
+1512754,"2026-02-18",1,"India","Tilak Varma",31,27,114.81,3,1,TRUE,"caught"
+1512754,"2026-02-18",1,"India","HH Pandya",30,21,142.86,0,3,TRUE,"caught"
+1512754,"2026-02-18",1,"India","Ishan Kishan",18,7,257.14,2,1,TRUE,"bowled"
+1512754,"2026-02-18",1,"India","RK Singh",6,3,200,0,1,FALSE,NA
+1512754,"2026-02-18",1,"India","Abhishek Sharma",0,3,0,0,0,TRUE,"bowled"
+1512754,"2026-02-18",2,"Netherlands","BFW de Leede",33,25,132,3,1,TRUE,"caught"
+1512754,"2026-02-18",2,"Netherlands","ZB Lion-Cachet",26,16,162.5,1,1,TRUE,"caught"
+1512754,"2026-02-18",2,"Netherlands","NRJ Croes",25,12,208.33,5,0,FALSE,NA
+1512754,"2026-02-18",2,"Netherlands","M Levitt",24,23,104.35,4,0,TRUE,"caught"
+1512754,"2026-02-18",2,"Netherlands","CN Ackermann",23,16,143.75,1,2,TRUE,"caught"
+1512754,"2026-02-18",2,"Netherlands","MP O'Dowd",20,19,105.26,2,1,TRUE,"bowled"
+1512754,"2026-02-18",2,"Netherlands","SA Edwards",15,10,150,2,0,TRUE,"bowled"
+1512754,"2026-02-18",2,"Netherlands","LV van Beek",4,2,200,1,0,FALSE,NA
+1512754,"2026-02-18",2,"Netherlands","A Dutt",0,1,0,0,0,TRUE,"bowled"
+1512755,"2026-02-19",1,"West Indies","SD Hope",75,46,163.04,6,4,TRUE,"bowled"
+1512755,"2026-02-19",1,"West Indies","RL Chase",24,25,96,2,0,TRUE,"caught"
+1512755,"2026-02-19",1,"West Indies","SE Rutherford",24,17,141.18,2,1,FALSE,NA
+1512755,"2026-02-19",1,"West Indies","MW Forde",16,8,200,3,0,FALSE,NA
+1512755,"2026-02-19",1,"West Indies","JO Holder",9,7,128.57,0,1,TRUE,"caught"
+1512755,"2026-02-19",1,"West Indies","R Powell",9,9,100,0,1,TRUE,"caught"
+1512755,"2026-02-19",1,"West Indies","BA King",4,6,66.67,0,0,TRUE,"caught"
+1512755,"2026-02-19",1,"West Indies","SO Hetmyer",1,5,20,0,0,TRUE,"caught"
+1512755,"2026-02-19",2,"Italy","BAD Manenti",26,22,118.18,2,1,TRUE,"bowled"
+1512755,"2026-02-19",2,"Italy","JT Smuts",24,27,88.89,3,0,TRUE,"caught"
+1512755,"2026-02-19",2,"Italy","AJ Mosca",19,12,158.33,1,2,TRUE,"caught"
+1512755,"2026-02-19",2,"Italy","G Stewart",12,7,171.43,0,1,TRUE,"caught"
+1512755,"2026-02-19",2,"Italy","HJ Manenti",8,11,72.73,0,1,TRUE,"caught"
+1512755,"2026-02-19",2,"Italy","Syed Naqvi",6,11,54.55,0,0,TRUE,"caught"
+1512755,"2026-02-19",2,"Italy","TJ Draca",5,3,166.67,1,0,TRUE,"caught"
+1512755,"2026-02-19",2,"Italy","GP Meade",4,8,50,0,0,TRUE,"caught"
+1512755,"2026-02-19",2,"Italy","CJPF Kalugamage",2,4,50,0,0,FALSE,NA
+1512755,"2026-02-19",2,"Italy","J Mosca",2,6,33.33,0,0,TRUE,"bowled"
+1512755,"2026-02-19",2,"Italy","Ali Hasan",0,2,0,0,0,TRUE,"caught"
+1512756,"2026-02-19",1,"Sri Lanka","P Nissanka",62,42,147.62,8,0,TRUE,"caught"
+1512756,"2026-02-19",1,"Sri Lanka","P Rathnayake",44,26,169.23,3,2,TRUE,"caught"
+1512756,"2026-02-19",1,"Sri Lanka","MDKJ Perera",22,14,157.14,4,0,TRUE,"caught"
+1512756,"2026-02-19",1,"Sri Lanka","DN Wellalage",15,8,187.5,3,0,FALSE,NA
+1512756,"2026-02-19",1,"Sri Lanka","BKG Mendis",14,20,70,0,0,TRUE,"stumped"
+1512756,"2026-02-19",1,"Sri Lanka","PHKD Mendis",7,7,100,1,0,TRUE,"caught and bowled"
+1512756,"2026-02-19",1,"Sri Lanka","MD Shanaka",6,7,85.71,0,0,TRUE,"caught"
+1512756,"2026-02-19",1,"Sri Lanka","MADI Hemantha",0,1,0,0,0,TRUE,"caught"
+1512756,"2026-02-19",2,"Zimbabwe","BJ Bennett",63,50,126,8,0,FALSE,NA
+1512756,"2026-02-19",2,"Zimbabwe","Sikandar Raza",45,27,166.67,2,4,TRUE,"caught"
+1512756,"2026-02-19",2,"Zimbabwe","T Marumani",34,27,125.93,5,1,TRUE,"caught and bowled"
+1512756,"2026-02-19",2,"Zimbabwe","RP Burl",23,12,191.67,2,1,TRUE,"caught"
+1512756,"2026-02-19",2,"Zimbabwe","T Munyonga",8,4,200,0,1,FALSE,NA
+1512756,"2026-02-19",2,"Zimbabwe","T Musekiwa",1,2,50,0,0,TRUE,"caught"
+1512758,"2026-02-20",1,"Oman","Wasim Ali",32,33,96.97,4,0,TRUE,"bowled"
+1512758,"2026-02-20",1,"Oman","Jatinder Singh",17,16,106.25,3,0,TRUE,"bowled"
+1512758,"2026-02-20",1,"Oman","Hammad Mirza",16,14,114.29,1,1,TRUE,"bowled"
+1512758,"2026-02-20",1,"Oman","K Sonavale",12,11,109.09,2,0,TRUE,"bowled"
+1512758,"2026-02-20",1,"Oman","V Shukla",9,8,112.5,1,0,TRUE,"caught"
+1512758,"2026-02-20",1,"Oman","Jay Odedra",4,3,133.33,1,0,FALSE,NA
+1512758,"2026-02-20",1,"Oman","Shakeel Ahmed",3,7,42.86,0,0,TRUE,"caught"
+1512758,"2026-02-20",1,"Oman","Mohammad Nadeem",2,3,66.67,0,0,TRUE,"lbw"
+1512758,"2026-02-20",1,"Oman","J Ramanandi",1,3,33.33,0,0,TRUE,"lbw"
+1512758,"2026-02-20",1,"Oman","Aamir Kaleem",0,1,0,0,0,TRUE,"bowled"
+1512758,"2026-02-20",1,"Oman","Shafiq Jan",0,1,0,0,0,TRUE,"bowled"
+1512758,"2026-02-20",2,"Australia","MR Marsh",64,33,193.94,7,4,FALSE,NA
+1512758,"2026-02-20",2,"Australia","TM Head",32,19,168.42,6,0,TRUE,"caught and bowled"
+1512758,"2026-02-20",2,"Australia","JP Inglis",12,6,200,2,0,FALSE,NA
+1512760,"2026-02-22",1,"England","PD Salt",62,41,151.22,6,2,TRUE,"caught"
+1512760,"2026-02-22",1,"England","WG Jacks",21,15,140,4,0,TRUE,"caught"
+1512760,"2026-02-22",1,"England","HC Brook",14,7,200,1,1,TRUE,"lbw"
+1512760,"2026-02-22",1,"England","SM Curran",11,11,100,0,1,TRUE,"caught"
+1512760,"2026-02-22",1,"England","J Overton",10,11,90.91,0,1,FALSE,NA
+1512760,"2026-02-22",1,"England","JC Buttler",7,14,50,0,0,TRUE,"lbw"
+1512760,"2026-02-22",1,"England","LA Dawson",6,11,54.55,0,0,TRUE,"caught"
+1512760,"2026-02-22",1,"England","T Banton",6,7,85.71,0,0,TRUE,"run out"
+1512760,"2026-02-22",1,"England","JG Bethell",3,4,75,0,0,TRUE,"caught"
+1512760,"2026-02-22",1,"England","AU Rashid",1,1,100,0,0,FALSE,NA
+1512760,"2026-02-22",1,"England","JC Archer",0,1,0,0,0,TRUE,"caught"
+1512760,"2026-02-22",2,"Sri Lanka","MD Shanaka",30,24,125,1,2,TRUE,"caught"
+1512760,"2026-02-22",2,"Sri Lanka","PHKD Mendis",13,11,118.18,1,1,TRUE,"caught and bowled"
+1512760,"2026-02-22",2,"Sri Lanka","DN Wellalage",10,10,100,2,0,TRUE,"caught"
+1512760,"2026-02-22",2,"Sri Lanka","M Theekshana",10,8,125,1,0,FALSE,NA
+1512760,"2026-02-22",2,"Sri Lanka","P Nissanka",9,8,112.5,2,0,TRUE,"caught"
+1512760,"2026-02-22",2,"Sri Lanka","K Mishara",6,12,50,1,0,TRUE,"caught"
+1512760,"2026-02-22",2,"Sri Lanka","PVD Chameera",6,14,42.86,0,0,TRUE,"bowled"
+1512760,"2026-02-22",2,"Sri Lanka","MADI Hemantha",5,8,62.5,0,0,TRUE,"hit wicket"
+1512760,"2026-02-22",2,"Sri Lanka","BKG Mendis",4,4,100,1,0,TRUE,"caught and bowled"
+1512760,"2026-02-22",2,"Sri Lanka","D Madushanka",0,2,0,0,0,TRUE,"bowled"
+1512760,"2026-02-22",2,"Sri Lanka","P Rathnayake",0,1,0,0,0,TRUE,"caught"
+1512761,"2026-02-22",1,"South Africa","DA Miller",63,37,170.27,7,3,TRUE,"caught"
+1512761,"2026-02-22",1,"South Africa","D Brevis",45,33,136.36,3,3,TRUE,"caught"
+1512761,"2026-02-22",1,"South Africa","T Stubbs",44,24,183.33,1,3,FALSE,NA
+1512761,"2026-02-22",1,"South Africa","RD Rickelton",7,7,100,0,1,TRUE,"caught"
+1512761,"2026-02-22",1,"South Africa","Q de Kock",6,7,85.71,1,0,TRUE,"bowled"
+1512761,"2026-02-22",1,"South Africa","C Bosch",5,6,83.33,1,0,TRUE,"caught and bowled"
+1512761,"2026-02-22",1,"South Africa","AK Markram",4,7,57.14,0,0,TRUE,"caught"
+1512761,"2026-02-22",1,"South Africa","M Jansen",2,6,33.33,0,0,TRUE,"caught"
+1512761,"2026-02-22",1,"South Africa","K Rabada",0,1,0,0,0,FALSE,NA
+1512761,"2026-02-22",2,"India","S Dube",42,37,113.51,1,3,TRUE,"caught"
+1512761,"2026-02-22",2,"India","HH Pandya",18,19,94.74,0,1,TRUE,"caught"
+1512761,"2026-02-22",2,"India","SA Yadav",18,23,78.26,2,0,TRUE,"caught"
+1512761,"2026-02-22",2,"India","Abhishek Sharma",15,13,115.38,2,1,TRUE,"caught"
+1512761,"2026-02-22",2,"India","Washington Sundar",11,11,100,0,1,TRUE,"caught"
+1512761,"2026-02-22",2,"India","Arshdeep Singh",1,2,50,0,0,TRUE,"caught"
+1512761,"2026-02-22",2,"India","Tilak Varma",1,2,50,0,0,TRUE,"caught"
+1512761,"2026-02-22",2,"India","CV Varun",0,3,0,0,0,FALSE,NA
+1512761,"2026-02-22",2,"India","Ishan Kishan",0,4,0,0,0,TRUE,"caught"
+1512761,"2026-02-22",2,"India","JJ Bumrah",0,1,0,0,0,TRUE,"caught"
+1512761,"2026-02-22",2,"India","RK Singh",0,2,0,0,0,TRUE,"caught"
+1512762,"2026-02-23",1,"West Indies","SO Hetmyer",85,38,223.68,7,7,TRUE,"caught"
+1512762,"2026-02-23",1,"West Indies","R Powell",59,37,159.46,4,4,TRUE,"caught"
+1512762,"2026-02-23",1,"West Indies","SE Rutherford",31,14,221.43,3,2,FALSE,NA
+1512762,"2026-02-23",1,"West Indies","R Shepherd",21,11,190.91,0,3,TRUE,"caught"
+1512762,"2026-02-23",1,"West Indies","SD Hope",14,14,100,2,0,TRUE,"caught"
+1512762,"2026-02-23",1,"West Indies","JO Holder",13,4,325,0,2,TRUE,"caught"
+1512762,"2026-02-23",1,"West Indies","BA King",9,12,75,0,1,TRUE,"caught"
+1512762,"2026-02-23",1,"West Indies","MW Forde",1,1,100,0,0,FALSE,NA
+1512762,"2026-02-23",2,"Zimbabwe","B Evans",43,22,195.45,2,5,TRUE,"caught"
+1512762,"2026-02-23",2,"Zimbabwe","D Myers",28,16,175,3,2,TRUE,"bowled"
+1512762,"2026-02-23",2,"Zimbabwe","Sikandar Raza",27,20,135,2,2,TRUE,"bowled"
+1512762,"2026-02-23",2,"Zimbabwe","T Marumani",14,8,175,2,1,TRUE,"caught"
+1512762,"2026-02-23",2,"Zimbabwe","T Munyonga",14,17,82.35,0,1,TRUE,"caught"
+1512762,"2026-02-23",2,"Zimbabwe","R Ngarava",7,7,100,0,1,FALSE,NA
+1512762,"2026-02-23",2,"Zimbabwe","BJ Bennett",5,6,83.33,1,0,TRUE,"bowled"
+1512762,"2026-02-23",2,"Zimbabwe","AG Cremer",0,6,0,0,0,TRUE,"caught and bowled"
+1512762,"2026-02-23",2,"Zimbabwe","B Muzarabani",0,5,0,0,0,TRUE,"caught"
+1512762,"2026-02-23",2,"Zimbabwe","RP Burl",0,3,0,0,0,TRUE,"caught"
+1512762,"2026-02-23",2,"Zimbabwe","T Musekiwa",0,1,0,0,0,TRUE,"bowled"
+1512763,"2026-02-24",1,"Pakistan","Sahibzada Farhan",63,45,140,7,2,TRUE,"lbw"
+1512763,"2026-02-24",1,"Pakistan","Babar Azam",25,25,100,2,0,TRUE,"bowled"
+1512763,"2026-02-24",1,"Pakistan","Fakhar Zaman",25,16,156.25,2,2,TRUE,"caught"
+1512763,"2026-02-24",1,"Pakistan","Shadab Khan",23,12,191.67,4,0,TRUE,"run out"
+1512763,"2026-02-24",1,"Pakistan","Usman Khan",8,5,160,0,1,TRUE,"caught"
+1512763,"2026-02-24",1,"Pakistan","Saim Ayub",7,8,87.5,1,0,TRUE,"caught"
+1512763,"2026-02-24",1,"Pakistan","Agha Salman",5,6,83.33,1,0,TRUE,"caught"
+1512763,"2026-02-24",1,"Pakistan","Salman Mirza",2,3,66.67,0,0,FALSE,NA
+1512763,"2026-02-24",1,"Pakistan","Shaheen Shah Afridi",2,3,66.67,0,0,TRUE,"caught"
+1512763,"2026-02-24",1,"Pakistan","Mohammad Nawaz",0,1,0,0,0,TRUE,"lbw"
+1512763,"2026-02-24",2,"England","HC Brook",100,52,192.31,10,4,TRUE,"bowled"
+1512763,"2026-02-24",2,"England","WG Jacks",28,25,112,1,2,TRUE,"bowled"
+1512763,"2026-02-24",2,"England","SM Curran",16,15,106.67,1,0,TRUE,"caught"
+1512763,"2026-02-24",2,"England","JG Bethell",8,10,80,1,0,TRUE,"caught"
+1512763,"2026-02-24",2,"England","JC Archer",5,2,250,1,0,FALSE,NA
+1512763,"2026-02-24",2,"England","JC Buttler",2,3,66.67,0,0,TRUE,"caught"
+1512763,"2026-02-24",2,"England","T Banton",2,6,33.33,0,0,TRUE,"caught"
+1512763,"2026-02-24",2,"England","LA Dawson",1,1,100,0,0,FALSE,NA
+1512763,"2026-02-24",2,"England","J Overton",0,3,0,0,0,TRUE,"stumped"
+1512763,"2026-02-24",2,"England","PD Salt",0,1,0,0,0,TRUE,"caught"
+1512764,"2026-02-25",1,"New Zealand","MJ Santner",47,29,162.07,2,4,TRUE,"caught"
+1512764,"2026-02-25",1,"New Zealand","R Ravindra",32,22,145.45,3,1,TRUE,"caught"
+1512764,"2026-02-25",1,"New Zealand","CE McConchie",31,24,129.17,3,2,FALSE,NA
+1512764,"2026-02-25",1,"New Zealand","FH Allen",23,13,176.92,3,1,TRUE,"caught and bowled"
+1512764,"2026-02-25",1,"New Zealand","GD Phillips",18,18,100,1,0,TRUE,"bowled"
+1512764,"2026-02-25",1,"New Zealand","TL Seifert",8,9,88.89,1,0,TRUE,"caught"
+1512764,"2026-02-25",1,"New Zealand","DJ Mitchell",3,7,42.86,0,0,TRUE,"bowled"
+1512764,"2026-02-25",1,"New Zealand","MS Chapman",0,2,0,0,0,TRUE,"bowled"
+1512764,"2026-02-25",2,"Sri Lanka","PHKD Mendis",31,26,119.23,4,0,TRUE,"caught"
+1512764,"2026-02-25",2,"Sri Lanka","DN Wellalage",29,24,120.83,2,1,TRUE,"caught"
+1512764,"2026-02-25",2,"Sri Lanka","BKG Mendis",11,22,50,1,0,TRUE,"stumped"
+1512764,"2026-02-25",2,"Sri Lanka","P Rathnayake",10,18,55.56,0,0,TRUE,"stumped"
+1512764,"2026-02-25",2,"Sri Lanka","PVD Chameera",7,12,58.33,0,0,FALSE,NA
+1512764,"2026-02-25",2,"Sri Lanka","KIC Asalanka",5,9,55.56,1,0,TRUE,"caught"
+1512764,"2026-02-25",2,"Sri Lanka","MADI Hemantha",3,6,50,0,0,TRUE,"caught"
+1512764,"2026-02-25",2,"Sri Lanka","MD Shanaka",3,5,60,0,0,TRUE,"caught"
+1512764,"2026-02-25",2,"Sri Lanka","M Theekshana",1,1,100,0,0,FALSE,NA
+1512764,"2026-02-25",2,"Sri Lanka","P Nissanka",0,1,0,0,0,TRUE,"bowled"

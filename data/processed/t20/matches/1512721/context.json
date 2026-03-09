@@ -1,0 +1,1114 @@
+{
+    "match_id": "1512721",
+    "metadata": {
+        "tournament": "2025/26",
+        "venue": "Wankhede Stadium, Mumbai",
+        "date": "2026-02-07",
+        "stage": "ICC Men's T20 World Cup",
+        "winner": "India",
+        "loser": "United States of America",
+        "win_classification": "Moderate",
+        "margin_runs": 29,
+        "margin_wickets": null,
+        "competitiveness_index": 85.0,
+        "teams": {
+            "India": {
+                "captain": "SA Yadav",
+                "playing_xi_count": 11
+            },
+            "United States of America": {
+                "captain": "MD Patel",
+                "playing_xi_count": 11
+            }
+        },
+        "team_summary": {
+            "India": {
+                "run_rate": 8.05,
+                "fours": 18,
+                "sixes": 7,
+                "boundary_runs": 114,
+                "dot_balls": 55,
+                "total_runs": 161,
+                "total_wickets": 9
+            },
+            "United States of America": {
+                "run_rate": 6.6,
+                "fours": 7,
+                "sixes": 7,
+                "boundary_runs": 70,
+                "dot_balls": 54,
+                "total_runs": 132,
+                "total_wickets": 8
+            }
+        },
+        "formulas": {
+            "competitiveness": "Base(Margin) + Pressure_Bonus(L5 Overs)",
+            "pressure": "((RR_Gap / Start_RR) * 40) + ((Wickets / 10) * 60)",
+            "batting_impact": "Runs + (SR/Match_SR * 25)",
+            "bowling_impact": "(Wickets * 30) + (Match_RR/Econ * 20)"
+        }
+    },
+    "scorecards": {
+        "batting": [
+            {
+                "player": "SA Yadav",
+                "team": "India",
+                "runs": 84,
+                "balls": 50,
+                "sr": 168.0,
+                "fours": 10,
+                "sixes": 4,
+                "win_contribution_percent": 52.2,
+                "score": 120.38
+            },
+            {
+                "player": "Tilak Varma",
+                "team": "India",
+                "runs": 25,
+                "balls": 16,
+                "sr": 156.25,
+                "fours": 3,
+                "sixes": 1,
+                "win_contribution_percent": 15.5,
+                "score": 58.84
+            },
+            {
+                "player": "Ishan Kishan",
+                "team": "India",
+                "runs": 20,
+                "balls": 16,
+                "sr": 125.0,
+                "fours": 1,
+                "sixes": 2,
+                "win_contribution_percent": 12.4,
+                "score": 47.07
+            },
+            {
+                "player": "AR Patel",
+                "team": "India",
+                "runs": 14,
+                "balls": 12,
+                "sr": 116.67,
+                "fours": 2,
+                "sixes": 0,
+                "win_contribution_percent": 8.7,
+                "score": 39.26
+            },
+            {
+                "player": "RK Singh",
+                "team": "India",
+                "runs": 6,
+                "balls": 14,
+                "sr": 42.86,
+                "fours": 0,
+                "sixes": 0,
+                "win_contribution_percent": 3.7,
+                "score": 15.28
+            },
+            {
+                "player": "HH Pandya",
+                "team": "India",
+                "runs": 5,
+                "balls": 6,
+                "sr": 83.33,
+                "fours": 1,
+                "sixes": 0,
+                "win_contribution_percent": 3.1,
+                "score": 23.05
+            },
+            {
+                "player": "Arshdeep Singh",
+                "team": "India",
+                "runs": 4,
+                "balls": 7,
+                "sr": 57.14,
+                "fours": 1,
+                "sixes": 0,
+                "win_contribution_percent": 2.5,
+                "score": 16.37
+            },
+            {
+                "player": "Abhishek Sharma",
+                "team": "India",
+                "runs": 0,
+                "balls": 1,
+                "sr": 0.0,
+                "fours": 0,
+                "sixes": 0,
+                "win_contribution_percent": 0.0,
+                "score": 0.0
+            },
+            {
+                "player": "S Dube",
+                "team": "India",
+                "runs": 0,
+                "balls": 1,
+                "sr": 0.0,
+                "fours": 0,
+                "sixes": 0,
+                "win_contribution_percent": 0.0,
+                "score": 0.0
+            },
+            {
+                "player": "SP Krishnamurthi",
+                "team": "United States of America",
+                "runs": 37,
+                "balls": 32,
+                "sr": 115.62,
+                "fours": 1,
+                "sixes": 2,
+                "win_contribution_percent": 28.0,
+                "score": 62.04
+            },
+            {
+                "player": "Shubham Ranjane",
+                "team": "United States of America",
+                "runs": 37,
+                "balls": 23,
+                "sr": 160.87,
+                "fours": 2,
+                "sixes": 3,
+                "win_contribution_percent": 28.0,
+                "score": 71.84
+            },
+            {
+                "player": "Milind Kumar",
+                "team": "United States of America",
+                "runs": 34,
+                "balls": 34,
+                "sr": 100.0,
+                "fours": 3,
+                "sixes": 1,
+                "win_contribution_percent": 25.8,
+                "score": 55.65
+            },
+            {
+                "player": "Mohammad Mohsin",
+                "team": "United States of America",
+                "runs": 8,
+                "balls": 9,
+                "sr": 88.89,
+                "fours": 1,
+                "sixes": 0,
+                "win_contribution_percent": 6.1,
+                "score": 27.25
+            },
+            {
+                "player": "AGS Gous",
+                "team": "United States of America",
+                "runs": 6,
+                "balls": 10,
+                "sr": 60.0,
+                "fours": 0,
+                "sixes": 1,
+                "win_contribution_percent": 4.5,
+                "score": 18.99
+            },
+            {
+                "player": "SC van Schalkwyk",
+                "team": "United States of America",
+                "runs": 2,
+                "balls": 5,
+                "sr": 40.0,
+                "fours": 0,
+                "sixes": 0,
+                "win_contribution_percent": 1.5,
+                "score": 10.66
+            },
+            {
+                "player": "SR Mukkamalla",
+                "team": "United States of America",
+                "runs": 2,
+                "balls": 7,
+                "sr": 28.57,
+                "fours": 0,
+                "sixes": 0,
+                "win_contribution_percent": 1.5,
+                "score": 8.19
+            },
+            {
+                "player": "Harmeet Singh",
+                "team": "United States of America",
+                "runs": 0,
+                "balls": 1,
+                "sr": 0.0,
+                "fours": 0,
+                "sixes": 0,
+                "win_contribution_percent": 0.0,
+                "score": 0.0
+            },
+            {
+                "player": "MD Patel",
+                "team": "United States of America",
+                "runs": 0,
+                "balls": 2,
+                "sr": 0.0,
+                "fours": 0,
+                "sixes": 0,
+                "win_contribution_percent": 0.0,
+                "score": 0.0
+            }
+        ],
+        "bowling": [
+            {
+                "player": "SC van Schalkwyk",
+                "team": "United States of America",
+                "overs": 4.0,
+                "runs": 25,
+                "wickets": 4,
+                "econ": 6.25,
+                "score": 142.87,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "Harmeet Singh",
+                "team": "United States of America",
+                "overs": 4.0,
+                "runs": 26,
+                "wickets": 2,
+                "econ": 6.5,
+                "score": 81.99,
+                "bowling_baseline": {
+                    "career_wickets": 31,
+                    "career_economy": 7.05,
+                    "career_sr": 19.87,
+                    "career_avg": 23.35,
+                    "best_bowling": "4/18",
+                    "matches": 28,
+                    "source": "t20_bowling_master",
+                    "baseline_available": true
+                }
+            },
+            {
+                "player": "Mohammad Mohsin",
+                "team": "United States of America",
+                "overs": 4.0,
+                "runs": 16,
+                "wickets": 1,
+                "econ": 4.0,
+                "score": 65.73,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "Ali Khan",
+                "team": "United States of America",
+                "overs": 2.0,
+                "runs": 13,
+                "wickets": 1,
+                "econ": 6.5,
+                "score": 51.99,
+                "bowling_baseline": {
+                    "career_wickets": 17,
+                    "career_economy": 9.15,
+                    "career_sr": 24.76,
+                    "career_avg": 37.76,
+                    "best_bowling": "3/27",
+                    "matches": 20,
+                    "source": "t20_bowling_master",
+                    "baseline_available": true
+                }
+            },
+            {
+                "player": "Shubham Ranjane",
+                "team": "United States of America",
+                "overs": 2.0,
+                "runs": 16,
+                "wickets": 0,
+                "econ": 8.0,
+                "score": 17.87,
+                "bowling_baseline": {
+                    "career_wickets": 1,
+                    "career_economy": 6.5,
+                    "career_sr": 24.0,
+                    "career_avg": 26.0,
+                    "best_bowling": "1/6",
+                    "matches": 3,
+                    "source": "t20_bowling_master",
+                    "baseline_available": true
+                }
+            },
+            {
+                "player": "SN Netravalkar",
+                "team": "United States of America",
+                "overs": 4.0,
+                "runs": 65,
+                "wickets": 0,
+                "econ": 16.25,
+                "score": 8.8,
+                "bowling_baseline": {
+                    "career_wickets": 42,
+                    "career_economy": 7.44,
+                    "career_sr": 20.79,
+                    "career_avg": 25.79,
+                    "best_bowling": "5/12",
+                    "matches": 43,
+                    "source": "t20_bowling_master",
+                    "baseline_available": true
+                }
+            },
+            {
+                "player": "Mohammed Siraj",
+                "team": "India",
+                "overs": 4.0,
+                "runs": 30,
+                "wickets": 3,
+                "econ": 7.5,
+                "score": 109.06,
+                "bowling_baseline": {
+                    "career_wickets": 17,
+                    "career_economy": 7.92,
+                    "career_sr": 21.88,
+                    "career_avg": 28.88,
+                    "best_bowling": "4/17",
+                    "matches": 17,
+                    "source": "t20_bowling_master",
+                    "baseline_available": true
+                }
+            },
+            {
+                "player": "Arshdeep Singh",
+                "team": "India",
+                "overs": 4.0,
+                "runs": 19,
+                "wickets": 2,
+                "econ": 4.75,
+                "score": 90.09,
+                "bowling_baseline": {
+                    "career_wickets": 120,
+                    "career_economy": 8.75,
+                    "career_sr": 13.46,
+                    "career_avg": 19.63,
+                    "best_bowling": "5/51",
+                    "matches": 76,
+                    "source": "t20_bowling_master",
+                    "baseline_available": true
+                }
+            },
+            {
+                "player": "AR Patel",
+                "team": "India",
+                "overs": 4.0,
+                "runs": 24,
+                "wickets": 2,
+                "econ": 6.0,
+                "score": 83.82,
+                "bowling_baseline": {
+                    "career_wickets": 88,
+                    "career_economy": 7.59,
+                    "career_sr": 17.7,
+                    "career_avg": 22.41,
+                    "best_bowling": "3/18",
+                    "matches": 82,
+                    "source": "t20_bowling_master",
+                    "baseline_available": true
+                }
+            },
+            {
+                "player": "CV Varun",
+                "team": "India",
+                "overs": 4.0,
+                "runs": 24,
+                "wickets": 1,
+                "econ": 6.0,
+                "score": 53.82,
+                "bowling_baseline": {
+                    "career_wickets": 71,
+                    "career_economy": 7.36,
+                    "career_sr": 12.97,
+                    "career_avg": 15.9,
+                    "best_bowling": "5/24",
+                    "matches": 41,
+                    "source": "t20_bowling_master",
+                    "baseline_available": true
+                }
+            },
+            {
+                "player": "HH Pandya",
+                "team": "India",
+                "overs": 4.0,
+                "runs": 35,
+                "wickets": 0,
+                "econ": 8.75,
+                "score": 16.33,
+                "bowling_baseline": {
+                    "career_wickets": 111,
+                    "career_economy": 8.49,
+                    "career_sr": 19.4,
+                    "career_avg": 27.46,
+                    "best_bowling": "4/38",
+                    "matches": 121,
+                    "source": "t20_bowling_master",
+                    "baseline_available": true
+                }
+            }
+        ]
+    },
+    "innings": [
+        {
+            "innings": 1,
+            "team": "India",
+            "total_runs": 161,
+            "total_wickets": 9,
+            "balls_faced": 120,
+            "overs_faced": 20.0,
+            "phase_analysis": {
+                "Powerplay": {
+                    "runs": 46,
+                    "wkts": 4,
+                    "rr": 7.67
+                },
+                "Middle": {
+                    "runs": 48,
+                    "wkts": 2,
+                    "rr": 5.33
+                },
+                "Death": {
+                    "runs": 67,
+                    "wkts": 3,
+                    "rr": 13.4
+                }
+            }
+        },
+        {
+            "innings": 2,
+            "team": "United States of America",
+            "total_runs": 132,
+            "total_wickets": 8,
+            "balls_faced": 120,
+            "overs_faced": 20.0,
+            "phase_analysis": {
+                "Powerplay": {
+                    "runs": 31,
+                    "wkts": 3,
+                    "rr": 5.17
+                },
+                "Middle": {
+                    "runs": 67,
+                    "wkts": 1,
+                    "rr": 7.44
+                },
+                "Death": {
+                    "runs": 34,
+                    "wkts": 4,
+                    "rr": 6.8
+                }
+            },
+            "pressure_index": 84.0,
+            "target": 162
+        }
+    ],
+    "players": [
+        {
+            "player": "SC van Schalkwyk",
+            "team": "United States of America",
+            "overs": 4.0,
+            "runs": 25,
+            "wickets": 4,
+            "econ": 6.25,
+            "score": 142.87,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-25r-4w"
+        },
+        {
+            "player": "SA Yadav",
+            "team": "India",
+            "runs": 84,
+            "balls": 50,
+            "sr": 168.0,
+            "fours": 10,
+            "sixes": 4,
+            "win_contribution_percent": 52.2,
+            "score": 120.38,
+            "role": "batting",
+            "match_stats": "84(50)",
+            "baseline": {
+                "avg": 38.51,
+                "sr": 156.8,
+                "matches": 101,
+                "source": "t20_master",
+                "baseline_available": true
+            }
+        },
+        {
+            "player": "Mohammed Siraj",
+            "team": "India",
+            "overs": 4.0,
+            "runs": 30,
+            "wickets": 3,
+            "econ": 7.5,
+            "score": 109.06,
+            "bowling_baseline": {
+                "career_wickets": 17,
+                "career_economy": 7.92,
+                "career_sr": 21.88,
+                "career_avg": 28.88,
+                "best_bowling": "4/17",
+                "matches": 17,
+                "source": "t20_bowling_master",
+                "baseline_available": true
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-30r-3w"
+        },
+        {
+            "player": "Arshdeep Singh",
+            "team": "India",
+            "overs": 4.0,
+            "runs": 19,
+            "wickets": 2,
+            "econ": 4.75,
+            "score": 90.09,
+            "bowling_baseline": {
+                "career_wickets": 120,
+                "career_economy": 8.75,
+                "career_sr": 13.46,
+                "career_avg": 19.63,
+                "best_bowling": "5/51",
+                "matches": 76,
+                "source": "t20_bowling_master",
+                "baseline_available": true
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-19r-2w"
+        },
+        {
+            "player": "AR Patel",
+            "team": "India",
+            "overs": 4.0,
+            "runs": 24,
+            "wickets": 2,
+            "econ": 6.0,
+            "score": 83.82,
+            "bowling_baseline": {
+                "career_wickets": 88,
+                "career_economy": 7.59,
+                "career_sr": 17.7,
+                "career_avg": 22.41,
+                "best_bowling": "3/18",
+                "matches": 82,
+                "source": "t20_bowling_master",
+                "baseline_available": true
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-24r-2w"
+        },
+        {
+            "player": "Harmeet Singh",
+            "team": "United States of America",
+            "overs": 4.0,
+            "runs": 26,
+            "wickets": 2,
+            "econ": 6.5,
+            "score": 81.99,
+            "bowling_baseline": {
+                "career_wickets": 31,
+                "career_economy": 7.05,
+                "career_sr": 19.87,
+                "career_avg": 23.35,
+                "best_bowling": "4/18",
+                "matches": 28,
+                "source": "t20_bowling_master",
+                "baseline_available": true
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-26r-2w"
+        },
+        {
+            "player": "Shubham Ranjane",
+            "team": "United States of America",
+            "runs": 37,
+            "balls": 23,
+            "sr": 160.87,
+            "fours": 2,
+            "sixes": 3,
+            "win_contribution_percent": 28.0,
+            "score": 71.84,
+            "role": "batting",
+            "match_stats": "37(23)",
+            "baseline": {
+                "avg": 70.5,
+                "sr": 171.95,
+                "matches": 4,
+                "source": "t20_master",
+                "baseline_available": true
+            }
+        },
+        {
+            "player": "Mohammad Mohsin",
+            "team": "United States of America",
+            "overs": 4.0,
+            "runs": 16,
+            "wickets": 1,
+            "econ": 4.0,
+            "score": 65.73,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-16r-1w"
+        },
+        {
+            "player": "SP Krishnamurthi",
+            "team": "United States of America",
+            "runs": 37,
+            "balls": 32,
+            "sr": 115.62,
+            "fours": 1,
+            "sixes": 2,
+            "win_contribution_percent": 28.0,
+            "score": 62.04,
+            "role": "batting",
+            "match_stats": "37(32)",
+            "baseline": {
+                "avg": 32.67,
+                "sr": 139.01,
+                "matches": 9,
+                "source": "t20_master",
+                "baseline_available": true
+            }
+        },
+        {
+            "player": "Tilak Varma",
+            "team": "India",
+            "runs": 25,
+            "balls": 16,
+            "sr": 156.25,
+            "fours": 3,
+            "sixes": 1,
+            "win_contribution_percent": 15.5,
+            "score": 58.84,
+            "role": "batting",
+            "match_stats": "25(16)",
+            "baseline": {
+                "avg": 46.81,
+                "sr": 136.65,
+                "matches": 41,
+                "source": "t20_master",
+                "baseline_available": true
+            }
+        },
+        {
+            "player": "Milind Kumar",
+            "team": "United States of America",
+            "runs": 34,
+            "balls": 34,
+            "sr": 100.0,
+            "fours": 3,
+            "sixes": 1,
+            "win_contribution_percent": 25.8,
+            "score": 55.65,
+            "role": "batting",
+            "match_stats": "34(34)",
+            "baseline": {
+                "avg": 32.0,
+                "sr": 103.74,
+                "matches": 21,
+                "source": "t20_master",
+                "baseline_available": true
+            }
+        },
+        {
+            "player": "CV Varun",
+            "team": "India",
+            "overs": 4.0,
+            "runs": 24,
+            "wickets": 1,
+            "econ": 6.0,
+            "score": 53.82,
+            "bowling_baseline": {
+                "career_wickets": 71,
+                "career_economy": 7.36,
+                "career_sr": 12.97,
+                "career_avg": 15.9,
+                "best_bowling": "5/24",
+                "matches": 41,
+                "source": "t20_bowling_master",
+                "baseline_available": true
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-24r-1w"
+        },
+        {
+            "player": "Ali Khan",
+            "team": "United States of America",
+            "overs": 2.0,
+            "runs": 13,
+            "wickets": 1,
+            "econ": 6.5,
+            "score": 51.99,
+            "bowling_baseline": {
+                "career_wickets": 17,
+                "career_economy": 9.15,
+                "career_sr": 24.76,
+                "career_avg": 37.76,
+                "best_bowling": "3/27",
+                "matches": 20,
+                "source": "t20_bowling_master",
+                "baseline_available": true
+            },
+            "role": "bowling",
+            "match_stats": "2.0o-13r-1w"
+        },
+        {
+            "player": "Ishan Kishan",
+            "team": "India",
+            "runs": 20,
+            "balls": 16,
+            "sr": 125.0,
+            "fours": 1,
+            "sixes": 2,
+            "win_contribution_percent": 12.4,
+            "score": 47.07,
+            "role": "batting",
+            "match_stats": "20(16)",
+            "baseline": {
+                "avg": 29.68,
+                "sr": 138.02,
+                "matches": 41,
+                "source": "t20_master",
+                "baseline_available": true
+            }
+        },
+        {
+            "player": "AR Patel",
+            "team": "India",
+            "runs": 14,
+            "balls": 12,
+            "sr": 116.67,
+            "fours": 2,
+            "sixes": 0,
+            "win_contribution_percent": 8.7,
+            "score": 39.26,
+            "role": "batting",
+            "match_stats": "14(12)",
+            "baseline": {
+                "avg": 19.66,
+                "sr": 125.55,
+                "matches": 55,
+                "source": "t20_master",
+                "baseline_available": true
+            }
+        },
+        {
+            "player": "Mohammad Mohsin",
+            "team": "United States of America",
+            "runs": 8,
+            "balls": 9,
+            "sr": 88.89,
+            "fours": 1,
+            "sixes": 0,
+            "win_contribution_percent": 6.1,
+            "score": 27.25,
+            "role": "batting",
+            "match_stats": "8(9)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "HH Pandya",
+            "team": "India",
+            "runs": 5,
+            "balls": 6,
+            "sr": 83.33,
+            "fours": 1,
+            "sixes": 0,
+            "win_contribution_percent": 3.1,
+            "score": 23.05,
+            "role": "batting",
+            "match_stats": "5(6)",
+            "baseline": {
+                "avg": 28.12,
+                "sr": 138.02,
+                "matches": 103,
+                "source": "t20_master",
+                "baseline_available": true
+            }
+        },
+        {
+            "player": "AGS Gous",
+            "team": "United States of America",
+            "runs": 6,
+            "balls": 10,
+            "sr": 60.0,
+            "fours": 0,
+            "sixes": 1,
+            "win_contribution_percent": 4.5,
+            "score": 18.99,
+            "role": "batting",
+            "match_stats": "6(10)",
+            "baseline": {
+                "avg": 30.84,
+                "sr": 137.43,
+                "matches": 26,
+                "source": "t20_master",
+                "baseline_available": true
+            }
+        },
+        {
+            "player": "Shubham Ranjane",
+            "team": "United States of America",
+            "overs": 2.0,
+            "runs": 16,
+            "wickets": 0,
+            "econ": 8.0,
+            "score": 17.87,
+            "bowling_baseline": {
+                "career_wickets": 1,
+                "career_economy": 6.5,
+                "career_sr": 24.0,
+                "career_avg": 26.0,
+                "best_bowling": "1/6",
+                "matches": 3,
+                "source": "t20_bowling_master",
+                "baseline_available": true
+            },
+            "role": "bowling",
+            "match_stats": "2.0o-16r-0w"
+        },
+        {
+            "player": "Arshdeep Singh",
+            "team": "India",
+            "runs": 4,
+            "balls": 7,
+            "sr": 57.14,
+            "fours": 1,
+            "sixes": 0,
+            "win_contribution_percent": 2.5,
+            "score": 16.37,
+            "role": "batting",
+            "match_stats": "4(7)",
+            "baseline": {
+                "avg": 7.25,
+                "sr": 98.86,
+                "matches": 26,
+                "source": "t20_master",
+                "baseline_available": true
+            }
+        },
+        {
+            "player": "HH Pandya",
+            "team": "India",
+            "overs": 4.0,
+            "runs": 35,
+            "wickets": 0,
+            "econ": 8.75,
+            "score": 16.33,
+            "bowling_baseline": {
+                "career_wickets": 111,
+                "career_economy": 8.49,
+                "career_sr": 19.4,
+                "career_avg": 27.46,
+                "best_bowling": "4/38",
+                "matches": 121,
+                "source": "t20_bowling_master",
+                "baseline_available": true
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-35r-0w"
+        },
+        {
+            "player": "RK Singh",
+            "team": "India",
+            "runs": 6,
+            "balls": 14,
+            "sr": 42.86,
+            "fours": 0,
+            "sixes": 0,
+            "win_contribution_percent": 3.7,
+            "score": 15.28,
+            "role": "batting",
+            "match_stats": "6(14)",
+            "baseline": {
+                "avg": 28.1,
+                "sr": 136.57,
+                "matches": 34,
+                "source": "t20_master",
+                "baseline_available": true
+            }
+        },
+        {
+            "player": "SC van Schalkwyk",
+            "team": "United States of America",
+            "runs": 2,
+            "balls": 5,
+            "sr": 40.0,
+            "fours": 0,
+            "sixes": 0,
+            "win_contribution_percent": 1.5,
+            "score": 10.66,
+            "role": "batting",
+            "match_stats": "2(5)",
+            "baseline": {
+                "avg": 21.4,
+                "sr": 109.18,
+                "matches": 12,
+                "source": "t20_master",
+                "baseline_available": true
+            }
+        },
+        {
+            "player": "SN Netravalkar",
+            "team": "United States of America",
+            "overs": 4.0,
+            "runs": 65,
+            "wickets": 0,
+            "econ": 16.25,
+            "score": 8.8,
+            "bowling_baseline": {
+                "career_wickets": 42,
+                "career_economy": 7.44,
+                "career_sr": 20.79,
+                "career_avg": 25.79,
+                "best_bowling": "5/12",
+                "matches": 43,
+                "source": "t20_bowling_master",
+                "baseline_available": true
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-65r-0w"
+        },
+        {
+            "player": "SR Mukkamalla",
+            "team": "United States of America",
+            "runs": 2,
+            "balls": 7,
+            "sr": 28.57,
+            "fours": 0,
+            "sixes": 0,
+            "win_contribution_percent": 1.5,
+            "score": 8.19,
+            "role": "batting",
+            "match_stats": "2(7)",
+            "baseline": {
+                "avg": 40.94,
+                "sr": 143.11,
+                "matches": 21,
+                "source": "t20_master",
+                "baseline_available": true
+            }
+        },
+        {
+            "player": "Abhishek Sharma",
+            "team": "India",
+            "runs": 0,
+            "balls": 1,
+            "sr": 0.0,
+            "fours": 0,
+            "sixes": 0,
+            "win_contribution_percent": 0.0,
+            "score": 0.0,
+            "role": "batting",
+            "match_stats": "0(1)",
+            "baseline": {
+                "avg": 35.46,
+                "sr": 184.27,
+                "matches": 41,
+                "source": "t20_master",
+                "baseline_available": true
+            }
+        },
+        {
+            "player": "S Dube",
+            "team": "India",
+            "runs": 0,
+            "balls": 1,
+            "sr": 0.0,
+            "fours": 0,
+            "sixes": 0,
+            "win_contribution_percent": 0.0,
+            "score": 0.0,
+            "role": "batting",
+            "match_stats": "0(1)",
+            "baseline": {
+                "avg": 31.2,
+                "sr": 141.3,
+                "matches": 40,
+                "source": "t20_master",
+                "baseline_available": true
+            }
+        },
+        {
+            "player": "Harmeet Singh",
+            "team": "United States of America",
+            "runs": 0,
+            "balls": 1,
+            "sr": 0.0,
+            "fours": 0,
+            "sixes": 0,
+            "win_contribution_percent": 0.0,
+            "score": 0.0,
+            "role": "batting",
+            "match_stats": "0(1)",
+            "baseline": {
+                "avg": 16.13,
+                "sr": 139.88,
+                "matches": 21,
+                "source": "t20_master",
+                "baseline_available": true
+            }
+        },
+        {
+            "player": "MD Patel",
+            "team": "United States of America",
+            "runs": 0,
+            "balls": 2,
+            "sr": 0.0,
+            "fours": 0,
+            "sixes": 0,
+            "win_contribution_percent": 0.0,
+            "score": 0.0,
+            "role": "batting",
+            "match_stats": "0(2)",
+            "baseline": {
+                "avg": 28.89,
+                "sr": 132.68,
+                "matches": 40,
+                "source": "t20_master",
+                "baseline_available": true
+            }
+        }
+    ],
+    "validation": {
+        "logical_stability": true
+    }
+}

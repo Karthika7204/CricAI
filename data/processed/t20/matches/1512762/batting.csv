@@ -1,0 +1,20 @@
+match_id,date,innings,team,player,runs,balls_faced,strike_rate,fours,sixes,dismissed,dismissal_kind
+1512762,2026-02-23,1,West Indies,SO Hetmyer,85,38,223.68,7,7,True,caught
+1512762,2026-02-23,1,West Indies,R Powell,59,37,159.46,4,4,True,caught
+1512762,2026-02-23,1,West Indies,SE Rutherford,31,14,221.43,3,2,False,
+1512762,2026-02-23,1,West Indies,R Shepherd,21,11,190.91,0,3,True,caught
+1512762,2026-02-23,1,West Indies,SD Hope,14,14,100.0,2,0,True,caught
+1512762,2026-02-23,1,West Indies,JO Holder,13,4,325.0,0,2,True,caught
+1512762,2026-02-23,1,West Indies,BA King,9,12,75.0,0,1,True,caught
+1512762,2026-02-23,1,West Indies,MW Forde,1,1,100.0,0,0,False,
+1512762,2026-02-23,2,Zimbabwe,B Evans,43,22,195.45,2,5,True,caught
+1512762,2026-02-23,2,Zimbabwe,D Myers,28,16,175.0,3,2,True,bowled
+1512762,2026-02-23,2,Zimbabwe,Sikandar Raza,27,20,135.0,2,2,True,bowled
+1512762,2026-02-23,2,Zimbabwe,T Marumani,14,8,175.0,2,1,True,caught
+1512762,2026-02-23,2,Zimbabwe,T Munyonga,14,17,82.35,0,1,True,caught
+1512762,2026-02-23,2,Zimbabwe,R Ngarava,7,7,100.0,0,1,False,
+1512762,2026-02-23,2,Zimbabwe,BJ Bennett,5,6,83.33,1,0,True,bowled
+1512762,2026-02-23,2,Zimbabwe,AG Cremer,0,6,0.0,0,0,True,caught and bowled
+1512762,2026-02-23,2,Zimbabwe,B Muzarabani,0,5,0.0,0,0,True,caught
+1512762,2026-02-23,2,Zimbabwe,RP Burl,0,3,0.0,0,0,True,caught
+1512762,2026-02-23,2,Zimbabwe,T Musekiwa,0,1,0.0,0,0,True,bowled

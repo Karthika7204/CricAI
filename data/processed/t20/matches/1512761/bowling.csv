@@ -1,0 +1,13 @@
+match_id,date,innings,team,player,overs,balls_bowled,wickets,runs_conceded,economy,maidens,wides,no_balls
+1512761,2026-02-22,1,India,JJ Bumrah,4.0,24,3,15,3.75,0,0,0
+1512761,2026-02-22,1,India,Arshdeep Singh,4.0,24,2,30,7.5,0,1,0
+1512761,2026-02-22,1,India,CV Varun,4.0,24,1,48,12.0,0,3,0
+1512761,2026-02-22,1,India,S Dube,2.0,12,1,32,16.0,0,2,1
+1512761,2026-02-22,1,India,Washington Sundar,2.0,12,0,17,8.5,0,0,0
+1512761,2026-02-22,1,India,HH Pandya,4.0,24,0,45,11.25,0,0,1
+1512761,2026-02-22,2,South Africa,M Jansen,3.5,23,4,23,6.0,0,0,0
+1512761,2026-02-22,2,South Africa,KA Maharaj,3.0,18,3,24,8.0,0,1,0
+1512761,2026-02-22,2,South Africa,C Bosch,3.0,18,2,12,4.0,0,2,0
+1512761,2026-02-22,2,South Africa,AK Markram,1.0,6,1,5,5.0,0,0,0
+1512761,2026-02-22,2,South Africa,L Ngidi,4.0,24,0,15,3.75,0,1,0
+1512761,2026-02-22,2,South Africa,K Rabada,4.0,24,0,32,8.0,0,0,0

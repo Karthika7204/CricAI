@@ -1,0 +1,13 @@
+match_id,date,innings,team,player,overs,balls_bowled,wickets,runs_conceded,economy,maidens,wides,no_balls
+1512756,2026-02-19,1,Zimbabwe,AG Cremer,4.0,24,2,27,6.75,0,1,0
+1512756,2026-02-19,1,Zimbabwe,B Muzarabani,4.0,24,2,39,9.75,0,0,0
+1512756,2026-02-19,1,Zimbabwe,B Evans,3.0,18,2,37,12.33,0,0,0
+1512756,2026-02-19,1,Zimbabwe,RP Burl,2.0,12,1,16,8.0,0,2,0
+1512756,2026-02-19,1,Zimbabwe,WP Masakadza,3.0,18,0,23,7.67,0,1,0
+1512756,2026-02-19,1,Zimbabwe,Sikandar Raza,4.0,24,0,36,9.0,0,0,1
+1512756,2026-02-19,2,Sri Lanka,MADI Hemantha,4.0,24,2,36,9.0,0,1,0
+1512756,2026-02-19,2,Sri Lanka,DN Wellalage,4.0,24,1,27,6.75,0,0,0
+1512756,2026-02-19,2,Sri Lanka,MD Shanaka,3.0,18,1,27,9.0,0,1,0
+1512756,2026-02-19,2,Sri Lanka,D Madushanka,3.0,18,0,22,7.33,0,1,0
+1512756,2026-02-19,2,Sri Lanka,PM Liyanagamage,2.0,12,0,23,11.5,0,2,0
+1512756,2026-02-19,2,Sri Lanka,M Theekshana,3.3,21,0,47,13.43,0,0,0

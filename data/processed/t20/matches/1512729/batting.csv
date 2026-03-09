@@ -1,0 +1,10 @@
+match_id,date,innings,team,player,runs,balls_faced,strike_rate,fours,sixes,dismissed,dismissal_kind
+1512729,2026-02-10,1,United Arab Emirates,Waseem Muhammad,66,46,143.48,4,3,False,
+1512729,2026-02-10,1,United Arab Emirates,A Sharafu,55,48,114.58,5,2,True,caught
+1512729,2026-02-10,1,United Arab Emirates,MR Kumar,21,15,140.0,2,1,True,caught
+1512729,2026-02-10,1,United Arab Emirates,A Sharma,8,7,114.29,2,0,True,caught
+1512729,2026-02-10,1,United Arab Emirates,Shoaib Khan,7,3,233.33,0,1,True,caught
+1512729,2026-02-10,1,United Arab Emirates,H Kaushik,2,6,33.33,0,0,True,caught
+1512729,2026-02-10,1,United Arab Emirates,Muhammad Arfan,0,1,0.0,0,0,True,caught
+1512729,2026-02-10,2,New Zealand,TL Seifert,89,43,206.98,12,3,False,
+1512729,2026-02-10,2,New Zealand,FH Allen,84,51,164.71,5,5,False,

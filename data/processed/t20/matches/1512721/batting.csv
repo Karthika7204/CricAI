@@ -1,0 +1,19 @@
+match_id,date,innings,team,player,runs,balls_faced,strike_rate,fours,sixes,dismissed,dismissal_kind
+1512721,2026-02-07,1,India,SA Yadav,84,50,168.0,10,4,False,
+1512721,2026-02-07,1,India,Tilak Varma,25,16,156.25,3,1,True,caught
+1512721,2026-02-07,1,India,Ishan Kishan,20,16,125.0,1,2,True,caught
+1512721,2026-02-07,1,India,AR Patel,14,12,116.67,2,0,True,caught
+1512721,2026-02-07,1,India,RK Singh,6,14,42.86,0,0,True,caught
+1512721,2026-02-07,1,India,HH Pandya,5,6,83.33,1,0,True,caught
+1512721,2026-02-07,1,India,Arshdeep Singh,4,7,57.14,1,0,True,caught
+1512721,2026-02-07,1,India,Abhishek Sharma,0,1,0.0,0,0,True,caught
+1512721,2026-02-07,1,India,S Dube,0,1,0.0,0,0,True,caught
+1512721,2026-02-07,2,United States of America,SP Krishnamurthi,37,32,115.62,1,2,True,caught
+1512721,2026-02-07,2,United States of America,Shubham Ranjane,37,23,160.87,2,3,True,lbw
+1512721,2026-02-07,2,United States of America,Milind Kumar,34,34,100.0,3,1,True,stumped
+1512721,2026-02-07,2,United States of America,Mohammad Mohsin,8,9,88.89,1,0,True,caught
+1512721,2026-02-07,2,United States of America,AGS Gous,6,10,60.0,0,1,True,caught
+1512721,2026-02-07,2,United States of America,SC van Schalkwyk,2,5,40.0,0,0,False,
+1512721,2026-02-07,2,United States of America,SR Mukkamalla,2,7,28.57,0,0,True,caught
+1512721,2026-02-07,2,United States of America,Harmeet Singh,0,1,0.0,0,0,True,caught
+1512721,2026-02-07,2,United States of America,MD Patel,0,2,0.0,0,0,True,caught

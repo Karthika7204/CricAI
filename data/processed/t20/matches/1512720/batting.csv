@@ -1,0 +1,19 @@
+match_id,date,innings,team,player,runs,balls_faced,strike_rate,fours,sixes,dismissed,dismissal_kind
+1512720,2026-02-07,1,West Indies,SO Hetmyer,64,37,172.97,2,6,True,caught
+1512720,2026-02-07,1,West Indies,BA King,35,31,112.9,4,1,True,caught
+1512720,2026-02-07,1,West Indies,SE Rutherford,26,13,200.0,4,1,True,caught
+1512720,2026-02-07,1,West Indies,R Powell,24,16,150.0,1,2,True,caught
+1512720,2026-02-07,1,West Indies,SD Hope,19,22,86.36,2,0,True,bowled
+1512720,2026-02-07,1,West Indies,R Shepherd,6,3,200.0,0,1,False,
+1512720,2026-02-07,1,West Indies,MW Forde,1,2,50.0,0,0,False,
+1512720,2026-02-07,2,Scotland,RD Berrington,42,24,175.0,3,2,True,caught
+1512720,2026-02-07,2,Scotland,TC Bruce,35,31,112.9,1,2,True,lbw
+1512720,2026-02-07,2,Scotland,HG Munsey,19,15,126.67,3,0,True,caught
+1512720,2026-02-07,2,Scotland,MRJ Watt,15,12,125.0,2,0,True,caught
+1512720,2026-02-07,2,Scotland,BJ McMullen,14,13,107.69,1,1,True,bowled
+1512720,2026-02-07,2,Scotland,MH Cross,11,11,100.0,1,0,True,caught
+1512720,2026-02-07,2,Scotland,BJ Currie,2,4,50.0,0,0,False,
+1512720,2026-02-07,2,Scotland,MA Jones,1,6,16.67,0,0,True,caught
+1512720,2026-02-07,2,Scotland,MA Leask,0,1,0.0,0,0,True,caught
+1512720,2026-02-07,2,Scotland,O Davidson,0,1,0.0,0,0,True,bowled
+1512720,2026-02-07,2,Scotland,SM Sharif,0,2,0.0,0,0,True,caught

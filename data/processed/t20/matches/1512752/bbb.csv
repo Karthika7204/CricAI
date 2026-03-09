@@ -1,0 +1,207 @@
+match_id,season,start_date,venue,innings,over,ball,batting_team,bowling_team,striker,non_striker,bowler,runs_off_bat,extras,ball_in_over,extra_ball,balls_remaining,runs_scored_yet,wicket,wickets_lost_yet,innings1_total,innings2_total,target,wides,noballs,byes,legbyes,penalty,wicket_type,player_dismissed,other_wicket_type,other_player_dismissed,.groups
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",1,1,1,United Arab Emirates,South Africa,A Sharma,Waseem Muhammad,K Rabada,0,0,1,False,119,0,False,0,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",1,1,2,United Arab Emirates,South Africa,A Sharma,Waseem Muhammad,K Rabada,0,0,2,False,118,0,False,0,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",1,1,3,United Arab Emirates,South Africa,A Sharma,Waseem Muhammad,K Rabada,6,0,3,False,117,6,False,0,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",1,1,4,United Arab Emirates,South Africa,A Sharma,Waseem Muhammad,K Rabada,0,0,4,False,116,6,False,0,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",1,1,5,United Arab Emirates,South Africa,A Sharma,Waseem Muhammad,K Rabada,0,0,5,False,115,6,False,0,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",1,1,6,United Arab Emirates,South Africa,A Sharma,Waseem Muhammad,K Rabada,0,0,6,False,114,6,False,0,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",1,2,1,United Arab Emirates,South Africa,Waseem Muhammad,A Sharma,KT Maphaka,0,1,0,True,114,7,False,0,122,123,123,1.0,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",1,2,2,United Arab Emirates,South Africa,Waseem Muhammad,A Sharma,KT Maphaka,0,1,0,True,114,8,False,0,122,123,123,1.0,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",1,2,3,United Arab Emirates,South Africa,Waseem Muhammad,A Sharma,KT Maphaka,4,0,1,False,113,12,False,0,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",1,2,4,United Arab Emirates,South Africa,Waseem Muhammad,A Sharma,KT Maphaka,2,0,2,False,112,14,False,0,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",1,2,5,United Arab Emirates,South Africa,Waseem Muhammad,A Sharma,KT Maphaka,0,0,3,False,111,14,False,0,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",1,2,6,United Arab Emirates,South Africa,Waseem Muhammad,A Sharma,KT Maphaka,1,0,4,False,110,15,False,0,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",1,2,7,United Arab Emirates,South Africa,A Sharma,Waseem Muhammad,KT Maphaka,0,0,5,False,109,15,False,0,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",1,2,8,United Arab Emirates,South Africa,A Sharma,Waseem Muhammad,KT Maphaka,0,1,5,True,109,16,False,0,122,123,123,1.0,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",1,2,9,United Arab Emirates,South Africa,A Sharma,Waseem Muhammad,KT Maphaka,0,0,6,False,108,16,False,0,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",1,3,1,United Arab Emirates,South Africa,Waseem Muhammad,A Sharma,K Rabada,4,0,1,False,107,20,False,0,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",1,3,2,United Arab Emirates,South Africa,Waseem Muhammad,A Sharma,K Rabada,4,0,2,False,106,24,False,0,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",1,3,3,United Arab Emirates,South Africa,Waseem Muhammad,A Sharma,K Rabada,4,0,3,False,105,28,False,0,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",1,3,4,United Arab Emirates,South Africa,Waseem Muhammad,A Sharma,K Rabada,0,0,4,False,104,28,False,0,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",1,3,5,United Arab Emirates,South Africa,Waseem Muhammad,A Sharma,K Rabada,1,0,5,False,103,29,False,0,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",1,3,6,United Arab Emirates,South Africa,A Sharma,Waseem Muhammad,K Rabada,1,0,6,False,102,30,False,0,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",1,4,1,United Arab Emirates,South Africa,A Sharma,Waseem Muhammad,A Nortje,0,0,1,False,101,30,False,0,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",1,4,2,United Arab Emirates,South Africa,A Sharma,Waseem Muhammad,A Nortje,4,0,2,False,100,34,False,0,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",1,4,3,United Arab Emirates,South Africa,A Sharma,Waseem Muhammad,A Nortje,0,0,3,False,99,34,False,0,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",1,4,4,United Arab Emirates,South Africa,A Sharma,Waseem Muhammad,A Nortje,0,0,4,False,98,34,False,0,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",1,4,5,United Arab Emirates,South Africa,A Sharma,Waseem Muhammad,A Nortje,1,0,5,False,97,35,False,0,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",1,4,6,United Arab Emirates,South Africa,Waseem Muhammad,A Sharma,A Nortje,1,0,6,False,96,36,False,0,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",1,5,1,United Arab Emirates,South Africa,Waseem Muhammad,A Sharma,GF Linde,1,0,1,False,95,37,False,0,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",1,5,2,United Arab Emirates,South Africa,A Sharma,Waseem Muhammad,GF Linde,1,0,2,False,94,38,False,0,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",1,5,3,United Arab Emirates,South Africa,Waseem Muhammad,A Sharma,GF Linde,0,0,3,False,93,38,True,1,122,123,123,,,,,,lbw,Waseem Muhammad,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",1,5,4,United Arab Emirates,South Africa,A Sharafu,A Sharma,GF Linde,0,0,4,False,92,38,False,1,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",1,5,5,United Arab Emirates,South Africa,A Sharafu,A Sharma,GF Linde,0,0,5,False,91,38,False,1,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",1,5,6,United Arab Emirates,South Africa,A Sharafu,A Sharma,GF Linde,4,0,6,False,90,42,False,1,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",1,6,1,United Arab Emirates,South Africa,A Sharma,A Sharafu,C Bosch,0,0,1,False,89,42,False,1,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",1,6,2,United Arab Emirates,South Africa,A Sharma,A Sharafu,C Bosch,0,0,2,False,88,42,True,2,122,123,123,,,,,,caught,A Sharma,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",1,6,3,United Arab Emirates,South Africa,Shoaib Khan,A Sharafu,C Bosch,1,0,3,False,87,43,False,2,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",1,6,4,United Arab Emirates,South Africa,A Sharafu,Shoaib Khan,C Bosch,0,0,4,False,86,43,False,2,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",1,6,5,United Arab Emirates,South Africa,A Sharafu,Shoaib Khan,C Bosch,0,0,5,False,85,43,False,2,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",1,6,6,United Arab Emirates,South Africa,A Sharafu,Shoaib Khan,C Bosch,1,0,6,False,84,44,False,2,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",1,7,1,United Arab Emirates,South Africa,A Sharafu,Shoaib Khan,GF Linde,1,0,1,False,83,45,False,2,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",1,7,2,United Arab Emirates,South Africa,Shoaib Khan,A Sharafu,GF Linde,1,0,2,False,82,46,False,2,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",1,7,3,United Arab Emirates,South Africa,A Sharafu,Shoaib Khan,GF Linde,1,0,3,False,81,47,False,2,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",1,7,4,United Arab Emirates,South Africa,Shoaib Khan,A Sharafu,GF Linde,1,0,4,False,80,48,False,2,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",1,7,5,United Arab Emirates,South Africa,A Sharafu,Shoaib Khan,GF Linde,0,0,5,False,79,48,False,2,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",1,7,6,United Arab Emirates,South Africa,A Sharafu,Shoaib Khan,GF Linde,0,0,6,False,78,48,False,2,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",1,8,1,United Arab Emirates,South Africa,Shoaib Khan,A Sharafu,A Nortje,0,0,1,False,77,48,False,2,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",1,8,2,United Arab Emirates,South Africa,Shoaib Khan,A Sharafu,A Nortje,1,0,2,False,76,49,False,2,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",1,8,3,United Arab Emirates,South Africa,A Sharafu,Shoaib Khan,A Nortje,4,0,3,False,75,53,False,2,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",1,8,4,United Arab Emirates,South Africa,A Sharafu,Shoaib Khan,A Nortje,6,0,4,False,74,59,False,2,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",1,8,5,United Arab Emirates,South Africa,A Sharafu,Shoaib Khan,A Nortje,1,0,5,False,73,60,False,2,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",1,8,6,United Arab Emirates,South Africa,Shoaib Khan,A Sharafu,A Nortje,0,0,6,False,72,60,False,2,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",1,9,1,United Arab Emirates,South Africa,A Sharafu,Shoaib Khan,GF Linde,0,0,1,False,71,60,False,2,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",1,9,2,United Arab Emirates,South Africa,A Sharafu,Shoaib Khan,GF Linde,1,0,2,False,70,61,False,2,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",1,9,3,United Arab Emirates,South Africa,Shoaib Khan,A Sharafu,GF Linde,0,0,3,False,69,61,False,2,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",1,9,4,United Arab Emirates,South Africa,Shoaib Khan,A Sharafu,GF Linde,1,0,4,False,68,62,False,2,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",1,9,5,United Arab Emirates,South Africa,A Sharafu,Shoaib Khan,GF Linde,1,0,5,False,67,63,False,2,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",1,9,6,United Arab Emirates,South Africa,Shoaib Khan,A Sharafu,GF Linde,1,0,6,False,66,64,False,2,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",1,10,1,United Arab Emirates,South Africa,Shoaib Khan,A Sharafu,C Bosch,0,0,1,False,65,64,False,2,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",1,10,2,United Arab Emirates,South Africa,Shoaib Khan,A Sharafu,C Bosch,0,0,2,False,64,64,True,3,122,123,123,,,,,,caught,Shoaib Khan,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",1,10,3,United Arab Emirates,South Africa,Syed Haider,A Sharafu,C Bosch,2,0,3,False,63,66,False,3,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",1,10,4,United Arab Emirates,South Africa,Syed Haider,A Sharafu,C Bosch,0,0,4,False,62,66,False,3,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",1,10,5,United Arab Emirates,South Africa,Syed Haider,A Sharafu,C Bosch,0,0,5,False,61,66,False,3,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",1,10,6,United Arab Emirates,South Africa,Syed Haider,A Sharafu,C Bosch,0,0,6,False,60,66,False,3,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",1,11,1,United Arab Emirates,South Africa,A Sharafu,Syed Haider,KT Maphaka,1,0,1,False,59,67,False,3,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",1,11,2,United Arab Emirates,South Africa,Syed Haider,A Sharafu,KT Maphaka,1,0,2,False,58,68,False,3,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",1,11,3,United Arab Emirates,South Africa,A Sharafu,Syed Haider,KT Maphaka,0,0,3,False,57,68,False,3,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",1,11,4,United Arab Emirates,South Africa,A Sharafu,Syed Haider,KT Maphaka,0,4,4,False,56,72,False,3,122,123,123,,,,4.0,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",1,11,5,United Arab Emirates,South Africa,A Sharafu,Syed Haider,KT Maphaka,1,0,5,False,55,73,False,3,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",1,11,6,United Arab Emirates,South Africa,Syed Haider,A Sharafu,KT Maphaka,0,0,6,False,54,73,False,3,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",1,12,1,United Arab Emirates,South Africa,A Sharafu,Syed Haider,K Rabada,1,0,1,False,53,74,False,3,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",1,12,2,United Arab Emirates,South Africa,Syed Haider,A Sharafu,K Rabada,0,0,2,False,52,74,False,3,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",1,12,3,United Arab Emirates,South Africa,Syed Haider,A Sharafu,K Rabada,1,0,3,False,51,75,False,3,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",1,12,4,United Arab Emirates,South Africa,A Sharafu,Syed Haider,K Rabada,0,0,4,False,50,75,False,3,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",1,12,5,United Arab Emirates,South Africa,A Sharafu,Syed Haider,K Rabada,1,0,5,False,49,76,False,3,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",1,12,6,United Arab Emirates,South Africa,Syed Haider,A Sharafu,K Rabada,0,0,6,False,48,76,False,3,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",1,13,1,United Arab Emirates,South Africa,A Sharafu,Syed Haider,GF Linde,1,0,1,False,47,77,False,3,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",1,13,2,United Arab Emirates,South Africa,Syed Haider,A Sharafu,GF Linde,0,0,2,False,46,77,False,3,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",1,13,3,United Arab Emirates,South Africa,Syed Haider,A Sharafu,GF Linde,0,0,3,False,45,77,False,3,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",1,13,4,United Arab Emirates,South Africa,Syed Haider,A Sharafu,GF Linde,0,0,4,False,44,77,False,3,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",1,13,5,United Arab Emirates,South Africa,Syed Haider,A Sharafu,GF Linde,1,0,5,False,43,78,False,3,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",1,13,6,United Arab Emirates,South Africa,A Sharafu,Syed Haider,GF Linde,1,0,6,False,42,79,False,3,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",1,14,1,United Arab Emirates,South Africa,A Sharafu,Syed Haider,A Nortje,1,0,1,False,41,80,False,3,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",1,14,2,United Arab Emirates,South Africa,Syed Haider,A Sharafu,A Nortje,1,0,2,False,40,81,False,3,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",1,14,3,United Arab Emirates,South Africa,A Sharafu,Syed Haider,A Nortje,1,0,3,False,39,82,False,3,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",1,14,4,United Arab Emirates,South Africa,Syed Haider,A Sharafu,A Nortje,0,0,4,False,38,82,True,4,122,123,123,,,,,,caught,Syed Haider,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",1,14,5,United Arab Emirates,South Africa,Muhammad Arfan,A Sharafu,A Nortje,1,0,5,False,37,83,False,4,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",1,14,6,United Arab Emirates,South Africa,A Sharafu,Muhammad Arfan,A Nortje,1,0,6,False,36,84,False,4,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",1,15,1,United Arab Emirates,South Africa,A Sharafu,Muhammad Arfan,KT Maphaka,4,0,1,False,35,88,False,4,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",1,15,2,United Arab Emirates,South Africa,A Sharafu,Muhammad Arfan,KT Maphaka,1,0,2,False,34,89,False,4,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",1,15,3,United Arab Emirates,South Africa,Muhammad Arfan,A Sharafu,KT Maphaka,0,0,3,False,33,89,False,4,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",1,15,4,United Arab Emirates,South Africa,Muhammad Arfan,A Sharafu,KT Maphaka,0,5,3,True,33,94,False,4,122,123,123,5.0,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",1,15,5,United Arab Emirates,South Africa,Muhammad Arfan,A Sharafu,KT Maphaka,1,0,4,False,32,95,False,4,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",1,15,6,United Arab Emirates,South Africa,A Sharafu,Muhammad Arfan,KT Maphaka,1,0,5,False,31,96,False,4,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",1,15,7,United Arab Emirates,South Africa,Muhammad Arfan,A Sharafu,KT Maphaka,1,0,6,False,30,97,False,4,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",1,16,1,United Arab Emirates,South Africa,Muhammad Arfan,A Sharafu,C Bosch,0,0,1,False,29,97,False,4,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",1,16,2,United Arab Emirates,South Africa,Muhammad Arfan,A Sharafu,C Bosch,0,0,2,False,28,97,False,4,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",1,16,3,United Arab Emirates,South Africa,Muhammad Arfan,A Sharafu,C Bosch,1,0,3,False,27,98,False,4,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",1,16,4,United Arab Emirates,South Africa,A Sharafu,Muhammad Arfan,C Bosch,0,0,4,False,26,98,False,4,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",1,16,5,United Arab Emirates,South Africa,A Sharafu,Muhammad Arfan,C Bosch,4,0,5,False,25,102,False,4,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",1,16,6,United Arab Emirates,South Africa,A Sharafu,Muhammad Arfan,C Bosch,0,0,6,False,24,102,False,4,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",1,17,1,United Arab Emirates,South Africa,Muhammad Arfan,A Sharafu,K Rabada,1,0,1,False,23,103,False,4,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",1,17,2,United Arab Emirates,South Africa,A Sharafu,Muhammad Arfan,K Rabada,1,0,2,False,22,104,False,4,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",1,17,3,United Arab Emirates,South Africa,Muhammad Arfan,A Sharafu,K Rabada,0,0,3,False,21,104,False,4,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",1,17,4,United Arab Emirates,South Africa,Muhammad Arfan,A Sharafu,K Rabada,0,0,4,False,20,104,False,4,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",1,17,5,United Arab Emirates,South Africa,Muhammad Arfan,A Sharafu,K Rabada,1,0,5,False,19,105,False,4,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",1,17,6,United Arab Emirates,South Africa,A Sharafu,Muhammad Arfan,K Rabada,4,0,6,False,18,109,False,4,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",1,18,1,United Arab Emirates,South Africa,Muhammad Arfan,A Sharafu,A Nortje,1,0,1,False,17,110,False,4,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",1,18,2,United Arab Emirates,South Africa,A Sharafu,Muhammad Arfan,A Nortje,1,0,2,False,16,111,False,4,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",1,18,3,United Arab Emirates,South Africa,Muhammad Arfan,A Sharafu,A Nortje,1,0,3,False,15,112,False,4,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",1,18,4,United Arab Emirates,South Africa,A Sharafu,Muhammad Arfan,A Nortje,0,0,4,False,14,112,True,5,122,123,123,,,,,,caught,A Sharafu,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",1,18,5,United Arab Emirates,South Africa,D Parashar,Muhammad Arfan,A Nortje,1,0,5,False,13,113,False,5,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",1,18,6,United Arab Emirates,South Africa,Muhammad Arfan,D Parashar,A Nortje,1,0,6,False,12,114,False,5,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",1,19,1,United Arab Emirates,South Africa,Muhammad Arfan,D Parashar,KT Maphaka,0,0,1,False,11,114,False,5,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",1,19,2,United Arab Emirates,South Africa,Muhammad Arfan,D Parashar,KT Maphaka,1,0,2,False,10,115,False,5,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",1,19,3,United Arab Emirates,South Africa,D Parashar,Muhammad Arfan,KT Maphaka,0,0,3,False,9,115,False,5,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",1,19,4,United Arab Emirates,South Africa,D Parashar,Muhammad Arfan,KT Maphaka,1,0,4,False,8,116,False,5,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",1,19,5,United Arab Emirates,South Africa,Muhammad Arfan,D Parashar,KT Maphaka,1,0,5,False,7,117,False,5,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",1,19,6,United Arab Emirates,South Africa,D Parashar,Muhammad Arfan,KT Maphaka,1,0,6,False,6,118,False,5,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",1,20,1,United Arab Emirates,South Africa,D Parashar,Muhammad Arfan,C Bosch,1,0,1,False,5,119,False,5,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",1,20,2,United Arab Emirates,South Africa,Muhammad Arfan,D Parashar,C Bosch,0,0,2,False,4,119,True,6,122,123,123,,,,,,caught,Muhammad Arfan,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",1,20,3,United Arab Emirates,South Africa,Muhammad Farooq,D Parashar,C Bosch,1,0,3,False,3,120,False,6,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",1,20,4,United Arab Emirates,South Africa,D Parashar,Muhammad Farooq,C Bosch,0,0,4,False,2,120,False,6,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",1,20,5,United Arab Emirates,South Africa,D Parashar,Muhammad Farooq,C Bosch,1,0,5,False,1,121,False,6,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",1,20,6,United Arab Emirates,South Africa,Muhammad Farooq,D Parashar,C Bosch,0,1,6,False,0,122,False,6,122,123,123,,,1.0,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",2,1,1,South Africa,United Arab Emirates,AK Markram,Q de Kock,D Parashar,1,0,1,False,119,1,False,0,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",2,1,2,South Africa,United Arab Emirates,Q de Kock,AK Markram,D Parashar,0,0,2,False,118,1,False,0,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",2,1,3,South Africa,United Arab Emirates,Q de Kock,AK Markram,D Parashar,0,0,3,False,117,1,False,0,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",2,1,4,South Africa,United Arab Emirates,Q de Kock,AK Markram,D Parashar,0,0,4,False,116,1,False,0,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",2,1,5,South Africa,United Arab Emirates,Q de Kock,AK Markram,D Parashar,0,0,5,False,115,1,False,0,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",2,1,6,South Africa,United Arab Emirates,Q de Kock,AK Markram,D Parashar,0,0,6,False,114,1,False,0,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",2,2,1,South Africa,United Arab Emirates,AK Markram,Q de Kock,Junaid Siddique,4,0,1,False,113,5,False,0,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",2,2,2,South Africa,United Arab Emirates,AK Markram,Q de Kock,Junaid Siddique,0,0,2,False,112,5,False,0,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",2,2,3,South Africa,United Arab Emirates,AK Markram,Q de Kock,Junaid Siddique,4,0,3,False,111,9,False,0,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",2,2,4,South Africa,United Arab Emirates,AK Markram,Q de Kock,Junaid Siddique,1,0,4,False,110,10,False,0,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",2,2,5,South Africa,United Arab Emirates,Q de Kock,AK Markram,Junaid Siddique,0,0,5,False,109,10,False,0,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",2,2,6,South Africa,United Arab Emirates,Q de Kock,AK Markram,Junaid Siddique,4,0,6,False,108,14,False,0,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",2,3,1,South Africa,United Arab Emirates,AK Markram,Q de Kock,Haider Ali,4,0,1,False,107,18,False,0,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",2,3,2,South Africa,United Arab Emirates,AK Markram,Q de Kock,Haider Ali,0,0,2,False,106,18,False,0,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",2,3,3,South Africa,United Arab Emirates,AK Markram,Q de Kock,Haider Ali,4,0,3,False,105,22,False,0,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",2,3,4,South Africa,United Arab Emirates,AK Markram,Q de Kock,Haider Ali,6,0,4,False,104,28,False,0,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",2,3,5,South Africa,United Arab Emirates,AK Markram,Q de Kock,Haider Ali,4,0,5,False,103,32,False,0,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",2,3,6,South Africa,United Arab Emirates,AK Markram,Q de Kock,Haider Ali,0,0,6,False,102,32,True,1,122,123,123,,,,,,bowled,AK Markram,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",2,4,1,South Africa,United Arab Emirates,Q de Kock,RD Rickelton,D Parashar,1,0,1,False,101,33,False,1,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",2,4,2,South Africa,United Arab Emirates,RD Rickelton,Q de Kock,D Parashar,0,0,2,False,100,33,False,1,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",2,4,3,South Africa,United Arab Emirates,RD Rickelton,Q de Kock,D Parashar,1,0,3,False,99,34,False,1,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",2,4,4,South Africa,United Arab Emirates,Q de Kock,RD Rickelton,D Parashar,1,0,4,False,98,35,False,1,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",2,4,5,South Africa,United Arab Emirates,RD Rickelton,Q de Kock,D Parashar,4,0,5,False,97,39,False,1,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",2,4,6,South Africa,United Arab Emirates,RD Rickelton,Q de Kock,D Parashar,0,0,6,False,96,39,False,1,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",2,5,1,South Africa,United Arab Emirates,Q de Kock,RD Rickelton,Junaid Siddique,0,0,1,False,95,39,False,1,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",2,5,2,South Africa,United Arab Emirates,Q de Kock,RD Rickelton,Junaid Siddique,0,0,2,False,94,39,False,1,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",2,5,3,South Africa,United Arab Emirates,Q de Kock,RD Rickelton,Junaid Siddique,4,0,3,False,93,43,False,1,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",2,5,4,South Africa,United Arab Emirates,Q de Kock,RD Rickelton,Junaid Siddique,0,0,4,False,92,43,False,1,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",2,5,5,South Africa,United Arab Emirates,Q de Kock,RD Rickelton,Junaid Siddique,0,0,5,False,91,43,False,1,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",2,5,6,South Africa,United Arab Emirates,Q de Kock,RD Rickelton,Junaid Siddique,4,0,6,False,90,47,False,1,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",2,6,1,South Africa,United Arab Emirates,RD Rickelton,Q de Kock,Muhammad Jawadullah,4,0,1,False,89,51,False,1,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",2,6,2,South Africa,United Arab Emirates,RD Rickelton,Q de Kock,Muhammad Jawadullah,4,0,2,False,88,55,False,1,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",2,6,3,South Africa,United Arab Emirates,RD Rickelton,Q de Kock,Muhammad Jawadullah,1,0,3,False,87,56,False,1,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",2,6,4,South Africa,United Arab Emirates,Q de Kock,RD Rickelton,Muhammad Jawadullah,0,0,4,False,86,56,True,2,122,123,123,,,,,,caught,Q de Kock,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",2,6,5,South Africa,United Arab Emirates,D Brevis,RD Rickelton,Muhammad Jawadullah,0,0,5,False,85,56,False,2,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",2,6,6,South Africa,United Arab Emirates,D Brevis,RD Rickelton,Muhammad Jawadullah,0,0,6,False,84,56,False,2,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",2,7,1,South Africa,United Arab Emirates,RD Rickelton,D Brevis,Haider Ali,1,0,1,False,83,57,False,2,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",2,7,2,South Africa,United Arab Emirates,D Brevis,RD Rickelton,Haider Ali,2,0,2,False,82,59,False,2,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",2,7,3,South Africa,United Arab Emirates,D Brevis,RD Rickelton,Haider Ali,1,0,3,False,81,60,False,2,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",2,7,4,South Africa,United Arab Emirates,RD Rickelton,D Brevis,Haider Ali,1,0,4,False,80,61,False,2,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",2,7,5,South Africa,United Arab Emirates,D Brevis,RD Rickelton,Haider Ali,0,0,5,False,79,61,False,2,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",2,7,6,South Africa,United Arab Emirates,D Brevis,RD Rickelton,Haider Ali,1,0,6,False,78,62,False,2,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",2,8,1,South Africa,United Arab Emirates,D Brevis,RD Rickelton,Muhammad Jawadullah,4,0,1,False,77,66,False,2,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",2,8,2,South Africa,United Arab Emirates,D Brevis,RD Rickelton,Muhammad Jawadullah,0,0,2,False,76,66,False,2,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",2,8,3,South Africa,United Arab Emirates,D Brevis,RD Rickelton,Muhammad Jawadullah,0,0,3,False,75,66,False,2,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",2,8,4,South Africa,United Arab Emirates,D Brevis,RD Rickelton,Muhammad Jawadullah,6,0,4,False,74,72,False,2,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",2,8,5,South Africa,United Arab Emirates,D Brevis,RD Rickelton,Muhammad Jawadullah,0,0,5,False,73,72,False,2,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",2,8,6,South Africa,United Arab Emirates,D Brevis,RD Rickelton,Muhammad Jawadullah,1,0,6,False,72,73,False,2,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",2,9,1,South Africa,United Arab Emirates,D Brevis,RD Rickelton,Haider Ali,2,0,1,False,71,75,False,2,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",2,9,2,South Africa,United Arab Emirates,D Brevis,RD Rickelton,Haider Ali,6,0,2,False,70,81,False,2,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",2,9,3,South Africa,United Arab Emirates,D Brevis,RD Rickelton,Haider Ali,0,0,3,False,69,81,False,2,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",2,9,4,South Africa,United Arab Emirates,D Brevis,RD Rickelton,Haider Ali,0,0,4,False,68,81,False,2,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",2,9,5,South Africa,United Arab Emirates,D Brevis,RD Rickelton,Haider Ali,1,0,5,False,67,82,False,2,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",2,9,6,South Africa,United Arab Emirates,RD Rickelton,D Brevis,Haider Ali,0,4,6,False,66,86,False,2,122,123,123,,,4.0,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",2,10,1,South Africa,United Arab Emirates,D Brevis,RD Rickelton,Muhammad Arfan,1,0,1,False,65,87,False,2,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",2,10,2,South Africa,United Arab Emirates,RD Rickelton,D Brevis,Muhammad Arfan,1,0,2,False,64,88,False,2,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",2,10,3,South Africa,United Arab Emirates,D Brevis,RD Rickelton,Muhammad Arfan,0,1,2,True,64,89,False,2,122,123,123,1.0,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",2,10,4,South Africa,United Arab Emirates,D Brevis,RD Rickelton,Muhammad Arfan,2,0,3,False,63,91,False,2,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",2,10,5,South Africa,United Arab Emirates,D Brevis,RD Rickelton,Muhammad Arfan,0,0,4,False,62,91,False,2,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",2,10,6,South Africa,United Arab Emirates,D Brevis,RD Rickelton,Muhammad Arfan,1,0,5,False,61,92,False,2,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",2,10,7,South Africa,United Arab Emirates,RD Rickelton,D Brevis,Muhammad Arfan,1,0,6,False,60,93,False,2,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",2,11,1,South Africa,United Arab Emirates,RD Rickelton,D Brevis,Muhammad Farooq,6,0,1,False,59,99,False,2,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",2,11,2,South Africa,United Arab Emirates,RD Rickelton,D Brevis,Muhammad Farooq,0,0,2,False,58,99,False,2,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",2,11,3,South Africa,United Arab Emirates,RD Rickelton,D Brevis,Muhammad Farooq,6,0,3,False,57,105,False,2,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",2,11,4,South Africa,United Arab Emirates,RD Rickelton,D Brevis,Muhammad Farooq,0,0,4,False,56,105,True,3,122,123,123,,,,,,caught,RD Rickelton,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",2,11,5,South Africa,United Arab Emirates,T Stubbs,D Brevis,Muhammad Farooq,1,0,5,False,55,106,False,3,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",2,11,6,South Africa,United Arab Emirates,D Brevis,T Stubbs,Muhammad Farooq,1,0,6,False,54,107,False,3,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",2,12,1,South Africa,United Arab Emirates,D Brevis,T Stubbs,Muhammad Arfan,0,1,0,True,54,108,False,3,122,123,123,1.0,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",2,12,2,South Africa,United Arab Emirates,D Brevis,T Stubbs,Muhammad Arfan,6,0,1,False,53,114,False,3,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",2,12,3,South Africa,United Arab Emirates,D Brevis,T Stubbs,Muhammad Arfan,1,0,2,False,52,115,False,3,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",2,12,4,South Africa,United Arab Emirates,T Stubbs,D Brevis,Muhammad Arfan,1,0,3,False,51,116,False,3,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",2,12,5,South Africa,United Arab Emirates,D Brevis,T Stubbs,Muhammad Arfan,0,0,4,False,50,116,True,4,122,123,123,,,,,,caught,D Brevis,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",2,12,6,South Africa,United Arab Emirates,JF Smith,T Stubbs,Muhammad Arfan,0,0,5,False,49,116,False,4,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",2,12,7,South Africa,United Arab Emirates,JF Smith,T Stubbs,Muhammad Arfan,0,0,6,False,48,116,False,4,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",2,13,1,South Africa,United Arab Emirates,T Stubbs,JF Smith,Muhammad Farooq,1,0,1,False,47,117,False,4,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",2,13,2,South Africa,United Arab Emirates,JF Smith,T Stubbs,Muhammad Farooq,1,0,2,False,46,118,False,4,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",2,13,3,South Africa,United Arab Emirates,T Stubbs,JF Smith,Muhammad Farooq,1,0,3,False,45,119,False,4,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",2,13,4,South Africa,United Arab Emirates,JF Smith,T Stubbs,Muhammad Farooq,1,0,4,False,44,120,False,4,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",2,13,5,South Africa,United Arab Emirates,T Stubbs,JF Smith,Muhammad Farooq,0,0,5,False,43,120,False,4,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",2,13,6,South Africa,United Arab Emirates,T Stubbs,JF Smith,Muhammad Farooq,1,0,6,False,42,121,False,4,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",2,14,1,South Africa,United Arab Emirates,T Stubbs,JF Smith,Junaid Siddique,1,0,1,False,41,122,False,4,122,123,123,,,,,,,,,,drop
+1512752,2025/26,2026-02-18,"Arun Jaitley Stadium, Delhi",2,14,2,South Africa,United Arab Emirates,JF Smith,T Stubbs,Junaid Siddique,1,0,2,False,40,123,False,4,122,123,123,,,,,,,,,,drop

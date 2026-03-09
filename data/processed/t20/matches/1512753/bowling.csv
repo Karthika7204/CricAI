@@ -1,0 +1,13 @@
+match_id,date,innings,team,player,overs,balls_bowled,wickets,runs_conceded,economy,maidens,wides,no_balls
+1512753,2026-02-18,1,Namibia,JT Brassell,4.0,24,2,48,12.0,0,0,0
+1512753,2026-02-18,1,Namibia,MG Erasmus,3.0,18,1,25,8.33,0,1,0
+1512753,2026-02-18,1,Namibia,BM Scholtz,4.0,24,0,34,8.5,0,1,0
+1512753,2026-02-18,1,Namibia,R Trumpelmann,4.0,24,0,37,9.25,0,1,0
+1512753,2026-02-18,1,Namibia,JJ Smit,3.0,18,0,28,9.33,0,0,0
+1512753,2026-02-18,1,Namibia,WP Myburgh,2.0,12,0,27,13.5,0,1,0
+1512753,2026-02-18,2,Pakistan,Usman Tariq,3.3,21,4,16,4.57,1,0,0
+1512753,2026-02-18,2,Pakistan,Shadab Khan,4.0,24,3,19,4.75,0,1,0
+1512753,2026-02-18,2,Pakistan,Mohammad Nawaz,4.0,24,1,22,5.5,0,2,0
+1512753,2026-02-18,2,Pakistan,Salman Mirza,2.0,12,1,12,6.0,0,1,0
+1512753,2026-02-18,2,Pakistan,Saim Ayub,2.0,12,0,11,5.5,0,0,0
+1512753,2026-02-18,2,Pakistan,Faheem Ashraf,2.0,12,0,17,8.5,0,0,0

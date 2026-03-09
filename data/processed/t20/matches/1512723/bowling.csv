@@ -1,0 +1,13 @@
+match_id,date,innings,team,player,overs,balls_bowled,wickets,runs_conceded,economy,maidens,wides,no_balls
+1512723,2026-02-08,1,Nepal,DS Airee,3.0,18,2,23,7.67,0,1,0
+1512723,2026-02-08,1,Nepal,NK Yadav,3.0,18,2,26,8.67,0,2,0
+1512723,2026-02-08,1,Nepal,S Lamichhane,4.0,24,1,25,6.25,0,0,0
+1512723,2026-02-08,1,Nepal,S Malla,3.0,18,1,35,11.67,0,0,0
+1512723,2026-02-08,1,Nepal,K Bhurtel,4.0,24,0,40,10.0,0,1,0
+1512723,2026-02-08,1,Nepal,Karan KC,3.0,18,0,35,11.67,0,0,0
+1512723,2026-02-08,2,England,LA Dawson,4.0,24,2,21,5.25,0,1,0
+1512723,2026-02-08,2,England,SM Curran,4.0,24,1,27,6.75,0,1,0
+1512723,2026-02-08,2,England,WG Jacks,2.0,12,1,17,8.5,0,1,0
+1512723,2026-02-08,2,England,L Wood,3.0,18,1,31,10.33,0,3,0
+1512723,2026-02-08,2,England,JC Archer,4.0,24,1,42,10.5,0,3,0
+1512723,2026-02-08,2,England,AU Rashid,3.0,18,0,42,14.0,0,0,0

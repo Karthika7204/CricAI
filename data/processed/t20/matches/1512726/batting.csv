@@ -1,0 +1,17 @@
+match_id,date,innings,team,player,runs,balls_faced,strike_rate,fours,sixes,dismissed,dismissal_kind
+1512726,2026-02-09,1,Oman,V Shukla,28,21,133.33,4,0,True,caught
+1512726,2026-02-09,1,Oman,Sufyan Mehmood,25,39,64.1,2,0,True,caught
+1512726,2026-02-09,1,Oman,Nadeem Khan,20,19,105.26,1,1,True,caught
+1512726,2026-02-09,1,Oman,Aamir Kaleem,5,8,62.5,1,0,True,caught
+1512726,2026-02-09,1,Oman,Jatinder Singh,5,5,100.0,1,0,True,bowled
+1512726,2026-02-09,1,Oman,Shah Faisal,5,2,250.0,1,0,False,
+1512726,2026-02-09,1,Oman,Shakeel Ahmed,4,5,80.0,0,0,True,bowled
+1512726,2026-02-09,1,Oman,Wasim Ali,3,8,37.5,0,0,True,bowled
+1512726,2026-02-09,1,Oman,J Ramanandi,1,3,33.33,0,0,True,caught
+1512726,2026-02-09,1,Oman,Hammad Mirza,0,5,0.0,0,0,True,caught
+1512726,2026-02-09,1,Oman,K Sonavale,0,6,0.0,0,0,True,caught
+1512726,2026-02-09,2,Zimbabwe,BJ Bennett,48,36,133.33,7,0,False,
+1512726,2026-02-09,2,Zimbabwe,BRM Taylor,31,30,103.33,3,0,False,
+1512726,2026-02-09,2,Zimbabwe,T Marumani,21,11,190.91,5,0,True,caught
+1512726,2026-02-09,2,Zimbabwe,Sikandar Raza,5,2,250.0,1,0,False,
+1512726,2026-02-09,2,Zimbabwe,D Myers,0,2,0.0,0,0,True,caught

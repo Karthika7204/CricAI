@@ -1,0 +1,15 @@
+match_id,date,innings,team,player,overs,balls_bowled,wickets,runs_conceded,economy,maidens,wides,no_balls
+1512745,2026-02-15,1,Pakistan,Saim Ayub,4.0,24,3,25,6.25,0,0,0
+1512745,2026-02-15,1,Pakistan,Agha Salman,2.0,12,1,10,5.0,0,0,0
+1512745,2026-02-15,1,Pakistan,Usman Tariq,4.0,24,1,25,6.25,0,1,0
+1512745,2026-02-15,1,Pakistan,Shaheen Shah Afridi,2.0,12,1,31,15.5,0,0,0
+1512745,2026-02-15,1,Pakistan,Mohammad Nawaz,4.0,24,0,29,7.25,0,0,0
+1512745,2026-02-15,1,Pakistan,Abrar Ahmed,3.0,18,0,38,12.67,0,0,0
+1512745,2026-02-15,1,Pakistan,Shadab Khan,1.0,6,0,17,17.0,0,0,0
+1512745,2026-02-15,2,India,HH Pandya,3.0,18,2,16,5.33,1,1,0
+1512745,2026-02-15,2,India,CV Varun,3.0,18,2,17,5.67,0,0,0
+1512745,2026-02-15,2,India,AR Patel,4.0,24,2,29,7.25,0,0,0
+1512745,2026-02-15,2,India,JJ Bumrah,2.0,12,2,17,8.5,0,1,0
+1512745,2026-02-15,2,India,Kuldeep Yadav,3.0,18,1,15,5.0,0,1,0
+1512745,2026-02-15,2,India,Tilak Varma,2.0,12,1,11,5.5,0,0,0
+1512745,2026-02-15,2,India,RK Singh,1.0,6,0,9,9.0,0,0,0

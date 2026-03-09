@@ -1,0 +1,254 @@
+match_id,season,start_date,venue,innings,over,ball,batting_team,bowling_team,striker,non_striker,bowler,runs_off_bat,extras,ball_in_over,extra_ball,balls_remaining,runs_scored_yet,wicket,wickets_lost_yet,innings1_total,innings2_total,target,wides,noballs,byes,legbyes,penalty,wicket_type,player_dismissed,other_wicket_type,other_player_dismissed,.groups
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",1,1,1,Canada,United Arab Emirates,YS Samra,DS Bajwa,Haider Ali,1,0,1,False,119,1,False,0,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",1,1,2,Canada,United Arab Emirates,DS Bajwa,YS Samra,Haider Ali,4,0,2,False,118,5,False,0,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",1,1,3,Canada,United Arab Emirates,DS Bajwa,YS Samra,Haider Ali,0,0,3,False,117,5,False,0,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",1,1,4,Canada,United Arab Emirates,DS Bajwa,YS Samra,Haider Ali,0,0,4,False,116,5,False,0,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",1,1,5,Canada,United Arab Emirates,DS Bajwa,YS Samra,Haider Ali,0,0,5,False,115,5,False,0,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",1,1,6,Canada,United Arab Emirates,DS Bajwa,YS Samra,Haider Ali,1,0,6,False,114,6,False,0,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",1,2,1,Canada,United Arab Emirates,DS Bajwa,YS Samra,Junaid Siddique,0,0,1,False,113,6,False,0,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",1,2,2,Canada,United Arab Emirates,DS Bajwa,YS Samra,Junaid Siddique,0,0,2,False,112,6,False,0,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",1,2,3,Canada,United Arab Emirates,DS Bajwa,YS Samra,Junaid Siddique,0,0,3,False,111,6,False,0,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",1,2,4,Canada,United Arab Emirates,DS Bajwa,YS Samra,Junaid Siddique,2,0,4,False,110,8,False,0,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",1,2,5,Canada,United Arab Emirates,DS Bajwa,YS Samra,Junaid Siddique,4,0,5,False,109,12,False,0,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",1,2,6,Canada,United Arab Emirates,DS Bajwa,YS Samra,Junaid Siddique,0,1,5,True,109,13,False,0,150,151,151,1.0,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",1,2,7,Canada,United Arab Emirates,DS Bajwa,YS Samra,Junaid Siddique,0,1,5,True,109,14,False,0,150,151,151,1.0,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",1,2,8,Canada,United Arab Emirates,DS Bajwa,YS Samra,Junaid Siddique,0,0,6,False,108,14,True,1,150,151,151,,,,,,caught,DS Bajwa,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",1,3,1,Canada,United Arab Emirates,YS Samra,NS Dhaliwal,Haider Ali,2,0,1,False,107,16,False,1,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",1,3,2,Canada,United Arab Emirates,YS Samra,NS Dhaliwal,Haider Ali,1,0,2,False,106,17,False,1,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",1,3,3,Canada,United Arab Emirates,NS Dhaliwal,YS Samra,Haider Ali,0,0,3,False,105,17,False,1,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",1,3,4,Canada,United Arab Emirates,NS Dhaliwal,YS Samra,Haider Ali,1,0,4,False,104,18,False,1,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",1,3,5,Canada,United Arab Emirates,YS Samra,NS Dhaliwal,Haider Ali,1,0,5,False,103,19,False,1,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",1,3,6,Canada,United Arab Emirates,NS Dhaliwal,YS Samra,Haider Ali,0,0,6,False,102,19,False,1,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",1,4,1,Canada,United Arab Emirates,YS Samra,NS Dhaliwal,Junaid Siddique,0,0,1,False,101,19,True,2,150,151,151,,,,,,caught,YS Samra,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",1,4,2,Canada,United Arab Emirates,NR Kirton,NS Dhaliwal,Junaid Siddique,0,0,2,False,100,19,False,2,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",1,4,3,Canada,United Arab Emirates,NR Kirton,NS Dhaliwal,Junaid Siddique,0,1,2,True,100,20,False,2,150,151,151,1.0,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",1,4,4,Canada,United Arab Emirates,NR Kirton,NS Dhaliwal,Junaid Siddique,1,0,3,False,99,21,False,2,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",1,4,5,Canada,United Arab Emirates,NS Dhaliwal,NR Kirton,Junaid Siddique,0,0,4,False,98,21,False,2,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",1,4,6,Canada,United Arab Emirates,NS Dhaliwal,NR Kirton,Junaid Siddique,2,0,5,False,97,23,False,2,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",1,4,7,Canada,United Arab Emirates,NS Dhaliwal,NR Kirton,Junaid Siddique,0,1,5,True,97,24,False,2,150,151,151,1.0,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",1,4,8,Canada,United Arab Emirates,NS Dhaliwal,NR Kirton,Junaid Siddique,4,0,6,False,96,28,False,2,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",1,5,1,Canada,United Arab Emirates,NR Kirton,NS Dhaliwal,Muhammad Arfan,1,0,1,False,95,29,False,2,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",1,5,2,Canada,United Arab Emirates,NS Dhaliwal,NR Kirton,Muhammad Arfan,1,0,2,False,94,30,False,2,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",1,5,3,Canada,United Arab Emirates,NR Kirton,NS Dhaliwal,Muhammad Arfan,0,1,2,True,94,31,False,2,150,151,151,1.0,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",1,5,4,Canada,United Arab Emirates,NR Kirton,NS Dhaliwal,Muhammad Arfan,1,0,3,False,93,32,False,2,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",1,5,5,Canada,United Arab Emirates,NS Dhaliwal,NR Kirton,Muhammad Arfan,1,0,4,False,92,33,False,2,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",1,5,6,Canada,United Arab Emirates,NR Kirton,NS Dhaliwal,Muhammad Arfan,1,0,5,False,91,34,False,2,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",1,5,7,Canada,United Arab Emirates,NS Dhaliwal,NR Kirton,Muhammad Arfan,4,0,6,False,90,38,False,2,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",1,6,1,Canada,United Arab Emirates,NR Kirton,NS Dhaliwal,Muhammad Jawadullah,0,0,1,False,89,38,True,3,150,151,151,,,,,,caught,NR Kirton,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",1,6,2,Canada,United Arab Emirates,H Thaker,NS Dhaliwal,Muhammad Jawadullah,0,0,2,False,88,38,False,3,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",1,6,3,Canada,United Arab Emirates,H Thaker,NS Dhaliwal,Muhammad Jawadullah,0,0,3,False,87,38,False,3,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",1,6,4,Canada,United Arab Emirates,H Thaker,NS Dhaliwal,Muhammad Jawadullah,0,0,4,False,86,38,False,3,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",1,6,5,Canada,United Arab Emirates,H Thaker,NS Dhaliwal,Muhammad Jawadullah,0,0,5,False,85,38,False,3,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",1,6,6,Canada,United Arab Emirates,H Thaker,NS Dhaliwal,Muhammad Jawadullah,1,0,6,False,84,39,False,3,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",1,7,1,Canada,United Arab Emirates,H Thaker,NS Dhaliwal,Haider Ali,0,0,1,False,83,39,False,3,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",1,7,2,Canada,United Arab Emirates,H Thaker,NS Dhaliwal,Haider Ali,0,0,2,False,82,39,False,3,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",1,7,3,Canada,United Arab Emirates,H Thaker,NS Dhaliwal,Haider Ali,4,0,3,False,81,43,False,3,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",1,7,4,Canada,United Arab Emirates,H Thaker,NS Dhaliwal,Haider Ali,6,0,4,False,80,49,False,3,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",1,7,5,Canada,United Arab Emirates,H Thaker,NS Dhaliwal,Haider Ali,1,0,5,False,79,50,False,3,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",1,7,6,Canada,United Arab Emirates,NS Dhaliwal,H Thaker,Haider Ali,1,0,6,False,78,51,False,3,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",1,8,1,Canada,United Arab Emirates,NS Dhaliwal,H Thaker,Muhammad Jawadullah,0,0,1,False,77,51,False,3,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",1,8,2,Canada,United Arab Emirates,NS Dhaliwal,H Thaker,Muhammad Jawadullah,1,0,2,False,76,52,False,3,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",1,8,3,Canada,United Arab Emirates,H Thaker,NS Dhaliwal,Muhammad Jawadullah,0,0,3,False,75,52,False,3,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",1,8,4,Canada,United Arab Emirates,H Thaker,NS Dhaliwal,Muhammad Jawadullah,0,1,3,True,75,53,False,3,150,151,151,1.0,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",1,8,5,Canada,United Arab Emirates,H Thaker,NS Dhaliwal,Muhammad Jawadullah,1,0,4,False,74,54,False,3,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",1,8,6,Canada,United Arab Emirates,NS Dhaliwal,H Thaker,Muhammad Jawadullah,1,0,5,False,73,55,False,3,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",1,8,7,Canada,United Arab Emirates,H Thaker,NS Dhaliwal,Muhammad Jawadullah,2,0,6,False,72,57,False,3,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",1,9,1,Canada,United Arab Emirates,NS Dhaliwal,H Thaker,Muhammad Arfan,2,0,1,False,71,59,False,3,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",1,9,2,Canada,United Arab Emirates,NS Dhaliwal,H Thaker,Muhammad Arfan,0,1,2,False,70,60,False,3,150,151,151,,,1.0,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",1,9,3,Canada,United Arab Emirates,H Thaker,NS Dhaliwal,Muhammad Arfan,1,0,3,False,69,61,False,3,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",1,9,4,Canada,United Arab Emirates,NS Dhaliwal,H Thaker,Muhammad Arfan,0,0,4,False,68,61,False,3,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",1,9,5,Canada,United Arab Emirates,NS Dhaliwal,H Thaker,Muhammad Arfan,1,0,5,False,67,62,False,3,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",1,9,6,Canada,United Arab Emirates,H Thaker,NS Dhaliwal,Muhammad Arfan,1,0,6,False,66,63,False,3,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",1,10,1,Canada,United Arab Emirates,H Thaker,NS Dhaliwal,Muhammad Farooq,4,0,1,False,65,67,False,3,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",1,10,2,Canada,United Arab Emirates,H Thaker,NS Dhaliwal,Muhammad Farooq,1,0,2,False,64,68,False,3,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",1,10,3,Canada,United Arab Emirates,NS Dhaliwal,H Thaker,Muhammad Farooq,1,0,3,False,63,69,False,3,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",1,10,4,Canada,United Arab Emirates,H Thaker,NS Dhaliwal,Muhammad Farooq,1,0,4,False,62,70,False,3,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",1,10,5,Canada,United Arab Emirates,NS Dhaliwal,H Thaker,Muhammad Farooq,1,0,5,False,61,71,False,3,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",1,10,6,Canada,United Arab Emirates,H Thaker,NS Dhaliwal,Muhammad Farooq,0,0,6,False,60,71,False,3,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",1,11,1,Canada,United Arab Emirates,NS Dhaliwal,H Thaker,Muhammad Arfan,1,0,1,False,59,72,False,3,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",1,11,2,Canada,United Arab Emirates,H Thaker,NS Dhaliwal,Muhammad Arfan,1,0,2,False,58,73,False,3,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",1,11,3,Canada,United Arab Emirates,NS Dhaliwal,H Thaker,Muhammad Arfan,1,0,3,False,57,74,False,3,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",1,11,4,Canada,United Arab Emirates,H Thaker,NS Dhaliwal,Muhammad Arfan,6,0,4,False,56,80,False,3,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",1,11,5,Canada,United Arab Emirates,H Thaker,NS Dhaliwal,Muhammad Arfan,0,0,5,False,55,80,False,3,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",1,11,6,Canada,United Arab Emirates,H Thaker,NS Dhaliwal,Muhammad Arfan,1,0,6,False,54,81,False,3,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",1,12,1,Canada,United Arab Emirates,H Thaker,NS Dhaliwal,Muhammad Farooq,1,0,1,False,53,82,False,3,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",1,12,2,Canada,United Arab Emirates,NS Dhaliwal,H Thaker,Muhammad Farooq,4,0,2,False,52,86,False,3,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",1,12,3,Canada,United Arab Emirates,NS Dhaliwal,H Thaker,Muhammad Farooq,0,0,3,False,51,86,False,3,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",1,12,4,Canada,United Arab Emirates,NS Dhaliwal,H Thaker,Muhammad Farooq,1,0,4,False,50,87,False,3,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",1,12,5,Canada,United Arab Emirates,H Thaker,NS Dhaliwal,Muhammad Farooq,1,0,5,False,49,88,False,3,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",1,12,6,Canada,United Arab Emirates,NS Dhaliwal,H Thaker,Muhammad Farooq,4,0,6,False,48,92,False,3,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",1,13,1,Canada,United Arab Emirates,H Thaker,NS Dhaliwal,Muhammad Jawadullah,1,0,1,False,47,93,False,3,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",1,13,2,Canada,United Arab Emirates,NS Dhaliwal,H Thaker,Muhammad Jawadullah,1,0,2,False,46,94,False,3,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",1,13,3,Canada,United Arab Emirates,H Thaker,NS Dhaliwal,Muhammad Jawadullah,1,0,3,False,45,95,False,3,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",1,13,4,Canada,United Arab Emirates,NS Dhaliwal,H Thaker,Muhammad Jawadullah,0,0,4,False,44,95,False,3,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",1,13,5,Canada,United Arab Emirates,NS Dhaliwal,H Thaker,Muhammad Jawadullah,1,0,5,False,43,96,False,3,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",1,13,6,Canada,United Arab Emirates,H Thaker,NS Dhaliwal,Muhammad Jawadullah,0,0,6,False,42,96,True,4,150,151,151,,,,,,run out,NS Dhaliwal,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",1,14,1,Canada,United Arab Emirates,H Thaker,S Movva,H Kaushik,0,0,1,False,41,96,False,4,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",1,14,2,Canada,United Arab Emirates,H Thaker,S Movva,H Kaushik,1,0,2,False,40,97,False,4,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",1,14,3,Canada,United Arab Emirates,S Movva,H Thaker,H Kaushik,0,0,3,False,39,97,False,4,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",1,14,4,Canada,United Arab Emirates,S Movva,H Thaker,H Kaushik,1,0,4,False,38,98,False,4,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",1,14,5,Canada,United Arab Emirates,H Thaker,S Movva,H Kaushik,1,0,5,False,37,99,False,4,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",1,14,6,Canada,United Arab Emirates,S Movva,H Thaker,H Kaushik,1,0,6,False,36,100,False,4,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",1,15,1,Canada,United Arab Emirates,S Movva,H Thaker,Haider Ali,0,0,1,False,35,100,False,4,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",1,15,2,Canada,United Arab Emirates,S Movva,H Thaker,Haider Ali,1,0,2,False,34,101,False,4,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",1,15,3,Canada,United Arab Emirates,H Thaker,S Movva,Haider Ali,1,0,3,False,33,102,False,4,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",1,15,4,Canada,United Arab Emirates,S Movva,H Thaker,Haider Ali,1,0,4,False,32,103,False,4,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",1,15,5,Canada,United Arab Emirates,H Thaker,S Movva,Haider Ali,1,0,5,False,31,104,False,4,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",1,15,6,Canada,United Arab Emirates,S Movva,H Thaker,Haider Ali,2,0,6,False,30,106,False,4,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",1,16,1,Canada,United Arab Emirates,H Thaker,S Movva,H Kaushik,1,0,1,False,29,107,False,4,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",1,16,2,Canada,United Arab Emirates,S Movva,H Thaker,H Kaushik,1,0,2,False,28,108,False,4,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",1,16,3,Canada,United Arab Emirates,H Thaker,S Movva,H Kaushik,6,0,3,False,27,114,False,4,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",1,16,4,Canada,United Arab Emirates,H Thaker,S Movva,H Kaushik,1,0,4,False,26,115,False,4,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",1,16,5,Canada,United Arab Emirates,S Movva,H Thaker,H Kaushik,4,0,5,False,25,119,False,4,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",1,16,6,Canada,United Arab Emirates,S Movva,H Thaker,H Kaushik,0,0,6,False,24,119,False,4,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",1,17,1,Canada,United Arab Emirates,H Thaker,S Movva,Muhammad Arfan,0,1,0,True,24,120,False,4,150,151,151,1.0,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",1,17,2,Canada,United Arab Emirates,H Thaker,S Movva,Muhammad Arfan,1,0,1,False,23,121,False,4,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",1,17,3,Canada,United Arab Emirates,S Movva,H Thaker,Muhammad Arfan,1,0,2,False,22,122,False,4,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",1,17,4,Canada,United Arab Emirates,H Thaker,S Movva,Muhammad Arfan,1,0,3,False,21,123,False,4,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",1,17,5,Canada,United Arab Emirates,S Movva,H Thaker,Muhammad Arfan,0,0,4,False,20,123,False,4,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",1,17,6,Canada,United Arab Emirates,S Movva,H Thaker,Muhammad Arfan,0,0,5,False,19,123,False,4,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",1,17,7,Canada,United Arab Emirates,S Movva,H Thaker,Muhammad Arfan,4,0,6,False,18,127,False,4,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",1,18,1,Canada,United Arab Emirates,H Thaker,S Movva,Junaid Siddique,0,0,1,False,17,127,False,4,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",1,18,2,Canada,United Arab Emirates,H Thaker,S Movva,Junaid Siddique,1,0,2,False,16,128,False,4,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",1,18,3,Canada,United Arab Emirates,S Movva,H Thaker,Junaid Siddique,1,0,3,False,15,129,False,4,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",1,18,4,Canada,United Arab Emirates,H Thaker,S Movva,Junaid Siddique,0,0,4,False,14,129,True,5,150,151,151,,,,,,caught,H Thaker,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",1,18,5,Canada,United Arab Emirates,Jaskaran Singh,S Movva,Junaid Siddique,1,0,5,False,13,130,False,5,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",1,18,6,Canada,United Arab Emirates,S Movva,Jaskaran Singh,Junaid Siddique,1,0,6,False,12,131,False,5,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",1,19,1,Canada,United Arab Emirates,S Movva,Jaskaran Singh,Muhammad Jawadullah,1,0,1,False,11,132,False,5,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",1,19,2,Canada,United Arab Emirates,Jaskaran Singh,S Movva,Muhammad Jawadullah,1,0,2,False,10,133,False,5,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",1,19,3,Canada,United Arab Emirates,S Movva,Jaskaran Singh,Muhammad Jawadullah,0,0,3,False,9,133,False,5,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",1,19,4,Canada,United Arab Emirates,S Movva,Jaskaran Singh,Muhammad Jawadullah,1,0,4,False,8,134,False,5,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",1,19,5,Canada,United Arab Emirates,Jaskaran Singh,S Movva,Muhammad Jawadullah,1,0,5,False,7,135,False,5,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",1,19,6,Canada,United Arab Emirates,S Movva,Jaskaran Singh,Muhammad Jawadullah,1,0,6,False,6,136,False,5,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",1,20,1,Canada,United Arab Emirates,S Movva,Jaskaran Singh,Junaid Siddique,0,0,1,False,5,136,True,6,150,151,151,,,,,,caught,S Movva,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",1,20,2,Canada,United Arab Emirates,Saad Bin Zafar,Jaskaran Singh,Junaid Siddique,1,0,2,False,4,137,False,6,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",1,20,3,Canada,United Arab Emirates,Jaskaran Singh,Saad Bin Zafar,Junaid Siddique,1,0,3,False,3,138,False,6,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",1,20,4,Canada,United Arab Emirates,Saad Bin Zafar,Jaskaran Singh,Junaid Siddique,4,0,4,False,2,142,False,6,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",1,20,5,Canada,United Arab Emirates,Saad Bin Zafar,Jaskaran Singh,Junaid Siddique,0,1,4,True,2,143,False,6,150,151,151,1.0,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",1,20,6,Canada,United Arab Emirates,Saad Bin Zafar,Jaskaran Singh,Junaid Siddique,0,0,5,False,1,143,True,7,150,151,151,,,,,,caught,Saad Bin Zafar,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",1,20,7,Canada,United Arab Emirates,D Heyliger,Jaskaran Singh,Junaid Siddique,0,1,5,True,1,144,False,7,150,151,151,1.0,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",1,20,8,Canada,United Arab Emirates,D Heyliger,Jaskaran Singh,Junaid Siddique,6,0,6,False,0,150,False,7,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",2,1,1,United Arab Emirates,Canada,A Sharma,Waseem Muhammad,Kaleem Sana,1,0,1,False,119,1,False,0,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",2,1,2,United Arab Emirates,Canada,Waseem Muhammad,A Sharma,Kaleem Sana,0,0,2,False,118,1,False,0,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",2,1,3,United Arab Emirates,Canada,Waseem Muhammad,A Sharma,Kaleem Sana,0,0,3,False,117,1,False,0,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",2,1,4,United Arab Emirates,Canada,Waseem Muhammad,A Sharma,Kaleem Sana,2,0,4,False,116,3,False,0,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",2,1,5,United Arab Emirates,Canada,Waseem Muhammad,A Sharma,Kaleem Sana,1,0,5,False,115,4,False,0,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",2,1,6,United Arab Emirates,Canada,A Sharma,Waseem Muhammad,Kaleem Sana,0,0,6,False,114,4,False,0,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",2,2,1,United Arab Emirates,Canada,Waseem Muhammad,A Sharma,D Heyliger,0,0,1,False,113,4,False,0,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",2,2,2,United Arab Emirates,Canada,Waseem Muhammad,A Sharma,D Heyliger,1,0,2,False,112,5,False,0,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",2,2,3,United Arab Emirates,Canada,A Sharma,Waseem Muhammad,D Heyliger,0,1,2,True,112,6,False,0,150,151,151,1.0,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",2,2,4,United Arab Emirates,Canada,A Sharma,Waseem Muhammad,D Heyliger,4,0,3,False,111,10,False,0,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",2,2,5,United Arab Emirates,Canada,A Sharma,Waseem Muhammad,D Heyliger,0,0,4,False,110,10,False,0,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",2,2,6,United Arab Emirates,Canada,A Sharma,Waseem Muhammad,D Heyliger,0,0,5,False,109,10,False,0,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",2,2,7,United Arab Emirates,Canada,A Sharma,Waseem Muhammad,D Heyliger,0,0,6,False,108,10,False,0,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",2,3,1,United Arab Emirates,Canada,Waseem Muhammad,A Sharma,Kaleem Sana,0,1,1,False,107,11,False,0,150,151,151,,,,1.0,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",2,3,2,United Arab Emirates,Canada,A Sharma,Waseem Muhammad,Kaleem Sana,1,0,2,False,106,12,False,0,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",2,3,3,United Arab Emirates,Canada,Waseem Muhammad,A Sharma,Kaleem Sana,0,0,3,False,105,12,True,1,150,151,151,,,,,,caught,Waseem Muhammad,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",2,3,4,United Arab Emirates,Canada,A Sharafu,A Sharma,Kaleem Sana,1,0,4,False,104,13,False,1,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",2,3,5,United Arab Emirates,Canada,A Sharma,A Sharafu,Kaleem Sana,1,0,5,False,103,14,False,1,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",2,3,6,United Arab Emirates,Canada,A Sharafu,A Sharma,Kaleem Sana,0,0,6,False,102,14,False,1,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",2,4,1,United Arab Emirates,Canada,A Sharma,A Sharafu,D Heyliger,2,0,1,False,101,16,False,1,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",2,4,2,United Arab Emirates,Canada,A Sharma,A Sharafu,D Heyliger,0,0,2,False,100,16,False,1,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",2,4,3,United Arab Emirates,Canada,A Sharma,A Sharafu,D Heyliger,1,0,3,False,99,17,False,1,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",2,4,4,United Arab Emirates,Canada,A Sharafu,A Sharma,D Heyliger,0,0,4,False,98,17,False,1,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",2,4,5,United Arab Emirates,Canada,A Sharafu,A Sharma,D Heyliger,1,0,5,False,97,18,False,1,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",2,4,6,United Arab Emirates,Canada,A Sharma,A Sharafu,D Heyliger,0,0,6,False,96,18,False,1,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",2,5,1,United Arab Emirates,Canada,A Sharafu,A Sharma,Kaleem Sana,0,0,1,False,95,18,False,1,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",2,5,2,United Arab Emirates,Canada,A Sharafu,A Sharma,Kaleem Sana,0,0,2,False,94,18,False,1,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",2,5,3,United Arab Emirates,Canada,A Sharafu,A Sharma,Kaleem Sana,1,0,3,False,93,19,False,1,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",2,5,4,United Arab Emirates,Canada,A Sharma,A Sharafu,Kaleem Sana,1,0,4,False,92,20,False,1,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",2,5,5,United Arab Emirates,Canada,A Sharafu,A Sharma,Kaleem Sana,1,0,5,False,91,21,False,1,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",2,5,6,United Arab Emirates,Canada,A Sharma,A Sharafu,Kaleem Sana,1,0,6,False,90,22,False,1,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",2,6,1,United Arab Emirates,Canada,A Sharma,A Sharafu,Jaskaran Singh,0,0,1,False,89,22,False,1,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",2,6,2,United Arab Emirates,Canada,A Sharma,A Sharafu,Jaskaran Singh,2,0,2,False,88,24,False,1,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",2,6,3,United Arab Emirates,Canada,A Sharma,A Sharafu,Jaskaran Singh,6,0,3,False,87,30,False,1,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",2,6,4,United Arab Emirates,Canada,A Sharma,A Sharafu,Jaskaran Singh,4,0,4,False,86,34,False,1,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",2,6,5,United Arab Emirates,Canada,A Sharma,A Sharafu,Jaskaran Singh,0,0,5,False,85,34,False,1,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",2,6,6,United Arab Emirates,Canada,A Sharma,A Sharafu,Jaskaran Singh,0,1,5,True,85,35,False,1,150,151,151,1.0,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",2,6,7,United Arab Emirates,Canada,A Sharma,A Sharafu,Jaskaran Singh,4,0,6,False,84,39,False,1,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",2,7,1,United Arab Emirates,Canada,A Sharafu,A Sharma,Saad Bin Zafar,0,0,1,False,83,39,False,1,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",2,7,2,United Arab Emirates,Canada,A Sharafu,A Sharma,Saad Bin Zafar,0,0,2,False,82,39,False,1,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",2,7,3,United Arab Emirates,Canada,A Sharafu,A Sharma,Saad Bin Zafar,1,0,3,False,81,40,False,1,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",2,7,4,United Arab Emirates,Canada,A Sharma,A Sharafu,Saad Bin Zafar,1,0,4,False,80,41,False,1,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",2,7,5,United Arab Emirates,Canada,A Sharafu,A Sharma,Saad Bin Zafar,0,0,5,False,79,41,False,1,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",2,7,6,United Arab Emirates,Canada,A Sharafu,A Sharma,Saad Bin Zafar,0,0,6,False,78,41,True,2,150,151,151,,,,,,caught,A Sharafu,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",2,8,1,United Arab Emirates,Canada,A Sharma,MR Kumar,Ansh Patel,0,0,1,False,77,41,False,2,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",2,8,2,United Arab Emirates,Canada,A Sharma,MR Kumar,Ansh Patel,0,0,2,False,76,41,False,2,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",2,8,3,United Arab Emirates,Canada,A Sharma,MR Kumar,Ansh Patel,0,1,2,True,76,42,False,2,150,151,151,1.0,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",2,8,4,United Arab Emirates,Canada,A Sharma,MR Kumar,Ansh Patel,0,0,3,False,75,42,False,2,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",2,8,5,United Arab Emirates,Canada,A Sharma,MR Kumar,Ansh Patel,0,0,4,False,74,42,False,2,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",2,8,6,United Arab Emirates,Canada,A Sharma,MR Kumar,Ansh Patel,0,0,5,False,73,42,False,2,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",2,8,7,United Arab Emirates,Canada,A Sharma,MR Kumar,Ansh Patel,1,0,6,False,72,43,False,2,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",2,9,1,United Arab Emirates,Canada,A Sharma,MR Kumar,Saad Bin Zafar,1,0,1,False,71,44,False,2,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",2,9,2,United Arab Emirates,Canada,MR Kumar,A Sharma,Saad Bin Zafar,1,0,2,False,70,45,False,2,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",2,9,3,United Arab Emirates,Canada,A Sharma,MR Kumar,Saad Bin Zafar,2,0,3,False,69,47,False,2,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",2,9,4,United Arab Emirates,Canada,A Sharma,MR Kumar,Saad Bin Zafar,0,0,4,False,68,47,False,2,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",2,9,5,United Arab Emirates,Canada,A Sharma,MR Kumar,Saad Bin Zafar,2,0,5,False,67,49,False,2,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",2,9,6,United Arab Emirates,Canada,A Sharma,MR Kumar,Saad Bin Zafar,1,0,6,False,66,50,False,2,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",2,10,1,United Arab Emirates,Canada,A Sharma,MR Kumar,Ansh Patel,4,0,1,False,65,54,False,2,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",2,10,2,United Arab Emirates,Canada,A Sharma,MR Kumar,Ansh Patel,1,0,2,False,64,55,False,2,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",2,10,3,United Arab Emirates,Canada,MR Kumar,A Sharma,Ansh Patel,2,0,3,False,63,57,False,2,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",2,10,4,United Arab Emirates,Canada,MR Kumar,A Sharma,Ansh Patel,1,0,4,False,62,58,False,2,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",2,10,5,United Arab Emirates,Canada,A Sharma,MR Kumar,Ansh Patel,1,0,5,False,61,59,False,2,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",2,10,6,United Arab Emirates,Canada,MR Kumar,A Sharma,Ansh Patel,0,0,6,False,60,59,False,2,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",2,11,1,United Arab Emirates,Canada,A Sharma,MR Kumar,Saad Bin Zafar,1,0,1,False,59,60,False,2,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",2,11,2,United Arab Emirates,Canada,MR Kumar,A Sharma,Saad Bin Zafar,0,0,2,False,58,60,False,2,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",2,11,3,United Arab Emirates,Canada,MR Kumar,A Sharma,Saad Bin Zafar,0,0,3,False,57,60,True,3,150,151,151,,,,,,caught,MR Kumar,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",2,11,4,United Arab Emirates,Canada,H Kaushik,A Sharma,Saad Bin Zafar,1,0,4,False,56,61,False,3,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",2,11,5,United Arab Emirates,Canada,A Sharma,H Kaushik,Saad Bin Zafar,0,0,5,False,55,61,False,3,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",2,11,6,United Arab Emirates,Canada,A Sharma,H Kaushik,Saad Bin Zafar,0,0,6,False,54,61,False,3,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",2,12,1,United Arab Emirates,Canada,H Kaushik,A Sharma,DS Bajwa,0,0,1,False,53,61,False,3,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",2,12,2,United Arab Emirates,Canada,H Kaushik,A Sharma,DS Bajwa,0,0,2,False,52,61,False,3,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",2,12,3,United Arab Emirates,Canada,H Kaushik,A Sharma,DS Bajwa,0,0,3,False,51,61,False,3,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",2,12,4,United Arab Emirates,Canada,H Kaushik,A Sharma,DS Bajwa,0,0,4,False,50,61,False,3,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",2,12,5,United Arab Emirates,Canada,H Kaushik,A Sharma,DS Bajwa,4,0,5,False,49,65,False,3,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",2,12,6,United Arab Emirates,Canada,H Kaushik,A Sharma,DS Bajwa,0,0,6,False,48,65,False,3,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",2,13,1,United Arab Emirates,Canada,A Sharma,H Kaushik,Saad Bin Zafar,1,0,1,False,47,66,False,3,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",2,13,2,United Arab Emirates,Canada,H Kaushik,A Sharma,Saad Bin Zafar,0,0,2,False,46,66,False,3,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",2,13,3,United Arab Emirates,Canada,H Kaushik,A Sharma,Saad Bin Zafar,0,0,3,False,45,66,True,4,150,151,151,,,,,,caught,H Kaushik,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",2,13,4,United Arab Emirates,Canada,Shoaib Khan,A Sharma,Saad Bin Zafar,1,0,4,False,44,67,False,4,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",2,13,5,United Arab Emirates,Canada,A Sharma,Shoaib Khan,Saad Bin Zafar,1,0,5,False,43,68,False,4,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",2,13,6,United Arab Emirates,Canada,Shoaib Khan,A Sharma,Saad Bin Zafar,0,0,6,False,42,68,False,4,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",2,14,1,United Arab Emirates,Canada,A Sharma,Shoaib Khan,Ansh Patel,6,0,1,False,41,74,False,4,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",2,14,2,United Arab Emirates,Canada,A Sharma,Shoaib Khan,Ansh Patel,0,0,2,False,40,74,False,4,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",2,14,3,United Arab Emirates,Canada,A Sharma,Shoaib Khan,Ansh Patel,1,0,3,False,39,75,False,4,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",2,14,4,United Arab Emirates,Canada,Shoaib Khan,A Sharma,Ansh Patel,6,0,4,False,38,81,False,4,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",2,14,5,United Arab Emirates,Canada,Shoaib Khan,A Sharma,Ansh Patel,1,0,5,False,37,82,False,4,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",2,14,6,United Arab Emirates,Canada,A Sharma,Shoaib Khan,Ansh Patel,0,0,6,False,36,82,False,4,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",2,15,1,United Arab Emirates,Canada,Shoaib Khan,A Sharma,D Heyliger,0,0,1,False,35,82,False,4,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",2,15,2,United Arab Emirates,Canada,Shoaib Khan,A Sharma,D Heyliger,1,0,2,False,34,83,False,4,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",2,15,3,United Arab Emirates,Canada,A Sharma,Shoaib Khan,D Heyliger,2,0,3,False,33,85,False,4,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",2,15,4,United Arab Emirates,Canada,A Sharma,Shoaib Khan,D Heyliger,1,0,4,False,32,86,False,4,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",2,15,5,United Arab Emirates,Canada,Shoaib Khan,A Sharma,D Heyliger,0,0,5,False,31,86,False,4,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",2,15,6,United Arab Emirates,Canada,Shoaib Khan,A Sharma,D Heyliger,2,0,6,False,30,88,False,4,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",2,16,1,United Arab Emirates,Canada,A Sharma,Shoaib Khan,Jaskaran Singh,0,1,0,True,30,89,False,4,150,151,151,1.0,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",2,16,2,United Arab Emirates,Canada,A Sharma,Shoaib Khan,Jaskaran Singh,1,0,1,False,29,90,False,4,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",2,16,3,United Arab Emirates,Canada,Shoaib Khan,A Sharma,Jaskaran Singh,4,0,2,False,28,94,False,4,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",2,16,4,United Arab Emirates,Canada,Shoaib Khan,A Sharma,Jaskaran Singh,0,0,3,False,27,94,False,4,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",2,16,5,United Arab Emirates,Canada,Shoaib Khan,A Sharma,Jaskaran Singh,0,0,4,False,26,94,False,4,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",2,16,6,United Arab Emirates,Canada,Shoaib Khan,A Sharma,Jaskaran Singh,0,0,5,False,25,94,False,4,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",2,16,7,United Arab Emirates,Canada,Shoaib Khan,A Sharma,Jaskaran Singh,1,0,6,False,24,95,False,4,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",2,17,1,United Arab Emirates,Canada,Shoaib Khan,A Sharma,D Heyliger,6,0,1,False,23,101,False,4,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",2,17,2,United Arab Emirates,Canada,Shoaib Khan,A Sharma,D Heyliger,4,0,2,False,22,105,False,4,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",2,17,3,United Arab Emirates,Canada,Shoaib Khan,A Sharma,D Heyliger,0,0,3,False,21,105,False,4,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",2,17,4,United Arab Emirates,Canada,Shoaib Khan,A Sharma,D Heyliger,6,0,4,False,20,111,False,4,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",2,17,5,United Arab Emirates,Canada,Shoaib Khan,A Sharma,D Heyliger,0,0,5,False,19,111,False,4,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",2,17,6,United Arab Emirates,Canada,Shoaib Khan,A Sharma,D Heyliger,1,0,6,False,18,112,False,4,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",2,18,1,United Arab Emirates,Canada,Shoaib Khan,A Sharma,Jaskaran Singh,4,0,1,False,17,116,False,4,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",2,18,2,United Arab Emirates,Canada,Shoaib Khan,A Sharma,Jaskaran Singh,6,0,2,False,16,122,False,4,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",2,18,3,United Arab Emirates,Canada,Shoaib Khan,A Sharma,Jaskaran Singh,0,1,2,True,16,123,False,4,150,151,151,1.0,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",2,18,4,United Arab Emirates,Canada,Shoaib Khan,A Sharma,Jaskaran Singh,0,0,3,False,15,123,False,4,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",2,18,5,United Arab Emirates,Canada,Shoaib Khan,A Sharma,Jaskaran Singh,2,0,4,False,14,125,False,4,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",2,18,6,United Arab Emirates,Canada,Shoaib Khan,A Sharma,Jaskaran Singh,0,0,5,False,13,125,False,4,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",2,18,7,United Arab Emirates,Canada,Shoaib Khan,A Sharma,Jaskaran Singh,0,0,6,False,12,125,False,4,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",2,19,1,United Arab Emirates,Canada,A Sharma,Shoaib Khan,Kaleem Sana,2,0,1,False,11,127,False,4,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",2,19,2,United Arab Emirates,Canada,A Sharma,Shoaib Khan,Kaleem Sana,4,0,2,False,10,131,False,4,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",2,19,3,United Arab Emirates,Canada,A Sharma,Shoaib Khan,Kaleem Sana,4,0,3,False,9,135,False,4,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",2,19,4,United Arab Emirates,Canada,A Sharma,Shoaib Khan,Kaleem Sana,1,0,4,False,8,136,False,4,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",2,19,5,United Arab Emirates,Canada,Shoaib Khan,A Sharma,Kaleem Sana,0,1,4,True,8,137,False,4,150,151,151,,1.0,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",2,19,6,United Arab Emirates,Canada,Shoaib Khan,A Sharma,Kaleem Sana,4,0,5,False,7,141,False,4,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",2,19,7,United Arab Emirates,Canada,Shoaib Khan,A Sharma,Kaleem Sana,2,0,6,False,6,143,False,4,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",2,20,1,United Arab Emirates,Canada,A Sharma,Shoaib Khan,Jaskaran Singh,6,0,1,False,5,149,False,4,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",2,20,2,United Arab Emirates,Canada,A Sharma,Shoaib Khan,Jaskaran Singh,1,0,2,False,4,150,False,4,150,151,151,,,,,,,,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",2,20,3,United Arab Emirates,Canada,Shoaib Khan,A Sharma,Jaskaran Singh,0,0,3,False,3,150,True,5,150,151,151,,,,,,caught,Shoaib Khan,,,drop
+1512738,2025/26,2026-02-13,"Arun Jaitley Stadium, Delhi",2,20,4,United Arab Emirates,Canada,Muhammad Arfan,A Sharma,Jaskaran Singh,1,0,4,False,2,151,False,5,150,151,151,,,,,,,,,,drop

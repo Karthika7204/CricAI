@@ -1,0 +1,15 @@
+match_id,date,innings,team,player,overs,balls_bowled,wickets,runs_conceded,economy,maidens,wides,no_balls
+1512737,2026-02-13,1,Australia,C Green,1.1,7,1,7,6.0,1,1,0
+1512737,2026-02-13,1,Australia,MP Stoinis,2.5,17,1,19,6.71,0,2,0
+1512737,2026-02-13,1,Australia,A Zampa,4.0,24,0,31,7.75,0,0,0
+1512737,2026-02-13,1,Australia,MP Kuhnemann,3.0,18,0,24,8.0,0,0,0
+1512737,2026-02-13,1,Australia,NT Ellis,4.0,24,0,34,8.5,0,1,0
+1512737,2026-02-13,1,Australia,BJ Dwarshuis,4.0,24,0,40,10.0,0,1,0
+1512737,2026-02-13,1,Australia,GJ Maxwell,1.0,6,0,14,14.0,0,0,0
+1512737,2026-02-13,2,Zimbabwe,B Muzarabani,4.0,24,4,19,4.75,0,0,0
+1512737,2026-02-13,2,Zimbabwe,B Evans,3.3,21,3,23,6.57,0,1,0
+1512737,2026-02-13,2,Zimbabwe,RP Burl,1.0,6,1,9,9.0,0,0,0
+1512737,2026-02-13,2,Zimbabwe,WP Masakadza,4.0,24,1,36,9.0,0,0,0
+1512737,2026-02-13,2,Zimbabwe,AG Cremer,4.0,24,0,33,8.25,0,0,0
+1512737,2026-02-13,2,Zimbabwe,Sikandar Raza,2.0,12,0,17,8.5,0,0,0
+1512737,2026-02-13,2,Zimbabwe,D Myers,1.0,6,0,9,9.0,0,1,0

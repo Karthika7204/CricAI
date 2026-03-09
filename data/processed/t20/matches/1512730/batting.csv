@@ -1,0 +1,20 @@
+match_id,date,innings,team,player,runs,balls_faced,strike_rate,fours,sixes,dismissed,dismissal_kind
+1512730,2026-02-10,1,Pakistan,Sahibzada Farhan,73,42,173.81,6,5,True,caught
+1512730,2026-02-10,1,Pakistan,Babar Azam,46,33,139.39,4,1,True,caught
+1512730,2026-02-10,1,Pakistan,Shadab Khan,30,12,250.0,4,1,True,caught
+1512730,2026-02-10,1,Pakistan,Saim Ayub,19,17,111.76,1,2,True,caught
+1512730,2026-02-10,1,Pakistan,Shaheen Shah Afridi,9,4,225.0,0,1,False,
+1512730,2026-02-10,1,Pakistan,Mohammad Nawaz,5,10,50.0,0,0,True,caught
+1512730,2026-02-10,1,Pakistan,Agha Salman,1,3,33.33,0,0,True,caught
+1512730,2026-02-10,1,Pakistan,Faheem Ashraf,1,2,50.0,0,0,True,caught
+1512730,2026-02-10,1,Pakistan,Usman Khan,0,1,0.0,0,0,True,run out
+1512730,2026-02-10,2,United States of America,Shubham Ranjane,51,32,159.38,3,3,True,lbw
+1512730,2026-02-10,2,United States of America,Shayan Jahangir,49,34,144.12,5,2,True,caught
+1512730,2026-02-10,2,United States of America,Milind Kumar,29,23,126.09,2,1,True,caught
+1512730,2026-02-10,2,United States of America,AGS Gous,13,13,100.0,2,0,True,caught
+1512730,2026-02-10,2,United States of America,Harmeet Singh,6,5,120.0,1,0,True,caught
+1512730,2026-02-10,2,United States of America,MD Patel,3,10,30.0,0,0,True,caught and bowled
+1512730,2026-02-10,2,United States of America,Ehsan Adil,1,2,50.0,0,0,False,
+1512730,2026-02-10,2,United States of America,SC van Schalkwyk,1,2,50.0,0,0,False,
+1512730,2026-02-10,2,United States of America,Mohammad Mohsin,0,1,0.0,0,0,True,bowled
+1512730,2026-02-10,2,United States of America,SP Krishnamurthi,0,2,0.0,0,0,True,bowled

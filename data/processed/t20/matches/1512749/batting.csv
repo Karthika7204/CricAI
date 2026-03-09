@@ -1,0 +1,11 @@
+match_id,date,innings,team,player,runs,balls_faced,strike_rate,fours,sixes,dismissed,dismissal_kind
+1512749,2026-02-17,1,Canada,YS Samra,110,67,164.18,11,6,True,caught
+1512749,2026-02-17,1,Canada,DS Bajwa,36,40,90.0,4,0,True,caught
+1512749,2026-02-17,1,Canada,NS Dhaliwal,10,7,142.86,0,1,True,caught
+1512749,2026-02-17,1,Canada,D Heyliger,8,3,266.67,0,1,False,
+1512749,2026-02-17,1,Canada,H Thaker,3,3,100.0,0,0,False,
+1512749,2026-02-17,1,Canada,NR Kirton,2,3,66.67,0,0,True,lbw
+1512749,2026-02-17,2,New Zealand,GD Phillips,76,41,185.37,4,6,False,
+1512749,2026-02-17,2,New Zealand,R Ravindra,59,42,140.48,4,3,False,
+1512749,2026-02-17,2,New Zealand,FH Allen,21,9,233.33,2,1,True,caught
+1512749,2026-02-17,2,New Zealand,TL Seifert,6,10,60.0,1,0,True,caught

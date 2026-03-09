@@ -1,0 +1,976 @@
+{
+    "match_id": "1512719",
+    "metadata": {
+        "tournament": "2025/26",
+        "venue": "Sinhalese Sports Club Ground, Colombo",
+        "date": "2026-02-07",
+        "stage": "ICC Men's T20 World Cup",
+        "winner": "Pakistan",
+        "loser": "Netherlands",
+        "win_classification": "Moderate",
+        "margin_runs": null,
+        "margin_wickets": 3,
+        "competitiveness_index": 85.0,
+        "teams": {
+            "Netherlands": {
+                "captain": "SA Edwards",
+                "playing_xi_count": 11
+            },
+            "Pakistan": {
+                "captain": "Sahibzada Farhan",
+                "playing_xi_count": 11
+            }
+        },
+        "team_summary": {
+            "Netherlands": {
+                "run_rate": 7.41,
+                "fours": 18,
+                "sixes": 2,
+                "boundary_runs": 84,
+                "dot_balls": 44,
+                "total_runs": 147,
+                "total_wickets": 10
+            },
+            "Pakistan": {
+                "run_rate": 7.59,
+                "fours": 14,
+                "sixes": 6,
+                "boundary_runs": 92,
+                "dot_balls": 48,
+                "total_runs": 148,
+                "total_wickets": 7
+            }
+        },
+        "formulas": {
+            "competitiveness": "Base(Margin) + Pressure_Bonus(L5 Overs)",
+            "pressure": "((RR_Gap / Start_RR) * 40) + ((Wickets / 10) * 60)",
+            "batting_impact": "Runs + (SR/Match_SR * 25)",
+            "bowling_impact": "(Wickets * 30) + (Match_RR/Econ * 20)"
+        }
+    },
+    "scorecards": {
+        "batting": [
+            {
+                "player": "SA Edwards",
+                "team": "Netherlands",
+                "runs": 37,
+                "balls": 29,
+                "sr": 127.59,
+                "fours": 3,
+                "sixes": 1,
+                "win_contribution_percent": 25.2,
+                "score": 63.4
+            },
+            {
+                "player": "BFW de Leede",
+                "team": "Netherlands",
+                "runs": 30,
+                "balls": 26,
+                "sr": 115.38,
+                "fours": 4,
+                "sixes": 0,
+                "win_contribution_percent": 20.4,
+                "score": 53.87
+            },
+            {
+                "player": "M Levitt",
+                "team": "Netherlands",
+                "runs": 24,
+                "balls": 15,
+                "sr": 160.0,
+                "fours": 3,
+                "sixes": 1,
+                "win_contribution_percent": 16.3,
+                "score": 57.1
+            },
+            {
+                "player": "CN Ackermann",
+                "team": "Netherlands",
+                "runs": 20,
+                "balls": 15,
+                "sr": 133.33,
+                "fours": 4,
+                "sixes": 0,
+                "win_contribution_percent": 13.6,
+                "score": 47.59
+            },
+            {
+                "player": "A Dutt",
+                "team": "Netherlands",
+                "runs": 13,
+                "balls": 8,
+                "sr": 162.5,
+                "fours": 2,
+                "sixes": 0,
+                "win_contribution_percent": 8.8,
+                "score": 46.62
+            },
+            {
+                "player": "ZB Lion-Cachet",
+                "team": "Netherlands",
+                "runs": 9,
+                "balls": 8,
+                "sr": 112.5,
+                "fours": 1,
+                "sixes": 0,
+                "win_contribution_percent": 6.1,
+                "score": 32.28
+            },
+            {
+                "player": "MP O'Dowd",
+                "team": "Netherlands",
+                "runs": 5,
+                "balls": 7,
+                "sr": 71.43,
+                "fours": 1,
+                "sixes": 0,
+                "win_contribution_percent": 3.4,
+                "score": 19.78
+            },
+            {
+                "player": "RE van der Merwe",
+                "team": "Netherlands",
+                "runs": 4,
+                "balls": 9,
+                "sr": 44.44,
+                "fours": 0,
+                "sixes": 0,
+                "win_contribution_percent": 2.7,
+                "score": 13.19
+            },
+            {
+                "player": "K Klein",
+                "team": "Netherlands",
+                "runs": 2,
+                "balls": 2,
+                "sr": 100.0,
+                "fours": 0,
+                "sixes": 0,
+                "win_contribution_percent": 1.4,
+                "score": 22.69
+            },
+            {
+                "player": "LV van Beek",
+                "team": "Netherlands",
+                "runs": 0,
+                "balls": 1,
+                "sr": 0.0,
+                "fours": 0,
+                "sixes": 0,
+                "win_contribution_percent": 0.0,
+                "score": 0.0
+            },
+            {
+                "player": "PA van Meekeren",
+                "team": "Netherlands",
+                "runs": 0,
+                "balls": 1,
+                "sr": 0.0,
+                "fours": 0,
+                "sixes": 0,
+                "win_contribution_percent": 0.0,
+                "score": 0.0
+            },
+            {
+                "player": "Sahibzada Farhan",
+                "team": "Pakistan",
+                "runs": 47,
+                "balls": 32,
+                "sr": 146.88,
+                "fours": 4,
+                "sixes": 2,
+                "win_contribution_percent": 31.8,
+                "score": 77.39
+            },
+            {
+                "player": "Faheem Ashraf",
+                "team": "Pakistan",
+                "runs": 29,
+                "balls": 11,
+                "sr": 263.64,
+                "fours": 2,
+                "sixes": 3,
+                "win_contribution_percent": 19.6,
+                "score": 83.55
+            },
+            {
+                "player": "Saim Ayub",
+                "team": "Pakistan",
+                "runs": 24,
+                "balls": 13,
+                "sr": 184.62,
+                "fours": 4,
+                "sixes": 1,
+                "win_contribution_percent": 16.2,
+                "score": 62.2
+            },
+            {
+                "player": "Babar Azam",
+                "team": "Pakistan",
+                "runs": 15,
+                "balls": 18,
+                "sr": 83.33,
+                "fours": 1,
+                "sixes": 0,
+                "win_contribution_percent": 10.1,
+                "score": 32.24
+            },
+            {
+                "player": "Agha Salman",
+                "team": "Pakistan",
+                "runs": 12,
+                "balls": 8,
+                "sr": 150.0,
+                "fours": 3,
+                "sixes": 0,
+                "win_contribution_percent": 8.1,
+                "score": 43.03
+            },
+            {
+                "player": "Shadab Khan",
+                "team": "Pakistan",
+                "runs": 8,
+                "balls": 12,
+                "sr": 66.67,
+                "fours": 0,
+                "sixes": 0,
+                "win_contribution_percent": 5.4,
+                "score": 21.79
+            },
+            {
+                "player": "Mohammad Nawaz",
+                "team": "Pakistan",
+                "runs": 6,
+                "balls": 14,
+                "sr": 42.86,
+                "fours": 0,
+                "sixes": 0,
+                "win_contribution_percent": 4.1,
+                "score": 14.87
+            },
+            {
+                "player": "Shaheen Shah Afridi",
+                "team": "Pakistan",
+                "runs": 5,
+                "balls": 9,
+                "sr": 55.56,
+                "fours": 0,
+                "sixes": 0,
+                "win_contribution_percent": 3.4,
+                "score": 16.5
+            },
+            {
+                "player": "Usman Khan",
+                "team": "Pakistan",
+                "runs": 0,
+                "balls": 2,
+                "sr": 0.0,
+                "fours": 0,
+                "sixes": 0,
+                "win_contribution_percent": 0.0,
+                "score": 0.0
+            }
+        ],
+        "bowling": [
+            {
+                "player": "Salman Mirza",
+                "team": "Pakistan",
+                "overs": 3.5,
+                "runs": 25,
+                "wickets": 3,
+                "econ": 6.52,
+                "score": 112.62
+            },
+            {
+                "player": "Abrar Ahmed",
+                "team": "Pakistan",
+                "overs": 4.0,
+                "runs": 23,
+                "wickets": 2,
+                "econ": 5.75,
+                "score": 85.65
+            },
+            {
+                "player": "Saim Ayub",
+                "team": "Pakistan",
+                "overs": 1.0,
+                "runs": 7,
+                "wickets": 2,
+                "econ": 7.0,
+                "score": 81.07
+            },
+            {
+                "player": "Mohammad Nawaz",
+                "team": "Pakistan",
+                "overs": 4.0,
+                "runs": 38,
+                "wickets": 2,
+                "econ": 9.5,
+                "score": 75.53
+            },
+            {
+                "player": "Shaheen Shah Afridi",
+                "team": "Pakistan",
+                "overs": 3.0,
+                "runs": 28,
+                "wickets": 1,
+                "econ": 9.33,
+                "score": 45.81
+            },
+            {
+                "player": "Shadab Khan",
+                "team": "Pakistan",
+                "overs": 4.0,
+                "runs": 26,
+                "wickets": 0,
+                "econ": 6.5,
+                "score": 22.69
+            },
+            {
+                "player": "PA van Meekeren",
+                "team": "Netherlands",
+                "overs": 4.0,
+                "runs": 20,
+                "wickets": 2,
+                "econ": 5.0,
+                "score": 89.5
+            },
+            {
+                "player": "A Dutt",
+                "team": "Netherlands",
+                "overs": 4.0,
+                "runs": 33,
+                "wickets": 2,
+                "econ": 8.25,
+                "score": 77.88
+            },
+            {
+                "player": "RE van der Merwe",
+                "team": "Netherlands",
+                "overs": 3.0,
+                "runs": 13,
+                "wickets": 1,
+                "econ": 4.33,
+                "score": 64.06
+            },
+            {
+                "player": "K Klein",
+                "team": "Netherlands",
+                "overs": 3.0,
+                "runs": 23,
+                "wickets": 1,
+                "econ": 7.67,
+                "score": 49.23
+            },
+            {
+                "player": "LV van Beek",
+                "team": "Netherlands",
+                "overs": 4.0,
+                "runs": 46,
+                "wickets": 1,
+                "econ": 11.5,
+                "score": 42.83
+            },
+            {
+                "player": "BFW de Leede",
+                "team": "Netherlands",
+                "overs": 1.3,
+                "runs": 13,
+                "wickets": 0,
+                "econ": 8.67,
+                "score": 17.01
+            }
+        ]
+    },
+    "innings": [
+        {
+            "innings": 1,
+            "team": "Netherlands",
+            "total_runs": 147,
+            "total_wickets": 10,
+            "balls_faced": 119,
+            "overs_faced": 19.5,
+            "phase_analysis": {
+                "Powerplay": {
+                    "runs": 50,
+                    "wkts": 2,
+                    "rr": 8.33
+                },
+                "Middle": {
+                    "runs": 73,
+                    "wkts": 2,
+                    "rr": 8.11
+                },
+                "Death": {
+                    "runs": 24,
+                    "wkts": 6,
+                    "rr": 4.97
+                }
+            }
+        },
+        {
+            "innings": 2,
+            "team": "Pakistan",
+            "total_runs": 148,
+            "total_wickets": 7,
+            "balls_faced": 117,
+            "overs_faced": 19.3,
+            "phase_analysis": {
+                "Powerplay": {
+                    "runs": 61,
+                    "wkts": 2,
+                    "rr": 10.17
+                },
+                "Middle": {
+                    "runs": 50,
+                    "wkts": 3,
+                    "rr": 5.56
+                },
+                "Death": {
+                    "runs": 37,
+                    "wkts": 2,
+                    "rr": 8.22
+                }
+            },
+            "pressure_index": 2.0,
+            "target": 148
+        }
+    ],
+    "players": [
+        {
+            "player": "Salman Mirza",
+            "team": "Pakistan",
+            "overs": 3.5,
+            "runs": 25,
+            "wickets": 3,
+            "econ": 6.52,
+            "score": 112.62,
+            "role": "bowling",
+            "match_stats": "3.5o-25r-3w"
+        },
+        {
+            "player": "PA van Meekeren",
+            "team": "Netherlands",
+            "overs": 4.0,
+            "runs": 20,
+            "wickets": 2,
+            "econ": 5.0,
+            "score": 89.5,
+            "role": "bowling",
+            "match_stats": "4.0o-20r-2w"
+        },
+        {
+            "player": "Abrar Ahmed",
+            "team": "Pakistan",
+            "overs": 4.0,
+            "runs": 23,
+            "wickets": 2,
+            "econ": 5.75,
+            "score": 85.65,
+            "role": "bowling",
+            "match_stats": "4.0o-23r-2w"
+        },
+        {
+            "player": "Faheem Ashraf",
+            "team": "Pakistan",
+            "runs": 29,
+            "balls": 11,
+            "sr": 263.64,
+            "fours": 2,
+            "sixes": 3,
+            "win_contribution_percent": 19.6,
+            "score": 83.55,
+            "role": "batting",
+            "match_stats": "29(11)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "Saim Ayub",
+            "team": "Pakistan",
+            "overs": 1.0,
+            "runs": 7,
+            "wickets": 2,
+            "econ": 7.0,
+            "score": 81.07,
+            "role": "bowling",
+            "match_stats": "1.0o-7r-2w"
+        },
+        {
+            "player": "A Dutt",
+            "team": "Netherlands",
+            "overs": 4.0,
+            "runs": 33,
+            "wickets": 2,
+            "econ": 8.25,
+            "score": 77.88,
+            "role": "bowling",
+            "match_stats": "4.0o-33r-2w"
+        },
+        {
+            "player": "Sahibzada Farhan",
+            "team": "Pakistan",
+            "runs": 47,
+            "balls": 32,
+            "sr": 146.88,
+            "fours": 4,
+            "sixes": 2,
+            "win_contribution_percent": 31.8,
+            "score": 77.39,
+            "role": "batting",
+            "match_stats": "47(32)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "Mohammad Nawaz",
+            "team": "Pakistan",
+            "overs": 4.0,
+            "runs": 38,
+            "wickets": 2,
+            "econ": 9.5,
+            "score": 75.53,
+            "role": "bowling",
+            "match_stats": "4.0o-38r-2w"
+        },
+        {
+            "player": "RE van der Merwe",
+            "team": "Netherlands",
+            "overs": 3.0,
+            "runs": 13,
+            "wickets": 1,
+            "econ": 4.33,
+            "score": 64.06,
+            "role": "bowling",
+            "match_stats": "3.0o-13r-1w"
+        },
+        {
+            "player": "SA Edwards",
+            "team": "Netherlands",
+            "runs": 37,
+            "balls": 29,
+            "sr": 127.59,
+            "fours": 3,
+            "sixes": 1,
+            "win_contribution_percent": 25.2,
+            "score": 63.4,
+            "role": "batting",
+            "match_stats": "37(29)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "Saim Ayub",
+            "team": "Pakistan",
+            "runs": 24,
+            "balls": 13,
+            "sr": 184.62,
+            "fours": 4,
+            "sixes": 1,
+            "win_contribution_percent": 16.2,
+            "score": 62.2,
+            "role": "batting",
+            "match_stats": "24(13)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "M Levitt",
+            "team": "Netherlands",
+            "runs": 24,
+            "balls": 15,
+            "sr": 160.0,
+            "fours": 3,
+            "sixes": 1,
+            "win_contribution_percent": 16.3,
+            "score": 57.1,
+            "role": "batting",
+            "match_stats": "24(15)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "BFW de Leede",
+            "team": "Netherlands",
+            "runs": 30,
+            "balls": 26,
+            "sr": 115.38,
+            "fours": 4,
+            "sixes": 0,
+            "win_contribution_percent": 20.4,
+            "score": 53.87,
+            "role": "batting",
+            "match_stats": "30(26)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "K Klein",
+            "team": "Netherlands",
+            "overs": 3.0,
+            "runs": 23,
+            "wickets": 1,
+            "econ": 7.67,
+            "score": 49.23,
+            "role": "bowling",
+            "match_stats": "3.0o-23r-1w"
+        },
+        {
+            "player": "CN Ackermann",
+            "team": "Netherlands",
+            "runs": 20,
+            "balls": 15,
+            "sr": 133.33,
+            "fours": 4,
+            "sixes": 0,
+            "win_contribution_percent": 13.6,
+            "score": 47.59,
+            "role": "batting",
+            "match_stats": "20(15)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "A Dutt",
+            "team": "Netherlands",
+            "runs": 13,
+            "balls": 8,
+            "sr": 162.5,
+            "fours": 2,
+            "sixes": 0,
+            "win_contribution_percent": 8.8,
+            "score": 46.62,
+            "role": "batting",
+            "match_stats": "13(8)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "Shaheen Shah Afridi",
+            "team": "Pakistan",
+            "overs": 3.0,
+            "runs": 28,
+            "wickets": 1,
+            "econ": 9.33,
+            "score": 45.81,
+            "role": "bowling",
+            "match_stats": "3.0o-28r-1w"
+        },
+        {
+            "player": "Agha Salman",
+            "team": "Pakistan",
+            "runs": 12,
+            "balls": 8,
+            "sr": 150.0,
+            "fours": 3,
+            "sixes": 0,
+            "win_contribution_percent": 8.1,
+            "score": 43.03,
+            "role": "batting",
+            "match_stats": "12(8)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "LV van Beek",
+            "team": "Netherlands",
+            "overs": 4.0,
+            "runs": 46,
+            "wickets": 1,
+            "econ": 11.5,
+            "score": 42.83,
+            "role": "bowling",
+            "match_stats": "4.0o-46r-1w"
+        },
+        {
+            "player": "ZB Lion-Cachet",
+            "team": "Netherlands",
+            "runs": 9,
+            "balls": 8,
+            "sr": 112.5,
+            "fours": 1,
+            "sixes": 0,
+            "win_contribution_percent": 6.1,
+            "score": 32.28,
+            "role": "batting",
+            "match_stats": "9(8)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "Babar Azam",
+            "team": "Pakistan",
+            "runs": 15,
+            "balls": 18,
+            "sr": 83.33,
+            "fours": 1,
+            "sixes": 0,
+            "win_contribution_percent": 10.1,
+            "score": 32.24,
+            "role": "batting",
+            "match_stats": "15(18)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "K Klein",
+            "team": "Netherlands",
+            "runs": 2,
+            "balls": 2,
+            "sr": 100.0,
+            "fours": 0,
+            "sixes": 0,
+            "win_contribution_percent": 1.4,
+            "score": 22.69,
+            "role": "batting",
+            "match_stats": "2(2)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "Shadab Khan",
+            "team": "Pakistan",
+            "overs": 4.0,
+            "runs": 26,
+            "wickets": 0,
+            "econ": 6.5,
+            "score": 22.69,
+            "role": "bowling",
+            "match_stats": "4.0o-26r-0w"
+        },
+        {
+            "player": "Shadab Khan",
+            "team": "Pakistan",
+            "runs": 8,
+            "balls": 12,
+            "sr": 66.67,
+            "fours": 0,
+            "sixes": 0,
+            "win_contribution_percent": 5.4,
+            "score": 21.79,
+            "role": "batting",
+            "match_stats": "8(12)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "MP O'Dowd",
+            "team": "Netherlands",
+            "runs": 5,
+            "balls": 7,
+            "sr": 71.43,
+            "fours": 1,
+            "sixes": 0,
+            "win_contribution_percent": 3.4,
+            "score": 19.78,
+            "role": "batting",
+            "match_stats": "5(7)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "BFW de Leede",
+            "team": "Netherlands",
+            "overs": 1.3,
+            "runs": 13,
+            "wickets": 0,
+            "econ": 8.67,
+            "score": 17.01,
+            "role": "bowling",
+            "match_stats": "1.3o-13r-0w"
+        },
+        {
+            "player": "Shaheen Shah Afridi",
+            "team": "Pakistan",
+            "runs": 5,
+            "balls": 9,
+            "sr": 55.56,
+            "fours": 0,
+            "sixes": 0,
+            "win_contribution_percent": 3.4,
+            "score": 16.5,
+            "role": "batting",
+            "match_stats": "5(9)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "Mohammad Nawaz",
+            "team": "Pakistan",
+            "runs": 6,
+            "balls": 14,
+            "sr": 42.86,
+            "fours": 0,
+            "sixes": 0,
+            "win_contribution_percent": 4.1,
+            "score": 14.87,
+            "role": "batting",
+            "match_stats": "6(14)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "RE van der Merwe",
+            "team": "Netherlands",
+            "runs": 4,
+            "balls": 9,
+            "sr": 44.44,
+            "fours": 0,
+            "sixes": 0,
+            "win_contribution_percent": 2.7,
+            "score": 13.19,
+            "role": "batting",
+            "match_stats": "4(9)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "LV van Beek",
+            "team": "Netherlands",
+            "runs": 0,
+            "balls": 1,
+            "sr": 0.0,
+            "fours": 0,
+            "sixes": 0,
+            "win_contribution_percent": 0.0,
+            "score": 0.0,
+            "role": "batting",
+            "match_stats": "0(1)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "PA van Meekeren",
+            "team": "Netherlands",
+            "runs": 0,
+            "balls": 1,
+            "sr": 0.0,
+            "fours": 0,
+            "sixes": 0,
+            "win_contribution_percent": 0.0,
+            "score": 0.0,
+            "role": "batting",
+            "match_stats": "0(1)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "Usman Khan",
+            "team": "Pakistan",
+            "runs": 0,
+            "balls": 2,
+            "sr": 0.0,
+            "fours": 0,
+            "sixes": 0,
+            "win_contribution_percent": 0.0,
+            "score": 0.0,
+            "role": "batting",
+            "match_stats": "0(2)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        }
+    ],
+    "validation": {
+        "logical_stability": true
+    }
+}

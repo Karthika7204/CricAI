@@ -1,0 +1,103 @@
+pos,change,country_id,country,shortname,team_id,team_name,team_url,matches,points,rating,rankdate
+1,( - ),4,India,IND,4,India,https://www.icc-cricket.com/teams/4/india-men/,83,22613,272,2026-03-01
+2,( - ),3,England,ENG,3,England,https://www.icc-cricket.com/teams/3/england-men/,55,14300,260,2026-03-01
+3,( - ),1,Australia,AUS,1,Australia,https://www.icc-cricket.com/teams/1/australia-men/,49,12645,258,2026-03-01
+4,( - ),5,New Zealand,NZ,5,New Zealand,https://www.icc-cricket.com/teams/5/new-zealand-men/,64,16002,250,2026-03-01
+5,( - ),7,South Africa,SA,7,South Africa,https://www.icc-cricket.com/teams/7/south-africa-men/,63,15432,245,2026-03-01
+6,( - ),6,Pakistan,PAK,6,Pakistan,https://www.icc-cricket.com/teams/6/pakistan-men/,84,20002,238,2026-03-01
+7,( - ),9,West Indies,WI,9,West Indies,https://www.icc-cricket.com/teams/9/west-indies-men/,74,17424,235,2026-03-01
+8,( - ),8,Sri Lanka,SL,8,Sri Lanka,https://www.icc-cricket.com/teams/8/sri-lanka-men/,60,13593,227,2026-03-01
+9,( - ),2,Bangladesh,BAN,2,Bangladesh,https://www.icc-cricket.com/teams/2/bangladesh-men/,67,14925,223,2026-03-01
+10,( - ),262,Afghanistan,AFG,1188,Afghanistan,https://www.icc-cricket.com/teams/1188/afghanistan-men/,52,11504,221,2026-03-01
+11,( - ),10,Zimbabwe,ZIM,10,Zimbabwe,https://www.icc-cricket.com/teams/10/zimbabwe-men/,72,14539,202,2026-03-01
+12,( - ),13,Ireland,IRE,13,Ireland,https://www.icc-cricket.com/teams/13/ireland-men/,45,9001,200,2026-03-01
+13,( - ),15,Netherlands,NED,15,Netherlands,https://www.icc-cricket.com/teams/15/netherlands-men/,39,7064,181,2026-03-01
+14,( - ),16,Scotland,SCO,16,Scotland,https://www.icc-cricket.com/teams/16/scotland-men/,27,4836,179,2026-03-01
+15,( - ),18,Namibia,NAM,20,Namibia,https://www.icc-cricket.com/teams/20/namibia-men/,39,6940,178,2026-03-01
+16,( - ),20,USA,USA,22,USA,https://www.icc-cricket.com/teams/22/usa-men/,37,6562,177,2026-03-01
+17,( - ),19,United Arab Emirates,UAE,21,United Arab Emirates,https://www.icc-cricket.com/teams/21/united-arab-emirates-men/,66,11584,176,2026-03-01
+18,( - ),170,Nepal,NEP,637,Nepal,https://www.icc-cricket.com/teams/637/nepal-men/,46,8031,175,2026-03-01
+19,( - ),12,Canada,CAN,12,Canada,https://www.icc-cricket.com/teams/12/canada-men/,39,5928,152,2026-03-01
+20,( - ),181,Oman,OMN,28,Oman,https://www.icc-cricket.com/teams/28/oman-men/,51,7707,151,2026-03-01
+21,( - ),240,Uganda,UGN,29,Uganda,https://www.icc-cricket.com/teams/29/uganda-men/,56,7952,142,2026-03-01
+22,( - ),184,Papua New Guinea,PNG,750,Papua New Guinea,https://www.icc-cricket.com/teams/750/papua-new-guinea-men/,20,2718,136,2026-03-01
+23,( - ),134,Kuwait,KUW,1797,Kuwait,https://www.icc-cricket.com/teams/1797/kuwait-men/,45,5775,128,2026-03-01
+24,( - ),17,Hong Kong,HK,19,Hong Kong,"https://www.icc-cricket.com/teams/19/hong-kong,-china-men/",55,7037,128,2026-03-01
+25,( - ),149,Malaysia,MAS,552,Malaysia,https://www.icc-cricket.com/teams/552/malaysia-men/,59,7386,125,2026-03-01
+26,( - ),125,Italy,ITA,1298,Italy,https://www.icc-cricket.com/teams/1298/italy-men/,22,2680,122,2026-03-01
+27,( - ),192,Qatar,QAT,1763,Qatar,https://www.icc-cricket.com/teams/1763/qatar-men/,46,5407,118,2026-03-01
+28,( - ),259,Jersey,JSY,1481,Jersey,https://www.icc-cricket.com/teams/1481/jersey-men/,24,2819,117,2026-03-01
+29,( - ),37,Bahrain,BRN,1872,Bahrain,https://www.icc-cricket.com/teams/1872/bahrain-men/,81,9430,116,2026-03-01
+30,( - ),216,Spain,ESP,1739,Spain,https://www.icc-cricket.com/teams/1739/spain-men/,22,2478,113,2026-03-01
+31,( - ),11,Bermuda,BDA,11,Bermuda,https://www.icc-cricket.com/teams/11/bermuda-men/,27,3040,113,2026-03-01
+32,( - ),205,Saudi Arabia,SDA,1751,Saudi Arabia,https://www.icc-cricket.com/teams/1751/saudi-arabia-men/,39,4245,109,2026-03-01
+33,( - ),14,Kenya,KEN,14,Kenya,https://www.icc-cricket.com/teams/14/kenya-men/,48,5074,106,2026-03-01
+34,( - ),229,Tanzania,TAN,1731,Tanzania,https://www.icc-cricket.com/teams/1731/tanzania-men/,41,4082,100,2026-03-01
+35,( - ),102,Germany,GER,1822,Germany,https://www.icc-cricket.com/teams/1822/germany-men/,22,1924,87,2026-03-01
+36,( - ),176,Nigeria,NGR,1671,Nigeria,https://www.icc-cricket.com/teams/1671/nigeria-men/,53,4166,79,2026-03-01
+37,( - ),270,Guernsey,GSY,1814,Guernsey,https://www.icc-cricket.com/teams/1814/guernsey-men/,27,2071,77,2026-03-01
+38,( - ),210,Singapore,SIN,1565,Singapore,https://www.icc-cricket.com/teams/1565/singapore-men/,41,3075,75,2026-03-01
+39,( - ),58,Cayman Islands,CAY,151,Cayman Islands,https://www.icc-cricket.com/teams/151/cayman-islands-men/,26,1921,74,2026-03-01
+40,( - ),34,Austria,AUT ,1723,Austria,https://www.icc-cricket.com/teams/1723/austria-men/,57,4054,71,2026-03-01
+41,( - ),76,Denmark,DEN,26,Denmark,https://www.icc-cricket.com/teams/26/denmark-men/,18,1262,70,2026-03-01
+42,( - ),180,Norway,NOR,1774,Norway,https://www.icc-cricket.com/teams/1774/norway-men/,30,2095,70,2026-03-01
+43,( - ),128,Japan,JPN,1801,Japan,https://www.icc-cricket.com/teams/1801/japan-men/,42,2905,69,2026-03-01
+44,( - ),190,Portugal,POR,1765,Portugal,https://www.icc-cricket.com/teams/1765/portugal-men/,20,1333,67,2026-03-01
+45,( - ),40,Belgium,BEL ,1870,Belgium,https://www.icc-cricket.com/teams/1870/belgium-men/,36,2059,57,2026-03-01
+46,( - ),22,Argentina,ARG,25,Argentina,https://www.icc-cricket.com/teams/25/argentina-men/,15,745,50,2026-03-01
+47,( - ),225,Switzerland,CHE,2833,Switzerland,https://www.icc-cricket.com/teams/2833/switzerland-men/,22,1086,49,2026-03-01
+48,( - ),92,Finland,FIN,1828,Finland,https://www.icc-cricket.com/teams/1828/finland-men/,23,1130,49,2026-03-01
+49,( - ),224,Sweden,SWE ,1733,Sweden,https://www.icc-cricket.com/teams/1733/sweden-men/,22,1048,48,2026-03-01
+50,( - ),148,Malawi,MAW,1791,Malawi,https://www.icc-cricket.com/teams/1791/malawi-men/,43,2019,47,2026-03-01
+51,( - ),46,Botswana,BOT,1863,Botswana,https://www.icc-cricket.com/teams/1863/botswana-men/,33,1547,47,2026-03-01
+52,( - ),272,Isle of Man,IOM,1805,Isle of Man,https://www.icc-cricket.com/teams/1805/isle-of-man-men/,13,604,46,2026-03-01
+53,( - ),93,France,FRA ,1826,France,https://www.icc-cricket.com/teams/1826/france-men/,24,1109,46,2026-03-01
+54,( - ),194,Romania,ROM,1761,Romania,https://www.icc-cricket.com/teams/1761/romania-men/,34,1544,45,2026-03-01
+55,( - ),187,Philippines,PHI,1767,Philippines,https://www.icc-cricket.com/teams/1767/philippines-men/,26,1158,45,2026-03-01
+56,( - ),36,Bahamas,BAH,117,Bahamas,https://www.icc-cricket.com/teams/117/bahamas-men/,23,972,42,2026-03-01
+57,( - ),75,Czechia,CZE,1835,Czechia,https://www.icc-cricket.com/teams/1835/czechia-men/,22,911,41,2026-03-01
+58,( - ),230,Thailand,THA,1730,Thailand,https://www.icc-cricket.com/teams/1730/thailand-men/,45,1811,40,2026-03-01
+59,( - ),69,Cook Islands,COK,1843,Cook Islands,https://www.icc-cricket.com/teams/1843/cook-islands-men/,14,552,39,2026-03-01
+60,( - ),55,Cambodia,KHM,3790,Cambodia,https://www.icc-cricket.com/teams/3790/cambodia-men/,32,1246,39,2026-03-01
+61,( - ),196,Rwanda,RWA,1757,Rwanda,https://www.icc-cricket.com/teams/1757/rwanda-men/,74,2874,39,2026-03-01
+62,( - ),121,Indonesia,INA,1809,Indonesia,https://www.icc-cricket.com/teams/1809/indonesia-men/,79,3044,39,2026-03-01
+63,( - ),91,Fiji,FIJ,301,Fiji,https://www.icc-cricket.com/teams/301/fiji-men/,11,387,35,2026-03-01
+64,( - ),247,Vanuatu,VUT,1720,Vanuatu,https://www.icc-cricket.com/teams/1720/vanuatu-men/,16,561,35,2026-03-01
+65,( - ),74,Cyprus,CYP ,1837,Cyprus,https://www.icc-cricket.com/teams/1837/cyprus-men/,24,789,33,2026-03-01
+66,( - ),103,Ghana,GHA,1820,Ghana,https://www.icc-cricket.com/teams/1820/ghana-men/,19,570,30,2026-03-01
+67,( - ),119,Hungary,HUN,1811,Hungary,https://www.icc-cricket.com/teams/1811/hungary-men/,33,971,29,2026-03-01
+68,( - ),202,Samoa,SAM,1753,Samoa,https://www.icc-cricket.com/teams/1753/samoa-men/,23,672,29,2026-03-01
+69,( - ),258,Zambia,ZMB,1718,Zambia,https://www.icc-cricket.com/teams/1718/zambia-men/,10,290,29,2026-03-01
+70,( - ),87,Estonia,EST,1833,Estonia,https://www.icc-cricket.com/teams/1833/estonia-men/,24,665,28,2026-03-01
+71,( - ),152,Malta,MLT,1785,Malta,https://www.icc-cricket.com/teams/1785/malta-men/,41,1085,26,2026-03-01
+72,( - ),167,Mozambique,MOZ,1779,Mozambique,https://www.icc-cricket.com/teams/1779/mozambique-men/,20,518,26,2026-03-01
+73,( - ),271,Eswatini,ESW,1735,Eswatini,https://www.icc-cricket.com/teams/1735/eswatini-men/,19,491,26,2026-03-01
+74,( - ),124,Israel,ISR,1803,Israel,https://www.icc-cricket.com/teams/1803/israel-men/,7,178,25,2026-03-01
+75,( - ),183,Panama,PAN,1771,Panama,https://www.icc-cricket.com/teams/1771/panama-men/,15,318,21,2026-03-01
+76,( - ),43,Bhutan,BHU,1865,Bhutan,https://www.icc-cricket.com/teams/1865/bhutan-men/,35,728,21,2026-03-01
+77,( - ),41,Belize,BIZ,1868,Belize,https://www.icc-cricket.com/teams/1868/belize-men/,8,164,21,2026-03-01
+78,( - ),104,Gibraltar,GIB,1818,Gibraltar,https://www.icc-cricket.com/teams/1818/gibraltar-men/,26,494,19,2026-03-01
+79,( - ),144,Luxembourg,LUX ,1793,Luxembourg,https://www.icc-cricket.com/teams/1793/luxembourg-men/,24,432,18,2026-03-01
+80,( - ),209,Sierra Leone,SRL,1745,Sierra Leone,https://www.icc-cricket.com/teams/1745/sierra-leone-men/,27,477,18,2026-03-01
+81,( - ),70,Costa Rica,CRI,1841,Costa Rica,https://www.icc-cricket.com/teams/1841/costa-rica-men/,13,218,17,2026-03-01
+82,( - ),158,Mexico,MEX,1783,Mexico,https://www.icc-cricket.com/teams/1783/mexico-men/,18,287,16,2026-03-01
+83,( - ),221,Suriname,SUR,1737,Suriname,https://www.icc-cricket.com/teams/1737/suriname-men/,8,119,15,2026-03-01
+84,( - ),207,Serbia,SER,1749,Serbia,https://www.icc-cricket.com/teams/1749/serbia-men/,30,315,11,2026-03-01
+85,( - ),150,Maldives,MDV,1789,Maldives,https://www.icc-cricket.com/teams/1789/maldives-men/,21,214,10,2026-03-01
+86,( - ),56,Cameroon,CMR,1857,Cameroon,https://www.icc-cricket.com/teams/1857/cameroon-men/,11,86,8,2026-03-01
+87,( - ),48,Brazil,BRA,1861,Brazil,https://www.icc-cricket.com/teams/1861/brazil-men/,12,90,8,2026-03-01
+88,( - ),52,Bulgaria,BUL,1859,Bulgaria,https://www.icc-cricket.com/teams/1859/bulgaria-men/,29,191,7,2026-03-01
+89,( - ),132,Korea,KOR,1741,Korea,https://www.icc-cricket.com/teams/1741/south-korea-men/,16,94,6,2026-03-01
+90,( - ),219,St.Helena,SHN,1755,St Helena,https://www.icc-cricket.com/teams/1755/saint-helena-men/,8,44,6,2026-03-01
+91,( - ),63,China,CHN,1850,China,https://www.icc-cricket.com/teams/1850/china-men/,6,29,5,2026-03-01
+92,( - ),139,Lesotho,LES,1795,Lesotho,https://www.icc-cricket.com/teams/1795/lesotho-men/,11,24,2,2026-03-01
+93,( - ),236,Turkiye,TUR ,1728,Turkiye,https://www.icc-cricket.com/teams/1728/turkiye-men/,12,26,2,2026-03-01
+94,( - ),100,Gambia,GAM,1824,Gambia,https://www.icc-cricket.com/teams/1824/gambia-men/,8,6,1,2026-03-01
+95,( - ),212,Slovenia,SVN,1742,Slovenia,https://www.icc-cricket.com/teams/1742/slovenia-men/,18,0,0,2026-03-01
+95,( - ),208,Seychelles,SEY,1747,Seychelles,https://www.icc-cricket.com/teams/1747/seychelles-men/,7,0,0,2026-03-01
+95,( - ),168,Myanmar,MMR,1777,Myanmar,https://www.icc-cricket.com/teams/1777/myanmar-men/,29,0,0,2026-03-01
+95,( - ),151,Mali,MLI,1787,Mali,https://www.icc-cricket.com/teams/1787/mali-men/,9,0,0,2026-03-01
+95,( - ),105,Greece,GRE,1816,Greece,https://www.icc-cricket.com/teams/1816/greece-men/,6,0,0,2026-03-01
+95,( - ),72,Croatia,CRO,1839,Croatia,https://www.icc-cricket.com/teams/1839/croatia-men/,26,0,0,2026-03-01
+95,( - ),163,Mongolia,MNG,4025,Mongolia,https://www.icc-cricket.com/teams/4025/mongolia-men/,13,0,0,2026-03-01
+95,( - ),274,Timor-Leste,TL,4644,Timor-Leste,https://www.icc-cricket.com/teams/4644/timor-leste-men/,8,0,0,2026-03-01

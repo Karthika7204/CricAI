@@ -1,0 +1,20 @@
+match_id,date,innings,team,player,runs,balls_faced,strike_rate,fours,sixes,dismissed,dismissal_kind
+1512739,2026-02-13,1,United States of America,SR Mukkamalla,79,53,149.06,5,4,True,caught
+1512739,2026-02-13,1,United States of America,Shubham Ranjane,48,25,192.0,3,2,False,
+1512739,2026-02-13,1,United States of America,MD Patel,36,22,163.64,3,1,True,caught
+1512739,2026-02-13,1,United States of America,Shayan Jahangir,20,14,142.86,1,2,True,bowled
+1512739,2026-02-13,1,United States of America,Milind Kumar,3,4,75.0,0,0,True,caught
+1512739,2026-02-13,1,United States of America,Harmeet Singh,1,2,50.0,0,0,True,caught
+1512739,2026-02-13,1,United States of America,Mohammad Mohsin,1,1,100.0,0,0,False,
+1512739,2026-02-13,1,United States of America,SP Krishnamurthi,1,2,50.0,0,0,True,bowled
+1512739,2026-02-13,2,Netherlands,BFW de Leede,23,18,127.78,1,1,True,caught
+1512739,2026-02-13,2,Netherlands,SA Edwards,20,14,142.86,2,0,True,bowled
+1512739,2026-02-13,2,Netherlands,MP O'Dowd,13,11,118.18,1,0,True,caught
+1512739,2026-02-13,2,Netherlands,RE van der Merwe,10,11,90.91,0,0,True,lbw
+1512739,2026-02-13,2,Netherlands,A Dutt,9,7,128.57,0,1,True,bowled
+1512739,2026-02-13,2,Netherlands,K Klein,6,11,54.55,0,0,False,
+1512739,2026-02-13,2,Netherlands,ZB Lion-Cachet,6,5,120.0,1,0,True,bowled
+1512739,2026-02-13,2,Netherlands,FJ Klaassen,3,7,42.86,0,0,True,caught
+1512739,2026-02-13,2,Netherlands,M Levitt,3,9,33.33,0,0,True,bowled
+1512739,2026-02-13,2,Netherlands,LV van Beek,2,5,40.0,0,0,True,bowled
+1512739,2026-02-13,2,Netherlands,CN Ackermann,0,1,0.0,0,0,True,caught

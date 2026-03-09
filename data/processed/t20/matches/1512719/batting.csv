@@ -1,0 +1,21 @@
+match_id,date,innings,team,player,runs,balls_faced,strike_rate,fours,sixes,dismissed,dismissal_kind
+1512719,2026-02-07,1,Netherlands,SA Edwards,37,29,127.59,3,1,True,caught
+1512719,2026-02-07,1,Netherlands,BFW de Leede,30,26,115.38,4,0,True,caught
+1512719,2026-02-07,1,Netherlands,M Levitt,24,15,160.0,3,1,True,caught
+1512719,2026-02-07,1,Netherlands,CN Ackermann,20,15,133.33,4,0,True,bowled
+1512719,2026-02-07,1,Netherlands,A Dutt,13,8,162.5,2,0,True,caught
+1512719,2026-02-07,1,Netherlands,ZB Lion-Cachet,9,8,112.5,1,0,True,caught
+1512719,2026-02-07,1,Netherlands,MP O'Dowd,5,7,71.43,1,0,True,caught
+1512719,2026-02-07,1,Netherlands,RE van der Merwe,4,9,44.44,0,0,True,caught
+1512719,2026-02-07,1,Netherlands,K Klein,2,2,100.0,0,0,False,
+1512719,2026-02-07,1,Netherlands,LV van Beek,0,1,0.0,0,0,True,caught
+1512719,2026-02-07,1,Netherlands,PA van Meekeren,0,1,0.0,0,0,True,caught
+1512719,2026-02-07,2,Pakistan,Sahibzada Farhan,47,32,146.88,4,2,True,caught
+1512719,2026-02-07,2,Pakistan,Faheem Ashraf,29,11,263.64,2,3,False,
+1512719,2026-02-07,2,Pakistan,Saim Ayub,24,13,184.62,4,1,True,caught
+1512719,2026-02-07,2,Pakistan,Babar Azam,15,18,83.33,1,0,True,caught
+1512719,2026-02-07,2,Pakistan,Agha Salman,12,8,150.0,3,0,True,caught
+1512719,2026-02-07,2,Pakistan,Shadab Khan,8,12,66.67,0,0,True,caught
+1512719,2026-02-07,2,Pakistan,Mohammad Nawaz,6,14,42.86,0,0,True,caught
+1512719,2026-02-07,2,Pakistan,Shaheen Shah Afridi,5,9,55.56,0,0,False,
+1512719,2026-02-07,2,Pakistan,Usman Khan,0,2,0.0,0,0,True,bowled

@@ -1,0 +1,42 @@
+{
+  "match_id": "1512721",
+  "generated_at": "2026-03-03T23:24:08.258653",
+  "recommendations": {
+    "Strategic Adjustments": [
+      "India: Re-evaluate Powerplay batting approach to reduce early wicket losses (4 wickets for 46 runs). Prioritize wicket retention for a stronger platform against future opposition.",
+      "USA: Implement a more aggressive Powerplay bowling strategy given India's early vulnerability, aiming for early breakthroughs without significant run leakage.",
+      "USA: Develop a structured death over batting plan to counter sustained pressure, preventing the late collapse (4 wickets for 34 runs at RR 6.8). This requires specific scenario-based training."
+    ],
+    "Batting Optimization": [
+      "India: Diversify run contribution beyond SA Yadav (52.2% of total runs). Other top-order batters must assume greater responsibility to alleviate over-reliance on a single anchor.",
+      "USA: Fortify Powerplay batting stability (3 wickets for 31 runs). Focus on minimizing early dismissals to build a resilient foundation for the chase.",
+      "USA: Enhance run rotation and boundary hitting efficiency in middle overs (RR 7.44) to maintain required run rate and mitigate the build-up of extreme chase pressure (Index 84.0)."
+    ],
+    "Bowling Optimization": [
+      "USA: Address SN Netravalkar's significant economy variance (+8.81 delta from career average 7.44). Review bowling plans, field settings, or workload management for specific match scenarios.",
+      "India: Maintain the effectiveness of Arshdeep Singh and AR Patel. Their exceptional economy rates (4.75 and 6.0) are critical for containment and building pressure across various phases.",
+      "USA: Maximize SC van Schalkwyk's impact. His 4-wicket haul and high impact score demonstrate a critical wicket-taking capability that should be strategically exploited."
+    ],
+    "Player Role Recommendations": [
+      "USA: Reassess SN Netravalkar's role, particularly in phases where his economy significantly ballooned (16.25 RR). Consider alternative options or specific tactical deployments based on conditions.",
+      "India: Continue SA Yadav's role as the primary innings anchor. Simultaneously, ensure designated finishers are prepared and empowered to accelerate rapidly in the death overs.",
+      "USA: Elevate SC van Schalkwyk to a core bowling option, utilizing his wicket-taking ability strategically across Powerplay and Middle Overs."
+    ],
+    "Pressure Management Insights": [
+      "USA: Implement scenario-based training for chasing under extreme pressure (Index 84.0), specifically focusing on death overs decision-making and optimal shot selection.",
+      "India: Capitalize on sustained bowling pressure by maintaining tight lines and lengths, as demonstrated by Siraj's impact, to induce late-innings batting collapses.",
+      "USA: Develop explicit run-rate management strategies for the middle overs to prevent cumulative pressure build-up that led to the death overs struggle."
+    ],
+    "Risk Alerts": [
+      "India: Single point of failure risk due to SA Yadav's disproportionate run contribution (52.2%). Future opposition strategies will specifically target his early dismissal.",
+      "India: Powerplay fragility (4 wickets lost). This pattern is unsustainable and exposes the batting lineup to significant early pressure against stronger opposition.",
+      "USA: Excessive economy of a key bowler (SN Netravalkar) poses a significant risk to overall bowling plans and the team's ability to contain opposition totals effectively."
+    ],
+    "Future Preparation Focus": [
+      "Both teams: Dedicated practice for Powerplay batting with an emphasis on balancing aggressive intent with crucial wicket preservation.",
+      "USA: Intensive training for death overs hitting and intelligent run-chasing under pressure, targeting consistent boundary hitting and calculated risks.",
+      "India: Develop secondary and tertiary batting aggressors to reduce the burden on SA Yadav and provide robust late-innings impetus if he is dismissed early.",
+      "USA: Strategic analysis and adjustment of bowling plans for individual bowlers exhibiting significant economy deviations against specific opposition batting strengths."
+    ]
+  }
+}

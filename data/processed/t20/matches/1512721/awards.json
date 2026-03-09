@@ -1,0 +1,95 @@
+{
+    "match_id": "1512721",
+    "winner": "India",
+    "loser": "United States of America",
+    "awards": {
+        "player_of_the_match": {
+            "name": "SC van Schalkwyk",
+            "team": "United States of America",
+            "impact_score": 181.2,
+            "breakdown": {
+                "batting": 2.0,
+                "bowling": 125,
+                "fielding": 24,
+                "pressure_multiplier": 1.2
+            },
+            "key_stats": {
+                "batting": "2(5) SR:40.0",
+                "bowling": "4.0ov-4wkt econ:6.25"
+            }
+        },
+        "best_batter": {
+            "name": "SA Yadav",
+            "team": "India",
+            "batting_impact": 138.0,
+            "stats": {
+                "runs": 84,
+                "balls": 50,
+                "sr": 168.0,
+                "fours": 10,
+                "sixes": 4
+            }
+        },
+        "best_bowler": {
+            "name": "SC van Schalkwyk",
+            "team": "United States of America",
+            "bowling_impact": 125,
+            "stats": {
+                "overs": 4.0,
+                "wickets": 4,
+                "econ": 6.25
+            }
+        },
+        "game_changer": {
+            "name": "SA Yadav",
+            "team": "India",
+            "reason": "SR 168.0 with 4 sixes",
+            "key_stats": {
+                "batting": "84(50) SR:168.0"
+            }
+        },
+        "pressure_performer": {
+            "name": "SC van Schalkwyk",
+            "team": "United States of America",
+            "pressure_multiplier": 1.2,
+            "reason": "Chasing team contributor | Economy 6.25 while defending chase",
+            "key_stats": {
+                "batting": "2(5) SR:40.0",
+                "bowling": "4.0ov-4wkt econ:6.25"
+            }
+        },
+        "emerging_player": {
+            "name": "SC van Schalkwyk",
+            "team": "United States of America",
+            "reason": "Outperformed team average by 2.79x",
+            "key_stats": {
+                "batting": "2(5) SR:40.0",
+                "bowling": "4.0ov-4wkt econ:6.25"
+            }
+        },
+        "fielding_impact": {
+            "name": "SC van Schalkwyk",
+            "team": "United States of America",
+            "fielding_proxy_score": 24,
+            "methodology": "Proxy-based: catch attribution (65% T20 wickets are catches) + dot ball pressure bonus + economy-implied fielding support",
+            "reason": "Estimated 3 caught dismissals from 4 wickets",
+            "stats": {
+                "overs": 4.0,
+                "wickets": 4,
+                "econ": 6.25
+            }
+        },
+        "all_rounder_impact": {
+            "name": "AR Patel",
+            "team": "India",
+            "all_rounder_score": 83.0,
+            "stats": {
+                "runs": 14,
+                "sr": 116.67,
+                "overs": 4.0,
+                "wickets": 2,
+                "econ": 6.0
+            }
+        }
+    }
+}
