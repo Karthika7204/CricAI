@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Outfit:wght@400;500;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-background text-text font-inter selection:bg-primary selection:text-background;
+  }
+}
+
+@layer components {
+  .glass-card {
+    @apply bg-card backdrop-blur-md border border-white/10 rounded-2xl transition-all duration-300;
+  }
+  
+  .glass-card:hover {
+    @apply border-primary/30 shadow-neon;
+  }
+
+  .btn-primary {
+    @apply bg-primary text-background font-bold px-6 py-2 rounded-xl transition-all duration-300 hover:scale-105 active:scale-95 hover:shadow-neon;
+  }
+
+  .nav-link {
+    @apply text-text/70 hover:text-primary transition-colors duration-200 font-medium;
+  }
+}
+
+/* Custom Animations */
+@keyframes pulse-neon {
+  0%, 100% { box-shadow: 0 0 5px rgba(102, 252, 241, 0.2); }
+  50% { box-shadow: 0 0 20px rgba(102, 252, 241, 0.5); }
+}
+
+.animate-pulse-neon {
+  animation: pulse-neon 2s infinite;
+}

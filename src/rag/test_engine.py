@@ -6,7 +6,7 @@ def test_engine():
     match_id = "1512721"
     
     test_queries = [
-        "who is the player of match and also who is the best batting performance"
+        "Who is good and bad against Surya Kumar Yadav in this match?"
     ]
     
     print(f"--- Testing V5 Query Engine for Match {match_id} ---")

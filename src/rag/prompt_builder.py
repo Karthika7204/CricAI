@@ -152,3 +152,70 @@ INSTRUCTIONS:
 PRE-MATCH PREVIEW:
 """
         return prompt
+    @staticmethod
+    def build_pvp_recommendation_prompt(query, matchups_data):
+        """
+        Constructs a prompt for the PvP Recommendation Bot to provide
+        tactical advice in understandable English.
+        """
+        data_text = json.dumps(matchups_data, indent=2)
+        
+        prompt = f"""
+You are an elite cricket tactical analyst.
+
+OBJECTIVE:
+Answer the user's question by identifying the **Best** and **Worst** matchups for the players or teams mentioned, focusing strictly on the **Opposition**.
+
+STRICT RULES:
+- For a mentioned player, identify who in the **Opponent team** they dominate (Best Matchup) and who they struggle against (Worst Matchup).
+- **NO TEAMMATE RECOMMENDATIONS**: Do NOT suggest alternative players from the same team. Focus only on the player asked.
+- Use the provided PvP stats (H2H, vs-Team, Career) to justify your analysis.
+- Explain "tactical reasons" (e.g., "X is the worst matchup for SKY because they've dismissed him twice in 10 balls").
+- Tone: Professional, direct, and data-backed.
+- Maximum 8-10 lines total.
+- Use bullet points.
+
+PVP MATCHUP DATA:
+{data_text}
+
+USER QUERY:
+{query}
+
+TACTICAL ANALYSIS (Opposition Focus):
+"""
+        return prompt
+    @staticmethod
+    def build_strategy_recommendation_prompt(query, summary, pvp_data, insights):
+        """
+        Constructs a prompt for the Strategy Recommendation Bot.
+        """
+        summary_text = json.dumps(summary, indent=2)
+        pvp_text = json.dumps(pvp_data.get("matchups", [])[:15], indent=2) # Limit matchups
+        
+        prompt = f"""
+You are an elite cricket tactical strategist and coach.
+
+OBJECTIVE:
+Provide a "Strategy Recommendation" for batting order and bowling rotation based on the provided Match Summary and PvP Matchups.
+
+STRICT RULES:
+- **Bowler Rotation**: Suggest who should have bowled more or less. Use `match_economy` vs `career_economy` from the summary.
+- **Batting Rotation**: Suggest adjustments to the batting order (e.g., "Player X should have come at #3 because of their high Powerplay strike rate").
+- **Matchups**: Use PvP data to justify rotation (e.g., "Avoid Bowler Y when Batter Z is on crease").
+- **Context**: Use the current match phase analysis (Powerplay, Middle, Death) to explain why a strategy failed or could improve.
+- **Style**: Direct, tactical, and advisory English.
+- Maximum 10-12 lines total.
+- Use bullet points.
+
+MATCH SUMMARY:
+{summary_text}
+
+PVP MATCHUPS (Top 15):
+{pvp_text}
+
+USER QUERY:
+{query}
+
+STRATEGY RECOMMENDATION (Tactical Analysis):
+"""
+        return prompt
