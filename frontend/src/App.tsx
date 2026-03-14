@@ -69,16 +69,18 @@ function App() {
 }
 
 const Dashboard = ({ onMatchClick, matches }: { onMatchClick: (id: string) => void, matches: any[] }) => {
-  const recentMatches = matches.slice(0, 2);
+  // Sort matches by ID descending to get the latest matches for the dashboard
+  const sortedByLatest = [...matches].sort((a, b) => parseInt(b.id) - parseInt(a.id));
+  const recentMatches = sortedByLatest.slice(0, 2);
   
   return (
     <div className="space-y-10">
       <div className="grid grid-cols-3 gap-6">
         <div className="col-span-2 space-y-6">
           <h2 className="text-3xl font-outfit font-bold">Recommended for You</h2>
-          <div className="grid grid-cols-2 gap-4">
-            {recentMatches.map((m, i) => (
-              <MatchCard key={m.id} id={m.id} teams={m.teams} status={i === 0 ? "Latest AI Insights" : "AI Analyzed"} onClick={() => onMatchClick(m.id)} />
+          <div className="flex flex-col gap-4">
+            {recentMatches.map((m) => (
+              <MatchCard key={m.id} id={m.id} match={m} onClick={() => onMatchClick(m.id)} />
             ))}
             {recentMatches.length === 0 && <div className="text-white/40 italic p-4">Loading matches...</div>}
           </div>
@@ -104,57 +106,162 @@ const Dashboard = ({ onMatchClick, matches }: { onMatchClick: (id: string) => vo
   );
 };
 
-const MatchCard = ({ id, teams, status, isLive, onClick }: any) => (
-  <motion.div
-    whileHover={{ y: -5 }}
-    onClick={onClick}
-    className="glass-card p-6 relative overflow-hidden group cursor-pointer font-inter"
-  >
-    {isLive && (
-      <div className="absolute top-0 right-0 bg-accent text-background text-[10px] font-black px-4 py-1.5 uppercase skew-x-12 translate-x-3">
-        Live
-      </div>
-    )}
-    <div className="flex items-center justify-between mb-8">
-      <div className="flex items-center gap-4">
-        <div className="text-center">
-          <div className="w-12 h-12 bg-white/5 rounded-full mb-2 flex items-center justify-center border border-white/10 group-hover:border-primary/50 transition-colors">
-            <span className="text-xl font-black">{teams[0]}</span>
+const getFlagUrl = (name: string) => {
+  const cleanStr = (s: string) => s?.replace(/['"]/g, '').trim().toLowerCase() || '';
+  const n = cleanStr(name);
+  const mapping: Record<string, string> = {
+    'india': 'in',
+    'pakistan': 'pk',
+    'sri lanka': 'lk',
+    'u.s.a.': 'us',
+    'usa': 'us',
+    'england': 'gb',
+    'australia': 'au',
+    'south africa': 'za',
+    'new zealand': 'nz',
+    'west indies': 'vg',
+    'netherlands': 'nl',
+    'afghanistan': 'af',
+    'scotland': 'gb-sct',
+    'bangladesh': 'bd'
+  };
+  const code = mapping[n] || 'un';
+  return `https://flagcdn.com/w40/${code}.png`;
+};
+
+const MatchCard = ({ id, match, onClick }: any) => {
+  const meta = match.metadata || {};
+  const tsum = match.scores || tsum_from_meta(meta) || {};
+  const teams = match.full_teams || [];
+  const team1 = teams[0] || '';
+  const team2 = teams[1] || '';
+  
+  function tsum_from_meta(m: any) {
+    if (m.team_summary) return m.team_summary;
+    return null;
+  }
+
+  const clean = (s: string) => s?.replace(/['"]/g, '').trim() || '';
+
+  const getTeamStats = (name: string) => {
+    const cleaned = clean(name).toLowerCase();
+    const key = Object.keys(tsum).find(k => clean(k).toLowerCase() === cleaned);
+    return key ? tsum[key] : {};
+  };
+
+  const team1Stats = getTeamStats(team1);
+  const team2Stats = getTeamStats(team2);
+
+  const formatResult = () => {
+    if (!meta.winner) return 'Pending Result';
+    const winner = clean(meta.winner);
+    const margin = meta.margin_runs ? `${meta.margin_runs} runs` : `${meta.margin_wickets} wickets`;
+    return `${winner} won by ${margin}`;
+  };
+
+  return (
+    <motion.div
+      whileHover={{ scale: 1.005, backgroundColor: 'rgba(255,255,255,0.05)' }}
+      onClick={onClick}
+      className="bg-surface/10 hover:bg-surface/20 border border-white/5 p-8 rounded-2xl cursor-pointer transition-all group flex flex-col md:flex-row items-center gap-8"
+    >
+      <div className="flex-1 w-full space-y-6">
+        <div className="flex items-center justify-between text-[10px] font-black uppercase text-text/30 tracking-[0.2em]">
+          <div className="flex items-center gap-3">
+            <span className="text-primary/60">ID: {id}</span>
+            <span className="opacity-20">|</span>
+            <span>{clean(match.stage || 'League')}</span>
+            <span className="opacity-20">|</span>
+            <span>{match.venue}</span>
+          </div>
+          <span className="bg-primary/5 px-2 py-0.5 rounded text-primary/80">Result</span>
+        </div>
+
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
+          <div className="space-y-4">
+            <div className="flex items-center justify-between group-hover:translate-x-1 transition-transform">
+              <div className="flex items-center gap-4">
+                <img src={getFlagUrl(team1)} alt="" className="w-6 h-4 object-cover rounded shadow-sm" />
+                <span className="font-outfit font-bold text-xl text-text/90 tracking-tight">{clean(team1)}</span>
+              </div>
+              <span className="font-outfit font-black text-xl tabular-nums">
+                {team1Stats.total_runs ?? 0}/{team1Stats.total_wickets ?? 0}
+              </span>
+            </div>
+            <div className="flex items-center justify-between group-hover:translate-x-1 transition-transform">
+              <div className="flex items-center gap-4">
+                <img src={getFlagUrl(team2)} alt="" className="w-6 h-4 object-cover rounded shadow-sm" />
+                <span className="font-outfit font-bold text-xl text-text/90 tracking-tight">{clean(team2)}</span>
+              </div>
+              <div className="flex items-center gap-3">
+                {team2Stats.run_rate && <span className="text-[10px] font-bold text-text/30">({team2Stats.run_rate} ov)</span>}
+                <span className="font-outfit font-black text-xl tabular-nums">
+                  {team2Stats.total_runs ?? 0}/{team2Stats.total_wickets ?? 0}
+                </span>
+              </div>
+            </div>
+          </div>
+          
+          <div className="md:border-l md:border-white/5 md:pl-12">
+            <p className="text-base font-medium text-primary/70 italic leading-relaxed font-outfit">
+              {formatResult()}
+            </p>
           </div>
         </div>
-        <span className="text-xs font-bold text-text/30 italic">VS</span>
-        <div className="text-center">
-          <div className="w-12 h-12 bg-white/5 rounded-full mb-2 flex items-center justify-center border border-white/10 group-hover:border-primary/50 transition-colors">
-            <span className="text-xl font-black">{teams[1]}</span>
-          </div>
+      </div>
+    </motion.div>
+  );
+};
+
+const MatchCenter = ({ onMatchClick, matches }: any) => {
+  // Group matches by date while preserving order
+  const dates: string[] = [];
+  const groupedMatches: Record<string, any[]> = {};
+  
+  matches.forEach((m: any) => {
+    const date = m.date || 'Unknown Date';
+    if (!groupedMatches[date]) {
+      groupedMatches[date] = [];
+      dates.push(date);
+    }
+    groupedMatches[date].push(m);
+  });
+
+  return (
+    <div className="max-w-6xl mx-auto space-y-16 pb-20">
+      <div className="space-y-3 text-center md:text-left border-b border-white/5 pb-8">
+        <h2 className="text-5xl font-outfit font-black tracking-tight text-white uppercase">ICC Men's T20 World Cup 2026</h2>
+        <div className="flex items-center justify-center md:justify-start gap-4">
+          <div className="h-px w-12 bg-primary/40" />
+          <p className="text-primary font-bold uppercase tracking-[0.4em] text-xs">Schedule & Results</p>
         </div>
       </div>
-      <div className="text-right">
-        <p className="text-[10px] font-bold tracking-widest text-text/40 uppercase mb-1">Match ID: {id}</p>
-        <p className={`text-xs font-black uppercase ${isLive ? 'text-accent animate-pulse' : 'text-primary'}`}>{status}</p>
+
+      <div className="space-y-12">
+        {dates.map((date) => (
+          <div key={date} className="grid lg:grid-cols-[200px_1fr] gap-8">
+            <div className="pt-4">
+              <div className="sticky top-28 bg-surface/5 p-4 rounded-xl border border-white/5 backdrop-blur-sm">
+                <p className="font-outfit font-black text-primary/60 uppercase tracking-widest text-xs mb-1">Match Day</p>
+                <p className="font-outfit font-black text-text/90 text-lg tabular-nums">{date}</p>
+              </div>
+            </div>
+            <div className="space-y-6">
+              {groupedMatches[date].map((m: any) => (
+                <MatchCard key={m.id} id={m.id} match={m} onClick={() => onMatchClick(m.id)} />
+              ))}
+            </div>
+          </div>
+        ))}
+        {matches.length === 0 && (
+          <div className="glass-card p-16 text-center border-dashed border-white/10 bg-white/[0.02]">
+            <p className="text-white/30 font-medium italic text-lg">No matches found in the archive yet.</p>
+          </div>
+        )}
       </div>
     </div>
-
-    <div className="flex items-center gap-2">
-      <div className="flex-1 h-1 bg-white/5 rounded-full overflow-hidden">
-        <motion.div initial={{ width: 0 }} animate={{ width: '66%' }} className="h-full bg-primary" />
-      </div>
-      <span className="text-[10px] font-bold text-text/40">AI Confidence: 88%</span>
-    </div>
-  </motion.div>
-);
-
-const MatchCenter = ({ onMatchClick, matches }: any) => (
-  <div className="space-y-6">
-    <h2 className="text-3xl font-outfit font-bold">Match Archive</h2>
-    <div className="grid grid-cols-4 gap-4">
-      {matches.map((m: any) => (
-        <MatchCard key={m.id} id={m.id} teams={m.teams} status="Archived" onClick={() => onMatchClick(m.id)} />
-      ))}
-      {matches.length === 0 && <div className="col-span-4 text-white/40 p-4">Empty archive</div>}
-    </div>
-  </div>
-);
+  );
+};
 
 const ChatPanel = ({ isOpen, onClose, matchId }: any) => {
   const [msgs, setMsgs] = useState([{ role: 'bot', text: 'Ask me anything about the analytics!' }]);

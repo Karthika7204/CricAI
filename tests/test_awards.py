@@ -3,7 +3,7 @@ test_awards.py ? Standalone test for the AI Post-Match Award Engine.
 Runs on match 1512721 (India vs USA, T20 World Cup 2026).
 """
 import sys, os
-sys.path.insert(0, os.path.dirname(__file__))
+sys.path.append(os.path.join(os.path.dirname(__file__), '..', 'src', 'rag'))
 
 from award_engine import calculate_awards
 import json

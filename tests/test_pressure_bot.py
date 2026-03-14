@@ -6,9 +6,9 @@ import os
 import json
 
 # Add src to path
-sys.path.append(os.path.join(os.path.dirname(__file__), '..'))
+sys.path.append(os.path.join(os.path.dirname(__file__), '..', 'src', 'rag'))
 
-from rag.pressure_bot_engine import PressureBotEngine
+from pressure_bot_engine import PressureBotEngine
 
 def test_pressure_bot():
     print("Initializing PressureBotEngine...")

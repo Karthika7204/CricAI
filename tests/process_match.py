@@ -2,11 +2,11 @@ import sys
 import os
 
 # Add src to path
-sys.path.append(os.path.join(os.path.dirname(__file__), '..'))
+sys.path.append(os.path.join(os.path.dirname(__file__), '..', 'src', 'rag'))
 
-from rag.bundle_matches import bundle_match
-from rag.summarizer import generate_summary
-from rag.insight_engine import calculate_pre_match_insights
+from bundle_matches import bundle_match
+from summarizer import generate_summary
+from insight_engine import calculate_pre_match_insights
 
 match_id = "1512730"
 data_dir = "d:/CricAI/data"

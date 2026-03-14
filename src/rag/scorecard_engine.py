@@ -1,5 +1,6 @@
 import pandas as pd
 import os
+import json
 from pathlib import Path
 
 def get_match_scorecard(match_id, data_dir="d:/CricAI/data"):
@@ -82,9 +83,21 @@ def get_match_scorecard(match_id, data_dir="d:/CricAI/data"):
                 # No, often it's "Team A Batting" then "Team B Bowling" (who bowled to Team A).
                 innings[inn_num]["bowling"] = bowlers
 
+        # Try to load metadata from context.json if it exists
+        metadata = {}
+        context_path = Path(data_dir) / "processed" / "t20" / "matches" / str(match_id) / "context.json"
+        if context_path.exists():
+            try:
+                with open(context_path, 'r') as f:
+                    context_data = json.load(f)
+                    metadata = context_data.get("metadata", {})
+            except Exception:
+                pass
+
         return {
             "match_id": match_id,
-            "innings": innings
+            "innings": innings,
+            "metadata": metadata
         }
 
     except Exception as e:

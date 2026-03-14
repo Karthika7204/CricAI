@@ -3,10 +3,10 @@ import os
 from pathlib import Path
 
 # Add src to path
-sys.path.append(r"d:\CricAI\src")
+sys.path.append(os.path.join(os.path.dirname(__file__), '..', 'src', 'rag'))
 
-from rag.insight_engine import PreMatchInsightEngine
-from rag.pre_match_analysis import format_insights
+from insight_engine import PreMatchInsightEngine
+from pre_match_analysis import format_insights
 
 def test_milestones():
     engine = PreMatchInsightEngine()

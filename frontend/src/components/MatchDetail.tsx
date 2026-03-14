@@ -40,6 +40,45 @@ export const MatchDetail = ({ matchId, onBack }: { matchId: string, onBack: () =
         </div>
     );
 
+    const metadata = data.scorecard?.metadata || {};
+    const teamNames = Object.keys(data.scorecard?.innings || {}).map(k => data.scorecard.innings[k].team);
+    const team1 = teamNames[0] || 'Team 1';
+    const team2 = teamNames[1] || 'Team 2';
+
+    const clean = (str: string) => str?.replace(/['"]/g, '') || '';
+
+    const getTeamCode = (name: string) => {
+        const cleanName = clean(name);
+        if (cleanName === 'India') return 'IND';
+        if (cleanName === 'Pakistan') return 'PAK';
+        if (cleanName === 'Sri Lanka') return 'SL';
+        if (cleanName === 'U.S.A.' || cleanName === 'USA') return 'USA';
+        if (cleanName === 'England') return 'ENG';
+        if (cleanName === 'Australia') return 'AUS';
+        if (cleanName === 'South Africa') return 'RSA';
+        if (cleanName === 'New Zealand') return 'NZ';
+        if (cleanName === 'West Indies') return 'WI';
+        return cleanName.substring(0, 3).toUpperCase();
+    };
+
+    const getTeamStats = (name: string) => {
+        const cleanedName = clean(name).trim().toLowerCase();
+        const summary = metadata.team_summary || {};
+        // Match by cleaned name
+        const key = Object.keys(summary).find(k => clean(k).trim().toLowerCase() === cleanedName);
+        return key ? summary[key] : {};
+    };
+
+    const team1Stats = getTeamStats(team1);
+    const team2Stats = getTeamStats(team2);
+
+    const formatResult = () => {
+        if (!metadata.winner) return 'Pending Result';
+        const winner = clean(metadata.winner);
+        const margin = metadata.margin_runs ? `${metadata.margin_runs} runs` : `${metadata.margin_wickets} wickets`;
+        return `${winner} won by ${margin}`;
+    };
+
     return (
         <div className="space-y-6 max-w-[1200px] mx-auto animate-in fade-in slide-in-from-bottom-4 duration-500">
             {/* Breadcrumb / Navigation */}
@@ -48,7 +87,7 @@ export const MatchDetail = ({ matchId, onBack }: { matchId: string, onBack: () =
                     <button onClick={onBack} className="hover:text-primary flex items-center gap-1 bg-white/5 px-2 py-1 rounded transition-colors">
                         <ChevronLeft className="w-3 h-3" /> Result
                     </button>
-                    <span>3rd Match, Group A (N), Wankhede, February 07, 2026, ICC Men's T20 World Cup</span>
+                    <span>{metadata.stage ? `${clean(metadata.stage)}, ` : ''}{metadata.venue}, {metadata.date}</span>
                 </div>
                 <div className="flex items-center gap-6">
                     <Share2 className="w-4 h-4 cursor-pointer hover:text-white" />
@@ -63,25 +102,29 @@ export const MatchDetail = ({ matchId, onBack }: { matchId: string, onBack: () =
                         <div className="flex items-center justify-between">
                             <div className="flex items-center gap-4">
                                 <div className="w-12 h-8 bg-white/5 rounded flex items-center justify-center border border-white/10 overflow-hidden">
-                                    <span className="text-xl font-black italic">IND</span>
+                                    <span className="text-xl font-black italic">{getTeamCode(team1)}</span>
                                 </div>
-                                <h2 className="text-4xl font-outfit font-black uppercase tracking-tighter">India</h2>
+                                <h2 className="text-4xl font-outfit font-black uppercase tracking-tighter">{clean(team1)}</h2>
                             </div>
-                            <div className="text-4xl font-outfit font-black tracking-tight">161/9</div>
+                            <div className="text-4xl font-outfit font-black tracking-tight">
+                                {team1Stats.total_runs ?? 0}/{team1Stats.total_wickets ?? 0}
+                            </div>
                         </div>
                         <div className="flex items-center justify-between opacity-40">
                             <div className="flex items-center gap-4">
                                 <div className="w-12 h-8 bg-white/5 rounded flex items-center justify-center border border-white/10 overflow-hidden">
-                                    <span className="text-xl font-black italic">USA</span>
+                                    <span className="text-xl font-black italic">{getTeamCode(team2)}</span>
                                 </div>
-                                <h2 className="text-4xl font-outfit font-black uppercase tracking-tighter">U.S.A.</h2>
+                                <h2 className="text-4xl font-outfit font-black uppercase tracking-tighter">{clean(team2)}</h2>
                             </div>
                             <div className="text-right">
-                                <span className="text-sm font-bold mr-4">(20 ov, T:162)</span>
-                                <span className="text-4xl font-outfit font-black tracking-tight">132/8</span>
+                                {team2Stats.run_rate && <span className="text-sm font-bold mr-4">(RR: {team2Stats.run_rate})</span>}
+                                <span className="text-4xl font-outfit font-black tracking-tight">
+                                    {team2Stats.total_runs ?? 0}/{team2Stats.total_wickets ?? 0}
+                                </span>
                             </div>
                         </div>
-                        <div className="text-primary font-black text-xl pt-2 italic drop-shadow-neon uppercase tracking-widest">India won by 29 runs</div>
+                        <div className="text-primary font-black text-xl pt-2 italic drop-shadow-neon uppercase tracking-widest">{formatResult()}</div>
                     </div>
                 </div>
 

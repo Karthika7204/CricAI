@@ -15,9 +15,9 @@ import sys
 import os
 from pathlib import Path
 
-sys.path.append(os.path.join(os.path.dirname(__file__), ".."))
+sys.path.append(os.path.join(os.path.dirname(__file__), "..", "src", "rag"))
 
-from rag.pvp_analysis import get_pvp_comparison
+from pvp_analysis import get_pvp_comparison
 
 
 def test_pvp(match_id: str = "1512721"):

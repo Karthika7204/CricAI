@@ -1,7 +1,7 @@
 import sys
 import os
 from pathlib import Path
-sys.path.append(str(Path("d:/CricAI/src/rag")))
+sys.path.append(os.path.join(os.path.dirname(__file__), '..', 'src', 'rag'))
 
 from insight_engine import PreMatchInsightEngine
 import json
@@ -10,6 +10,7 @@ def test_match_direct(match_id, date, teams):
     print(f"\n--- Testing Match: {match_id} (Direct Engine Call) ---")
     try:
         engine = PreMatchInsightEngine()
+
         metadata = {
             "date": date,
             "teams": teams,

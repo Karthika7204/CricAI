@@ -12,9 +12,9 @@ Usage:
 import sys
 import os
 
-sys.path.append(os.path.join(os.path.dirname(__file__), ".."))
+sys.path.append(os.path.join(os.path.dirname(__file__), "..", "src", "rag"))
 
-from rag.pvp_bot_engine import PvPBotEngine
+from pvp_bot_engine import PvPBotEngine
 
 def test_pvp_bot(match_id: str = "1512721"):
     print(f"\n{'='*60}")

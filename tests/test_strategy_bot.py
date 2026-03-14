@@ -7,9 +7,9 @@ import os
 from pathlib import Path
 
 # Add src to path
-sys.path.append(os.path.join(os.path.dirname(__file__), '..'))
+sys.path.append(os.path.join(os.path.dirname(__file__), '..', 'src', 'rag'))
 
-from rag.strategy_bot_engine import StrategyBotEngine
+from strategy_bot_engine import StrategyBotEngine
 
 def test_strategy_bot(match_id="1512721"):
     print(f"\n" + "="*60)

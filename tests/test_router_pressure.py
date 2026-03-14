@@ -5,9 +5,9 @@ import sys
 import os
 
 # Add src to path
-sys.path.append(os.path.join(os.path.dirname(__file__), '..'))
+sys.path.append(os.path.join(os.path.dirname(__file__), '..', 'src', 'rag'))
 
-from rag.engine import QueryEngine
+from engine import QueryEngine
 
 def test_routing():
     print("Initializing QueryEngine...")

@@ -1,11 +1,11 @@
-import os
 import sys
+import os
 import json
 
 # Add src to path
-sys.path.append(os.path.join(os.path.dirname(__file__), '..'))
+sys.path.append(os.path.join(os.path.dirname(__file__), '..', 'src', 'rag'))
 
-from rag.engine import QueryEngine
+from engine import QueryEngine
 
 def test_analytical_queries():
     engine = QueryEngine()

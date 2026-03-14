@@ -46,7 +46,7 @@ class QueryRequest(BaseModel):
 def read_root():
     return {"status": "CricAI Bridge Active"}
 
-@app.get("/api/chat")
+@app.post("/api/chat")
 async def chat(request: QueryRequest):
     try:
         result = query_engine.query(request.match_id, request.query)
@@ -61,71 +61,91 @@ async def get_matches():
         if not os.path.exists(matches_dir):
             return {"matches": []}
             
+        def clean_s(val):
+            if not isinstance(val, str): return val
+            return val.replace("'", "").replace('"', "").strip()
+
         match_list = []
+        # Get all subdirectories in the matches folder
         for match_id in os.listdir(matches_dir):
             match_path = os.path.join(matches_dir, match_id)
             if not os.path.isdir(match_path):
                 continue
 
-            summary_path = os.path.join(match_path, "structured_summary.json")
             match_info = None
-
-            if os.path.exists(summary_path):
+            
+            # 1. Primary Source: context.json
+            context_path = os.path.join(match_path, "context.json")
+            if os.path.exists(context_path):
                 try:
-                    with open(summary_path, 'r') as f:
-                        data = json.load(f)
-                        context = data.get("match_context", {})
-                        teams = list(context.get("Teams", {}).keys())
+                    with open(context_path, 'r') as f:
+                        cdata = json.load(f)
+                        meta = cdata.get("metadata", {})
+                        tsum = meta.get("team_summary", {})
+                        
+                        # Clean and transform
+                        clean_tsum = {clean_s(k): v for k, v in tsum.items()}
+                        clean_meta = {k: clean_s(v) if isinstance(v, str) else v for k, v in meta.items()}
+                        teams = list(clean_tsum.keys())
+                        
                         if len(teams) >= 2:
                             match_info = {
                                 "id": match_id,
-                                "date": context.get("date", ""),
+                                "date": clean_meta.get("date", ""),
+                                "venue": clean_meta.get("venue", ""),
+                                "stage": clean_meta.get("stage", ""),
                                 "teams": [teams[0][:3].upper(), teams[1][:3].upper()],
-                                "full_teams": teams
+                                "full_teams": teams,
+                                "metadata": clean_meta,
+                                "scores": clean_tsum
                             }
-                except Exception:
-                    pass
+                except Exception: pass
 
+            # 2. Secondary Fallback: structured_summary.json
+            if not match_info:
+                summary_path = os.path.join(match_path, "structured_summary.json")
+                if os.path.exists(summary_path):
+                    try:
+                        with open(summary_path, 'r') as f:
+                            data = json.load(f)
+                            ctx = data.get("match_context", {})
+                            teams_raw = list(ctx.get("Teams", {}).keys())
+                            teams = [clean_s(t) for t in teams_raw]
+                            if len(teams) >= 2:
+                                match_info = {
+                                    "id": match_id,
+                                    "date": clean_s(ctx.get("date", "")),
+                                    "teams": [teams[0][:3].upper(), teams[1][:3].upper()],
+                                    "full_teams": teams,
+                                    "venue": clean_s(ctx.get("venue", "")),
+                                    "stage": clean_s(ctx.get("event", "League")),
+                                    "metadata": {"winner": clean_s(ctx.get("winner", ""))}
+                                }
+                    except Exception: pass
+
+            # 3. Final Fallback: batting.csv (basic)
             if not match_info:
                 batting_path = os.path.join(match_path, "batting.csv")
                 if os.path.exists(batting_path):
                     try:
-                        with open(batting_path, 'r', encoding='utf-8') as f:
-                            header_line = f.readline().strip()
-                            if not header_line:
-                                continue
-                            header = header_line.split(',')
-                            if 'date' in header and 'team' in header:
-                                date_idx = header.index('date')
-                                team_idx = header.index('team')
-                                
-                                teams = []
-                                match_date = ""
-                                for line in f:
-                                    parts = line.strip().split(',')
-                                    if len(parts) > max(date_idx, team_idx):
-                                        if not match_date:
-                                            match_date = parts[date_idx]
-                                        t = parts[team_idx]
-                                        if t not in teams:
-                                            teams.append(t)
-                                        if len(teams) >= 2:
-                                            break
-                                if len(teams) >= 2:
-                                    match_info = {
-                                        "id": match_id,
-                                        "date": match_date,
-                                        "teams": [teams[0][:3].upper(), teams[1][:3].upper()],
-                                        "full_teams": teams
-                                    }
-                    except Exception:
-                        pass
-            
+                        import pandas as pd
+                        df = pd.read_csv(batting_path)
+                        teams = [clean_s(t) for t in df['team'].unique()]
+                        if len(teams) >= 2:
+                            match_info = {
+                                "id": match_id,
+                                "date": clean_s(df['date'].iloc[0]) if 'date' in df.columns else "",
+                                "teams": [teams[0][:3].upper(), teams[1][:3].upper()],
+                                "full_teams": teams
+                            }
+                    except Exception: pass
+
+            # IMPORTANT: Append to the list if found
             if match_info:
                 match_list.append(match_info)
         
-        # Sort by date descending
-        match_list.sort(key=lambda x: x["date"], reverse=True)
+        # Sort strictly by match ID ascending (to follow sequence 1512719 -> 1512773)
+        match_list.sort(key=lambda x: int(x["id"]) if x["id"].isdigit() else x["id"])
         return {"matches": match_list}
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))

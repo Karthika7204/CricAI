@@ -73,6 +73,15 @@ class QueryEngine:
         Main query entry point.
         """
         match_id = str(match_id)
+        
+        # Check if LLM is initialized
+        if not self.llm:
+            return {
+                "answer": "I'm sorry, my AI reasoning engine (Gemini) is currently not configured or available. Please check your API key settings.",
+                "source": "error_no_llm",
+                "error": "GeminiConnector not initialized"
+            }
+
         try:
             m_data = self._load_match(match_id)
         except Exception as e:
