@@ -1,0 +1,1203 @@
+{
+    "match_id": "1512767",
+    "metadata": {
+        "tournament": "2025/26",
+        "venue": "R Premadasa Stadium, Colombo",
+        "date": "27-02-2026",
+        "stage": "ICC Men's T20 World Cup",
+        "winner": "England",
+        "loser": "New Zealand",
+        "win_classification": "Moderate",
+        "margin_runs": null,
+        "margin_wickets": 4,
+        "competitiveness_index": 85.0,
+        "teams": {
+            "New Zealand": {
+                "captain": "GD Phillips",
+                "playing_xi_count": 11
+            },
+            "England": {
+                "captain": "JC Buttler",
+                "playing_xi_count": 11
+            }
+        },
+        "team_summary": {
+            "New Zealand": {
+                "run_rate": 7.95,
+                "fours": 12,
+                "sixes": 7,
+                "boundary_runs": 90,
+                "dot_balls": 44,
+                "total_runs": 159,
+                "total_wickets": 7
+            },
+            "England": {
+                "run_rate": 8.26,
+                "fours": 17,
+                "sixes": 6,
+                "boundary_runs": 104,
+                "dot_balls": 51,
+                "total_runs": 161,
+                "total_wickets": 6
+            }
+        },
+        "formulas": {
+            "competitiveness": "Base(Margin) + Pressure_Bonus(L5 Overs)",
+            "pressure": "((RR_Gap / Start_RR) * 40) + ((Wickets / 10) * 60)",
+            "batting_impact": "Runs + (SR/Match_SR * 25)",
+            "bowling_impact": "(Wickets * 30) + (Match_RR/Econ * 20)"
+        }
+    },
+    "scorecards": {
+        "batting": [
+            {
+                "player": "GD Phillips",
+                "team": "New Zealand",
+                "runs": 39,
+                "balls": 29,
+                "sr": 134.48,
+                "fours": 4,
+                "sixes": 1,
+                "win_contribution_percent": 24.5,
+                "score": 64.78
+            },
+            {
+                "player": "TL Seifert",
+                "team": "New Zealand",
+                "runs": 35,
+                "balls": 25,
+                "sr": 140.0,
+                "fours": 3,
+                "sixes": 2,
+                "win_contribution_percent": 22.0,
+                "score": 61.84
+            },
+            {
+                "player": "FH Allen",
+                "team": "New Zealand",
+                "runs": 29,
+                "balls": 19,
+                "sr": 152.63,
+                "fours": 0,
+                "sixes": 3,
+                "win_contribution_percent": 18.2,
+                "score": 58.26
+            },
+            {
+                "player": "MS Chapman",
+                "team": "New Zealand",
+                "runs": 15,
+                "balls": 9,
+                "sr": 166.67,
+                "fours": 2,
+                "sixes": 0,
+                "win_contribution_percent": 9.4,
+                "score": 46.95
+            },
+            {
+                "player": "CE McConchie",
+                "team": "New Zealand",
+                "runs": 14,
+                "balls": 13,
+                "sr": 107.69,
+                "fours": 2,
+                "sixes": 0,
+                "win_contribution_percent": 8.8,
+                "score": 34.64
+            },
+            {
+                "player": "R Ravindra",
+                "team": "New Zealand",
+                "runs": 11,
+                "balls": 13,
+                "sr": 84.62,
+                "fours": 1,
+                "sixes": 0,
+                "win_contribution_percent": 6.9,
+                "score": 27.22
+            },
+            {
+                "player": "MJ Santner",
+                "team": "New Zealand",
+                "runs": 9,
+                "balls": 5,
+                "sr": 180.0,
+                "fours": 0,
+                "sixes": 1,
+                "win_contribution_percent": 5.7,
+                "score": 43.5
+            },
+            {
+                "player": "DJ Mitchell",
+                "team": "New Zealand",
+                "runs": 3,
+                "balls": 8,
+                "sr": 37.5,
+                "fours": 0,
+                "sixes": 0,
+                "win_contribution_percent": 1.9,
+                "score": 10.19
+            },
+            {
+                "player": "MJ Henry",
+                "team": "New Zealand",
+                "runs": 1,
+                "balls": 1,
+                "sr": 100.0,
+                "fours": 0,
+                "sixes": 0,
+                "win_contribution_percent": 0.6,
+                "score": 20.17
+            },
+            {
+                "player": "T Banton",
+                "team": "England",
+                "runs": 33,
+                "balls": 24,
+                "sr": 137.5,
+                "fours": 3,
+                "sixes": 1,
+                "win_contribution_percent": 20.5,
+                "score": 59.36
+            },
+            {
+                "player": "WG Jacks",
+                "team": "England",
+                "runs": 32,
+                "balls": 18,
+                "sr": 177.78,
+                "fours": 4,
+                "sixes": 1,
+                "win_contribution_percent": 19.9,
+                "score": 66.08
+            },
+            {
+                "player": "HC Brook",
+                "team": "England",
+                "runs": 26,
+                "balls": 25,
+                "sr": 104.0,
+                "fours": 3,
+                "sixes": 1,
+                "win_contribution_percent": 16.1,
+                "score": 45.94
+            },
+            {
+                "player": "SM Curran",
+                "team": "England",
+                "runs": 24,
+                "balls": 22,
+                "sr": 109.09,
+                "fours": 2,
+                "sixes": 1,
+                "win_contribution_percent": 14.9,
+                "score": 44.91
+            },
+            {
+                "player": "JG Bethell",
+                "team": "England",
+                "runs": 21,
+                "balls": 16,
+                "sr": 131.25,
+                "fours": 4,
+                "sixes": 0,
+                "win_contribution_percent": 13.0,
+                "score": 46.16
+            },
+            {
+                "player": "Rehan Ahmed",
+                "team": "England",
+                "runs": 19,
+                "balls": 7,
+                "sr": 271.43,
+                "fours": 1,
+                "sixes": 2,
+                "win_contribution_percent": 11.8,
+                "score": 71.03
+            },
+            {
+                "player": "PD Salt",
+                "team": "England",
+                "runs": 2,
+                "balls": 4,
+                "sr": 50.0,
+                "fours": 0,
+                "sixes": 0,
+                "win_contribution_percent": 1.2,
+                "score": 11.58
+            },
+            {
+                "player": "JC Buttler",
+                "team": "England",
+                "runs": 0,
+                "balls": 2,
+                "sr": 0.0,
+                "fours": 0,
+                "sixes": 0,
+                "win_contribution_percent": 0.0,
+                "score": 0.0
+            }
+        ],
+        "bowling": [
+            {
+                "player": "WG Jacks",
+                "team": "England",
+                "overs": 4.0,
+                "runs": 23,
+                "wickets": 2,
+                "econ": 5.75,
+                "score": 87.83,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "AU Rashid",
+                "team": "England",
+                "overs": 4.0,
+                "runs": 28,
+                "wickets": 2,
+                "econ": 7.0,
+                "score": 82.86,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "Rehan Ahmed",
+                "team": "England",
+                "overs": 3.0,
+                "runs": 28,
+                "wickets": 2,
+                "econ": 9.33,
+                "score": 77.15,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "LA Dawson",
+                "team": "England",
+                "overs": 4.0,
+                "runs": 32,
+                "wickets": 1,
+                "econ": 8.0,
+                "score": 50.0,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "JC Archer",
+                "team": "England",
+                "overs": 3.0,
+                "runs": 25,
+                "wickets": 0,
+                "econ": 8.33,
+                "score": 19.21,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "SM Curran",
+                "team": "England",
+                "overs": 1.0,
+                "runs": 10,
+                "wickets": 0,
+                "econ": 10.0,
+                "score": 16.0,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "JG Bethell",
+                "team": "England",
+                "overs": 1.0,
+                "runs": 13,
+                "wickets": 0,
+                "econ": 13.0,
+                "score": 12.31,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "R Ravindra",
+                "team": "New Zealand",
+                "overs": 4.0,
+                "runs": 19,
+                "wickets": 3,
+                "econ": 4.75,
+                "score": 123.68,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "LH Ferguson",
+                "team": "New Zealand",
+                "overs": 2.0,
+                "runs": 15,
+                "wickets": 1,
+                "econ": 7.5,
+                "score": 51.33,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "MJ Henry",
+                "team": "New Zealand",
+                "overs": 2.3,
+                "runs": 19,
+                "wickets": 1,
+                "econ": 7.6,
+                "score": 51.05,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "GD Phillips",
+                "team": "New Zealand",
+                "overs": 4.0,
+                "runs": 44,
+                "wickets": 1,
+                "econ": 11.0,
+                "score": 44.55,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "MJ Santner",
+                "team": "New Zealand",
+                "overs": 4.0,
+                "runs": 30,
+                "wickets": 0,
+                "econ": 7.5,
+                "score": 21.33,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "IS Sodhi",
+                "team": "New Zealand",
+                "overs": 2.0,
+                "runs": 21,
+                "wickets": 0,
+                "econ": 10.5,
+                "score": 15.24,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "CE McConchie",
+                "team": "New Zealand",
+                "overs": 1.0,
+                "runs": 13,
+                "wickets": 0,
+                "econ": 13.0,
+                "score": 12.31,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            }
+        ]
+    },
+    "innings": [
+        {
+            "innings": 1,
+            "team": "New Zealand",
+            "total_runs": 159,
+            "total_wickets": 7,
+            "balls_faced": 120,
+            "overs_faced": 20.0,
+            "phase_analysis": {
+                "Powerplay": {
+                    "runs": 54,
+                    "wkts": 0,
+                    "rr": 9.0
+                },
+                "Middle": {
+                    "runs": 71,
+                    "wkts": 4,
+                    "rr": 7.89
+                },
+                "Death": {
+                    "runs": 34,
+                    "wkts": 3,
+                    "rr": 6.8
+                }
+            }
+        },
+        {
+            "innings": 2,
+            "team": "England",
+            "total_runs": 161,
+            "total_wickets": 6,
+            "balls_faced": 117,
+            "overs_faced": 19.3,
+            "phase_analysis": {
+                "Powerplay": {
+                    "runs": 47,
+                    "wkts": 2,
+                    "rr": 7.83
+                },
+                "Middle": {
+                    "runs": 54,
+                    "wkts": 3,
+                    "rr": 6.0
+                },
+                "Death": {
+                    "runs": 60,
+                    "wkts": 1,
+                    "rr": 13.33
+                }
+            },
+            "pressure_index": 78.0,
+            "target": 160
+        }
+    ],
+    "players": [
+        {
+            "player": "R Ravindra",
+            "team": "New Zealand",
+            "overs": 4.0,
+            "runs": 19,
+            "wickets": 3,
+            "econ": 4.75,
+            "score": 123.68,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-19r-3w"
+        },
+        {
+            "player": "WG Jacks",
+            "team": "England",
+            "overs": 4.0,
+            "runs": 23,
+            "wickets": 2,
+            "econ": 5.75,
+            "score": 87.83,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-23r-2w"
+        },
+        {
+            "player": "AU Rashid",
+            "team": "England",
+            "overs": 4.0,
+            "runs": 28,
+            "wickets": 2,
+            "econ": 7.0,
+            "score": 82.86,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-28r-2w"
+        },
+        {
+            "player": "Rehan Ahmed",
+            "team": "England",
+            "overs": 3.0,
+            "runs": 28,
+            "wickets": 2,
+            "econ": 9.33,
+            "score": 77.15,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "3.0o-28r-2w"
+        },
+        {
+            "player": "Rehan Ahmed",
+            "team": "England",
+            "runs": 19,
+            "balls": 7,
+            "sr": 271.43,
+            "fours": 1,
+            "sixes": 2,
+            "win_contribution_percent": 11.8,
+            "score": 71.03,
+            "role": "batting",
+            "match_stats": "19(7)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "WG Jacks",
+            "team": "England",
+            "runs": 32,
+            "balls": 18,
+            "sr": 177.78,
+            "fours": 4,
+            "sixes": 1,
+            "win_contribution_percent": 19.9,
+            "score": 66.08,
+            "role": "batting",
+            "match_stats": "32(18)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "GD Phillips",
+            "team": "New Zealand",
+            "runs": 39,
+            "balls": 29,
+            "sr": 134.48,
+            "fours": 4,
+            "sixes": 1,
+            "win_contribution_percent": 24.5,
+            "score": 64.78,
+            "role": "batting",
+            "match_stats": "39(29)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "TL Seifert",
+            "team": "New Zealand",
+            "runs": 35,
+            "balls": 25,
+            "sr": 140.0,
+            "fours": 3,
+            "sixes": 2,
+            "win_contribution_percent": 22.0,
+            "score": 61.84,
+            "role": "batting",
+            "match_stats": "35(25)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "T Banton",
+            "team": "England",
+            "runs": 33,
+            "balls": 24,
+            "sr": 137.5,
+            "fours": 3,
+            "sixes": 1,
+            "win_contribution_percent": 20.5,
+            "score": 59.36,
+            "role": "batting",
+            "match_stats": "33(24)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "FH Allen",
+            "team": "New Zealand",
+            "runs": 29,
+            "balls": 19,
+            "sr": 152.63,
+            "fours": 0,
+            "sixes": 3,
+            "win_contribution_percent": 18.2,
+            "score": 58.26,
+            "role": "batting",
+            "match_stats": "29(19)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "LH Ferguson",
+            "team": "New Zealand",
+            "overs": 2.0,
+            "runs": 15,
+            "wickets": 1,
+            "econ": 7.5,
+            "score": 51.33,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "2.0o-15r-1w"
+        },
+        {
+            "player": "MJ Henry",
+            "team": "New Zealand",
+            "overs": 2.3,
+            "runs": 19,
+            "wickets": 1,
+            "econ": 7.6,
+            "score": 51.05,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "2.3o-19r-1w"
+        },
+        {
+            "player": "LA Dawson",
+            "team": "England",
+            "overs": 4.0,
+            "runs": 32,
+            "wickets": 1,
+            "econ": 8.0,
+            "score": 50.0,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-32r-1w"
+        },
+        {
+            "player": "MS Chapman",
+            "team": "New Zealand",
+            "runs": 15,
+            "balls": 9,
+            "sr": 166.67,
+            "fours": 2,
+            "sixes": 0,
+            "win_contribution_percent": 9.4,
+            "score": 46.95,
+            "role": "batting",
+            "match_stats": "15(9)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "JG Bethell",
+            "team": "England",
+            "runs": 21,
+            "balls": 16,
+            "sr": 131.25,
+            "fours": 4,
+            "sixes": 0,
+            "win_contribution_percent": 13.0,
+            "score": 46.16,
+            "role": "batting",
+            "match_stats": "21(16)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "HC Brook",
+            "team": "England",
+            "runs": 26,
+            "balls": 25,
+            "sr": 104.0,
+            "fours": 3,
+            "sixes": 1,
+            "win_contribution_percent": 16.1,
+            "score": 45.94,
+            "role": "batting",
+            "match_stats": "26(25)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "SM Curran",
+            "team": "England",
+            "runs": 24,
+            "balls": 22,
+            "sr": 109.09,
+            "fours": 2,
+            "sixes": 1,
+            "win_contribution_percent": 14.9,
+            "score": 44.91,
+            "role": "batting",
+            "match_stats": "24(22)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "GD Phillips",
+            "team": "New Zealand",
+            "overs": 4.0,
+            "runs": 44,
+            "wickets": 1,
+            "econ": 11.0,
+            "score": 44.55,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-44r-1w"
+        },
+        {
+            "player": "MJ Santner",
+            "team": "New Zealand",
+            "runs": 9,
+            "balls": 5,
+            "sr": 180.0,
+            "fours": 0,
+            "sixes": 1,
+            "win_contribution_percent": 5.7,
+            "score": 43.5,
+            "role": "batting",
+            "match_stats": "9(5)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "CE McConchie",
+            "team": "New Zealand",
+            "runs": 14,
+            "balls": 13,
+            "sr": 107.69,
+            "fours": 2,
+            "sixes": 0,
+            "win_contribution_percent": 8.8,
+            "score": 34.64,
+            "role": "batting",
+            "match_stats": "14(13)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "R Ravindra",
+            "team": "New Zealand",
+            "runs": 11,
+            "balls": 13,
+            "sr": 84.62,
+            "fours": 1,
+            "sixes": 0,
+            "win_contribution_percent": 6.9,
+            "score": 27.22,
+            "role": "batting",
+            "match_stats": "11(13)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "MJ Santner",
+            "team": "New Zealand",
+            "overs": 4.0,
+            "runs": 30,
+            "wickets": 0,
+            "econ": 7.5,
+            "score": 21.33,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-30r-0w"
+        },
+        {
+            "player": "MJ Henry",
+            "team": "New Zealand",
+            "runs": 1,
+            "balls": 1,
+            "sr": 100.0,
+            "fours": 0,
+            "sixes": 0,
+            "win_contribution_percent": 0.6,
+            "score": 20.17,
+            "role": "batting",
+            "match_stats": "1(1)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "JC Archer",
+            "team": "England",
+            "overs": 3.0,
+            "runs": 25,
+            "wickets": 0,
+            "econ": 8.33,
+            "score": 19.21,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "3.0o-25r-0w"
+        },
+        {
+            "player": "SM Curran",
+            "team": "England",
+            "overs": 1.0,
+            "runs": 10,
+            "wickets": 0,
+            "econ": 10.0,
+            "score": 16.0,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "1.0o-10r-0w"
+        },
+        {
+            "player": "IS Sodhi",
+            "team": "New Zealand",
+            "overs": 2.0,
+            "runs": 21,
+            "wickets": 0,
+            "econ": 10.5,
+            "score": 15.24,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "2.0o-21r-0w"
+        },
+        {
+            "player": "JG Bethell",
+            "team": "England",
+            "overs": 1.0,
+            "runs": 13,
+            "wickets": 0,
+            "econ": 13.0,
+            "score": 12.31,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "1.0o-13r-0w"
+        },
+        {
+            "player": "CE McConchie",
+            "team": "New Zealand",
+            "overs": 1.0,
+            "runs": 13,
+            "wickets": 0,
+            "econ": 13.0,
+            "score": 12.31,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "1.0o-13r-0w"
+        },
+        {
+            "player": "PD Salt",
+            "team": "England",
+            "runs": 2,
+            "balls": 4,
+            "sr": 50.0,
+            "fours": 0,
+            "sixes": 0,
+            "win_contribution_percent": 1.2,
+            "score": 11.58,
+            "role": "batting",
+            "match_stats": "2(4)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "DJ Mitchell",
+            "team": "New Zealand",
+            "runs": 3,
+            "balls": 8,
+            "sr": 37.5,
+            "fours": 0,
+            "sixes": 0,
+            "win_contribution_percent": 1.9,
+            "score": 10.19,
+            "role": "batting",
+            "match_stats": "3(8)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "JC Buttler",
+            "team": "England",
+            "runs": 0,
+            "balls": 2,
+            "sr": 0.0,
+            "fours": 0,
+            "sixes": 0,
+            "win_contribution_percent": 0.0,
+            "score": 0.0,
+            "role": "batting",
+            "match_stats": "0(2)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        }
+    ],
+    "validation": {
+        "logical_stability": true
+    }
+}

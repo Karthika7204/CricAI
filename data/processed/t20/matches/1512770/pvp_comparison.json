@@ -1,0 +1,1658 @@
+{
+  "match_id": "1512770",
+  "team_a": "West Indies",
+  "team_b": "India",
+  "matchups": [
+    {
+      "bat": "R Powell",
+      "bat_t": "West Indies",
+      "bowl": "Arshdeep Singh",
+      "bowl_t": "India",
+      "v": "bowler",
+      "h2h": {
+        "balls": 30,
+        "runs": 56,
+        "dismissals": 3,
+        "strike_rate": 186.67
+      },
+      "vs_t": {
+        "runs": 374,
+        "balls": 277,
+        "dismissals": 13,
+        "average": 28.77,
+        "strike_rate": 135.02
+      },
+      "w_car": {
+        "avg": 19.63,
+        "eco": 8.75
+      },
+      "b_f": [
+        9,
+        59,
+        9
+      ],
+      "w_f": [
+        3,
+        2,
+        0
+      ]
+    },
+    {
+      "bat": "HH Pandya",
+      "bat_t": "India",
+      "bowl": "JO Holder",
+      "bowl_t": "West Indies",
+      "v": "bowler",
+      "h2h": {
+        "balls": 23,
+        "runs": 27,
+        "dismissals": 3,
+        "strike_rate": 117.39
+      },
+      "vs_t": {
+        "runs": 141,
+        "balls": 131,
+        "dismissals": 6,
+        "average": 23.5,
+        "strike_rate": 107.63
+      },
+      "b_car": {
+        "avg": 28.12,
+        "sr": 138.02
+      },
+      "b_f": [
+        50,
+        18,
+        30
+      ],
+      "w_f": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "SA Yadav",
+      "bat_t": "India",
+      "bowl": "JO Holder",
+      "bowl_t": "West Indies",
+      "v": "bowler",
+      "h2h": {
+        "balls": 34,
+        "runs": 36,
+        "dismissals": 2,
+        "strike_rate": 105.88
+      },
+      "vs_t": {
+        "runs": 408,
+        "balls": 262,
+        "dismissals": 9,
+        "average": 45.33,
+        "strike_rate": 155.73
+      },
+      "b_car": {
+        "avg": 38.51,
+        "sr": 156.8
+      },
+      "b_f": [
+        33,
+        18,
+        34
+      ],
+      "w_f": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "Ishan Kishan",
+      "bat_t": "India",
+      "bowl": "RL Chase",
+      "bowl_t": "West Indies",
+      "v": "bowler",
+      "h2h": {
+        "balls": 28,
+        "runs": 19,
+        "dismissals": 2,
+        "strike_rate": 67.86
+      },
+      "vs_t": {
+        "runs": 115,
+        "balls": 131,
+        "dismissals": 6,
+        "average": 19.17,
+        "strike_rate": 87.79
+      },
+      "b_car": {
+        "avg": 29.68,
+        "sr": 138.02
+      },
+      "b_f": [
+        38,
+        0,
+        18
+      ],
+      "w_f": [
+        1,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "SO Hetmyer",
+      "bat_t": "West Indies",
+      "bowl": "Arshdeep Singh",
+      "bowl_t": "India",
+      "v": "bowler",
+      "h2h": {
+        "balls": 23,
+        "runs": 33,
+        "dismissals": 2,
+        "strike_rate": 143.48
+      },
+      "vs_t": {
+        "runs": 395,
+        "balls": 307,
+        "dismissals": 16,
+        "average": 24.69,
+        "strike_rate": 128.66
+      },
+      "w_car": {
+        "avg": 19.63,
+        "eco": 8.75
+      },
+      "b_f": [
+        2,
+        85,
+        1
+      ],
+      "w_f": [
+        3,
+        2,
+        0
+      ]
+    },
+    {
+      "bat": "SA Yadav",
+      "bat_t": "India",
+      "bowl": "AJ Hosein",
+      "bowl_t": "West Indies",
+      "v": "batsman",
+      "h2h": {
+        "balls": 52,
+        "runs": 59,
+        "dismissals": 1,
+        "strike_rate": 113.46
+      },
+      "vs_t": {
+        "runs": 408,
+        "balls": 262,
+        "dismissals": 9,
+        "average": 45.33,
+        "strike_rate": 155.73
+      },
+      "b_car": {
+        "avg": 38.51,
+        "sr": 156.8
+      },
+      "b_f": [
+        33,
+        18,
+        34
+      ],
+      "w_f": [
+        3,
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "SA Yadav",
+      "bat_t": "India",
+      "bowl": "R Shepherd",
+      "bowl_t": "West Indies",
+      "v": "batsman",
+      "h2h": {
+        "balls": 36,
+        "runs": 60,
+        "dismissals": 1,
+        "strike_rate": 166.67
+      },
+      "vs_t": {
+        "runs": 408,
+        "balls": 262,
+        "dismissals": 9,
+        "average": 45.33,
+        "strike_rate": 155.73
+      },
+      "b_car": {
+        "avg": 38.51,
+        "sr": 156.8
+      },
+      "b_f": [
+        33,
+        18,
+        34
+      ],
+      "w_f": [
+        0,
+        1,
+        5
+      ]
+    },
+    {
+      "bat": "SA Yadav",
+      "bat_t": "India",
+      "bowl": "RL Chase",
+      "bowl_t": "West Indies",
+      "v": "batsman",
+      "h2h": {
+        "balls": 26,
+        "runs": 31,
+        "dismissals": 1,
+        "strike_rate": 119.23
+      },
+      "vs_t": {
+        "runs": 408,
+        "balls": 262,
+        "dismissals": 9,
+        "average": 45.33,
+        "strike_rate": 155.73
+      },
+      "b_car": {
+        "avg": 38.51,
+        "sr": 156.8
+      },
+      "b_f": [
+        33,
+        18,
+        34
+      ],
+      "w_f": [
+        1,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "Tilak Varma",
+      "bat_t": "India",
+      "bowl": "R Shepherd",
+      "bowl_t": "West Indies",
+      "v": "batsman",
+      "h2h": {
+        "balls": 24,
+        "runs": 32,
+        "dismissals": 1,
+        "strike_rate": 133.33
+      },
+      "vs_t": {
+        "runs": 173,
+        "balls": 130,
+        "dismissals": 3,
+        "average": 57.67,
+        "strike_rate": 133.08
+      },
+      "b_car": {
+        "avg": 46.81,
+        "sr": 136.65
+      },
+      "b_f": [
+        44,
+        1,
+        31
+      ],
+      "w_f": [
+        0,
+        1,
+        5
+      ]
+    },
+    {
+      "bat": "R Powell",
+      "bat_t": "West Indies",
+      "bowl": "HH Pandya",
+      "bowl_t": "India",
+      "v": "bowler",
+      "h2h": {
+        "balls": 22,
+        "runs": 27,
+        "dismissals": 1,
+        "strike_rate": 122.73
+      },
+      "vs_t": {
+        "runs": 374,
+        "balls": 277,
+        "dismissals": 13,
+        "average": 28.77,
+        "strike_rate": 135.02
+      },
+      "w_car": {
+        "avg": 27.46,
+        "eco": 8.49
+      },
+      "b_f": [
+        9,
+        59,
+        9
+      ],
+      "w_f": [
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "AR Patel",
+      "bat_t": "India",
+      "bowl": "JO Holder",
+      "bowl_t": "West Indies",
+      "v": "bowler",
+      "h2h": {
+        "balls": 19,
+        "runs": 24,
+        "dismissals": 1,
+        "strike_rate": 126.32
+      },
+      "vs_t": {
+        "runs": 69,
+        "balls": 53,
+        "dismissals": 4,
+        "average": 17.25,
+        "strike_rate": 130.19
+      },
+      "b_car": {
+        "avg": 19.66,
+        "sr": 125.55
+      },
+      "b_f": [
+        0,
+        0,
+        14
+      ],
+      "w_f": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "Tilak Varma",
+      "bat_t": "India",
+      "bowl": "AJ Hosein",
+      "bowl_t": "West Indies",
+      "v": "batsman",
+      "h2h": {
+        "balls": 18,
+        "runs": 19,
+        "dismissals": 1,
+        "strike_rate": 105.56
+      },
+      "vs_t": {
+        "runs": 173,
+        "balls": 130,
+        "dismissals": 3,
+        "average": 57.67,
+        "strike_rate": 133.08
+      },
+      "b_car": {
+        "avg": 46.81,
+        "sr": 136.65
+      },
+      "b_f": [
+        44,
+        1,
+        31
+      ],
+      "w_f": [
+        3,
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "Tilak Varma",
+      "bat_t": "India",
+      "bowl": "RL Chase",
+      "bowl_t": "West Indies",
+      "v": "batsman",
+      "h2h": {
+        "balls": 17,
+        "runs": 11,
+        "dismissals": 1,
+        "strike_rate": 64.71
+      },
+      "vs_t": {
+        "runs": 173,
+        "balls": 130,
+        "dismissals": 3,
+        "average": 57.67,
+        "strike_rate": 133.08
+      },
+      "b_car": {
+        "avg": 46.81,
+        "sr": 136.65
+      },
+      "b_f": [
+        44,
+        1,
+        31
+      ],
+      "w_f": [
+        1,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "HH Pandya",
+      "bat_t": "India",
+      "bowl": "R Shepherd",
+      "bowl_t": "West Indies",
+      "v": "bowler",
+      "h2h": {
+        "balls": 16,
+        "runs": 20,
+        "dismissals": 1,
+        "strike_rate": 125.0
+      },
+      "vs_t": {
+        "runs": 141,
+        "balls": 131,
+        "dismissals": 6,
+        "average": 23.5,
+        "strike_rate": 107.63
+      },
+      "b_car": {
+        "avg": 28.12,
+        "sr": 138.02
+      },
+      "b_f": [
+        50,
+        18,
+        30
+      ],
+      "w_f": [
+        0,
+        1,
+        5
+      ]
+    },
+    {
+      "bat": "AJ Hosein",
+      "bat_t": "West Indies",
+      "bowl": "Arshdeep Singh",
+      "bowl_t": "India",
+      "v": "bowler",
+      "h2h": {
+        "balls": 10,
+        "runs": 11,
+        "dismissals": 1,
+        "strike_rate": 110.0
+      },
+      "vs_t": {
+        "runs": 45,
+        "balls": 51,
+        "dismissals": 3,
+        "average": 15.0,
+        "strike_rate": 88.24
+      },
+      "w_car": {
+        "avg": 19.63,
+        "eco": 8.75
+      },
+      "w_f": [
+        3,
+        2,
+        0
+      ]
+    },
+    {
+      "bat": "Ishan Kishan",
+      "bat_t": "India",
+      "bowl": "R Shepherd",
+      "bowl_t": "West Indies",
+      "v": "batsman",
+      "h2h": {
+        "balls": 10,
+        "runs": 20,
+        "dismissals": 1,
+        "strike_rate": 200.0
+      },
+      "vs_t": {
+        "runs": 115,
+        "balls": 131,
+        "dismissals": 6,
+        "average": 19.17,
+        "strike_rate": 87.79
+      },
+      "b_car": {
+        "avg": 29.68,
+        "sr": 138.02
+      },
+      "b_f": [
+        38,
+        0,
+        18
+      ],
+      "w_f": [
+        0,
+        1,
+        5
+      ]
+    },
+    {
+      "bat": "R Powell",
+      "bat_t": "West Indies",
+      "bowl": "AR Patel",
+      "bowl_t": "India",
+      "v": "batsman",
+      "h2h": {
+        "balls": 9,
+        "runs": 16,
+        "dismissals": 1,
+        "strike_rate": 177.78
+      },
+      "vs_t": {
+        "runs": 374,
+        "balls": 277,
+        "dismissals": 13,
+        "average": 28.77,
+        "strike_rate": 135.02
+      },
+      "w_car": {
+        "avg": 22.41,
+        "eco": 7.59
+      },
+      "b_f": [
+        9,
+        59,
+        9
+      ],
+      "w_f": [
+        1,
+        2,
+        2
+      ]
+    },
+    {
+      "bat": "Arshdeep Singh",
+      "bat_t": "India",
+      "bowl": "R Shepherd",
+      "bowl_t": "West Indies",
+      "v": "batsman",
+      "h2h": {
+        "balls": 9,
+        "runs": 16,
+        "dismissals": 1,
+        "strike_rate": 177.78
+      },
+      "vs_t": {
+        "runs": 27,
+        "balls": 17,
+        "dismissals": 1,
+        "average": 27.0,
+        "strike_rate": 158.82
+      },
+      "b_car": {
+        "avg": 7.25,
+        "sr": 98.86
+      },
+      "b_f": [
+        1,
+        2,
+        4
+      ],
+      "w_f": [
+        0,
+        1,
+        5
+      ]
+    },
+    {
+      "bat": "JO Holder",
+      "bat_t": "West Indies",
+      "bowl": "Arshdeep Singh",
+      "bowl_t": "India",
+      "v": "bowler",
+      "h2h": {
+        "balls": 7,
+        "runs": 2,
+        "dismissals": 1,
+        "strike_rate": 28.57
+      },
+      "vs_t": {
+        "runs": 57,
+        "balls": 50,
+        "dismissals": 7,
+        "average": 8.14,
+        "strike_rate": 114.0
+      },
+      "w_car": {
+        "avg": 19.63,
+        "eco": 8.75
+      },
+      "b_f": [
+        49,
+        13,
+        9
+      ],
+      "w_f": [
+        3,
+        2,
+        0
+      ]
+    },
+    {
+      "bat": "JO Holder",
+      "bat_t": "West Indies",
+      "bowl": "AR Patel",
+      "bowl_t": "India",
+      "v": "bowler",
+      "h2h": {
+        "balls": 6,
+        "runs": 2,
+        "dismissals": 1,
+        "strike_rate": 33.33
+      },
+      "vs_t": {
+        "runs": 57,
+        "balls": 50,
+        "dismissals": 7,
+        "average": 8.14,
+        "strike_rate": 114.0
+      },
+      "w_car": {
+        "avg": 22.41,
+        "eco": 7.59
+      },
+      "b_f": [
+        49,
+        13,
+        9
+      ],
+      "w_f": [
+        1,
+        2,
+        2
+      ]
+    },
+    {
+      "bat": "SO Hetmyer",
+      "bat_t": "West Indies",
+      "bowl": "JJ Bumrah",
+      "bowl_t": "India",
+      "v": "bowler",
+      "h2h": {
+        "balls": 6,
+        "runs": 6,
+        "dismissals": 1,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 395,
+        "balls": 307,
+        "dismissals": 16,
+        "average": 24.69,
+        "strike_rate": 128.66
+      },
+      "w_car": {
+        "avg": 19.51,
+        "eco": 6.85
+      },
+      "b_f": [
+        2,
+        85,
+        1
+      ],
+      "w_f": [
+        0,
+        3,
+        1
+      ]
+    },
+    {
+      "bat": "SV Samson",
+      "bat_t": "India",
+      "bowl": "AJ Hosein",
+      "bowl_t": "West Indies",
+      "v": "bowler",
+      "h2h": {
+        "balls": 6,
+        "runs": 3,
+        "dismissals": 1,
+        "strike_rate": 50.0
+      },
+      "vs_t": {
+        "runs": 77,
+        "balls": 62,
+        "dismissals": 3,
+        "average": 25.67,
+        "strike_rate": 124.19
+      },
+      "b_car": {
+        "avg": 25.0,
+        "sr": 143.98
+      },
+      "b_f": [
+        24,
+        22,
+        89
+      ],
+      "w_f": [
+        3,
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "SV Samson",
+      "bat_t": "India",
+      "bowl": "R Shepherd",
+      "bowl_t": "West Indies",
+      "v": "bowler",
+      "h2h": {
+        "balls": 6,
+        "runs": 7,
+        "dismissals": 1,
+        "strike_rate": 116.67
+      },
+      "vs_t": {
+        "runs": 77,
+        "balls": 62,
+        "dismissals": 3,
+        "average": 25.67,
+        "strike_rate": 124.19
+      },
+      "b_car": {
+        "avg": 25.0,
+        "sr": 143.98
+      },
+      "b_f": [
+        24,
+        22,
+        89
+      ],
+      "w_f": [
+        0,
+        1,
+        5
+      ]
+    },
+    {
+      "bat": "AR Patel",
+      "bat_t": "India",
+      "bowl": "R Shepherd",
+      "bowl_t": "West Indies",
+      "v": "bowler",
+      "h2h": {
+        "balls": 4,
+        "runs": 3,
+        "dismissals": 1,
+        "strike_rate": 75.0
+      },
+      "vs_t": {
+        "runs": 69,
+        "balls": 53,
+        "dismissals": 4,
+        "average": 17.25,
+        "strike_rate": 130.19
+      },
+      "b_car": {
+        "avg": 19.66,
+        "sr": 125.55
+      },
+      "b_f": [
+        0,
+        0,
+        14
+      ],
+      "w_f": [
+        0,
+        1,
+        5
+      ]
+    },
+    {
+      "bat": "R Shepherd",
+      "bat_t": "West Indies",
+      "bowl": "AR Patel",
+      "bowl_t": "India",
+      "v": "bowler",
+      "h2h": {
+        "balls": 2,
+        "runs": 6,
+        "dismissals": 1,
+        "strike_rate": 300.0
+      },
+      "vs_t": {
+        "runs": 44,
+        "balls": 42,
+        "dismissals": 2,
+        "average": 22.0,
+        "strike_rate": 104.76
+      },
+      "w_car": {
+        "avg": 22.41,
+        "eco": 7.59
+      },
+      "b_f": [
+        52,
+        21,
+        1
+      ],
+      "w_f": [
+        1,
+        2,
+        2
+      ]
+    },
+    {
+      "bat": "HH Pandya",
+      "bat_t": "India",
+      "bowl": "AJ Hosein",
+      "bowl_t": "West Indies",
+      "v": "bowler",
+      "h2h": {
+        "balls": 30,
+        "runs": 24,
+        "dismissals": 0,
+        "strike_rate": 80.0
+      },
+      "vs_t": {
+        "runs": 141,
+        "balls": 131,
+        "dismissals": 6,
+        "average": 23.5,
+        "strike_rate": 107.63
+      },
+      "b_car": {
+        "avg": 28.12,
+        "sr": 138.02
+      },
+      "b_f": [
+        50,
+        18,
+        30
+      ],
+      "w_f": [
+        3,
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "Tilak Varma",
+      "bat_t": "India",
+      "bowl": "JO Holder",
+      "bowl_t": "West Indies",
+      "v": "batsman",
+      "h2h": {
+        "balls": 28,
+        "runs": 34,
+        "dismissals": 0,
+        "strike_rate": 121.43
+      },
+      "vs_t": {
+        "runs": 173,
+        "balls": 130,
+        "dismissals": 3,
+        "average": 57.67,
+        "strike_rate": 133.08
+      },
+      "b_car": {
+        "avg": 46.81,
+        "sr": 136.65
+      },
+      "b_f": [
+        44,
+        1,
+        31
+      ],
+      "w_f": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "SO Hetmyer",
+      "bat_t": "West Indies",
+      "bowl": "HH Pandya",
+      "bowl_t": "India",
+      "v": "batsman",
+      "h2h": {
+        "balls": 24,
+        "runs": 40,
+        "dismissals": 0,
+        "strike_rate": 166.67
+      },
+      "vs_t": {
+        "runs": 395,
+        "balls": 307,
+        "dismissals": 16,
+        "average": 24.69,
+        "strike_rate": 128.66
+      },
+      "w_car": {
+        "avg": 27.46,
+        "eco": 8.49
+      },
+      "b_f": [
+        2,
+        85,
+        1
+      ],
+      "w_f": [
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "Ishan Kishan",
+      "bat_t": "India",
+      "bowl": "AJ Hosein",
+      "bowl_t": "West Indies",
+      "v": "bowler",
+      "h2h": {
+        "balls": 22,
+        "runs": 26,
+        "dismissals": 0,
+        "strike_rate": 118.18
+      },
+      "vs_t": {
+        "runs": 115,
+        "balls": 131,
+        "dismissals": 6,
+        "average": 19.17,
+        "strike_rate": 87.79
+      },
+      "b_car": {
+        "avg": 29.68,
+        "sr": 138.02
+      },
+      "b_f": [
+        38,
+        0,
+        18
+      ],
+      "w_f": [
+        3,
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "Ishan Kishan",
+      "bat_t": "India",
+      "bowl": "JO Holder",
+      "bowl_t": "West Indies",
+      "v": "bowler",
+      "h2h": {
+        "balls": 16,
+        "runs": 9,
+        "dismissals": 0,
+        "strike_rate": 56.25
+      },
+      "vs_t": {
+        "runs": 115,
+        "balls": 131,
+        "dismissals": 6,
+        "average": 19.17,
+        "strike_rate": 87.79
+      },
+      "b_car": {
+        "avg": 29.68,
+        "sr": 138.02
+      },
+      "b_f": [
+        38,
+        0,
+        18
+      ],
+      "w_f": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "SO Hetmyer",
+      "bat_t": "West Indies",
+      "bowl": "S Dube",
+      "bowl_t": "India",
+      "v": "bowler",
+      "h2h": {
+        "balls": 15,
+        "runs": 19,
+        "dismissals": 0,
+        "strike_rate": 126.67
+      },
+      "vs_t": {
+        "runs": 395,
+        "balls": 307,
+        "dismissals": 16,
+        "average": 24.69,
+        "strike_rate": 128.66
+      },
+      "w_car": {
+        "avg": 27.25,
+        "eco": 9.74
+      },
+      "b_f": [
+        2,
+        85,
+        1
+      ],
+      "w_f": [
+        1,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "SD Hope",
+      "bat_t": "West Indies",
+      "bowl": "AR Patel",
+      "bowl_t": "India",
+      "v": "batsman",
+      "h2h": {
+        "balls": 12,
+        "runs": 21,
+        "dismissals": 0,
+        "strike_rate": 175.0
+      },
+      "vs_t": {
+        "runs": 119,
+        "balls": 86,
+        "dismissals": 4,
+        "average": 29.75,
+        "strike_rate": 138.37
+      },
+      "w_car": {
+        "avg": 22.41,
+        "eco": 7.59
+      },
+      "b_f": [
+        16,
+        14,
+        75
+      ],
+      "w_f": [
+        1,
+        2,
+        2
+      ]
+    },
+    {
+      "bat": "SV Samson",
+      "bat_t": "India",
+      "bowl": "JO Holder",
+      "bowl_t": "West Indies",
+      "v": "bowler",
+      "h2h": {
+        "balls": 12,
+        "runs": 14,
+        "dismissals": 0,
+        "strike_rate": 116.67
+      },
+      "vs_t": {
+        "runs": 77,
+        "balls": 62,
+        "dismissals": 3,
+        "average": 25.67,
+        "strike_rate": 124.19
+      },
+      "b_car": {
+        "avg": 25.0,
+        "sr": 143.98
+      },
+      "b_f": [
+        24,
+        22,
+        89
+      ],
+      "w_f": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "HH Pandya",
+      "bat_t": "India",
+      "bowl": "RL Chase",
+      "bowl_t": "West Indies",
+      "v": "bowler",
+      "h2h": {
+        "balls": 9,
+        "runs": 5,
+        "dismissals": 0,
+        "strike_rate": 55.56
+      },
+      "vs_t": {
+        "runs": 141,
+        "balls": 131,
+        "dismissals": 6,
+        "average": 23.5,
+        "strike_rate": 107.63
+      },
+      "b_car": {
+        "avg": 28.12,
+        "sr": 138.02
+      },
+      "b_f": [
+        50,
+        18,
+        30
+      ],
+      "w_f": [
+        1,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "S Dube",
+      "bat_t": "India",
+      "bowl": "JO Holder",
+      "bowl_t": "West Indies",
+      "v": "batsman",
+      "h2h": {
+        "balls": 8,
+        "runs": 17,
+        "dismissals": 0,
+        "strike_rate": 212.5
+      },
+      "vs_t": {
+        "runs": 54,
+        "balls": 34,
+        "dismissals": 1,
+        "average": 54.0,
+        "strike_rate": 158.82
+      },
+      "b_car": {
+        "avg": 31.2,
+        "sr": 141.3
+      },
+      "b_f": [
+        42,
+        66,
+        27
+      ],
+      "w_f": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "R Shepherd",
+      "bat_t": "West Indies",
+      "bowl": "Arshdeep Singh",
+      "bowl_t": "India",
+      "v": "bowler",
+      "h2h": {
+        "balls": 7,
+        "runs": 1,
+        "dismissals": 0,
+        "strike_rate": 14.29
+      },
+      "vs_t": {
+        "runs": 44,
+        "balls": 42,
+        "dismissals": 2,
+        "average": 22.0,
+        "strike_rate": 104.76
+      },
+      "w_car": {
+        "avg": 19.63,
+        "eco": 8.75
+      },
+      "b_f": [
+        52,
+        21,
+        1
+      ],
+      "w_f": [
+        3,
+        2,
+        0
+      ]
+    },
+    {
+      "bat": "SO Hetmyer",
+      "bat_t": "West Indies",
+      "bowl": "AR Patel",
+      "bowl_t": "India",
+      "v": "bowler",
+      "h2h": {
+        "balls": 5,
+        "runs": 10,
+        "dismissals": 0,
+        "strike_rate": 200.0
+      },
+      "vs_t": {
+        "runs": 395,
+        "balls": 307,
+        "dismissals": 16,
+        "average": 24.69,
+        "strike_rate": 128.66
+      },
+      "w_car": {
+        "avg": 22.41,
+        "eco": 7.59
+      },
+      "b_f": [
+        2,
+        85,
+        1
+      ],
+      "w_f": [
+        1,
+        2,
+        2
+      ]
+    },
+    {
+      "bat": "SV Samson",
+      "bat_t": "India",
+      "bowl": "RL Chase",
+      "bowl_t": "West Indies",
+      "v": "bowler",
+      "h2h": {
+        "balls": 5,
+        "runs": 7,
+        "dismissals": 0,
+        "strike_rate": 140.0
+      },
+      "vs_t": {
+        "runs": 77,
+        "balls": 62,
+        "dismissals": 3,
+        "average": 25.67,
+        "strike_rate": 124.19
+      },
+      "b_car": {
+        "avg": 25.0,
+        "sr": 143.98
+      },
+      "b_f": [
+        24,
+        22,
+        89
+      ],
+      "w_f": [
+        1,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "AJ Hosein",
+      "bat_t": "West Indies",
+      "bowl": "HH Pandya",
+      "bowl_t": "India",
+      "v": "bowler",
+      "h2h": {
+        "balls": 4,
+        "runs": 1,
+        "dismissals": 0,
+        "strike_rate": 25.0
+      },
+      "vs_t": {
+        "runs": 45,
+        "balls": 51,
+        "dismissals": 3,
+        "average": 15.0,
+        "strike_rate": 88.24
+      },
+      "w_car": {
+        "avg": 27.46,
+        "eco": 8.49
+      },
+      "w_f": [
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "SD Hope",
+      "bat_t": "West Indies",
+      "bowl": "Tilak Varma",
+      "bowl_t": "India",
+      "v": "bowler",
+      "h2h": {
+        "balls": 3,
+        "runs": 4,
+        "dismissals": 0,
+        "strike_rate": 133.33
+      },
+      "vs_t": {
+        "runs": 119,
+        "balls": 86,
+        "dismissals": 4,
+        "average": 29.75,
+        "strike_rate": 138.37
+      },
+      "w_car": {
+        "avg": 14.0,
+        "eco": 5.89
+      },
+      "b_f": [
+        16,
+        14,
+        75
+      ],
+      "w_f": [
+        1
+      ]
+    },
+    {
+      "bat": "SD Hope",
+      "bat_t": "West Indies",
+      "bowl": "HH Pandya",
+      "bowl_t": "India",
+      "v": "bowler",
+      "h2h": {
+        "balls": 3,
+        "runs": 3,
+        "dismissals": 0,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 119,
+        "balls": 86,
+        "dismissals": 4,
+        "average": 29.75,
+        "strike_rate": 138.37
+      },
+      "w_car": {
+        "avg": 27.46,
+        "eco": 8.49
+      },
+      "b_f": [
+        16,
+        14,
+        75
+      ],
+      "w_f": [
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "HH Pandya",
+      "bat_t": "India",
+      "bowl": "R Powell",
+      "bowl_t": "West Indies",
+      "v": "bowler",
+      "h2h": {
+        "balls": 3,
+        "runs": 8,
+        "dismissals": 0,
+        "strike_rate": 266.67
+      },
+      "vs_t": {
+        "runs": 141,
+        "balls": 131,
+        "dismissals": 6,
+        "average": 23.5,
+        "strike_rate": 107.63
+      },
+      "b_car": {
+        "avg": 28.12,
+        "sr": 138.02
+      },
+      "b_f": [
+        50,
+        18,
+        30
+      ]
+    },
+    {
+      "bat": "Arshdeep Singh",
+      "bat_t": "India",
+      "bowl": "JO Holder",
+      "bowl_t": "West Indies",
+      "v": "neutral",
+      "h2h": {
+        "balls": 3,
+        "runs": 2,
+        "dismissals": 0,
+        "strike_rate": 66.67
+      },
+      "vs_t": {
+        "runs": 27,
+        "balls": 17,
+        "dismissals": 1,
+        "average": 27.0,
+        "strike_rate": 158.82
+      },
+      "b_car": {
+        "avg": 7.25,
+        "sr": 98.86
+      },
+      "b_f": [
+        1,
+        2,
+        4
+      ],
+      "w_f": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "SD Hope",
+      "bat_t": "West Indies",
+      "bowl": "Arshdeep Singh",
+      "bowl_t": "India",
+      "v": "bowler",
+      "h2h": {
+        "balls": 2,
+        "runs": 0,
+        "dismissals": 0,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 119,
+        "balls": 86,
+        "dismissals": 4,
+        "average": 29.75,
+        "strike_rate": 138.37
+      },
+      "w_car": {
+        "avg": 19.63,
+        "eco": 8.75
+      },
+      "b_f": [
+        16,
+        14,
+        75
+      ],
+      "w_f": [
+        3,
+        2,
+        0
+      ]
+    },
+    {
+      "bat": "Tilak Varma",
+      "bat_t": "India",
+      "bowl": "R Powell",
+      "bowl_t": "West Indies",
+      "v": "batsman",
+      "h2h": {
+        "balls": 2,
+        "runs": 2,
+        "dismissals": 0,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 173,
+        "balls": 130,
+        "dismissals": 3,
+        "average": 57.67,
+        "strike_rate": 133.08
+      },
+      "b_car": {
+        "avg": 46.81,
+        "sr": 136.65
+      },
+      "b_f": [
+        44,
+        1,
+        31
+      ]
+    },
+    {
+      "bat": "AR Patel",
+      "bat_t": "India",
+      "bowl": "AJ Hosein",
+      "bowl_t": "West Indies",
+      "v": "bowler",
+      "h2h": {
+        "balls": 1,
+        "runs": 1,
+        "dismissals": 0,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 69,
+        "balls": 53,
+        "dismissals": 4,
+        "average": 17.25,
+        "strike_rate": 130.19
+      },
+      "b_car": {
+        "avg": 19.66,
+        "sr": 125.55
+      },
+      "b_f": [
+        0,
+        0,
+        14
+      ],
+      "w_f": [
+        3,
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "JO Holder",
+      "bat_t": "West Indies",
+      "bowl": "Abhishek Sharma",
+      "bowl_t": "India",
+      "v": "bowler",
+      "vs_t": {
+        "runs": 57,
+        "balls": 50,
+        "dismissals": 7,
+        "average": 8.14,
+        "strike_rate": 114.0
+      },
+      "w_car": {
+        "avg": 39.17,
+        "eco": 8.87
+      },
+      "b_f": [
+        49,
+        13,
+        9
+      ],
+      "w_f": [
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "JO Holder",
+      "bat_t": "West Indies",
+      "bowl": "Tilak Varma",
+      "bowl_t": "India",
+      "v": "bowler",
+      "vs_t": {
+        "runs": 57,
+        "balls": 50,
+        "dismissals": 7,
+        "average": 8.14,
+        "strike_rate": 114.0
+      },
+      "w_car": {
+        "avg": 14.0,
+        "eco": 5.89
+      },
+      "b_f": [
+        49,
+        13,
+        9
+      ],
+      "w_f": [
+        1
+      ]
+    },
+    {
+      "bat": "JO Holder",
+      "bat_t": "West Indies",
+      "bowl": "S Dube",
+      "bowl_t": "India",
+      "v": "bowler",
+      "vs_t": {
+        "runs": 57,
+        "balls": 50,
+        "dismissals": 7,
+        "average": 8.14,
+        "strike_rate": 114.0
+      },
+      "w_car": {
+        "avg": 27.25,
+        "eco": 9.74
+      },
+      "b_f": [
+        49,
+        13,
+        9
+      ],
+      "w_f": [
+        1,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "JO Holder",
+      "bat_t": "West Indies",
+      "bowl": "HH Pandya",
+      "bowl_t": "India",
+      "v": "bowler",
+      "vs_t": {
+        "runs": 57,
+        "balls": 50,
+        "dismissals": 7,
+        "average": 8.14,
+        "strike_rate": 114.0
+      },
+      "w_car": {
+        "avg": 27.46,
+        "eco": 8.49
+      },
+      "b_f": [
+        49,
+        13,
+        9
+      ],
+      "w_f": [
+        0,
+        0,
+        1
+      ]
+    }
+  ]
+}

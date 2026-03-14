@@ -1,0 +1,14 @@
+match_id,date,innings,team,player,runs,balls_faced,strike_rate,fours,sixes,dismissed,dismissal_kind
+1512771,04-03-2026,1,South Africa,M Jansen,55,32,171.88,2,5,False,
+1512771,04-03-2026,1,South Africa,D Brevis,34,28,121.43,3,2,True,caught
+1512771,04-03-2026,1,South Africa,T Stubbs,29,25,116.0,2,1,True,bowled
+1512771,04-03-2026,1,South Africa,AK Markram,18,23,78.26,1,1,True,caught
+1512771,04-03-2026,1,South Africa,Q de Kock,10,8,125.0,1,1,True,caught
+1512771,04-03-2026,1,South Africa,DA Miller,6,6,100.0,0,0,True,caught
+1512771,04-03-2026,1,South Africa,C Bosch,2,4,50.0,0,0,True,bowled
+1512771,04-03-2026,1,South Africa,KA Maharaj,1,1,100.0,0,0,False,
+1512771,04-03-2026,1,South Africa,K Rabada,0,1,0.0,0,0,True,caught
+1512771,04-03-2026,1,South Africa,RD Rickelton,0,1,0.0,0,0,True,caught
+1512771,04-03-2026,2,New Zealand,FH Allen,100,33,303.03,10,8,False,
+1512771,04-03-2026,2,New Zealand,TL Seifert,58,33,175.76,7,2,True,bowled
+1512771,04-03-2026,2,New Zealand,R Ravindra,13,11,118.18,2,0,False,

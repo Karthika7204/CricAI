@@ -1,0 +1,93 @@
+{
+    "match_id": "1512771",
+    "winner": "New Zealand",
+    "loser": "South Africa",
+    "awards": {
+        "player_of_the_match": {
+            "name": "FH Allen",
+            "team": "New Zealand",
+            "impact_score": 193.0,
+            "breakdown": {
+                "batting": 193.0,
+                "bowling": 0.0,
+                "fielding": 0.0,
+                "pressure_multiplier": 1.0
+            },
+            "key_stats": {
+                "batting": "100(33) SR:303.03"
+            }
+        },
+        "best_batter": {
+            "name": "FH Allen",
+            "team": "New Zealand",
+            "batting_impact": 193.0,
+            "stats": {
+                "runs": 100,
+                "balls": 33,
+                "sr": 303.03,
+                "fours": 10,
+                "sixes": 8
+            }
+        },
+        "best_bowler": {
+            "name": "R Ravindra",
+            "team": "New Zealand",
+            "bowling_impact": 75,
+            "stats": {
+                "overs": 4.0,
+                "wickets": 2,
+                "econ": 7.25
+            }
+        },
+        "game_changer": {
+            "name": "FH Allen",
+            "team": "New Zealand",
+            "reason": "SR 303.03 with 8 sixes",
+            "key_stats": {
+                "batting": "100(33) SR:303.03"
+            }
+        },
+        "pressure_performer": {
+            "name": "FH Allen",
+            "team": "New Zealand",
+            "pressure_multiplier": 1.0,
+            "reason": "Chasing team batter under pressure | Attacking SR 303.03 under pressure",
+            "key_stats": {
+                "batting": "100(33) SR:303.03"
+            }
+        },
+        "emerging_player": {
+            "name": "M Jansen",
+            "team": "South Africa",
+            "reason": "Outperformed team average by 4.71x",
+            "key_stats": {
+                "batting": "55(32) SR:171.88",
+                "bowling": "2.5ov-0wkt econ:18.71"
+            }
+        },
+        "fielding_impact": {
+            "name": "R Ravindra",
+            "team": "New Zealand",
+            "fielding_proxy_score": 8,
+            "methodology": "Proxy-based: catch attribution (65% T20 wickets are catches) + dot ball pressure bonus + economy-implied fielding support",
+            "reason": "Estimated 1 caught dismissals from 2 wickets",
+            "stats": {
+                "overs": 4.0,
+                "wickets": 2,
+                "econ": 7.25
+            }
+        },
+        "all_rounder_impact": {
+            "name": "R Ravindra",
+            "team": "New Zealand",
+            "all_rounder_score": 92.0,
+            "stats": {
+                "runs": 13,
+                "sr": 118.18,
+                "overs": 4.0,
+                "wickets": 2,
+                "econ": 7.25
+            }
+        }
+    }
+}

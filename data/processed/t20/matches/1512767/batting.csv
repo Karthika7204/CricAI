@@ -1,0 +1,18 @@
+match_id,date,innings,team,player,runs,balls_faced,strike_rate,fours,sixes,dismissed,dismissal_kind
+1512767,27-02-2026,1,New Zealand,GD Phillips,39,29,134.48,4,1,True,bowled
+1512767,27-02-2026,1,New Zealand,TL Seifert,35,25,140.0,3,2,True,stumped
+1512767,27-02-2026,1,New Zealand,FH Allen,29,19,152.63,0,3,True,caught
+1512767,27-02-2026,1,New Zealand,MS Chapman,15,9,166.67,2,0,True,stumped
+1512767,27-02-2026,1,New Zealand,CE McConchie,14,13,107.69,2,0,True,bowled
+1512767,27-02-2026,1,New Zealand,R Ravindra,11,13,84.62,1,0,True,caught
+1512767,27-02-2026,1,New Zealand,MJ Santner,9,5,180.0,0,1,False,
+1512767,27-02-2026,1,New Zealand,DJ Mitchell,3,8,37.5,0,0,True,caught
+1512767,27-02-2026,1,New Zealand,MJ Henry,1,1,100.0,0,0,False,
+1512767,27-02-2026,2,England,T Banton,33,24,137.5,3,1,True,caught
+1512767,27-02-2026,2,England,WG Jacks,32,18,177.78,4,1,False,
+1512767,27-02-2026,2,England,HC Brook,26,25,104.0,3,1,True,caught
+1512767,27-02-2026,2,England,SM Curran,24,22,109.09,2,1,True,caught
+1512767,27-02-2026,2,England,JG Bethell,21,16,131.25,4,0,True,caught
+1512767,27-02-2026,2,England,Rehan Ahmed,19,7,271.43,1,2,False,
+1512767,27-02-2026,2,England,PD Salt,2,4,50.0,0,0,True,caught
+1512767,27-02-2026,2,England,JC Buttler,0,2,0.0,0,0,True,caught

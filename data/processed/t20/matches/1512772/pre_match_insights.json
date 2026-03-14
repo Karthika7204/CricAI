@@ -1,0 +1,74 @@
+{
+  "match_id": "1512772",
+  "ranking_races": [
+    {
+      "player": "Ishan Kishan",
+      "category": "batting",
+      "current_pos": 4,
+      "target_pos": 3,
+      "points_away": 20,
+      "effort_needed": "30 runs"
+    },
+    {
+      "player": "Tilak Varma",
+      "category": "batting",
+      "current_pos": 6,
+      "target_pos": 3,
+      "points_away": 54,
+      "effort_needed": "81 runs"
+    },
+    {
+      "player": "Arshdeep Singh",
+      "category": "bowling",
+      "current_pos": 13,
+      "target_pos": 10,
+      "points_away": 10,
+      "effort_needed": "1 wickets"
+    }
+  ],
+  "milestone_watch": [
+    {
+      "player": "Abhishek Sharma",
+      "type": "sixes",
+      "current": 96,
+      "target": 100,
+      "needed": 4
+    },
+    {
+      "player": "AR Patel",
+      "type": "runs",
+      "current": 690,
+      "target": 700,
+      "needed": 10
+    },
+    {
+      "player": "AR Patel",
+      "type": "fours",
+      "current": 48,
+      "target": 50,
+      "needed": 2
+    },
+    {
+      "player": "Arshdeep Singh",
+      "type": "runs",
+      "current": 87,
+      "target": 100,
+      "needed": 13
+    },
+    {
+      "player": "SV Samson",
+      "type": "runs",
+      "current": 1399,
+      "target": 1400,
+      "needed": 1
+    },
+    {
+      "player": "SA Yadav",
+      "type": "fours",
+      "current": 293,
+      "target": 300,
+      "needed": 7
+    }
+  ],
+  "personal_best_watch": []
+}

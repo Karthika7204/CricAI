@@ -1,0 +1,1459 @@
+{
+  "match_id": "1512771",
+  "team_a": "South Africa",
+  "team_b": "New Zealand",
+  "matchups": [
+    {
+      "bat": "D Brevis",
+      "bat_t": "South Africa",
+      "bowl": "MJ Henry",
+      "bowl_t": "New Zealand",
+      "v": "bowler",
+      "h2h": {
+        "balls": 13,
+        "runs": 19,
+        "dismissals": 2,
+        "strike_rate": 146.15
+      },
+      "vs_t": {
+        "runs": 100,
+        "balls": 68,
+        "dismissals": 4,
+        "average": 25.0,
+        "strike_rate": 147.06
+      },
+      "b_car": {
+        "avg": 26.0,
+        "sr": 154.92
+      },
+      "b_f": [
+        45,
+        36,
+        21
+      ],
+      "w_f": [
+        1,
+        2,
+        1
+      ]
+    },
+    {
+      "bat": "TL Seifert",
+      "bat_t": "New Zealand",
+      "bowl": "L Ngidi",
+      "bowl_t": "South Africa",
+      "v": "bowler",
+      "h2h": {
+        "balls": 23,
+        "runs": 25,
+        "dismissals": 1,
+        "strike_rate": 108.7
+      },
+      "vs_t": {
+        "runs": 131,
+        "balls": 108,
+        "dismissals": 3,
+        "average": 43.67,
+        "strike_rate": 121.3
+      },
+      "b_f": [
+        35,
+        8,
+        6
+      ],
+      "w_f": [
+        3,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "Q de Kock",
+      "bat_t": "South Africa",
+      "bowl": "LH Ferguson",
+      "bowl_t": "New Zealand",
+      "v": "bowler",
+      "h2h": {
+        "balls": 7,
+        "runs": 5,
+        "dismissals": 1,
+        "strike_rate": 71.43
+      },
+      "vs_t": {
+        "runs": 54,
+        "balls": 54,
+        "dismissals": 4,
+        "average": 13.5,
+        "strike_rate": 100.0
+      },
+      "b_car": {
+        "avg": 31.84,
+        "sr": 136.42
+      },
+      "b_f": [
+        47,
+        6,
+        14
+      ],
+      "w_f": [
+        1,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "D Brevis",
+      "bat_t": "South Africa",
+      "bowl": "R Ravindra",
+      "bowl_t": "New Zealand",
+      "v": "bowler",
+      "h2h": {
+        "balls": 3,
+        "runs": 7,
+        "dismissals": 1,
+        "strike_rate": 233.33
+      },
+      "vs_t": {
+        "runs": 100,
+        "balls": 68,
+        "dismissals": 4,
+        "average": 25.0,
+        "strike_rate": 147.06
+      },
+      "b_car": {
+        "avg": 26.0,
+        "sr": 154.92
+      },
+      "b_f": [
+        45,
+        36,
+        21
+      ],
+      "w_f": [
+        3,
+        4,
+        1
+      ]
+    },
+    {
+      "bat": "RD Rickelton",
+      "bat_t": "South Africa",
+      "bowl": "JDS Neesham",
+      "bowl_t": "New Zealand",
+      "v": "neutral",
+      "h2h": {
+        "balls": 2,
+        "runs": 1,
+        "dismissals": 1,
+        "strike_rate": 50.0
+      },
+      "vs_t": {
+        "runs": 21,
+        "balls": 11,
+        "dismissals": 1,
+        "average": 21.0,
+        "strike_rate": 190.91
+      },
+      "b_car": {
+        "avg": 26.26,
+        "sr": 141.78
+      },
+      "b_f": [
+        45,
+        7,
+        30
+      ],
+      "w_f": [
+        1,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "JDS Neesham",
+      "bat_t": "New Zealand",
+      "bowl": "K Rabada",
+      "bowl_t": "South Africa",
+      "v": "bowler",
+      "h2h": {
+        "balls": 9,
+        "runs": 11,
+        "dismissals": 1,
+        "strike_rate": 122.22
+      },
+      "vs_t": {
+        "runs": 73,
+        "balls": 53,
+        "dismissals": 4,
+        "average": 18.25,
+        "strike_rate": 137.74
+      },
+      "b_f": [
+        23,
+        8
+      ],
+      "w_f": [
+        2,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "FH Allen",
+      "bat_t": "New Zealand",
+      "bowl": "M Jansen",
+      "bowl_t": "South Africa",
+      "v": "neutral",
+      "h2h": {
+        "balls": 5,
+        "runs": 10,
+        "dismissals": 1,
+        "strike_rate": 200.0
+      },
+      "vs_t": {
+        "runs": 31,
+        "balls": 17,
+        "dismissals": 1,
+        "average": 31.0,
+        "strike_rate": 182.35
+      },
+      "b_f": [
+        29,
+        23,
+        21
+      ],
+      "w_f": [
+        0,
+        4,
+        4
+      ]
+    },
+    {
+      "bat": "MJ Santner",
+      "bat_t": "New Zealand",
+      "bowl": "C Bosch",
+      "bowl_t": "South Africa",
+      "v": "bowler",
+      "h2h": {
+        "balls": 3,
+        "runs": 1,
+        "dismissals": 1,
+        "strike_rate": 33.33
+      },
+      "vs_t": {
+        "runs": 12,
+        "balls": 19,
+        "dismissals": 2,
+        "average": 6.0,
+        "strike_rate": 63.16
+      },
+      "b_f": [
+        9,
+        47,
+        4
+      ],
+      "w_f": [
+        2,
+        2,
+        3
+      ]
+    },
+    {
+      "bat": "R Ravindra",
+      "bat_t": "New Zealand",
+      "bowl": "M Jansen",
+      "bowl_t": "South Africa",
+      "v": "bowler",
+      "h2h": {
+        "balls": 3,
+        "runs": 7,
+        "dismissals": 1,
+        "strike_rate": 233.33
+      },
+      "vs_t": {
+        "runs": 63,
+        "balls": 42,
+        "dismissals": 3,
+        "average": 21.0,
+        "strike_rate": 150.0
+      },
+      "b_f": [
+        11,
+        32,
+        59
+      ],
+      "w_f": [
+        0,
+        4,
+        4
+      ]
+    },
+    {
+      "bat": "TL Seifert",
+      "bat_t": "New Zealand",
+      "bowl": "M Jansen",
+      "bowl_t": "South Africa",
+      "v": "bowler",
+      "h2h": {
+        "balls": 2,
+        "runs": 6,
+        "dismissals": 1,
+        "strike_rate": 300.0
+      },
+      "vs_t": {
+        "runs": 131,
+        "balls": 108,
+        "dismissals": 3,
+        "average": 43.67,
+        "strike_rate": 121.3
+      },
+      "b_f": [
+        35,
+        8,
+        6
+      ],
+      "w_f": [
+        0,
+        4,
+        4
+      ]
+    },
+    {
+      "bat": "AK Markram",
+      "bat_t": "South Africa",
+      "bowl": "MJ Santner",
+      "bowl_t": "New Zealand",
+      "v": "batsman",
+      "h2h": {
+        "balls": 12,
+        "runs": 15,
+        "dismissals": 0,
+        "strike_rate": 125.0
+      },
+      "vs_t": {
+        "runs": 86,
+        "balls": 48,
+        "dismissals": 0,
+        "average": 86.0,
+        "strike_rate": 179.17
+      },
+      "b_car": {
+        "avg": 31.08,
+        "sr": 143.73
+      },
+      "b_f": [
+        82,
+        4,
+        28
+      ],
+      "w_f": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "D Brevis",
+      "bat_t": "South Africa",
+      "bowl": "MJ Santner",
+      "bowl_t": "New Zealand",
+      "v": "batsman",
+      "h2h": {
+        "balls": 12,
+        "runs": 19,
+        "dismissals": 0,
+        "strike_rate": 158.33
+      },
+      "vs_t": {
+        "runs": 100,
+        "balls": 68,
+        "dismissals": 4,
+        "average": 25.0,
+        "strike_rate": 147.06
+      },
+      "b_car": {
+        "avg": 26.0,
+        "sr": 154.92
+      },
+      "b_f": [
+        45,
+        36,
+        21
+      ],
+      "w_f": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "AK Markram",
+      "bat_t": "South Africa",
+      "bowl": "LH Ferguson",
+      "bowl_t": "New Zealand",
+      "v": "batsman",
+      "h2h": {
+        "balls": 9,
+        "runs": 17,
+        "dismissals": 0,
+        "strike_rate": 188.89
+      },
+      "vs_t": {
+        "runs": 86,
+        "balls": 48,
+        "dismissals": 0,
+        "average": 86.0,
+        "strike_rate": 179.17
+      },
+      "b_car": {
+        "avg": 31.08,
+        "sr": 143.73
+      },
+      "b_f": [
+        82,
+        4,
+        28
+      ],
+      "w_f": [
+        1,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "Q de Kock",
+      "bat_t": "South Africa",
+      "bowl": "MJ Henry",
+      "bowl_t": "New Zealand",
+      "v": "batsman",
+      "h2h": {
+        "balls": 8,
+        "runs": 15,
+        "dismissals": 0,
+        "strike_rate": 187.5
+      },
+      "vs_t": {
+        "runs": 54,
+        "balls": 54,
+        "dismissals": 4,
+        "average": 13.5,
+        "strike_rate": 100.0
+      },
+      "b_car": {
+        "avg": 31.84,
+        "sr": 136.42
+      },
+      "b_f": [
+        47,
+        6,
+        14
+      ],
+      "w_f": [
+        1,
+        2,
+        1
+      ]
+    },
+    {
+      "bat": "AK Markram",
+      "bat_t": "South Africa",
+      "bowl": "MJ Henry",
+      "bowl_t": "New Zealand",
+      "v": "batsman",
+      "h2h": {
+        "balls": 8,
+        "runs": 17,
+        "dismissals": 0,
+        "strike_rate": 212.5
+      },
+      "vs_t": {
+        "runs": 86,
+        "balls": 48,
+        "dismissals": 0,
+        "average": 86.0,
+        "strike_rate": 179.17
+      },
+      "b_car": {
+        "avg": 31.08,
+        "sr": 143.73
+      },
+      "b_f": [
+        82,
+        4,
+        28
+      ],
+      "w_f": [
+        1,
+        2,
+        1
+      ]
+    },
+    {
+      "bat": "D Brevis",
+      "bat_t": "South Africa",
+      "bowl": "JDS Neesham",
+      "bowl_t": "New Zealand",
+      "v": "batsman",
+      "h2h": {
+        "balls": 8,
+        "runs": 12,
+        "dismissals": 0,
+        "strike_rate": 150.0
+      },
+      "vs_t": {
+        "runs": 100,
+        "balls": 68,
+        "dismissals": 4,
+        "average": 25.0,
+        "strike_rate": 147.06
+      },
+      "b_car": {
+        "avg": 26.0,
+        "sr": 154.92
+      },
+      "b_f": [
+        45,
+        36,
+        21
+      ],
+      "w_f": [
+        1,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "DA Miller",
+      "bat_t": "South Africa",
+      "bowl": "MJ Santner",
+      "bowl_t": "New Zealand",
+      "v": "bowler",
+      "h2h": {
+        "balls": 7,
+        "runs": 7,
+        "dismissals": 0,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 122,
+        "balls": 82,
+        "dismissals": 4,
+        "average": 30.5,
+        "strike_rate": 148.78
+      },
+      "b_car": {
+        "avg": 34.81,
+        "sr": 136.68
+      },
+      "b_f": [
+        63,
+        24,
+        39
+      ],
+      "w_f": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "DA Miller",
+      "bat_t": "South Africa",
+      "bowl": "JDS Neesham",
+      "bowl_t": "New Zealand",
+      "v": "batsman",
+      "h2h": {
+        "balls": 6,
+        "runs": 10,
+        "dismissals": 0,
+        "strike_rate": 166.67
+      },
+      "vs_t": {
+        "runs": 122,
+        "balls": 82,
+        "dismissals": 4,
+        "average": 30.5,
+        "strike_rate": 148.78
+      },
+      "b_car": {
+        "avg": 34.81,
+        "sr": 136.68
+      },
+      "b_f": [
+        63,
+        24,
+        39
+      ],
+      "w_f": [
+        1,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "AK Markram",
+      "bat_t": "South Africa",
+      "bowl": "JDS Neesham",
+      "bowl_t": "New Zealand",
+      "v": "batsman",
+      "h2h": {
+        "balls": 5,
+        "runs": 8,
+        "dismissals": 0,
+        "strike_rate": 160.0
+      },
+      "vs_t": {
+        "runs": 86,
+        "balls": 48,
+        "dismissals": 0,
+        "average": 86.0,
+        "strike_rate": 179.17
+      },
+      "b_car": {
+        "avg": 31.08,
+        "sr": 143.73
+      },
+      "b_f": [
+        82,
+        4,
+        28
+      ],
+      "w_f": [
+        1,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "DA Miller",
+      "bat_t": "South Africa",
+      "bowl": "LH Ferguson",
+      "bowl_t": "New Zealand",
+      "v": "bowler",
+      "h2h": {
+        "balls": 4,
+        "runs": 8,
+        "dismissals": 0,
+        "strike_rate": 200.0
+      },
+      "vs_t": {
+        "runs": 122,
+        "balls": 82,
+        "dismissals": 4,
+        "average": 30.5,
+        "strike_rate": 148.78
+      },
+      "b_car": {
+        "avg": 34.81,
+        "sr": 136.68
+      },
+      "b_f": [
+        63,
+        24,
+        39
+      ],
+      "w_f": [
+        1,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "DA Miller",
+      "bat_t": "South Africa",
+      "bowl": "MJ Henry",
+      "bowl_t": "New Zealand",
+      "v": "bowler",
+      "h2h": {
+        "balls": 3,
+        "runs": 3,
+        "dismissals": 0,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 122,
+        "balls": 82,
+        "dismissals": 4,
+        "average": 30.5,
+        "strike_rate": 148.78
+      },
+      "b_car": {
+        "avg": 34.81,
+        "sr": 136.68
+      },
+      "b_f": [
+        63,
+        24,
+        39
+      ],
+      "w_f": [
+        1,
+        2,
+        1
+      ]
+    },
+    {
+      "bat": "C Bosch",
+      "bat_t": "South Africa",
+      "bowl": "MJ Santner",
+      "bowl_t": "New Zealand",
+      "v": "neutral",
+      "h2h": {
+        "balls": 3,
+        "runs": 8,
+        "dismissals": 0,
+        "strike_rate": 266.67
+      },
+      "vs_t": {
+        "runs": 11,
+        "balls": 6,
+        "dismissals": 1,
+        "average": 11.0,
+        "strike_rate": 183.33
+      },
+      "b_car": {
+        "avg": 14.12,
+        "sr": 104.63
+      },
+      "b_f": [
+        5,
+        2
+      ],
+      "w_f": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "RD Rickelton",
+      "bat_t": "South Africa",
+      "bowl": "MJ Santner",
+      "bowl_t": "New Zealand",
+      "v": "neutral",
+      "h2h": {
+        "balls": 3,
+        "runs": 4,
+        "dismissals": 0,
+        "strike_rate": 133.33
+      },
+      "vs_t": {
+        "runs": 21,
+        "balls": 11,
+        "dismissals": 1,
+        "average": 21.0,
+        "strike_rate": 190.91
+      },
+      "b_car": {
+        "avg": 26.26,
+        "sr": 141.78
+      },
+      "b_f": [
+        45,
+        7,
+        30
+      ],
+      "w_f": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "AK Markram",
+      "bat_t": "South Africa",
+      "bowl": "R Ravindra",
+      "bowl_t": "New Zealand",
+      "v": "batsman",
+      "h2h": {
+        "balls": 2,
+        "runs": 1,
+        "dismissals": 0,
+        "strike_rate": 50.0
+      },
+      "vs_t": {
+        "runs": 86,
+        "balls": 48,
+        "dismissals": 0,
+        "average": 86.0,
+        "strike_rate": 179.17
+      },
+      "b_car": {
+        "avg": 31.08,
+        "sr": 143.73
+      },
+      "b_f": [
+        82,
+        4,
+        28
+      ],
+      "w_f": [
+        3,
+        4,
+        1
+      ]
+    },
+    {
+      "bat": "C Bosch",
+      "bat_t": "South Africa",
+      "bowl": "MJ Henry",
+      "bowl_t": "New Zealand",
+      "v": "neutral",
+      "h2h": {
+        "balls": 2,
+        "runs": 3,
+        "dismissals": 0,
+        "strike_rate": 150.0
+      },
+      "vs_t": {
+        "runs": 11,
+        "balls": 6,
+        "dismissals": 1,
+        "average": 11.0,
+        "strike_rate": 183.33
+      },
+      "b_car": {
+        "avg": 14.12,
+        "sr": 104.63
+      },
+      "b_f": [
+        5,
+        2
+      ],
+      "w_f": [
+        1,
+        2,
+        1
+      ]
+    },
+    {
+      "bat": "DA Miller",
+      "bat_t": "South Africa",
+      "bowl": "R Ravindra",
+      "bowl_t": "New Zealand",
+      "v": "bowler",
+      "h2h": {
+        "balls": 1,
+        "runs": 1,
+        "dismissals": 0,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 122,
+        "balls": 82,
+        "dismissals": 4,
+        "average": 30.5,
+        "strike_rate": 148.78
+      },
+      "b_car": {
+        "avg": 34.81,
+        "sr": 136.68
+      },
+      "b_f": [
+        63,
+        24,
+        39
+      ],
+      "w_f": [
+        3,
+        4,
+        1
+      ]
+    },
+    {
+      "bat": "RD Rickelton",
+      "bat_t": "South Africa",
+      "bowl": "LH Ferguson",
+      "bowl_t": "New Zealand",
+      "v": "neutral",
+      "h2h": {
+        "balls": 1,
+        "runs": 1,
+        "dismissals": 0,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 21,
+        "balls": 11,
+        "dismissals": 1,
+        "average": 21.0,
+        "strike_rate": 190.91
+      },
+      "b_car": {
+        "avg": 26.26,
+        "sr": 141.78
+      },
+      "b_f": [
+        45,
+        7,
+        30
+      ],
+      "w_f": [
+        1,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "Q de Kock",
+      "bat_t": "South Africa",
+      "bowl": "MJ Santner",
+      "bowl_t": "New Zealand",
+      "v": "bowler",
+      "vs_t": {
+        "runs": 54,
+        "balls": 54,
+        "dismissals": 4,
+        "average": 13.5,
+        "strike_rate": 100.0
+      },
+      "b_car": {
+        "avg": 31.84,
+        "sr": 136.42
+      },
+      "b_f": [
+        47,
+        6,
+        14
+      ],
+      "w_f": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "Q de Kock",
+      "bat_t": "South Africa",
+      "bowl": "R Ravindra",
+      "bowl_t": "New Zealand",
+      "v": "bowler",
+      "vs_t": {
+        "runs": 54,
+        "balls": 54,
+        "dismissals": 4,
+        "average": 13.5,
+        "strike_rate": 100.0
+      },
+      "b_car": {
+        "avg": 31.84,
+        "sr": 136.42
+      },
+      "b_f": [
+        47,
+        6,
+        14
+      ],
+      "w_f": [
+        3,
+        4,
+        1
+      ]
+    },
+    {
+      "bat": "Q de Kock",
+      "bat_t": "South Africa",
+      "bowl": "JDS Neesham",
+      "bowl_t": "New Zealand",
+      "v": "bowler",
+      "vs_t": {
+        "runs": 54,
+        "balls": 54,
+        "dismissals": 4,
+        "average": 13.5,
+        "strike_rate": 100.0
+      },
+      "b_car": {
+        "avg": 31.84,
+        "sr": 136.42
+      },
+      "b_f": [
+        47,
+        6,
+        14
+      ],
+      "w_f": [
+        1,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "Q de Kock",
+      "bat_t": "South Africa",
+      "bowl": "CE McConchie",
+      "bowl_t": "New Zealand",
+      "v": "bowler",
+      "vs_t": {
+        "runs": 54,
+        "balls": 54,
+        "dismissals": 4,
+        "average": 13.5,
+        "strike_rate": 100.0
+      },
+      "b_car": {
+        "avg": 31.84,
+        "sr": 136.42
+      },
+      "b_f": [
+        47,
+        6,
+        14
+      ],
+      "w_f": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "Q de Kock",
+      "bat_t": "South Africa",
+      "bowl": "FH Allen",
+      "bowl_t": "New Zealand",
+      "v": "bowler",
+      "vs_t": {
+        "runs": 54,
+        "balls": 54,
+        "dismissals": 4,
+        "average": 13.5,
+        "strike_rate": 100.0
+      },
+      "b_car": {
+        "avg": 31.84,
+        "sr": 136.42
+      },
+      "b_f": [
+        47,
+        6,
+        14
+      ]
+    },
+    {
+      "bat": "Q de Kock",
+      "bat_t": "South Africa",
+      "bowl": "TL Seifert",
+      "bowl_t": "New Zealand",
+      "v": "bowler",
+      "vs_t": {
+        "runs": 54,
+        "balls": 54,
+        "dismissals": 4,
+        "average": 13.5,
+        "strike_rate": 100.0
+      },
+      "b_car": {
+        "avg": 31.84,
+        "sr": 136.42
+      },
+      "b_f": [
+        47,
+        6,
+        14
+      ]
+    },
+    {
+      "bat": "AK Markram",
+      "bat_t": "South Africa",
+      "bowl": "CE McConchie",
+      "bowl_t": "New Zealand",
+      "v": "batsman",
+      "vs_t": {
+        "runs": 86,
+        "balls": 48,
+        "dismissals": 0,
+        "average": 86.0,
+        "strike_rate": 179.17
+      },
+      "b_car": {
+        "avg": 31.08,
+        "sr": 143.73
+      },
+      "b_f": [
+        82,
+        4,
+        28
+      ],
+      "w_f": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "AK Markram",
+      "bat_t": "South Africa",
+      "bowl": "FH Allen",
+      "bowl_t": "New Zealand",
+      "v": "batsman",
+      "vs_t": {
+        "runs": 86,
+        "balls": 48,
+        "dismissals": 0,
+        "average": 86.0,
+        "strike_rate": 179.17
+      },
+      "b_car": {
+        "avg": 31.08,
+        "sr": 143.73
+      },
+      "b_f": [
+        82,
+        4,
+        28
+      ]
+    },
+    {
+      "bat": "AK Markram",
+      "bat_t": "South Africa",
+      "bowl": "TL Seifert",
+      "bowl_t": "New Zealand",
+      "v": "batsman",
+      "vs_t": {
+        "runs": 86,
+        "balls": 48,
+        "dismissals": 0,
+        "average": 86.0,
+        "strike_rate": 179.17
+      },
+      "b_car": {
+        "avg": 31.08,
+        "sr": 143.73
+      },
+      "b_f": [
+        82,
+        4,
+        28
+      ]
+    },
+    {
+      "bat": "L Ngidi",
+      "bat_t": "South Africa",
+      "bowl": "MJ Henry",
+      "bowl_t": "New Zealand",
+      "v": "neutral",
+      "vs_t": {
+        "runs": 0,
+        "balls": 1,
+        "dismissals": 0,
+        "average": 0.0,
+        "strike_rate": 0.0
+      },
+      "b_car": {
+        "avg": 11.8,
+        "sr": 80.82
+      },
+      "w_f": [
+        1,
+        2,
+        1
+      ]
+    },
+    {
+      "bat": "L Ngidi",
+      "bat_t": "South Africa",
+      "bowl": "MJ Santner",
+      "bowl_t": "New Zealand",
+      "v": "neutral",
+      "vs_t": {
+        "runs": 0,
+        "balls": 1,
+        "dismissals": 0,
+        "average": 0.0,
+        "strike_rate": 0.0
+      },
+      "b_car": {
+        "avg": 11.8,
+        "sr": 80.82
+      },
+      "w_f": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "L Ngidi",
+      "bat_t": "South Africa",
+      "bowl": "R Ravindra",
+      "bowl_t": "New Zealand",
+      "v": "neutral",
+      "vs_t": {
+        "runs": 0,
+        "balls": 1,
+        "dismissals": 0,
+        "average": 0.0,
+        "strike_rate": 0.0
+      },
+      "b_car": {
+        "avg": 11.8,
+        "sr": 80.82
+      },
+      "w_f": [
+        3,
+        4,
+        1
+      ]
+    },
+    {
+      "bat": "L Ngidi",
+      "bat_t": "South Africa",
+      "bowl": "JDS Neesham",
+      "bowl_t": "New Zealand",
+      "v": "neutral",
+      "vs_t": {
+        "runs": 0,
+        "balls": 1,
+        "dismissals": 0,
+        "average": 0.0,
+        "strike_rate": 0.0
+      },
+      "b_car": {
+        "avg": 11.8,
+        "sr": 80.82
+      },
+      "w_f": [
+        1,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "L Ngidi",
+      "bat_t": "South Africa",
+      "bowl": "LH Ferguson",
+      "bowl_t": "New Zealand",
+      "v": "neutral",
+      "vs_t": {
+        "runs": 0,
+        "balls": 1,
+        "dismissals": 0,
+        "average": 0.0,
+        "strike_rate": 0.0
+      },
+      "b_car": {
+        "avg": 11.8,
+        "sr": 80.82
+      },
+      "w_f": [
+        1,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "L Ngidi",
+      "bat_t": "South Africa",
+      "bowl": "CE McConchie",
+      "bowl_t": "New Zealand",
+      "v": "neutral",
+      "vs_t": {
+        "runs": 0,
+        "balls": 1,
+        "dismissals": 0,
+        "average": 0.0,
+        "strike_rate": 0.0
+      },
+      "b_car": {
+        "avg": 11.8,
+        "sr": 80.82
+      },
+      "w_f": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "L Ngidi",
+      "bat_t": "South Africa",
+      "bowl": "FH Allen",
+      "bowl_t": "New Zealand",
+      "v": "neutral",
+      "vs_t": {
+        "runs": 0,
+        "balls": 1,
+        "dismissals": 0,
+        "average": 0.0,
+        "strike_rate": 0.0
+      },
+      "b_car": {
+        "avg": 11.8,
+        "sr": 80.82
+      }
+    },
+    {
+      "bat": "L Ngidi",
+      "bat_t": "South Africa",
+      "bowl": "TL Seifert",
+      "bowl_t": "New Zealand",
+      "v": "neutral",
+      "vs_t": {
+        "runs": 0,
+        "balls": 1,
+        "dismissals": 0,
+        "average": 0.0,
+        "strike_rate": 0.0
+      },
+      "b_car": {
+        "avg": 11.8,
+        "sr": 80.82
+      }
+    },
+    {
+      "bat": "DA Miller",
+      "bat_t": "South Africa",
+      "bowl": "CE McConchie",
+      "bowl_t": "New Zealand",
+      "v": "bowler",
+      "vs_t": {
+        "runs": 122,
+        "balls": 82,
+        "dismissals": 4,
+        "average": 30.5,
+        "strike_rate": 148.78
+      },
+      "b_car": {
+        "avg": 34.81,
+        "sr": 136.68
+      },
+      "b_f": [
+        63,
+        24,
+        39
+      ],
+      "w_f": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "DA Miller",
+      "bat_t": "South Africa",
+      "bowl": "FH Allen",
+      "bowl_t": "New Zealand",
+      "v": "bowler",
+      "vs_t": {
+        "runs": 122,
+        "balls": 82,
+        "dismissals": 4,
+        "average": 30.5,
+        "strike_rate": 148.78
+      },
+      "b_car": {
+        "avg": 34.81,
+        "sr": 136.68
+      },
+      "b_f": [
+        63,
+        24,
+        39
+      ]
+    },
+    {
+      "bat": "DA Miller",
+      "bat_t": "South Africa",
+      "bowl": "TL Seifert",
+      "bowl_t": "New Zealand",
+      "v": "bowler",
+      "vs_t": {
+        "runs": 122,
+        "balls": 82,
+        "dismissals": 4,
+        "average": 30.5,
+        "strike_rate": 148.78
+      },
+      "b_car": {
+        "avg": 34.81,
+        "sr": 136.68
+      },
+      "b_f": [
+        63,
+        24,
+        39
+      ]
+    },
+    {
+      "bat": "C Bosch",
+      "bat_t": "South Africa",
+      "bowl": "R Ravindra",
+      "bowl_t": "New Zealand",
+      "v": "neutral",
+      "vs_t": {
+        "runs": 11,
+        "balls": 6,
+        "dismissals": 1,
+        "average": 11.0,
+        "strike_rate": 183.33
+      },
+      "b_car": {
+        "avg": 14.12,
+        "sr": 104.63
+      },
+      "b_f": [
+        5,
+        2
+      ],
+      "w_f": [
+        3,
+        4,
+        1
+      ]
+    },
+    {
+      "bat": "C Bosch",
+      "bat_t": "South Africa",
+      "bowl": "JDS Neesham",
+      "bowl_t": "New Zealand",
+      "v": "neutral",
+      "vs_t": {
+        "runs": 11,
+        "balls": 6,
+        "dismissals": 1,
+        "average": 11.0,
+        "strike_rate": 183.33
+      },
+      "b_car": {
+        "avg": 14.12,
+        "sr": 104.63
+      },
+      "b_f": [
+        5,
+        2
+      ],
+      "w_f": [
+        1,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "C Bosch",
+      "bat_t": "South Africa",
+      "bowl": "LH Ferguson",
+      "bowl_t": "New Zealand",
+      "v": "neutral",
+      "vs_t": {
+        "runs": 11,
+        "balls": 6,
+        "dismissals": 1,
+        "average": 11.0,
+        "strike_rate": 183.33
+      },
+      "b_car": {
+        "avg": 14.12,
+        "sr": 104.63
+      },
+      "b_f": [
+        5,
+        2
+      ],
+      "w_f": [
+        1,
+        0,
+        1
+      ]
+    }
+  ]
+}

@@ -1,0 +1,338 @@
+{
+    "match_context": {
+        "match_id": "1512765",
+        "date": "26-02-2026",
+        "tournament": "2025/26",
+        "venue": "Narendra Modi Stadium, Ahmedabad",
+        "stage": "ICC Men's T20 World Cup",
+        "Teams": {
+            "West Indies": {
+                "captain": "SD Hope",
+                "playing_xi_count": 11
+            },
+            "South Africa": {
+                "captain": "AK Markram",
+                "playing_xi_count": 8
+            }
+        }
+    },
+    "Match_Result": {
+        "summary": "South Africa won by 9 wickets",
+        "winner": "South Africa",
+        "margin": 9,
+        "margin_type": "wickets"
+    },
+    "Scorecard_Highlights": {
+        "Key_Support_Performers": [],
+        "Career_vs_Match_Bowling": [],
+        "Bowling_Standouts": {
+            "Economical_Spells": [],
+            "Expensive_Spells": [],
+            "High_Economy_No_Baseline": [
+                {
+                    "player": "M Jansen",
+                    "team": "South Africa",
+                    "overs": 4.0,
+                    "runs": 50,
+                    "wickets": 0,
+                    "econ": 12.5,
+                    "score": 15.26,
+                    "bowling_baseline": {
+                        "career_wickets": 0,
+                        "career_economy": 0.0,
+                        "career_sr": 0.0,
+                        "career_avg": 0.0,
+                        "best_bowling": "N/A",
+                        "matches": 0,
+                        "source": "none",
+                        "baseline_available": false
+                    }
+                },
+                {
+                    "player": "G Motie",
+                    "team": "West Indies",
+                    "overs": 2.0,
+                    "runs": 24,
+                    "wickets": 0,
+                    "econ": 12.0,
+                    "score": 15.9,
+                    "bowling_baseline": {
+                        "career_wickets": 0,
+                        "career_economy": 0.0,
+                        "career_sr": 0.0,
+                        "career_avg": 0.0,
+                        "best_bowling": "N/A",
+                        "matches": 0,
+                        "source": "none",
+                        "baseline_available": false
+                    }
+                }
+            ]
+        },
+        "Significant_Collapses": []
+    },
+    "Innings_Metrics": [
+        {
+            "innings": 1,
+            "team": "West Indies",
+            "total_runs": 176,
+            "total_wickets": 8,
+            "balls_faced": 120,
+            "overs_faced": 20.0,
+            "phase_analysis": {
+                "Powerplay": {
+                    "runs": 52,
+                    "wkts": 4,
+                    "rr": 8.67
+                },
+                "Middle": {
+                    "runs": 66,
+                    "wkts": 3,
+                    "rr": 7.33
+                },
+                "Death": {
+                    "runs": 58,
+                    "wkts": 1,
+                    "rr": 11.6
+                }
+            }
+        },
+        {
+            "innings": 2,
+            "team": "South Africa",
+            "total_runs": 177,
+            "total_wickets": 1,
+            "balls_faced": 97,
+            "overs_faced": 16.1,
+            "phase_analysis": {
+                "Powerplay": {
+                    "runs": 69,
+                    "wkts": 0,
+                    "rr": 11.5
+                },
+                "Middle": {
+                    "runs": 94,
+                    "wkts": 1,
+                    "rr": 10.44
+                },
+                "Death": {
+                    "runs": 14,
+                    "wkts": 0,
+                    "rr": 12.0
+                }
+            },
+            "pressure_index": 21.0,
+            "target": 177
+        }
+    ],
+    "Detailed_Impact_Analysis": [
+        {
+            "player": "L Ngidi",
+            "team": "South Africa",
+            "overs": 4.0,
+            "runs": 30,
+            "wickets": 3,
+            "econ": 7.5,
+            "score": 115.44,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-30r-3w"
+        },
+        {
+            "player": "AK Markram",
+            "team": "South Africa",
+            "runs": 82,
+            "balls": 48,
+            "sr": 170.83,
+            "fours": 7,
+            "sixes": 4,
+            "win_contribution_percent": 46.3,
+            "score": 109.24,
+            "role": "batting",
+            "match_stats": "82(48)",
+            "baseline": {
+                "avg": 31.08,
+                "sr": 143.73,
+                "matches": 68,
+                "source": "t20_master",
+                "baseline_available": true
+            }
+        },
+        {
+            "player": "K Rabada",
+            "team": "South Africa",
+            "overs": 4.0,
+            "runs": 22,
+            "wickets": 2,
+            "econ": 5.5,
+            "score": 94.69,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-22r-2w"
+        },
+        {
+            "player": "C Bosch",
+            "team": "South Africa",
+            "overs": 4.0,
+            "runs": 31,
+            "wickets": 2,
+            "econ": 7.75,
+            "score": 84.62,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-31r-2w"
+        },
+        {
+            "player": "Q de Kock",
+            "team": "South Africa",
+            "runs": 47,
+            "balls": 24,
+            "sr": 195.83,
+            "fours": 4,
+            "sixes": 4,
+            "win_contribution_percent": 26.6,
+            "score": 78.23,
+            "role": "batting",
+            "match_stats": "47(24)",
+            "baseline": {
+                "avg": 31.84,
+                "sr": 136.42,
+                "matches": 101,
+                "source": "t20_master",
+                "baseline_available": true
+            }
+        },
+        {
+            "player": "R Shepherd",
+            "team": "West Indies",
+            "runs": 52,
+            "balls": 38,
+            "sr": 136.84,
+            "fours": 3,
+            "sixes": 4,
+            "win_contribution_percent": 29.5,
+            "score": 73.82,
+            "role": "batting",
+            "match_stats": "52(38)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "JO Holder",
+            "team": "West Indies",
+            "runs": 49,
+            "balls": 32,
+            "sr": 153.12,
+            "fours": 4,
+            "sixes": 3,
+            "win_contribution_percent": 27.8,
+            "score": 73.42,
+            "role": "batting",
+            "match_stats": "49(32)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "RD Rickelton",
+            "team": "South Africa",
+            "runs": 45,
+            "balls": 28,
+            "sr": 160.71,
+            "fours": 4,
+            "sixes": 2,
+            "win_contribution_percent": 25.4,
+            "score": 70.63,
+            "role": "batting",
+            "match_stats": "45(28)",
+            "baseline": {
+                "avg": 26.26,
+                "sr": 141.78,
+                "matches": 25,
+                "source": "t20_master",
+                "baseline_available": true
+            }
+        },
+        {
+            "player": "SD Hope",
+            "team": "West Indies",
+            "runs": 16,
+            "balls": 6,
+            "sr": 266.67,
+            "fours": 1,
+            "sixes": 2,
+            "win_contribution_percent": 9.1,
+            "score": 58.53,
+            "role": "batting",
+            "match_stats": "16(6)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "BA King",
+            "team": "West Indies",
+            "runs": 21,
+            "balls": 11,
+            "sr": 190.91,
+            "fours": 5,
+            "sixes": 0,
+            "win_contribution_percent": 11.9,
+            "score": 51.45,
+            "role": "batting",
+            "match_stats": "21(11)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        }
+    ],
+    "Tactical_Post_Match_Analysis": [
+        "South Africa's victory was anchored by AK Markram, who contributed 46.3% of the team's runs.",
+        "Defensive pressure was sustained by L Ngidi, finishing with an impact score of 115.44.",
+        "West Indies lost 4 wickets in Powerplay, failing to build a stable foundation."
+    ]
+}

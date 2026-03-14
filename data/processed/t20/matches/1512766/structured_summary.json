@@ -1,0 +1,470 @@
+{
+    "match_context": {
+        "match_id": "1512766",
+        "date": "26-02-2026",
+        "tournament": "2025/26",
+        "venue": "MA Chidambaram Stadium, Chepauk, Chennai",
+        "stage": "ICC Men's T20 World Cup",
+        "Teams": {
+            "India": {
+                "captain": "SA Yadav",
+                "playing_xi_count": 11
+            },
+            "Zimbabwe": {
+                "captain": "BJ Bennett",
+                "playing_xi_count": 11
+            }
+        }
+    },
+    "Match_Result": {
+        "summary": "India won by 72 runs",
+        "winner": "India",
+        "margin": 72,
+        "margin_type": "runs"
+    },
+    "Scorecard_Highlights": {
+        "Key_Support_Performers": [
+            {
+                "player": "SV Samson",
+                "team": "India",
+                "runs": 24,
+                "balls": 15,
+                "sr": 160.0,
+                "fours": 1,
+                "sixes": 2,
+                "win_contribution_percent": 9.4,
+                "score": 48.65
+            },
+            {
+                "player": "T Marumani",
+                "team": "Zimbabwe",
+                "runs": 20,
+                "balls": 21,
+                "sr": 95.24,
+                "fours": 0,
+                "sixes": 2,
+                "win_contribution_percent": 10.9,
+                "score": 34.67
+            }
+        ],
+        "Career_vs_Match_Bowling": [
+            {
+                "player": "Arshdeep Singh",
+                "team": "India",
+                "match_figures": "4.0-24-3",
+                "match_economy": 6.0,
+                "career_economy": 8.75,
+                "economy_delta": -2.75,
+                "match_sr": 8.0,
+                "career_sr": 13.46,
+                "career_wickets": 120,
+                "career_best": "5/51",
+                "verdict": "Exceptional - 2.75 below career economy (8.75)"
+            },
+            {
+                "player": "HH Pandya",
+                "team": "India",
+                "match_figures": "3.0-21-0",
+                "match_economy": 7.0,
+                "career_economy": 8.49,
+                "economy_delta": -1.49,
+                "match_sr": null,
+                "career_sr": 19.4,
+                "career_wickets": 111,
+                "career_best": "4/38",
+                "verdict": "On par with career economy (8.49)"
+            },
+            {
+                "player": "JJ Bumrah",
+                "team": "India",
+                "match_figures": "3.0-21-0",
+                "match_economy": 7.0,
+                "career_economy": 6.85,
+                "economy_delta": 0.15,
+                "match_sr": null,
+                "career_sr": 17.08,
+                "career_wickets": 113,
+                "career_best": "3/23",
+                "verdict": "On par with career economy (6.85)"
+            },
+            {
+                "player": "AR Patel",
+                "team": "India",
+                "match_figures": "4.0-36-1",
+                "match_economy": 9.0,
+                "career_economy": 7.59,
+                "economy_delta": 1.41,
+                "match_sr": 24.0,
+                "career_sr": 17.7,
+                "career_wickets": 88,
+                "career_best": "3/18",
+                "verdict": "On par with career economy (7.59)"
+            },
+            {
+                "player": "CV Varun",
+                "team": "India",
+                "match_figures": "4.0-36-1",
+                "match_economy": 9.0,
+                "career_economy": 7.36,
+                "economy_delta": 1.64,
+                "match_sr": 24.0,
+                "career_sr": 12.97,
+                "career_wickets": 71,
+                "career_best": "5/24",
+                "verdict": "On par with career economy (7.36)"
+            },
+            {
+                "player": "S Dube",
+                "team": "India",
+                "match_figures": "2.0-46-1",
+                "match_economy": 23.0,
+                "career_economy": 9.74,
+                "economy_delta": 13.26,
+                "match_sr": 12.0,
+                "career_sr": 16.79,
+                "career_wickets": 28,
+                "career_best": "3/31",
+                "verdict": "Expensive - 13.26 above career economy (9.74)"
+            }
+        ],
+        "Bowling_Standouts": {
+            "Economical_Spells": [
+                {
+                    "player": "Arshdeep Singh",
+                    "team": "India",
+                    "match_figures": "4.0-24-3",
+                    "match_economy": 6.0,
+                    "career_economy": 8.75,
+                    "economy_delta": -2.75,
+                    "match_sr": 8.0,
+                    "career_sr": 13.46,
+                    "career_wickets": 120,
+                    "career_best": "5/51",
+                    "verdict": "Exceptional - 2.75 below career economy (8.75)"
+                }
+            ],
+            "Expensive_Spells": [
+                {
+                    "player": "S Dube",
+                    "team": "India",
+                    "match_figures": "2.0-46-1",
+                    "match_economy": 23.0,
+                    "career_economy": 9.74,
+                    "economy_delta": 13.26,
+                    "match_sr": 12.0,
+                    "career_sr": 16.79,
+                    "career_wickets": 28,
+                    "career_best": "3/31",
+                    "verdict": "Expensive - 13.26 above career economy (9.74)"
+                }
+            ],
+            "High_Economy_No_Baseline": [
+                {
+                    "player": "TT Maposa",
+                    "team": "Zimbabwe",
+                    "overs": 2.0,
+                    "runs": 40,
+                    "wickets": 1,
+                    "econ": 20.0,
+                    "score": 40.27,
+                    "bowling_baseline": {
+                        "career_wickets": 0,
+                        "career_economy": 0.0,
+                        "career_sr": 0.0,
+                        "career_avg": 0.0,
+                        "best_bowling": "N/A",
+                        "matches": 0,
+                        "source": "none",
+                        "baseline_available": false
+                    }
+                },
+                {
+                    "player": "R Ngarava",
+                    "team": "Zimbabwe",
+                    "overs": 4.0,
+                    "runs": 66,
+                    "wickets": 1,
+                    "econ": 16.5,
+                    "score": 42.45,
+                    "bowling_baseline": {
+                        "career_wickets": 0,
+                        "career_economy": 0.0,
+                        "career_sr": 0.0,
+                        "career_avg": 0.0,
+                        "best_bowling": "N/A",
+                        "matches": 0,
+                        "source": "none",
+                        "baseline_available": false
+                    }
+                }
+            ]
+        },
+        "Significant_Collapses": []
+    },
+    "Innings_Metrics": [
+        {
+            "innings": 1,
+            "team": "India",
+            "total_runs": 256,
+            "total_wickets": 4,
+            "balls_faced": 120,
+            "overs_faced": 20.0,
+            "phase_analysis": {
+                "Powerplay": {
+                    "runs": 80,
+                    "wkts": 1,
+                    "rr": 13.33
+                },
+                "Middle": {
+                    "runs": 96,
+                    "wkts": 3,
+                    "rr": 10.67
+                },
+                "Death": {
+                    "runs": 80,
+                    "wkts": 0,
+                    "rr": 16.0
+                }
+            }
+        },
+        {
+            "innings": 2,
+            "team": "Zimbabwe",
+            "total_runs": 184,
+            "total_wickets": 6,
+            "balls_faced": 120,
+            "overs_faced": 20.0,
+            "phase_analysis": {
+                "Powerplay": {
+                    "runs": 44,
+                    "wkts": 0,
+                    "rr": 7.33
+                },
+                "Middle": {
+                    "runs": 87,
+                    "wkts": 2,
+                    "rr": 9.67
+                },
+                "Death": {
+                    "runs": 53,
+                    "wkts": 4,
+                    "rr": 10.6
+                }
+            },
+            "pressure_index": 78.0,
+            "target": 257
+        }
+    ],
+    "Detailed_Impact_Analysis": [
+        {
+            "player": "Arshdeep Singh",
+            "team": "India",
+            "overs": 4.0,
+            "runs": 24,
+            "wickets": 3,
+            "econ": 6.0,
+            "score": 124.24,
+            "bowling_baseline": {
+                "career_wickets": 120,
+                "career_economy": 8.75,
+                "career_sr": 13.46,
+                "career_avg": 19.63,
+                "best_bowling": "5/51",
+                "matches": 76,
+                "source": "t20_bowling_master",
+                "baseline_available": true
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-24r-3w"
+        },
+        {
+            "player": "BJ Bennett",
+            "team": "Zimbabwe",
+            "runs": 97,
+            "balls": 63,
+            "sr": 153.97,
+            "fours": 8,
+            "sixes": 6,
+            "win_contribution_percent": 52.7,
+            "score": 120.72,
+            "role": "batting",
+            "match_stats": "97(63)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "Tilak Varma",
+            "team": "India",
+            "runs": 44,
+            "balls": 16,
+            "sr": 275.0,
+            "fours": 3,
+            "sixes": 4,
+            "win_contribution_percent": 17.2,
+            "score": 86.37,
+            "role": "batting",
+            "match_stats": "44(16)",
+            "baseline": {
+                "avg": 46.81,
+                "sr": 136.65,
+                "matches": 41,
+                "source": "t20_master",
+                "baseline_available": true
+            }
+        },
+        {
+            "player": "Abhishek Sharma",
+            "team": "India",
+            "runs": 55,
+            "balls": 34,
+            "sr": 161.76,
+            "fours": 4,
+            "sixes": 4,
+            "win_contribution_percent": 21.5,
+            "score": 79.92,
+            "role": "batting",
+            "match_stats": "55(34)",
+            "baseline": {
+                "avg": 35.46,
+                "sr": 184.27,
+                "matches": 41,
+                "source": "t20_master",
+                "baseline_available": true
+            }
+        },
+        {
+            "player": "HH Pandya",
+            "team": "India",
+            "runs": 50,
+            "balls": 26,
+            "sr": 192.31,
+            "fours": 2,
+            "sixes": 4,
+            "win_contribution_percent": 19.5,
+            "score": 79.63,
+            "role": "batting",
+            "match_stats": "50(26)",
+            "baseline": {
+                "avg": 28.12,
+                "sr": 138.02,
+                "matches": 103,
+                "source": "t20_master",
+                "baseline_available": true
+            }
+        },
+        {
+            "player": "SA Yadav",
+            "team": "India",
+            "runs": 33,
+            "balls": 13,
+            "sr": 253.85,
+            "fours": 3,
+            "sixes": 2,
+            "win_contribution_percent": 12.9,
+            "score": 72.11,
+            "role": "batting",
+            "match_stats": "33(13)",
+            "baseline": {
+                "avg": 38.51,
+                "sr": 156.8,
+                "matches": 101,
+                "source": "t20_master",
+                "baseline_available": true
+            }
+        },
+        {
+            "player": "Ishan Kishan",
+            "team": "India",
+            "runs": 38,
+            "balls": 24,
+            "sr": 158.33,
+            "fours": 4,
+            "sixes": 1,
+            "win_contribution_percent": 14.8,
+            "score": 62.39,
+            "role": "batting",
+            "match_stats": "38(24)",
+            "baseline": {
+                "avg": 29.68,
+                "sr": 138.02,
+                "matches": 41,
+                "source": "t20_master",
+                "baseline_available": true
+            }
+        },
+        {
+            "player": "Sikandar Raza",
+            "team": "Zimbabwe",
+            "runs": 31,
+            "balls": 21,
+            "sr": 147.62,
+            "fours": 2,
+            "sixes": 2,
+            "win_contribution_percent": 16.8,
+            "score": 53.74,
+            "role": "batting",
+            "match_stats": "31(21)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "AR Patel",
+            "team": "India",
+            "overs": 4.0,
+            "runs": 36,
+            "wickets": 1,
+            "econ": 9.0,
+            "score": 52.83,
+            "bowling_baseline": {
+                "career_wickets": 88,
+                "career_economy": 7.59,
+                "career_sr": 17.7,
+                "career_avg": 22.41,
+                "best_bowling": "3/18",
+                "matches": 82,
+                "source": "t20_bowling_master",
+                "baseline_available": true
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-36r-1w"
+        },
+        {
+            "player": "CV Varun",
+            "team": "India",
+            "overs": 4.0,
+            "runs": 36,
+            "wickets": 1,
+            "econ": 9.0,
+            "score": 52.83,
+            "bowling_baseline": {
+                "career_wickets": 71,
+                "career_economy": 7.36,
+                "career_sr": 12.97,
+                "career_avg": 15.9,
+                "best_bowling": "5/24",
+                "matches": 41,
+                "source": "t20_bowling_master",
+                "baseline_available": true
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-36r-1w"
+        }
+    ],
+    "Tactical_Post_Match_Analysis": [
+        "India's victory was anchored by Tilak Varma, who contributed 17.2% of the team's runs.",
+        "Defensive pressure was sustained by Arshdeep Singh, finishing with an impact score of 124.24.",
+        "Arshdeep Singh was outstanding with the ball — economy 6.0 vs career avg 8.75 (delta: -2.75). A match-defining spell.",
+        "S Dube struggled with economy 23.0 vs career avg 9.74 (+13.26) — an expensive outing.",
+        "High-scoring finish by India in Death Overs (RR: 16.0) shifted match momentum."
+    ]
+}

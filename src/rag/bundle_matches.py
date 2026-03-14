@@ -237,8 +237,21 @@ def bundle_match(match_id, data_dir="d:/CricAI/data"):
     # 5. Final Bundle
     winner = m_info.get('winner')
     loser = next((i['team'] for i in innings_summary if i['team'] != winner), "N/A")
-    m_runs = int(m_info.get('winner_runs', 0)) if not pd.isna(m_info.get('winner_runs')) else None
-    m_wkts = int(m_info.get('winner_wickets', 0)) if not pd.isna(m_info.get('winner_wickets')) else None
+
+    def _safe_int(val, default=0):
+        """Convert val to int, tolerating NaN and values like \"'5'\" (quoted strings in parquet)."""
+        try:
+            if pd.isna(val):
+                return None
+        except (TypeError, ValueError):
+            pass
+        try:
+            return int(str(val).strip().strip("'\""))
+        except (ValueError, TypeError):
+            return default
+
+    m_runs = _safe_int(m_info.get('winner_runs'))
+    m_wkts = _safe_int(m_info.get('winner_wickets'))
     
     bundle = {
         "match_id": match_id,

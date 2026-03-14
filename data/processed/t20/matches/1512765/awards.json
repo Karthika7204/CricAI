@@ -1,0 +1,93 @@
+{
+    "match_id": "1512765",
+    "winner": "South Africa",
+    "loser": "West Indies",
+    "awards": {
+        "player_of_the_match": {
+            "name": "AK Markram",
+            "team": "South Africa",
+            "impact_score": 145.0,
+            "breakdown": {
+                "batting": 145.0,
+                "bowling": 0.0,
+                "fielding": 0.0,
+                "pressure_multiplier": 1.0
+            },
+            "key_stats": {
+                "batting": "82(48) SR:170.83"
+            }
+        },
+        "best_batter": {
+            "name": "AK Markram",
+            "team": "South Africa",
+            "batting_impact": 145.0,
+            "stats": {
+                "runs": 82,
+                "balls": 48,
+                "sr": 170.83,
+                "fours": 7,
+                "sixes": 4
+            }
+        },
+        "best_bowler": {
+            "name": "K Rabada",
+            "team": "South Africa",
+            "bowling_impact": 95,
+            "stats": {
+                "overs": 4.0,
+                "wickets": 2,
+                "econ": 5.5
+            }
+        },
+        "game_changer": {
+            "name": "AK Markram",
+            "team": "South Africa",
+            "reason": "SR 170.83 with 4 sixes",
+            "key_stats": {
+                "batting": "82(48) SR:170.83"
+            }
+        },
+        "pressure_performer": {
+            "name": "AK Markram",
+            "team": "South Africa",
+            "pressure_multiplier": 1.0,
+            "reason": "Chasing team batter under pressure | Attacking SR 170.83 under pressure",
+            "key_stats": {
+                "batting": "82(48) SR:170.83"
+            }
+        },
+        "emerging_player": {
+            "name": "R Shepherd",
+            "team": "West Indies",
+            "reason": "Outperformed team average by 3.18x",
+            "key_stats": {
+                "batting": "52(38) SR:136.84",
+                "bowling": "2.0ov-0wkt econ:11.0"
+            }
+        },
+        "fielding_impact": {
+            "name": "L Ngidi",
+            "team": "South Africa",
+            "fielding_proxy_score": 16,
+            "methodology": "Proxy-based: catch attribution (65% T20 wickets are catches) + dot ball pressure bonus + economy-implied fielding support",
+            "reason": "Estimated 2 caught dismissals from 3 wickets",
+            "stats": {
+                "overs": 4.0,
+                "wickets": 3,
+                "econ": 7.5
+            }
+        },
+        "all_rounder_impact": {
+            "name": "RL Chase",
+            "team": "West Indies",
+            "all_rounder_score": 12.0,
+            "stats": {
+                "runs": 2,
+                "sr": 100.0,
+                "overs": 4.0,
+                "wickets": 1,
+                "econ": 11.5
+            }
+        }
+    }
+}

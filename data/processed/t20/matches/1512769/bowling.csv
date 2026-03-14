@@ -1,0 +1,14 @@
+match_id,date,innings,team,player,overs,balls_bowled,wickets,runs_conceded,economy,maidens,wides,no_balls
+1512769,01-03-2026,1,South Africa,KT Maphaka,4.0,24,2,21,5.25,0,1,0
+1512769,01-03-2026,1,South Africa,C Bosch,4.0,24,2,40,10.0,0,0,0
+1512769,01-03-2026,1,South Africa,L Ngidi,4.0,24,1,29,7.25,0,1,1
+1512769,01-03-2026,1,South Africa,GF Linde,3.0,18,1,22,7.33,0,0,0
+1512769,01-03-2026,1,South Africa,A Nortje,4.0,24,1,30,7.5,0,1,0
+1512769,01-03-2026,1,South Africa,AK Markram,1.0,6,0,11,11.0,0,0,0
+1512769,01-03-2026,2,Zimbabwe,Sikandar Raza,4.0,24,3,29,7.25,0,0,0
+1512769,01-03-2026,2,Zimbabwe,B Evans,3.0,18,1,22,7.33,0,1,0
+1512769,01-03-2026,2,Zimbabwe,B Muzarabani,3.5,23,1,32,8.35,0,0,1
+1512769,01-03-2026,2,Zimbabwe,RP Burl,2.0,12,0,12,6.0,0,1,0
+1512769,01-03-2026,2,Zimbabwe,BJ Bennett,1.0,6,0,9,9.0,0,0,0
+1512769,01-03-2026,2,Zimbabwe,WP Masakadza,2.0,12,0,23,11.5,0,1,0
+1512769,01-03-2026,2,Zimbabwe,AG Cremer,2.0,12,0,27,13.5,0,0,0

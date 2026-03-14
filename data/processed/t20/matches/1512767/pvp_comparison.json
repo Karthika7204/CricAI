@@ -1,0 +1,1481 @@
+{
+  "match_id": "1512767",
+  "team_a": "New Zealand",
+  "team_b": "England",
+  "matchups": [
+    {
+      "bat": "JC Buttler",
+      "bat_t": "England",
+      "bowl": "IS Sodhi",
+      "bowl_t": "New Zealand",
+      "v": "bowler",
+      "h2h": {
+        "balls": 39,
+        "runs": 63,
+        "dismissals": 3,
+        "strike_rate": 161.54
+      },
+      "vs_t": {
+        "runs": 364,
+        "balls": 246,
+        "dismissals": 8,
+        "average": 45.5,
+        "strike_rate": 147.97
+      },
+      "b_f": [
+        0,
+        2,
+        7
+      ],
+      "w_f": [
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "HC Brook",
+      "bat_t": "England",
+      "bowl": "IS Sodhi",
+      "bowl_t": "New Zealand",
+      "v": "bowler",
+      "h2h": {
+        "balls": 26,
+        "runs": 40,
+        "dismissals": 3,
+        "strike_rate": 153.85
+      },
+      "vs_t": {
+        "runs": 227,
+        "balls": 135,
+        "dismissals": 6,
+        "average": 37.83,
+        "strike_rate": 168.15
+      },
+      "b_f": [
+        26,
+        100,
+        14
+      ],
+      "w_f": [
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "MJ Santner",
+      "bat_t": "New Zealand",
+      "bowl": "AU Rashid",
+      "bowl_t": "England",
+      "v": "bowler",
+      "h2h": {
+        "balls": 19,
+        "runs": 20,
+        "dismissals": 2,
+        "strike_rate": 105.26
+      },
+      "vs_t": {
+        "runs": 111,
+        "balls": 88,
+        "dismissals": 7,
+        "average": 15.86,
+        "strike_rate": 126.14
+      },
+      "b_f": [
+        9,
+        47,
+        4
+      ],
+      "w_f": [
+        2,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "TL Seifert",
+      "bat_t": "New Zealand",
+      "bowl": "AU Rashid",
+      "bowl_t": "England",
+      "v": "batsman",
+      "h2h": {
+        "balls": 45,
+        "runs": 67,
+        "dismissals": 1,
+        "strike_rate": 148.89
+      },
+      "vs_t": {
+        "runs": 294,
+        "balls": 213,
+        "dismissals": 11,
+        "average": 26.73,
+        "strike_rate": 138.03
+      },
+      "b_f": [
+        35,
+        8,
+        6
+      ],
+      "w_f": [
+        2,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "FH Allen",
+      "bat_t": "New Zealand",
+      "bowl": "SM Curran",
+      "bowl_t": "England",
+      "v": "bowler",
+      "h2h": {
+        "balls": 13,
+        "runs": 11,
+        "dismissals": 2,
+        "strike_rate": 84.62
+      },
+      "vs_t": {
+        "runs": 139,
+        "balls": 92,
+        "dismissals": 5,
+        "average": 27.8,
+        "strike_rate": 151.09
+      },
+      "b_f": [
+        29,
+        23,
+        21
+      ],
+      "w_f": [
+        0,
+        0,
+        3
+      ]
+    },
+    {
+      "bat": "SM Curran",
+      "bat_t": "England",
+      "bowl": "MJ Santner",
+      "bowl_t": "New Zealand",
+      "v": "bowler",
+      "h2h": {
+        "balls": 13,
+        "runs": 11,
+        "dismissals": 2,
+        "strike_rate": 84.62
+      },
+      "vs_t": {
+        "runs": 103,
+        "balls": 72,
+        "dismissals": 4,
+        "average": 25.75,
+        "strike_rate": 143.06
+      },
+      "b_f": [
+        24,
+        16,
+        11
+      ],
+      "w_f": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "T Banton",
+      "bat_t": "England",
+      "bowl": "MJ Santner",
+      "bowl_t": "New Zealand",
+      "v": "bowler",
+      "h2h": {
+        "balls": 6,
+        "runs": 3,
+        "dismissals": 2,
+        "strike_rate": 50.0
+      },
+      "vs_t": {
+        "runs": 94,
+        "balls": 56,
+        "dismissals": 4,
+        "average": 23.5,
+        "strike_rate": 167.86
+      },
+      "b_f": [
+        33,
+        2,
+        6
+      ],
+      "w_f": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "WG Jacks",
+      "bat_t": "England",
+      "bowl": "IS Sodhi",
+      "bowl_t": "New Zealand",
+      "v": "bowler",
+      "h2h": {
+        "balls": 4,
+        "runs": 1,
+        "dismissals": 2,
+        "strike_rate": 25.0
+      },
+      "vs_t": {
+        "runs": 68,
+        "balls": 47,
+        "dismissals": 4,
+        "average": 17.0,
+        "strike_rate": 144.68
+      },
+      "b_f": [
+        32,
+        28,
+        21
+      ],
+      "w_f": [
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "GD Phillips",
+      "bat_t": "New Zealand",
+      "bowl": "AU Rashid",
+      "bowl_t": "England",
+      "v": "batsman",
+      "h2h": {
+        "balls": 31,
+        "runs": 46,
+        "dismissals": 1,
+        "strike_rate": 148.39
+      },
+      "vs_t": {
+        "runs": 238,
+        "balls": 156,
+        "dismissals": 6,
+        "average": 39.67,
+        "strike_rate": 152.56
+      },
+      "b_f": [
+        39,
+        18,
+        76
+      ],
+      "w_f": [
+        2,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "JC Buttler",
+      "bat_t": "England",
+      "bowl": "MJ Santner",
+      "bowl_t": "New Zealand",
+      "v": "batsman",
+      "h2h": {
+        "balls": 30,
+        "runs": 39,
+        "dismissals": 1,
+        "strike_rate": 130.0
+      },
+      "vs_t": {
+        "runs": 364,
+        "balls": 246,
+        "dismissals": 8,
+        "average": 45.5,
+        "strike_rate": 147.97
+      },
+      "b_f": [
+        0,
+        2,
+        7
+      ],
+      "w_f": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "MJ Santner",
+      "bat_t": "New Zealand",
+      "bowl": "SM Curran",
+      "bowl_t": "England",
+      "v": "bowler",
+      "h2h": {
+        "balls": 22,
+        "runs": 28,
+        "dismissals": 1,
+        "strike_rate": 127.27
+      },
+      "vs_t": {
+        "runs": 111,
+        "balls": 88,
+        "dismissals": 7,
+        "average": 15.86,
+        "strike_rate": 126.14
+      },
+      "b_f": [
+        9,
+        47,
+        4
+      ],
+      "w_f": [
+        0,
+        0,
+        3
+      ]
+    },
+    {
+      "bat": "DJ Mitchell",
+      "bat_t": "New Zealand",
+      "bowl": "AU Rashid",
+      "bowl_t": "England",
+      "v": "batsman",
+      "h2h": {
+        "balls": 19,
+        "runs": 26,
+        "dismissals": 1,
+        "strike_rate": 136.84
+      },
+      "vs_t": {
+        "runs": 150,
+        "balls": 117,
+        "dismissals": 7,
+        "average": 21.43,
+        "strike_rate": 128.21
+      },
+      "b_f": [
+        3,
+        3,
+        32
+      ],
+      "w_f": [
+        2,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "GD Phillips",
+      "bat_t": "New Zealand",
+      "bowl": "SM Curran",
+      "bowl_t": "England",
+      "v": "batsman",
+      "h2h": {
+        "balls": 16,
+        "runs": 20,
+        "dismissals": 1,
+        "strike_rate": 125.0
+      },
+      "vs_t": {
+        "runs": 238,
+        "balls": 156,
+        "dismissals": 6,
+        "average": 39.67,
+        "strike_rate": 152.56
+      },
+      "b_f": [
+        39,
+        18,
+        76
+      ],
+      "w_f": [
+        0,
+        0,
+        3
+      ]
+    },
+    {
+      "bat": "MS Chapman",
+      "bat_t": "New Zealand",
+      "bowl": "LA Dawson",
+      "bowl_t": "England",
+      "v": "batsman",
+      "h2h": {
+        "balls": 15,
+        "runs": 19,
+        "dismissals": 1,
+        "strike_rate": 126.67
+      },
+      "vs_t": {
+        "runs": 159,
+        "balls": 121,
+        "dismissals": 4,
+        "average": 39.75,
+        "strike_rate": 131.4
+      },
+      "b_f": [
+        15,
+        0,
+        48
+      ],
+      "w_f": [
+        1,
+        3,
+        2
+      ]
+    },
+    {
+      "bat": "GD Phillips",
+      "bat_t": "New Zealand",
+      "bowl": "Rehan Ahmed",
+      "bowl_t": "England",
+      "v": "batsman",
+      "h2h": {
+        "balls": 11,
+        "runs": 14,
+        "dismissals": 1,
+        "strike_rate": 127.27
+      },
+      "vs_t": {
+        "runs": 238,
+        "balls": 156,
+        "dismissals": 6,
+        "average": 39.67,
+        "strike_rate": 152.56
+      },
+      "b_f": [
+        39,
+        18,
+        76
+      ],
+      "w_f": [
+        2
+      ]
+    },
+    {
+      "bat": "JG Bethell",
+      "bat_t": "England",
+      "bowl": "MJ Henry",
+      "bowl_t": "New Zealand",
+      "v": "bowler",
+      "h2h": {
+        "balls": 8,
+        "runs": 3,
+        "dismissals": 1,
+        "strike_rate": 37.5
+      },
+      "vs_t": {
+        "runs": 39,
+        "balls": 25,
+        "dismissals": 2,
+        "average": 19.5,
+        "strike_rate": 156.0
+      },
+      "b_f": [
+        21,
+        8,
+        3
+      ],
+      "w_f": [
+        1,
+        2,
+        1
+      ]
+    },
+    {
+      "bat": "TL Seifert",
+      "bat_t": "New Zealand",
+      "bowl": "SM Curran",
+      "bowl_t": "England",
+      "v": "batsman",
+      "h2h": {
+        "balls": 37,
+        "runs": 59,
+        "dismissals": 0,
+        "strike_rate": 159.46
+      },
+      "vs_t": {
+        "runs": 294,
+        "balls": 213,
+        "dismissals": 11,
+        "average": 26.73,
+        "strike_rate": 138.03
+      },
+      "b_f": [
+        35,
+        8,
+        6
+      ],
+      "w_f": [
+        0,
+        0,
+        3
+      ]
+    },
+    {
+      "bat": "DJ Mitchell",
+      "bat_t": "New Zealand",
+      "bowl": "SM Curran",
+      "bowl_t": "England",
+      "v": "bowler",
+      "h2h": {
+        "balls": 4,
+        "runs": 3,
+        "dismissals": 1,
+        "strike_rate": 75.0
+      },
+      "vs_t": {
+        "runs": 150,
+        "balls": 117,
+        "dismissals": 7,
+        "average": 21.43,
+        "strike_rate": 128.21
+      },
+      "b_f": [
+        3,
+        3,
+        32
+      ],
+      "w_f": [
+        0,
+        0,
+        3
+      ]
+    },
+    {
+      "bat": "TL Seifert",
+      "bat_t": "New Zealand",
+      "bowl": "Rehan Ahmed",
+      "bowl_t": "England",
+      "v": "bowler",
+      "h2h": {
+        "balls": 4,
+        "runs": 3,
+        "dismissals": 1,
+        "strike_rate": 75.0
+      },
+      "vs_t": {
+        "runs": 294,
+        "balls": 213,
+        "dismissals": 11,
+        "average": 26.73,
+        "strike_rate": 138.03
+      },
+      "b_f": [
+        35,
+        8,
+        6
+      ],
+      "w_f": [
+        2
+      ]
+    },
+    {
+      "bat": "SM Curran",
+      "bat_t": "England",
+      "bowl": "LH Ferguson",
+      "bowl_t": "New Zealand",
+      "v": "bowler",
+      "h2h": {
+        "balls": 4,
+        "runs": 7,
+        "dismissals": 1,
+        "strike_rate": 175.0
+      },
+      "vs_t": {
+        "runs": 103,
+        "balls": 72,
+        "dismissals": 4,
+        "average": 25.75,
+        "strike_rate": 143.06
+      },
+      "b_f": [
+        24,
+        16,
+        11
+      ],
+      "w_f": [
+        1,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "MJ Santner",
+      "bat_t": "New Zealand",
+      "bowl": "WG Jacks",
+      "bowl_t": "England",
+      "v": "bowler",
+      "h2h": {
+        "balls": 3,
+        "runs": 2,
+        "dismissals": 1,
+        "strike_rate": 66.67
+      },
+      "vs_t": {
+        "runs": 111,
+        "balls": 88,
+        "dismissals": 7,
+        "average": 15.86,
+        "strike_rate": 126.14
+      },
+      "b_f": [
+        9,
+        47,
+        4
+      ],
+      "w_f": [
+        2,
+        0,
+        3
+      ]
+    },
+    {
+      "bat": "AU Rashid",
+      "bat_t": "England",
+      "bowl": "DJ Mitchell",
+      "bowl_t": "New Zealand",
+      "v": "bowler",
+      "h2h": {
+        "balls": 1,
+        "runs": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 27,
+        "balls": 24,
+        "dismissals": 2,
+        "average": 13.5,
+        "strike_rate": 112.5
+      },
+      "b_f": [
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "SM Curran",
+      "bat_t": "England",
+      "bowl": "R Ravindra",
+      "bowl_t": "New Zealand",
+      "v": "bowler",
+      "h2h": {
+        "balls": 1,
+        "runs": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 103,
+        "balls": 72,
+        "dismissals": 4,
+        "average": 25.75,
+        "strike_rate": 143.06
+      },
+      "b_f": [
+        24,
+        16,
+        11
+      ],
+      "w_f": [
+        3,
+        4,
+        1
+      ]
+    },
+    {
+      "bat": "HC Brook",
+      "bat_t": "England",
+      "bowl": "MJ Santner",
+      "bowl_t": "New Zealand",
+      "v": "batsman",
+      "h2h": {
+        "balls": 28,
+        "runs": 39,
+        "dismissals": 0,
+        "strike_rate": 139.29
+      },
+      "vs_t": {
+        "runs": 227,
+        "balls": 135,
+        "dismissals": 6,
+        "average": 37.83,
+        "strike_rate": 168.15
+      },
+      "b_f": [
+        26,
+        100,
+        14
+      ],
+      "w_f": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "MS Chapman",
+      "bat_t": "New Zealand",
+      "bowl": "AU Rashid",
+      "bowl_t": "England",
+      "v": "batsman",
+      "h2h": {
+        "balls": 19,
+        "runs": 27,
+        "dismissals": 0,
+        "strike_rate": 142.11
+      },
+      "vs_t": {
+        "runs": 159,
+        "balls": 121,
+        "dismissals": 4,
+        "average": 39.75,
+        "strike_rate": 131.4
+      },
+      "b_f": [
+        15,
+        0,
+        48
+      ],
+      "w_f": [
+        2,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "JC Buttler",
+      "bat_t": "England",
+      "bowl": "LH Ferguson",
+      "bowl_t": "New Zealand",
+      "v": "batsman",
+      "h2h": {
+        "balls": 16,
+        "runs": 32,
+        "dismissals": 0,
+        "strike_rate": 200.0
+      },
+      "vs_t": {
+        "runs": 364,
+        "balls": 246,
+        "dismissals": 8,
+        "average": 45.5,
+        "strike_rate": 147.97
+      },
+      "b_f": [
+        0,
+        2,
+        7
+      ],
+      "w_f": [
+        1,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "PD Salt",
+      "bat_t": "England",
+      "bowl": "MJ Santner",
+      "bowl_t": "New Zealand",
+      "v": "batsman",
+      "h2h": {
+        "balls": 15,
+        "runs": 18,
+        "dismissals": 0,
+        "strike_rate": 120.0
+      },
+      "vs_t": {
+        "runs": 88,
+        "balls": 61,
+        "dismissals": 2,
+        "average": 44.0,
+        "strike_rate": 144.26
+      },
+      "b_f": [
+        2,
+        0,
+        62
+      ],
+      "w_f": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "HC Brook",
+      "bat_t": "England",
+      "bowl": "LH Ferguson",
+      "bowl_t": "New Zealand",
+      "v": "batsman",
+      "h2h": {
+        "balls": 14,
+        "runs": 18,
+        "dismissals": 0,
+        "strike_rate": 128.57
+      },
+      "vs_t": {
+        "runs": 227,
+        "balls": 135,
+        "dismissals": 6,
+        "average": 37.83,
+        "strike_rate": 168.15
+      },
+      "b_f": [
+        26,
+        100,
+        14
+      ],
+      "w_f": [
+        1,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "FH Allen",
+      "bat_t": "New Zealand",
+      "bowl": "AU Rashid",
+      "bowl_t": "England",
+      "v": "batsman",
+      "h2h": {
+        "balls": 13,
+        "runs": 34,
+        "dismissals": 0,
+        "strike_rate": 261.54
+      },
+      "vs_t": {
+        "runs": 139,
+        "balls": 92,
+        "dismissals": 5,
+        "average": 27.8,
+        "strike_rate": 151.09
+      },
+      "b_f": [
+        29,
+        23,
+        21
+      ],
+      "w_f": [
+        2,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "PD Salt",
+      "bat_t": "England",
+      "bowl": "MJ Henry",
+      "bowl_t": "New Zealand",
+      "v": "batsman",
+      "h2h": {
+        "balls": 13,
+        "runs": 18,
+        "dismissals": 0,
+        "strike_rate": 138.46
+      },
+      "vs_t": {
+        "runs": 88,
+        "balls": 61,
+        "dismissals": 2,
+        "average": 44.0,
+        "strike_rate": 144.26
+      },
+      "b_f": [
+        2,
+        0,
+        62
+      ],
+      "w_f": [
+        1,
+        2,
+        1
+      ]
+    },
+    {
+      "bat": "IS Sodhi",
+      "bat_t": "New Zealand",
+      "bowl": "SM Curran",
+      "bowl_t": "England",
+      "v": "neutral",
+      "h2h": {
+        "balls": 12,
+        "runs": 14,
+        "dismissals": 0,
+        "strike_rate": 116.67
+      },
+      "vs_t": {
+        "runs": 31,
+        "balls": 25,
+        "dismissals": 1,
+        "average": 31.0,
+        "strike_rate": 124.0
+      },
+      "w_f": [
+        0,
+        0,
+        3
+      ]
+    },
+    {
+      "bat": "WG Jacks",
+      "bat_t": "England",
+      "bowl": "LH Ferguson",
+      "bowl_t": "New Zealand",
+      "v": "batsman",
+      "h2h": {
+        "balls": 11,
+        "runs": 30,
+        "dismissals": 0,
+        "strike_rate": 272.73
+      },
+      "vs_t": {
+        "runs": 68,
+        "balls": 47,
+        "dismissals": 4,
+        "average": 17.0,
+        "strike_rate": 144.68
+      },
+      "b_f": [
+        32,
+        28,
+        21
+      ],
+      "w_f": [
+        1,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "HC Brook",
+      "bat_t": "England",
+      "bowl": "MJ Henry",
+      "bowl_t": "New Zealand",
+      "v": "batsman",
+      "h2h": {
+        "balls": 9,
+        "runs": 13,
+        "dismissals": 0,
+        "strike_rate": 144.44
+      },
+      "vs_t": {
+        "runs": 227,
+        "balls": 135,
+        "dismissals": 6,
+        "average": 37.83,
+        "strike_rate": 168.15
+      },
+      "b_f": [
+        26,
+        100,
+        14
+      ],
+      "w_f": [
+        1,
+        2,
+        1
+      ]
+    },
+    {
+      "bat": "MS Chapman",
+      "bat_t": "New Zealand",
+      "bowl": "Rehan Ahmed",
+      "bowl_t": "England",
+      "v": "batsman",
+      "h2h": {
+        "balls": 8,
+        "runs": 9,
+        "dismissals": 0,
+        "strike_rate": 112.5
+      },
+      "vs_t": {
+        "runs": 159,
+        "balls": 121,
+        "dismissals": 4,
+        "average": 39.75,
+        "strike_rate": 131.4
+      },
+      "b_f": [
+        15,
+        0,
+        48
+      ],
+      "w_f": [
+        2
+      ]
+    },
+    {
+      "bat": "WG Jacks",
+      "bat_t": "England",
+      "bowl": "MJ Henry",
+      "bowl_t": "New Zealand",
+      "v": "bowler",
+      "h2h": {
+        "balls": 8,
+        "runs": 8,
+        "dismissals": 0,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 68,
+        "balls": 47,
+        "dismissals": 4,
+        "average": 17.0,
+        "strike_rate": 144.68
+      },
+      "b_f": [
+        32,
+        28,
+        21
+      ],
+      "w_f": [
+        1,
+        2,
+        1
+      ]
+    },
+    {
+      "bat": "SM Curran",
+      "bat_t": "England",
+      "bowl": "MJ Henry",
+      "bowl_t": "New Zealand",
+      "v": "batsman",
+      "h2h": {
+        "balls": 8,
+        "runs": 15,
+        "dismissals": 0,
+        "strike_rate": 187.5
+      },
+      "vs_t": {
+        "runs": 103,
+        "balls": 72,
+        "dismissals": 4,
+        "average": 25.75,
+        "strike_rate": 143.06
+      },
+      "b_f": [
+        24,
+        16,
+        11
+      ],
+      "w_f": [
+        1,
+        2,
+        1
+      ]
+    },
+    {
+      "bat": "MS Chapman",
+      "bat_t": "New Zealand",
+      "bowl": "SM Curran",
+      "bowl_t": "England",
+      "v": "batsman",
+      "h2h": {
+        "balls": 7,
+        "runs": 13,
+        "dismissals": 0,
+        "strike_rate": 185.71
+      },
+      "vs_t": {
+        "runs": 159,
+        "balls": 121,
+        "dismissals": 4,
+        "average": 39.75,
+        "strike_rate": 131.4
+      },
+      "b_f": [
+        15,
+        0,
+        48
+      ],
+      "w_f": [
+        0,
+        0,
+        3
+      ]
+    },
+    {
+      "bat": "WG Jacks",
+      "bat_t": "England",
+      "bowl": "MJ Santner",
+      "bowl_t": "New Zealand",
+      "v": "bowler",
+      "h2h": {
+        "balls": 7,
+        "runs": 7,
+        "dismissals": 0,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 68,
+        "balls": 47,
+        "dismissals": 4,
+        "average": 17.0,
+        "strike_rate": 144.68
+      },
+      "b_f": [
+        32,
+        28,
+        21
+      ],
+      "w_f": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "MJ Santner",
+      "bat_t": "New Zealand",
+      "bowl": "LA Dawson",
+      "bowl_t": "England",
+      "v": "batsman",
+      "h2h": {
+        "balls": 6,
+        "runs": 15,
+        "dismissals": 0,
+        "strike_rate": 250.0
+      },
+      "vs_t": {
+        "runs": 111,
+        "balls": 88,
+        "dismissals": 7,
+        "average": 15.86,
+        "strike_rate": 126.14
+      },
+      "b_f": [
+        9,
+        47,
+        4
+      ],
+      "w_f": [
+        1,
+        3,
+        2
+      ]
+    },
+    {
+      "bat": "T Banton",
+      "bat_t": "England",
+      "bowl": "MJ Henry",
+      "bowl_t": "New Zealand",
+      "v": "batsman",
+      "h2h": {
+        "balls": 6,
+        "runs": 18,
+        "dismissals": 0,
+        "strike_rate": 300.0
+      },
+      "vs_t": {
+        "runs": 94,
+        "balls": 56,
+        "dismissals": 4,
+        "average": 23.5,
+        "strike_rate": 167.86
+      },
+      "b_f": [
+        33,
+        2,
+        6
+      ],
+      "w_f": [
+        1,
+        2,
+        1
+      ]
+    },
+    {
+      "bat": "JC Buttler",
+      "bat_t": "England",
+      "bowl": "MJ Henry",
+      "bowl_t": "New Zealand",
+      "v": "batsman",
+      "h2h": {
+        "balls": 6,
+        "runs": 8,
+        "dismissals": 0,
+        "strike_rate": 133.33
+      },
+      "vs_t": {
+        "runs": 364,
+        "balls": 246,
+        "dismissals": 8,
+        "average": 45.5,
+        "strike_rate": 147.97
+      },
+      "b_f": [
+        0,
+        2,
+        7
+      ],
+      "w_f": [
+        1,
+        2,
+        1
+      ]
+    },
+    {
+      "bat": "T Banton",
+      "bat_t": "England",
+      "bowl": "LH Ferguson",
+      "bowl_t": "New Zealand",
+      "v": "bowler",
+      "h2h": {
+        "balls": 5,
+        "runs": 11,
+        "dismissals": 0,
+        "strike_rate": 220.0
+      },
+      "vs_t": {
+        "runs": 94,
+        "balls": 56,
+        "dismissals": 4,
+        "average": 23.5,
+        "strike_rate": 167.86
+      },
+      "b_f": [
+        33,
+        2,
+        6
+      ],
+      "w_f": [
+        1,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "DJ Mitchell",
+      "bat_t": "New Zealand",
+      "bowl": "LA Dawson",
+      "bowl_t": "England",
+      "v": "bowler",
+      "h2h": {
+        "balls": 4,
+        "runs": 3,
+        "dismissals": 0,
+        "strike_rate": 75.0
+      },
+      "vs_t": {
+        "runs": 150,
+        "balls": 117,
+        "dismissals": 7,
+        "average": 21.43,
+        "strike_rate": 128.21
+      },
+      "b_f": [
+        3,
+        3,
+        32
+      ],
+      "w_f": [
+        1,
+        3,
+        2
+      ]
+    },
+    {
+      "bat": "R Ravindra",
+      "bat_t": "New Zealand",
+      "bowl": "SM Curran",
+      "bowl_t": "England",
+      "v": "batsman",
+      "h2h": {
+        "balls": 4,
+        "runs": 9,
+        "dismissals": 0,
+        "strike_rate": 225.0
+      },
+      "vs_t": {
+        "runs": 35,
+        "balls": 21,
+        "dismissals": 1,
+        "average": 35.0,
+        "strike_rate": 166.67
+      },
+      "b_f": [
+        11,
+        32,
+        59
+      ],
+      "w_f": [
+        0,
+        0,
+        3
+      ]
+    },
+    {
+      "bat": "AU Rashid",
+      "bat_t": "England",
+      "bowl": "MJ Henry",
+      "bowl_t": "New Zealand",
+      "v": "bowler",
+      "h2h": {
+        "balls": 4,
+        "runs": 6,
+        "dismissals": 0,
+        "strike_rate": 150.0
+      },
+      "vs_t": {
+        "runs": 27,
+        "balls": 24,
+        "dismissals": 2,
+        "average": 13.5,
+        "strike_rate": 112.5
+      },
+      "b_f": [
+        1,
+        0
+      ],
+      "w_f": [
+        1,
+        2,
+        1
+      ]
+    },
+    {
+      "bat": "Rehan Ahmed",
+      "bat_t": "England",
+      "bowl": "R Ravindra",
+      "bowl_t": "New Zealand",
+      "v": "neutral",
+      "h2h": {
+        "balls": 4,
+        "runs": 8,
+        "dismissals": 0,
+        "strike_rate": 200.0
+      },
+      "vs_t": {
+        "runs": 11,
+        "balls": 7,
+        "dismissals": 0,
+        "average": 11.0,
+        "strike_rate": 157.14
+      },
+      "b_f": [
+        19
+      ],
+      "w_f": [
+        3,
+        4,
+        1
+      ]
+    },
+    {
+      "bat": "TL Seifert",
+      "bat_t": "New Zealand",
+      "bowl": "WG Jacks",
+      "bowl_t": "England",
+      "v": "bowler",
+      "h2h": {
+        "balls": 3,
+        "runs": 3,
+        "dismissals": 0,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 294,
+        "balls": 213,
+        "dismissals": 11,
+        "average": 26.73,
+        "strike_rate": 138.03
+      },
+      "b_f": [
+        35,
+        8,
+        6
+      ],
+      "w_f": [
+        2,
+        0,
+        3
+      ]
+    },
+    {
+      "bat": "TL Seifert",
+      "bat_t": "New Zealand",
+      "bowl": "LA Dawson",
+      "bowl_t": "England",
+      "v": "bowler",
+      "h2h": {
+        "balls": 3,
+        "runs": 2,
+        "dismissals": 0,
+        "strike_rate": 66.67
+      },
+      "vs_t": {
+        "runs": 294,
+        "balls": 213,
+        "dismissals": 11,
+        "average": 26.73,
+        "strike_rate": 138.03
+      },
+      "b_f": [
+        35,
+        8,
+        6
+      ],
+      "w_f": [
+        1,
+        3,
+        2
+      ]
+    },
+    {
+      "bat": "Rehan Ahmed",
+      "bat_t": "England",
+      "bowl": "MJ Henry",
+      "bowl_t": "New Zealand",
+      "v": "neutral",
+      "h2h": {
+        "balls": 2,
+        "runs": 0,
+        "dismissals": 0,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 11,
+        "balls": 7,
+        "dismissals": 0,
+        "average": 11.0,
+        "strike_rate": 157.14
+      },
+      "b_f": [
+        19
+      ],
+      "w_f": [
+        1,
+        2,
+        1
+      ]
+    },
+    {
+      "bat": "T Banton",
+      "bat_t": "England",
+      "bowl": "IS Sodhi",
+      "bowl_t": "New Zealand",
+      "v": "bowler",
+      "h2h": {
+        "balls": 2,
+        "runs": 2,
+        "dismissals": 0,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 94,
+        "balls": 56,
+        "dismissals": 4,
+        "average": 23.5,
+        "strike_rate": 167.86
+      },
+      "b_f": [
+        33,
+        2,
+        6
+      ],
+      "w_f": [
+        0,
+        0
+      ]
+    }
+  ]
+}

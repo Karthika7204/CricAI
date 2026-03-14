@@ -1,0 +1,373 @@
+{
+    "match_context": {
+        "match_id": "1512767",
+        "date": "27-02-2026",
+        "tournament": "2025/26",
+        "venue": "R Premadasa Stadium, Colombo",
+        "stage": "ICC Men's T20 World Cup",
+        "Teams": {
+            "New Zealand": {
+                "captain": "GD Phillips",
+                "playing_xi_count": 11
+            },
+            "England": {
+                "captain": "JC Buttler",
+                "playing_xi_count": 11
+            }
+        }
+    },
+    "Match_Result": {
+        "summary": "England won by 4 wickets",
+        "winner": "England",
+        "margin": 4,
+        "margin_type": "wickets"
+    },
+    "Scorecard_Highlights": {
+        "Key_Support_Performers": [
+            {
+                "player": "HC Brook",
+                "team": "England",
+                "runs": 26,
+                "balls": 25,
+                "sr": 104.0,
+                "fours": 3,
+                "sixes": 1,
+                "win_contribution_percent": 16.1,
+                "score": 45.94
+            },
+            {
+                "player": "SM Curran",
+                "team": "England",
+                "runs": 24,
+                "balls": 22,
+                "sr": 109.09,
+                "fours": 2,
+                "sixes": 1,
+                "win_contribution_percent": 14.9,
+                "score": 44.91
+            },
+            {
+                "player": "JG Bethell",
+                "team": "England",
+                "runs": 21,
+                "balls": 16,
+                "sr": 131.25,
+                "fours": 4,
+                "sixes": 0,
+                "win_contribution_percent": 13.0,
+                "score": 46.16
+            }
+        ],
+        "Career_vs_Match_Bowling": [],
+        "Bowling_Standouts": {
+            "Economical_Spells": [],
+            "Expensive_Spells": [],
+            "High_Economy_No_Baseline": [
+                {
+                    "player": "JG Bethell",
+                    "team": "England",
+                    "overs": 1.0,
+                    "runs": 13,
+                    "wickets": 0,
+                    "econ": 13.0,
+                    "score": 12.31,
+                    "bowling_baseline": {
+                        "career_wickets": 0,
+                        "career_economy": 0.0,
+                        "career_sr": 0.0,
+                        "career_avg": 0.0,
+                        "best_bowling": "N/A",
+                        "matches": 0,
+                        "source": "none",
+                        "baseline_available": false
+                    }
+                },
+                {
+                    "player": "CE McConchie",
+                    "team": "New Zealand",
+                    "overs": 1.0,
+                    "runs": 13,
+                    "wickets": 0,
+                    "econ": 13.0,
+                    "score": 12.31,
+                    "bowling_baseline": {
+                        "career_wickets": 0,
+                        "career_economy": 0.0,
+                        "career_sr": 0.0,
+                        "career_avg": 0.0,
+                        "best_bowling": "N/A",
+                        "matches": 0,
+                        "source": "none",
+                        "baseline_available": false
+                    }
+                }
+            ]
+        },
+        "Significant_Collapses": []
+    },
+    "Innings_Metrics": [
+        {
+            "innings": 1,
+            "team": "New Zealand",
+            "total_runs": 159,
+            "total_wickets": 7,
+            "balls_faced": 120,
+            "overs_faced": 20.0,
+            "phase_analysis": {
+                "Powerplay": {
+                    "runs": 54,
+                    "wkts": 0,
+                    "rr": 9.0
+                },
+                "Middle": {
+                    "runs": 71,
+                    "wkts": 4,
+                    "rr": 7.89
+                },
+                "Death": {
+                    "runs": 34,
+                    "wkts": 3,
+                    "rr": 6.8
+                }
+            }
+        },
+        {
+            "innings": 2,
+            "team": "England",
+            "total_runs": 161,
+            "total_wickets": 6,
+            "balls_faced": 117,
+            "overs_faced": 19.3,
+            "phase_analysis": {
+                "Powerplay": {
+                    "runs": 47,
+                    "wkts": 2,
+                    "rr": 7.83
+                },
+                "Middle": {
+                    "runs": 54,
+                    "wkts": 3,
+                    "rr": 6.0
+                },
+                "Death": {
+                    "runs": 60,
+                    "wkts": 1,
+                    "rr": 13.33
+                }
+            },
+            "pressure_index": 78.0,
+            "target": 160
+        }
+    ],
+    "Detailed_Impact_Analysis": [
+        {
+            "player": "R Ravindra",
+            "team": "New Zealand",
+            "overs": 4.0,
+            "runs": 19,
+            "wickets": 3,
+            "econ": 4.75,
+            "score": 123.68,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-19r-3w"
+        },
+        {
+            "player": "WG Jacks",
+            "team": "England",
+            "overs": 4.0,
+            "runs": 23,
+            "wickets": 2,
+            "econ": 5.75,
+            "score": 87.83,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-23r-2w"
+        },
+        {
+            "player": "AU Rashid",
+            "team": "England",
+            "overs": 4.0,
+            "runs": 28,
+            "wickets": 2,
+            "econ": 7.0,
+            "score": 82.86,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-28r-2w"
+        },
+        {
+            "player": "Rehan Ahmed",
+            "team": "England",
+            "overs": 3.0,
+            "runs": 28,
+            "wickets": 2,
+            "econ": 9.33,
+            "score": 77.15,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "3.0o-28r-2w"
+        },
+        {
+            "player": "Rehan Ahmed",
+            "team": "England",
+            "runs": 19,
+            "balls": 7,
+            "sr": 271.43,
+            "fours": 1,
+            "sixes": 2,
+            "win_contribution_percent": 11.8,
+            "score": 71.03,
+            "role": "batting",
+            "match_stats": "19(7)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "WG Jacks",
+            "team": "England",
+            "runs": 32,
+            "balls": 18,
+            "sr": 177.78,
+            "fours": 4,
+            "sixes": 1,
+            "win_contribution_percent": 19.9,
+            "score": 66.08,
+            "role": "batting",
+            "match_stats": "32(18)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "GD Phillips",
+            "team": "New Zealand",
+            "runs": 39,
+            "balls": 29,
+            "sr": 134.48,
+            "fours": 4,
+            "sixes": 1,
+            "win_contribution_percent": 24.5,
+            "score": 64.78,
+            "role": "batting",
+            "match_stats": "39(29)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "TL Seifert",
+            "team": "New Zealand",
+            "runs": 35,
+            "balls": 25,
+            "sr": 140.0,
+            "fours": 3,
+            "sixes": 2,
+            "win_contribution_percent": 22.0,
+            "score": 61.84,
+            "role": "batting",
+            "match_stats": "35(25)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "T Banton",
+            "team": "England",
+            "runs": 33,
+            "balls": 24,
+            "sr": 137.5,
+            "fours": 3,
+            "sixes": 1,
+            "win_contribution_percent": 20.5,
+            "score": 59.36,
+            "role": "batting",
+            "match_stats": "33(24)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "FH Allen",
+            "team": "New Zealand",
+            "runs": 29,
+            "balls": 19,
+            "sr": 152.63,
+            "fours": 0,
+            "sixes": 3,
+            "win_contribution_percent": 18.2,
+            "score": 58.26,
+            "role": "batting",
+            "match_stats": "29(19)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        }
+    ],
+    "Tactical_Post_Match_Analysis": [
+        "England's victory was anchored by Rehan Ahmed, who contributed 11.8% of the team's runs.",
+        "Defensive pressure was sustained by WG Jacks, finishing with an impact score of 87.83.",
+        "High-scoring finish by England in Death Overs (RR: 13.33) shifted match momentum."
+    ]
+}

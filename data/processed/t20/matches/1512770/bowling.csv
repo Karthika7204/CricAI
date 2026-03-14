@@ -1,0 +1,13 @@
+match_id,date,innings,team,player,overs,balls_bowled,wickets,runs_conceded,economy,maidens,wides,no_balls
+1512770,01-03-2026,1,India,JJ Bumrah,4.0,24,2,37,9.25,0,0,0
+1512770,01-03-2026,1,India,CV Varun,4.0,24,1,40,10.0,0,0,0
+1512770,01-03-2026,1,India,HH Pandya,4.0,24,1,40,10.0,0,3,0
+1512770,01-03-2026,1,India,AR Patel,4.0,24,0,35,8.75,0,0,0
+1512770,01-03-2026,1,India,Arshdeep Singh,4.0,24,0,43,10.75,0,3,0
+1512770,01-03-2026,2,West Indies,JO Holder,4.0,24,2,40,10.0,0,1,0
+1512770,01-03-2026,2,West Indies,S Joseph,4.0,24,2,44,11.0,0,1,0
+1512770,01-03-2026,2,West Indies,AJ Hosein,2.0,12,1,22,11.0,0,0,0
+1512770,01-03-2026,2,West Indies,MW Forde,3.0,18,0,23,7.67,0,2,0
+1512770,01-03-2026,2,West Indies,G Motie,2.0,12,0,18,9.0,0,0,0
+1512770,01-03-2026,2,West Indies,RL Chase,2.0,12,0,18,9.0,0,0,0
+1512770,01-03-2026,2,West Indies,R Shepherd,2.2,14,0,34,14.57,0,3,0

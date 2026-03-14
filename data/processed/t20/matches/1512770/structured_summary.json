@@ -1,0 +1,483 @@
+{
+    "match_context": {
+        "match_id": "1512770",
+        "date": "01-03-2026",
+        "tournament": "2025/26",
+        "venue": "Eden Gardens, Kolkata",
+        "stage": "ICC Men's T20 World Cup",
+        "Teams": {
+            "West Indies": {
+                "captain": "SD Hope",
+                "playing_xi_count": 11
+            },
+            "India": {
+                "captain": "SA Yadav",
+                "playing_xi_count": 11
+            }
+        }
+    },
+    "Match_Result": {
+        "summary": "India won by 5 wickets",
+        "winner": "India",
+        "margin": 5,
+        "margin_type": "wickets"
+    },
+    "Scorecard_Highlights": {
+        "Key_Support_Performers": [
+            {
+                "player": "SD Hope",
+                "team": "West Indies",
+                "runs": 32,
+                "balls": 33,
+                "sr": 96.97,
+                "fours": 3,
+                "sixes": 1,
+                "win_contribution_percent": 16.4,
+                "score": 48.27
+            },
+            {
+                "player": "SA Yadav",
+                "team": "India",
+                "runs": 18,
+                "balls": 18,
+                "sr": 100.0,
+                "fours": 1,
+                "sixes": 1,
+                "win_contribution_percent": 9.0,
+                "score": 34.78
+            },
+            {
+                "player": "HH Pandya",
+                "team": "India",
+                "runs": 17,
+                "balls": 17,
+                "sr": 100.0,
+                "fours": 2,
+                "sixes": 0,
+                "win_contribution_percent": 8.5,
+                "score": 33.78
+            }
+        ],
+        "Career_vs_Match_Bowling": [
+            {
+                "player": "AR Patel",
+                "team": "India",
+                "match_figures": "4.0-35-0",
+                "match_economy": 8.75,
+                "career_economy": 7.59,
+                "economy_delta": 1.16,
+                "match_sr": null,
+                "career_sr": 17.7,
+                "career_wickets": 88,
+                "career_best": "3/18",
+                "verdict": "On par with career economy (7.59)"
+            },
+            {
+                "player": "HH Pandya",
+                "team": "India",
+                "match_figures": "4.0-40-1",
+                "match_economy": 10.0,
+                "career_economy": 8.49,
+                "economy_delta": 1.51,
+                "match_sr": 24.0,
+                "career_sr": 19.4,
+                "career_wickets": 111,
+                "career_best": "4/38",
+                "verdict": "On par with career economy (8.49)"
+            },
+            {
+                "player": "Arshdeep Singh",
+                "team": "India",
+                "match_figures": "4.0-43-0",
+                "match_economy": 10.75,
+                "career_economy": 8.75,
+                "economy_delta": 2.0,
+                "match_sr": null,
+                "career_sr": 13.46,
+                "career_wickets": 120,
+                "career_best": "5/51",
+                "verdict": "Expensive - 2.0 above career economy (8.75)"
+            },
+            {
+                "player": "JJ Bumrah",
+                "team": "India",
+                "match_figures": "4.0-37-2",
+                "match_economy": 9.25,
+                "career_economy": 6.85,
+                "economy_delta": 2.4,
+                "match_sr": 12.0,
+                "career_sr": 17.08,
+                "career_wickets": 113,
+                "career_best": "3/23",
+                "verdict": "Expensive - 2.4 above career economy (6.85)"
+            },
+            {
+                "player": "CV Varun",
+                "team": "India",
+                "match_figures": "4.0-40-1",
+                "match_economy": 10.0,
+                "career_economy": 7.36,
+                "economy_delta": 2.64,
+                "match_sr": 24.0,
+                "career_sr": 12.97,
+                "career_wickets": 71,
+                "career_best": "5/24",
+                "verdict": "Expensive - 2.64 above career economy (7.36)"
+            }
+        ],
+        "Bowling_Standouts": {
+            "Economical_Spells": [],
+            "Expensive_Spells": [
+                {
+                    "player": "Arshdeep Singh",
+                    "team": "India",
+                    "match_figures": "4.0-43-0",
+                    "match_economy": 10.75,
+                    "career_economy": 8.75,
+                    "economy_delta": 2.0,
+                    "match_sr": null,
+                    "career_sr": 13.46,
+                    "career_wickets": 120,
+                    "career_best": "5/51",
+                    "verdict": "Expensive - 2.0 above career economy (8.75)"
+                },
+                {
+                    "player": "JJ Bumrah",
+                    "team": "India",
+                    "match_figures": "4.0-37-2",
+                    "match_economy": 9.25,
+                    "career_economy": 6.85,
+                    "economy_delta": 2.4,
+                    "match_sr": 12.0,
+                    "career_sr": 17.08,
+                    "career_wickets": 113,
+                    "career_best": "3/23",
+                    "verdict": "Expensive - 2.4 above career economy (6.85)"
+                },
+                {
+                    "player": "CV Varun",
+                    "team": "India",
+                    "match_figures": "4.0-40-1",
+                    "match_economy": 10.0,
+                    "career_economy": 7.36,
+                    "economy_delta": 2.64,
+                    "match_sr": 24.0,
+                    "career_sr": 12.97,
+                    "career_wickets": 71,
+                    "career_best": "5/24",
+                    "verdict": "Expensive - 2.64 above career economy (7.36)"
+                }
+            ],
+            "High_Economy_No_Baseline": [
+                {
+                    "player": "R Shepherd",
+                    "team": "West Indies",
+                    "overs": 2.2,
+                    "runs": 34,
+                    "wickets": 0,
+                    "econ": 14.57,
+                    "score": 13.03,
+                    "bowling_baseline": {
+                        "career_wickets": 0,
+                        "career_economy": 0.0,
+                        "career_sr": 0.0,
+                        "career_avg": 0.0,
+                        "best_bowling": "N/A",
+                        "matches": 0,
+                        "source": "none",
+                        "baseline_available": false
+                    }
+                },
+                {
+                    "player": "S Joseph",
+                    "team": "West Indies",
+                    "overs": 4.0,
+                    "runs": 44,
+                    "wickets": 2,
+                    "econ": 11.0,
+                    "score": 77.26,
+                    "bowling_baseline": {
+                        "career_wickets": 0,
+                        "career_economy": 0.0,
+                        "career_sr": 0.0,
+                        "career_avg": 0.0,
+                        "best_bowling": "N/A",
+                        "matches": 0,
+                        "source": "none",
+                        "baseline_available": false
+                    }
+                }
+            ]
+        },
+        "Significant_Collapses": []
+    },
+    "Innings_Metrics": [
+        {
+            "innings": 1,
+            "team": "West Indies",
+            "total_runs": 195,
+            "total_wickets": 4,
+            "balls_faced": 120,
+            "overs_faced": 20.0,
+            "phase_analysis": {
+                "Powerplay": {
+                    "runs": 45,
+                    "wkts": 0,
+                    "rr": 7.5
+                },
+                "Middle": {
+                    "runs": 80,
+                    "wkts": 4,
+                    "rr": 8.89
+                },
+                "Death": {
+                    "runs": 70,
+                    "wkts": 0,
+                    "rr": 14.0
+                }
+            }
+        },
+        {
+            "innings": 2,
+            "team": "India",
+            "total_runs": 199,
+            "total_wickets": 5,
+            "balls_faced": 116,
+            "overs_faced": 19.2,
+            "phase_analysis": {
+                "Powerplay": {
+                    "runs": 53,
+                    "wkts": 2,
+                    "rr": 8.83
+                },
+                "Middle": {
+                    "runs": 93,
+                    "wkts": 2,
+                    "rr": 10.33
+                },
+                "Death": {
+                    "runs": 53,
+                    "wkts": 1,
+                    "rr": 12.23
+                }
+            },
+            "pressure_index": 75.0,
+            "target": 196
+        }
+    ],
+    "Detailed_Impact_Analysis": [
+        {
+            "player": "SV Samson",
+            "team": "India",
+            "runs": 97,
+            "balls": 51,
+            "sr": 190.2,
+            "fours": 12,
+            "sixes": 4,
+            "win_contribution_percent": 48.7,
+            "score": 128.91,
+            "role": "batting",
+            "match_stats": "97(51)",
+            "baseline": {
+                "avg": 25.0,
+                "sr": 143.98,
+                "matches": 49,
+                "source": "t20_master",
+                "baseline_available": true
+            }
+        },
+        {
+            "player": "JJ Bumrah",
+            "team": "India",
+            "overs": 4.0,
+            "runs": 37,
+            "wickets": 2,
+            "econ": 9.25,
+            "score": 80.53,
+            "bowling_baseline": {
+                "career_wickets": 113,
+                "career_economy": 6.85,
+                "career_sr": 17.08,
+                "career_avg": 19.51,
+                "best_bowling": "3/23",
+                "matches": 88,
+                "source": "t20_bowling_master",
+                "baseline_available": true
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-37r-2w"
+        },
+        {
+            "player": "JO Holder",
+            "team": "West Indies",
+            "overs": 4.0,
+            "runs": 40,
+            "wickets": 2,
+            "econ": 10.0,
+            "score": 78.99,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-40r-2w"
+        },
+        {
+            "player": "S Joseph",
+            "team": "West Indies",
+            "overs": 4.0,
+            "runs": 44,
+            "wickets": 2,
+            "econ": 11.0,
+            "score": 77.26,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-44r-2w"
+        },
+        {
+            "player": "SO Hetmyer",
+            "team": "West Indies",
+            "runs": 27,
+            "balls": 12,
+            "sr": 225.0,
+            "fours": 1,
+            "sixes": 2,
+            "win_contribution_percent": 13.8,
+            "score": 64.75,
+            "role": "batting",
+            "match_stats": "27(12)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "JO Holder",
+            "team": "West Indies",
+            "runs": 37,
+            "balls": 23,
+            "sr": 160.87,
+            "fours": 2,
+            "sixes": 3,
+            "win_contribution_percent": 19.0,
+            "score": 63.99,
+            "role": "batting",
+            "match_stats": "37(23)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "RL Chase",
+            "team": "West Indies",
+            "runs": 40,
+            "balls": 28,
+            "sr": 142.86,
+            "fours": 5,
+            "sixes": 1,
+            "win_contribution_percent": 20.5,
+            "score": 63.97,
+            "role": "batting",
+            "match_stats": "40(28)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "R Powell",
+            "team": "West Indies",
+            "runs": 34,
+            "balls": 21,
+            "sr": 161.9,
+            "fours": 3,
+            "sixes": 2,
+            "win_contribution_percent": 17.4,
+            "score": 61.17,
+            "role": "batting",
+            "match_stats": "34(21)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "Tilak Varma",
+            "team": "India",
+            "runs": 27,
+            "balls": 15,
+            "sr": 180.0,
+            "fours": 4,
+            "sixes": 1,
+            "win_contribution_percent": 13.6,
+            "score": 57.2,
+            "role": "batting",
+            "match_stats": "27(15)",
+            "baseline": {
+                "avg": 46.81,
+                "sr": 136.65,
+                "matches": 41,
+                "source": "t20_master",
+                "baseline_available": true
+            }
+        },
+        {
+            "player": "CV Varun",
+            "team": "India",
+            "overs": 4.0,
+            "runs": 40,
+            "wickets": 1,
+            "econ": 10.0,
+            "score": 48.99,
+            "bowling_baseline": {
+                "career_wickets": 71,
+                "career_economy": 7.36,
+                "career_sr": 12.97,
+                "career_avg": 15.9,
+                "best_bowling": "5/24",
+                "matches": 41,
+                "source": "t20_bowling_master",
+                "baseline_available": true
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-40r-1w"
+        }
+    ],
+    "Tactical_Post_Match_Analysis": [
+        "India's victory was anchored by SV Samson, who contributed 48.7% of the team's runs.",
+        "Defensive pressure was sustained by JJ Bumrah, finishing with an impact score of 80.53.",
+        "Arshdeep Singh struggled with economy 10.75 vs career avg 8.75 (+2.0) — an expensive outing.",
+        "JJ Bumrah struggled with economy 9.25 vs career avg 6.85 (+2.4) — an expensive outing.",
+        "CV Varun struggled with economy 10.0 vs career avg 7.36 (+2.64) — an expensive outing.",
+        "High-scoring finish by West Indies in Death Overs (RR: 14.0) shifted match momentum.",
+        "High-scoring finish by India in Death Overs (RR: 12.23) shifted match momentum."
+    ]
+}

@@ -1,0 +1,1459 @@
+{
+  "match_id": "1512768",
+  "team_a": "Pakistan",
+  "team_b": "Sri Lanka",
+  "matchups": [
+    {
+      "bat": "Sahibzada Farhan",
+      "bat_t": "Pakistan",
+      "bowl": "PVD Chameera",
+      "bowl_t": "Sri Lanka",
+      "v": "bowler",
+      "h2h": {
+        "balls": 31,
+        "runs": 49,
+        "dismissals": 2,
+        "strike_rate": 158.06
+      },
+      "vs_t": {
+        "runs": 196,
+        "balls": 133,
+        "dismissals": 5,
+        "average": 39.2,
+        "strike_rate": 147.37
+      },
+      "b_f": [
+        100,
+        63,
+        100
+      ],
+      "w_f": [
+        1,
+        3,
+        1
+      ]
+    },
+    {
+      "bat": "P Nissanka",
+      "bat_t": "Sri Lanka",
+      "bowl": "Shaheen Shah Afridi",
+      "bowl_t": "Pakistan",
+      "v": "bowler",
+      "h2h": {
+        "balls": 10,
+        "runs": 14,
+        "dismissals": 2,
+        "strike_rate": 140.0
+      },
+      "vs_t": {
+        "runs": 119,
+        "balls": 119,
+        "dismissals": 7,
+        "average": 17.0,
+        "strike_rate": 100.0
+      },
+      "b_f": [
+        3,
+        0,
+        9
+      ],
+      "w_f": [
+        1,
+        4,
+        1
+      ]
+    },
+    {
+      "bat": "Sahibzada Farhan",
+      "bat_t": "Pakistan",
+      "bowl": "M Theekshana",
+      "bowl_t": "Sri Lanka",
+      "v": "batsman",
+      "h2h": {
+        "balls": 24,
+        "runs": 19,
+        "dismissals": 1,
+        "strike_rate": 79.17
+      },
+      "vs_t": {
+        "runs": 196,
+        "balls": 133,
+        "dismissals": 5,
+        "average": 39.2,
+        "strike_rate": 147.37
+      },
+      "b_f": [
+        100,
+        63,
+        100
+      ],
+      "w_f": [
+        0,
+        3,
+        2
+      ]
+    },
+    {
+      "bat": "K Mishara",
+      "bat_t": "Sri Lanka",
+      "bowl": "Abrar Ahmed",
+      "bowl_t": "Pakistan",
+      "v": "batsman",
+      "h2h": {
+        "balls": 23,
+        "runs": 31,
+        "dismissals": 1,
+        "strike_rate": 134.78
+      },
+      "vs_t": {
+        "runs": 177,
+        "balls": 124,
+        "dismissals": 5,
+        "average": 35.4,
+        "strike_rate": 142.74
+      },
+      "b_f": [
+        26,
+        6,
+        8
+      ],
+      "w_f": [
+        3,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "MD Shanaka",
+      "bat_t": "Sri Lanka",
+      "bowl": "Shadab Khan",
+      "bowl_t": "Pakistan",
+      "v": "batsman",
+      "h2h": {
+        "balls": 21,
+        "runs": 38,
+        "dismissals": 1,
+        "strike_rate": 180.95
+      },
+      "vs_t": {
+        "runs": 206,
+        "balls": 163,
+        "dismissals": 13,
+        "average": 15.85,
+        "strike_rate": 126.38
+      },
+      "b_f": [
+        76,
+        3,
+        30
+      ],
+      "w_f": [
+        0,
+        0,
+        3
+      ]
+    },
+    {
+      "bat": "J Liyanage",
+      "bat_t": "Sri Lanka",
+      "bowl": "Abrar Ahmed",
+      "bowl_t": "Pakistan",
+      "v": "bowler",
+      "h2h": {
+        "balls": 21,
+        "runs": 21,
+        "dismissals": 1,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 127,
+        "balls": 106,
+        "dismissals": 2,
+        "average": 63.5,
+        "strike_rate": 119.81
+      },
+      "b_f": [
+        5
+      ],
+      "w_f": [
+        3,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "J Liyanage",
+      "bat_t": "Sri Lanka",
+      "bowl": "Mohammad Nawaz",
+      "bowl_t": "Pakistan",
+      "v": "bowler",
+      "h2h": {
+        "balls": 20,
+        "runs": 25,
+        "dismissals": 1,
+        "strike_rate": 125.0
+      },
+      "vs_t": {
+        "runs": 127,
+        "balls": 106,
+        "dismissals": 2,
+        "average": 63.5,
+        "strike_rate": 119.81
+      },
+      "b_f": [
+        5
+      ],
+      "w_f": [
+        1,
+        2,
+        1
+      ]
+    },
+    {
+      "bat": "Fakhar Zaman",
+      "bat_t": "Pakistan",
+      "bowl": "PVD Chameera",
+      "bowl_t": "Sri Lanka",
+      "v": "bowler",
+      "h2h": {
+        "balls": 15,
+        "runs": 9,
+        "dismissals": 1,
+        "strike_rate": 60.0
+      },
+      "vs_t": {
+        "runs": 93,
+        "balls": 109,
+        "dismissals": 10,
+        "average": 9.3,
+        "strike_rate": 85.32
+      },
+      "b_f": [
+        84,
+        25
+      ],
+      "w_f": [
+        1,
+        3,
+        1
+      ]
+    },
+    {
+      "bat": "Agha Salman",
+      "bat_t": "Pakistan",
+      "bowl": "PVD Chameera",
+      "bowl_t": "Sri Lanka",
+      "v": "bowler",
+      "h2h": {
+        "balls": 12,
+        "runs": 11,
+        "dismissals": 1,
+        "strike_rate": 91.67
+      },
+      "vs_t": {
+        "runs": 143,
+        "balls": 93,
+        "dismissals": 5,
+        "average": 28.6,
+        "strike_rate": 153.76
+      },
+      "b_f": [
+        0,
+        5,
+        38
+      ],
+      "w_f": [
+        1,
+        3,
+        1
+      ]
+    },
+    {
+      "bat": "MD Shanaka",
+      "bat_t": "Sri Lanka",
+      "bowl": "Mohammad Nawaz",
+      "bowl_t": "Pakistan",
+      "v": "bowler",
+      "h2h": {
+        "balls": 10,
+        "runs": 10,
+        "dismissals": 1,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 206,
+        "balls": 163,
+        "dismissals": 13,
+        "average": 15.85,
+        "strike_rate": 126.38
+      },
+      "b_f": [
+        76,
+        3,
+        30
+      ],
+      "w_f": [
+        1,
+        2,
+        1
+      ]
+    },
+    {
+      "bat": "P Nissanka",
+      "bat_t": "Sri Lanka",
+      "bowl": "Naseem Shah",
+      "bowl_t": "Pakistan",
+      "v": "bowler",
+      "h2h": {
+        "balls": 10,
+        "runs": 7,
+        "dismissals": 1,
+        "strike_rate": 70.0
+      },
+      "vs_t": {
+        "runs": 119,
+        "balls": 119,
+        "dismissals": 7,
+        "average": 17.0,
+        "strike_rate": 100.0
+      },
+      "b_f": [
+        3,
+        0,
+        9
+      ],
+      "w_f": [
+        1
+      ]
+    },
+    {
+      "bat": "Fakhar Zaman",
+      "bat_t": "Pakistan",
+      "bowl": "M Theekshana",
+      "bowl_t": "Sri Lanka",
+      "v": "bowler",
+      "h2h": {
+        "balls": 6,
+        "runs": 7,
+        "dismissals": 1,
+        "strike_rate": 116.67
+      },
+      "vs_t": {
+        "runs": 93,
+        "balls": 109,
+        "dismissals": 10,
+        "average": 9.3,
+        "strike_rate": 85.32
+      },
+      "b_f": [
+        84,
+        25
+      ],
+      "w_f": [
+        0,
+        3,
+        2
+      ]
+    },
+    {
+      "bat": "Shadab Khan",
+      "bat_t": "Pakistan",
+      "bowl": "M Theekshana",
+      "bowl_t": "Sri Lanka",
+      "v": "bowler",
+      "h2h": {
+        "balls": 5,
+        "runs": 7,
+        "dismissals": 1,
+        "strike_rate": 140.0
+      },
+      "vs_t": {
+        "runs": 54,
+        "balls": 39,
+        "dismissals": 4,
+        "average": 13.5,
+        "strike_rate": 138.46
+      },
+      "b_f": [
+        7,
+        23,
+        36
+      ],
+      "w_f": [
+        0,
+        3,
+        2
+      ]
+    },
+    {
+      "bat": "KIC Asalanka",
+      "bat_t": "Sri Lanka",
+      "bowl": "Abrar Ahmed",
+      "bowl_t": "Pakistan",
+      "v": "bowler",
+      "h2h": {
+        "balls": 5,
+        "runs": 3,
+        "dismissals": 1,
+        "strike_rate": 60.0
+      },
+      "vs_t": {
+        "runs": 59,
+        "balls": 47,
+        "dismissals": 3,
+        "average": 19.67,
+        "strike_rate": 125.53
+      },
+      "b_f": [
+        25,
+        5
+      ],
+      "w_f": [
+        3,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "PHKD Mendis",
+      "bat_t": "Sri Lanka",
+      "bowl": "Shaheen Shah Afridi",
+      "bowl_t": "Pakistan",
+      "v": "bowler",
+      "h2h": {
+        "balls": 5,
+        "runs": 2,
+        "dismissals": 1,
+        "strike_rate": 40.0
+      },
+      "vs_t": {
+        "runs": 53,
+        "balls": 53,
+        "dismissals": 2,
+        "average": 26.5,
+        "strike_rate": 100.0
+      },
+      "b_f": [
+        3,
+        31,
+        13
+      ],
+      "w_f": [
+        1,
+        4,
+        1
+      ]
+    },
+    {
+      "bat": "Fakhar Zaman",
+      "bat_t": "Pakistan",
+      "bowl": "P Rathnayake",
+      "bowl_t": "Sri Lanka",
+      "v": "bowler",
+      "h2h": {
+        "balls": 3,
+        "runs": 1,
+        "dismissals": 1,
+        "strike_rate": 33.33
+      },
+      "vs_t": {
+        "runs": 93,
+        "balls": 109,
+        "dismissals": 10,
+        "average": 9.3,
+        "strike_rate": 85.32
+      },
+      "b_f": [
+        84,
+        25
+      ]
+    },
+    {
+      "bat": "P Nissanka",
+      "bat_t": "Sri Lanka",
+      "bowl": "Abrar Ahmed",
+      "bowl_t": "Pakistan",
+      "v": "bowler",
+      "h2h": {
+        "balls": 3,
+        "runs": 2,
+        "dismissals": 1,
+        "strike_rate": 66.67
+      },
+      "vs_t": {
+        "runs": 119,
+        "balls": 119,
+        "dismissals": 7,
+        "average": 17.0,
+        "strike_rate": 100.0
+      },
+      "b_f": [
+        3,
+        0,
+        9
+      ],
+      "w_f": [
+        3,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "P Rathnayake",
+      "bat_t": "Sri Lanka",
+      "bowl": "Abrar Ahmed",
+      "bowl_t": "Pakistan",
+      "v": "neutral",
+      "h2h": {
+        "balls": 3,
+        "runs": 2,
+        "dismissals": 1,
+        "strike_rate": 66.67
+      },
+      "vs_t": {
+        "runs": 8,
+        "balls": 11,
+        "dismissals": 1,
+        "average": 8.0,
+        "strike_rate": 72.73
+      },
+      "b_f": [
+        58,
+        10,
+        0
+      ],
+      "w_f": [
+        3,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "PHKD Mendis",
+      "bat_t": "Sri Lanka",
+      "bowl": "Mohammad Nawaz",
+      "bowl_t": "Pakistan",
+      "v": "bowler",
+      "h2h": {
+        "balls": 3,
+        "runs": 1,
+        "dismissals": 1,
+        "strike_rate": 33.33
+      },
+      "vs_t": {
+        "runs": 53,
+        "balls": 53,
+        "dismissals": 2,
+        "average": 26.5,
+        "strike_rate": 100.0
+      },
+      "b_f": [
+        3,
+        31,
+        13
+      ],
+      "w_f": [
+        1,
+        2,
+        1
+      ]
+    },
+    {
+      "bat": "Agha Salman",
+      "bat_t": "Pakistan",
+      "bowl": "P Rathnayake",
+      "bowl_t": "Sri Lanka",
+      "v": "bowler",
+      "h2h": {
+        "balls": 2,
+        "runs": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 143,
+        "balls": 93,
+        "dismissals": 5,
+        "average": 28.6,
+        "strike_rate": 153.76
+      },
+      "b_f": [
+        0,
+        5,
+        38
+      ]
+    },
+    {
+      "bat": "MD Shanaka",
+      "bat_t": "Sri Lanka",
+      "bowl": "Shaheen Shah Afridi",
+      "bowl_t": "Pakistan",
+      "v": "bowler",
+      "h2h": {
+        "balls": 2,
+        "runs": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 206,
+        "balls": 163,
+        "dismissals": 13,
+        "average": 15.85,
+        "strike_rate": 126.38
+      },
+      "b_f": [
+        76,
+        3,
+        30
+      ],
+      "w_f": [
+        1,
+        4,
+        1
+      ]
+    },
+    {
+      "bat": "M Theekshana",
+      "bat_t": "Sri Lanka",
+      "bowl": "Shaheen Shah Afridi",
+      "bowl_t": "Pakistan",
+      "v": "neutral",
+      "h2h": {
+        "balls": 2,
+        "runs": 1,
+        "dismissals": 1,
+        "strike_rate": 50.0
+      },
+      "vs_t": {
+        "runs": 2,
+        "balls": 6,
+        "dismissals": 2,
+        "average": 1.0,
+        "strike_rate": 33.33
+      },
+      "b_f": [
+        1,
+        10
+      ],
+      "w_f": [
+        1,
+        4,
+        1
+      ]
+    },
+    {
+      "bat": "Agha Salman",
+      "bat_t": "Pakistan",
+      "bowl": "M Theekshana",
+      "bowl_t": "Sri Lanka",
+      "v": "batsman",
+      "h2h": {
+        "balls": 19,
+        "runs": 49,
+        "dismissals": 0,
+        "strike_rate": 257.89
+      },
+      "vs_t": {
+        "runs": 143,
+        "balls": 93,
+        "dismissals": 5,
+        "average": 28.6,
+        "strike_rate": 153.76
+      },
+      "b_f": [
+        0,
+        5,
+        38
+      ],
+      "w_f": [
+        0,
+        3,
+        2
+      ]
+    },
+    {
+      "bat": "K Mishara",
+      "bat_t": "Sri Lanka",
+      "bowl": "Mohammad Nawaz",
+      "bowl_t": "Pakistan",
+      "v": "batsman",
+      "h2h": {
+        "balls": 16,
+        "runs": 24,
+        "dismissals": 0,
+        "strike_rate": 150.0
+      },
+      "vs_t": {
+        "runs": 177,
+        "balls": 124,
+        "dismissals": 5,
+        "average": 35.4,
+        "strike_rate": 142.74
+      },
+      "b_f": [
+        26,
+        6,
+        8
+      ],
+      "w_f": [
+        1,
+        2,
+        1
+      ]
+    },
+    {
+      "bat": "Mohammad Nawaz",
+      "bat_t": "Pakistan",
+      "bowl": "M Theekshana",
+      "bowl_t": "Sri Lanka",
+      "v": "batsman",
+      "h2h": {
+        "balls": 15,
+        "runs": 16,
+        "dismissals": 0,
+        "strike_rate": 106.67
+      },
+      "vs_t": {
+        "runs": 125,
+        "balls": 82,
+        "dismissals": 3,
+        "average": 41.67,
+        "strike_rate": 152.44
+      },
+      "b_f": [
+        0,
+        0,
+        4
+      ],
+      "w_f": [
+        0,
+        3,
+        2
+      ]
+    },
+    {
+      "bat": "P Nissanka",
+      "bat_t": "Sri Lanka",
+      "bowl": "Mohammad Nawaz",
+      "bowl_t": "Pakistan",
+      "v": "bowler",
+      "h2h": {
+        "balls": 15,
+        "runs": 12,
+        "dismissals": 0,
+        "strike_rate": 80.0
+      },
+      "vs_t": {
+        "runs": 119,
+        "balls": 119,
+        "dismissals": 7,
+        "average": 17.0,
+        "strike_rate": 100.0
+      },
+      "b_f": [
+        3,
+        0,
+        9
+      ],
+      "w_f": [
+        1,
+        2,
+        1
+      ]
+    },
+    {
+      "bat": "J Liyanage",
+      "bat_t": "Sri Lanka",
+      "bowl": "Shadab Khan",
+      "bowl_t": "Pakistan",
+      "v": "bowler",
+      "h2h": {
+        "balls": 14,
+        "runs": 16,
+        "dismissals": 0,
+        "strike_rate": 114.29
+      },
+      "vs_t": {
+        "runs": 127,
+        "balls": 106,
+        "dismissals": 2,
+        "average": 63.5,
+        "strike_rate": 119.81
+      },
+      "b_f": [
+        5
+      ],
+      "w_f": [
+        0,
+        0,
+        3
+      ]
+    },
+    {
+      "bat": "Mohammad Nawaz",
+      "bat_t": "Pakistan",
+      "bowl": "PVD Chameera",
+      "bowl_t": "Sri Lanka",
+      "v": "batsman",
+      "h2h": {
+        "balls": 13,
+        "runs": 31,
+        "dismissals": 0,
+        "strike_rate": 238.46
+      },
+      "vs_t": {
+        "runs": 125,
+        "balls": 82,
+        "dismissals": 3,
+        "average": 41.67,
+        "strike_rate": 152.44
+      },
+      "b_f": [
+        0,
+        0,
+        4
+      ],
+      "w_f": [
+        1,
+        3,
+        1
+      ]
+    },
+    {
+      "bat": "KIC Asalanka",
+      "bat_t": "Sri Lanka",
+      "bowl": "Mohammad Nawaz",
+      "bowl_t": "Pakistan",
+      "v": "batsman",
+      "h2h": {
+        "balls": 12,
+        "runs": 19,
+        "dismissals": 0,
+        "strike_rate": 158.33
+      },
+      "vs_t": {
+        "runs": 59,
+        "balls": 47,
+        "dismissals": 3,
+        "average": 19.67,
+        "strike_rate": 125.53
+      },
+      "b_f": [
+        25,
+        5
+      ],
+      "w_f": [
+        1,
+        2,
+        1
+      ]
+    },
+    {
+      "bat": "Agha Salman",
+      "bat_t": "Pakistan",
+      "bowl": "MD Shanaka",
+      "bowl_t": "Sri Lanka",
+      "v": "bowler",
+      "h2h": {
+        "balls": 11,
+        "runs": 11,
+        "dismissals": 0,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 143,
+        "balls": 93,
+        "dismissals": 5,
+        "average": 28.6,
+        "strike_rate": 153.76
+      },
+      "b_f": [
+        0,
+        5,
+        38
+      ],
+      "w_f": [
+        2,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "Sahibzada Farhan",
+      "bat_t": "Pakistan",
+      "bowl": "MD Shanaka",
+      "bowl_t": "Sri Lanka",
+      "v": "batsman",
+      "h2h": {
+        "balls": 10,
+        "runs": 13,
+        "dismissals": 0,
+        "strike_rate": 130.0
+      },
+      "vs_t": {
+        "runs": 196,
+        "balls": 133,
+        "dismissals": 5,
+        "average": 39.2,
+        "strike_rate": 147.37
+      },
+      "b_f": [
+        100,
+        63,
+        100
+      ],
+      "w_f": [
+        2,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "PHKD Mendis",
+      "bat_t": "Sri Lanka",
+      "bowl": "Abrar Ahmed",
+      "bowl_t": "Pakistan",
+      "v": "bowler",
+      "h2h": {
+        "balls": 10,
+        "runs": 5,
+        "dismissals": 0,
+        "strike_rate": 50.0
+      },
+      "vs_t": {
+        "runs": 53,
+        "balls": 53,
+        "dismissals": 2,
+        "average": 26.5,
+        "strike_rate": 100.0
+      },
+      "b_f": [
+        3,
+        31,
+        13
+      ],
+      "w_f": [
+        3,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "Usman Khan",
+      "bat_t": "Pakistan",
+      "bowl": "PVD Chameera",
+      "bowl_t": "Sri Lanka",
+      "v": "bowler",
+      "h2h": {
+        "balls": 8,
+        "runs": 5,
+        "dismissals": 0,
+        "strike_rate": 62.5
+      },
+      "vs_t": {
+        "runs": 49,
+        "balls": 53,
+        "dismissals": 2,
+        "average": 24.5,
+        "strike_rate": 92.45
+      },
+      "b_f": [
+        8,
+        8,
+        44
+      ],
+      "w_f": [
+        1,
+        3,
+        1
+      ]
+    },
+    {
+      "bat": "K Mishara",
+      "bat_t": "Sri Lanka",
+      "bowl": "Shaheen Shah Afridi",
+      "bowl_t": "Pakistan",
+      "v": "batsman",
+      "h2h": {
+        "balls": 8,
+        "runs": 6,
+        "dismissals": 0,
+        "strike_rate": 75.0
+      },
+      "vs_t": {
+        "runs": 177,
+        "balls": 124,
+        "dismissals": 5,
+        "average": 35.4,
+        "strike_rate": 142.74
+      },
+      "b_f": [
+        26,
+        6,
+        8
+      ],
+      "w_f": [
+        1,
+        4,
+        1
+      ]
+    },
+    {
+      "bat": "Usman Khan",
+      "bat_t": "Pakistan",
+      "bowl": "MD Shanaka",
+      "bowl_t": "Sri Lanka",
+      "v": "bowler",
+      "h2h": {
+        "balls": 7,
+        "runs": 8,
+        "dismissals": 0,
+        "strike_rate": 114.29
+      },
+      "vs_t": {
+        "runs": 49,
+        "balls": 53,
+        "dismissals": 2,
+        "average": 24.5,
+        "strike_rate": 92.45
+      },
+      "b_f": [
+        8,
+        8,
+        44
+      ],
+      "w_f": [
+        2,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "Mohammad Nawaz",
+      "bat_t": "Pakistan",
+      "bowl": "D Madushanka",
+      "bowl_t": "Sri Lanka",
+      "v": "batsman",
+      "h2h": {
+        "balls": 7,
+        "runs": 14,
+        "dismissals": 0,
+        "strike_rate": 200.0
+      },
+      "vs_t": {
+        "runs": 125,
+        "balls": 82,
+        "dismissals": 3,
+        "average": 41.67,
+        "strike_rate": 152.44
+      },
+      "b_f": [
+        0,
+        0,
+        4
+      ],
+      "w_f": [
+        3,
+        0,
+        2
+      ]
+    },
+    {
+      "bat": "MD Shanaka",
+      "bat_t": "Sri Lanka",
+      "bowl": "Abrar Ahmed",
+      "bowl_t": "Pakistan",
+      "v": "bowler",
+      "h2h": {
+        "balls": 7,
+        "runs": 6,
+        "dismissals": 0,
+        "strike_rate": 85.71
+      },
+      "vs_t": {
+        "runs": 206,
+        "balls": 163,
+        "dismissals": 13,
+        "average": 15.85,
+        "strike_rate": 126.38
+      },
+      "b_f": [
+        76,
+        3,
+        30
+      ],
+      "w_f": [
+        3,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "KIC Asalanka",
+      "bat_t": "Sri Lanka",
+      "bowl": "Shadab Khan",
+      "bowl_t": "Pakistan",
+      "v": "bowler",
+      "h2h": {
+        "balls": 7,
+        "runs": 8,
+        "dismissals": 0,
+        "strike_rate": 114.29
+      },
+      "vs_t": {
+        "runs": 59,
+        "balls": 47,
+        "dismissals": 3,
+        "average": 19.67,
+        "strike_rate": 125.53
+      },
+      "b_f": [
+        25,
+        5
+      ],
+      "w_f": [
+        0,
+        0,
+        3
+      ]
+    },
+    {
+      "bat": "KIC Asalanka",
+      "bat_t": "Sri Lanka",
+      "bowl": "Shaheen Shah Afridi",
+      "bowl_t": "Pakistan",
+      "v": "bowler",
+      "h2h": {
+        "balls": 7,
+        "runs": 9,
+        "dismissals": 0,
+        "strike_rate": 128.57
+      },
+      "vs_t": {
+        "runs": 59,
+        "balls": 47,
+        "dismissals": 3,
+        "average": 19.67,
+        "strike_rate": 125.53
+      },
+      "b_f": [
+        25,
+        5
+      ],
+      "w_f": [
+        1,
+        4,
+        1
+      ]
+    },
+    {
+      "bat": "J Liyanage",
+      "bat_t": "Sri Lanka",
+      "bowl": "Naseem Shah",
+      "bowl_t": "Pakistan",
+      "v": "batsman",
+      "h2h": {
+        "balls": 6,
+        "runs": 13,
+        "dismissals": 0,
+        "strike_rate": 216.67
+      },
+      "vs_t": {
+        "runs": 127,
+        "balls": 106,
+        "dismissals": 2,
+        "average": 63.5,
+        "strike_rate": 119.81
+      },
+      "b_f": [
+        5
+      ],
+      "w_f": [
+        1
+      ]
+    },
+    {
+      "bat": "Shadab Khan",
+      "bat_t": "Pakistan",
+      "bowl": "PVD Chameera",
+      "bowl_t": "Sri Lanka",
+      "v": "bowler",
+      "h2h": {
+        "balls": 5,
+        "runs": 10,
+        "dismissals": 0,
+        "strike_rate": 200.0
+      },
+      "vs_t": {
+        "runs": 54,
+        "balls": 39,
+        "dismissals": 4,
+        "average": 13.5,
+        "strike_rate": 138.46
+      },
+      "b_f": [
+        7,
+        23,
+        36
+      ],
+      "w_f": [
+        1,
+        3,
+        1
+      ]
+    },
+    {
+      "bat": "Mohammad Nawaz",
+      "bat_t": "Pakistan",
+      "bowl": "KIC Asalanka",
+      "bowl_t": "Sri Lanka",
+      "v": "batsman",
+      "h2h": {
+        "balls": 4,
+        "runs": 2,
+        "dismissals": 0,
+        "strike_rate": 50.0
+      },
+      "vs_t": {
+        "runs": 125,
+        "balls": 82,
+        "dismissals": 3,
+        "average": 41.67,
+        "strike_rate": 152.44
+      },
+      "b_f": [
+        0,
+        0,
+        4
+      ],
+      "w_f": [
+        0
+      ]
+    },
+    {
+      "bat": "KIC Asalanka",
+      "bat_t": "Sri Lanka",
+      "bowl": "Agha Salman",
+      "bowl_t": "Pakistan",
+      "v": "bowler",
+      "h2h": {
+        "balls": 4,
+        "runs": 3,
+        "dismissals": 0,
+        "strike_rate": 75.0
+      },
+      "vs_t": {
+        "runs": 59,
+        "balls": 47,
+        "dismissals": 3,
+        "average": 19.67,
+        "strike_rate": 125.53
+      },
+      "b_f": [
+        25,
+        5
+      ],
+      "w_f": [
+        1
+      ]
+    },
+    {
+      "bat": "K Mishara",
+      "bat_t": "Sri Lanka",
+      "bowl": "Naseem Shah",
+      "bowl_t": "Pakistan",
+      "v": "batsman",
+      "h2h": {
+        "balls": 4,
+        "runs": 9,
+        "dismissals": 0,
+        "strike_rate": 225.0
+      },
+      "vs_t": {
+        "runs": 177,
+        "balls": 124,
+        "dismissals": 5,
+        "average": 35.4,
+        "strike_rate": 142.74
+      },
+      "b_f": [
+        26,
+        6,
+        8
+      ],
+      "w_f": [
+        1
+      ]
+    },
+    {
+      "bat": "P Rathnayake",
+      "bat_t": "Sri Lanka",
+      "bowl": "Mohammad Nawaz",
+      "bowl_t": "Pakistan",
+      "v": "neutral",
+      "h2h": {
+        "balls": 4,
+        "runs": 3,
+        "dismissals": 0,
+        "strike_rate": 75.0
+      },
+      "vs_t": {
+        "runs": 8,
+        "balls": 11,
+        "dismissals": 1,
+        "average": 8.0,
+        "strike_rate": 72.73
+      },
+      "b_f": [
+        58,
+        10,
+        0
+      ],
+      "w_f": [
+        1,
+        2,
+        1
+      ]
+    },
+    {
+      "bat": "Shadab Khan",
+      "bat_t": "Pakistan",
+      "bowl": "KIC Asalanka",
+      "bowl_t": "Sri Lanka",
+      "v": "bowler",
+      "h2h": {
+        "balls": 3,
+        "runs": 5,
+        "dismissals": 0,
+        "strike_rate": 166.67
+      },
+      "vs_t": {
+        "runs": 54,
+        "balls": 39,
+        "dismissals": 4,
+        "average": 13.5,
+        "strike_rate": 138.46
+      },
+      "b_f": [
+        7,
+        23,
+        36
+      ],
+      "w_f": [
+        0
+      ]
+    },
+    {
+      "bat": "K Mishara",
+      "bat_t": "Sri Lanka",
+      "bowl": "Agha Salman",
+      "bowl_t": "Pakistan",
+      "v": "batsman",
+      "h2h": {
+        "balls": 3,
+        "runs": 6,
+        "dismissals": 0,
+        "strike_rate": 200.0
+      },
+      "vs_t": {
+        "runs": 177,
+        "balls": 124,
+        "dismissals": 5,
+        "average": 35.4,
+        "strike_rate": 142.74
+      },
+      "b_f": [
+        26,
+        6,
+        8
+      ],
+      "w_f": [
+        1
+      ]
+    },
+    {
+      "bat": "Usman Khan",
+      "bat_t": "Pakistan",
+      "bowl": "P Rathnayake",
+      "bowl_t": "Sri Lanka",
+      "v": "bowler",
+      "h2h": {
+        "balls": 2,
+        "runs": 2,
+        "dismissals": 0,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 49,
+        "balls": 53,
+        "dismissals": 2,
+        "average": 24.5,
+        "strike_rate": 92.45
+      },
+      "b_f": [
+        8,
+        8,
+        44
+      ]
+    },
+    {
+      "bat": "Agha Salman",
+      "bat_t": "Pakistan",
+      "bowl": "KIC Asalanka",
+      "bowl_t": "Sri Lanka",
+      "v": "bowler",
+      "h2h": {
+        "balls": 2,
+        "runs": 2,
+        "dismissals": 0,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 143,
+        "balls": 93,
+        "dismissals": 5,
+        "average": 28.6,
+        "strike_rate": 153.76
+      },
+      "b_f": [
+        0,
+        5,
+        38
+      ],
+      "w_f": [
+        0
+      ]
+    },
+    {
+      "bat": "Mohammad Nawaz",
+      "bat_t": "Pakistan",
+      "bowl": "MD Shanaka",
+      "bowl_t": "Sri Lanka",
+      "v": "batsman",
+      "h2h": {
+        "balls": 2,
+        "runs": 2,
+        "dismissals": 0,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 125,
+        "balls": 82,
+        "dismissals": 3,
+        "average": 41.67,
+        "strike_rate": 152.44
+      },
+      "b_f": [
+        0,
+        0,
+        4
+      ],
+      "w_f": [
+        2,
+        1,
+        0
+      ]
+    }
+  ]
+}

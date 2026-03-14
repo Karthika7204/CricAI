@@ -1,0 +1,96 @@
+{
+    "match_id": "1512769",
+    "winner": "South Africa",
+    "loser": "Zimbabwe",
+    "awards": {
+        "player_of_the_match": {
+            "name": "Sikandar Raza",
+            "team": "Zimbabwe",
+            "impact_score": 239.0,
+            "breakdown": {
+                "batting": 123.0,
+                "bowling": 100,
+                "fielding": 16,
+                "pressure_multiplier": 1.0
+            },
+            "key_stats": {
+                "batting": "73(43) SR:169.77",
+                "bowling": "4.0ov-3wkt econ:7.25"
+            }
+        },
+        "best_batter": {
+            "name": "Sikandar Raza",
+            "team": "Zimbabwe",
+            "batting_impact": 123.0,
+            "stats": {
+                "runs": 73,
+                "balls": 43,
+                "sr": 169.77,
+                "fours": 8,
+                "sixes": 4
+            }
+        },
+        "best_bowler": {
+            "name": "Sikandar Raza",
+            "team": "Zimbabwe",
+            "bowling_impact": 100,
+            "stats": {
+                "overs": 4.0,
+                "wickets": 3,
+                "econ": 7.25
+            }
+        },
+        "game_changer": {
+            "name": "Sikandar Raza",
+            "team": "Zimbabwe",
+            "reason": "3-wicket haul | SR 169.77 with 4 sixes",
+            "key_stats": {
+                "batting": "73(43) SR:169.77",
+                "bowling": "4.0ov-3wkt econ:7.25"
+            }
+        },
+        "pressure_performer": {
+            "name": "Sikandar Raza",
+            "team": "Zimbabwe",
+            "pressure_multiplier": 1.0,
+            "reason": "Defended under high-pressure chase | Attacking SR 169.77 under pressure | Economy 7.25 while defending chase",
+            "key_stats": {
+                "batting": "73(43) SR:169.77",
+                "bowling": "4.0ov-3wkt econ:7.25"
+            }
+        },
+        "emerging_player": {
+            "name": "Sikandar Raza",
+            "team": "Zimbabwe",
+            "reason": "Outperformed team average by 6.61x",
+            "key_stats": {
+                "batting": "73(43) SR:169.77",
+                "bowling": "4.0ov-3wkt econ:7.25"
+            }
+        },
+        "fielding_impact": {
+            "name": "Sikandar Raza",
+            "team": "Zimbabwe",
+            "fielding_proxy_score": 16,
+            "methodology": "Proxy-based: catch attribution (65% T20 wickets are catches) + dot ball pressure bonus + economy-implied fielding support",
+            "reason": "Estimated 2 caught dismissals from 3 wickets",
+            "stats": {
+                "overs": 4.0,
+                "wickets": 3,
+                "econ": 7.25
+            }
+        },
+        "all_rounder_impact": {
+            "name": "Sikandar Raza",
+            "team": "Zimbabwe",
+            "all_rounder_score": 223.0,
+            "stats": {
+                "runs": 73,
+                "sr": 169.77,
+                "overs": 4.0,
+                "wickets": 3,
+                "econ": 7.25
+            }
+        }
+    }
+}

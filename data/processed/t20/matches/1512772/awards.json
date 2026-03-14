@@ -1,0 +1,92 @@
+{
+    "match_id": "1512772",
+    "winner": "India",
+    "loser": "England",
+    "awards": {
+        "player_of_the_match": {
+            "name": "JG Bethell",
+            "team": "England",
+            "impact_score": 225.6,
+            "breakdown": {
+                "batting": 188.0,
+                "bowling": 0.0,
+                "fielding": 0.0,
+                "pressure_multiplier": 1.2
+            },
+            "key_stats": {
+                "batting": "105(53) SR:198.11"
+            }
+        },
+        "best_batter": {
+            "name": "JG Bethell",
+            "team": "England",
+            "batting_impact": 188.0,
+            "stats": {
+                "runs": 105,
+                "balls": 53,
+                "sr": 198.11,
+                "fours": 8,
+                "sixes": 7
+            }
+        },
+        "best_bowler": {
+            "name": "HH Pandya",
+            "team": "India",
+            "bowling_impact": 50,
+            "stats": {
+                "overs": 4.0,
+                "wickets": 2,
+                "econ": 9.75
+            }
+        },
+        "game_changer": {
+            "name": "JG Bethell",
+            "team": "England",
+            "reason": "SR 198.11 with 7 sixes",
+            "key_stats": {
+                "batting": "105(53) SR:198.11"
+            }
+        },
+        "pressure_performer": {
+            "name": "JG Bethell",
+            "team": "England",
+            "pressure_multiplier": 1.2,
+            "reason": "Chasing team batter under pressure | Attacking SR 198.11 under pressure",
+            "key_stats": {
+                "batting": "105(53) SR:198.11"
+            }
+        },
+        "emerging_player": {
+            "name": "JG Bethell",
+            "team": "England",
+            "reason": "Outperformed team average by 3.54x",
+            "key_stats": {
+                "batting": "105(53) SR:198.11"
+            }
+        },
+        "fielding_impact": {
+            "name": "HH Pandya",
+            "team": "India",
+            "fielding_proxy_score": 8,
+            "methodology": "Proxy-based: catch attribution (65% T20 wickets are catches) + dot ball pressure bonus + economy-implied fielding support",
+            "reason": "Estimated 1 caught dismissals from 2 wickets",
+            "stats": {
+                "overs": 4.0,
+                "wickets": 2,
+                "econ": 9.75
+            }
+        },
+        "all_rounder_impact": {
+            "name": "HH Pandya",
+            "team": "India",
+            "all_rounder_score": 110.0,
+            "stats": {
+                "runs": 27,
+                "sr": 225.0,
+                "overs": 4.0,
+                "wickets": 2,
+                "econ": 9.75
+            }
+        }
+    }
+}

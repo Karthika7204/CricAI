@@ -1,0 +1,15 @@
+match_id,date,innings,team,player,runs,balls_faced,strike_rate,fours,sixes,dismissed,dismissal_kind
+1512766,26-02-2026,1,India,Abhishek Sharma,55,34,161.76,4,4,True,caught
+1512766,26-02-2026,1,India,HH Pandya,50,26,192.31,2,4,False,
+1512766,26-02-2026,1,India,Tilak Varma,44,16,275.0,3,4,False,
+1512766,26-02-2026,1,India,Ishan Kishan,38,24,158.33,4,1,True,caught
+1512766,26-02-2026,1,India,SA Yadav,33,13,253.85,3,2,True,caught
+1512766,26-02-2026,1,India,SV Samson,24,15,160.0,1,2,True,caught
+1512766,26-02-2026,2,Zimbabwe,BJ Bennett,97,63,153.97,8,6,False,
+1512766,26-02-2026,2,Zimbabwe,Sikandar Raza,31,21,147.62,2,2,True,caught
+1512766,26-02-2026,2,Zimbabwe,T Marumani,20,21,95.24,0,2,True,caught
+1512766,26-02-2026,2,Zimbabwe,T Munyonga,11,6,183.33,2,0,True,bowled
+1512766,26-02-2026,2,Zimbabwe,T Musekiwa,7,5,140.0,0,1,True,caught
+1512766,26-02-2026,2,Zimbabwe,D Myers,6,10,60.0,0,0,True,caught
+1512766,26-02-2026,2,Zimbabwe,B Evans,1,1,100.0,0,0,False,
+1512766,26-02-2026,2,Zimbabwe,RP Burl,0,2,0.0,0,0,True,lbw

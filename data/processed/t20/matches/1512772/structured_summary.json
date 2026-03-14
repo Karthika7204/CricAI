@@ -1,0 +1,512 @@
+{
+    "match_context": {
+        "match_id": "1512772",
+        "date": "05-03-2026",
+        "tournament": "2025/26",
+        "venue": "Wankhede Stadium, Mumbai",
+        "stage": "ICC Men's T20 World Cup",
+        "Teams": {
+            "India": {
+                "captain": "SA Yadav",
+                "playing_xi_count": 11
+            },
+            "England": {
+                "captain": "JC Buttler",
+                "playing_xi_count": 11
+            }
+        }
+    },
+    "Match_Result": {
+        "summary": "India won by 7 runs",
+        "winner": "India",
+        "margin": 7,
+        "margin_type": "runs"
+    },
+    "Scorecard_Highlights": {
+        "Key_Support_Performers": [
+            {
+                "player": "Tilak Varma",
+                "team": "India",
+                "runs": 21,
+                "balls": 9,
+                "sr": 233.33,
+                "fours": 0,
+                "sixes": 3,
+                "win_contribution_percent": 8.3,
+                "score": 52.87
+            },
+            {
+                "player": "JC Buttler",
+                "team": "England",
+                "runs": 25,
+                "balls": 17,
+                "sr": 147.06,
+                "fours": 4,
+                "sixes": 1,
+                "win_contribution_percent": 10.2,
+                "score": 45.09
+            },
+            {
+                "player": "SM Curran",
+                "team": "England",
+                "runs": 18,
+                "balls": 14,
+                "sr": 128.57,
+                "fours": 2,
+                "sixes": 0,
+                "win_contribution_percent": 7.3,
+                "score": 35.56
+            }
+        ],
+        "Career_vs_Match_Bowling": [
+            {
+                "player": "HH Pandya",
+                "team": "India",
+                "match_figures": "4.0-39-2",
+                "match_economy": 9.75,
+                "career_economy": 8.49,
+                "economy_delta": 1.26,
+                "match_sr": 12.0,
+                "career_sr": 19.4,
+                "career_wickets": 111,
+                "career_best": "4/38",
+                "verdict": "On par with career economy (8.49)"
+            },
+            {
+                "player": "JJ Bumrah",
+                "team": "India",
+                "match_figures": "4.0-33-1",
+                "match_economy": 8.25,
+                "career_economy": 6.85,
+                "economy_delta": 1.4,
+                "match_sr": 24.0,
+                "career_sr": 17.08,
+                "career_wickets": 113,
+                "career_best": "3/23",
+                "verdict": "On par with career economy (6.85)"
+            },
+            {
+                "player": "Arshdeep Singh",
+                "team": "India",
+                "match_figures": "4.0-51-1",
+                "match_economy": 12.75,
+                "career_economy": 8.75,
+                "economy_delta": 4.0,
+                "match_sr": 24.0,
+                "career_sr": 13.46,
+                "career_wickets": 120,
+                "career_best": "5/51",
+                "verdict": "Expensive - 4.0 above career economy (8.75)"
+            },
+            {
+                "player": "AR Patel",
+                "team": "India",
+                "match_figures": "3.0-37-1",
+                "match_economy": 12.33,
+                "career_economy": 7.59,
+                "economy_delta": 4.74,
+                "match_sr": 18.0,
+                "career_sr": 17.7,
+                "career_wickets": 88,
+                "career_best": "3/18",
+                "verdict": "Expensive - 4.74 above career economy (7.59)"
+            },
+            {
+                "player": "CV Varun",
+                "team": "India",
+                "match_figures": "4.0-64-1",
+                "match_economy": 16.0,
+                "career_economy": 7.36,
+                "economy_delta": 8.64,
+                "match_sr": 24.0,
+                "career_sr": 12.97,
+                "career_wickets": 71,
+                "career_best": "5/24",
+                "verdict": "Expensive - 8.64 above career economy (7.36)"
+            },
+            {
+                "player": "S Dube",
+                "team": "India",
+                "match_figures": "1.0-22-0",
+                "match_economy": 22.0,
+                "career_economy": 9.74,
+                "economy_delta": 12.26,
+                "match_sr": null,
+                "career_sr": 16.79,
+                "career_wickets": 28,
+                "career_best": "3/31",
+                "verdict": "Expensive - 12.26 above career economy (9.74)"
+            }
+        ],
+        "Bowling_Standouts": {
+            "Economical_Spells": [],
+            "Expensive_Spells": [
+                {
+                    "player": "Arshdeep Singh",
+                    "team": "India",
+                    "match_figures": "4.0-51-1",
+                    "match_economy": 12.75,
+                    "career_economy": 8.75,
+                    "economy_delta": 4.0,
+                    "match_sr": 24.0,
+                    "career_sr": 13.46,
+                    "career_wickets": 120,
+                    "career_best": "5/51",
+                    "verdict": "Expensive - 4.0 above career economy (8.75)"
+                },
+                {
+                    "player": "AR Patel",
+                    "team": "India",
+                    "match_figures": "3.0-37-1",
+                    "match_economy": 12.33,
+                    "career_economy": 7.59,
+                    "economy_delta": 4.74,
+                    "match_sr": 18.0,
+                    "career_sr": 17.7,
+                    "career_wickets": 88,
+                    "career_best": "3/18",
+                    "verdict": "Expensive - 4.74 above career economy (7.59)"
+                },
+                {
+                    "player": "CV Varun",
+                    "team": "India",
+                    "match_figures": "4.0-64-1",
+                    "match_economy": 16.0,
+                    "career_economy": 7.36,
+                    "economy_delta": 8.64,
+                    "match_sr": 24.0,
+                    "career_sr": 12.97,
+                    "career_wickets": 71,
+                    "career_best": "5/24",
+                    "verdict": "Expensive - 8.64 above career economy (7.36)"
+                },
+                {
+                    "player": "S Dube",
+                    "team": "India",
+                    "match_figures": "1.0-22-0",
+                    "match_economy": 22.0,
+                    "career_economy": 9.74,
+                    "economy_delta": 12.26,
+                    "match_sr": null,
+                    "career_sr": 16.79,
+                    "career_wickets": 28,
+                    "career_best": "3/31",
+                    "verdict": "Expensive - 12.26 above career economy (9.74)"
+                }
+            ],
+            "High_Economy_No_Baseline": [
+                {
+                    "player": "LA Dawson",
+                    "team": "England",
+                    "overs": 1.0,
+                    "runs": 19,
+                    "wickets": 0,
+                    "econ": 19.0,
+                    "score": 12.17,
+                    "bowling_baseline": {
+                        "career_wickets": 0,
+                        "career_economy": 0.0,
+                        "career_sr": 0.0,
+                        "career_avg": 0.0,
+                        "best_bowling": "N/A",
+                        "matches": 0,
+                        "source": "none",
+                        "baseline_available": false
+                    }
+                },
+                {
+                    "player": "JC Archer",
+                    "team": "England",
+                    "overs": 4.0,
+                    "runs": 61,
+                    "wickets": 1,
+                    "econ": 15.25,
+                    "score": 45.16,
+                    "bowling_baseline": {
+                        "career_wickets": 0,
+                        "career_economy": 0.0,
+                        "career_sr": 0.0,
+                        "career_avg": 0.0,
+                        "best_bowling": "N/A",
+                        "matches": 0,
+                        "source": "none",
+                        "baseline_available": false
+                    }
+                }
+            ]
+        },
+        "Significant_Collapses": []
+    },
+    "Innings_Metrics": [
+        {
+            "innings": 1,
+            "team": "India",
+            "total_runs": 253,
+            "total_wickets": 7,
+            "balls_faced": 120,
+            "overs_faced": 20.0,
+            "phase_analysis": {
+                "Powerplay": {
+                    "runs": 67,
+                    "wkts": 1,
+                    "rr": 11.17
+                },
+                "Middle": {
+                    "runs": 110,
+                    "wkts": 2,
+                    "rr": 12.22
+                },
+                "Death": {
+                    "runs": 76,
+                    "wkts": 4,
+                    "rr": 15.2
+                }
+            }
+        },
+        {
+            "innings": 2,
+            "team": "England",
+            "total_runs": 246,
+            "total_wickets": 7,
+            "balls_faced": 120,
+            "overs_faced": 20.0,
+            "phase_analysis": {
+                "Powerplay": {
+                    "runs": 68,
+                    "wkts": 3,
+                    "rr": 11.33
+                },
+                "Middle": {
+                    "runs": 117,
+                    "wkts": 2,
+                    "rr": 13.0
+                },
+                "Death": {
+                    "runs": 61,
+                    "wkts": 2,
+                    "rr": 12.2
+                }
+            },
+            "pressure_index": 81.0,
+            "target": 254
+        }
+    ],
+    "Detailed_Impact_Analysis": [
+        {
+            "player": "JG Bethell",
+            "team": "England",
+            "runs": 105,
+            "balls": 53,
+            "sr": 198.11,
+            "fours": 8,
+            "sixes": 7,
+            "win_contribution_percent": 42.7,
+            "score": 132.06,
+            "role": "batting",
+            "match_stats": "105(53)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "SV Samson",
+            "team": "India",
+            "runs": 89,
+            "balls": 44,
+            "sr": 202.27,
+            "fours": 8,
+            "sixes": 7,
+            "win_contribution_percent": 35.2,
+            "score": 116.63,
+            "role": "batting",
+            "match_stats": "89(44)",
+            "baseline": {
+                "avg": 25.0,
+                "sr": 143.98,
+                "matches": 49,
+                "source": "t20_master",
+                "baseline_available": true
+            }
+        },
+        {
+            "player": "HH Pandya",
+            "team": "India",
+            "overs": 4.0,
+            "runs": 39,
+            "wickets": 2,
+            "econ": 9.75,
+            "score": 83.71,
+            "bowling_baseline": {
+                "career_wickets": 111,
+                "career_economy": 8.49,
+                "career_sr": 19.4,
+                "career_avg": 27.46,
+                "best_bowling": "4/38",
+                "matches": 121,
+                "source": "t20_bowling_master",
+                "baseline_available": true
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-39r-2w"
+        },
+        {
+            "player": "AU Rashid",
+            "team": "England",
+            "overs": 4.0,
+            "runs": 41,
+            "wickets": 2,
+            "econ": 10.25,
+            "score": 82.56,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-41r-2w"
+        },
+        {
+            "player": "WG Jacks",
+            "team": "England",
+            "overs": 4.0,
+            "runs": 42,
+            "wickets": 2,
+            "econ": 10.5,
+            "score": 82.02,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-42r-2w"
+        },
+        {
+            "player": "JC Archer",
+            "team": "England",
+            "runs": 19,
+            "balls": 5,
+            "sr": 380.0,
+            "fours": 0,
+            "sixes": 3,
+            "win_contribution_percent": 7.7,
+            "score": 70.91,
+            "role": "batting",
+            "match_stats": "19(5)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "Ishan Kishan",
+            "team": "India",
+            "runs": 39,
+            "balls": 20,
+            "sr": 195.0,
+            "fours": 4,
+            "sixes": 2,
+            "win_contribution_percent": 15.4,
+            "score": 65.64,
+            "role": "batting",
+            "match_stats": "39(20)",
+            "baseline": {
+                "avg": 29.68,
+                "sr": 138.02,
+                "matches": 41,
+                "source": "t20_master",
+                "baseline_available": true
+            }
+        },
+        {
+            "player": "S Dube",
+            "team": "India",
+            "runs": 43,
+            "balls": 28,
+            "sr": 153.57,
+            "fours": 1,
+            "sixes": 4,
+            "win_contribution_percent": 17.0,
+            "score": 63.98,
+            "role": "batting",
+            "match_stats": "43(28)",
+            "baseline": {
+                "avg": 31.2,
+                "sr": 141.3,
+                "matches": 40,
+                "source": "t20_master",
+                "baseline_available": true
+            }
+        },
+        {
+            "player": "T Banton",
+            "team": "England",
+            "runs": 17,
+            "balls": 5,
+            "sr": 340.0,
+            "fours": 1,
+            "sixes": 2,
+            "win_contribution_percent": 6.9,
+            "score": 63.45,
+            "role": "batting",
+            "match_stats": "17(5)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "JJ Bumrah",
+            "team": "India",
+            "overs": 4.0,
+            "runs": 33,
+            "wickets": 1,
+            "econ": 8.25,
+            "score": 58.02,
+            "bowling_baseline": {
+                "career_wickets": 113,
+                "career_economy": 6.85,
+                "career_sr": 17.08,
+                "career_avg": 19.51,
+                "best_bowling": "3/23",
+                "matches": 88,
+                "source": "t20_bowling_master",
+                "baseline_available": true
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-33r-1w"
+        }
+    ],
+    "Tactical_Post_Match_Analysis": [
+        "India's victory was anchored by SV Samson, who contributed 35.2% of the team's runs.",
+        "Defensive pressure was sustained by HH Pandya, finishing with an impact score of 83.71.",
+        "Arshdeep Singh struggled with economy 12.75 vs career avg 8.75 (+4.0) — an expensive outing.",
+        "AR Patel struggled with economy 12.33 vs career avg 7.59 (+4.74) — an expensive outing.",
+        "CV Varun struggled with economy 16.0 vs career avg 7.36 (+8.64) — an expensive outing.",
+        "S Dube struggled with economy 22.0 vs career avg 9.74 (+12.26) — an expensive outing.",
+        "England struggled under extreme chase pressure (Index: 81.0), leading to a late-innings collapse.",
+        "High-scoring finish by India in Death Overs (RR: 15.2) shifted match momentum.",
+        "England lost 3 wickets in Powerplay, failing to build a stable foundation.",
+        "High-scoring finish by England in Death Overs (RR: 12.2) shifted match momentum."
+    ]
+}

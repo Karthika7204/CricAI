@@ -1,0 +1,1574 @@
+{
+  "match_id": "1512765",
+  "team_a": "West Indies",
+  "team_b": "South Africa",
+  "matchups": [
+    {
+      "bat": "AK Markram",
+      "bat_t": "South Africa",
+      "bowl": "R Shepherd",
+      "bowl_t": "West Indies",
+      "v": "bowler",
+      "h2h": {
+        "balls": 31,
+        "runs": 32,
+        "dismissals": 2,
+        "strike_rate": 103.23
+      },
+      "vs_t": {
+        "runs": 425,
+        "balls": 283,
+        "dismissals": 10,
+        "average": 42.5,
+        "strike_rate": 150.18
+      },
+      "b_car": {
+        "avg": 31.08,
+        "sr": 143.73
+      },
+      "b_f": [
+        82,
+        4,
+        28
+      ],
+      "w_f": [
+        0,
+        1,
+        5
+      ]
+    },
+    {
+      "bat": "AK Markram",
+      "bat_t": "South Africa",
+      "bowl": "MW Forde",
+      "bowl_t": "West Indies",
+      "v": "bowler",
+      "h2h": {
+        "balls": 21,
+        "runs": 23,
+        "dismissals": 2,
+        "strike_rate": 109.52
+      },
+      "vs_t": {
+        "runs": 425,
+        "balls": 283,
+        "dismissals": 10,
+        "average": 42.5,
+        "strike_rate": 150.18
+      },
+      "b_car": {
+        "avg": 31.08,
+        "sr": 143.73
+      },
+      "b_f": [
+        82,
+        4,
+        28
+      ],
+      "w_f": [
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "bat": "RD Rickelton",
+      "bat_t": "South Africa",
+      "bowl": "R Shepherd",
+      "bowl_t": "West Indies",
+      "v": "bowler",
+      "h2h": {
+        "balls": 17,
+        "runs": 33,
+        "dismissals": 2,
+        "strike_rate": 194.12
+      },
+      "vs_t": {
+        "runs": 226,
+        "balls": 157,
+        "dismissals": 7,
+        "average": 32.29,
+        "strike_rate": 143.95
+      },
+      "b_car": {
+        "avg": 26.26,
+        "sr": 141.78
+      },
+      "b_f": [
+        45,
+        7,
+        30
+      ],
+      "w_f": [
+        0,
+        1,
+        5
+      ]
+    },
+    {
+      "bat": "Q de Kock",
+      "bat_t": "South Africa",
+      "bowl": "G Motie",
+      "bowl_t": "West Indies",
+      "v": "bowler",
+      "h2h": {
+        "balls": 7,
+        "runs": 2,
+        "dismissals": 2,
+        "strike_rate": 28.57
+      },
+      "vs_t": {
+        "runs": 642,
+        "balls": 416,
+        "dismissals": 15,
+        "average": 42.8,
+        "strike_rate": 154.33
+      },
+      "b_car": {
+        "avg": 31.84,
+        "sr": 136.42
+      },
+      "b_f": [
+        47,
+        6,
+        14
+      ],
+      "w_f": [
+        0,
+        4,
+        2
+      ]
+    },
+    {
+      "bat": "RD Rickelton",
+      "bat_t": "South Africa",
+      "bowl": "RL Chase",
+      "bowl_t": "West Indies",
+      "v": "bowler",
+      "h2h": {
+        "balls": 36,
+        "runs": 40,
+        "dismissals": 1,
+        "strike_rate": 111.11
+      },
+      "vs_t": {
+        "runs": 226,
+        "balls": 157,
+        "dismissals": 7,
+        "average": 32.29,
+        "strike_rate": 143.95
+      },
+      "b_car": {
+        "avg": 26.26,
+        "sr": 141.78
+      },
+      "b_f": [
+        45,
+        7,
+        30
+      ],
+      "w_f": [
+        1,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "R Powell",
+      "bat_t": "West Indies",
+      "bowl": "KA Maharaj",
+      "bowl_t": "South Africa",
+      "v": "bowler",
+      "h2h": {
+        "balls": 8,
+        "runs": 4,
+        "dismissals": 2,
+        "strike_rate": 50.0
+      },
+      "vs_t": {
+        "runs": 169,
+        "balls": 128,
+        "dismissals": 7,
+        "average": 24.14,
+        "strike_rate": 132.03
+      },
+      "b_f": [
+        9,
+        59,
+        9
+      ],
+      "w_f": [
+        0,
+        3,
+        1
+      ]
+    },
+    {
+      "bat": "SD Hope",
+      "bat_t": "West Indies",
+      "bowl": "M Jansen",
+      "bowl_t": "South Africa",
+      "v": "batsman",
+      "h2h": {
+        "balls": 5,
+        "runs": 0,
+        "dismissals": 2,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 186,
+        "balls": 122,
+        "dismissals": 5,
+        "average": 37.2,
+        "strike_rate": 152.46
+      },
+      "b_f": [
+        16,
+        14,
+        75
+      ],
+      "w_f": [
+        0,
+        4,
+        4
+      ]
+    },
+    {
+      "bat": "RD Rickelton",
+      "bat_t": "South Africa",
+      "bowl": "MW Forde",
+      "bowl_t": "West Indies",
+      "v": "batsman",
+      "h2h": {
+        "balls": 19,
+        "runs": 30,
+        "dismissals": 1,
+        "strike_rate": 157.89
+      },
+      "vs_t": {
+        "runs": 226,
+        "balls": 157,
+        "dismissals": 7,
+        "average": 32.29,
+        "strike_rate": 143.95
+      },
+      "b_car": {
+        "avg": 26.26,
+        "sr": 141.78
+      },
+      "b_f": [
+        45,
+        7,
+        30
+      ],
+      "w_f": [
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "bat": "Q de Kock",
+      "bat_t": "South Africa",
+      "bowl": "JO Holder",
+      "bowl_t": "West Indies",
+      "v": "batsman",
+      "h2h": {
+        "balls": 47,
+        "runs": 98,
+        "dismissals": 0,
+        "strike_rate": 208.51
+      },
+      "vs_t": {
+        "runs": 642,
+        "balls": 416,
+        "dismissals": 15,
+        "average": 42.8,
+        "strike_rate": 154.33
+      },
+      "b_car": {
+        "avg": 31.84,
+        "sr": 136.42
+      },
+      "b_f": [
+        47,
+        6,
+        14
+      ],
+      "w_f": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "RD Rickelton",
+      "bat_t": "South Africa",
+      "bowl": "G Motie",
+      "bowl_t": "West Indies",
+      "v": "batsman",
+      "h2h": {
+        "balls": 16,
+        "runs": 28,
+        "dismissals": 1,
+        "strike_rate": 175.0
+      },
+      "vs_t": {
+        "runs": 226,
+        "balls": 157,
+        "dismissals": 7,
+        "average": 32.29,
+        "strike_rate": 143.95
+      },
+      "b_car": {
+        "avg": 26.26,
+        "sr": 141.78
+      },
+      "b_f": [
+        45,
+        7,
+        30
+      ],
+      "w_f": [
+        0,
+        4,
+        2
+      ]
+    },
+    {
+      "bat": "BA King",
+      "bat_t": "West Indies",
+      "bowl": "K Rabada",
+      "bowl_t": "South Africa",
+      "v": "batsman",
+      "h2h": {
+        "balls": 23,
+        "runs": 27,
+        "dismissals": 1,
+        "strike_rate": 117.39
+      },
+      "vs_t": {
+        "runs": 295,
+        "balls": 183,
+        "dismissals": 8,
+        "average": 36.88,
+        "strike_rate": 161.2
+      },
+      "b_f": [
+        21,
+        9,
+        4
+      ],
+      "w_f": [
+        2,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "SO Hetmyer",
+      "bat_t": "West Indies",
+      "bowl": "KA Maharaj",
+      "bowl_t": "South Africa",
+      "v": "batsman",
+      "h2h": {
+        "balls": 23,
+        "runs": 45,
+        "dismissals": 1,
+        "strike_rate": 195.65
+      },
+      "vs_t": {
+        "runs": 260,
+        "balls": 176,
+        "dismissals": 5,
+        "average": 52.0,
+        "strike_rate": 147.73
+      },
+      "b_f": [
+        2,
+        85,
+        1
+      ],
+      "w_f": [
+        0,
+        3,
+        1
+      ]
+    },
+    {
+      "bat": "RD Rickelton",
+      "bat_t": "South Africa",
+      "bowl": "S Joseph",
+      "bowl_t": "West Indies",
+      "v": "batsman",
+      "h2h": {
+        "balls": 12,
+        "runs": 16,
+        "dismissals": 1,
+        "strike_rate": 133.33
+      },
+      "vs_t": {
+        "runs": 226,
+        "balls": 157,
+        "dismissals": 7,
+        "average": 32.29,
+        "strike_rate": 143.95
+      },
+      "b_car": {
+        "avg": 26.26,
+        "sr": 141.78
+      },
+      "b_f": [
+        45,
+        7,
+        30
+      ],
+      "w_f": [
+        0,
+        0,
+        4
+      ]
+    },
+    {
+      "bat": "Q de Kock",
+      "bat_t": "South Africa",
+      "bowl": "MW Forde",
+      "bowl_t": "West Indies",
+      "v": "batsman",
+      "h2h": {
+        "balls": 9,
+        "runs": 16,
+        "dismissals": 1,
+        "strike_rate": 177.78
+      },
+      "vs_t": {
+        "runs": 642,
+        "balls": 416,
+        "dismissals": 15,
+        "average": 42.8,
+        "strike_rate": 154.33
+      },
+      "b_car": {
+        "avg": 31.84,
+        "sr": 136.42
+      },
+      "b_f": [
+        47,
+        6,
+        14
+      ],
+      "w_f": [
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "bat": "RL Chase",
+      "bat_t": "West Indies",
+      "bowl": "L Ngidi",
+      "bowl_t": "South Africa",
+      "v": "batsman",
+      "h2h": {
+        "balls": 18,
+        "runs": 35,
+        "dismissals": 1,
+        "strike_rate": 194.44
+      },
+      "vs_t": {
+        "runs": 194,
+        "balls": 151,
+        "dismissals": 4,
+        "average": 48.5,
+        "strike_rate": 128.48
+      },
+      "b_f": [
+        2,
+        24,
+        34
+      ],
+      "w_f": [
+        3,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "KA Maharaj",
+      "bat_t": "South Africa",
+      "bowl": "RL Chase",
+      "bowl_t": "West Indies",
+      "v": "neutral",
+      "h2h": {
+        "balls": 4,
+        "runs": 1,
+        "dismissals": 1,
+        "strike_rate": 25.0
+      },
+      "vs_t": {
+        "runs": 2,
+        "balls": 6,
+        "dismissals": 1,
+        "average": 2.0,
+        "strike_rate": 33.33
+      },
+      "b_car": {
+        "avg": 10.3,
+        "sr": 86.55
+      },
+      "b_f": [
+        1
+      ],
+      "w_f": [
+        1,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "SO Hetmyer",
+      "bat_t": "West Indies",
+      "bowl": "L Ngidi",
+      "bowl_t": "South Africa",
+      "v": "batsman",
+      "h2h": {
+        "balls": 12,
+        "runs": 16,
+        "dismissals": 1,
+        "strike_rate": 133.33
+      },
+      "vs_t": {
+        "runs": 260,
+        "balls": 176,
+        "dismissals": 5,
+        "average": 52.0,
+        "strike_rate": 147.73
+      },
+      "b_f": [
+        2,
+        85,
+        1
+      ],
+      "w_f": [
+        3,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "Q de Kock",
+      "bat_t": "South Africa",
+      "bowl": "RL Chase",
+      "bowl_t": "West Indies",
+      "v": "batsman",
+      "h2h": {
+        "balls": 30,
+        "runs": 53,
+        "dismissals": 0,
+        "strike_rate": 176.67
+      },
+      "vs_t": {
+        "runs": 642,
+        "balls": 416,
+        "dismissals": 15,
+        "average": 42.8,
+        "strike_rate": 154.33
+      },
+      "b_car": {
+        "avg": 31.84,
+        "sr": 136.42
+      },
+      "b_f": [
+        47,
+        6,
+        14
+      ],
+      "w_f": [
+        1,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "JO Holder",
+      "bat_t": "West Indies",
+      "bowl": "L Ngidi",
+      "bowl_t": "South Africa",
+      "v": "bowler",
+      "h2h": {
+        "balls": 7,
+        "runs": 4,
+        "dismissals": 1,
+        "strike_rate": 57.14
+      },
+      "vs_t": {
+        "runs": 50,
+        "balls": 43,
+        "dismissals": 3,
+        "average": 16.67,
+        "strike_rate": 116.28
+      },
+      "b_f": [
+        49,
+        13,
+        9
+      ],
+      "w_f": [
+        3,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "SE Rutherford",
+      "bat_t": "West Indies",
+      "bowl": "KA Maharaj",
+      "bowl_t": "South Africa",
+      "v": "bowler",
+      "h2h": {
+        "balls": 7,
+        "runs": 3,
+        "dismissals": 1,
+        "strike_rate": 42.86
+      },
+      "vs_t": {
+        "runs": 92,
+        "balls": 57,
+        "dismissals": 3,
+        "average": 30.67,
+        "strike_rate": 161.4
+      },
+      "b_f": [
+        12,
+        31,
+        24
+      ],
+      "w_f": [
+        0,
+        3,
+        1
+      ]
+    },
+    {
+      "bat": "SD Hope",
+      "bat_t": "West Indies",
+      "bowl": "KA Maharaj",
+      "bowl_t": "South Africa",
+      "v": "batsman",
+      "h2h": {
+        "balls": 6,
+        "runs": 23,
+        "dismissals": 1,
+        "strike_rate": 383.33
+      },
+      "vs_t": {
+        "runs": 186,
+        "balls": 122,
+        "dismissals": 5,
+        "average": 37.2,
+        "strike_rate": 152.46
+      },
+      "b_f": [
+        16,
+        14,
+        75
+      ],
+      "w_f": [
+        0,
+        3,
+        1
+      ]
+    },
+    {
+      "bat": "MW Forde",
+      "bat_t": "West Indies",
+      "bowl": "C Bosch",
+      "bowl_t": "South Africa",
+      "v": "bowler",
+      "h2h": {
+        "balls": 4,
+        "runs": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 21,
+        "balls": 20,
+        "dismissals": 2,
+        "average": 10.5,
+        "strike_rate": 105.0
+      },
+      "b_f": [
+        11,
+        1,
+        16
+      ],
+      "w_f": [
+        2,
+        2,
+        3
+      ]
+    },
+    {
+      "bat": "R Powell",
+      "bat_t": "West Indies",
+      "bowl": "AK Markram",
+      "bowl_t": "South Africa",
+      "v": "bowler",
+      "h2h": {
+        "balls": 2,
+        "runs": 6,
+        "dismissals": 1,
+        "strike_rate": 300.0
+      },
+      "vs_t": {
+        "runs": 169,
+        "balls": 128,
+        "dismissals": 7,
+        "average": 24.14,
+        "strike_rate": 132.03
+      },
+      "b_f": [
+        9,
+        59,
+        9
+      ],
+      "w_f": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "BA King",
+      "bat_t": "West Indies",
+      "bowl": "C Bosch",
+      "bowl_t": "South Africa",
+      "v": "batsman",
+      "h2h": {
+        "balls": 2,
+        "runs": 4,
+        "dismissals": 1,
+        "strike_rate": 200.0
+      },
+      "vs_t": {
+        "runs": 295,
+        "balls": 183,
+        "dismissals": 8,
+        "average": 36.88,
+        "strike_rate": 161.2
+      },
+      "b_f": [
+        21,
+        9,
+        4
+      ],
+      "w_f": [
+        2,
+        2,
+        3
+      ]
+    },
+    {
+      "bat": "AK Markram",
+      "bat_t": "South Africa",
+      "bowl": "JO Holder",
+      "bowl_t": "West Indies",
+      "v": "batsman",
+      "h2h": {
+        "balls": 21,
+        "runs": 41,
+        "dismissals": 0,
+        "strike_rate": 195.24
+      },
+      "vs_t": {
+        "runs": 425,
+        "balls": 283,
+        "dismissals": 10,
+        "average": 42.5,
+        "strike_rate": 150.18
+      },
+      "b_car": {
+        "avg": 31.08,
+        "sr": 143.73
+      },
+      "b_f": [
+        82,
+        4,
+        28
+      ],
+      "w_f": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "BA King",
+      "bat_t": "West Indies",
+      "bowl": "L Ngidi",
+      "bowl_t": "South Africa",
+      "v": "batsman",
+      "h2h": {
+        "balls": 27,
+        "runs": 51,
+        "dismissals": 0,
+        "strike_rate": 188.89
+      },
+      "vs_t": {
+        "runs": 295,
+        "balls": 183,
+        "dismissals": 8,
+        "average": 36.88,
+        "strike_rate": 161.2
+      },
+      "b_f": [
+        21,
+        9,
+        4
+      ],
+      "w_f": [
+        3,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "RD Rickelton",
+      "bat_t": "South Africa",
+      "bowl": "JO Holder",
+      "bowl_t": "West Indies",
+      "v": "bowler",
+      "h2h": {
+        "balls": 15,
+        "runs": 13,
+        "dismissals": 0,
+        "strike_rate": 86.67
+      },
+      "vs_t": {
+        "runs": 226,
+        "balls": 157,
+        "dismissals": 7,
+        "average": 32.29,
+        "strike_rate": 143.95
+      },
+      "b_car": {
+        "avg": 26.26,
+        "sr": 141.78
+      },
+      "b_f": [
+        45,
+        7,
+        30
+      ],
+      "w_f": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "SO Hetmyer",
+      "bat_t": "West Indies",
+      "bowl": "K Rabada",
+      "bowl_t": "South Africa",
+      "v": "batsman",
+      "h2h": {
+        "balls": 23,
+        "runs": 19,
+        "dismissals": 0,
+        "strike_rate": 82.61
+      },
+      "vs_t": {
+        "runs": 260,
+        "balls": 176,
+        "dismissals": 5,
+        "average": 52.0,
+        "strike_rate": 147.73
+      },
+      "b_f": [
+        2,
+        85,
+        1
+      ],
+      "w_f": [
+        2,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "Q de Kock",
+      "bat_t": "South Africa",
+      "bowl": "R Shepherd",
+      "bowl_t": "West Indies",
+      "v": "batsman",
+      "h2h": {
+        "balls": 10,
+        "runs": 23,
+        "dismissals": 0,
+        "strike_rate": 230.0
+      },
+      "vs_t": {
+        "runs": 642,
+        "balls": 416,
+        "dismissals": 15,
+        "average": 42.8,
+        "strike_rate": 154.33
+      },
+      "b_car": {
+        "avg": 31.84,
+        "sr": 136.42
+      },
+      "b_f": [
+        47,
+        6,
+        14
+      ],
+      "w_f": [
+        0,
+        1,
+        5
+      ]
+    },
+    {
+      "bat": "AK Markram",
+      "bat_t": "South Africa",
+      "bowl": "RL Chase",
+      "bowl_t": "West Indies",
+      "v": "batsman",
+      "h2h": {
+        "balls": 9,
+        "runs": 12,
+        "dismissals": 0,
+        "strike_rate": 133.33
+      },
+      "vs_t": {
+        "runs": 425,
+        "balls": 283,
+        "dismissals": 10,
+        "average": 42.5,
+        "strike_rate": 150.18
+      },
+      "b_car": {
+        "avg": 31.08,
+        "sr": 143.73
+      },
+      "b_f": [
+        82,
+        4,
+        28
+      ],
+      "w_f": [
+        1,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "Q de Kock",
+      "bat_t": "South Africa",
+      "bowl": "R Powell",
+      "bowl_t": "West Indies",
+      "v": "batsman",
+      "h2h": {
+        "balls": 8,
+        "runs": 9,
+        "dismissals": 0,
+        "strike_rate": 112.5
+      },
+      "vs_t": {
+        "runs": 642,
+        "balls": 416,
+        "dismissals": 15,
+        "average": 42.8,
+        "strike_rate": 154.33
+      },
+      "b_car": {
+        "avg": 31.84,
+        "sr": 136.42
+      },
+      "b_f": [
+        47,
+        6,
+        14
+      ]
+    },
+    {
+      "bat": "Q de Kock",
+      "bat_t": "South Africa",
+      "bowl": "S Joseph",
+      "bowl_t": "West Indies",
+      "v": "batsman",
+      "h2h": {
+        "balls": 8,
+        "runs": 20,
+        "dismissals": 0,
+        "strike_rate": 250.0
+      },
+      "vs_t": {
+        "runs": 642,
+        "balls": 416,
+        "dismissals": 15,
+        "average": 42.8,
+        "strike_rate": 154.33
+      },
+      "b_car": {
+        "avg": 31.84,
+        "sr": 136.42
+      },
+      "b_f": [
+        47,
+        6,
+        14
+      ],
+      "w_f": [
+        0,
+        0,
+        4
+      ]
+    },
+    {
+      "bat": "RL Chase",
+      "bat_t": "West Indies",
+      "bowl": "KA Maharaj",
+      "bowl_t": "South Africa",
+      "v": "bowler",
+      "h2h": {
+        "balls": 17,
+        "runs": 21,
+        "dismissals": 0,
+        "strike_rate": 123.53
+      },
+      "vs_t": {
+        "runs": 194,
+        "balls": 151,
+        "dismissals": 4,
+        "average": 48.5,
+        "strike_rate": 128.48
+      },
+      "b_f": [
+        2,
+        24,
+        34
+      ],
+      "w_f": [
+        0,
+        3,
+        1
+      ]
+    },
+    {
+      "bat": "AK Markram",
+      "bat_t": "South Africa",
+      "bowl": "G Motie",
+      "bowl_t": "West Indies",
+      "v": "batsman",
+      "h2h": {
+        "balls": 7,
+        "runs": 12,
+        "dismissals": 0,
+        "strike_rate": 171.43
+      },
+      "vs_t": {
+        "runs": 425,
+        "balls": 283,
+        "dismissals": 10,
+        "average": 42.5,
+        "strike_rate": 150.18
+      },
+      "b_car": {
+        "avg": 31.08,
+        "sr": 143.73
+      },
+      "b_f": [
+        82,
+        4,
+        28
+      ],
+      "w_f": [
+        0,
+        4,
+        2
+      ]
+    },
+    {
+      "bat": "AK Markram",
+      "bat_t": "South Africa",
+      "bowl": "S Joseph",
+      "bowl_t": "West Indies",
+      "v": "batsman",
+      "h2h": {
+        "balls": 6,
+        "runs": 17,
+        "dismissals": 0,
+        "strike_rate": 283.33
+      },
+      "vs_t": {
+        "runs": 425,
+        "balls": 283,
+        "dismissals": 10,
+        "average": 42.5,
+        "strike_rate": 150.18
+      },
+      "b_car": {
+        "avg": 31.08,
+        "sr": 143.73
+      },
+      "b_f": [
+        82,
+        4,
+        28
+      ],
+      "w_f": [
+        0,
+        0,
+        4
+      ]
+    },
+    {
+      "bat": "R Shepherd",
+      "bat_t": "West Indies",
+      "bowl": "K Rabada",
+      "bowl_t": "South Africa",
+      "v": "batsman",
+      "h2h": {
+        "balls": 15,
+        "runs": 44,
+        "dismissals": 0,
+        "strike_rate": 293.33
+      },
+      "vs_t": {
+        "runs": 144,
+        "balls": 86,
+        "dismissals": 1,
+        "average": 144.0,
+        "strike_rate": 167.44
+      },
+      "b_f": [
+        52,
+        21,
+        1
+      ],
+      "w_f": [
+        2,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "K Rabada",
+      "bat_t": "South Africa",
+      "bowl": "JO Holder",
+      "bowl_t": "West Indies",
+      "v": "neutral",
+      "h2h": {
+        "balls": 5,
+        "runs": 3,
+        "dismissals": 0,
+        "strike_rate": 60.0
+      },
+      "vs_t": {
+        "runs": 38,
+        "balls": 31,
+        "dismissals": 0,
+        "average": 38.0,
+        "strike_rate": 122.58
+      },
+      "b_car": {
+        "avg": 16.73,
+        "sr": 110.84
+      },
+      "b_f": [
+        0,
+        0
+      ],
+      "w_f": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "M Jansen",
+      "bat_t": "South Africa",
+      "bowl": "RL Chase",
+      "bowl_t": "West Indies",
+      "v": "neutral",
+      "h2h": {
+        "balls": 5,
+        "runs": 5,
+        "dismissals": 0,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 21,
+        "balls": 14,
+        "dismissals": 0,
+        "average": 21.0,
+        "strike_rate": 150.0
+      },
+      "b_car": {
+        "avg": 14.07,
+        "sr": 134.93
+      },
+      "b_f": [
+        2,
+        55
+      ],
+      "w_f": [
+        1,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "RL Chase",
+      "bat_t": "West Indies",
+      "bowl": "AK Markram",
+      "bowl_t": "South Africa",
+      "v": "bowler",
+      "h2h": {
+        "balls": 14,
+        "runs": 14,
+        "dismissals": 0,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 194,
+        "balls": 151,
+        "dismissals": 4,
+        "average": 48.5,
+        "strike_rate": 128.48
+      },
+      "b_f": [
+        2,
+        24,
+        34
+      ],
+      "w_f": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "SO Hetmyer",
+      "bat_t": "West Indies",
+      "bowl": "C Bosch",
+      "bowl_t": "South Africa",
+      "v": "batsman",
+      "h2h": {
+        "balls": 13,
+        "runs": 21,
+        "dismissals": 0,
+        "strike_rate": 161.54
+      },
+      "vs_t": {
+        "runs": 260,
+        "balls": 176,
+        "dismissals": 5,
+        "average": 52.0,
+        "strike_rate": 147.73
+      },
+      "b_f": [
+        2,
+        85,
+        1
+      ],
+      "w_f": [
+        2,
+        2,
+        3
+      ]
+    },
+    {
+      "bat": "SO Hetmyer",
+      "bat_t": "West Indies",
+      "bowl": "AK Markram",
+      "bowl_t": "South Africa",
+      "v": "batsman",
+      "h2h": {
+        "balls": 13,
+        "runs": 29,
+        "dismissals": 0,
+        "strike_rate": 223.08
+      },
+      "vs_t": {
+        "runs": 260,
+        "balls": 176,
+        "dismissals": 5,
+        "average": 52.0,
+        "strike_rate": 147.73
+      },
+      "b_f": [
+        2,
+        85,
+        1
+      ],
+      "w_f": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "K Rabada",
+      "bat_t": "South Africa",
+      "bowl": "RL Chase",
+      "bowl_t": "West Indies",
+      "v": "neutral",
+      "h2h": {
+        "balls": 3,
+        "runs": 5,
+        "dismissals": 0,
+        "strike_rate": 166.67
+      },
+      "vs_t": {
+        "runs": 38,
+        "balls": 31,
+        "dismissals": 0,
+        "average": 38.0,
+        "strike_rate": 122.58
+      },
+      "b_car": {
+        "avg": 16.73,
+        "sr": 110.84
+      },
+      "b_f": [
+        0,
+        0
+      ],
+      "w_f": [
+        1,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "C Bosch",
+      "bat_t": "South Africa",
+      "bowl": "S Joseph",
+      "bowl_t": "West Indies",
+      "v": "neutral",
+      "h2h": {
+        "balls": 2,
+        "runs": 2,
+        "dismissals": 0,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 2,
+        "balls": 2,
+        "dismissals": 0,
+        "average": 2.0,
+        "strike_rate": 100.0
+      },
+      "b_car": {
+        "avg": 14.12,
+        "sr": 104.63
+      },
+      "b_f": [
+        5,
+        2
+      ],
+      "w_f": [
+        0,
+        0,
+        4
+      ]
+    },
+    {
+      "bat": "AK Markram",
+      "bat_t": "South Africa",
+      "bowl": "R Powell",
+      "bowl_t": "West Indies",
+      "v": "batsman",
+      "h2h": {
+        "balls": 2,
+        "runs": 3,
+        "dismissals": 0,
+        "strike_rate": 150.0
+      },
+      "vs_t": {
+        "runs": 425,
+        "balls": 283,
+        "dismissals": 10,
+        "average": 42.5,
+        "strike_rate": 150.18
+      },
+      "b_car": {
+        "avg": 31.08,
+        "sr": 143.73
+      },
+      "b_f": [
+        82,
+        4,
+        28
+      ]
+    },
+    {
+      "bat": "R Powell",
+      "bat_t": "West Indies",
+      "bowl": "M Jansen",
+      "bowl_t": "South Africa",
+      "v": "bowler",
+      "h2h": {
+        "balls": 11,
+        "runs": 10,
+        "dismissals": 0,
+        "strike_rate": 90.91
+      },
+      "vs_t": {
+        "runs": 169,
+        "balls": 128,
+        "dismissals": 7,
+        "average": 24.14,
+        "strike_rate": 132.03
+      },
+      "b_f": [
+        9,
+        59,
+        9
+      ],
+      "w_f": [
+        0,
+        4,
+        4
+      ]
+    },
+    {
+      "bat": "R Shepherd",
+      "bat_t": "West Indies",
+      "bowl": "L Ngidi",
+      "bowl_t": "South Africa",
+      "v": "batsman",
+      "h2h": {
+        "balls": 11,
+        "runs": 12,
+        "dismissals": 0,
+        "strike_rate": 109.09
+      },
+      "vs_t": {
+        "runs": 144,
+        "balls": 86,
+        "dismissals": 1,
+        "average": 144.0,
+        "strike_rate": 167.44
+      },
+      "b_f": [
+        52,
+        21,
+        1
+      ],
+      "w_f": [
+        3,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "L Ngidi",
+      "bat_t": "South Africa",
+      "bowl": "S Joseph",
+      "bowl_t": "West Indies",
+      "v": "neutral",
+      "h2h": {
+        "balls": 1,
+        "runs": 0,
+        "dismissals": 0,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 5,
+        "balls": 10,
+        "dismissals": 1,
+        "average": 5.0,
+        "strike_rate": 50.0
+      },
+      "b_car": {
+        "avg": 11.8,
+        "sr": 80.82
+      },
+      "w_f": [
+        0,
+        0,
+        4
+      ]
+    },
+    {
+      "bat": "R Powell",
+      "bat_t": "West Indies",
+      "bowl": "K Rabada",
+      "bowl_t": "South Africa",
+      "v": "batsman",
+      "h2h": {
+        "balls": 10,
+        "runs": 14,
+        "dismissals": 0,
+        "strike_rate": 140.0
+      },
+      "vs_t": {
+        "runs": 169,
+        "balls": 128,
+        "dismissals": 7,
+        "average": 24.14,
+        "strike_rate": 132.03
+      },
+      "b_f": [
+        9,
+        59,
+        9
+      ],
+      "w_f": [
+        2,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "K Rabada",
+      "bat_t": "South Africa",
+      "bowl": "SD Hope",
+      "bowl_t": "West Indies",
+      "v": "neutral",
+      "vs_t": {
+        "runs": 38,
+        "balls": 31,
+        "dismissals": 0,
+        "average": 38.0,
+        "strike_rate": 122.58
+      },
+      "b_car": {
+        "avg": 16.73,
+        "sr": 110.84
+      },
+      "b_f": [
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "K Rabada",
+      "bat_t": "South Africa",
+      "bowl": "R Powell",
+      "bowl_t": "West Indies",
+      "v": "neutral",
+      "vs_t": {
+        "runs": 38,
+        "balls": 31,
+        "dismissals": 0,
+        "average": 38.0,
+        "strike_rate": 122.58
+      },
+      "b_car": {
+        "avg": 16.73,
+        "sr": 110.84
+      },
+      "b_f": [
+        0,
+        0
+      ]
+    }
+  ]
+}

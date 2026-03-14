@@ -1,0 +1,928 @@
+{
+    "match_id": "1512765",
+    "metadata": {
+        "tournament": "2025/26",
+        "venue": "Narendra Modi Stadium, Ahmedabad",
+        "date": "26-02-2026",
+        "stage": "ICC Men's T20 World Cup",
+        "winner": "South Africa",
+        "loser": "West Indies",
+        "win_classification": "Moderate",
+        "margin_runs": null,
+        "margin_wickets": 9,
+        "competitiveness_index": 85.0,
+        "teams": {
+            "West Indies": {
+                "captain": "SD Hope",
+                "playing_xi_count": 11
+            },
+            "South Africa": {
+                "captain": "AK Markram",
+                "playing_xi_count": 8
+            }
+        },
+        "team_summary": {
+            "West Indies": {
+                "run_rate": 8.8,
+                "fours": 15,
+                "sixes": 11,
+                "boundary_runs": 126,
+                "dot_balls": 53,
+                "total_runs": 176,
+                "total_wickets": 8
+            },
+            "South Africa": {
+                "run_rate": 10.95,
+                "fours": 15,
+                "sixes": 10,
+                "boundary_runs": 120,
+                "dot_balls": 26,
+                "total_runs": 177,
+                "total_wickets": 1
+            }
+        },
+        "formulas": {
+            "competitiveness": "Base(Margin) + Pressure_Bonus(L5 Overs)",
+            "pressure": "((RR_Gap / Start_RR) * 40) + ((Wickets / 10) * 60)",
+            "batting_impact": "Runs + (SR/Match_SR * 25)",
+            "bowling_impact": "(Wickets * 30) + (Match_RR/Econ * 20)"
+        }
+    },
+    "scorecards": {
+        "batting": [
+            {
+                "player": "R Shepherd",
+                "team": "West Indies",
+                "runs": 52,
+                "balls": 38,
+                "sr": 136.84,
+                "fours": 3,
+                "sixes": 4,
+                "win_contribution_percent": 29.5,
+                "score": 73.82
+            },
+            {
+                "player": "JO Holder",
+                "team": "West Indies",
+                "runs": 49,
+                "balls": 32,
+                "sr": 153.12,
+                "fours": 4,
+                "sixes": 3,
+                "win_contribution_percent": 27.8,
+                "score": 73.42
+            },
+            {
+                "player": "BA King",
+                "team": "West Indies",
+                "runs": 21,
+                "balls": 11,
+                "sr": 190.91,
+                "fours": 5,
+                "sixes": 0,
+                "win_contribution_percent": 11.9,
+                "score": 51.45
+            },
+            {
+                "player": "SD Hope",
+                "team": "West Indies",
+                "runs": 16,
+                "balls": 6,
+                "sr": 266.67,
+                "fours": 1,
+                "sixes": 2,
+                "win_contribution_percent": 9.1,
+                "score": 58.53
+            },
+            {
+                "player": "SE Rutherford",
+                "team": "West Indies",
+                "runs": 12,
+                "balls": 10,
+                "sr": 120.0,
+                "fours": 0,
+                "sixes": 1,
+                "win_contribution_percent": 6.8,
+                "score": 31.14
+            },
+            {
+                "player": "MW Forde",
+                "team": "West Indies",
+                "runs": 11,
+                "balls": 9,
+                "sr": 122.22,
+                "fours": 1,
+                "sixes": 1,
+                "win_contribution_percent": 6.2,
+                "score": 30.49
+            },
+            {
+                "player": "R Powell",
+                "team": "West Indies",
+                "runs": 9,
+                "balls": 11,
+                "sr": 81.82,
+                "fours": 1,
+                "sixes": 0,
+                "win_contribution_percent": 5.1,
+                "score": 22.05
+            },
+            {
+                "player": "RL Chase",
+                "team": "West Indies",
+                "runs": 2,
+                "balls": 2,
+                "sr": 100.0,
+                "fours": 0,
+                "sixes": 0,
+                "win_contribution_percent": 1.1,
+                "score": 17.95
+            },
+            {
+                "player": "SO Hetmyer",
+                "team": "West Indies",
+                "runs": 2,
+                "balls": 3,
+                "sr": 66.67,
+                "fours": 0,
+                "sixes": 0,
+                "win_contribution_percent": 1.1,
+                "score": 12.63
+            },
+            {
+                "player": "AK Markram",
+                "team": "South Africa",
+                "runs": 82,
+                "balls": 48,
+                "sr": 170.83,
+                "fours": 7,
+                "sixes": 4,
+                "win_contribution_percent": 46.3,
+                "score": 109.24
+            },
+            {
+                "player": "Q de Kock",
+                "team": "South Africa",
+                "runs": 47,
+                "balls": 24,
+                "sr": 195.83,
+                "fours": 4,
+                "sixes": 4,
+                "win_contribution_percent": 26.6,
+                "score": 78.23
+            },
+            {
+                "player": "RD Rickelton",
+                "team": "South Africa",
+                "runs": 45,
+                "balls": 28,
+                "sr": 160.71,
+                "fours": 4,
+                "sixes": 2,
+                "win_contribution_percent": 25.4,
+                "score": 70.63
+            }
+        ],
+        "bowling": [
+            {
+                "player": "L Ngidi",
+                "team": "South Africa",
+                "overs": 4.0,
+                "runs": 30,
+                "wickets": 3,
+                "econ": 7.5,
+                "score": 115.44,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "K Rabada",
+                "team": "South Africa",
+                "overs": 4.0,
+                "runs": 22,
+                "wickets": 2,
+                "econ": 5.5,
+                "score": 94.69,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "C Bosch",
+                "team": "South Africa",
+                "overs": 4.0,
+                "runs": 31,
+                "wickets": 2,
+                "econ": 7.75,
+                "score": 84.62,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "KA Maharaj",
+                "team": "South Africa",
+                "overs": 4.0,
+                "runs": 43,
+                "wickets": 0,
+                "econ": 10.75,
+                "score": 17.75,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "M Jansen",
+                "team": "South Africa",
+                "overs": 4.0,
+                "runs": 50,
+                "wickets": 0,
+                "econ": 12.5,
+                "score": 15.26,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "RL Chase",
+                "team": "West Indies",
+                "overs": 4.0,
+                "runs": 46,
+                "wickets": 1,
+                "econ": 11.5,
+                "score": 46.59,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "JO Holder",
+                "team": "West Indies",
+                "overs": 3.1,
+                "runs": 31,
+                "wickets": 0,
+                "econ": 9.79,
+                "score": 19.49,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "MW Forde",
+                "team": "West Indies",
+                "overs": 3.0,
+                "runs": 30,
+                "wickets": 0,
+                "econ": 10.0,
+                "score": 19.08,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "R Shepherd",
+                "team": "West Indies",
+                "overs": 2.0,
+                "runs": 22,
+                "wickets": 0,
+                "econ": 11.0,
+                "score": 17.35,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "G Motie",
+                "team": "West Indies",
+                "overs": 2.0,
+                "runs": 24,
+                "wickets": 0,
+                "econ": 12.0,
+                "score": 15.9,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "S Joseph",
+                "team": "West Indies",
+                "overs": 2.0,
+                "runs": 24,
+                "wickets": 0,
+                "econ": 12.0,
+                "score": 15.9,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            }
+        ]
+    },
+    "innings": [
+        {
+            "innings": 1,
+            "team": "West Indies",
+            "total_runs": 176,
+            "total_wickets": 8,
+            "balls_faced": 120,
+            "overs_faced": 20.0,
+            "phase_analysis": {
+                "Powerplay": {
+                    "runs": 52,
+                    "wkts": 4,
+                    "rr": 8.67
+                },
+                "Middle": {
+                    "runs": 66,
+                    "wkts": 3,
+                    "rr": 7.33
+                },
+                "Death": {
+                    "runs": 58,
+                    "wkts": 1,
+                    "rr": 11.6
+                }
+            }
+        },
+        {
+            "innings": 2,
+            "team": "South Africa",
+            "total_runs": 177,
+            "total_wickets": 1,
+            "balls_faced": 97,
+            "overs_faced": 16.1,
+            "phase_analysis": {
+                "Powerplay": {
+                    "runs": 69,
+                    "wkts": 0,
+                    "rr": 11.5
+                },
+                "Middle": {
+                    "runs": 94,
+                    "wkts": 1,
+                    "rr": 10.44
+                },
+                "Death": {
+                    "runs": 14,
+                    "wkts": 0,
+                    "rr": 12.0
+                }
+            },
+            "pressure_index": 21.0,
+            "target": 177
+        }
+    ],
+    "players": [
+        {
+            "player": "L Ngidi",
+            "team": "South Africa",
+            "overs": 4.0,
+            "runs": 30,
+            "wickets": 3,
+            "econ": 7.5,
+            "score": 115.44,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-30r-3w"
+        },
+        {
+            "player": "AK Markram",
+            "team": "South Africa",
+            "runs": 82,
+            "balls": 48,
+            "sr": 170.83,
+            "fours": 7,
+            "sixes": 4,
+            "win_contribution_percent": 46.3,
+            "score": 109.24,
+            "role": "batting",
+            "match_stats": "82(48)",
+            "baseline": {
+                "avg": 31.08,
+                "sr": 143.73,
+                "matches": 68,
+                "source": "t20_master",
+                "baseline_available": true
+            }
+        },
+        {
+            "player": "K Rabada",
+            "team": "South Africa",
+            "overs": 4.0,
+            "runs": 22,
+            "wickets": 2,
+            "econ": 5.5,
+            "score": 94.69,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-22r-2w"
+        },
+        {
+            "player": "C Bosch",
+            "team": "South Africa",
+            "overs": 4.0,
+            "runs": 31,
+            "wickets": 2,
+            "econ": 7.75,
+            "score": 84.62,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-31r-2w"
+        },
+        {
+            "player": "Q de Kock",
+            "team": "South Africa",
+            "runs": 47,
+            "balls": 24,
+            "sr": 195.83,
+            "fours": 4,
+            "sixes": 4,
+            "win_contribution_percent": 26.6,
+            "score": 78.23,
+            "role": "batting",
+            "match_stats": "47(24)",
+            "baseline": {
+                "avg": 31.84,
+                "sr": 136.42,
+                "matches": 101,
+                "source": "t20_master",
+                "baseline_available": true
+            }
+        },
+        {
+            "player": "R Shepherd",
+            "team": "West Indies",
+            "runs": 52,
+            "balls": 38,
+            "sr": 136.84,
+            "fours": 3,
+            "sixes": 4,
+            "win_contribution_percent": 29.5,
+            "score": 73.82,
+            "role": "batting",
+            "match_stats": "52(38)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "JO Holder",
+            "team": "West Indies",
+            "runs": 49,
+            "balls": 32,
+            "sr": 153.12,
+            "fours": 4,
+            "sixes": 3,
+            "win_contribution_percent": 27.8,
+            "score": 73.42,
+            "role": "batting",
+            "match_stats": "49(32)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "RD Rickelton",
+            "team": "South Africa",
+            "runs": 45,
+            "balls": 28,
+            "sr": 160.71,
+            "fours": 4,
+            "sixes": 2,
+            "win_contribution_percent": 25.4,
+            "score": 70.63,
+            "role": "batting",
+            "match_stats": "45(28)",
+            "baseline": {
+                "avg": 26.26,
+                "sr": 141.78,
+                "matches": 25,
+                "source": "t20_master",
+                "baseline_available": true
+            }
+        },
+        {
+            "player": "SD Hope",
+            "team": "West Indies",
+            "runs": 16,
+            "balls": 6,
+            "sr": 266.67,
+            "fours": 1,
+            "sixes": 2,
+            "win_contribution_percent": 9.1,
+            "score": 58.53,
+            "role": "batting",
+            "match_stats": "16(6)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "BA King",
+            "team": "West Indies",
+            "runs": 21,
+            "balls": 11,
+            "sr": 190.91,
+            "fours": 5,
+            "sixes": 0,
+            "win_contribution_percent": 11.9,
+            "score": 51.45,
+            "role": "batting",
+            "match_stats": "21(11)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "RL Chase",
+            "team": "West Indies",
+            "overs": 4.0,
+            "runs": 46,
+            "wickets": 1,
+            "econ": 11.5,
+            "score": 46.59,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-46r-1w"
+        },
+        {
+            "player": "SE Rutherford",
+            "team": "West Indies",
+            "runs": 12,
+            "balls": 10,
+            "sr": 120.0,
+            "fours": 0,
+            "sixes": 1,
+            "win_contribution_percent": 6.8,
+            "score": 31.14,
+            "role": "batting",
+            "match_stats": "12(10)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "MW Forde",
+            "team": "West Indies",
+            "runs": 11,
+            "balls": 9,
+            "sr": 122.22,
+            "fours": 1,
+            "sixes": 1,
+            "win_contribution_percent": 6.2,
+            "score": 30.49,
+            "role": "batting",
+            "match_stats": "11(9)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "R Powell",
+            "team": "West Indies",
+            "runs": 9,
+            "balls": 11,
+            "sr": 81.82,
+            "fours": 1,
+            "sixes": 0,
+            "win_contribution_percent": 5.1,
+            "score": 22.05,
+            "role": "batting",
+            "match_stats": "9(11)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "JO Holder",
+            "team": "West Indies",
+            "overs": 3.1,
+            "runs": 31,
+            "wickets": 0,
+            "econ": 9.79,
+            "score": 19.49,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "3.1o-31r-0w"
+        },
+        {
+            "player": "MW Forde",
+            "team": "West Indies",
+            "overs": 3.0,
+            "runs": 30,
+            "wickets": 0,
+            "econ": 10.0,
+            "score": 19.08,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "3.0o-30r-0w"
+        },
+        {
+            "player": "RL Chase",
+            "team": "West Indies",
+            "runs": 2,
+            "balls": 2,
+            "sr": 100.0,
+            "fours": 0,
+            "sixes": 0,
+            "win_contribution_percent": 1.1,
+            "score": 17.95,
+            "role": "batting",
+            "match_stats": "2(2)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "KA Maharaj",
+            "team": "South Africa",
+            "overs": 4.0,
+            "runs": 43,
+            "wickets": 0,
+            "econ": 10.75,
+            "score": 17.75,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-43r-0w"
+        },
+        {
+            "player": "R Shepherd",
+            "team": "West Indies",
+            "overs": 2.0,
+            "runs": 22,
+            "wickets": 0,
+            "econ": 11.0,
+            "score": 17.35,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "2.0o-22r-0w"
+        },
+        {
+            "player": "G Motie",
+            "team": "West Indies",
+            "overs": 2.0,
+            "runs": 24,
+            "wickets": 0,
+            "econ": 12.0,
+            "score": 15.9,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "2.0o-24r-0w"
+        },
+        {
+            "player": "S Joseph",
+            "team": "West Indies",
+            "overs": 2.0,
+            "runs": 24,
+            "wickets": 0,
+            "econ": 12.0,
+            "score": 15.9,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "2.0o-24r-0w"
+        },
+        {
+            "player": "M Jansen",
+            "team": "South Africa",
+            "overs": 4.0,
+            "runs": 50,
+            "wickets": 0,
+            "econ": 12.5,
+            "score": 15.26,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-50r-0w"
+        },
+        {
+            "player": "SO Hetmyer",
+            "team": "West Indies",
+            "runs": 2,
+            "balls": 3,
+            "sr": 66.67,
+            "fours": 0,
+            "sixes": 0,
+            "win_contribution_percent": 1.1,
+            "score": 12.63,
+            "role": "batting",
+            "match_stats": "2(3)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        }
+    ],
+    "validation": {
+        "logical_stability": true
+    }
+}

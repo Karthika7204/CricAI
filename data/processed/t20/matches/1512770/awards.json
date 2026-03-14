@@ -1,0 +1,92 @@
+{
+    "match_id": "1512770",
+    "winner": "India",
+    "loser": "West Indies",
+    "awards": {
+        "player_of_the_match": {
+            "name": "SV Samson",
+            "team": "India",
+            "impact_score": 187.0,
+            "breakdown": {
+                "batting": 170.0,
+                "bowling": 0.0,
+                "fielding": 0.0,
+                "pressure_multiplier": 1.1
+            },
+            "key_stats": {
+                "batting": "97(51) SR:190.2"
+            }
+        },
+        "best_batter": {
+            "name": "SV Samson",
+            "team": "India",
+            "batting_impact": 170.0,
+            "stats": {
+                "runs": 97,
+                "balls": 51,
+                "sr": 190.2,
+                "fours": 12,
+                "sixes": 4
+            }
+        },
+        "best_bowler": {
+            "name": "JJ Bumrah",
+            "team": "India",
+            "bowling_impact": 50,
+            "stats": {
+                "overs": 4.0,
+                "wickets": 2,
+                "econ": 9.25
+            }
+        },
+        "game_changer": {
+            "name": "SV Samson",
+            "team": "India",
+            "reason": "SR 190.2 with 4 sixes",
+            "key_stats": {
+                "batting": "97(51) SR:190.2"
+            }
+        },
+        "pressure_performer": {
+            "name": "SV Samson",
+            "team": "India",
+            "pressure_multiplier": 1.1,
+            "reason": "Chasing team batter under pressure | Attacking SR 190.2 under pressure",
+            "key_stats": {
+                "batting": "97(51) SR:190.2"
+            }
+        },
+        "emerging_player": {
+            "name": "SV Samson",
+            "team": "India",
+            "reason": "Outperformed team average by 3.8x",
+            "key_stats": {
+                "batting": "97(51) SR:190.2"
+            }
+        },
+        "fielding_impact": {
+            "name": "JJ Bumrah",
+            "team": "India",
+            "fielding_proxy_score": 8,
+            "methodology": "Proxy-based: catch attribution (65% T20 wickets are catches) + dot ball pressure bonus + economy-implied fielding support",
+            "reason": "Estimated 1 caught dismissals from 2 wickets",
+            "stats": {
+                "overs": 4.0,
+                "wickets": 2,
+                "econ": 9.25
+            }
+        },
+        "all_rounder_impact": {
+            "name": "JO Holder",
+            "team": "West Indies",
+            "all_rounder_score": 119.0,
+            "stats": {
+                "runs": 37,
+                "sr": 160.87,
+                "overs": 4.0,
+                "wickets": 2,
+                "econ": 10.0
+            }
+        }
+    }
+}

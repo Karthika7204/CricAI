@@ -1,0 +1,352 @@
+{
+    "match_context": {
+        "match_id": "1512771",
+        "date": "04-03-2026",
+        "tournament": "2025/26",
+        "venue": "Eden Gardens, Kolkata",
+        "stage": "ICC Men's T20 World Cup",
+        "Teams": {
+            "South Africa": {
+                "captain": "AK Markram",
+                "playing_xi_count": 11
+            },
+            "New Zealand": {
+                "captain": "FH Allen",
+                "playing_xi_count": 8
+            }
+        }
+    },
+    "Match_Result": {
+        "summary": "New Zealand won by 9 wickets",
+        "winner": "New Zealand",
+        "margin": 9,
+        "margin_type": "wickets"
+    },
+    "Scorecard_Highlights": {
+        "Key_Support_Performers": [
+            {
+                "player": "AK Markram",
+                "team": "South Africa",
+                "runs": 18,
+                "balls": 23,
+                "sr": 78.26,
+                "fours": 1,
+                "sixes": 1,
+                "win_contribution_percent": 10.7,
+                "score": 30.36
+            }
+        ],
+        "Career_vs_Match_Bowling": [],
+        "Bowling_Standouts": {
+            "Economical_Spells": [],
+            "Expensive_Spells": [],
+            "High_Economy_No_Baseline": [
+                {
+                    "player": "M Jansen",
+                    "team": "South Africa",
+                    "overs": 2.5,
+                    "runs": 53,
+                    "wickets": 0,
+                    "econ": 18.71,
+                    "score": 10.65,
+                    "bowling_baseline": {
+                        "career_wickets": 0,
+                        "career_economy": 0.0,
+                        "career_sr": 0.0,
+                        "career_avg": 0.0,
+                        "best_bowling": "N/A",
+                        "matches": 0,
+                        "source": "none",
+                        "baseline_available": false
+                    }
+                },
+                {
+                    "player": "C Bosch",
+                    "team": "South Africa",
+                    "overs": 2.0,
+                    "runs": 35,
+                    "wickets": 0,
+                    "econ": 17.5,
+                    "score": 11.38,
+                    "bowling_baseline": {
+                        "career_wickets": 0,
+                        "career_economy": 0.0,
+                        "career_sr": 0.0,
+                        "career_avg": 0.0,
+                        "best_bowling": "N/A",
+                        "matches": 0,
+                        "source": "none",
+                        "baseline_available": false
+                    }
+                }
+            ]
+        },
+        "Significant_Collapses": []
+    },
+    "Innings_Metrics": [
+        {
+            "innings": 1,
+            "team": "South Africa",
+            "total_runs": 169,
+            "total_wickets": 8,
+            "balls_faced": 120,
+            "overs_faced": 20.0,
+            "phase_analysis": {
+                "Powerplay": {
+                    "runs": 48,
+                    "wkts": 2,
+                    "rr": 8.0
+                },
+                "Middle": {
+                    "runs": 60,
+                    "wkts": 3,
+                    "rr": 6.67
+                },
+                "Death": {
+                    "runs": 61,
+                    "wkts": 3,
+                    "rr": 12.2
+                }
+            }
+        },
+        {
+            "innings": 2,
+            "team": "New Zealand",
+            "total_runs": 173,
+            "total_wickets": 1,
+            "balls_faced": 77,
+            "overs_faced": 12.5,
+            "phase_analysis": {
+                "Powerplay": {
+                    "runs": 84,
+                    "wkts": 0,
+                    "rr": 14.0
+                },
+                "Middle": {
+                    "runs": 89,
+                    "wkts": 1,
+                    "rr": 13.02
+                },
+                "Death": {
+                    "runs": 0,
+                    "wkts": 0,
+                    "rr": 0.0
+                }
+            },
+            "pressure_index": 17.0,
+            "target": 170
+        }
+    ],
+    "Detailed_Impact_Analysis": [
+        {
+            "player": "FH Allen",
+            "team": "New Zealand",
+            "runs": 100,
+            "balls": 33,
+            "sr": 303.03,
+            "fours": 10,
+            "sixes": 8,
+            "win_contribution_percent": 57.8,
+            "score": 147.87,
+            "role": "batting",
+            "match_stats": "100(33)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "R Ravindra",
+            "team": "New Zealand",
+            "overs": 4.0,
+            "runs": 29,
+            "wickets": 2,
+            "econ": 7.25,
+            "score": 87.48,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-29r-2w"
+        },
+        {
+            "player": "TL Seifert",
+            "team": "New Zealand",
+            "runs": 58,
+            "balls": 33,
+            "sr": 175.76,
+            "fours": 7,
+            "sixes": 2,
+            "win_contribution_percent": 33.5,
+            "score": 85.77,
+            "role": "batting",
+            "match_stats": "58(33)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "MJ Henry",
+            "team": "New Zealand",
+            "overs": 4.0,
+            "runs": 34,
+            "wickets": 2,
+            "econ": 8.5,
+            "score": 83.44,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-34r-2w"
+        },
+        {
+            "player": "M Jansen",
+            "team": "South Africa",
+            "runs": 55,
+            "balls": 32,
+            "sr": 171.88,
+            "fours": 2,
+            "sixes": 5,
+            "win_contribution_percent": 32.5,
+            "score": 82.15,
+            "role": "batting",
+            "match_stats": "55(32)",
+            "baseline": {
+                "avg": 14.07,
+                "sr": 134.93,
+                "matches": 18,
+                "source": "t20_master",
+                "baseline_available": true
+            }
+        },
+        {
+            "player": "CE McConchie",
+            "team": "New Zealand",
+            "overs": 1.0,
+            "runs": 9,
+            "wickets": 2,
+            "econ": 9.0,
+            "score": 82.14,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "1.0o-9r-2w"
+        },
+        {
+            "player": "LH Ferguson",
+            "team": "New Zealand",
+            "overs": 4.0,
+            "runs": 29,
+            "wickets": 1,
+            "econ": 7.25,
+            "score": 57.48,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-29r-1w"
+        },
+        {
+            "player": "D Brevis",
+            "team": "South Africa",
+            "runs": 34,
+            "balls": 28,
+            "sr": 121.43,
+            "fours": 3,
+            "sixes": 2,
+            "win_contribution_percent": 20.1,
+            "score": 53.18,
+            "role": "batting",
+            "match_stats": "34(28)",
+            "baseline": {
+                "avg": 26.0,
+                "sr": 154.92,
+                "matches": 25,
+                "source": "t20_master",
+                "baseline_available": true
+            }
+        },
+        {
+            "player": "K Rabada",
+            "team": "South Africa",
+            "overs": 3.0,
+            "runs": 29,
+            "wickets": 1,
+            "econ": 9.67,
+            "score": 50.6,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "3.0o-29r-1w"
+        },
+        {
+            "player": "T Stubbs",
+            "team": "South Africa",
+            "runs": 29,
+            "balls": 25,
+            "sr": 116.0,
+            "fours": 2,
+            "sixes": 1,
+            "win_contribution_percent": 17.2,
+            "score": 47.33,
+            "role": "batting",
+            "match_stats": "29(25)",
+            "baseline": {
+                "avg": 30.53,
+                "sr": 131.99,
+                "matches": 40,
+                "source": "t20_master",
+                "baseline_available": true
+            }
+        }
+    ],
+    "Tactical_Post_Match_Analysis": [
+        "New Zealand's victory was anchored by FH Allen, who contributed 57.8% of the team's runs.",
+        "Defensive pressure was sustained by R Ravindra, finishing with an impact score of 87.48.",
+        "High-scoring finish by South Africa in Death Overs (RR: 12.2) shifted match momentum."
+    ]
+}

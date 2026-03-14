@@ -1,0 +1,19 @@
+match_id,date,innings,team,player,runs,balls_faced,strike_rate,fours,sixes,dismissed,dismissal_kind
+1512773,08-03-2026,1,India,SV Samson,89,50,178.0,5,8,True,caught
+1512773,08-03-2026,1,India,Ishan Kishan,54,25,216.0,4,4,True,caught
+1512773,08-03-2026,1,India,Abhishek Sharma,52,25,208.0,6,3,True,caught
+1512773,08-03-2026,1,India,S Dube,26,8,325.0,3,2,False,
+1512773,08-03-2026,1,India,HH Pandya,18,13,138.46,1,1,True,caught
+1512773,08-03-2026,1,India,Tilak Varma,8,6,133.33,0,0,False,
+1512773,08-03-2026,1,India,SA Yadav,0,1,0.0,0,0,True,caught
+1512773,08-03-2026,2,New Zealand,TL Seifert,52,26,200.0,2,5,True,caught
+1512773,08-03-2026,2,New Zealand,MJ Santner,43,38,113.16,3,2,True,bowled
+1512773,08-03-2026,2,New Zealand,DJ Mitchell,17,12,141.67,0,2,True,caught
+1512773,08-03-2026,2,New Zealand,FH Allen,9,7,128.57,1,0,True,caught
+1512773,08-03-2026,2,New Zealand,JDS Neesham,8,10,80.0,1,0,True,bowled
+1512773,08-03-2026,2,New Zealand,LH Ferguson,6,7,85.71,0,0,False,
+1512773,08-03-2026,2,New Zealand,GD Phillips,5,5,100.0,1,0,True,bowled
+1512773,08-03-2026,2,New Zealand,JA Duffy,3,5,60.0,0,0,True,caught
+1512773,08-03-2026,2,New Zealand,MS Chapman,3,8,37.5,0,0,True,bowled
+1512773,08-03-2026,2,New Zealand,R Ravindra,1,2,50.0,0,0,True,caught
+1512773,08-03-2026,2,New Zealand,MJ Henry,0,1,0.0,0,0,True,bowled

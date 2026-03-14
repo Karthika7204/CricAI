@@ -1,0 +1,12 @@
+match_id,date,innings,team,player,overs,balls_bowled,wickets,runs_conceded,economy,maidens,wides,no_balls
+1512771,04-03-2026,1,New Zealand,R Ravindra,4.0,24,2,29,7.25,0,1,0
+1512771,04-03-2026,1,New Zealand,MJ Henry,4.0,24,2,34,8.5,0,3,0
+1512771,04-03-2026,1,New Zealand,CE McConchie,1.0,6,2,9,9.0,0,0,0
+1512771,04-03-2026,1,New Zealand,LH Ferguson,4.0,24,1,29,7.25,0,1,1
+1512771,04-03-2026,1,New Zealand,JDS Neesham,3.0,18,1,42,14.0,0,1,0
+1512771,04-03-2026,1,New Zealand,MJ Santner,4.0,24,0,26,6.5,0,2,0
+1512771,04-03-2026,2,South Africa,K Rabada,3.0,18,1,29,9.67,0,0,0
+1512771,04-03-2026,2,South Africa,KA Maharaj,3.0,18,0,33,11.0,0,0,0
+1512771,04-03-2026,2,South Africa,L Ngidi,2.0,12,0,23,11.5,0,0,0
+1512771,04-03-2026,2,South Africa,C Bosch,2.0,12,0,35,17.5,0,0,0
+1512771,04-03-2026,2,South Africa,M Jansen,2.5,17,0,53,18.71,0,0,0

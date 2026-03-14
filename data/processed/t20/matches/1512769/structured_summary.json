@@ -1,0 +1,375 @@
+{
+    "match_context": {
+        "match_id": "1512769",
+        "date": "01-03-2026",
+        "tournament": "2025/26",
+        "venue": "Arun Jaitley Stadium, Delhi",
+        "stage": "ICC Men's T20 World Cup",
+        "Teams": {
+            "Zimbabwe": {
+                "captain": "Sikandar Raza",
+                "playing_xi_count": 11
+            },
+            "South Africa": {
+                "captain": "AK Markram",
+                "playing_xi_count": 11
+            }
+        }
+    },
+    "Match_Result": {
+        "summary": "South Africa won by 5 wickets",
+        "winner": "South Africa",
+        "margin": 5,
+        "margin_type": "wickets"
+    },
+    "Scorecard_Highlights": {
+        "Key_Support_Performers": [
+            {
+                "player": "C Madande",
+                "team": "Zimbabwe",
+                "runs": 26,
+                "balls": 21,
+                "sr": 123.81,
+                "fours": 3,
+                "sixes": 0,
+                "win_contribution_percent": 17.0,
+                "score": 50.41
+            },
+            {
+                "player": "DA Miller",
+                "team": "South Africa",
+                "runs": 22,
+                "balls": 16,
+                "sr": 137.5,
+                "fours": 2,
+                "sixes": 2,
+                "win_contribution_percent": 14.3,
+                "score": 49.11
+            },
+            {
+                "player": "T Stubbs",
+                "team": "South Africa",
+                "runs": 21,
+                "balls": 25,
+                "sr": 84.0,
+                "fours": 0,
+                "sixes": 0,
+                "win_contribution_percent": 13.6,
+                "score": 37.56
+            }
+        ],
+        "Career_vs_Match_Bowling": [],
+        "Bowling_Standouts": {
+            "Economical_Spells": [],
+            "Expensive_Spells": [],
+            "High_Economy_No_Baseline": [
+                {
+                    "player": "AG Cremer",
+                    "team": "Zimbabwe",
+                    "overs": 2.0,
+                    "runs": 27,
+                    "wickets": 0,
+                    "econ": 13.5,
+                    "score": 11.61,
+                    "bowling_baseline": {
+                        "career_wickets": 0,
+                        "career_economy": 0.0,
+                        "career_sr": 0.0,
+                        "career_avg": 0.0,
+                        "best_bowling": "N/A",
+                        "matches": 0,
+                        "source": "none",
+                        "baseline_available": false
+                    }
+                },
+                {
+                    "player": "WP Masakadza",
+                    "team": "Zimbabwe",
+                    "overs": 2.0,
+                    "runs": 23,
+                    "wickets": 0,
+                    "econ": 11.5,
+                    "score": 13.63,
+                    "bowling_baseline": {
+                        "career_wickets": 0,
+                        "career_economy": 0.0,
+                        "career_sr": 0.0,
+                        "career_avg": 0.0,
+                        "best_bowling": "N/A",
+                        "matches": 0,
+                        "source": "none",
+                        "baseline_available": false
+                    }
+                }
+            ]
+        },
+        "Significant_Collapses": []
+    },
+    "Innings_Metrics": [
+        {
+            "innings": 1,
+            "team": "Zimbabwe",
+            "total_runs": 153,
+            "total_wickets": 7,
+            "balls_faced": 120,
+            "overs_faced": 20.0,
+            "phase_analysis": {
+                "Powerplay": {
+                    "runs": 45,
+                    "wkts": 2,
+                    "rr": 7.5
+                },
+                "Middle": {
+                    "runs": 65,
+                    "wkts": 3,
+                    "rr": 7.22
+                },
+                "Death": {
+                    "runs": 43,
+                    "wkts": 2,
+                    "rr": 8.6
+                }
+            }
+        },
+        {
+            "innings": 2,
+            "team": "South Africa",
+            "total_runs": 154,
+            "total_wickets": 5,
+            "balls_faced": 107,
+            "overs_faced": 17.5,
+            "phase_analysis": {
+                "Powerplay": {
+                    "runs": 43,
+                    "wkts": 3,
+                    "rr": 7.17
+                },
+                "Middle": {
+                    "runs": 86,
+                    "wkts": 2,
+                    "rr": 9.56
+                },
+                "Death": {
+                    "runs": 25,
+                    "wkts": 0,
+                    "rr": 8.82
+                }
+            },
+            "pressure_index": 34.0,
+            "target": 154
+        }
+    ],
+    "Detailed_Impact_Analysis": [
+        {
+            "player": "Sikandar Raza",
+            "team": "Zimbabwe",
+            "overs": 4.0,
+            "runs": 29,
+            "wickets": 3,
+            "econ": 7.25,
+            "score": 111.62,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-29r-3w"
+        },
+        {
+            "player": "Sikandar Raza",
+            "team": "Zimbabwe",
+            "runs": 73,
+            "balls": 43,
+            "sr": 169.77,
+            "fours": 8,
+            "sixes": 4,
+            "win_contribution_percent": 47.7,
+            "score": 106.47,
+            "role": "batting",
+            "match_stats": "73(43)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "KT Maphaka",
+            "team": "South Africa",
+            "overs": 4.0,
+            "runs": 21,
+            "wickets": 2,
+            "econ": 5.25,
+            "score": 89.86,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-21r-2w"
+        },
+        {
+            "player": "D Brevis",
+            "team": "South Africa",
+            "runs": 42,
+            "balls": 18,
+            "sr": 233.33,
+            "fours": 2,
+            "sixes": 4,
+            "win_contribution_percent": 27.3,
+            "score": 88.0,
+            "role": "batting",
+            "match_stats": "42(18)",
+            "baseline": {
+                "avg": 26.0,
+                "sr": 154.92,
+                "matches": 25,
+                "source": "t20_master",
+                "baseline_available": true
+            }
+        },
+        {
+            "player": "C Bosch",
+            "team": "South Africa",
+            "overs": 4.0,
+            "runs": 40,
+            "wickets": 2,
+            "econ": 10.0,
+            "score": 75.68,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-40r-2w"
+        },
+        {
+            "player": "RD Rickelton",
+            "team": "South Africa",
+            "runs": 31,
+            "balls": 23,
+            "sr": 134.78,
+            "fours": 0,
+            "sixes": 4,
+            "win_contribution_percent": 20.1,
+            "score": 57.57,
+            "role": "batting",
+            "match_stats": "31(23)",
+            "baseline": {
+                "avg": 26.26,
+                "sr": 141.78,
+                "matches": 25,
+                "source": "t20_master",
+                "baseline_available": true
+            }
+        },
+        {
+            "player": "GF Linde",
+            "team": "South Africa",
+            "runs": 30,
+            "balls": 22,
+            "sr": 136.36,
+            "fours": 2,
+            "sixes": 1,
+            "win_contribution_percent": 19.5,
+            "score": 56.88,
+            "role": "batting",
+            "match_stats": "30(22)",
+            "baseline": {
+                "avg": 15.95,
+                "sr": 135.27,
+                "matches": 22,
+                "source": "t20_master",
+                "baseline_available": true
+            }
+        },
+        {
+            "player": "L Ngidi",
+            "team": "South Africa",
+            "overs": 4.0,
+            "runs": 29,
+            "wickets": 1,
+            "econ": 7.25,
+            "score": 51.62,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-29r-1w"
+        },
+        {
+            "player": "GF Linde",
+            "team": "South Africa",
+            "overs": 3.0,
+            "runs": 22,
+            "wickets": 1,
+            "econ": 7.33,
+            "score": 51.39,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "3.0o-22r-1w"
+        },
+        {
+            "player": "B Evans",
+            "team": "Zimbabwe",
+            "overs": 3.0,
+            "runs": 22,
+            "wickets": 1,
+            "econ": 7.33,
+            "score": 51.39,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "3.0o-22r-1w"
+        }
+    ],
+    "Tactical_Post_Match_Analysis": [
+        "South Africa's victory was anchored by D Brevis, who contributed 27.3% of the team's runs.",
+        "Defensive pressure was sustained by KT Maphaka, finishing with an impact score of 89.86.",
+        "South Africa lost 3 wickets in Powerplay, failing to build a stable foundation."
+    ]
+}

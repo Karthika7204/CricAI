@@ -1,0 +1,96 @@
+{
+    "match_id": "1512767",
+    "winner": "England",
+    "loser": "New Zealand",
+    "awards": {
+        "player_of_the_match": {
+            "name": "WG Jacks",
+            "team": "England",
+            "impact_score": 196.9,
+            "breakdown": {
+                "batting": 71.0,
+                "bowling": 95,
+                "fielding": 13,
+                "pressure_multiplier": 1.1
+            },
+            "key_stats": {
+                "batting": "32(18) SR:177.78",
+                "bowling": "4.0ov-2wkt econ:5.75"
+            }
+        },
+        "best_batter": {
+            "name": "WG Jacks",
+            "team": "England",
+            "batting_impact": 71.0,
+            "stats": {
+                "runs": 32,
+                "balls": 18,
+                "sr": 177.78,
+                "fours": 4,
+                "sixes": 1
+            }
+        },
+        "best_bowler": {
+            "name": "R Ravindra",
+            "team": "New Zealand",
+            "bowling_impact": 120,
+            "stats": {
+                "overs": 4.0,
+                "wickets": 3,
+                "econ": 4.75
+            }
+        },
+        "game_changer": {
+            "name": "R Ravindra",
+            "team": "New Zealand",
+            "reason": "3-wicket haul | Exceptional economy 4.75",
+            "key_stats": {
+                "batting": "11(13) SR:84.62",
+                "bowling": "4.0ov-3wkt econ:4.75"
+            }
+        },
+        "pressure_performer": {
+            "name": "WG Jacks",
+            "team": "England",
+            "pressure_multiplier": 1.1,
+            "reason": "Chasing team batter under pressure | Attacking SR 177.78 under pressure | Economy 5.75 while defending chase",
+            "key_stats": {
+                "batting": "32(18) SR:177.78",
+                "bowling": "4.0ov-2wkt econ:5.75"
+            }
+        },
+        "emerging_player": {
+            "name": "WG Jacks",
+            "team": "England",
+            "reason": "Outperformed team average by 3.29x",
+            "key_stats": {
+                "batting": "32(18) SR:177.78",
+                "bowling": "4.0ov-2wkt econ:5.75"
+            }
+        },
+        "fielding_impact": {
+            "name": "R Ravindra",
+            "team": "New Zealand",
+            "fielding_proxy_score": 21,
+            "methodology": "Proxy-based: catch attribution (65% T20 wickets are catches) + dot ball pressure bonus + economy-implied fielding support",
+            "reason": "Estimated 2 caught dismissals from 3 wickets | Economy 4.75 — tight fielding support implied",
+            "stats": {
+                "overs": 4.0,
+                "wickets": 3,
+                "econ": 4.75
+            }
+        },
+        "all_rounder_impact": {
+            "name": "WG Jacks",
+            "team": "England",
+            "all_rounder_score": 166.0,
+            "stats": {
+                "runs": 32,
+                "sr": 177.78,
+                "overs": 4.0,
+                "wickets": 2,
+                "econ": 5.75
+            }
+        }
+    }
+}

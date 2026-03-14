@@ -1,0 +1,1550 @@
+{
+  "match_id": "1512766",
+  "team_a": "India",
+  "team_b": "Zimbabwe",
+  "matchups": [
+    {
+      "bat": "Abhishek Sharma",
+      "bat_t": "India",
+      "bowl": "Sikandar Raza",
+      "bowl_t": "Zimbabwe",
+      "v": "batsman",
+      "h2h": {
+        "balls": 19,
+        "runs": 29,
+        "dismissals": 1,
+        "strike_rate": 152.63
+      },
+      "vs_t": {
+        "runs": 124,
+        "balls": 72,
+        "dismissals": 4,
+        "average": 31.0,
+        "strike_rate": 172.22
+      },
+      "b_car": {
+        "avg": 35.46,
+        "sr": 184.27
+      },
+      "b_f": [
+        55,
+        15,
+        0
+      ],
+      "w_f": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "Sikandar Raza",
+      "bat_t": "Zimbabwe",
+      "bowl": "AR Patel",
+      "bowl_t": "India",
+      "v": "batsman",
+      "h2h": {
+        "balls": 18,
+        "runs": 24,
+        "dismissals": 1,
+        "strike_rate": 133.33
+      },
+      "vs_t": {
+        "runs": 163,
+        "balls": 154,
+        "dismissals": 8,
+        "average": 20.38,
+        "strike_rate": 105.84
+      },
+      "w_car": {
+        "avg": 22.41,
+        "eco": 7.59
+      },
+      "b_f": [
+        31,
+        27,
+        45
+      ],
+      "w_f": [
+        1,
+        2,
+        2
+      ]
+    },
+    {
+      "bat": "SV Samson",
+      "bat_t": "India",
+      "bowl": "B Muzarabani",
+      "bowl_t": "Zimbabwe",
+      "v": "bowler",
+      "h2h": {
+        "balls": 14,
+        "runs": 14,
+        "dismissals": 1,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 89,
+        "balls": 80,
+        "dismissals": 2,
+        "average": 44.5,
+        "strike_rate": 111.25
+      },
+      "b_car": {
+        "avg": 25.0,
+        "sr": 143.98
+      },
+      "b_f": [
+        24,
+        22,
+        89
+      ],
+      "w_f": [
+        1,
+        2,
+        2
+      ]
+    },
+    {
+      "bat": "Abhishek Sharma",
+      "bat_t": "India",
+      "bowl": "BJ Bennett",
+      "bowl_t": "Zimbabwe",
+      "v": "bowler",
+      "h2h": {
+        "balls": 14,
+        "runs": 18,
+        "dismissals": 1,
+        "strike_rate": 128.57
+      },
+      "vs_t": {
+        "runs": 124,
+        "balls": 72,
+        "dismissals": 4,
+        "average": 31.0,
+        "strike_rate": 172.22
+      },
+      "b_car": {
+        "avg": 35.46,
+        "sr": 184.27
+      },
+      "b_f": [
+        55,
+        15,
+        0
+      ],
+      "w_f": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "D Myers",
+      "bat_t": "Zimbabwe",
+      "bowl": "S Dube",
+      "bowl_t": "India",
+      "v": "bowler",
+      "h2h": {
+        "balls": 11,
+        "runs": 10,
+        "dismissals": 1,
+        "strike_rate": 90.91
+      },
+      "vs_t": {
+        "runs": 134,
+        "balls": 119,
+        "dismissals": 4,
+        "average": 33.5,
+        "strike_rate": 112.61
+      },
+      "w_car": {
+        "avg": 27.25,
+        "eco": 9.74
+      },
+      "b_f": [
+        6,
+        28,
+        0
+      ],
+      "w_f": [
+        1,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "Abhishek Sharma",
+      "bat_t": "India",
+      "bowl": "B Muzarabani",
+      "bowl_t": "Zimbabwe",
+      "v": "bowler",
+      "h2h": {
+        "balls": 7,
+        "runs": 5,
+        "dismissals": 1,
+        "strike_rate": 71.43
+      },
+      "vs_t": {
+        "runs": 124,
+        "balls": 72,
+        "dismissals": 4,
+        "average": 31.0,
+        "strike_rate": 172.22
+      },
+      "b_car": {
+        "avg": 35.46,
+        "sr": 184.27
+      },
+      "b_f": [
+        55,
+        15,
+        0
+      ],
+      "w_f": [
+        1,
+        2,
+        2
+      ]
+    },
+    {
+      "bat": "Sikandar Raza",
+      "bat_t": "Zimbabwe",
+      "bowl": "HH Pandya",
+      "bowl_t": "India",
+      "v": "bowler",
+      "h2h": {
+        "balls": 6,
+        "runs": 4,
+        "dismissals": 1,
+        "strike_rate": 66.67
+      },
+      "vs_t": {
+        "runs": 163,
+        "balls": 154,
+        "dismissals": 8,
+        "average": 20.38,
+        "strike_rate": 105.84
+      },
+      "w_car": {
+        "avg": 27.46,
+        "eco": 8.49
+      },
+      "b_f": [
+        31,
+        27,
+        45
+      ],
+      "w_f": [
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "HH Pandya",
+      "bat_t": "India",
+      "bowl": "R Ngarava",
+      "bowl_t": "Zimbabwe",
+      "v": "neutral",
+      "h2h": {
+        "balls": 4,
+        "runs": 1,
+        "dismissals": 1,
+        "strike_rate": 25.0
+      },
+      "vs_t": {
+        "runs": 18,
+        "balls": 20,
+        "dismissals": 1,
+        "average": 18.0,
+        "strike_rate": 90.0
+      },
+      "b_car": {
+        "avg": 28.12,
+        "sr": 138.02
+      },
+      "b_f": [
+        50,
+        18,
+        30
+      ],
+      "w_f": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "bat": "T Marumani",
+      "bat_t": "Zimbabwe",
+      "bowl": "Abhishek Sharma",
+      "bowl_t": "India",
+      "v": "bowler",
+      "h2h": {
+        "balls": 3,
+        "runs": 4,
+        "dismissals": 1,
+        "strike_rate": 133.33
+      },
+      "vs_t": {
+        "runs": 72,
+        "balls": 66,
+        "dismissals": 3,
+        "average": 24.0,
+        "strike_rate": 109.09
+      },
+      "w_car": {
+        "avg": 39.17,
+        "eco": 8.87
+      },
+      "b_f": [
+        20,
+        14,
+        34
+      ],
+      "w_f": [
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "D Myers",
+      "bat_t": "Zimbabwe",
+      "bowl": "Abhishek Sharma",
+      "bowl_t": "India",
+      "v": "batsman",
+      "h2h": {
+        "balls": 22,
+        "runs": 36,
+        "dismissals": 0,
+        "strike_rate": 163.64
+      },
+      "vs_t": {
+        "runs": 134,
+        "balls": 119,
+        "dismissals": 4,
+        "average": 33.5,
+        "strike_rate": 112.61
+      },
+      "w_car": {
+        "avg": 39.17,
+        "eco": 8.87
+      },
+      "b_f": [
+        6,
+        28,
+        0
+      ],
+      "w_f": [
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "SV Samson",
+      "bat_t": "India",
+      "bowl": "Sikandar Raza",
+      "bowl_t": "Zimbabwe",
+      "v": "bowler",
+      "h2h": {
+        "balls": 17,
+        "runs": 18,
+        "dismissals": 0,
+        "strike_rate": 105.88
+      },
+      "vs_t": {
+        "runs": 89,
+        "balls": 80,
+        "dismissals": 2,
+        "average": 44.5,
+        "strike_rate": 111.25
+      },
+      "b_car": {
+        "avg": 25.0,
+        "sr": 143.98
+      },
+      "b_f": [
+        24,
+        22,
+        89
+      ],
+      "w_f": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "Sikandar Raza",
+      "bat_t": "Zimbabwe",
+      "bowl": "Abhishek Sharma",
+      "bowl_t": "India",
+      "v": "bowler",
+      "h2h": {
+        "balls": 16,
+        "runs": 20,
+        "dismissals": 0,
+        "strike_rate": 125.0
+      },
+      "vs_t": {
+        "runs": 163,
+        "balls": 154,
+        "dismissals": 8,
+        "average": 20.38,
+        "strike_rate": 105.84
+      },
+      "w_car": {
+        "avg": 39.17,
+        "eco": 8.87
+      },
+      "b_f": [
+        31,
+        27,
+        45
+      ],
+      "w_f": [
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "BJ Bennett",
+      "bat_t": "Zimbabwe",
+      "bowl": "Abhishek Sharma",
+      "bowl_t": "India",
+      "v": "batsman",
+      "h2h": {
+        "balls": 11,
+        "runs": 18,
+        "dismissals": 0,
+        "strike_rate": 163.64
+      },
+      "vs_t": {
+        "runs": 71,
+        "balls": 52,
+        "dismissals": 5,
+        "average": 14.2,
+        "strike_rate": 136.54
+      },
+      "w_car": {
+        "avg": 39.17,
+        "eco": 8.87
+      },
+      "b_f": [
+        97,
+        5,
+        63
+      ],
+      "w_f": [
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "SA Yadav",
+      "bat_t": "India",
+      "bowl": "R Ngarava",
+      "bowl_t": "Zimbabwe",
+      "v": "batsman",
+      "h2h": {
+        "balls": 9,
+        "runs": 28,
+        "dismissals": 0,
+        "strike_rate": 311.11
+      },
+      "vs_t": {
+        "runs": 61,
+        "balls": 25,
+        "dismissals": 0,
+        "average": 61.0,
+        "strike_rate": 244.0
+      },
+      "b_car": {
+        "avg": 38.51,
+        "sr": 156.8
+      },
+      "b_f": [
+        33,
+        18,
+        34
+      ],
+      "w_f": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "bat": "SV Samson",
+      "bat_t": "India",
+      "bowl": "R Ngarava",
+      "bowl_t": "Zimbabwe",
+      "v": "batsman",
+      "h2h": {
+        "balls": 9,
+        "runs": 15,
+        "dismissals": 0,
+        "strike_rate": 166.67
+      },
+      "vs_t": {
+        "runs": 89,
+        "balls": 80,
+        "dismissals": 2,
+        "average": 44.5,
+        "strike_rate": 111.25
+      },
+      "b_car": {
+        "avg": 25.0,
+        "sr": 143.98
+      },
+      "b_f": [
+        24,
+        22,
+        89
+      ],
+      "w_f": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "bat": "RP Burl",
+      "bat_t": "Zimbabwe",
+      "bowl": "HH Pandya",
+      "bowl_t": "India",
+      "v": "batsman",
+      "h2h": {
+        "balls": 7,
+        "runs": 7,
+        "dismissals": 0,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 35,
+        "balls": 23,
+        "dismissals": 1,
+        "average": 35.0,
+        "strike_rate": 152.17
+      },
+      "w_car": {
+        "avg": 27.46,
+        "eco": 8.49
+      },
+      "b_f": [
+        0,
+        0,
+        23
+      ],
+      "w_f": [
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "BJ Bennett",
+      "bat_t": "Zimbabwe",
+      "bowl": "S Dube",
+      "bowl_t": "India",
+      "v": "bowler",
+      "h2h": {
+        "balls": 7,
+        "runs": 3,
+        "dismissals": 0,
+        "strike_rate": 42.86
+      },
+      "vs_t": {
+        "runs": 71,
+        "balls": 52,
+        "dismissals": 5,
+        "average": 14.2,
+        "strike_rate": 136.54
+      },
+      "w_car": {
+        "avg": 27.25,
+        "eco": 9.74
+      },
+      "b_f": [
+        97,
+        5,
+        63
+      ],
+      "w_f": [
+        1,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "Sikandar Raza",
+      "bat_t": "Zimbabwe",
+      "bowl": "S Dube",
+      "bowl_t": "India",
+      "v": "batsman",
+      "h2h": {
+        "balls": 7,
+        "runs": 12,
+        "dismissals": 0,
+        "strike_rate": 171.43
+      },
+      "vs_t": {
+        "runs": 163,
+        "balls": 154,
+        "dismissals": 8,
+        "average": 20.38,
+        "strike_rate": 105.84
+      },
+      "w_car": {
+        "avg": 27.25,
+        "eco": 9.74
+      },
+      "b_f": [
+        31,
+        27,
+        45
+      ],
+      "w_f": [
+        1,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "SA Yadav",
+      "bat_t": "India",
+      "bowl": "B Muzarabani",
+      "bowl_t": "Zimbabwe",
+      "v": "batsman",
+      "h2h": {
+        "balls": 6,
+        "runs": 15,
+        "dismissals": 0,
+        "strike_rate": 250.0
+      },
+      "vs_t": {
+        "runs": 61,
+        "balls": 25,
+        "dismissals": 0,
+        "average": 61.0,
+        "strike_rate": 244.0
+      },
+      "b_car": {
+        "avg": 38.51,
+        "sr": 156.8
+      },
+      "b_f": [
+        33,
+        18,
+        34
+      ],
+      "w_f": [
+        1,
+        2,
+        2
+      ]
+    },
+    {
+      "bat": "HH Pandya",
+      "bat_t": "India",
+      "bowl": "B Muzarabani",
+      "bowl_t": "Zimbabwe",
+      "v": "batsman",
+      "h2h": {
+        "balls": 6,
+        "runs": 12,
+        "dismissals": 0,
+        "strike_rate": 200.0
+      },
+      "vs_t": {
+        "runs": 18,
+        "balls": 20,
+        "dismissals": 1,
+        "average": 18.0,
+        "strike_rate": 90.0
+      },
+      "b_car": {
+        "avg": 28.12,
+        "sr": 138.02
+      },
+      "b_f": [
+        50,
+        18,
+        30
+      ],
+      "w_f": [
+        1,
+        2,
+        2
+      ]
+    },
+    {
+      "bat": "Abhishek Sharma",
+      "bat_t": "India",
+      "bowl": "D Myers",
+      "bowl_t": "Zimbabwe",
+      "v": "batsman",
+      "h2h": {
+        "balls": 6,
+        "runs": 26,
+        "dismissals": 0,
+        "strike_rate": 433.33
+      },
+      "vs_t": {
+        "runs": 124,
+        "balls": 72,
+        "dismissals": 4,
+        "average": 31.0,
+        "strike_rate": 172.22
+      },
+      "b_car": {
+        "avg": 35.46,
+        "sr": 184.27
+      },
+      "b_f": [
+        55,
+        15,
+        0
+      ],
+      "w_f": [
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "AR Patel",
+      "bat_t": "India",
+      "bowl": "Sikandar Raza",
+      "bowl_t": "Zimbabwe",
+      "v": "bowler",
+      "h2h": {
+        "balls": 5,
+        "runs": 4,
+        "dismissals": 0,
+        "strike_rate": 80.0
+      },
+      "vs_t": {
+        "runs": 51,
+        "balls": 36,
+        "dismissals": 2,
+        "average": 25.5,
+        "strike_rate": 141.67
+      },
+      "b_car": {
+        "avg": 19.66,
+        "sr": 125.55
+      },
+      "b_f": [
+        0,
+        0,
+        14
+      ],
+      "w_f": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "S Dube",
+      "bat_t": "India",
+      "bowl": "R Ngarava",
+      "bowl_t": "Zimbabwe",
+      "v": "batsman",
+      "h2h": {
+        "balls": 5,
+        "runs": 16,
+        "dismissals": 0,
+        "strike_rate": 320.0
+      },
+      "vs_t": {
+        "runs": 26,
+        "balls": 13,
+        "dismissals": 0,
+        "average": 26.0,
+        "strike_rate": 200.0
+      },
+      "b_car": {
+        "avg": 31.2,
+        "sr": 141.3
+      },
+      "b_f": [
+        42,
+        66,
+        27
+      ],
+      "w_f": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "bat": "RP Burl",
+      "bat_t": "Zimbabwe",
+      "bowl": "AR Patel",
+      "bowl_t": "India",
+      "v": "batsman",
+      "h2h": {
+        "balls": 5,
+        "runs": 15,
+        "dismissals": 0,
+        "strike_rate": 300.0
+      },
+      "vs_t": {
+        "runs": 35,
+        "balls": 23,
+        "dismissals": 1,
+        "average": 35.0,
+        "strike_rate": 152.17
+      },
+      "w_car": {
+        "avg": 22.41,
+        "eco": 7.59
+      },
+      "b_f": [
+        0,
+        0,
+        23
+      ],
+      "w_f": [
+        1,
+        2,
+        2
+      ]
+    },
+    {
+      "bat": "S Dube",
+      "bat_t": "India",
+      "bowl": "Sikandar Raza",
+      "bowl_t": "Zimbabwe",
+      "v": "batsman",
+      "h2h": {
+        "balls": 3,
+        "runs": 1,
+        "dismissals": 0,
+        "strike_rate": 33.33
+      },
+      "vs_t": {
+        "runs": 26,
+        "balls": 13,
+        "dismissals": 0,
+        "average": 26.0,
+        "strike_rate": 200.0
+      },
+      "b_car": {
+        "avg": 31.2,
+        "sr": 141.3
+      },
+      "b_f": [
+        42,
+        66,
+        27
+      ],
+      "w_f": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "Abhishek Sharma",
+      "bat_t": "India",
+      "bowl": "R Ngarava",
+      "bowl_t": "Zimbabwe",
+      "v": "bowler",
+      "h2h": {
+        "balls": 3,
+        "runs": 1,
+        "dismissals": 0,
+        "strike_rate": 33.33
+      },
+      "vs_t": {
+        "runs": 124,
+        "balls": 72,
+        "dismissals": 4,
+        "average": 31.0,
+        "strike_rate": 172.22
+      },
+      "b_car": {
+        "avg": 35.46,
+        "sr": 184.27
+      },
+      "b_f": [
+        55,
+        15,
+        0
+      ],
+      "w_f": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "bat": "B Muzarabani",
+      "bat_t": "Zimbabwe",
+      "bowl": "HH Pandya",
+      "bowl_t": "India",
+      "v": "neutral",
+      "h2h": {
+        "balls": 2,
+        "runs": 0,
+        "dismissals": 0,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 3,
+        "balls": 10,
+        "dismissals": 2,
+        "average": 1.5,
+        "strike_rate": 30.0
+      },
+      "w_car": {
+        "avg": 27.46,
+        "eco": 8.49
+      },
+      "b_f": [
+        0
+      ],
+      "w_f": [
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "AR Patel",
+      "bat_t": "India",
+      "bowl": "R Ngarava",
+      "bowl_t": "Zimbabwe",
+      "v": "bowler",
+      "h2h": {
+        "balls": 1,
+        "runs": 0,
+        "dismissals": 0,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 51,
+        "balls": 36,
+        "dismissals": 2,
+        "average": 25.5,
+        "strike_rate": 141.67
+      },
+      "b_car": {
+        "avg": 19.66,
+        "sr": 125.55
+      },
+      "b_f": [
+        0,
+        0,
+        14
+      ],
+      "w_f": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "bat": "SA Yadav",
+      "bat_t": "India",
+      "bowl": "Sikandar Raza",
+      "bowl_t": "Zimbabwe",
+      "v": "batsman",
+      "h2h": {
+        "balls": 1,
+        "runs": 1,
+        "dismissals": 0,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 61,
+        "balls": 25,
+        "dismissals": 0,
+        "average": 61.0,
+        "strike_rate": 244.0
+      },
+      "b_car": {
+        "avg": 38.51,
+        "sr": 156.8
+      },
+      "b_f": [
+        33,
+        18,
+        34
+      ],
+      "w_f": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "S Dube",
+      "bat_t": "India",
+      "bowl": "B Muzarabani",
+      "bowl_t": "Zimbabwe",
+      "v": "batsman",
+      "h2h": {
+        "balls": 1,
+        "runs": 1,
+        "dismissals": 0,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 26,
+        "balls": 13,
+        "dismissals": 0,
+        "average": 26.0,
+        "strike_rate": 200.0
+      },
+      "b_car": {
+        "avg": 31.2,
+        "sr": 141.3
+      },
+      "b_f": [
+        42,
+        66,
+        27
+      ],
+      "w_f": [
+        1,
+        2,
+        2
+      ]
+    },
+    {
+      "bat": "T Munyonga",
+      "bat_t": "Zimbabwe",
+      "bowl": "HH Pandya",
+      "bowl_t": "India",
+      "v": "neutral",
+      "h2h": {
+        "balls": 1,
+        "runs": 1,
+        "dismissals": 0,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 5,
+        "balls": 4,
+        "dismissals": 1,
+        "average": 5.0,
+        "strike_rate": 125.0
+      },
+      "w_car": {
+        "avg": 27.46,
+        "eco": 8.49
+      },
+      "b_f": [
+        11,
+        14,
+        8
+      ],
+      "w_f": [
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "AR Patel",
+      "bat_t": "India",
+      "bowl": "B Muzarabani",
+      "bowl_t": "Zimbabwe",
+      "v": "bowler",
+      "vs_t": {
+        "runs": 51,
+        "balls": 36,
+        "dismissals": 2,
+        "average": 25.5,
+        "strike_rate": 141.67
+      },
+      "b_car": {
+        "avg": 19.66,
+        "sr": 125.55
+      },
+      "b_f": [
+        0,
+        0,
+        14
+      ],
+      "w_f": [
+        1,
+        2,
+        2
+      ]
+    },
+    {
+      "bat": "AR Patel",
+      "bat_t": "India",
+      "bowl": "B Evans",
+      "bowl_t": "Zimbabwe",
+      "v": "bowler",
+      "vs_t": {
+        "runs": 51,
+        "balls": 36,
+        "dismissals": 2,
+        "average": 25.5,
+        "strike_rate": 141.67
+      },
+      "b_car": {
+        "avg": 19.66,
+        "sr": 125.55
+      },
+      "b_f": [
+        0,
+        0,
+        14
+      ],
+      "w_f": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "AR Patel",
+      "bat_t": "India",
+      "bowl": "RP Burl",
+      "bowl_t": "Zimbabwe",
+      "v": "bowler",
+      "vs_t": {
+        "runs": 51,
+        "balls": 36,
+        "dismissals": 2,
+        "average": 25.5,
+        "strike_rate": 141.67
+      },
+      "b_car": {
+        "avg": 19.66,
+        "sr": 125.55
+      },
+      "b_f": [
+        0,
+        0,
+        14
+      ],
+      "w_f": [
+        0,
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "AR Patel",
+      "bat_t": "India",
+      "bowl": "BJ Bennett",
+      "bowl_t": "Zimbabwe",
+      "v": "bowler",
+      "vs_t": {
+        "runs": 51,
+        "balls": 36,
+        "dismissals": 2,
+        "average": 25.5,
+        "strike_rate": 141.67
+      },
+      "b_car": {
+        "avg": 19.66,
+        "sr": 125.55
+      },
+      "b_f": [
+        0,
+        0,
+        14
+      ],
+      "w_f": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "AR Patel",
+      "bat_t": "India",
+      "bowl": "T Munyonga",
+      "bowl_t": "Zimbabwe",
+      "v": "bowler",
+      "vs_t": {
+        "runs": 51,
+        "balls": 36,
+        "dismissals": 2,
+        "average": 25.5,
+        "strike_rate": 141.67
+      },
+      "b_car": {
+        "avg": 19.66,
+        "sr": 125.55
+      },
+      "b_f": [
+        0,
+        0,
+        14
+      ]
+    },
+    {
+      "bat": "AR Patel",
+      "bat_t": "India",
+      "bowl": "T Musekiwa",
+      "bowl_t": "Zimbabwe",
+      "v": "bowler",
+      "vs_t": {
+        "runs": 51,
+        "balls": 36,
+        "dismissals": 2,
+        "average": 25.5,
+        "strike_rate": 141.67
+      },
+      "b_car": {
+        "avg": 19.66,
+        "sr": 125.55
+      },
+      "b_f": [
+        0,
+        0,
+        14
+      ]
+    },
+    {
+      "bat": "AR Patel",
+      "bat_t": "India",
+      "bowl": "T Marumani",
+      "bowl_t": "Zimbabwe",
+      "v": "bowler",
+      "vs_t": {
+        "runs": 51,
+        "balls": 36,
+        "dismissals": 2,
+        "average": 25.5,
+        "strike_rate": 141.67
+      },
+      "b_car": {
+        "avg": 19.66,
+        "sr": 125.55
+      },
+      "b_f": [
+        0,
+        0,
+        14
+      ]
+    },
+    {
+      "bat": "AR Patel",
+      "bat_t": "India",
+      "bowl": "D Myers",
+      "bowl_t": "Zimbabwe",
+      "v": "bowler",
+      "vs_t": {
+        "runs": 51,
+        "balls": 36,
+        "dismissals": 2,
+        "average": 25.5,
+        "strike_rate": 141.67
+      },
+      "b_car": {
+        "avg": 19.66,
+        "sr": 125.55
+      },
+      "b_f": [
+        0,
+        0,
+        14
+      ],
+      "w_f": [
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "AR Patel",
+      "bat_t": "India",
+      "bowl": "TT Maposa",
+      "bowl_t": "Zimbabwe",
+      "v": "bowler",
+      "vs_t": {
+        "runs": 51,
+        "balls": 36,
+        "dismissals": 2,
+        "average": 25.5,
+        "strike_rate": 141.67
+      },
+      "b_car": {
+        "avg": 19.66,
+        "sr": 125.55
+      },
+      "b_f": [
+        0,
+        0,
+        14
+      ],
+      "w_f": [
+        1
+      ]
+    },
+    {
+      "bat": "SA Yadav",
+      "bat_t": "India",
+      "bowl": "B Evans",
+      "bowl_t": "Zimbabwe",
+      "v": "batsman",
+      "vs_t": {
+        "runs": 61,
+        "balls": 25,
+        "dismissals": 0,
+        "average": 61.0,
+        "strike_rate": 244.0
+      },
+      "b_car": {
+        "avg": 38.51,
+        "sr": 156.8
+      },
+      "b_f": [
+        33,
+        18,
+        34
+      ],
+      "w_f": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "SA Yadav",
+      "bat_t": "India",
+      "bowl": "RP Burl",
+      "bowl_t": "Zimbabwe",
+      "v": "batsman",
+      "vs_t": {
+        "runs": 61,
+        "balls": 25,
+        "dismissals": 0,
+        "average": 61.0,
+        "strike_rate": 244.0
+      },
+      "b_car": {
+        "avg": 38.51,
+        "sr": 156.8
+      },
+      "b_f": [
+        33,
+        18,
+        34
+      ],
+      "w_f": [
+        0,
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "SA Yadav",
+      "bat_t": "India",
+      "bowl": "BJ Bennett",
+      "bowl_t": "Zimbabwe",
+      "v": "batsman",
+      "vs_t": {
+        "runs": 61,
+        "balls": 25,
+        "dismissals": 0,
+        "average": 61.0,
+        "strike_rate": 244.0
+      },
+      "b_car": {
+        "avg": 38.51,
+        "sr": 156.8
+      },
+      "b_f": [
+        33,
+        18,
+        34
+      ],
+      "w_f": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "SA Yadav",
+      "bat_t": "India",
+      "bowl": "T Munyonga",
+      "bowl_t": "Zimbabwe",
+      "v": "batsman",
+      "vs_t": {
+        "runs": 61,
+        "balls": 25,
+        "dismissals": 0,
+        "average": 61.0,
+        "strike_rate": 244.0
+      },
+      "b_car": {
+        "avg": 38.51,
+        "sr": 156.8
+      },
+      "b_f": [
+        33,
+        18,
+        34
+      ]
+    },
+    {
+      "bat": "SA Yadav",
+      "bat_t": "India",
+      "bowl": "T Musekiwa",
+      "bowl_t": "Zimbabwe",
+      "v": "batsman",
+      "vs_t": {
+        "runs": 61,
+        "balls": 25,
+        "dismissals": 0,
+        "average": 61.0,
+        "strike_rate": 244.0
+      },
+      "b_car": {
+        "avg": 38.51,
+        "sr": 156.8
+      },
+      "b_f": [
+        33,
+        18,
+        34
+      ]
+    },
+    {
+      "bat": "SA Yadav",
+      "bat_t": "India",
+      "bowl": "T Marumani",
+      "bowl_t": "Zimbabwe",
+      "v": "batsman",
+      "vs_t": {
+        "runs": 61,
+        "balls": 25,
+        "dismissals": 0,
+        "average": 61.0,
+        "strike_rate": 244.0
+      },
+      "b_car": {
+        "avg": 38.51,
+        "sr": 156.8
+      },
+      "b_f": [
+        33,
+        18,
+        34
+      ]
+    },
+    {
+      "bat": "SA Yadav",
+      "bat_t": "India",
+      "bowl": "D Myers",
+      "bowl_t": "Zimbabwe",
+      "v": "batsman",
+      "vs_t": {
+        "runs": 61,
+        "balls": 25,
+        "dismissals": 0,
+        "average": 61.0,
+        "strike_rate": 244.0
+      },
+      "b_car": {
+        "avg": 38.51,
+        "sr": 156.8
+      },
+      "b_f": [
+        33,
+        18,
+        34
+      ],
+      "w_f": [
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "SA Yadav",
+      "bat_t": "India",
+      "bowl": "TT Maposa",
+      "bowl_t": "Zimbabwe",
+      "v": "batsman",
+      "vs_t": {
+        "runs": 61,
+        "balls": 25,
+        "dismissals": 0,
+        "average": 61.0,
+        "strike_rate": 244.0
+      },
+      "b_car": {
+        "avg": 38.51,
+        "sr": 156.8
+      },
+      "b_f": [
+        33,
+        18,
+        34
+      ],
+      "w_f": [
+        1
+      ]
+    },
+    {
+      "bat": "HH Pandya",
+      "bat_t": "India",
+      "bowl": "B Evans",
+      "bowl_t": "Zimbabwe",
+      "v": "neutral",
+      "vs_t": {
+        "runs": 18,
+        "balls": 20,
+        "dismissals": 1,
+        "average": 18.0,
+        "strike_rate": 90.0
+      },
+      "b_car": {
+        "avg": 28.12,
+        "sr": 138.02
+      },
+      "b_f": [
+        50,
+        18,
+        30
+      ],
+      "w_f": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "HH Pandya",
+      "bat_t": "India",
+      "bowl": "RP Burl",
+      "bowl_t": "Zimbabwe",
+      "v": "neutral",
+      "vs_t": {
+        "runs": 18,
+        "balls": 20,
+        "dismissals": 1,
+        "average": 18.0,
+        "strike_rate": 90.0
+      },
+      "b_car": {
+        "avg": 28.12,
+        "sr": 138.02
+      },
+      "b_f": [
+        50,
+        18,
+        30
+      ],
+      "w_f": [
+        0,
+        1,
+        1
+      ]
+    }
+  ]
+}

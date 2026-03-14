@@ -1,0 +1,13 @@
+match_id,date,innings,team,player,overs,balls_bowled,wickets,runs_conceded,economy,maidens,wides,no_balls
+1512772,05-03-2026,1,England,AU Rashid,4.0,24,2,41,10.25,0,0,0
+1512772,05-03-2026,1,England,WG Jacks,4.0,24,2,42,10.5,0,1,0
+1512772,05-03-2026,1,England,JC Archer,4.0,24,1,61,15.25,0,2,0
+1512772,05-03-2026,1,England,J Overton,3.0,18,0,36,12.0,0,1,0
+1512772,05-03-2026,1,England,SM Curran,4.0,24,0,54,13.5,0,4,0
+1512772,05-03-2026,1,England,LA Dawson,1.0,6,0,19,19.0,0,1,0
+1512772,05-03-2026,2,India,HH Pandya,4.0,24,2,39,9.75,0,1,0
+1512772,05-03-2026,2,India,JJ Bumrah,4.0,24,1,33,8.25,0,1,0
+1512772,05-03-2026,2,India,AR Patel,3.0,18,1,37,12.33,0,1,0
+1512772,05-03-2026,2,India,Arshdeep Singh,4.0,24,1,51,12.75,0,5,0
+1512772,05-03-2026,2,India,CV Varun,4.0,24,1,64,16.0,0,1,0
+1512772,05-03-2026,2,India,S Dube,1.0,6,0,22,22.0,0,1,0

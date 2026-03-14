@@ -1,0 +1,486 @@
+{
+    "match_context": {
+        "match_id": "1512773",
+        "date": "08-03-2026",
+        "tournament": "2025/26",
+        "venue": "Narendra Modi Stadium, Ahmedabad",
+        "stage": "ICC Men's T20 World Cup",
+        "Teams": {
+            "India": {
+                "captain": "SA Yadav",
+                "playing_xi_count": 11
+            },
+            "New Zealand": {
+                "captain": "TL Seifert",
+                "playing_xi_count": 11
+            }
+        }
+    },
+    "Match_Result": {
+        "summary": "India won by 96 runs",
+        "winner": "India",
+        "margin": 96,
+        "margin_type": "runs"
+    },
+    "Scorecard_Highlights": {
+        "Key_Support_Performers": [
+            {
+                "player": "HH Pandya",
+                "team": "India",
+                "runs": 18,
+                "balls": 13,
+                "sr": 138.46,
+                "fours": 1,
+                "sixes": 1,
+                "win_contribution_percent": 7.1,
+                "score": 39.88
+            },
+            {
+                "player": "DJ Mitchell",
+                "team": "New Zealand",
+                "runs": 17,
+                "balls": 12,
+                "sr": 141.67,
+                "fours": 0,
+                "sixes": 2,
+                "win_contribution_percent": 10.7,
+                "score": 39.38
+            }
+        ],
+        "Career_vs_Match_Bowling": [
+            {
+                "player": "Abhishek Sharma",
+                "team": "India",
+                "match_figures": "1.0-5-1",
+                "match_economy": 5.0,
+                "career_economy": 8.87,
+                "economy_delta": -3.87,
+                "match_sr": 6.0,
+                "career_sr": 26.5,
+                "career_wickets": 6,
+                "career_best": "2/3",
+                "verdict": "Exceptional - 3.87 below career economy (8.87)"
+            },
+            {
+                "player": "JJ Bumrah",
+                "team": "India",
+                "match_figures": "4.0-15-4",
+                "match_economy": 3.75,
+                "career_economy": 6.85,
+                "economy_delta": -3.1,
+                "match_sr": 6.0,
+                "career_sr": 17.08,
+                "career_wickets": 113,
+                "career_best": "3/23",
+                "verdict": "Exceptional - 3.1 below career economy (6.85)"
+            },
+            {
+                "player": "Arshdeep Singh",
+                "team": "India",
+                "match_figures": "4.0-33-0",
+                "match_economy": 8.25,
+                "career_economy": 8.75,
+                "economy_delta": -0.5,
+                "match_sr": null,
+                "career_sr": 13.46,
+                "career_wickets": 120,
+                "career_best": "5/51",
+                "verdict": "On par with career economy (8.75)"
+            },
+            {
+                "player": "HH Pandya",
+                "team": "India",
+                "match_figures": "4.0-36-1",
+                "match_economy": 9.0,
+                "career_economy": 8.49,
+                "economy_delta": 0.51,
+                "match_sr": 24.0,
+                "career_sr": 19.4,
+                "career_wickets": 111,
+                "career_best": "4/38",
+                "verdict": "On par with career economy (8.49)"
+            },
+            {
+                "player": "AR Patel",
+                "team": "India",
+                "match_figures": "3.0-27-3",
+                "match_economy": 9.0,
+                "career_economy": 7.59,
+                "economy_delta": 1.41,
+                "match_sr": 6.0,
+                "career_sr": 17.7,
+                "career_wickets": 88,
+                "career_best": "3/18",
+                "verdict": "On par with career economy (7.59)"
+            },
+            {
+                "player": "CV Varun",
+                "team": "India",
+                "match_figures": "3.0-43-1",
+                "match_economy": 14.33,
+                "career_economy": 7.36,
+                "economy_delta": 6.97,
+                "match_sr": 18.0,
+                "career_sr": 12.97,
+                "career_wickets": 71,
+                "career_best": "5/24",
+                "verdict": "Expensive - 6.97 above career economy (7.36)"
+            }
+        ],
+        "Bowling_Standouts": {
+            "Economical_Spells": [
+                {
+                    "player": "Abhishek Sharma",
+                    "team": "India",
+                    "match_figures": "1.0-5-1",
+                    "match_economy": 5.0,
+                    "career_economy": 8.87,
+                    "economy_delta": -3.87,
+                    "match_sr": 6.0,
+                    "career_sr": 26.5,
+                    "career_wickets": 6,
+                    "career_best": "2/3",
+                    "verdict": "Exceptional - 3.87 below career economy (8.87)"
+                },
+                {
+                    "player": "JJ Bumrah",
+                    "team": "India",
+                    "match_figures": "4.0-15-4",
+                    "match_economy": 3.75,
+                    "career_economy": 6.85,
+                    "economy_delta": -3.1,
+                    "match_sr": 6.0,
+                    "career_sr": 17.08,
+                    "career_wickets": 113,
+                    "career_best": "3/23",
+                    "verdict": "Exceptional - 3.1 below career economy (6.85)"
+                }
+            ],
+            "Expensive_Spells": [
+                {
+                    "player": "CV Varun",
+                    "team": "India",
+                    "match_figures": "3.0-43-1",
+                    "match_economy": 14.33,
+                    "career_economy": 7.36,
+                    "economy_delta": 6.97,
+                    "match_sr": 18.0,
+                    "career_sr": 12.97,
+                    "career_wickets": 71,
+                    "career_best": "5/24",
+                    "verdict": "Expensive - 6.97 above career economy (7.36)"
+                }
+            ],
+            "High_Economy_No_Baseline": [
+                {
+                    "player": "LH Ferguson",
+                    "team": "New Zealand",
+                    "overs": 2.0,
+                    "runs": 48,
+                    "wickets": 0,
+                    "econ": 24.0,
+                    "score": 8.31,
+                    "bowling_baseline": {
+                        "career_wickets": 0,
+                        "career_economy": 0.0,
+                        "career_sr": 0.0,
+                        "career_avg": 0.0,
+                        "best_bowling": "N/A",
+                        "matches": 0,
+                        "source": "none",
+                        "baseline_available": false
+                    }
+                },
+                {
+                    "player": "R Ravindra",
+                    "team": "New Zealand",
+                    "overs": 2.0,
+                    "runs": 32,
+                    "wickets": 1,
+                    "econ": 16.0,
+                    "score": 42.47,
+                    "bowling_baseline": {
+                        "career_wickets": 0,
+                        "career_economy": 0.0,
+                        "career_sr": 0.0,
+                        "career_avg": 0.0,
+                        "best_bowling": "N/A",
+                        "matches": 0,
+                        "source": "none",
+                        "baseline_available": false
+                    }
+                }
+            ]
+        },
+        "Significant_Collapses": []
+    },
+    "Innings_Metrics": [
+        {
+            "innings": 1,
+            "team": "India",
+            "total_runs": 255,
+            "total_wickets": 5,
+            "balls_faced": 120,
+            "overs_faced": 20.0,
+            "phase_analysis": {
+                "Powerplay": {
+                    "runs": 92,
+                    "wkts": 0,
+                    "rr": 15.33
+                },
+                "Middle": {
+                    "runs": 111,
+                    "wkts": 1,
+                    "rr": 12.33
+                },
+                "Death": {
+                    "runs": 52,
+                    "wkts": 4,
+                    "rr": 10.4
+                }
+            }
+        },
+        {
+            "innings": 2,
+            "team": "New Zealand",
+            "total_runs": 159,
+            "total_wickets": 10,
+            "balls_faced": 114,
+            "overs_faced": 19.0,
+            "phase_analysis": {
+                "Powerplay": {
+                    "runs": 52,
+                    "wkts": 3,
+                    "rr": 8.67
+                },
+                "Middle": {
+                    "runs": 87,
+                    "wkts": 3,
+                    "rr": 9.67
+                },
+                "Death": {
+                    "runs": 20,
+                    "wkts": 4,
+                    "rr": 5.0
+                }
+            },
+            "pressure_index": 90.0,
+            "target": 256
+        }
+    ],
+    "Detailed_Impact_Analysis": [
+        {
+            "player": "JJ Bumrah",
+            "team": "India",
+            "overs": 4.0,
+            "runs": 15,
+            "wickets": 4,
+            "econ": 3.75,
+            "score": 150.0,
+            "bowling_baseline": {
+                "career_wickets": 113,
+                "career_economy": 6.85,
+                "career_sr": 17.08,
+                "career_avg": 19.51,
+                "best_bowling": "3/23",
+                "matches": 88,
+                "source": "t20_bowling_master",
+                "baseline_available": true
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-15r-4w"
+        },
+        {
+            "player": "SV Samson",
+            "team": "India",
+            "runs": 89,
+            "balls": 50,
+            "sr": 178.0,
+            "fours": 5,
+            "sixes": 8,
+            "win_contribution_percent": 34.9,
+            "score": 117.12,
+            "role": "batting",
+            "match_stats": "89(50)",
+            "baseline": {
+                "avg": 25.0,
+                "sr": 143.98,
+                "matches": 49,
+                "source": "t20_master",
+                "baseline_available": true
+            }
+        },
+        {
+            "player": "AR Patel",
+            "team": "India",
+            "overs": 3.0,
+            "runs": 27,
+            "wickets": 3,
+            "econ": 9.0,
+            "score": 112.17,
+            "bowling_baseline": {
+                "career_wickets": 88,
+                "career_economy": 7.59,
+                "career_sr": 17.7,
+                "career_avg": 22.41,
+                "best_bowling": "3/18",
+                "matches": 82,
+                "source": "t20_bowling_master",
+                "baseline_available": true
+            },
+            "role": "bowling",
+            "match_stats": "3.0o-27r-3w"
+        },
+        {
+            "player": "JDS Neesham",
+            "team": "New Zealand",
+            "overs": 4.0,
+            "runs": 46,
+            "wickets": 3,
+            "econ": 11.5,
+            "score": 107.35,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-46r-3w"
+        },
+        {
+            "player": "Ishan Kishan",
+            "team": "India",
+            "runs": 54,
+            "balls": 25,
+            "sr": 216.0,
+            "fours": 4,
+            "sixes": 4,
+            "win_contribution_percent": 21.2,
+            "score": 88.13,
+            "role": "batting",
+            "match_stats": "54(25)",
+            "baseline": {
+                "avg": 29.68,
+                "sr": 138.02,
+                "matches": 41,
+                "source": "t20_master",
+                "baseline_available": true
+            }
+        },
+        {
+            "player": "Abhishek Sharma",
+            "team": "India",
+            "runs": 52,
+            "balls": 25,
+            "sr": 208.0,
+            "fours": 6,
+            "sixes": 3,
+            "win_contribution_percent": 20.4,
+            "score": 84.86,
+            "role": "batting",
+            "match_stats": "52(25)",
+            "baseline": {
+                "avg": 35.46,
+                "sr": 184.27,
+                "matches": 41,
+                "source": "t20_master",
+                "baseline_available": true
+            }
+        },
+        {
+            "player": "TL Seifert",
+            "team": "New Zealand",
+            "runs": 52,
+            "balls": 26,
+            "sr": 200.0,
+            "fours": 2,
+            "sixes": 5,
+            "win_contribution_percent": 32.7,
+            "score": 83.6,
+            "role": "batting",
+            "match_stats": "52(26)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "S Dube",
+            "team": "India",
+            "runs": 26,
+            "balls": 8,
+            "sr": 325.0,
+            "fours": 3,
+            "sixes": 2,
+            "win_contribution_percent": 10.2,
+            "score": 77.35,
+            "role": "batting",
+            "match_stats": "26(8)",
+            "baseline": {
+                "avg": 31.2,
+                "sr": 141.3,
+                "matches": 40,
+                "source": "t20_master",
+                "baseline_available": true
+            }
+        },
+        {
+            "player": "Abhishek Sharma",
+            "team": "India",
+            "overs": 1.0,
+            "runs": 5,
+            "wickets": 1,
+            "econ": 5.0,
+            "score": 69.9,
+            "bowling_baseline": {
+                "career_wickets": 6,
+                "career_economy": 8.87,
+                "career_sr": 26.5,
+                "career_avg": 39.17,
+                "best_bowling": "2/3",
+                "matches": 18,
+                "source": "t20_bowling_master",
+                "baseline_available": true
+            },
+            "role": "bowling",
+            "match_stats": "1.0o-5r-1w"
+        },
+        {
+            "player": "MJ Santner",
+            "team": "New Zealand",
+            "runs": 43,
+            "balls": 38,
+            "sr": 113.16,
+            "fours": 3,
+            "sixes": 2,
+            "win_contribution_percent": 27.0,
+            "score": 60.88,
+            "role": "batting",
+            "match_stats": "43(38)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        }
+    ],
+    "Tactical_Post_Match_Analysis": [
+        "India's victory was anchored by SV Samson, who contributed 34.9% of the team's runs.",
+        "Defensive pressure was sustained by JJ Bumrah, finishing with an impact score of 150.0.",
+        "Abhishek Sharma was outstanding with the ball — economy 5.0 vs career avg 8.87 (delta: -3.87). A match-defining spell.",
+        "JJ Bumrah was outstanding with the ball — economy 3.75 vs career avg 6.85 (delta: -3.1). A match-defining spell.",
+        "CV Varun struggled with economy 14.33 vs career avg 7.36 (+6.97) — an expensive outing.",
+        "New Zealand struggled under extreme chase pressure (Index: 90.0), leading to a late-innings collapse.",
+        "New Zealand lost 3 wickets in Powerplay, failing to build a stable foundation."
+    ]
+}

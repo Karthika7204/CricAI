@@ -1,0 +1,17 @@
+match_id,date,innings,team,player,runs,balls_faced,strike_rate,fours,sixes,dismissed,dismissal_kind
+1512769,01-03-2026,1,Zimbabwe,Sikandar Raza,73,43,169.77,8,4,True,caught
+1512769,01-03-2026,1,Zimbabwe,C Madande,26,21,123.81,3,0,False,
+1512769,01-03-2026,1,Zimbabwe,BJ Bennett,15,13,115.38,1,1,True,caught
+1512769,01-03-2026,1,Zimbabwe,D Myers,11,17,64.71,1,0,True,caught
+1512769,01-03-2026,1,Zimbabwe,B Evans,8,11,72.73,0,1,True,bowled
+1512769,01-03-2026,1,Zimbabwe,T Marumani,7,8,87.5,1,0,True,bowled
+1512769,01-03-2026,1,Zimbabwe,RP Burl,5,5,100.0,0,0,True,lbw
+1512769,01-03-2026,1,Zimbabwe,T Munyonga,2,5,40.0,0,0,True,bowled
+1512769,01-03-2026,1,Zimbabwe,WP Masakadza,1,1,100.0,0,0,False,
+1512769,01-03-2026,2,South Africa,D Brevis,42,18,233.33,2,4,True,caught
+1512769,01-03-2026,2,South Africa,RD Rickelton,31,23,134.78,0,4,True,caught
+1512769,01-03-2026,2,South Africa,GF Linde,30,22,136.36,2,1,False,
+1512769,01-03-2026,2,South Africa,DA Miller,22,16,137.5,2,2,True,caught
+1512769,01-03-2026,2,South Africa,T Stubbs,21,25,84.0,0,0,False,
+1512769,01-03-2026,2,South Africa,AK Markram,4,5,80.0,0,0,True,bowled
+1512769,01-03-2026,2,South Africa,Q de Kock,0,2,0.0,0,0,True,caught

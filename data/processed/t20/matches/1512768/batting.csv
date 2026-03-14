@@ -1,0 +1,18 @@
+match_id,date,innings,team,player,runs,balls_faced,strike_rate,fours,sixes,dismissed,dismissal_kind
+1512768,28-02-2026,1,Pakistan,Sahibzada Farhan,100,61,163.93,9,5,True,caught
+1512768,28-02-2026,1,Pakistan,Fakhar Zaman,84,44,190.91,9,4,True,bowled
+1512768,28-02-2026,1,Pakistan,Usman Khan,8,4,200.0,1,0,False,
+1512768,28-02-2026,1,Pakistan,Shadab Khan,7,5,140.0,1,0,True,run out
+1512768,28-02-2026,1,Pakistan,Shaheen Shah Afridi,4,2,200.0,1,0,True,lbw
+1512768,28-02-2026,1,Pakistan,Khawaja Nafay,2,3,66.67,0,0,True,caught
+1512768,28-02-2026,1,Pakistan,Naseem Shah,1,1,100.0,0,0,False,
+1512768,28-02-2026,1,Pakistan,Agha Salman,0,2,0.0,0,0,True,caught
+1512768,28-02-2026,1,Pakistan,Mohammad Nawaz,0,1,0.0,0,0,True,caught
+1512768,28-02-2026,2,Sri Lanka,MD Shanaka,76,32,237.5,2,8,False,
+1512768,28-02-2026,2,Sri Lanka,P Rathnayake,58,39,148.72,4,3,True,caught
+1512768,28-02-2026,2,Sri Lanka,K Mishara,26,15,173.33,4,1,True,bowled
+1512768,28-02-2026,2,Sri Lanka,KIC Asalanka,25,19,131.58,1,2,True,bowled
+1512768,28-02-2026,2,Sri Lanka,J Liyanage,5,3,166.67,1,0,True,bowled
+1512768,28-02-2026,2,Sri Lanka,P Nissanka,3,8,37.5,0,0,True,caught
+1512768,28-02-2026,2,Sri Lanka,PHKD Mendis,3,6,50.0,0,0,True,bowled
+1512768,28-02-2026,2,Sri Lanka,DN Wellalage,2,4,50.0,0,0,False,

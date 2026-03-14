@@ -1,0 +1,1386 @@
+{
+  "match_id": "1512769",
+  "team_a": "Zimbabwe",
+  "team_b": "South Africa",
+  "matchups": [
+    {
+      "bat": "BJ Bennett",
+      "bat_t": "Zimbabwe",
+      "bowl": "GF Linde",
+      "bowl_t": "South Africa",
+      "v": "batsman",
+      "h2h": {
+        "balls": 14,
+        "runs": 29,
+        "dismissals": 1,
+        "strike_rate": 207.14
+      },
+      "vs_t": {
+        "runs": 91,
+        "balls": 72,
+        "dismissals": 2,
+        "average": 45.5,
+        "strike_rate": 126.39
+      },
+      "b_f": [
+        97,
+        5,
+        63
+      ],
+      "w_f": [
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "BJ Bennett",
+      "bat_t": "Zimbabwe",
+      "bowl": "L Ngidi",
+      "bowl_t": "South Africa",
+      "v": "bowler",
+      "h2h": {
+        "balls": 14,
+        "runs": 15,
+        "dismissals": 1,
+        "strike_rate": 107.14
+      },
+      "vs_t": {
+        "runs": 91,
+        "balls": 72,
+        "dismissals": 2,
+        "average": 45.5,
+        "strike_rate": 126.39
+      },
+      "b_f": [
+        97,
+        5,
+        63
+      ],
+      "w_f": [
+        3,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "Sikandar Raza",
+      "bat_t": "Zimbabwe",
+      "bowl": "L Ngidi",
+      "bowl_t": "South Africa",
+      "v": "bowler",
+      "h2h": {
+        "balls": 4,
+        "runs": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 63,
+        "balls": 52,
+        "dismissals": 2,
+        "average": 31.5,
+        "strike_rate": 121.15
+      },
+      "b_f": [
+        31,
+        27,
+        45
+      ],
+      "w_f": [
+        3,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "C Madande",
+      "bat_t": "Zimbabwe",
+      "bowl": "C Bosch",
+      "bowl_t": "South Africa",
+      "v": "bowler",
+      "h2h": {
+        "balls": 4,
+        "runs": 2,
+        "dismissals": 1,
+        "strike_rate": 50.0
+      },
+      "vs_t": {
+        "runs": 16,
+        "balls": 24,
+        "dismissals": 2,
+        "average": 8.0,
+        "strike_rate": 66.67
+      },
+      "b_f": [
+        26
+      ],
+      "w_f": [
+        2,
+        2,
+        3
+      ]
+    },
+    {
+      "bat": "T Munyonga",
+      "bat_t": "Zimbabwe",
+      "bowl": "GF Linde",
+      "bowl_t": "South Africa",
+      "v": "neutral",
+      "h2h": {
+        "balls": 1,
+        "runs": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 1,
+        "balls": 2,
+        "dismissals": 1,
+        "average": 1.0,
+        "strike_rate": 50.0
+      },
+      "b_f": [
+        11,
+        14,
+        8
+      ],
+      "w_f": [
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "DA Miller",
+      "bat_t": "South Africa",
+      "bowl": "AG Cremer",
+      "bowl_t": "Zimbabwe",
+      "v": "batsman",
+      "h2h": {
+        "balls": 13,
+        "runs": 23,
+        "dismissals": 0,
+        "strike_rate": 176.92
+      },
+      "vs_t": {
+        "runs": 119,
+        "balls": 95,
+        "dismissals": 2,
+        "average": 59.5,
+        "strike_rate": 125.26
+      },
+      "b_car": {
+        "avg": 34.81,
+        "sr": 136.68
+      },
+      "b_f": [
+        63,
+        24,
+        39
+      ],
+      "w_f": [
+        1,
+        2,
+        0
+      ]
+    },
+    {
+      "bat": "D Brevis",
+      "bat_t": "South Africa",
+      "bowl": "Sikandar Raza",
+      "bowl_t": "Zimbabwe",
+      "v": "batsman",
+      "h2h": {
+        "balls": 7,
+        "runs": 15,
+        "dismissals": 0,
+        "strike_rate": 214.29
+      },
+      "vs_t": {
+        "runs": 54,
+        "balls": 25,
+        "dismissals": 1,
+        "average": 54.0,
+        "strike_rate": 216.0
+      },
+      "b_car": {
+        "avg": 26.0,
+        "sr": 154.92
+      },
+      "b_f": [
+        45,
+        36,
+        21
+      ],
+      "w_f": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "Q de Kock",
+      "bat_t": "South Africa",
+      "bowl": "Sikandar Raza",
+      "bowl_t": "Zimbabwe",
+      "v": "batsman",
+      "h2h": {
+        "balls": 5,
+        "runs": 8,
+        "dismissals": 0,
+        "strike_rate": 160.0
+      },
+      "vs_t": {
+        "runs": 78,
+        "balls": 47,
+        "dismissals": 2,
+        "average": 39.0,
+        "strike_rate": 165.96
+      },
+      "b_car": {
+        "avg": 31.84,
+        "sr": 136.42
+      },
+      "b_f": [
+        47,
+        6,
+        14
+      ],
+      "w_f": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "D Brevis",
+      "bat_t": "South Africa",
+      "bowl": "RP Burl",
+      "bowl_t": "Zimbabwe",
+      "v": "batsman",
+      "h2h": {
+        "balls": 5,
+        "runs": 24,
+        "dismissals": 0,
+        "strike_rate": 480.0
+      },
+      "vs_t": {
+        "runs": 54,
+        "balls": 25,
+        "dismissals": 1,
+        "average": 54.0,
+        "strike_rate": 216.0
+      },
+      "b_car": {
+        "avg": 26.0,
+        "sr": 154.92
+      },
+      "b_f": [
+        45,
+        36,
+        21
+      ],
+      "w_f": [
+        0,
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "C Bosch",
+      "bat_t": "South Africa",
+      "bowl": "B Muzarabani",
+      "bowl_t": "Zimbabwe",
+      "v": "neutral",
+      "h2h": {
+        "balls": 3,
+        "runs": 7,
+        "dismissals": 0,
+        "strike_rate": 233.33
+      },
+      "vs_t": {
+        "runs": 23,
+        "balls": 15,
+        "dismissals": 0,
+        "average": 23.0,
+        "strike_rate": 153.33
+      },
+      "b_car": {
+        "avg": 14.12,
+        "sr": 104.63
+      },
+      "b_f": [
+        5,
+        2
+      ],
+      "w_f": [
+        1,
+        2,
+        2
+      ]
+    },
+    {
+      "bat": "RP Burl",
+      "bat_t": "Zimbabwe",
+      "bowl": "C Bosch",
+      "bowl_t": "South Africa",
+      "v": "neutral",
+      "h2h": {
+        "balls": 12,
+        "runs": 9,
+        "dismissals": 0,
+        "strike_rate": 75.0
+      },
+      "vs_t": {
+        "runs": 65,
+        "balls": 52,
+        "dismissals": 1,
+        "average": 65.0,
+        "strike_rate": 125.0
+      },
+      "b_f": [
+        0,
+        0,
+        23
+      ],
+      "w_f": [
+        2,
+        2,
+        3
+      ]
+    },
+    {
+      "bat": "Sikandar Raza",
+      "bat_t": "Zimbabwe",
+      "bowl": "C Bosch",
+      "bowl_t": "South Africa",
+      "v": "bowler",
+      "h2h": {
+        "balls": 12,
+        "runs": 11,
+        "dismissals": 0,
+        "strike_rate": 91.67
+      },
+      "vs_t": {
+        "runs": 63,
+        "balls": 52,
+        "dismissals": 2,
+        "average": 31.5,
+        "strike_rate": 121.15
+      },
+      "b_f": [
+        31,
+        27,
+        45
+      ],
+      "w_f": [
+        2,
+        2,
+        3
+      ]
+    },
+    {
+      "bat": "GF Linde",
+      "bat_t": "South Africa",
+      "bowl": "Sikandar Raza",
+      "bowl_t": "Zimbabwe",
+      "v": "neutral",
+      "h2h": {
+        "balls": 2,
+        "runs": 2,
+        "dismissals": 0,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 3,
+        "balls": 3,
+        "dismissals": 0,
+        "average": 3.0,
+        "strike_rate": 100.0
+      },
+      "b_car": {
+        "avg": 15.95,
+        "sr": 135.27
+      },
+      "b_f": [
+        30
+      ],
+      "w_f": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "C Bosch",
+      "bat_t": "South Africa",
+      "bowl": "Sikandar Raza",
+      "bowl_t": "Zimbabwe",
+      "v": "neutral",
+      "h2h": {
+        "balls": 2,
+        "runs": 3,
+        "dismissals": 0,
+        "strike_rate": 150.0
+      },
+      "vs_t": {
+        "runs": 23,
+        "balls": 15,
+        "dismissals": 0,
+        "average": 23.0,
+        "strike_rate": 153.33
+      },
+      "b_car": {
+        "avg": 14.12,
+        "sr": 104.63
+      },
+      "b_f": [
+        5,
+        2
+      ],
+      "w_f": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "BJ Bennett",
+      "bat_t": "Zimbabwe",
+      "bowl": "C Bosch",
+      "bowl_t": "South Africa",
+      "v": "bowler",
+      "h2h": {
+        "balls": 11,
+        "runs": 13,
+        "dismissals": 0,
+        "strike_rate": 118.18
+      },
+      "vs_t": {
+        "runs": 91,
+        "balls": 72,
+        "dismissals": 2,
+        "average": 45.5,
+        "strike_rate": 126.39
+      },
+      "b_f": [
+        97,
+        5,
+        63
+      ],
+      "w_f": [
+        2,
+        2,
+        3
+      ]
+    },
+    {
+      "bat": "D Brevis",
+      "bat_t": "South Africa",
+      "bowl": "WP Masakadza",
+      "bowl_t": "Zimbabwe",
+      "v": "batsman",
+      "h2h": {
+        "balls": 1,
+        "runs": 1,
+        "dismissals": 0,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 54,
+        "balls": 25,
+        "dismissals": 1,
+        "average": 54.0,
+        "strike_rate": 216.0
+      },
+      "b_car": {
+        "avg": 26.0,
+        "sr": 154.92
+      },
+      "b_f": [
+        45,
+        36,
+        21
+      ],
+      "w_f": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "Q de Kock",
+      "bat_t": "South Africa",
+      "bowl": "BJ Bennett",
+      "bowl_t": "Zimbabwe",
+      "v": "batsman",
+      "vs_t": {
+        "runs": 78,
+        "balls": 47,
+        "dismissals": 2,
+        "average": 39.0,
+        "strike_rate": 165.96
+      },
+      "b_car": {
+        "avg": 31.84,
+        "sr": 136.42
+      },
+      "b_f": [
+        47,
+        6,
+        14
+      ],
+      "w_f": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "Q de Kock",
+      "bat_t": "South Africa",
+      "bowl": "RP Burl",
+      "bowl_t": "Zimbabwe",
+      "v": "batsman",
+      "vs_t": {
+        "runs": 78,
+        "balls": 47,
+        "dismissals": 2,
+        "average": 39.0,
+        "strike_rate": 165.96
+      },
+      "b_car": {
+        "avg": 31.84,
+        "sr": 136.42
+      },
+      "b_f": [
+        47,
+        6,
+        14
+      ],
+      "w_f": [
+        0,
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "Q de Kock",
+      "bat_t": "South Africa",
+      "bowl": "T Marumani",
+      "bowl_t": "Zimbabwe",
+      "v": "batsman",
+      "vs_t": {
+        "runs": 78,
+        "balls": 47,
+        "dismissals": 2,
+        "average": 39.0,
+        "strike_rate": 165.96
+      },
+      "b_car": {
+        "avg": 31.84,
+        "sr": 136.42
+      },
+      "b_f": [
+        47,
+        6,
+        14
+      ]
+    },
+    {
+      "bat": "Q de Kock",
+      "bat_t": "South Africa",
+      "bowl": "AG Cremer",
+      "bowl_t": "Zimbabwe",
+      "v": "batsman",
+      "vs_t": {
+        "runs": 78,
+        "balls": 47,
+        "dismissals": 2,
+        "average": 39.0,
+        "strike_rate": 165.96
+      },
+      "b_car": {
+        "avg": 31.84,
+        "sr": 136.42
+      },
+      "b_f": [
+        47,
+        6,
+        14
+      ],
+      "w_f": [
+        1,
+        2,
+        0
+      ]
+    },
+    {
+      "bat": "Q de Kock",
+      "bat_t": "South Africa",
+      "bowl": "B Evans",
+      "bowl_t": "Zimbabwe",
+      "v": "batsman",
+      "vs_t": {
+        "runs": 78,
+        "balls": 47,
+        "dismissals": 2,
+        "average": 39.0,
+        "strike_rate": 165.96
+      },
+      "b_car": {
+        "avg": 31.84,
+        "sr": 136.42
+      },
+      "b_f": [
+        47,
+        6,
+        14
+      ],
+      "w_f": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "Q de Kock",
+      "bat_t": "South Africa",
+      "bowl": "D Myers",
+      "bowl_t": "Zimbabwe",
+      "v": "batsman",
+      "vs_t": {
+        "runs": 78,
+        "balls": 47,
+        "dismissals": 2,
+        "average": 39.0,
+        "strike_rate": 165.96
+      },
+      "b_car": {
+        "avg": 31.84,
+        "sr": 136.42
+      },
+      "b_f": [
+        47,
+        6,
+        14
+      ],
+      "w_f": [
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "Q de Kock",
+      "bat_t": "South Africa",
+      "bowl": "WP Masakadza",
+      "bowl_t": "Zimbabwe",
+      "v": "batsman",
+      "vs_t": {
+        "runs": 78,
+        "balls": 47,
+        "dismissals": 2,
+        "average": 39.0,
+        "strike_rate": 165.96
+      },
+      "b_car": {
+        "avg": 31.84,
+        "sr": 136.42
+      },
+      "b_f": [
+        47,
+        6,
+        14
+      ],
+      "w_f": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "Q de Kock",
+      "bat_t": "South Africa",
+      "bowl": "B Muzarabani",
+      "bowl_t": "Zimbabwe",
+      "v": "batsman",
+      "vs_t": {
+        "runs": 78,
+        "balls": 47,
+        "dismissals": 2,
+        "average": 39.0,
+        "strike_rate": 165.96
+      },
+      "b_car": {
+        "avg": 31.84,
+        "sr": 136.42
+      },
+      "b_f": [
+        47,
+        6,
+        14
+      ],
+      "w_f": [
+        1,
+        2,
+        2
+      ]
+    },
+    {
+      "bat": "Q de Kock",
+      "bat_t": "South Africa",
+      "bowl": "T Munyonga",
+      "bowl_t": "Zimbabwe",
+      "v": "batsman",
+      "vs_t": {
+        "runs": 78,
+        "balls": 47,
+        "dismissals": 2,
+        "average": 39.0,
+        "strike_rate": 165.96
+      },
+      "b_car": {
+        "avg": 31.84,
+        "sr": 136.42
+      },
+      "b_f": [
+        47,
+        6,
+        14
+      ]
+    },
+    {
+      "bat": "Q de Kock",
+      "bat_t": "South Africa",
+      "bowl": "C Madande",
+      "bowl_t": "Zimbabwe",
+      "v": "batsman",
+      "vs_t": {
+        "runs": 78,
+        "balls": 47,
+        "dismissals": 2,
+        "average": 39.0,
+        "strike_rate": 165.96
+      },
+      "b_car": {
+        "avg": 31.84,
+        "sr": 136.42
+      },
+      "b_f": [
+        47,
+        6,
+        14
+      ]
+    },
+    {
+      "bat": "GF Linde",
+      "bat_t": "South Africa",
+      "bowl": "BJ Bennett",
+      "bowl_t": "Zimbabwe",
+      "v": "neutral",
+      "vs_t": {
+        "runs": 3,
+        "balls": 3,
+        "dismissals": 0,
+        "average": 3.0,
+        "strike_rate": 100.0
+      },
+      "b_car": {
+        "avg": 15.95,
+        "sr": 135.27
+      },
+      "b_f": [
+        30
+      ],
+      "w_f": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "GF Linde",
+      "bat_t": "South Africa",
+      "bowl": "RP Burl",
+      "bowl_t": "Zimbabwe",
+      "v": "neutral",
+      "vs_t": {
+        "runs": 3,
+        "balls": 3,
+        "dismissals": 0,
+        "average": 3.0,
+        "strike_rate": 100.0
+      },
+      "b_car": {
+        "avg": 15.95,
+        "sr": 135.27
+      },
+      "b_f": [
+        30
+      ],
+      "w_f": [
+        0,
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "GF Linde",
+      "bat_t": "South Africa",
+      "bowl": "T Marumani",
+      "bowl_t": "Zimbabwe",
+      "v": "neutral",
+      "vs_t": {
+        "runs": 3,
+        "balls": 3,
+        "dismissals": 0,
+        "average": 3.0,
+        "strike_rate": 100.0
+      },
+      "b_car": {
+        "avg": 15.95,
+        "sr": 135.27
+      },
+      "b_f": [
+        30
+      ]
+    },
+    {
+      "bat": "GF Linde",
+      "bat_t": "South Africa",
+      "bowl": "AG Cremer",
+      "bowl_t": "Zimbabwe",
+      "v": "neutral",
+      "vs_t": {
+        "runs": 3,
+        "balls": 3,
+        "dismissals": 0,
+        "average": 3.0,
+        "strike_rate": 100.0
+      },
+      "b_car": {
+        "avg": 15.95,
+        "sr": 135.27
+      },
+      "b_f": [
+        30
+      ],
+      "w_f": [
+        1,
+        2,
+        0
+      ]
+    },
+    {
+      "bat": "GF Linde",
+      "bat_t": "South Africa",
+      "bowl": "B Evans",
+      "bowl_t": "Zimbabwe",
+      "v": "neutral",
+      "vs_t": {
+        "runs": 3,
+        "balls": 3,
+        "dismissals": 0,
+        "average": 3.0,
+        "strike_rate": 100.0
+      },
+      "b_car": {
+        "avg": 15.95,
+        "sr": 135.27
+      },
+      "b_f": [
+        30
+      ],
+      "w_f": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "GF Linde",
+      "bat_t": "South Africa",
+      "bowl": "D Myers",
+      "bowl_t": "Zimbabwe",
+      "v": "neutral",
+      "vs_t": {
+        "runs": 3,
+        "balls": 3,
+        "dismissals": 0,
+        "average": 3.0,
+        "strike_rate": 100.0
+      },
+      "b_car": {
+        "avg": 15.95,
+        "sr": 135.27
+      },
+      "b_f": [
+        30
+      ],
+      "w_f": [
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "GF Linde",
+      "bat_t": "South Africa",
+      "bowl": "WP Masakadza",
+      "bowl_t": "Zimbabwe",
+      "v": "neutral",
+      "vs_t": {
+        "runs": 3,
+        "balls": 3,
+        "dismissals": 0,
+        "average": 3.0,
+        "strike_rate": 100.0
+      },
+      "b_car": {
+        "avg": 15.95,
+        "sr": 135.27
+      },
+      "b_f": [
+        30
+      ],
+      "w_f": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "GF Linde",
+      "bat_t": "South Africa",
+      "bowl": "B Muzarabani",
+      "bowl_t": "Zimbabwe",
+      "v": "neutral",
+      "vs_t": {
+        "runs": 3,
+        "balls": 3,
+        "dismissals": 0,
+        "average": 3.0,
+        "strike_rate": 100.0
+      },
+      "b_car": {
+        "avg": 15.95,
+        "sr": 135.27
+      },
+      "b_f": [
+        30
+      ],
+      "w_f": [
+        1,
+        2,
+        2
+      ]
+    },
+    {
+      "bat": "GF Linde",
+      "bat_t": "South Africa",
+      "bowl": "T Munyonga",
+      "bowl_t": "Zimbabwe",
+      "v": "neutral",
+      "vs_t": {
+        "runs": 3,
+        "balls": 3,
+        "dismissals": 0,
+        "average": 3.0,
+        "strike_rate": 100.0
+      },
+      "b_car": {
+        "avg": 15.95,
+        "sr": 135.27
+      },
+      "b_f": [
+        30
+      ]
+    },
+    {
+      "bat": "GF Linde",
+      "bat_t": "South Africa",
+      "bowl": "C Madande",
+      "bowl_t": "Zimbabwe",
+      "v": "neutral",
+      "vs_t": {
+        "runs": 3,
+        "balls": 3,
+        "dismissals": 0,
+        "average": 3.0,
+        "strike_rate": 100.0
+      },
+      "b_car": {
+        "avg": 15.95,
+        "sr": 135.27
+      },
+      "b_f": [
+        30
+      ]
+    },
+    {
+      "bat": "DA Miller",
+      "bat_t": "South Africa",
+      "bowl": "BJ Bennett",
+      "bowl_t": "Zimbabwe",
+      "v": "bowler",
+      "vs_t": {
+        "runs": 119,
+        "balls": 95,
+        "dismissals": 2,
+        "average": 59.5,
+        "strike_rate": 125.26
+      },
+      "b_car": {
+        "avg": 34.81,
+        "sr": 136.68
+      },
+      "b_f": [
+        63,
+        24,
+        39
+      ],
+      "w_f": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "DA Miller",
+      "bat_t": "South Africa",
+      "bowl": "RP Burl",
+      "bowl_t": "Zimbabwe",
+      "v": "bowler",
+      "vs_t": {
+        "runs": 119,
+        "balls": 95,
+        "dismissals": 2,
+        "average": 59.5,
+        "strike_rate": 125.26
+      },
+      "b_car": {
+        "avg": 34.81,
+        "sr": 136.68
+      },
+      "b_f": [
+        63,
+        24,
+        39
+      ],
+      "w_f": [
+        0,
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "DA Miller",
+      "bat_t": "South Africa",
+      "bowl": "T Marumani",
+      "bowl_t": "Zimbabwe",
+      "v": "bowler",
+      "vs_t": {
+        "runs": 119,
+        "balls": 95,
+        "dismissals": 2,
+        "average": 59.5,
+        "strike_rate": 125.26
+      },
+      "b_car": {
+        "avg": 34.81,
+        "sr": 136.68
+      },
+      "b_f": [
+        63,
+        24,
+        39
+      ]
+    },
+    {
+      "bat": "DA Miller",
+      "bat_t": "South Africa",
+      "bowl": "B Evans",
+      "bowl_t": "Zimbabwe",
+      "v": "bowler",
+      "vs_t": {
+        "runs": 119,
+        "balls": 95,
+        "dismissals": 2,
+        "average": 59.5,
+        "strike_rate": 125.26
+      },
+      "b_car": {
+        "avg": 34.81,
+        "sr": 136.68
+      },
+      "b_f": [
+        63,
+        24,
+        39
+      ],
+      "w_f": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "DA Miller",
+      "bat_t": "South Africa",
+      "bowl": "Sikandar Raza",
+      "bowl_t": "Zimbabwe",
+      "v": "bowler",
+      "vs_t": {
+        "runs": 119,
+        "balls": 95,
+        "dismissals": 2,
+        "average": 59.5,
+        "strike_rate": 125.26
+      },
+      "b_car": {
+        "avg": 34.81,
+        "sr": 136.68
+      },
+      "b_f": [
+        63,
+        24,
+        39
+      ],
+      "w_f": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "DA Miller",
+      "bat_t": "South Africa",
+      "bowl": "D Myers",
+      "bowl_t": "Zimbabwe",
+      "v": "bowler",
+      "vs_t": {
+        "runs": 119,
+        "balls": 95,
+        "dismissals": 2,
+        "average": 59.5,
+        "strike_rate": 125.26
+      },
+      "b_car": {
+        "avg": 34.81,
+        "sr": 136.68
+      },
+      "b_f": [
+        63,
+        24,
+        39
+      ],
+      "w_f": [
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "DA Miller",
+      "bat_t": "South Africa",
+      "bowl": "WP Masakadza",
+      "bowl_t": "Zimbabwe",
+      "v": "bowler",
+      "vs_t": {
+        "runs": 119,
+        "balls": 95,
+        "dismissals": 2,
+        "average": 59.5,
+        "strike_rate": 125.26
+      },
+      "b_car": {
+        "avg": 34.81,
+        "sr": 136.68
+      },
+      "b_f": [
+        63,
+        24,
+        39
+      ],
+      "w_f": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "DA Miller",
+      "bat_t": "South Africa",
+      "bowl": "B Muzarabani",
+      "bowl_t": "Zimbabwe",
+      "v": "bowler",
+      "vs_t": {
+        "runs": 119,
+        "balls": 95,
+        "dismissals": 2,
+        "average": 59.5,
+        "strike_rate": 125.26
+      },
+      "b_car": {
+        "avg": 34.81,
+        "sr": 136.68
+      },
+      "b_f": [
+        63,
+        24,
+        39
+      ],
+      "w_f": [
+        1,
+        2,
+        2
+      ]
+    },
+    {
+      "bat": "DA Miller",
+      "bat_t": "South Africa",
+      "bowl": "T Munyonga",
+      "bowl_t": "Zimbabwe",
+      "v": "bowler",
+      "vs_t": {
+        "runs": 119,
+        "balls": 95,
+        "dismissals": 2,
+        "average": 59.5,
+        "strike_rate": 125.26
+      },
+      "b_car": {
+        "avg": 34.81,
+        "sr": 136.68
+      },
+      "b_f": [
+        63,
+        24,
+        39
+      ]
+    },
+    {
+      "bat": "DA Miller",
+      "bat_t": "South Africa",
+      "bowl": "C Madande",
+      "bowl_t": "Zimbabwe",
+      "v": "bowler",
+      "vs_t": {
+        "runs": 119,
+        "balls": 95,
+        "dismissals": 2,
+        "average": 59.5,
+        "strike_rate": 125.26
+      },
+      "b_car": {
+        "avg": 34.81,
+        "sr": 136.68
+      },
+      "b_f": [
+        63,
+        24,
+        39
+      ]
+    },
+    {
+      "bat": "C Bosch",
+      "bat_t": "South Africa",
+      "bowl": "BJ Bennett",
+      "bowl_t": "Zimbabwe",
+      "v": "neutral",
+      "vs_t": {
+        "runs": 23,
+        "balls": 15,
+        "dismissals": 0,
+        "average": 23.0,
+        "strike_rate": 153.33
+      },
+      "b_car": {
+        "avg": 14.12,
+        "sr": 104.63
+      },
+      "b_f": [
+        5,
+        2
+      ],
+      "w_f": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "C Bosch",
+      "bat_t": "South Africa",
+      "bowl": "RP Burl",
+      "bowl_t": "Zimbabwe",
+      "v": "neutral",
+      "vs_t": {
+        "runs": 23,
+        "balls": 15,
+        "dismissals": 0,
+        "average": 23.0,
+        "strike_rate": 153.33
+      },
+      "b_car": {
+        "avg": 14.12,
+        "sr": 104.63
+      },
+      "b_f": [
+        5,
+        2
+      ],
+      "w_f": [
+        0,
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "C Bosch",
+      "bat_t": "South Africa",
+      "bowl": "T Marumani",
+      "bowl_t": "Zimbabwe",
+      "v": "neutral",
+      "vs_t": {
+        "runs": 23,
+        "balls": 15,
+        "dismissals": 0,
+        "average": 23.0,
+        "strike_rate": 153.33
+      },
+      "b_car": {
+        "avg": 14.12,
+        "sr": 104.63
+      },
+      "b_f": [
+        5,
+        2
+      ]
+    },
+    {
+      "bat": "C Bosch",
+      "bat_t": "South Africa",
+      "bowl": "AG Cremer",
+      "bowl_t": "Zimbabwe",
+      "v": "neutral",
+      "vs_t": {
+        "runs": 23,
+        "balls": 15,
+        "dismissals": 0,
+        "average": 23.0,
+        "strike_rate": 153.33
+      },
+      "b_car": {
+        "avg": 14.12,
+        "sr": 104.63
+      },
+      "b_f": [
+        5,
+        2
+      ],
+      "w_f": [
+        1,
+        2,
+        0
+      ]
+    }
+  ]
+}

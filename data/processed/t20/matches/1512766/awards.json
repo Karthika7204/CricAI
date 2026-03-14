@@ -1,0 +1,96 @@
+{
+    "match_id": "1512766",
+    "winner": "India",
+    "loser": "Zimbabwe",
+    "awards": {
+        "player_of_the_match": {
+            "name": "BJ Bennett",
+            "team": "Zimbabwe",
+            "impact_score": 185.9,
+            "breakdown": {
+                "batting": 169.0,
+                "bowling": 0.0,
+                "fielding": 0.0,
+                "pressure_multiplier": 1.1
+            },
+            "key_stats": {
+                "batting": "97(63) SR:153.97",
+                "bowling": "2.0ov-0wkt econ:8.0"
+            }
+        },
+        "best_batter": {
+            "name": "BJ Bennett",
+            "team": "Zimbabwe",
+            "batting_impact": 169.0,
+            "stats": {
+                "runs": 97,
+                "balls": 63,
+                "sr": 153.97,
+                "fours": 8,
+                "sixes": 6
+            }
+        },
+        "best_bowler": {
+            "name": "Arshdeep Singh",
+            "team": "India",
+            "bowling_impact": 100,
+            "stats": {
+                "overs": 4.0,
+                "wickets": 3,
+                "econ": 6.0
+            }
+        },
+        "game_changer": {
+            "name": "BJ Bennett",
+            "team": "Zimbabwe",
+            "reason": "SR 153.97 with 6 sixes",
+            "key_stats": {
+                "batting": "97(63) SR:153.97",
+                "bowling": "2.0ov-0wkt econ:8.0"
+            }
+        },
+        "pressure_performer": {
+            "name": "BJ Bennett",
+            "team": "Zimbabwe",
+            "pressure_multiplier": 1.1,
+            "reason": "Chasing team batter under pressure | Attacking SR 153.97 under pressure",
+            "key_stats": {
+                "batting": "97(63) SR:153.97",
+                "bowling": "2.0ov-0wkt econ:8.0"
+            }
+        },
+        "emerging_player": {
+            "name": "BJ Bennett",
+            "team": "Zimbabwe",
+            "reason": "Outperformed team average by 4.48x",
+            "key_stats": {
+                "batting": "97(63) SR:153.97",
+                "bowling": "2.0ov-0wkt econ:8.0"
+            }
+        },
+        "fielding_impact": {
+            "name": "Arshdeep Singh",
+            "team": "India",
+            "fielding_proxy_score": 16,
+            "methodology": "Proxy-based: catch attribution (65% T20 wickets are catches) + dot ball pressure bonus + economy-implied fielding support",
+            "reason": "Estimated 2 caught dismissals from 3 wickets",
+            "stats": {
+                "overs": 4.0,
+                "wickets": 3,
+                "econ": 6.0
+            }
+        },
+        "all_rounder_impact": {
+            "name": "Sikandar Raza",
+            "team": "Zimbabwe",
+            "all_rounder_score": 87.0,
+            "stats": {
+                "runs": 31,
+                "sr": 147.62,
+                "overs": 3.0,
+                "wickets": 1,
+                "econ": 9.67
+            }
+        }
+    }
+}

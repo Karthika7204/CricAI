@@ -1,0 +1,959 @@
+{
+    "match_id": "1512771",
+    "metadata": {
+        "tournament": "2025/26",
+        "venue": "Eden Gardens, Kolkata",
+        "date": "04-03-2026",
+        "stage": "ICC Men's T20 World Cup",
+        "winner": "New Zealand",
+        "loser": "South Africa",
+        "win_classification": "Moderate",
+        "margin_runs": null,
+        "margin_wickets": 9,
+        "competitiveness_index": 85.0,
+        "teams": {
+            "South Africa": {
+                "captain": "AK Markram",
+                "playing_xi_count": 11
+            },
+            "New Zealand": {
+                "captain": "FH Allen",
+                "playing_xi_count": 8
+            }
+        },
+        "team_summary": {
+            "South Africa": {
+                "run_rate": 8.45,
+                "fours": 9,
+                "sixes": 10,
+                "boundary_runs": 96,
+                "dot_balls": 45,
+                "total_runs": 169,
+                "total_wickets": 8
+            },
+            "New Zealand": {
+                "run_rate": 13.48,
+                "fours": 19,
+                "sixes": 10,
+                "boundary_runs": 136,
+                "dot_balls": 20,
+                "total_runs": 173,
+                "total_wickets": 1
+            }
+        },
+        "formulas": {
+            "competitiveness": "Base(Margin) + Pressure_Bonus(L5 Overs)",
+            "pressure": "((RR_Gap / Start_RR) * 40) + ((Wickets / 10) * 60)",
+            "batting_impact": "Runs + (SR/Match_SR * 25)",
+            "bowling_impact": "(Wickets * 30) + (Match_RR/Econ * 20)"
+        }
+    },
+    "scorecards": {
+        "batting": [
+            {
+                "player": "M Jansen",
+                "team": "South Africa",
+                "runs": 55,
+                "balls": 32,
+                "sr": 171.88,
+                "fours": 2,
+                "sixes": 5,
+                "win_contribution_percent": 32.5,
+                "score": 82.15
+            },
+            {
+                "player": "D Brevis",
+                "team": "South Africa",
+                "runs": 34,
+                "balls": 28,
+                "sr": 121.43,
+                "fours": 3,
+                "sixes": 2,
+                "win_contribution_percent": 20.1,
+                "score": 53.18
+            },
+            {
+                "player": "T Stubbs",
+                "team": "South Africa",
+                "runs": 29,
+                "balls": 25,
+                "sr": 116.0,
+                "fours": 2,
+                "sixes": 1,
+                "win_contribution_percent": 17.2,
+                "score": 47.33
+            },
+            {
+                "player": "AK Markram",
+                "team": "South Africa",
+                "runs": 18,
+                "balls": 23,
+                "sr": 78.26,
+                "fours": 1,
+                "sixes": 1,
+                "win_contribution_percent": 10.7,
+                "score": 30.36
+            },
+            {
+                "player": "Q de Kock",
+                "team": "South Africa",
+                "runs": 10,
+                "balls": 8,
+                "sr": 125.0,
+                "fours": 1,
+                "sixes": 1,
+                "win_contribution_percent": 5.9,
+                "score": 29.75
+            },
+            {
+                "player": "DA Miller",
+                "team": "South Africa",
+                "runs": 6,
+                "balls": 6,
+                "sr": 100.0,
+                "fours": 0,
+                "sixes": 0,
+                "win_contribution_percent": 3.6,
+                "score": 21.8
+            },
+            {
+                "player": "C Bosch",
+                "team": "South Africa",
+                "runs": 2,
+                "balls": 4,
+                "sr": 50.0,
+                "fours": 0,
+                "sixes": 0,
+                "win_contribution_percent": 1.2,
+                "score": 9.9
+            },
+            {
+                "player": "KA Maharaj",
+                "team": "South Africa",
+                "runs": 1,
+                "balls": 1,
+                "sr": 100.0,
+                "fours": 0,
+                "sixes": 0,
+                "win_contribution_percent": 0.6,
+                "score": 16.8
+            },
+            {
+                "player": "K Rabada",
+                "team": "South Africa",
+                "runs": 0,
+                "balls": 1,
+                "sr": 0.0,
+                "fours": 0,
+                "sixes": 0,
+                "win_contribution_percent": 0.0,
+                "score": 0.0
+            },
+            {
+                "player": "RD Rickelton",
+                "team": "South Africa",
+                "runs": 0,
+                "balls": 1,
+                "sr": 0.0,
+                "fours": 0,
+                "sixes": 0,
+                "win_contribution_percent": 0.0,
+                "score": 0.0
+            },
+            {
+                "player": "FH Allen",
+                "team": "New Zealand",
+                "runs": 100,
+                "balls": 33,
+                "sr": 303.03,
+                "fours": 10,
+                "sixes": 8,
+                "win_contribution_percent": 57.8,
+                "score": 147.87
+            },
+            {
+                "player": "TL Seifert",
+                "team": "New Zealand",
+                "runs": 58,
+                "balls": 33,
+                "sr": 175.76,
+                "fours": 7,
+                "sixes": 2,
+                "win_contribution_percent": 33.5,
+                "score": 85.77
+            },
+            {
+                "player": "R Ravindra",
+                "team": "New Zealand",
+                "runs": 13,
+                "balls": 11,
+                "sr": 118.18,
+                "fours": 2,
+                "sixes": 0,
+                "win_contribution_percent": 7.5,
+                "score": 31.67
+            }
+        ],
+        "bowling": [
+            {
+                "player": "R Ravindra",
+                "team": "New Zealand",
+                "overs": 4.0,
+                "runs": 29,
+                "wickets": 2,
+                "econ": 7.25,
+                "score": 87.48,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "MJ Henry",
+                "team": "New Zealand",
+                "overs": 4.0,
+                "runs": 34,
+                "wickets": 2,
+                "econ": 8.5,
+                "score": 83.44,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "CE McConchie",
+                "team": "New Zealand",
+                "overs": 1.0,
+                "runs": 9,
+                "wickets": 2,
+                "econ": 9.0,
+                "score": 82.14,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "LH Ferguson",
+                "team": "New Zealand",
+                "overs": 4.0,
+                "runs": 29,
+                "wickets": 1,
+                "econ": 7.25,
+                "score": 57.48,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "JDS Neesham",
+                "team": "New Zealand",
+                "overs": 3.0,
+                "runs": 42,
+                "wickets": 1,
+                "econ": 14.0,
+                "score": 44.23,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "MJ Santner",
+                "team": "New Zealand",
+                "overs": 4.0,
+                "runs": 26,
+                "wickets": 0,
+                "econ": 6.5,
+                "score": 30.65,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "K Rabada",
+                "team": "South Africa",
+                "overs": 3.0,
+                "runs": 29,
+                "wickets": 1,
+                "econ": 9.67,
+                "score": 50.6,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "KA Maharaj",
+                "team": "South Africa",
+                "overs": 3.0,
+                "runs": 33,
+                "wickets": 0,
+                "econ": 11.0,
+                "score": 18.11,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "L Ngidi",
+                "team": "South Africa",
+                "overs": 2.0,
+                "runs": 23,
+                "wickets": 0,
+                "econ": 11.5,
+                "score": 17.32,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "C Bosch",
+                "team": "South Africa",
+                "overs": 2.0,
+                "runs": 35,
+                "wickets": 0,
+                "econ": 17.5,
+                "score": 11.38,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "M Jansen",
+                "team": "South Africa",
+                "overs": 2.5,
+                "runs": 53,
+                "wickets": 0,
+                "econ": 18.71,
+                "score": 10.65,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            }
+        ]
+    },
+    "innings": [
+        {
+            "innings": 1,
+            "team": "South Africa",
+            "total_runs": 169,
+            "total_wickets": 8,
+            "balls_faced": 120,
+            "overs_faced": 20.0,
+            "phase_analysis": {
+                "Powerplay": {
+                    "runs": 48,
+                    "wkts": 2,
+                    "rr": 8.0
+                },
+                "Middle": {
+                    "runs": 60,
+                    "wkts": 3,
+                    "rr": 6.67
+                },
+                "Death": {
+                    "runs": 61,
+                    "wkts": 3,
+                    "rr": 12.2
+                }
+            }
+        },
+        {
+            "innings": 2,
+            "team": "New Zealand",
+            "total_runs": 173,
+            "total_wickets": 1,
+            "balls_faced": 77,
+            "overs_faced": 12.5,
+            "phase_analysis": {
+                "Powerplay": {
+                    "runs": 84,
+                    "wkts": 0,
+                    "rr": 14.0
+                },
+                "Middle": {
+                    "runs": 89,
+                    "wkts": 1,
+                    "rr": 13.02
+                },
+                "Death": {
+                    "runs": 0,
+                    "wkts": 0,
+                    "rr": 0.0
+                }
+            },
+            "pressure_index": 17.0,
+            "target": 170
+        }
+    ],
+    "players": [
+        {
+            "player": "FH Allen",
+            "team": "New Zealand",
+            "runs": 100,
+            "balls": 33,
+            "sr": 303.03,
+            "fours": 10,
+            "sixes": 8,
+            "win_contribution_percent": 57.8,
+            "score": 147.87,
+            "role": "batting",
+            "match_stats": "100(33)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "R Ravindra",
+            "team": "New Zealand",
+            "overs": 4.0,
+            "runs": 29,
+            "wickets": 2,
+            "econ": 7.25,
+            "score": 87.48,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-29r-2w"
+        },
+        {
+            "player": "TL Seifert",
+            "team": "New Zealand",
+            "runs": 58,
+            "balls": 33,
+            "sr": 175.76,
+            "fours": 7,
+            "sixes": 2,
+            "win_contribution_percent": 33.5,
+            "score": 85.77,
+            "role": "batting",
+            "match_stats": "58(33)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "MJ Henry",
+            "team": "New Zealand",
+            "overs": 4.0,
+            "runs": 34,
+            "wickets": 2,
+            "econ": 8.5,
+            "score": 83.44,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-34r-2w"
+        },
+        {
+            "player": "M Jansen",
+            "team": "South Africa",
+            "runs": 55,
+            "balls": 32,
+            "sr": 171.88,
+            "fours": 2,
+            "sixes": 5,
+            "win_contribution_percent": 32.5,
+            "score": 82.15,
+            "role": "batting",
+            "match_stats": "55(32)",
+            "baseline": {
+                "avg": 14.07,
+                "sr": 134.93,
+                "matches": 18,
+                "source": "t20_master",
+                "baseline_available": true
+            }
+        },
+        {
+            "player": "CE McConchie",
+            "team": "New Zealand",
+            "overs": 1.0,
+            "runs": 9,
+            "wickets": 2,
+            "econ": 9.0,
+            "score": 82.14,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "1.0o-9r-2w"
+        },
+        {
+            "player": "LH Ferguson",
+            "team": "New Zealand",
+            "overs": 4.0,
+            "runs": 29,
+            "wickets": 1,
+            "econ": 7.25,
+            "score": 57.48,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-29r-1w"
+        },
+        {
+            "player": "D Brevis",
+            "team": "South Africa",
+            "runs": 34,
+            "balls": 28,
+            "sr": 121.43,
+            "fours": 3,
+            "sixes": 2,
+            "win_contribution_percent": 20.1,
+            "score": 53.18,
+            "role": "batting",
+            "match_stats": "34(28)",
+            "baseline": {
+                "avg": 26.0,
+                "sr": 154.92,
+                "matches": 25,
+                "source": "t20_master",
+                "baseline_available": true
+            }
+        },
+        {
+            "player": "K Rabada",
+            "team": "South Africa",
+            "overs": 3.0,
+            "runs": 29,
+            "wickets": 1,
+            "econ": 9.67,
+            "score": 50.6,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "3.0o-29r-1w"
+        },
+        {
+            "player": "T Stubbs",
+            "team": "South Africa",
+            "runs": 29,
+            "balls": 25,
+            "sr": 116.0,
+            "fours": 2,
+            "sixes": 1,
+            "win_contribution_percent": 17.2,
+            "score": 47.33,
+            "role": "batting",
+            "match_stats": "29(25)",
+            "baseline": {
+                "avg": 30.53,
+                "sr": 131.99,
+                "matches": 40,
+                "source": "t20_master",
+                "baseline_available": true
+            }
+        },
+        {
+            "player": "JDS Neesham",
+            "team": "New Zealand",
+            "overs": 3.0,
+            "runs": 42,
+            "wickets": 1,
+            "econ": 14.0,
+            "score": 44.23,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "3.0o-42r-1w"
+        },
+        {
+            "player": "R Ravindra",
+            "team": "New Zealand",
+            "runs": 13,
+            "balls": 11,
+            "sr": 118.18,
+            "fours": 2,
+            "sixes": 0,
+            "win_contribution_percent": 7.5,
+            "score": 31.67,
+            "role": "batting",
+            "match_stats": "13(11)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "MJ Santner",
+            "team": "New Zealand",
+            "overs": 4.0,
+            "runs": 26,
+            "wickets": 0,
+            "econ": 6.5,
+            "score": 30.65,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-26r-0w"
+        },
+        {
+            "player": "AK Markram",
+            "team": "South Africa",
+            "runs": 18,
+            "balls": 23,
+            "sr": 78.26,
+            "fours": 1,
+            "sixes": 1,
+            "win_contribution_percent": 10.7,
+            "score": 30.36,
+            "role": "batting",
+            "match_stats": "18(23)",
+            "baseline": {
+                "avg": 31.08,
+                "sr": 143.73,
+                "matches": 68,
+                "source": "t20_master",
+                "baseline_available": true
+            }
+        },
+        {
+            "player": "Q de Kock",
+            "team": "South Africa",
+            "runs": 10,
+            "balls": 8,
+            "sr": 125.0,
+            "fours": 1,
+            "sixes": 1,
+            "win_contribution_percent": 5.9,
+            "score": 29.75,
+            "role": "batting",
+            "match_stats": "10(8)",
+            "baseline": {
+                "avg": 31.84,
+                "sr": 136.42,
+                "matches": 101,
+                "source": "t20_master",
+                "baseline_available": true
+            }
+        },
+        {
+            "player": "DA Miller",
+            "team": "South Africa",
+            "runs": 6,
+            "balls": 6,
+            "sr": 100.0,
+            "fours": 0,
+            "sixes": 0,
+            "win_contribution_percent": 3.6,
+            "score": 21.8,
+            "role": "batting",
+            "match_stats": "6(6)",
+            "baseline": {
+                "avg": 34.81,
+                "sr": 136.68,
+                "matches": 119,
+                "source": "t20_master",
+                "baseline_available": true
+            }
+        },
+        {
+            "player": "KA Maharaj",
+            "team": "South Africa",
+            "overs": 3.0,
+            "runs": 33,
+            "wickets": 0,
+            "econ": 11.0,
+            "score": 18.11,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "3.0o-33r-0w"
+        },
+        {
+            "player": "L Ngidi",
+            "team": "South Africa",
+            "overs": 2.0,
+            "runs": 23,
+            "wickets": 0,
+            "econ": 11.5,
+            "score": 17.32,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "2.0o-23r-0w"
+        },
+        {
+            "player": "KA Maharaj",
+            "team": "South Africa",
+            "runs": 1,
+            "balls": 1,
+            "sr": 100.0,
+            "fours": 0,
+            "sixes": 0,
+            "win_contribution_percent": 0.6,
+            "score": 16.8,
+            "role": "batting",
+            "match_stats": "1(1)",
+            "baseline": {
+                "avg": 10.3,
+                "sr": 86.55,
+                "matches": 16,
+                "source": "t20_master",
+                "baseline_available": true
+            }
+        },
+        {
+            "player": "C Bosch",
+            "team": "South Africa",
+            "overs": 2.0,
+            "runs": 35,
+            "wickets": 0,
+            "econ": 17.5,
+            "score": 11.38,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "2.0o-35r-0w"
+        },
+        {
+            "player": "M Jansen",
+            "team": "South Africa",
+            "overs": 2.5,
+            "runs": 53,
+            "wickets": 0,
+            "econ": 18.71,
+            "score": 10.65,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "2.5o-53r-0w"
+        },
+        {
+            "player": "C Bosch",
+            "team": "South Africa",
+            "runs": 2,
+            "balls": 4,
+            "sr": 50.0,
+            "fours": 0,
+            "sixes": 0,
+            "win_contribution_percent": 1.2,
+            "score": 9.9,
+            "role": "batting",
+            "match_stats": "2(4)",
+            "baseline": {
+                "avg": 14.12,
+                "sr": 104.63,
+                "matches": 13,
+                "source": "t20_master",
+                "baseline_available": true
+            }
+        },
+        {
+            "player": "K Rabada",
+            "team": "South Africa",
+            "runs": 0,
+            "balls": 1,
+            "sr": 0.0,
+            "fours": 0,
+            "sixes": 0,
+            "win_contribution_percent": 0.0,
+            "score": 0.0,
+            "role": "batting",
+            "match_stats": "0(1)",
+            "baseline": {
+                "avg": 16.73,
+                "sr": 110.84,
+                "matches": 26,
+                "source": "t20_master",
+                "baseline_available": true
+            }
+        },
+        {
+            "player": "RD Rickelton",
+            "team": "South Africa",
+            "runs": 0,
+            "balls": 1,
+            "sr": 0.0,
+            "fours": 0,
+            "sixes": 0,
+            "win_contribution_percent": 0.0,
+            "score": 0.0,
+            "role": "batting",
+            "match_stats": "0(1)",
+            "baseline": {
+                "avg": 26.26,
+                "sr": 141.78,
+                "matches": 25,
+                "source": "t20_master",
+                "baseline_available": true
+            }
+        }
+    ],
+    "validation": {
+        "logical_stability": true
+    }
+}

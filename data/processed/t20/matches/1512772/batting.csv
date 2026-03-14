@@ -1,0 +1,19 @@
+match_id,date,innings,team,player,runs,balls_faced,strike_rate,fours,sixes,dismissed,dismissal_kind
+1512772,05-03-2026,1,India,SV Samson,89,44,202.27,8,7,True,caught
+1512772,05-03-2026,1,India,S Dube,43,28,153.57,1,4,False,
+1512772,05-03-2026,1,India,Ishan Kishan,39,20,195.0,4,2,True,caught
+1512772,05-03-2026,1,India,HH Pandya,27,12,225.0,3,2,True,run out
+1512772,05-03-2026,1,India,Tilak Varma,21,9,233.33,0,3,True,bowled
+1512772,05-03-2026,1,India,SA Yadav,11,6,183.33,0,1,True,stumped
+1512772,05-03-2026,1,India,Abhishek Sharma,9,7,128.57,2,0,True,caught
+1512772,05-03-2026,1,India,AR Patel,2,2,100.0,0,0,False,
+1512772,05-03-2026,1,India,CV Varun,0,1,0.0,0,0,False,
+1512772,05-03-2026,2,England,JG Bethell,105,53,198.11,8,7,True,run out
+1512772,05-03-2026,2,England,WG Jacks,35,24,145.83,4,2,True,caught
+1512772,05-03-2026,2,England,JC Buttler,25,17,147.06,4,1,True,bowled
+1512772,05-03-2026,2,England,JC Archer,19,5,380.0,0,3,False,
+1512772,05-03-2026,2,England,SM Curran,18,14,128.57,2,0,True,caught
+1512772,05-03-2026,2,England,T Banton,17,5,340.0,1,2,True,bowled
+1512772,05-03-2026,2,England,HC Brook,7,6,116.67,1,0,True,caught
+1512772,05-03-2026,2,England,PD Salt,5,3,166.67,1,0,True,caught
+1512772,05-03-2026,2,England,J Overton,2,3,66.67,0,0,False,

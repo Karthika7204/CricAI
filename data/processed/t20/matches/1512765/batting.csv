@@ -1,0 +1,13 @@
+match_id,date,innings,team,player,runs,balls_faced,strike_rate,fours,sixes,dismissed,dismissal_kind
+1512765,26-02-2026,1,West Indies,R Shepherd,52,38,136.84,3,4,False,
+1512765,26-02-2026,1,West Indies,JO Holder,49,32,153.12,4,3,False,
+1512765,26-02-2026,1,West Indies,BA King,21,11,190.91,5,0,True,caught
+1512765,26-02-2026,1,West Indies,SD Hope,16,6,266.67,1,2,True,caught
+1512765,26-02-2026,1,West Indies,SE Rutherford,12,10,120.0,0,1,True,caught
+1512765,26-02-2026,1,West Indies,MW Forde,11,9,122.22,1,1,True,caught
+1512765,26-02-2026,1,West Indies,R Powell,9,11,81.82,1,0,True,caught
+1512765,26-02-2026,1,West Indies,RL Chase,2,2,100.0,0,0,True,bowled
+1512765,26-02-2026,1,West Indies,SO Hetmyer,2,3,66.67,0,0,True,caught
+1512765,26-02-2026,2,South Africa,AK Markram,82,48,170.83,7,4,False,
+1512765,26-02-2026,2,South Africa,Q de Kock,47,24,195.83,4,4,True,caught
+1512765,26-02-2026,2,South Africa,RD Rickelton,45,28,160.71,4,2,False,

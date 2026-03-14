@@ -1,0 +1,1694 @@
+{
+  "match_id": "1512773",
+  "team_a": "India",
+  "team_b": "New Zealand",
+  "matchups": [
+    {
+      "bat": "SA Yadav",
+      "bat_t": "India",
+      "bowl": "MJ Santner",
+      "bowl_t": "New Zealand",
+      "v": "bowler",
+      "h2h": {
+        "balls": 75,
+        "runs": 89,
+        "dismissals": 3,
+        "strike_rate": 118.67
+      },
+      "vs_t": {
+        "runs": 526,
+        "balls": 322,
+        "dismissals": 9,
+        "average": 58.44,
+        "strike_rate": 163.35
+      },
+      "b_car": {
+        "avg": 38.51,
+        "sr": 156.8
+      },
+      "b_f": [
+        33,
+        18,
+        34
+      ],
+      "w_f": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "TL Seifert",
+      "bat_t": "New Zealand",
+      "bowl": "JJ Bumrah",
+      "bowl_t": "India",
+      "v": "bowler",
+      "h2h": {
+        "balls": 35,
+        "runs": 45,
+        "dismissals": 3,
+        "strike_rate": 128.57
+      },
+      "vs_t": {
+        "runs": 433,
+        "balls": 295,
+        "dismissals": 12,
+        "average": 36.08,
+        "strike_rate": 146.78
+      },
+      "w_car": {
+        "avg": 19.51,
+        "eco": 6.85
+      },
+      "b_f": [
+        35,
+        8,
+        6
+      ],
+      "w_f": [
+        0,
+        3,
+        1
+      ]
+    },
+    {
+      "bat": "GD Phillips",
+      "bat_t": "New Zealand",
+      "bowl": "AR Patel",
+      "bowl_t": "India",
+      "v": "bowler",
+      "h2h": {
+        "balls": 21,
+        "runs": 31,
+        "dismissals": 3,
+        "strike_rate": 147.62
+      },
+      "vs_t": {
+        "runs": 311,
+        "balls": 233,
+        "dismissals": 14,
+        "average": 22.21,
+        "strike_rate": 133.48
+      },
+      "w_car": {
+        "avg": 22.41,
+        "eco": 7.59
+      },
+      "b_f": [
+        39,
+        18,
+        76
+      ],
+      "w_f": [
+        1,
+        2,
+        2
+      ]
+    },
+    {
+      "bat": "HH Pandya",
+      "bat_t": "India",
+      "bowl": "MJ Santner",
+      "bowl_t": "New Zealand",
+      "v": "bowler",
+      "h2h": {
+        "balls": 41,
+        "runs": 57,
+        "dismissals": 2,
+        "strike_rate": 139.02
+      },
+      "vs_t": {
+        "runs": 242,
+        "balls": 195,
+        "dismissals": 12,
+        "average": 20.17,
+        "strike_rate": 124.1
+      },
+      "b_car": {
+        "avg": 28.12,
+        "sr": 138.02
+      },
+      "b_f": [
+        50,
+        18,
+        30
+      ],
+      "w_f": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "DJ Mitchell",
+      "bat_t": "New Zealand",
+      "bowl": "Arshdeep Singh",
+      "bowl_t": "India",
+      "v": "bowler",
+      "h2h": {
+        "balls": 27,
+        "runs": 55,
+        "dismissals": 2,
+        "strike_rate": 203.7
+      },
+      "vs_t": {
+        "runs": 366,
+        "balls": 254,
+        "dismissals": 16,
+        "average": 22.88,
+        "strike_rate": 144.09
+      },
+      "w_car": {
+        "avg": 19.63,
+        "eco": 8.75
+      },
+      "b_f": [
+        3,
+        3,
+        32
+      ],
+      "w_f": [
+        3,
+        2,
+        0
+      ]
+    },
+    {
+      "bat": "MS Chapman",
+      "bat_t": "New Zealand",
+      "bowl": "AR Patel",
+      "bowl_t": "India",
+      "v": "bowler",
+      "h2h": {
+        "balls": 26,
+        "runs": 33,
+        "dismissals": 2,
+        "strike_rate": 126.92
+      },
+      "vs_t": {
+        "runs": 200,
+        "balls": 182,
+        "dismissals": 10,
+        "average": 20.0,
+        "strike_rate": 109.89
+      },
+      "w_car": {
+        "avg": 22.41,
+        "eco": 7.59
+      },
+      "b_f": [
+        15,
+        0,
+        48
+      ],
+      "w_f": [
+        1,
+        2,
+        2
+      ]
+    },
+    {
+      "bat": "DJ Mitchell",
+      "bat_t": "New Zealand",
+      "bowl": "JJ Bumrah",
+      "bowl_t": "India",
+      "v": "bowler",
+      "h2h": {
+        "balls": 25,
+        "runs": 46,
+        "dismissals": 2,
+        "strike_rate": 184.0
+      },
+      "vs_t": {
+        "runs": 366,
+        "balls": 254,
+        "dismissals": 16,
+        "average": 22.88,
+        "strike_rate": 144.09
+      },
+      "w_car": {
+        "avg": 19.51,
+        "eco": 6.85
+      },
+      "b_f": [
+        3,
+        3,
+        32
+      ],
+      "w_f": [
+        0,
+        3,
+        1
+      ]
+    },
+    {
+      "bat": "Ishan Kishan",
+      "bat_t": "India",
+      "bowl": "JA Duffy",
+      "bowl_t": "New Zealand",
+      "v": "bowler",
+      "h2h": {
+        "balls": 24,
+        "runs": 25,
+        "dismissals": 2,
+        "strike_rate": 104.17
+      },
+      "vs_t": {
+        "runs": 318,
+        "balls": 215,
+        "dismissals": 10,
+        "average": 31.8,
+        "strike_rate": 147.91
+      },
+      "b_car": {
+        "avg": 29.68,
+        "sr": 138.02
+      },
+      "b_f": [
+        38,
+        0,
+        18
+      ],
+      "w_f": [
+        1,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "DJ Mitchell",
+      "bat_t": "New Zealand",
+      "bowl": "HH Pandya",
+      "bowl_t": "India",
+      "v": "bowler",
+      "h2h": {
+        "balls": 20,
+        "runs": 33,
+        "dismissals": 2,
+        "strike_rate": 165.0
+      },
+      "vs_t": {
+        "runs": 366,
+        "balls": 254,
+        "dismissals": 16,
+        "average": 22.88,
+        "strike_rate": 144.09
+      },
+      "w_car": {
+        "avg": 27.46,
+        "eco": 8.49
+      },
+      "b_f": [
+        3,
+        3,
+        32
+      ],
+      "w_f": [
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "TL Seifert",
+      "bat_t": "New Zealand",
+      "bowl": "Arshdeep Singh",
+      "bowl_t": "India",
+      "v": "bowler",
+      "h2h": {
+        "balls": 18,
+        "runs": 37,
+        "dismissals": 2,
+        "strike_rate": 205.56
+      },
+      "vs_t": {
+        "runs": 433,
+        "balls": 295,
+        "dismissals": 12,
+        "average": 36.08,
+        "strike_rate": 146.78
+      },
+      "w_car": {
+        "avg": 19.63,
+        "eco": 8.75
+      },
+      "b_f": [
+        35,
+        8,
+        6
+      ],
+      "w_f": [
+        3,
+        2,
+        0
+      ]
+    },
+    {
+      "bat": "SV Samson",
+      "bat_t": "India",
+      "bowl": "MJ Henry",
+      "bowl_t": "New Zealand",
+      "v": "bowler",
+      "h2h": {
+        "balls": 10,
+        "runs": 15,
+        "dismissals": 2,
+        "strike_rate": 150.0
+      },
+      "vs_t": {
+        "runs": 56,
+        "balls": 45,
+        "dismissals": 7,
+        "average": 8.0,
+        "strike_rate": 124.44
+      },
+      "b_car": {
+        "avg": 25.0,
+        "sr": 143.98
+      },
+      "b_f": [
+        24,
+        22,
+        89
+      ],
+      "w_f": [
+        1,
+        2,
+        1
+      ]
+    },
+    {
+      "bat": "R Ravindra",
+      "bat_t": "New Zealand",
+      "bowl": "HH Pandya",
+      "bowl_t": "India",
+      "v": "bowler",
+      "h2h": {
+        "balls": 10,
+        "runs": 8,
+        "dismissals": 2,
+        "strike_rate": 80.0
+      },
+      "vs_t": {
+        "runs": 88,
+        "balls": 68,
+        "dismissals": 6,
+        "average": 14.67,
+        "strike_rate": 129.41
+      },
+      "w_car": {
+        "avg": 27.46,
+        "eco": 8.49
+      },
+      "b_f": [
+        11,
+        32,
+        59
+      ],
+      "w_f": [
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "Ishan Kishan",
+      "bat_t": "India",
+      "bowl": "MJ Santner",
+      "bowl_t": "New Zealand",
+      "v": "batsman",
+      "h2h": {
+        "balls": 36,
+        "runs": 55,
+        "dismissals": 1,
+        "strike_rate": 152.78
+      },
+      "vs_t": {
+        "runs": 318,
+        "balls": 215,
+        "dismissals": 10,
+        "average": 31.8,
+        "strike_rate": 147.91
+      },
+      "b_car": {
+        "avg": 29.68,
+        "sr": 138.02
+      },
+      "b_f": [
+        38,
+        0,
+        18
+      ],
+      "w_f": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "DJ Mitchell",
+      "bat_t": "New Zealand",
+      "bowl": "S Dube",
+      "bowl_t": "India",
+      "v": "bowler",
+      "h2h": {
+        "balls": 4,
+        "runs": 5,
+        "dismissals": 2,
+        "strike_rate": 125.0
+      },
+      "vs_t": {
+        "runs": 366,
+        "balls": 254,
+        "dismissals": 16,
+        "average": 22.88,
+        "strike_rate": 144.09
+      },
+      "w_car": {
+        "avg": 27.25,
+        "eco": 9.74
+      },
+      "b_f": [
+        3,
+        3,
+        32
+      ],
+      "w_f": [
+        1,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "SA Yadav",
+      "bat_t": "India",
+      "bowl": "JA Duffy",
+      "bowl_t": "New Zealand",
+      "v": "batsman",
+      "h2h": {
+        "balls": 26,
+        "runs": 57,
+        "dismissals": 1,
+        "strike_rate": 219.23
+      },
+      "vs_t": {
+        "runs": 526,
+        "balls": 322,
+        "dismissals": 9,
+        "average": 58.44,
+        "strike_rate": 163.35
+      },
+      "b_car": {
+        "avg": 38.51,
+        "sr": 156.8
+      },
+      "b_f": [
+        33,
+        18,
+        34
+      ],
+      "w_f": [
+        1,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "FH Allen",
+      "bat_t": "New Zealand",
+      "bowl": "HH Pandya",
+      "bowl_t": "India",
+      "v": "bowler",
+      "h2h": {
+        "balls": 25,
+        "runs": 32,
+        "dismissals": 1,
+        "strike_rate": 128.0
+      },
+      "vs_t": {
+        "runs": 132,
+        "balls": 86,
+        "dismissals": 6,
+        "average": 22.0,
+        "strike_rate": 153.49
+      },
+      "w_car": {
+        "avg": 27.46,
+        "eco": 8.49
+      },
+      "b_f": [
+        29,
+        23,
+        21
+      ],
+      "w_f": [
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "FH Allen",
+      "bat_t": "New Zealand",
+      "bowl": "Arshdeep Singh",
+      "bowl_t": "India",
+      "v": "batsman",
+      "h2h": {
+        "balls": 24,
+        "runs": 47,
+        "dismissals": 1,
+        "strike_rate": 195.83
+      },
+      "vs_t": {
+        "runs": 132,
+        "balls": 86,
+        "dismissals": 6,
+        "average": 22.0,
+        "strike_rate": 153.49
+      },
+      "w_car": {
+        "avg": 19.63,
+        "eco": 8.75
+      },
+      "b_f": [
+        29,
+        23,
+        21
+      ],
+      "w_f": [
+        3,
+        2,
+        0
+      ]
+    },
+    {
+      "bat": "Abhishek Sharma",
+      "bat_t": "India",
+      "bowl": "JA Duffy",
+      "bowl_t": "New Zealand",
+      "v": "batsman",
+      "h2h": {
+        "balls": 23,
+        "runs": 52,
+        "dismissals": 1,
+        "strike_rate": 226.09
+      },
+      "vs_t": {
+        "runs": 182,
+        "balls": 80,
+        "dismissals": 4,
+        "average": 45.5,
+        "strike_rate": 227.5
+      },
+      "b_car": {
+        "avg": 35.46,
+        "sr": 184.27
+      },
+      "b_f": [
+        55,
+        15,
+        0
+      ],
+      "w_f": [
+        1,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "MJ Santner",
+      "bat_t": "New Zealand",
+      "bowl": "Arshdeep Singh",
+      "bowl_t": "India",
+      "v": "bowler",
+      "h2h": {
+        "balls": 23,
+        "runs": 19,
+        "dismissals": 1,
+        "strike_rate": 82.61
+      },
+      "vs_t": {
+        "runs": 242,
+        "balls": 209,
+        "dismissals": 10,
+        "average": 24.2,
+        "strike_rate": 115.79
+      },
+      "w_car": {
+        "avg": 19.63,
+        "eco": 8.75
+      },
+      "b_f": [
+        9,
+        47,
+        4
+      ],
+      "w_f": [
+        3,
+        2,
+        0
+      ]
+    },
+    {
+      "bat": "MJ Santner",
+      "bat_t": "New Zealand",
+      "bowl": "JJ Bumrah",
+      "bowl_t": "India",
+      "v": "batsman",
+      "h2h": {
+        "balls": 20,
+        "runs": 29,
+        "dismissals": 1,
+        "strike_rate": 145.0
+      },
+      "vs_t": {
+        "runs": 242,
+        "balls": 209,
+        "dismissals": 10,
+        "average": 24.2,
+        "strike_rate": 115.79
+      },
+      "w_car": {
+        "avg": 19.51,
+        "eco": 6.85
+      },
+      "b_f": [
+        9,
+        47,
+        4
+      ],
+      "w_f": [
+        0,
+        3,
+        1
+      ]
+    },
+    {
+      "bat": "GD Phillips",
+      "bat_t": "New Zealand",
+      "bowl": "HH Pandya",
+      "bowl_t": "India",
+      "v": "bowler",
+      "h2h": {
+        "balls": 16,
+        "runs": 16,
+        "dismissals": 1,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 311,
+        "balls": 233,
+        "dismissals": 14,
+        "average": 22.21,
+        "strike_rate": 133.48
+      },
+      "w_car": {
+        "avg": 27.46,
+        "eco": 8.49
+      },
+      "b_f": [
+        39,
+        18,
+        76
+      ],
+      "w_f": [
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "DJ Mitchell",
+      "bat_t": "New Zealand",
+      "bowl": "AR Patel",
+      "bowl_t": "India",
+      "v": "bowler",
+      "h2h": {
+        "balls": 14,
+        "runs": 17,
+        "dismissals": 1,
+        "strike_rate": 121.43
+      },
+      "vs_t": {
+        "runs": 366,
+        "balls": 254,
+        "dismissals": 16,
+        "average": 22.88,
+        "strike_rate": 144.09
+      },
+      "w_car": {
+        "avg": 22.41,
+        "eco": 7.59
+      },
+      "b_f": [
+        3,
+        3,
+        32
+      ],
+      "w_f": [
+        1,
+        2,
+        2
+      ]
+    },
+    {
+      "bat": "MS Chapman",
+      "bat_t": "New Zealand",
+      "bowl": "Arshdeep Singh",
+      "bowl_t": "India",
+      "v": "bowler",
+      "h2h": {
+        "balls": 13,
+        "runs": 8,
+        "dismissals": 1,
+        "strike_rate": 61.54
+      },
+      "vs_t": {
+        "runs": 200,
+        "balls": 182,
+        "dismissals": 10,
+        "average": 20.0,
+        "strike_rate": 109.89
+      },
+      "w_car": {
+        "avg": 19.63,
+        "eco": 8.75
+      },
+      "b_f": [
+        15,
+        0,
+        48
+      ],
+      "w_f": [
+        3,
+        2,
+        0
+      ]
+    },
+    {
+      "bat": "MS Chapman",
+      "bat_t": "New Zealand",
+      "bowl": "CV Varun",
+      "bowl_t": "India",
+      "v": "batsman",
+      "h2h": {
+        "balls": 11,
+        "runs": 16,
+        "dismissals": 1,
+        "strike_rate": 145.45
+      },
+      "vs_t": {
+        "runs": 200,
+        "balls": 182,
+        "dismissals": 10,
+        "average": 20.0,
+        "strike_rate": 109.89
+      },
+      "w_car": {
+        "avg": 15.9,
+        "eco": 7.36
+      },
+      "b_f": [
+        15,
+        0,
+        48
+      ],
+      "w_f": [
+        1,
+        1,
+        3
+      ]
+    },
+    {
+      "bat": "FH Allen",
+      "bat_t": "New Zealand",
+      "bowl": "AR Patel",
+      "bowl_t": "India",
+      "v": "batsman",
+      "h2h": {
+        "balls": 10,
+        "runs": 15,
+        "dismissals": 1,
+        "strike_rate": 150.0
+      },
+      "vs_t": {
+        "runs": 132,
+        "balls": 86,
+        "dismissals": 6,
+        "average": 22.0,
+        "strike_rate": 153.49
+      },
+      "w_car": {
+        "avg": 22.41,
+        "eco": 7.59
+      },
+      "b_f": [
+        29,
+        23,
+        21
+      ],
+      "w_f": [
+        1,
+        2,
+        2
+      ]
+    },
+    {
+      "bat": "HH Pandya",
+      "bat_t": "India",
+      "bowl": "JA Duffy",
+      "bowl_t": "New Zealand",
+      "v": "batsman",
+      "h2h": {
+        "balls": 7,
+        "runs": 10,
+        "dismissals": 1,
+        "strike_rate": 142.86
+      },
+      "vs_t": {
+        "runs": 242,
+        "balls": 195,
+        "dismissals": 12,
+        "average": 20.17,
+        "strike_rate": 124.1
+      },
+      "b_car": {
+        "avg": 28.12,
+        "sr": 138.02
+      },
+      "b_f": [
+        50,
+        18,
+        30
+      ],
+      "w_f": [
+        1,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "SA Yadav",
+      "bat_t": "India",
+      "bowl": "LH Ferguson",
+      "bowl_t": "New Zealand",
+      "v": "batsman",
+      "h2h": {
+        "balls": 37,
+        "runs": 72,
+        "dismissals": 0,
+        "strike_rate": 194.59
+      },
+      "vs_t": {
+        "runs": 526,
+        "balls": 322,
+        "dismissals": 9,
+        "average": 58.44,
+        "strike_rate": 163.35
+      },
+      "b_car": {
+        "avg": 38.51,
+        "sr": 156.8
+      },
+      "b_f": [
+        33,
+        18,
+        34
+      ],
+      "w_f": [
+        1,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "HH Pandya",
+      "bat_t": "India",
+      "bowl": "DJ Mitchell",
+      "bowl_t": "New Zealand",
+      "v": "bowler",
+      "h2h": {
+        "balls": 5,
+        "runs": 12,
+        "dismissals": 1,
+        "strike_rate": 240.0
+      },
+      "vs_t": {
+        "runs": 242,
+        "balls": 195,
+        "dismissals": 12,
+        "average": 20.17,
+        "strike_rate": 124.1
+      },
+      "b_car": {
+        "avg": 28.12,
+        "sr": 138.02
+      },
+      "b_f": [
+        50,
+        18,
+        30
+      ]
+    },
+    {
+      "bat": "Abhishek Sharma",
+      "bat_t": "India",
+      "bowl": "MJ Henry",
+      "bowl_t": "New Zealand",
+      "v": "batsman",
+      "h2h": {
+        "balls": 4,
+        "runs": 9,
+        "dismissals": 1,
+        "strike_rate": 225.0
+      },
+      "vs_t": {
+        "runs": 182,
+        "balls": 80,
+        "dismissals": 4,
+        "average": 45.5,
+        "strike_rate": 227.5
+      },
+      "b_car": {
+        "avg": 35.46,
+        "sr": 184.27
+      },
+      "b_f": [
+        55,
+        15,
+        0
+      ],
+      "w_f": [
+        1,
+        2,
+        1
+      ]
+    },
+    {
+      "bat": "Abhishek Sharma",
+      "bat_t": "India",
+      "bowl": "LH Ferguson",
+      "bowl_t": "New Zealand",
+      "v": "batsman",
+      "h2h": {
+        "balls": 4,
+        "runs": 1,
+        "dismissals": 1,
+        "strike_rate": 25.0
+      },
+      "vs_t": {
+        "runs": 182,
+        "balls": 80,
+        "dismissals": 4,
+        "average": 45.5,
+        "strike_rate": 227.5
+      },
+      "b_car": {
+        "avg": 35.46,
+        "sr": 184.27
+      },
+      "b_f": [
+        55,
+        15,
+        0
+      ],
+      "w_f": [
+        1,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "R Ravindra",
+      "bat_t": "New Zealand",
+      "bowl": "Arshdeep Singh",
+      "bowl_t": "India",
+      "v": "bowler",
+      "h2h": {
+        "balls": 4,
+        "runs": 2,
+        "dismissals": 1,
+        "strike_rate": 50.0
+      },
+      "vs_t": {
+        "runs": 88,
+        "balls": 68,
+        "dismissals": 6,
+        "average": 14.67,
+        "strike_rate": 129.41
+      },
+      "w_car": {
+        "avg": 19.63,
+        "eco": 8.75
+      },
+      "b_f": [
+        11,
+        32,
+        59
+      ],
+      "w_f": [
+        3,
+        2,
+        0
+      ]
+    },
+    {
+      "bat": "R Ravindra",
+      "bat_t": "New Zealand",
+      "bowl": "JJ Bumrah",
+      "bowl_t": "India",
+      "v": "bowler",
+      "h2h": {
+        "balls": 4,
+        "runs": 7,
+        "dismissals": 1,
+        "strike_rate": 175.0
+      },
+      "vs_t": {
+        "runs": 88,
+        "balls": 68,
+        "dismissals": 6,
+        "average": 14.67,
+        "strike_rate": 129.41
+      },
+      "w_car": {
+        "avg": 19.51,
+        "eco": 6.85
+      },
+      "b_f": [
+        11,
+        32,
+        59
+      ],
+      "w_f": [
+        0,
+        3,
+        1
+      ]
+    },
+    {
+      "bat": "MS Chapman",
+      "bat_t": "New Zealand",
+      "bowl": "HH Pandya",
+      "bowl_t": "India",
+      "v": "bowler",
+      "h2h": {
+        "balls": 4,
+        "runs": 1,
+        "dismissals": 1,
+        "strike_rate": 25.0
+      },
+      "vs_t": {
+        "runs": 200,
+        "balls": 182,
+        "dismissals": 10,
+        "average": 20.0,
+        "strike_rate": 109.89
+      },
+      "w_car": {
+        "avg": 27.46,
+        "eco": 8.49
+      },
+      "b_f": [
+        15,
+        0,
+        48
+      ],
+      "w_f": [
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "JJ Bumrah",
+      "bat_t": "India",
+      "bowl": "MJ Santner",
+      "bowl_t": "New Zealand",
+      "v": "neutral",
+      "h2h": {
+        "balls": 3,
+        "runs": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 5,
+        "balls": 6,
+        "dismissals": 1,
+        "average": 5.0,
+        "strike_rate": 83.33
+      },
+      "b_car": {
+        "avg": 3.0,
+        "sr": 63.16
+      },
+      "b_f": [
+        0
+      ],
+      "w_f": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "SV Samson",
+      "bat_t": "India",
+      "bowl": "MJ Santner",
+      "bowl_t": "New Zealand",
+      "v": "bowler",
+      "h2h": {
+        "balls": 3,
+        "runs": 1,
+        "dismissals": 1,
+        "strike_rate": 33.33
+      },
+      "vs_t": {
+        "runs": 56,
+        "balls": 45,
+        "dismissals": 7,
+        "average": 8.0,
+        "strike_rate": 124.44
+      },
+      "b_car": {
+        "avg": 25.0,
+        "sr": 143.98
+      },
+      "b_f": [
+        24,
+        22,
+        89
+      ],
+      "w_f": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "SV Samson",
+      "bat_t": "India",
+      "bowl": "LH Ferguson",
+      "bowl_t": "New Zealand",
+      "v": "bowler",
+      "h2h": {
+        "balls": 3,
+        "runs": 1,
+        "dismissals": 1,
+        "strike_rate": 33.33
+      },
+      "vs_t": {
+        "runs": 56,
+        "balls": 45,
+        "dismissals": 7,
+        "average": 8.0,
+        "strike_rate": 124.44
+      },
+      "b_car": {
+        "avg": 25.0,
+        "sr": 143.98
+      },
+      "b_f": [
+        24,
+        22,
+        89
+      ],
+      "w_f": [
+        1,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "LH Ferguson",
+      "bat_t": "New Zealand",
+      "bowl": "HH Pandya",
+      "bowl_t": "India",
+      "v": "bowler",
+      "h2h": {
+        "balls": 3,
+        "runs": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 23,
+        "balls": 23,
+        "dismissals": 4,
+        "average": 5.75,
+        "strike_rate": 100.0
+      },
+      "w_car": {
+        "avg": 27.46,
+        "eco": 8.49
+      },
+      "b_f": [
+        6
+      ],
+      "w_f": [
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "LH Ferguson",
+      "bat_t": "New Zealand",
+      "bowl": "AR Patel",
+      "bowl_t": "India",
+      "v": "bowler",
+      "h2h": {
+        "balls": 3,
+        "runs": 2,
+        "dismissals": 1,
+        "strike_rate": 66.67
+      },
+      "vs_t": {
+        "runs": 23,
+        "balls": 23,
+        "dismissals": 4,
+        "average": 5.75,
+        "strike_rate": 100.0
+      },
+      "w_car": {
+        "avg": 22.41,
+        "eco": 7.59
+      },
+      "b_f": [
+        6
+      ],
+      "w_f": [
+        1,
+        2,
+        2
+      ]
+    },
+    {
+      "bat": "LH Ferguson",
+      "bat_t": "New Zealand",
+      "bowl": "Arshdeep Singh",
+      "bowl_t": "India",
+      "v": "bowler",
+      "h2h": {
+        "balls": 3,
+        "runs": 1,
+        "dismissals": 1,
+        "strike_rate": 33.33
+      },
+      "vs_t": {
+        "runs": 23,
+        "balls": 23,
+        "dismissals": 4,
+        "average": 5.75,
+        "strike_rate": 100.0
+      },
+      "w_car": {
+        "avg": 19.63,
+        "eco": 8.75
+      },
+      "b_f": [
+        6
+      ],
+      "w_f": [
+        3,
+        2,
+        0
+      ]
+    },
+    {
+      "bat": "TL Seifert",
+      "bat_t": "New Zealand",
+      "bowl": "CV Varun",
+      "bowl_t": "India",
+      "v": "batsman",
+      "h2h": {
+        "balls": 2,
+        "runs": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 433,
+        "balls": 295,
+        "dismissals": 12,
+        "average": 36.08,
+        "strike_rate": 146.78
+      },
+      "w_car": {
+        "avg": 15.9,
+        "eco": 7.36
+      },
+      "b_f": [
+        35,
+        8,
+        6
+      ],
+      "w_f": [
+        1,
+        1,
+        3
+      ]
+    },
+    {
+      "bat": "MJ Santner",
+      "bat_t": "New Zealand",
+      "bowl": "HH Pandya",
+      "bowl_t": "India",
+      "v": "bowler",
+      "h2h": {
+        "balls": 25,
+        "runs": 29,
+        "dismissals": 0,
+        "strike_rate": 116.0
+      },
+      "vs_t": {
+        "runs": 242,
+        "balls": 209,
+        "dismissals": 10,
+        "average": 24.2,
+        "strike_rate": 115.79
+      },
+      "w_car": {
+        "avg": 27.46,
+        "eco": 8.49
+      },
+      "b_f": [
+        9,
+        47,
+        4
+      ],
+      "w_f": [
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "GD Phillips",
+      "bat_t": "New Zealand",
+      "bowl": "JJ Bumrah",
+      "bowl_t": "India",
+      "v": "bowler",
+      "h2h": {
+        "balls": 23,
+        "runs": 25,
+        "dismissals": 0,
+        "strike_rate": 108.7
+      },
+      "vs_t": {
+        "runs": 311,
+        "balls": 233,
+        "dismissals": 14,
+        "average": 22.21,
+        "strike_rate": 133.48
+      },
+      "w_car": {
+        "avg": 19.51,
+        "eco": 6.85
+      },
+      "b_f": [
+        39,
+        18,
+        76
+      ],
+      "w_f": [
+        0,
+        3,
+        1
+      ]
+    },
+    {
+      "bat": "TL Seifert",
+      "bat_t": "New Zealand",
+      "bowl": "HH Pandya",
+      "bowl_t": "India",
+      "v": "batsman",
+      "h2h": {
+        "balls": 23,
+        "runs": 44,
+        "dismissals": 0,
+        "strike_rate": 191.3
+      },
+      "vs_t": {
+        "runs": 433,
+        "balls": 295,
+        "dismissals": 12,
+        "average": 36.08,
+        "strike_rate": 146.78
+      },
+      "w_car": {
+        "avg": 27.46,
+        "eco": 8.49
+      },
+      "b_f": [
+        35,
+        8,
+        6
+      ],
+      "w_f": [
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "HH Pandya",
+      "bat_t": "India",
+      "bowl": "LH Ferguson",
+      "bowl_t": "New Zealand",
+      "v": "batsman",
+      "h2h": {
+        "balls": 21,
+        "runs": 34,
+        "dismissals": 0,
+        "strike_rate": 161.9
+      },
+      "vs_t": {
+        "runs": 242,
+        "balls": 195,
+        "dismissals": 12,
+        "average": 20.17,
+        "strike_rate": 124.1
+      },
+      "b_car": {
+        "avg": 28.12,
+        "sr": 138.02
+      },
+      "b_f": [
+        50,
+        18,
+        30
+      ],
+      "w_f": [
+        1,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "SA Yadav",
+      "bat_t": "India",
+      "bowl": "GD Phillips",
+      "bowl_t": "New Zealand",
+      "v": "batsman",
+      "h2h": {
+        "balls": 19,
+        "runs": 26,
+        "dismissals": 0,
+        "strike_rate": 136.84
+      },
+      "vs_t": {
+        "runs": 526,
+        "balls": 322,
+        "dismissals": 9,
+        "average": 58.44,
+        "strike_rate": 163.35
+      },
+      "b_car": {
+        "avg": 38.51,
+        "sr": 156.8
+      },
+      "b_f": [
+        33,
+        18,
+        34
+      ],
+      "w_f": [
+        1,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "DJ Mitchell",
+      "bat_t": "New Zealand",
+      "bowl": "CV Varun",
+      "bowl_t": "India",
+      "v": "bowler",
+      "h2h": {
+        "balls": 18,
+        "runs": 12,
+        "dismissals": 0,
+        "strike_rate": 66.67
+      },
+      "vs_t": {
+        "runs": 366,
+        "balls": 254,
+        "dismissals": 16,
+        "average": 22.88,
+        "strike_rate": 144.09
+      },
+      "w_car": {
+        "avg": 15.9,
+        "eco": 7.36
+      },
+      "b_f": [
+        3,
+        3,
+        32
+      ],
+      "w_f": [
+        1,
+        1,
+        3
+      ]
+    },
+    {
+      "bat": "Ishan Kishan",
+      "bat_t": "India",
+      "bowl": "LH Ferguson",
+      "bowl_t": "New Zealand",
+      "v": "batsman",
+      "h2h": {
+        "balls": 17,
+        "runs": 32,
+        "dismissals": 0,
+        "strike_rate": 188.24
+      },
+      "vs_t": {
+        "runs": 318,
+        "balls": 215,
+        "dismissals": 10,
+        "average": 31.8,
+        "strike_rate": 147.91
+      },
+      "b_car": {
+        "avg": 29.68,
+        "sr": 138.02
+      },
+      "b_f": [
+        38,
+        0,
+        18
+      ],
+      "w_f": [
+        1,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "SA Yadav",
+      "bat_t": "India",
+      "bowl": "MJ Henry",
+      "bowl_t": "New Zealand",
+      "v": "batsman",
+      "h2h": {
+        "balls": 15,
+        "runs": 21,
+        "dismissals": 0,
+        "strike_rate": 140.0
+      },
+      "vs_t": {
+        "runs": 526,
+        "balls": 322,
+        "dismissals": 9,
+        "average": 58.44,
+        "strike_rate": 163.35
+      },
+      "b_car": {
+        "avg": 38.51,
+        "sr": 156.8
+      },
+      "b_f": [
+        33,
+        18,
+        34
+      ],
+      "w_f": [
+        1,
+        2,
+        1
+      ]
+    },
+    {
+      "bat": "R Ravindra",
+      "bat_t": "New Zealand",
+      "bowl": "CV Varun",
+      "bowl_t": "India",
+      "v": "batsman",
+      "h2h": {
+        "balls": 15,
+        "runs": 31,
+        "dismissals": 0,
+        "strike_rate": 206.67
+      },
+      "vs_t": {
+        "runs": 88,
+        "balls": 68,
+        "dismissals": 6,
+        "average": 14.67,
+        "strike_rate": 129.41
+      },
+      "w_car": {
+        "avg": 15.9,
+        "eco": 7.36
+      },
+      "b_f": [
+        11,
+        32,
+        59
+      ],
+      "w_f": [
+        1,
+        1,
+        3
+      ]
+    },
+    {
+      "bat": "GD Phillips",
+      "bat_t": "New Zealand",
+      "bowl": "CV Varun",
+      "bowl_t": "India",
+      "v": "batsman",
+      "h2h": {
+        "balls": 13,
+        "runs": 22,
+        "dismissals": 0,
+        "strike_rate": 169.23
+      },
+      "vs_t": {
+        "runs": 311,
+        "balls": 233,
+        "dismissals": 14,
+        "average": 22.21,
+        "strike_rate": 133.48
+      },
+      "w_car": {
+        "avg": 15.9,
+        "eco": 7.36
+      },
+      "b_f": [
+        39,
+        18,
+        76
+      ],
+      "w_f": [
+        1,
+        1,
+        3
+      ]
+    }
+  ]
+}

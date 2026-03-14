@@ -1,0 +1,1123 @@
+{
+    "match_id": "1512768",
+    "metadata": {
+        "tournament": "2025/26",
+        "venue": "Pallekele International Cricket Stadium",
+        "date": "28-02-2026",
+        "stage": "'ICC Men's T20 World Cup'",
+        "winner": "'Pakistan'",
+        "loser": "Pakistan",
+        "win_classification": "Moderate",
+        "margin_runs": 5,
+        "margin_wickets": null,
+        "competitiveness_index": 85.0,
+        "teams": {
+            "Pakistan": {
+                "captain": "Sahibzada Farhan",
+                "playing_xi_count": 11
+            },
+            "Sri Lanka": {
+                "captain": "KIC Asalanka",
+                "playing_xi_count": 11
+            }
+        },
+        "team_summary": {
+            "Pakistan": {
+                "run_rate": 10.6,
+                "fours": 21,
+                "sixes": 9,
+                "boundary_runs": 138,
+                "dot_balls": 35,
+                "total_runs": 212,
+                "total_wickets": 8
+            },
+            "Sri Lanka": {
+                "run_rate": 10.35,
+                "fours": 12,
+                "sixes": 14,
+                "boundary_runs": 132,
+                "dot_balls": 37,
+                "total_runs": 207,
+                "total_wickets": 6
+            }
+        },
+        "formulas": {
+            "competitiveness": "Base(Margin) + Pressure_Bonus(L5 Overs)",
+            "pressure": "((RR_Gap / Start_RR) * 40) + ((Wickets / 10) * 60)",
+            "batting_impact": "Runs + (SR/Match_SR * 25)",
+            "bowling_impact": "(Wickets * 30) + (Match_RR/Econ * 20)"
+        }
+    },
+    "scorecards": {
+        "batting": [
+            {
+                "player": "Sahibzada Farhan",
+                "team": "Pakistan",
+                "runs": 100,
+                "balls": 61,
+                "sr": 163.93,
+                "fours": 9,
+                "sixes": 5,
+                "win_contribution_percent": 47.2,
+                "score": 125.26
+            },
+            {
+                "player": "Fakhar Zaman",
+                "team": "Pakistan",
+                "runs": 84,
+                "balls": 44,
+                "sr": 190.91,
+                "fours": 9,
+                "sixes": 4,
+                "win_contribution_percent": 39.6,
+                "score": 113.42
+            },
+            {
+                "player": "Usman Khan",
+                "team": "Pakistan",
+                "runs": 8,
+                "balls": 4,
+                "sr": 200.0,
+                "fours": 1,
+                "sixes": 0,
+                "win_contribution_percent": 3.8,
+                "score": 38.82
+            },
+            {
+                "player": "Shadab Khan",
+                "team": "Pakistan",
+                "runs": 7,
+                "balls": 5,
+                "sr": 140.0,
+                "fours": 1,
+                "sixes": 0,
+                "win_contribution_percent": 3.3,
+                "score": 28.57
+            },
+            {
+                "player": "Shaheen Shah Afridi",
+                "team": "Pakistan",
+                "runs": 4,
+                "balls": 2,
+                "sr": 200.0,
+                "fours": 1,
+                "sixes": 0,
+                "win_contribution_percent": 1.9,
+                "score": 34.82
+            },
+            {
+                "player": "Khawaja Nafay",
+                "team": "Pakistan",
+                "runs": 2,
+                "balls": 3,
+                "sr": 66.67,
+                "fours": 0,
+                "sixes": 0,
+                "win_contribution_percent": 0.9,
+                "score": 12.27
+            },
+            {
+                "player": "Naseem Shah",
+                "team": "Pakistan",
+                "runs": 1,
+                "balls": 1,
+                "sr": 100.0,
+                "fours": 0,
+                "sixes": 0,
+                "win_contribution_percent": 0.5,
+                "score": 16.41
+            },
+            {
+                "player": "Agha Salman",
+                "team": "Pakistan",
+                "runs": 0,
+                "balls": 2,
+                "sr": 0.0,
+                "fours": 0,
+                "sixes": 0,
+                "win_contribution_percent": 0.0,
+                "score": 0.0
+            },
+            {
+                "player": "Mohammad Nawaz",
+                "team": "Pakistan",
+                "runs": 0,
+                "balls": 1,
+                "sr": 0.0,
+                "fours": 0,
+                "sixes": 0,
+                "win_contribution_percent": 0.0,
+                "score": 0.0
+            },
+            {
+                "player": "MD Shanaka",
+                "team": "Sri Lanka",
+                "runs": 76,
+                "balls": 32,
+                "sr": 237.5,
+                "fours": 2,
+                "sixes": 8,
+                "win_contribution_percent": 36.7,
+                "score": 112.59
+            },
+            {
+                "player": "P Rathnayake",
+                "team": "Sri Lanka",
+                "runs": 58,
+                "balls": 39,
+                "sr": 148.72,
+                "fours": 4,
+                "sixes": 3,
+                "win_contribution_percent": 28.0,
+                "score": 80.92
+            },
+            {
+                "player": "K Mishara",
+                "team": "Sri Lanka",
+                "runs": 26,
+                "balls": 15,
+                "sr": 173.33,
+                "fours": 4,
+                "sixes": 1,
+                "win_contribution_percent": 12.6,
+                "score": 52.71
+            },
+            {
+                "player": "KIC Asalanka",
+                "team": "Sri Lanka",
+                "runs": 25,
+                "balls": 19,
+                "sr": 131.58,
+                "fours": 1,
+                "sixes": 2,
+                "win_contribution_percent": 12.1,
+                "score": 45.27
+            },
+            {
+                "player": "J Liyanage",
+                "team": "Sri Lanka",
+                "runs": 5,
+                "balls": 3,
+                "sr": 166.67,
+                "fours": 1,
+                "sixes": 0,
+                "win_contribution_percent": 2.4,
+                "score": 30.68
+            },
+            {
+                "player": "P Nissanka",
+                "team": "Sri Lanka",
+                "runs": 3,
+                "balls": 8,
+                "sr": 37.5,
+                "fours": 0,
+                "sixes": 0,
+                "win_contribution_percent": 1.4,
+                "score": 8.78
+            },
+            {
+                "player": "PHKD Mendis",
+                "team": "Sri Lanka",
+                "runs": 3,
+                "balls": 6,
+                "sr": 50.0,
+                "fours": 0,
+                "sixes": 0,
+                "win_contribution_percent": 1.4,
+                "score": 10.7
+            },
+            {
+                "player": "DN Wellalage",
+                "team": "Sri Lanka",
+                "runs": 2,
+                "balls": 4,
+                "sr": 50.0,
+                "fours": 0,
+                "sixes": 0,
+                "win_contribution_percent": 1.0,
+                "score": 9.7
+            }
+        ],
+        "bowling": [
+            {
+                "player": "D Madushanka",
+                "team": "Sri Lanka",
+                "overs": 4.0,
+                "runs": 33,
+                "wickets": 3,
+                "econ": 8.25,
+                "score": 114.48,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "MD Shanaka",
+                "team": "Sri Lanka",
+                "overs": 4.0,
+                "runs": 43,
+                "wickets": 2,
+                "econ": 10.75,
+                "score": 78.78,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "PVD Chameera",
+                "team": "Sri Lanka",
+                "overs": 4.0,
+                "runs": 50,
+                "wickets": 1,
+                "econ": 12.5,
+                "score": 46.15,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "M Theekshana",
+                "team": "Sri Lanka",
+                "overs": 4.0,
+                "runs": 35,
+                "wickets": 0,
+                "econ": 8.75,
+                "score": 23.08,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "DN Wellalage",
+                "team": "Sri Lanka",
+                "overs": 3.0,
+                "runs": 37,
+                "wickets": 0,
+                "econ": 12.33,
+                "score": 16.38,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "J Liyanage",
+                "team": "Sri Lanka",
+                "overs": 1.0,
+                "runs": 14,
+                "wickets": 0,
+                "econ": 14.0,
+                "score": 14.42,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "Abrar Ahmed",
+                "team": "Pakistan",
+                "overs": 4.0,
+                "runs": 26,
+                "wickets": 3,
+                "econ": 6.5,
+                "score": 121.07,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "Naseem Shah",
+                "team": "Pakistan",
+                "overs": 4.0,
+                "runs": 36,
+                "wickets": 1,
+                "econ": 9.0,
+                "score": 52.44,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "Mohammad Nawaz",
+                "team": "Pakistan",
+                "overs": 2.0,
+                "runs": 21,
+                "wickets": 1,
+                "econ": 10.5,
+                "score": 49.23,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "Shaheen Shah Afridi",
+                "team": "Pakistan",
+                "overs": 4.0,
+                "runs": 48,
+                "wickets": 1,
+                "econ": 12.0,
+                "score": 46.83,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "Usman Tariq",
+                "team": "Pakistan",
+                "overs": 4.0,
+                "runs": 43,
+                "wickets": 0,
+                "econ": 10.75,
+                "score": 18.78,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "Shadab Khan",
+                "team": "Pakistan",
+                "overs": 2.0,
+                "runs": 33,
+                "wickets": 0,
+                "econ": 16.5,
+                "score": 12.24,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            }
+        ]
+    },
+    "innings": [
+        {
+            "innings": 1,
+            "team": "Pakistan",
+            "total_runs": 212,
+            "total_wickets": 8,
+            "balls_faced": 120,
+            "overs_faced": 20.0,
+            "phase_analysis": {
+                "Powerplay": {
+                    "runs": 64,
+                    "wkts": 0,
+                    "rr": 10.67
+                },
+                "Middle": {
+                    "runs": 99,
+                    "wkts": 0,
+                    "rr": 11.0
+                },
+                "Death": {
+                    "runs": 49,
+                    "wkts": 8,
+                    "rr": 9.8
+                }
+            }
+        },
+        {
+            "innings": 2,
+            "team": "Sri Lanka",
+            "total_runs": 207,
+            "total_wickets": 6,
+            "balls_faced": 120,
+            "overs_faced": 20.0,
+            "phase_analysis": {
+                "Powerplay": {
+                    "runs": 49,
+                    "wkts": 2,
+                    "rr": 8.17
+                },
+                "Middle": {
+                    "runs": 86,
+                    "wkts": 3,
+                    "rr": 9.56
+                },
+                "Death": {
+                    "runs": 72,
+                    "wkts": 1,
+                    "rr": 14.4
+                }
+            },
+            "pressure_index": 78.0,
+            "target": 213
+        }
+    ],
+    "players": [
+        {
+            "player": "Sahibzada Farhan",
+            "team": "Pakistan",
+            "runs": 100,
+            "balls": 61,
+            "sr": 163.93,
+            "fours": 9,
+            "sixes": 5,
+            "win_contribution_percent": 47.2,
+            "score": 125.26,
+            "role": "batting",
+            "match_stats": "100(61)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "Abrar Ahmed",
+            "team": "Pakistan",
+            "overs": 4.0,
+            "runs": 26,
+            "wickets": 3,
+            "econ": 6.5,
+            "score": 121.07,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-26r-3w"
+        },
+        {
+            "player": "D Madushanka",
+            "team": "Sri Lanka",
+            "overs": 4.0,
+            "runs": 33,
+            "wickets": 3,
+            "econ": 8.25,
+            "score": 114.48,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-33r-3w"
+        },
+        {
+            "player": "Fakhar Zaman",
+            "team": "Pakistan",
+            "runs": 84,
+            "balls": 44,
+            "sr": 190.91,
+            "fours": 9,
+            "sixes": 4,
+            "win_contribution_percent": 39.6,
+            "score": 113.42,
+            "role": "batting",
+            "match_stats": "84(44)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "MD Shanaka",
+            "team": "Sri Lanka",
+            "runs": 76,
+            "balls": 32,
+            "sr": 237.5,
+            "fours": 2,
+            "sixes": 8,
+            "win_contribution_percent": 36.7,
+            "score": 112.59,
+            "role": "batting",
+            "match_stats": "76(32)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "P Rathnayake",
+            "team": "Sri Lanka",
+            "runs": 58,
+            "balls": 39,
+            "sr": 148.72,
+            "fours": 4,
+            "sixes": 3,
+            "win_contribution_percent": 28.0,
+            "score": 80.92,
+            "role": "batting",
+            "match_stats": "58(39)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "MD Shanaka",
+            "team": "Sri Lanka",
+            "overs": 4.0,
+            "runs": 43,
+            "wickets": 2,
+            "econ": 10.75,
+            "score": 78.78,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-43r-2w"
+        },
+        {
+            "player": "K Mishara",
+            "team": "Sri Lanka",
+            "runs": 26,
+            "balls": 15,
+            "sr": 173.33,
+            "fours": 4,
+            "sixes": 1,
+            "win_contribution_percent": 12.6,
+            "score": 52.71,
+            "role": "batting",
+            "match_stats": "26(15)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "Naseem Shah",
+            "team": "Pakistan",
+            "overs": 4.0,
+            "runs": 36,
+            "wickets": 1,
+            "econ": 9.0,
+            "score": 52.44,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-36r-1w"
+        },
+        {
+            "player": "Mohammad Nawaz",
+            "team": "Pakistan",
+            "overs": 2.0,
+            "runs": 21,
+            "wickets": 1,
+            "econ": 10.5,
+            "score": 49.23,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "2.0o-21r-1w"
+        },
+        {
+            "player": "Shaheen Shah Afridi",
+            "team": "Pakistan",
+            "overs": 4.0,
+            "runs": 48,
+            "wickets": 1,
+            "econ": 12.0,
+            "score": 46.83,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-48r-1w"
+        },
+        {
+            "player": "PVD Chameera",
+            "team": "Sri Lanka",
+            "overs": 4.0,
+            "runs": 50,
+            "wickets": 1,
+            "econ": 12.5,
+            "score": 46.15,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-50r-1w"
+        },
+        {
+            "player": "KIC Asalanka",
+            "team": "Sri Lanka",
+            "runs": 25,
+            "balls": 19,
+            "sr": 131.58,
+            "fours": 1,
+            "sixes": 2,
+            "win_contribution_percent": 12.1,
+            "score": 45.27,
+            "role": "batting",
+            "match_stats": "25(19)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "Usman Khan",
+            "team": "Pakistan",
+            "runs": 8,
+            "balls": 4,
+            "sr": 200.0,
+            "fours": 1,
+            "sixes": 0,
+            "win_contribution_percent": 3.8,
+            "score": 38.82,
+            "role": "batting",
+            "match_stats": "8(4)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "Shaheen Shah Afridi",
+            "team": "Pakistan",
+            "runs": 4,
+            "balls": 2,
+            "sr": 200.0,
+            "fours": 1,
+            "sixes": 0,
+            "win_contribution_percent": 1.9,
+            "score": 34.82,
+            "role": "batting",
+            "match_stats": "4(2)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "J Liyanage",
+            "team": "Sri Lanka",
+            "runs": 5,
+            "balls": 3,
+            "sr": 166.67,
+            "fours": 1,
+            "sixes": 0,
+            "win_contribution_percent": 2.4,
+            "score": 30.68,
+            "role": "batting",
+            "match_stats": "5(3)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "Shadab Khan",
+            "team": "Pakistan",
+            "runs": 7,
+            "balls": 5,
+            "sr": 140.0,
+            "fours": 1,
+            "sixes": 0,
+            "win_contribution_percent": 3.3,
+            "score": 28.57,
+            "role": "batting",
+            "match_stats": "7(5)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "M Theekshana",
+            "team": "Sri Lanka",
+            "overs": 4.0,
+            "runs": 35,
+            "wickets": 0,
+            "econ": 8.75,
+            "score": 23.08,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-35r-0w"
+        },
+        {
+            "player": "Usman Tariq",
+            "team": "Pakistan",
+            "overs": 4.0,
+            "runs": 43,
+            "wickets": 0,
+            "econ": 10.75,
+            "score": 18.78,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-43r-0w"
+        },
+        {
+            "player": "Naseem Shah",
+            "team": "Pakistan",
+            "runs": 1,
+            "balls": 1,
+            "sr": 100.0,
+            "fours": 0,
+            "sixes": 0,
+            "win_contribution_percent": 0.5,
+            "score": 16.41,
+            "role": "batting",
+            "match_stats": "1(1)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "DN Wellalage",
+            "team": "Sri Lanka",
+            "overs": 3.0,
+            "runs": 37,
+            "wickets": 0,
+            "econ": 12.33,
+            "score": 16.38,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "3.0o-37r-0w"
+        },
+        {
+            "player": "J Liyanage",
+            "team": "Sri Lanka",
+            "overs": 1.0,
+            "runs": 14,
+            "wickets": 0,
+            "econ": 14.0,
+            "score": 14.42,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "1.0o-14r-0w"
+        },
+        {
+            "player": "Khawaja Nafay",
+            "team": "Pakistan",
+            "runs": 2,
+            "balls": 3,
+            "sr": 66.67,
+            "fours": 0,
+            "sixes": 0,
+            "win_contribution_percent": 0.9,
+            "score": 12.27,
+            "role": "batting",
+            "match_stats": "2(3)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "Shadab Khan",
+            "team": "Pakistan",
+            "overs": 2.0,
+            "runs": 33,
+            "wickets": 0,
+            "econ": 16.5,
+            "score": 12.24,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "2.0o-33r-0w"
+        },
+        {
+            "player": "PHKD Mendis",
+            "team": "Sri Lanka",
+            "runs": 3,
+            "balls": 6,
+            "sr": 50.0,
+            "fours": 0,
+            "sixes": 0,
+            "win_contribution_percent": 1.4,
+            "score": 10.7,
+            "role": "batting",
+            "match_stats": "3(6)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "DN Wellalage",
+            "team": "Sri Lanka",
+            "runs": 2,
+            "balls": 4,
+            "sr": 50.0,
+            "fours": 0,
+            "sixes": 0,
+            "win_contribution_percent": 1.0,
+            "score": 9.7,
+            "role": "batting",
+            "match_stats": "2(4)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "P Nissanka",
+            "team": "Sri Lanka",
+            "runs": 3,
+            "balls": 8,
+            "sr": 37.5,
+            "fours": 0,
+            "sixes": 0,
+            "win_contribution_percent": 1.4,
+            "score": 8.78,
+            "role": "batting",
+            "match_stats": "3(8)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "Agha Salman",
+            "team": "Pakistan",
+            "runs": 0,
+            "balls": 2,
+            "sr": 0.0,
+            "fours": 0,
+            "sixes": 0,
+            "win_contribution_percent": 0.0,
+            "score": 0.0,
+            "role": "batting",
+            "match_stats": "0(2)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "Mohammad Nawaz",
+            "team": "Pakistan",
+            "runs": 0,
+            "balls": 1,
+            "sr": 0.0,
+            "fours": 0,
+            "sixes": 0,
+            "win_contribution_percent": 0.0,
+            "score": 0.0,
+            "role": "batting",
+            "match_stats": "0(1)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        }
+    ],
+    "validation": {
+        "logical_stability": true
+    }
+}
