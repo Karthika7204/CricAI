@@ -24,6 +24,15 @@ export const matchApi = {
 
     getScorecard: (matchId: string) =>
         api.get(`/match/${matchId}/scorecard`),
+
+    recommendPvP: (matchId: string, query: string) =>
+        api.post(`/match/${matchId}/recommend/pvp`, { match_id: matchId, query }),
+
+    recommendStrategy: (matchId: string, query: string) =>
+        api.post(`/match/${matchId}/recommend/strategy`, { match_id: matchId, query }),
+
+    recommendPressure: (matchId: string, query: string) =>
+        api.post(`/match/${matchId}/recommend/pressure`, { match_id: matchId, query }),
 };
 
 export default api;

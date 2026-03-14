@@ -15,7 +15,7 @@ class Router:
             p.lower() for p in metadata.get("all_players", [])
         ]
 
-        # Strict match-level patterns only
+        # Broadened patterns for conversational recommendation queries
         self.patterns = {
             "winner": r"\b(who won|which team won|match result|match winner)\b",
             "score": r"\b(final score|total score|team score|match score)\b",
@@ -25,7 +25,8 @@ class Router:
             "toss": r"\b(who won the toss|toss winner)\b",
             "captains": r"\b(team captain|who captained|captain of)\b",
             "match_flow": r"\b(match flow|how did the match progress|sequence of events|chronological flow)\b",
-            "recommendations": r"\b(recommend|tactical suggestion|how can .* improve|what should .* do better|strategic adjustment|risk alert)\b",
+            "recommendations": r"\b(recommend|tactical suggestion|how can .* improve|what should .* do better|strategic adjustment|risk alert|advise|suggest|how to)\b",
+            "pressure": r"\b(pressure avoid|what to avoid|perform better|improve(ment)?|avoid risky|pressure insights?|performance (insights?|improvement)|bottleneck)\b",
             "pre_match_insights": r"\b(pre.match|insight|ranking race|milestone|upcoming milestone|career achievement|personal best|storyline)\b",
             "awards": (
                 r"\b("
@@ -38,7 +39,9 @@ class Router:
                 r"who (won|got|received|deserved) the award|"
                 r"top performer|star of the match"
                 r")\b"
-            )
+            ),
+            "pvp": r"\b(pvp|matchups?|h2h|head.to.head|vs|bowler vs batsman|batsman vs team|player vs player|comparison|head 2 head|good and bad|success or struggle|against|compare|struggle|tackle)\b",
+            "strategy": r"\b(strategy|strategies|batting order|bowling order|rotation|rotate|tactical|lineup|batting rotation|bowling rotation|bowl rotation|bat rotation|deploy|deployment|handle|middle order|powerplay|death overs|handling)\b",
         }
 
     # ------------------------------------------
@@ -62,6 +65,9 @@ class Router:
         # 0️⃣ Match Analysis (Flow & Recommendations) - HIGH PRIORITY specialized RAG
         if re.search(self.patterns.get("match_flow", ""), query):
             return "ROUTE_TO_ANALYSIS_FLOW"
+
+        if re.search(self.patterns.get("pressure", ""), query):
+            return "ROUTE_TO_PRESSURE_RECOMMENDATION"
             
         if re.search(self.patterns.get("recommendations", ""), query):
             return "ROUTE_TO_ANALYSIS_RECOMMEND"
@@ -69,20 +75,24 @@ class Router:
         if re.search(self.patterns.get("pre_match_insights", ""), query):
             return "ROUTE_TO_PRE_MATCH_INSIGHTS"
 
-        # -------------------------------------------------
-        # 1️⃣ Block analytical / comparison questions
-        # -------------------------------------------------
+        if re.search(self.patterns.get("strategy", ""), query):
+            return "ROUTE_TO_STRATEGY_RECOMMENDATION"
+
+        if re.search(self.patterns.get("pvp", ""), query):
+            return "ROUTE_TO_PVP_RECOMMENDATION"
+
+        # 1️⃣ Block analytical / comparison questions (only if no specialized route matches)
         analytical_patterns = [
             r"\bwas .* match winner\b",     # was X the match winner
             r"\bor just\b",                 # comparison phrase
             r"\bimpact\b",
-            r"\bperformance\b",
+            # r"\bperformance\b",          # Too broad, can be recommendation
             r"\bcontributor\b",
             r"\bhow did\b",
             r"\bwhy did\b",
             r"\bmatch flow\b",
-            r"\brecommendation\b",
-            r"\btactical\b"
+            # r"\brecommendation\b",       # Specialty route
+            # r"\btactical\b"              # Specialty route
         ]
 
         for pattern in analytical_patterns:

@@ -7,7 +7,10 @@ from embedding import EmbeddingEngine
 from router import Router
 from prompt_builder import PromptBuilder
 from award_engine import calculate_awards
-from insight_engine import calculate_pre_match_insights
+from pre_match_analysis import get_pre_match_analysis
+from pressure_bot_engine import PressureBotEngine
+from pvp_bot_engine import PvPBotEngine
+from strategy_bot_engine import StrategyBotEngine
 
 from llm_connector import GeminiConnector
 
@@ -25,9 +28,15 @@ class QueryEngine:
         # Initialize Gemini Connector
         try:
             self.llm = GeminiConnector(api_key=gemini_api_key)
+                
         except Exception as e:
             print(f"Warning: Gemini initialization failed: {e}")
             self.llm = None
+        
+        # Initialize Specialized Bots
+        self.pressure_bot = PressureBotEngine(data_dir=data_dir, gemini_api_key=gemini_api_key)
+        self.pvp_bot = PvPBotEngine(data_dir=data_dir, gemini_api_key=gemini_api_key)
+        self.strategy_bot = StrategyBotEngine(data_dir=data_dir, gemini_api_key=gemini_api_key)
 
     def _load_match(self, match_id):
         if match_id in self.cache:
@@ -116,6 +125,15 @@ class QueryEngine:
             else:
                 return {"insights": insight_data, "source": "pre_match_insights_raw"}
 
+        if fast_answer == "ROUTE_TO_PRESSURE_RECOMMENDATION":
+            return self.pressure_bot.query(match_id, user_query)
+
+        if fast_answer == "ROUTE_TO_PVP_RECOMMENDATION":
+            return self.pvp_bot.query(match_id, user_query)
+
+        if fast_answer == "ROUTE_TO_STRATEGY_RECOMMENDATION":
+            return self.strategy_bot.query(match_id, user_query)
+
         if fast_answer:
             return {"answer": fast_answer, "source": "rule_based", "tokens_saved": True}
 
@@ -143,6 +161,10 @@ class QueryEngine:
             }
 
 if __name__ == "__main__":
+
+    current_key = os.getenv("GEMINI_API_KEY")
+    print(f"DEBUG: Initializing with API Key ending in: {current_key[-4:] if current_key else 'NONE'}")
+
     # Test stub
     engine = QueryEngine()
     # Assuming match 1512721 is preprocessed

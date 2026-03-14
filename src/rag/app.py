@@ -15,6 +15,7 @@ from rag.scorecard_engine import get_match_scorecard
 from rag.pvp_analysis import get_pvp_comparison
 from rag.pvp_bot_engine import PvPBotEngine
 from rag.strategy_bot_engine import StrategyBotEngine
+from rag.pressure_bot_engine import PressureBotEngine
 from flow.match_flow_engine import MatchFlowEngine
 
 app = FastAPI(title="CricAI Backend Bridge")
@@ -33,6 +34,7 @@ DATA_DIR = "d:/CricAI/data"
 query_engine = QueryEngine(data_dir=DATA_DIR)
 pvp_bot = PvPBotEngine(data_dir=DATA_DIR)
 strategy_bot = StrategyBotEngine(data_dir=DATA_DIR)
+pressure_bot = PressureBotEngine(data_dir=DATA_DIR)
 flow_engine = MatchFlowEngine(data_root=os.path.join(DATA_DIR, "processed/t20/matches"))
 
 class QueryRequest(BaseModel):
@@ -97,6 +99,13 @@ async def recommend_pvp(match_id: str, request: QueryRequest):
 async def recommend_strategy(match_id: str, request: QueryRequest):
     try:
         return strategy_bot.query(match_id, request.query)
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
+
+@app.post("/api/match/{match_id}/recommend/pressure")
+async def recommend_pressure(match_id: str, request: QueryRequest):
+    try:
+        return pressure_bot.query(match_id, request.query)
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
 

@@ -1,0 +1,446 @@
+{
+    "match_context": {
+        "match_id": "1512730",
+        "date": "2026-02-10",
+        "tournament": "2025/26",
+        "venue": "Sinhalese Sports Club Ground, Colombo",
+        "stage": "ICC Men's T20 World Cup",
+        "Teams": {
+            "Pakistan": {
+                "captain": "Babar Azam",
+                "playing_xi_count": 11
+            },
+            "United States of America": {
+                "captain": "MD Patel",
+                "playing_xi_count": 11
+            }
+        }
+    },
+    "Match_Result": {
+        "summary": "Pakistan won by 32 runs",
+        "winner": "Pakistan",
+        "margin": 32,
+        "margin_type": "runs"
+    },
+    "Scorecard_Highlights": {
+        "Key_Support_Performers": [
+            {
+                "player": "Saim Ayub",
+                "team": "Pakistan",
+                "runs": 19,
+                "balls": 17,
+                "sr": 111.76,
+                "fours": 1,
+                "sixes": 2,
+                "win_contribution_percent": 10.0,
+                "score": 39.56
+            },
+            {
+                "player": "Milind Kumar",
+                "team": "United States of America",
+                "runs": 29,
+                "balls": 23,
+                "sr": 126.09,
+                "fours": 2,
+                "sixes": 1,
+                "win_contribution_percent": 18.4,
+                "score": 52.2
+            }
+        ],
+        "Career_vs_Match_Bowling": [
+            {
+                "player": "SN Netravalkar",
+                "team": "United States of America",
+                "match_figures": "4.0-42-1",
+                "match_economy": 10.5,
+                "career_economy": 7.44,
+                "economy_delta": 3.06,
+                "match_sr": 24.0,
+                "career_sr": 20.79,
+                "career_wickets": 42,
+                "career_best": "5/12",
+                "verdict": "Expensive - 3.06 above career economy (7.44)"
+            },
+            {
+                "player": "Harmeet Singh",
+                "team": "United States of America",
+                "match_figures": "4.0-41-1",
+                "match_economy": 10.25,
+                "career_economy": 7.05,
+                "economy_delta": 3.2,
+                "match_sr": 24.0,
+                "career_sr": 19.87,
+                "career_wickets": 31,
+                "career_best": "4/18",
+                "verdict": "Expensive - 3.2 above career economy (7.05)"
+            },
+            {
+                "player": "Milind Kumar",
+                "team": "United States of America",
+                "match_figures": "1.0-16-0",
+                "match_economy": 16.0,
+                "career_economy": 7.49,
+                "economy_delta": 8.51,
+                "match_sr": null,
+                "career_sr": 16.08,
+                "career_wickets": 12,
+                "career_best": "5/16",
+                "verdict": "Expensive - 8.51 above career economy (7.49)"
+            }
+        ],
+        "Bowling_Standouts": {
+            "Economical_Spells": [],
+            "Expensive_Spells": [
+                {
+                    "player": "SN Netravalkar",
+                    "team": "United States of America",
+                    "match_figures": "4.0-42-1",
+                    "match_economy": 10.5,
+                    "career_economy": 7.44,
+                    "economy_delta": 3.06,
+                    "match_sr": 24.0,
+                    "career_sr": 20.79,
+                    "career_wickets": 42,
+                    "career_best": "5/12",
+                    "verdict": "Expensive - 3.06 above career economy (7.44)"
+                },
+                {
+                    "player": "Harmeet Singh",
+                    "team": "United States of America",
+                    "match_figures": "4.0-41-1",
+                    "match_economy": 10.25,
+                    "career_economy": 7.05,
+                    "economy_delta": 3.2,
+                    "match_sr": 24.0,
+                    "career_sr": 19.87,
+                    "career_wickets": 31,
+                    "career_best": "4/18",
+                    "verdict": "Expensive - 3.2 above career economy (7.05)"
+                },
+                {
+                    "player": "Milind Kumar",
+                    "team": "United States of America",
+                    "match_figures": "1.0-16-0",
+                    "match_economy": 16.0,
+                    "career_economy": 7.49,
+                    "economy_delta": 8.51,
+                    "match_sr": null,
+                    "career_sr": 16.08,
+                    "career_wickets": 12,
+                    "career_best": "5/16",
+                    "verdict": "Expensive - 8.51 above career economy (7.49)"
+                }
+            ],
+            "High_Economy_No_Baseline": [
+                {
+                    "player": "Ehsan Adil",
+                    "team": "United States of America",
+                    "overs": 3.0,
+                    "runs": 39,
+                    "wickets": 0,
+                    "econ": 13.0,
+                    "score": 12.95,
+                    "bowling_baseline": {
+                        "career_wickets": 0,
+                        "career_economy": 0.0,
+                        "career_sr": 0.0,
+                        "career_avg": 0.0,
+                        "best_bowling": "N/A",
+                        "matches": 0,
+                        "source": "none",
+                        "baseline_available": false
+                    }
+                },
+                {
+                    "player": "Saim Ayub",
+                    "team": "Pakistan",
+                    "overs": 1.0,
+                    "runs": 11,
+                    "wickets": 0,
+                    "econ": 11.0,
+                    "score": 15.31,
+                    "bowling_baseline": {
+                        "career_wickets": 0,
+                        "career_economy": 0.0,
+                        "career_sr": 0.0,
+                        "career_avg": 0.0,
+                        "best_bowling": "N/A",
+                        "matches": 0,
+                        "source": "none",
+                        "baseline_available": false
+                    }
+                }
+            ]
+        },
+        "Significant_Collapses": []
+    },
+    "Innings_Metrics": [
+        {
+            "innings": 1,
+            "team": "Pakistan",
+            "total_runs": 190,
+            "total_wickets": 9,
+            "balls_faced": 120,
+            "overs_faced": 20.0,
+            "phase_analysis": {
+                "Powerplay": {
+                    "runs": 56,
+                    "wkts": 2,
+                    "rr": 9.33
+                },
+                "Middle": {
+                    "runs": 81,
+                    "wkts": 1,
+                    "rr": 9.0
+                },
+                "Death": {
+                    "runs": 53,
+                    "wkts": 6,
+                    "rr": 10.6
+                }
+            }
+        },
+        {
+            "innings": 2,
+            "team": "United States of America",
+            "total_runs": 158,
+            "total_wickets": 8,
+            "balls_faced": 120,
+            "overs_faced": 20.0,
+            "phase_analysis": {
+                "Powerplay": {
+                    "runs": 50,
+                    "wkts": 1,
+                    "rr": 8.33
+                },
+                "Middle": {
+                    "runs": 61,
+                    "wkts": 2,
+                    "rr": 6.78
+                },
+                "Death": {
+                    "runs": 47,
+                    "wkts": 5,
+                    "rr": 9.4
+                }
+            },
+            "pressure_index": 94.0,
+            "target": 191
+        }
+    ],
+    "Detailed_Impact_Analysis": [
+        {
+            "player": "SC van Schalkwyk",
+            "team": "United States of America",
+            "overs": 4.0,
+            "runs": 25,
+            "wickets": 4,
+            "econ": 6.25,
+            "score": 146.94,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-25r-4w"
+        },
+        {
+            "player": "Usman Tariq",
+            "team": "Pakistan",
+            "overs": 4.0,
+            "runs": 27,
+            "wickets": 3,
+            "econ": 6.75,
+            "score": 114.95,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-27r-3w"
+        },
+        {
+            "player": "Sahibzada Farhan",
+            "team": "Pakistan",
+            "runs": 73,
+            "balls": 42,
+            "sr": 173.81,
+            "fours": 6,
+            "sixes": 5,
+            "win_contribution_percent": 38.4,
+            "score": 104.98,
+            "role": "batting",
+            "match_stats": "73(42)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "Shadab Khan",
+            "team": "Pakistan",
+            "overs": 4.0,
+            "runs": 26,
+            "wickets": 2,
+            "econ": 6.5,
+            "score": 85.91,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-26r-2w"
+        },
+        {
+            "player": "Shubham Ranjane",
+            "team": "United States of America",
+            "runs": 51,
+            "balls": 32,
+            "sr": 159.38,
+            "fours": 3,
+            "sixes": 3,
+            "win_contribution_percent": 32.3,
+            "score": 80.32,
+            "role": "batting",
+            "match_stats": "51(32)",
+            "baseline": {
+                "avg": 70.5,
+                "sr": 171.95,
+                "matches": 4,
+                "source": "t20_master",
+                "baseline_available": true
+            }
+        },
+        {
+            "player": "Shadab Khan",
+            "team": "Pakistan",
+            "runs": 30,
+            "balls": 12,
+            "sr": 250.0,
+            "fours": 4,
+            "sixes": 1,
+            "win_contribution_percent": 15.8,
+            "score": 75.99,
+            "role": "batting",
+            "match_stats": "30(12)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "Shayan Jahangir",
+            "team": "United States of America",
+            "runs": 49,
+            "balls": 34,
+            "sr": 144.12,
+            "fours": 5,
+            "sixes": 2,
+            "win_contribution_percent": 31.0,
+            "score": 75.51,
+            "role": "batting",
+            "match_stats": "49(34)",
+            "baseline": {
+                "avg": 30.87,
+                "sr": 131.16,
+                "matches": 21,
+                "source": "t20_master",
+                "baseline_available": true
+            }
+        },
+        {
+            "player": "Babar Azam",
+            "team": "Pakistan",
+            "runs": 46,
+            "balls": 33,
+            "sr": 139.39,
+            "fours": 4,
+            "sixes": 1,
+            "win_contribution_percent": 24.2,
+            "score": 71.64,
+            "role": "batting",
+            "match_stats": "46(33)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "Mohammad Mohsin",
+            "team": "United States of America",
+            "overs": 4.0,
+            "runs": 27,
+            "wickets": 1,
+            "econ": 6.75,
+            "score": 54.95,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-27r-1w"
+        },
+        {
+            "player": "Mohammad Nawaz",
+            "team": "Pakistan",
+            "overs": 3.0,
+            "runs": 21,
+            "wickets": 1,
+            "econ": 7.0,
+            "score": 54.06,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "3.0o-21r-1w"
+        }
+    ],
+    "Tactical_Post_Match_Analysis": [
+        "Pakistan's victory was anchored by Sahibzada Farhan, who contributed 38.4% of the team's runs.",
+        "Defensive pressure was sustained by Usman Tariq, finishing with an impact score of 114.95.",
+        "SN Netravalkar struggled with economy 10.5 vs career avg 7.44 (+3.06) — an expensive outing.",
+        "Harmeet Singh struggled with economy 10.25 vs career avg 7.05 (+3.2) — an expensive outing.",
+        "Milind Kumar struggled with economy 16.0 vs career avg 7.49 (+8.51) — an expensive outing.",
+        "United States of America struggled under extreme chase pressure (Index: 94.0), leading to a late-innings collapse."
+    ]
+}

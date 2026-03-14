@@ -1,6 +1,6 @@
 import { useState, useEffect, useRef } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
-import { Award, Zap, ChevronRight, MessageCircle, ChevronLeft, Share2, MoreVertical, PlayCircle, BarChart3, TrendingUp, Info, Send, Bot } from 'lucide-react';
+import { Award, Zap, ChevronRight, MessageCircle, ChevronLeft, Share2, MoreVertical, PlayCircle, BarChart3, TrendingUp, Info, Bot } from 'lucide-react';
 import { matchApi } from '../api';
 
 export const MatchDetail = ({ matchId, onBack }: { matchId: string, onBack: () => void }) => {
@@ -13,6 +13,7 @@ export const MatchDetail = ({ matchId, onBack }: { matchId: string, onBack: () =
         { id: 'Match Flow', label: 'AI Match Flow', icon: PlayCircle },
         { id: 'Pre-match Insights', label: 'Pre-match Insights', icon: Zap },
         { id: 'AI Stats & Awards', label: 'AI Stats & Awards', icon: Award },
+        { id: 'Recommendation Bot', label: 'Recommendation Bot', icon: TrendingUp },
         { id: 'Overs', label: 'Overs', icon: BarChart3 },
         { id: 'Table', label: 'Table', icon: BarChart3 }
     ];
@@ -233,8 +234,94 @@ export const MatchDetail = ({ matchId, onBack }: { matchId: string, onBack: () =
                                 </div>
                             </div>
                         )}
+
+                        {activeTab === 'Recommendation Bot' && <RecommendationBot matchId={matchId} />}
                     </motion.div>
                 </AnimatePresence>
+            </div>
+        </div>
+    );
+};
+
+const RecommendationBot = ({ matchId }: { matchId: string }) => {
+    const [messages, setMessages] = useState([
+        { role: 'bot', text: 'Hello! I am the CricAI Recommendation Bot. Ask me about PvP matchups, strategic rotations (batting/bowling), or tactical pressure avoidance for this match!' }
+    ]);
+    const [input, setInput] = useState('');
+    const [isLoading, setIsLoading] = useState(false);
+    const scrollRef = useRef<HTMLDivElement>(null);
+
+    const sendMessage = async () => {
+        if (!input.trim() || isLoading) return;
+        const newMsgs = [...messages, { role: 'user', text: input }];
+        setMessages(newMsgs);
+        setInput('');
+        setIsLoading(true);
+        try {
+            const res = await matchApi.chat(matchId, input);
+            setMessages([...newMsgs, { role: 'bot', text: res.data.answer }]);
+        } catch {
+            setMessages([...newMsgs, { role: 'bot', text: 'Strategy engine busy. Please try again.' }]);
+        } finally {
+            setIsLoading(false);
+        }
+    };
+
+    useEffect(() => { scrollRef.current?.scrollTo(0, scrollRef.current.scrollHeight); }, [messages]);
+
+    return (
+        <div className="flex flex-col h-[600px] max-w-[1000px] mx-auto">
+            <div className="p-8 pb-0 flex items-center gap-4">
+                <div className="p-3 bg-primary/10 rounded-2xl"><TrendingUp className="text-primary w-8 h-8" /></div>
+                <div>
+                    <h3 className="font-outfit font-black uppercase text-2xl tracking-tighter">Tactical Recommendation Bot</h3>
+                    <p className="text-[10px] font-bold text-text/40 tracking-widest uppercase mb-1">PvP · Strategy · Pressure Avoidance</p>
+                </div>
+            </div>
+
+            <div className="flex-1 overflow-y-auto p-8 space-y-6" ref={scrollRef}>
+                {messages.map((m, i) => (
+                    <motion.div
+                        initial={{ opacity: 0, y: 10 }}
+                        animate={{ opacity: 1, y: 0 }}
+                        key={i}
+                        className={`flex ${m.role === 'user' ? 'justify-end' : 'justify-start'}`}
+                    >
+                        <div className={`flex gap-3 max-w-[85%] ${m.role === 'user' ? 'flex-row-reverse' : ''}`}>
+                            <div className={`w-8 h-8 rounded-lg flex items-center justify-center border shrink-0 ${m.role === 'user' ? 'bg-primary border-primary' : 'bg-surface border-white/10'}`}>
+                                {m.role === 'user' ? <TrendingUp className="w-4 h-4 text-background" /> : <Bot className="w-4 h-4 text-primary" />}
+                            </div>
+                            <div className={`p-4 rounded-2xl text-sm leading-relaxed whitespace-pre-line ${m.role === 'user' ? 'bg-primary text-background font-medium shadow-neon' : 'bg-surface/80 border border-white/5 shadow-xl'}`}>
+                                {m.text}
+                            </div>
+                        </div>
+                    </motion.div>
+                ))}
+                {isLoading && (
+                    <div className="flex items-center gap-2 ml-11">
+                        <div className="w-1.5 h-1.5 bg-primary rounded-full animate-bounce" style={{ animationDelay: '0ms' }} />
+                        <div className="w-1.5 h-1.5 bg-primary rounded-full animate-bounce" style={{ animationDelay: '150ms' }} />
+                        <div className="w-1.5 h-1.5 bg-primary rounded-full animate-bounce" style={{ animationDelay: '300ms' }} />
+                        <span className="text-[10px] font-black uppercase tracking-widest text-primary/60 ml-2">Analyzing Tactics...</span>
+                    </div>
+                )}
+            </div>
+
+            <div className="p-6 bg-surface/40 border-t border-white/5 rounded-b-2xl mb-6 mx-8">
+                <div className="flex gap-4">
+                    <input
+                        value={input} onChange={e => setInput(e.target.value)} onKeyDown={e => e.key === 'Enter' && sendMessage()}
+                        placeholder="Ask about matchups, order rotation, or what to avoid..."
+                        className="flex-1 bg-background border border-white/10 rounded-xl px-4 py-3 text-sm font-medium focus:border-primary/50 outline-none transition-all placeholder:text-text/20"
+                    />
+                    <button
+                        onClick={sendMessage}
+                        disabled={isLoading}
+                        className="bg-primary text-background px-8 rounded-xl font-black uppercase text-xs shadow-neon hover:scale-105 active:scale-95 transition-all disabled:opacity-50 disabled:scale-100"
+                    >
+                        Ask AI
+                    </button>
+                </div>
             </div>
         </div>
     );

@@ -134,6 +134,7 @@ class PvPBotEngine:
         return {
             "match_id": match_id,
             "answer": answer,
+            "source": "pvp_recommendation_bot",
             "resolved": {"players": mentioned_players, "teams": mentioned_teams},
             "data_count": len(unique_matchups)
         }

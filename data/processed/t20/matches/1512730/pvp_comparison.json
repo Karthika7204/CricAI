@@ -1,0 +1,1647 @@
+{
+  "match_id": "1512730",
+  "team_a": "Pakistan",
+  "team_b": "United States of America",
+  "matchups": [
+    {
+      "bat": "Sahibzada Farhan",
+      "bat_t": "Pakistan",
+      "bowl": "Harmeet Singh",
+      "bowl_t": "United States of America",
+      "v": "batsman",
+      "h2h": {
+        "balls": 10,
+        "runs": 14,
+        "dismissals": 1,
+        "strike_rate": 140.0
+      },
+      "vs_t": {
+        "runs": 73,
+        "balls": 42,
+        "dismissals": 1,
+        "average": 73.0,
+        "strike_rate": 173.81
+      },
+      "w_car": {
+        "avg": 23.35,
+        "eco": 7.05
+      },
+      "b_f": [
+        63,
+        100,
+        0
+      ],
+      "w_f": [
+        0,
+        4,
+        1
+      ]
+    },
+    {
+      "bat": "MD Patel",
+      "bat_t": "United States of America",
+      "bowl": "Shadab Khan",
+      "bowl_t": "Pakistan",
+      "v": "bowler",
+      "h2h": {
+        "balls": 10,
+        "runs": 8,
+        "dismissals": 1,
+        "strike_rate": 80.0
+      },
+      "vs_t": {
+        "runs": 53,
+        "balls": 51,
+        "dismissals": 2,
+        "average": 26.5,
+        "strike_rate": 103.92
+      },
+      "b_car": {
+        "avg": 28.89,
+        "sr": 132.68
+      },
+      "b_f": [
+        52,
+        36,
+        3
+      ],
+      "w_f": [
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "bat": "Milind Kumar",
+      "bat_t": "United States of America",
+      "bowl": "Usman Tariq",
+      "bowl_t": "Pakistan",
+      "v": "neutral",
+      "h2h": {
+        "balls": 10,
+        "runs": 12,
+        "dismissals": 1,
+        "strike_rate": 120.0
+      },
+      "vs_t": {
+        "runs": 29,
+        "balls": 23,
+        "dismissals": 1,
+        "average": 29.0,
+        "strike_rate": 126.09
+      },
+      "b_car": {
+        "avg": 32.0,
+        "sr": 103.74
+      },
+      "b_f": [
+        28,
+        3,
+        29
+      ],
+      "w_f": [
+        2,
+        4,
+        1
+      ]
+    },
+    {
+      "bat": "Shayan Jahangir",
+      "bat_t": "United States of America",
+      "bowl": "Shadab Khan",
+      "bowl_t": "Pakistan",
+      "v": "batsman",
+      "h2h": {
+        "balls": 7,
+        "runs": 4,
+        "dismissals": 1,
+        "strike_rate": 57.14
+      },
+      "vs_t": {
+        "runs": 49,
+        "balls": 34,
+        "dismissals": 1,
+        "average": 49.0,
+        "strike_rate": 144.12
+      },
+      "b_car": {
+        "avg": 30.87,
+        "sr": 131.16
+      },
+      "b_f": [
+        22,
+        20,
+        49
+      ],
+      "w_f": [
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "bat": "Shubham Ranjane",
+      "bat_t": "United States of America",
+      "bowl": "Shaheen Shah Afridi",
+      "bowl_t": "Pakistan",
+      "v": "batsman",
+      "h2h": {
+        "balls": 7,
+        "runs": 18,
+        "dismissals": 1,
+        "strike_rate": 257.14
+      },
+      "vs_t": {
+        "runs": 51,
+        "balls": 32,
+        "dismissals": 1,
+        "average": 51.0,
+        "strike_rate": 159.38
+      },
+      "b_car": {
+        "avg": 70.5,
+        "sr": 171.95
+      },
+      "b_f": [
+        5,
+        48,
+        51
+      ],
+      "w_f": [
+        4,
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "Mohammad Nawaz",
+      "bat_t": "Pakistan",
+      "bowl": "SN Netravalkar",
+      "bowl_t": "United States of America",
+      "v": "neutral",
+      "h2h": {
+        "balls": 5,
+        "runs": 2,
+        "dismissals": 1,
+        "strike_rate": 40.0
+      },
+      "vs_t": {
+        "runs": 5,
+        "balls": 10,
+        "dismissals": 1,
+        "average": 5.0,
+        "strike_rate": 50.0
+      },
+      "w_car": {
+        "avg": 25.79,
+        "eco": 7.44
+      },
+      "b_f": [
+        0,
+        4,
+        5
+      ],
+      "w_f": [
+        1,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "AGS Gous",
+      "bat_t": "United States of America",
+      "bowl": "Mohammad Nawaz",
+      "bowl_t": "Pakistan",
+      "v": "bowler",
+      "h2h": {
+        "balls": 3,
+        "runs": 5,
+        "dismissals": 1,
+        "strike_rate": 166.67
+      },
+      "vs_t": {
+        "runs": 48,
+        "balls": 40,
+        "dismissals": 2,
+        "average": 24.0,
+        "strike_rate": 120.0
+      },
+      "b_car": {
+        "avg": 30.84,
+        "sr": 137.43
+      },
+      "b_f": [
+        13,
+        6
+      ],
+      "w_f": [
+        2,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "Harmeet Singh",
+      "bat_t": "United States of America",
+      "bowl": "Usman Tariq",
+      "bowl_t": "Pakistan",
+      "v": "neutral",
+      "h2h": {
+        "balls": 2,
+        "runs": 1,
+        "dismissals": 1,
+        "strike_rate": 50.0
+      },
+      "vs_t": {
+        "runs": 6,
+        "balls": 7,
+        "dismissals": 1,
+        "average": 6.0,
+        "strike_rate": 85.71
+      },
+      "b_car": {
+        "avg": 16.13,
+        "sr": 139.88
+      },
+      "b_f": [
+        1,
+        6,
+        0
+      ],
+      "w_f": [
+        2,
+        4,
+        1
+      ]
+    },
+    {
+      "bat": "SP Krishnamurthi",
+      "bat_t": "United States of America",
+      "bowl": "Abrar Ahmed",
+      "bowl_t": "Pakistan",
+      "v": "batsman",
+      "h2h": {
+        "balls": 2,
+        "runs": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 0,
+        "balls": 2,
+        "dismissals": 1,
+        "average": 0.0,
+        "strike_rate": 0.0
+      },
+      "b_car": {
+        "avg": 32.67,
+        "sr": 139.01
+      },
+      "b_f": [
+        68,
+        1,
+        0
+      ],
+      "w_f": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "Babar Azam",
+      "bat_t": "Pakistan",
+      "bowl": "Mohammad Mohsin",
+      "bowl_t": "United States of America",
+      "v": "bowler",
+      "h2h": {
+        "balls": 11,
+        "runs": 8,
+        "dismissals": 1,
+        "strike_rate": 72.73
+      },
+      "vs_t": {
+        "runs": 90,
+        "balls": 77,
+        "dismissals": 2,
+        "average": 45.0,
+        "strike_rate": 116.88
+      },
+      "b_f": [
+        25,
+        5,
+        46
+      ],
+      "w_f": [
+        0,
+        2,
+        1
+      ]
+    },
+    {
+      "bat": "Saim Ayub",
+      "bat_t": "Pakistan",
+      "bowl": "SC van Schalkwyk",
+      "bowl_t": "United States of America",
+      "v": "neutral",
+      "h2h": {
+        "balls": 7,
+        "runs": 6,
+        "dismissals": 1,
+        "strike_rate": 85.71
+      },
+      "vs_t": {
+        "runs": 19,
+        "balls": 17,
+        "dismissals": 1,
+        "average": 19.0,
+        "strike_rate": 111.76
+      },
+      "b_f": [
+        7,
+        14,
+        6
+      ],
+      "w_f": [
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "bat": "Babar Azam",
+      "bat_t": "Pakistan",
+      "bowl": "Harmeet Singh",
+      "bowl_t": "United States of America",
+      "v": "batsman",
+      "h2h": {
+        "balls": 26,
+        "runs": 41,
+        "dismissals": 0,
+        "strike_rate": 157.69
+      },
+      "vs_t": {
+        "runs": 90,
+        "balls": 77,
+        "dismissals": 2,
+        "average": 45.0,
+        "strike_rate": 116.88
+      },
+      "w_car": {
+        "avg": 23.35,
+        "eco": 7.05
+      },
+      "b_f": [
+        25,
+        5,
+        46
+      ],
+      "w_f": [
+        0,
+        4,
+        1
+      ]
+    },
+    {
+      "bat": "Agha Salman",
+      "bat_t": "Pakistan",
+      "bowl": "SC van Schalkwyk",
+      "bowl_t": "United States of America",
+      "v": "neutral",
+      "h2h": {
+        "balls": 3,
+        "runs": 1,
+        "dismissals": 1,
+        "strike_rate": 33.33
+      },
+      "vs_t": {
+        "runs": 1,
+        "balls": 3,
+        "dismissals": 1,
+        "average": 1.0,
+        "strike_rate": 33.33
+      },
+      "b_f": [
+        5,
+        38,
+        4
+      ],
+      "w_f": [
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "bat": "Shadab Khan",
+      "bat_t": "Pakistan",
+      "bowl": "SC van Schalkwyk",
+      "bowl_t": "United States of America",
+      "v": "batsman",
+      "h2h": {
+        "balls": 3,
+        "runs": 4,
+        "dismissals": 1,
+        "strike_rate": 133.33
+      },
+      "vs_t": {
+        "runs": 73,
+        "balls": 43,
+        "dismissals": 2,
+        "average": 36.5,
+        "strike_rate": 169.77
+      },
+      "b_f": [
+        23,
+        36,
+        14
+      ],
+      "w_f": [
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "bat": "Faheem Ashraf",
+      "bat_t": "Pakistan",
+      "bowl": "SC van Schalkwyk",
+      "bowl_t": "United States of America",
+      "v": "neutral",
+      "h2h": {
+        "balls": 2,
+        "runs": 1,
+        "dismissals": 1,
+        "strike_rate": 50.0
+      },
+      "vs_t": {
+        "runs": 1,
+        "balls": 2,
+        "dismissals": 1,
+        "average": 1.0,
+        "strike_rate": 50.0
+      },
+      "b_f": [
+        10,
+        1,
+        29
+      ],
+      "w_f": [
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "bat": "Mohammad Mohsin",
+      "bat_t": "United States of America",
+      "bowl": "Usman Tariq",
+      "bowl_t": "Pakistan",
+      "v": "neutral",
+      "h2h": {
+        "balls": 1,
+        "runs": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 0,
+        "balls": 1,
+        "dismissals": 1,
+        "average": 0.0,
+        "strike_rate": 0.0
+      },
+      "b_f": [
+        1,
+        0,
+        8
+      ],
+      "w_f": [
+        2,
+        4,
+        1
+      ]
+    },
+    {
+      "bat": "Shubham Ranjane",
+      "bat_t": "United States of America",
+      "bowl": "Usman Tariq",
+      "bowl_t": "Pakistan",
+      "v": "batsman",
+      "h2h": {
+        "balls": 13,
+        "runs": 11,
+        "dismissals": 0,
+        "strike_rate": 84.62
+      },
+      "vs_t": {
+        "runs": 51,
+        "balls": 32,
+        "dismissals": 1,
+        "average": 51.0,
+        "strike_rate": 159.38
+      },
+      "b_car": {
+        "avg": 70.5,
+        "sr": 171.95
+      },
+      "b_f": [
+        5,
+        48,
+        51
+      ],
+      "w_f": [
+        2,
+        4,
+        1
+      ]
+    },
+    {
+      "bat": "MD Patel",
+      "bat_t": "United States of America",
+      "bowl": "Shaheen Shah Afridi",
+      "bowl_t": "Pakistan",
+      "v": "batsman",
+      "h2h": {
+        "balls": 12,
+        "runs": 18,
+        "dismissals": 0,
+        "strike_rate": 150.0
+      },
+      "vs_t": {
+        "runs": 53,
+        "balls": 51,
+        "dismissals": 2,
+        "average": 26.5,
+        "strike_rate": 103.92
+      },
+      "b_car": {
+        "avg": 28.89,
+        "sr": 132.68
+      },
+      "b_f": [
+        52,
+        36,
+        3
+      ],
+      "w_f": [
+        4,
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "Babar Azam",
+      "bat_t": "Pakistan",
+      "bowl": "SN Netravalkar",
+      "bowl_t": "United States of America",
+      "v": "bowler",
+      "h2h": {
+        "balls": 11,
+        "runs": 3,
+        "dismissals": 0,
+        "strike_rate": 27.27
+      },
+      "vs_t": {
+        "runs": 90,
+        "balls": 77,
+        "dismissals": 2,
+        "average": 45.0,
+        "strike_rate": 116.88
+      },
+      "w_car": {
+        "avg": 25.79,
+        "eco": 7.44
+      },
+      "b_f": [
+        25,
+        5,
+        46
+      ],
+      "w_f": [
+        1,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "Shadab Khan",
+      "bat_t": "Pakistan",
+      "bowl": "Harmeet Singh",
+      "bowl_t": "United States of America",
+      "v": "batsman",
+      "h2h": {
+        "balls": 10,
+        "runs": 18,
+        "dismissals": 0,
+        "strike_rate": 180.0
+      },
+      "vs_t": {
+        "runs": 73,
+        "balls": 43,
+        "dismissals": 2,
+        "average": 36.5,
+        "strike_rate": 169.77
+      },
+      "w_car": {
+        "avg": 23.35,
+        "eco": 7.05
+      },
+      "b_f": [
+        23,
+        36,
+        14
+      ],
+      "w_f": [
+        0,
+        4,
+        1
+      ]
+    },
+    {
+      "bat": "Saim Ayub",
+      "bat_t": "Pakistan",
+      "bowl": "SN Netravalkar",
+      "bowl_t": "United States of America",
+      "v": "batsman",
+      "h2h": {
+        "balls": 10,
+        "runs": 13,
+        "dismissals": 0,
+        "strike_rate": 130.0
+      },
+      "vs_t": {
+        "runs": 19,
+        "balls": 17,
+        "dismissals": 1,
+        "average": 19.0,
+        "strike_rate": 111.76
+      },
+      "w_car": {
+        "avg": 25.79,
+        "eco": 7.44
+      },
+      "b_f": [
+        7,
+        14,
+        6
+      ],
+      "w_f": [
+        1,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "Shayan Jahangir",
+      "bat_t": "United States of America",
+      "bowl": "Mohammad Nawaz",
+      "bowl_t": "Pakistan",
+      "v": "batsman",
+      "h2h": {
+        "balls": 10,
+        "runs": 14,
+        "dismissals": 0,
+        "strike_rate": 140.0
+      },
+      "vs_t": {
+        "runs": 49,
+        "balls": 34,
+        "dismissals": 1,
+        "average": 49.0,
+        "strike_rate": 144.12
+      },
+      "b_car": {
+        "avg": 30.87,
+        "sr": 131.16
+      },
+      "b_f": [
+        22,
+        20,
+        49
+      ],
+      "w_f": [
+        2,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "Shadab Khan",
+      "bat_t": "Pakistan",
+      "bowl": "SN Netravalkar",
+      "bowl_t": "United States of America",
+      "v": "batsman",
+      "h2h": {
+        "balls": 9,
+        "runs": 13,
+        "dismissals": 0,
+        "strike_rate": 144.44
+      },
+      "vs_t": {
+        "runs": 73,
+        "balls": 43,
+        "dismissals": 2,
+        "average": 36.5,
+        "strike_rate": 169.77
+      },
+      "w_car": {
+        "avg": 25.79,
+        "eco": 7.44
+      },
+      "b_f": [
+        23,
+        36,
+        14
+      ],
+      "w_f": [
+        1,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "Shaheen Shah Afridi",
+      "bat_t": "Pakistan",
+      "bowl": "SN Netravalkar",
+      "bowl_t": "United States of America",
+      "v": "batsman",
+      "h2h": {
+        "balls": 7,
+        "runs": 17,
+        "dismissals": 0,
+        "strike_rate": 242.86
+      },
+      "vs_t": {
+        "runs": 32,
+        "balls": 21,
+        "dismissals": 0,
+        "average": 32.0,
+        "strike_rate": 152.38
+      },
+      "w_car": {
+        "avg": 25.79,
+        "eco": 7.44
+      },
+      "b_f": [
+        2,
+        23,
+        9
+      ],
+      "w_f": [
+        1,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "AGS Gous",
+      "bat_t": "United States of America",
+      "bowl": "Shadab Khan",
+      "bowl_t": "Pakistan",
+      "v": "bowler",
+      "h2h": {
+        "balls": 7,
+        "runs": 9,
+        "dismissals": 0,
+        "strike_rate": 128.57
+      },
+      "vs_t": {
+        "runs": 48,
+        "balls": 40,
+        "dismissals": 2,
+        "average": 24.0,
+        "strike_rate": 120.0
+      },
+      "b_car": {
+        "avg": 30.84,
+        "sr": 137.43
+      },
+      "b_f": [
+        13,
+        6
+      ],
+      "w_f": [
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "bat": "Shubham Ranjane",
+      "bat_t": "United States of America",
+      "bowl": "Shadab Khan",
+      "bowl_t": "Pakistan",
+      "v": "batsman",
+      "h2h": {
+        "balls": 7,
+        "runs": 14,
+        "dismissals": 0,
+        "strike_rate": 200.0
+      },
+      "vs_t": {
+        "runs": 51,
+        "balls": 32,
+        "dismissals": 1,
+        "average": 51.0,
+        "strike_rate": 159.38
+      },
+      "b_car": {
+        "avg": 70.5,
+        "sr": 171.95
+      },
+      "b_f": [
+        5,
+        48,
+        51
+      ],
+      "w_f": [
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "bat": "Milind Kumar",
+      "bat_t": "United States of America",
+      "bowl": "Shadab Khan",
+      "bowl_t": "Pakistan",
+      "v": "neutral",
+      "h2h": {
+        "balls": 7,
+        "runs": 5,
+        "dismissals": 0,
+        "strike_rate": 71.43
+      },
+      "vs_t": {
+        "runs": 29,
+        "balls": 23,
+        "dismissals": 1,
+        "average": 29.0,
+        "strike_rate": 126.09
+      },
+      "b_car": {
+        "avg": 32.0,
+        "sr": 103.74
+      },
+      "b_f": [
+        28,
+        3,
+        29
+      ],
+      "w_f": [
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "bat": "Sahibzada Farhan",
+      "bat_t": "Pakistan",
+      "bowl": "Milind Kumar",
+      "bowl_t": "United States of America",
+      "v": "batsman",
+      "h2h": {
+        "balls": 6,
+        "runs": 16,
+        "dismissals": 0,
+        "strike_rate": 266.67
+      },
+      "vs_t": {
+        "runs": 73,
+        "balls": 42,
+        "dismissals": 1,
+        "average": 73.0,
+        "strike_rate": 173.81
+      },
+      "w_car": {
+        "avg": 20.08,
+        "eco": 7.49
+      },
+      "b_f": [
+        63,
+        100,
+        0
+      ],
+      "w_f": [
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "Shayan Jahangir",
+      "bat_t": "United States of America",
+      "bowl": "Shaheen Shah Afridi",
+      "bowl_t": "Pakistan",
+      "v": "batsman",
+      "h2h": {
+        "balls": 6,
+        "runs": 11,
+        "dismissals": 0,
+        "strike_rate": 183.33
+      },
+      "vs_t": {
+        "runs": 49,
+        "balls": 34,
+        "dismissals": 1,
+        "average": 49.0,
+        "strike_rate": 144.12
+      },
+      "b_car": {
+        "avg": 30.87,
+        "sr": 131.16
+      },
+      "b_f": [
+        22,
+        20,
+        49
+      ],
+      "w_f": [
+        4,
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "Shayan Jahangir",
+      "bat_t": "United States of America",
+      "bowl": "Abrar Ahmed",
+      "bowl_t": "Pakistan",
+      "v": "batsman",
+      "h2h": {
+        "balls": 6,
+        "runs": 10,
+        "dismissals": 0,
+        "strike_rate": 166.67
+      },
+      "vs_t": {
+        "runs": 49,
+        "balls": 34,
+        "dismissals": 1,
+        "average": 49.0,
+        "strike_rate": 144.12
+      },
+      "b_car": {
+        "avg": 30.87,
+        "sr": 131.16
+      },
+      "b_f": [
+        22,
+        20,
+        49
+      ],
+      "w_f": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "AGS Gous",
+      "bat_t": "United States of America",
+      "bowl": "Shaheen Shah Afridi",
+      "bowl_t": "Pakistan",
+      "v": "bowler",
+      "h2h": {
+        "balls": 6,
+        "runs": 6,
+        "dismissals": 0,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 48,
+        "balls": 40,
+        "dismissals": 2,
+        "average": 24.0,
+        "strike_rate": 120.0
+      },
+      "b_car": {
+        "avg": 30.84,
+        "sr": 137.43
+      },
+      "b_f": [
+        13,
+        6
+      ],
+      "w_f": [
+        4,
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "Shayan Jahangir",
+      "bat_t": "United States of America",
+      "bowl": "Saim Ayub",
+      "bowl_t": "Pakistan",
+      "v": "batsman",
+      "h2h": {
+        "balls": 5,
+        "runs": 10,
+        "dismissals": 0,
+        "strike_rate": 200.0
+      },
+      "vs_t": {
+        "runs": 49,
+        "balls": 34,
+        "dismissals": 1,
+        "average": 49.0,
+        "strike_rate": 144.12
+      },
+      "b_car": {
+        "avg": 30.87,
+        "sr": 131.16
+      },
+      "b_f": [
+        22,
+        20,
+        49
+      ],
+      "w_f": [
+        0,
+        0,
+        3
+      ]
+    },
+    {
+      "bat": "Shubham Ranjane",
+      "bat_t": "United States of America",
+      "bowl": "Abrar Ahmed",
+      "bowl_t": "Pakistan",
+      "v": "batsman",
+      "h2h": {
+        "balls": 5,
+        "runs": 8,
+        "dismissals": 0,
+        "strike_rate": 160.0
+      },
+      "vs_t": {
+        "runs": 51,
+        "balls": 32,
+        "dismissals": 1,
+        "average": 51.0,
+        "strike_rate": 159.38
+      },
+      "b_car": {
+        "avg": 70.5,
+        "sr": 171.95
+      },
+      "b_f": [
+        5,
+        48,
+        51
+      ],
+      "w_f": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "Milind Kumar",
+      "bat_t": "United States of America",
+      "bowl": "Abrar Ahmed",
+      "bowl_t": "Pakistan",
+      "v": "neutral",
+      "h2h": {
+        "balls": 4,
+        "runs": 10,
+        "dismissals": 0,
+        "strike_rate": 250.0
+      },
+      "vs_t": {
+        "runs": 29,
+        "balls": 23,
+        "dismissals": 1,
+        "average": 29.0,
+        "strike_rate": 126.09
+      },
+      "b_car": {
+        "avg": 32.0,
+        "sr": 103.74
+      },
+      "b_f": [
+        28,
+        3,
+        29
+      ],
+      "w_f": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "AGS Gous",
+      "bat_t": "United States of America",
+      "bowl": "Abrar Ahmed",
+      "bowl_t": "Pakistan",
+      "v": "bowler",
+      "h2h": {
+        "balls": 3,
+        "runs": 1,
+        "dismissals": 0,
+        "strike_rate": 33.33
+      },
+      "vs_t": {
+        "runs": 48,
+        "balls": 40,
+        "dismissals": 2,
+        "average": 24.0,
+        "strike_rate": 120.0
+      },
+      "b_car": {
+        "avg": 30.84,
+        "sr": 137.43
+      },
+      "b_f": [
+        13,
+        6
+      ],
+      "w_f": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "MD Patel",
+      "bat_t": "United States of America",
+      "bowl": "Mohammad Nawaz",
+      "bowl_t": "Pakistan",
+      "v": "bowler",
+      "h2h": {
+        "balls": 3,
+        "runs": 0,
+        "dismissals": 0,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 53,
+        "balls": 51,
+        "dismissals": 2,
+        "average": 26.5,
+        "strike_rate": 103.92
+      },
+      "b_car": {
+        "avg": 28.89,
+        "sr": 132.68
+      },
+      "b_f": [
+        52,
+        36,
+        3
+      ],
+      "w_f": [
+        2,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "MD Patel",
+      "bat_t": "United States of America",
+      "bowl": "Abrar Ahmed",
+      "bowl_t": "Pakistan",
+      "v": "bowler",
+      "h2h": {
+        "balls": 3,
+        "runs": 1,
+        "dismissals": 0,
+        "strike_rate": 33.33
+      },
+      "vs_t": {
+        "runs": 53,
+        "balls": 51,
+        "dismissals": 2,
+        "average": 26.5,
+        "strike_rate": 103.92
+      },
+      "b_car": {
+        "avg": 28.89,
+        "sr": 132.68
+      },
+      "b_f": [
+        52,
+        36,
+        3
+      ],
+      "w_f": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "Usman Khan",
+      "bat_t": "Pakistan",
+      "bowl": "SN Netravalkar",
+      "bowl_t": "United States of America",
+      "v": "neutral",
+      "h2h": {
+        "balls": 2,
+        "runs": 3,
+        "dismissals": 0,
+        "strike_rate": 150.0
+      },
+      "vs_t": {
+        "runs": 3,
+        "balls": 4,
+        "dismissals": 1,
+        "average": 3.0,
+        "strike_rate": 75.0
+      },
+      "w_car": {
+        "avg": 25.79,
+        "eco": 7.44
+      },
+      "b_f": [
+        8,
+        44,
+        0
+      ],
+      "w_f": [
+        1,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "Sahibzada Farhan",
+      "bat_t": "Pakistan",
+      "bowl": "SN Netravalkar",
+      "bowl_t": "United States of America",
+      "v": "batsman",
+      "h2h": {
+        "balls": 2,
+        "runs": 6,
+        "dismissals": 0,
+        "strike_rate": 300.0
+      },
+      "vs_t": {
+        "runs": 73,
+        "balls": 42,
+        "dismissals": 1,
+        "average": 73.0,
+        "strike_rate": 173.81
+      },
+      "w_car": {
+        "avg": 25.79,
+        "eco": 7.44
+      },
+      "b_f": [
+        63,
+        100,
+        0
+      ],
+      "w_f": [
+        1,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "Harmeet Singh",
+      "bat_t": "United States of America",
+      "bowl": "Shaheen Shah Afridi",
+      "bowl_t": "Pakistan",
+      "v": "neutral",
+      "h2h": {
+        "balls": 2,
+        "runs": 5,
+        "dismissals": 0,
+        "strike_rate": 250.0
+      },
+      "vs_t": {
+        "runs": 6,
+        "balls": 7,
+        "dismissals": 1,
+        "average": 6.0,
+        "strike_rate": 85.71
+      },
+      "b_car": {
+        "avg": 16.13,
+        "sr": 139.88
+      },
+      "b_f": [
+        1,
+        6,
+        0
+      ],
+      "w_f": [
+        4,
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "Milind Kumar",
+      "bat_t": "United States of America",
+      "bowl": "Mohammad Nawaz",
+      "bowl_t": "Pakistan",
+      "v": "neutral",
+      "h2h": {
+        "balls": 2,
+        "runs": 2,
+        "dismissals": 0,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 29,
+        "balls": 23,
+        "dismissals": 1,
+        "average": 29.0,
+        "strike_rate": 126.09
+      },
+      "b_car": {
+        "avg": 32.0,
+        "sr": 103.74
+      },
+      "b_f": [
+        28,
+        3,
+        29
+      ],
+      "w_f": [
+        2,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "Mohammad Nawaz",
+      "bat_t": "Pakistan",
+      "bowl": "Harmeet Singh",
+      "bowl_t": "United States of America",
+      "v": "bowler",
+      "h2h": {
+        "balls": 1,
+        "runs": 1,
+        "dismissals": 0,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 5,
+        "balls": 10,
+        "dismissals": 1,
+        "average": 5.0,
+        "strike_rate": 50.0
+      },
+      "w_car": {
+        "avg": 23.35,
+        "eco": 7.05
+      },
+      "b_f": [
+        0,
+        4,
+        5
+      ],
+      "w_f": [
+        0,
+        4,
+        1
+      ]
+    },
+    {
+      "bat": "Sahibzada Farhan",
+      "bat_t": "Pakistan",
+      "bowl": "Mohammad Mohsin",
+      "bowl_t": "United States of America",
+      "v": "batsman",
+      "h2h": {
+        "balls": 11,
+        "runs": 19,
+        "dismissals": 0,
+        "strike_rate": 172.73
+      },
+      "vs_t": {
+        "runs": 73,
+        "balls": 42,
+        "dismissals": 1,
+        "average": 73.0,
+        "strike_rate": 173.81
+      },
+      "b_f": [
+        63,
+        100,
+        0
+      ],
+      "w_f": [
+        0,
+        2,
+        1
+      ]
+    },
+    {
+      "bat": "Harmeet Singh",
+      "bat_t": "United States of America",
+      "bowl": "Abrar Ahmed",
+      "bowl_t": "Pakistan",
+      "v": "neutral",
+      "h2h": {
+        "balls": 1,
+        "runs": 0,
+        "dismissals": 0,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 6,
+        "balls": 7,
+        "dismissals": 1,
+        "average": 6.0,
+        "strike_rate": 85.71
+      },
+      "b_car": {
+        "avg": 16.13,
+        "sr": 139.88
+      },
+      "b_f": [
+        1,
+        6,
+        0
+      ],
+      "w_f": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "AGS Gous",
+      "bat_t": "United States of America",
+      "bowl": "Saim Ayub",
+      "bowl_t": "Pakistan",
+      "v": "bowler",
+      "h2h": {
+        "balls": 1,
+        "runs": 1,
+        "dismissals": 0,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 48,
+        "balls": 40,
+        "dismissals": 2,
+        "average": 24.0,
+        "strike_rate": 120.0
+      },
+      "b_car": {
+        "avg": 30.84,
+        "sr": 137.43
+      },
+      "b_f": [
+        13,
+        6
+      ],
+      "w_f": [
+        0,
+        0,
+        3
+      ]
+    },
+    {
+      "bat": "SC van Schalkwyk",
+      "bat_t": "United States of America",
+      "bowl": "Shaheen Shah Afridi",
+      "bowl_t": "Pakistan",
+      "v": "neutral",
+      "h2h": {
+        "balls": 1,
+        "runs": 1,
+        "dismissals": 0,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 1,
+        "balls": 2,
+        "dismissals": 0,
+        "average": 1.0,
+        "strike_rate": 50.0
+      },
+      "b_car": {
+        "avg": 21.4,
+        "sr": 109.18
+      },
+      "b_f": [
+        1,
+        2
+      ],
+      "w_f": [
+        4,
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "SC van Schalkwyk",
+      "bat_t": "United States of America",
+      "bowl": "Usman Tariq",
+      "bowl_t": "Pakistan",
+      "v": "neutral",
+      "h2h": {
+        "balls": 1,
+        "runs": 0,
+        "dismissals": 0,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 1,
+        "balls": 2,
+        "dismissals": 0,
+        "average": 1.0,
+        "strike_rate": 50.0
+      },
+      "b_car": {
+        "avg": 21.4,
+        "sr": 109.18
+      },
+      "b_f": [
+        1,
+        2
+      ],
+      "w_f": [
+        2,
+        4,
+        1
+      ]
+    },
+    {
+      "bat": "Babar Azam",
+      "bat_t": "Pakistan",
+      "bowl": "Shubham Ranjane",
+      "bowl_t": "United States of America",
+      "v": "bowler",
+      "vs_t": {
+        "runs": 90,
+        "balls": 77,
+        "dismissals": 2,
+        "average": 45.0,
+        "strike_rate": 116.88
+      },
+      "w_car": {
+        "avg": 26.0,
+        "eco": 6.5
+      },
+      "b_f": [
+        25,
+        5,
+        46
+      ],
+      "w_f": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "Babar Azam",
+      "bat_t": "Pakistan",
+      "bowl": "SP Krishnamurthi",
+      "bowl_t": "United States of America",
+      "v": "bowler",
+      "vs_t": {
+        "runs": 90,
+        "balls": 77,
+        "dismissals": 2,
+        "average": 45.0,
+        "strike_rate": 116.88
+      },
+      "w_car": {
+        "avg": 10.5,
+        "eco": 4.2
+      },
+      "b_f": [
+        25,
+        5,
+        46
+      ]
+    },
+    {
+      "bat": "Babar Azam",
+      "bat_t": "Pakistan",
+      "bowl": "Milind Kumar",
+      "bowl_t": "United States of America",
+      "v": "bowler",
+      "vs_t": {
+        "runs": 90,
+        "balls": 77,
+        "dismissals": 2,
+        "average": 45.0,
+        "strike_rate": 116.88
+      },
+      "w_car": {
+        "avg": 20.08,
+        "eco": 7.49
+      },
+      "b_f": [
+        25,
+        5,
+        46
+      ],
+      "w_f": [
+        0,
+        0
+      ]
+    }
+  ]
+}

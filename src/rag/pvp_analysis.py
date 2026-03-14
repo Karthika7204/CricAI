@@ -71,7 +71,7 @@ if __name__ == "__main__":
     mid   = sys.argv[1]
     force = "--force" in sys.argv
 
-    print(f"\n── Running PvP Comparison for Match {mid} ──\n")
+    print(f"\n--- Running PvP Comparison for Match {mid} ---\n")
     result = get_pvp_comparison(mid, force_refresh=force)
 
     if "error" in result:
@@ -79,23 +79,25 @@ if __name__ == "__main__":
         sys.exit(1)
 
     print(f"Teams: {result['team_a']} vs {result['team_b']}")
-    print(f"Total matchups computed: {result['total_matchups']}\n")
+    print(f"Total matchups computed: {len(result.get('matchups', []))}\n")
 
     # Print top 10 most interesting matchups (those where H2H exists)
-    h2h_matchups = [m for m in result["key_matchups"] if m["h2h"]["found"]]
-    other_matchups = [m for m in result["key_matchups"] if not m["h2h"]["found"]]
+    matchups = result.get("matchups", [])
+    h2h_matchups = [m for m in matchups if "h2h" in m]
+    other_matchups = [m for m in matchups if "h2h" not in m]
 
-    print(f"── {len(h2h_matchups)} matchups with H2H history ──")
+    print(f"--- {len(h2h_matchups)} matchups with H2H history ---")
     for m in h2h_matchups[:10]:
-        v = m["verdict"]
+        h = m["h2h"]
+        v = m["v"]
         print(
-            f"  {m['batsman']:20s} vs {m['bowler']:20s}  |  "
-            f"H2H: {m['h2h']['runs']}r/{m['h2h']['balls']}b/"
-            f"{m['h2h']['dismissals']}d  SR:{m['h2h']['strike_rate']}  "
-            f"→ Edge: {v['winner'].upper()}"
+            f"  {m['bat']:20s} vs {m['bowl']:20s}  |  "
+            f"H2H: {h['runs']}r/{h['balls']}b/"
+            f"{h['dismissals']}d  SR:{h['strike_rate']}  "
+            f"-> Edge: {v.upper()}"
         )
 
-    print(f"\n── {len(other_matchups)} matchups without H2H (career/team data used) ──")
+    print(f"\n--- {len(other_matchups)} matchups without H2H (career/team data used) ---")
     for m in other_matchups[:5]:
-        v = m["verdict"]
-        print(f"  {m['batsman']:20s} vs {m['bowler']:20s}  →  {v['winner'].upper()}")
+        v = m["v"]
+        print(f"  {m['bat']:20s} vs {m['bowl']:20s}  ->  {v.upper()}")

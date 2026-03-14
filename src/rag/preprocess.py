@@ -66,7 +66,7 @@ def run_preprocessing(match_id, data_dir="d:/CricAI/data"):
     with open(match_folder / "metadata.pkl", 'wb') as f:
         pickle.dump(fast_meta, f)
 
-    print(f"✅ V5 Indexing Complete for Match {match_id}")
+    print(f"DONE: V5 Indexing Complete for Match {match_id}")
     print(f"   Chunks: {len(chunks_with_tags)}")
 
 if __name__ == "__main__":
