@@ -1,0 +1,92 @@
+{
+    "match_id": "1512752",
+    "winner": "South Africa",
+    "loser": "United Arab Emirates",
+    "awards": {
+        "player_of_the_match": {
+            "name": "C Bosch",
+            "team": "South Africa",
+            "impact_score": 141.0,
+            "breakdown": {
+                "batting": 0.0,
+                "bowling": 120,
+                "fielding": 21,
+                "pressure_multiplier": 1.0
+            },
+            "key_stats": {
+                "bowling": "4.0ov-3wkt econ:3.25"
+            }
+        },
+        "best_batter": {
+            "name": "RD Rickelton",
+            "team": "South Africa",
+            "batting_impact": 73.0,
+            "stats": {
+                "runs": 30,
+                "balls": 16,
+                "sr": 187.5,
+                "fours": 3,
+                "sixes": 2
+            }
+        },
+        "best_bowler": {
+            "name": "C Bosch",
+            "team": "South Africa",
+            "bowling_impact": 120,
+            "stats": {
+                "overs": 4.0,
+                "wickets": 3,
+                "econ": 3.25
+            }
+        },
+        "game_changer": {
+            "name": "C Bosch",
+            "team": "South Africa",
+            "reason": "3-wicket haul | Exceptional economy 3.25",
+            "key_stats": {
+                "bowling": "4.0ov-3wkt econ:3.25"
+            }
+        },
+        "pressure_performer": {
+            "name": "C Bosch",
+            "team": "South Africa",
+            "pressure_multiplier": 1.0,
+            "reason": "Chasing team contributor | Economy 3.25 while defending chase",
+            "key_stats": {
+                "bowling": "4.0ov-3wkt econ:3.25"
+            }
+        },
+        "emerging_player": {
+            "name": "C Bosch",
+            "team": "South Africa",
+            "reason": "Outperformed team average by 2.8x",
+            "key_stats": {
+                "bowling": "4.0ov-3wkt econ:3.25"
+            }
+        },
+        "fielding_impact": {
+            "name": "C Bosch",
+            "team": "South Africa",
+            "fielding_proxy_score": 21,
+            "methodology": "Proxy-based: catch attribution (65% T20 wickets are catches) + dot ball pressure bonus + economy-implied fielding support",
+            "reason": "Estimated 2 caught dismissals from 3 wickets | Economy 3.25 — tight fielding support implied",
+            "stats": {
+                "overs": 4.0,
+                "wickets": 3,
+                "econ": 3.25
+            }
+        },
+        "all_rounder_impact": {
+            "name": "Muhammad Arfan",
+            "team": "United Arab Emirates",
+            "all_rounder_score": 26.0,
+            "stats": {
+                "runs": 11,
+                "sr": 57.89,
+                "overs": 2.0,
+                "wickets": 1,
+                "econ": 8.0
+            }
+        }
+    }
+}

@@ -1,0 +1,96 @@
+{
+    "match_id": "1512760",
+    "winner": "England",
+    "loser": "Sri Lanka",
+    "awards": {
+        "player_of_the_match": {
+            "name": "WG Jacks",
+            "team": "England",
+            "impact_score": 175.0,
+            "breakdown": {
+                "batting": 34.0,
+                "bowling": 120,
+                "fielding": 21,
+                "pressure_multiplier": 1.0
+            },
+            "key_stats": {
+                "batting": "21(15) SR:140.0",
+                "bowling": "4.0ov-3wkt econ:5.5"
+            }
+        },
+        "best_batter": {
+            "name": "PD Salt",
+            "team": "England",
+            "batting_impact": 96.0,
+            "stats": {
+                "runs": 62,
+                "balls": 41,
+                "sr": 151.22,
+                "fours": 6,
+                "sixes": 2
+            }
+        },
+        "best_bowler": {
+            "name": "WG Jacks",
+            "team": "England",
+            "bowling_impact": 120,
+            "stats": {
+                "overs": 4.0,
+                "wickets": 3,
+                "econ": 5.5
+            }
+        },
+        "game_changer": {
+            "name": "WG Jacks",
+            "team": "England",
+            "reason": "3-wicket haul",
+            "key_stats": {
+                "batting": "21(15) SR:140.0",
+                "bowling": "4.0ov-3wkt econ:5.5"
+            }
+        },
+        "pressure_performer": {
+            "name": "DN Wellalage",
+            "team": "Sri Lanka",
+            "pressure_multiplier": 1.2,
+            "reason": "Chasing team batter under pressure | Economy 6.5 while defending chase",
+            "key_stats": {
+                "batting": "10(10) SR:100.0",
+                "bowling": "4.0ov-3wkt econ:6.5"
+            }
+        },
+        "emerging_player": {
+            "name": "WG Jacks",
+            "team": "England",
+            "reason": "Outperformed team average by 2.94x",
+            "key_stats": {
+                "batting": "21(15) SR:140.0",
+                "bowling": "4.0ov-3wkt econ:5.5"
+            }
+        },
+        "fielding_impact": {
+            "name": "WG Jacks",
+            "team": "England",
+            "fielding_proxy_score": 21,
+            "methodology": "Proxy-based: catch attribution (65% T20 wickets are catches) + dot ball pressure bonus + economy-implied fielding support",
+            "reason": "Estimated 2 caught dismissals from 3 wickets | Economy 5.5 — tight fielding support implied",
+            "stats": {
+                "overs": 4.0,
+                "wickets": 3,
+                "econ": 5.5
+            }
+        },
+        "all_rounder_impact": {
+            "name": "WG Jacks",
+            "team": "England",
+            "all_rounder_score": 154.0,
+            "stats": {
+                "runs": 21,
+                "sr": 140.0,
+                "overs": 4.0,
+                "wickets": 3,
+                "econ": 5.5
+            }
+        }
+    }
+}

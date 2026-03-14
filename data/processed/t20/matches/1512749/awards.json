@@ -1,0 +1,92 @@
+{
+    "match_id": "1512749",
+    "winner": "New Zealand",
+    "loser": "Canada",
+    "awards": {
+        "player_of_the_match": {
+            "name": "YS Samra",
+            "team": "Canada",
+            "impact_score": 178.0,
+            "breakdown": {
+                "batting": 178.0,
+                "bowling": 0.0,
+                "fielding": 0.0,
+                "pressure_multiplier": 1.0
+            },
+            "key_stats": {
+                "batting": "110(67) SR:164.18"
+            }
+        },
+        "best_batter": {
+            "name": "YS Samra",
+            "team": "Canada",
+            "batting_impact": 178.0,
+            "stats": {
+                "runs": 110,
+                "balls": 67,
+                "sr": 164.18,
+                "fours": 11,
+                "sixes": 6
+            }
+        },
+        "best_bowler": {
+            "name": "MJ Henry",
+            "team": "New Zealand",
+            "bowling_impact": 50,
+            "stats": {
+                "overs": 4.0,
+                "wickets": 1,
+                "econ": 7.0
+            }
+        },
+        "game_changer": {
+            "name": "YS Samra",
+            "team": "Canada",
+            "reason": "SR 164.18 with 6 sixes",
+            "key_stats": {
+                "batting": "110(67) SR:164.18"
+            }
+        },
+        "pressure_performer": {
+            "name": "YS Samra",
+            "team": "Canada",
+            "pressure_multiplier": 1.0,
+            "reason": "Attacking SR 164.18 under pressure",
+            "key_stats": {
+                "batting": "110(67) SR:164.18"
+            }
+        },
+        "emerging_player": {
+            "name": "YS Samra",
+            "team": "Canada",
+            "reason": "Outperformed team average by 5.87x",
+            "key_stats": {
+                "batting": "110(67) SR:164.18"
+            }
+        },
+        "fielding_impact": {
+            "name": "MJ Henry",
+            "team": "New Zealand",
+            "fielding_proxy_score": 8,
+            "methodology": "Proxy-based: catch attribution (65% T20 wickets are catches) + dot ball pressure bonus + economy-implied fielding support",
+            "reason": "Best fielding contribution proxy",
+            "stats": {
+                "overs": 4.0,
+                "wickets": 1,
+                "econ": 7.0
+            }
+        },
+        "all_rounder_impact": {
+            "name": "D Heyliger",
+            "team": "Canada",
+            "all_rounder_score": 39.0,
+            "stats": {
+                "runs": 8,
+                "sr": 266.67,
+                "overs": 4.0,
+                "wickets": 1,
+                "econ": 10.5
+            }
+        }
+    }
+}

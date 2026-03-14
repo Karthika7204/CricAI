@@ -1,0 +1,1132 @@
+{
+    "match_id": "1512725",
+    "metadata": {
+        "tournament": "2025/26",
+        "venue": "Eden Gardens, Kolkata",
+        "date": "2026-02-09",
+        "stage": "ICC Men's T20 World Cup",
+        "winner": "Scotland",
+        "loser": "Italy",
+        "win_classification": "Moderate",
+        "margin_runs": 73,
+        "margin_wickets": null,
+        "competitiveness_index": 85.0,
+        "teams": {
+            "Scotland": {
+                "captain": "RD Berrington",
+                "playing_xi_count": 10
+            },
+            "Italy": {
+                "captain": "BAD Manenti",
+                "playing_xi_count": 10
+            }
+        },
+        "team_summary": {
+            "Scotland": {
+                "run_rate": 10.35,
+                "fours": 18,
+                "sixes": 10,
+                "boundary_runs": 132,
+                "dot_balls": 38,
+                "total_runs": 207,
+                "total_wickets": 4
+            },
+            "Italy": {
+                "run_rate": 8.04,
+                "fours": 9,
+                "sixes": 7,
+                "boundary_runs": 78,
+                "dot_balls": 41,
+                "total_runs": 134,
+                "total_wickets": 9
+            }
+        },
+        "formulas": {
+            "competitiveness": "Base(Margin) + Pressure_Bonus(L5 Overs)",
+            "pressure": "((RR_Gap / Start_RR) * 40) + ((Wickets / 10) * 60)",
+            "batting_impact": "Runs + (SR/Match_SR * 25)",
+            "bowling_impact": "(Wickets * 30) + (Match_RR/Econ * 20)"
+        }
+    },
+    "scorecards": {
+        "batting": [
+            {
+                "player": "HG Munsey",
+                "team": "Scotland",
+                "runs": 84,
+                "balls": 58,
+                "sr": 144.83,
+                "fours": 13,
+                "sixes": 2,
+                "win_contribution_percent": 40.6,
+                "score": 109.16
+            },
+            {
+                "player": "BJ McMullen",
+                "team": "Scotland",
+                "runs": 41,
+                "balls": 20,
+                "sr": 205.0,
+                "fours": 0,
+                "sixes": 4,
+                "win_contribution_percent": 19.8,
+                "score": 76.61
+            },
+            {
+                "player": "MA Jones",
+                "team": "Scotland",
+                "runs": 37,
+                "balls": 31,
+                "sr": 119.35,
+                "fours": 1,
+                "sixes": 2,
+                "win_contribution_percent": 17.9,
+                "score": 57.73
+            },
+            {
+                "player": "MA Leask",
+                "team": "Scotland",
+                "runs": 22,
+                "balls": 5,
+                "sr": 440.0,
+                "fours": 2,
+                "sixes": 2,
+                "win_contribution_percent": 10.6,
+                "score": 98.44
+            },
+            {
+                "player": "RD Berrington",
+                "team": "Scotland",
+                "runs": 15,
+                "balls": 11,
+                "sr": 136.36,
+                "fours": 2,
+                "sixes": 0,
+                "win_contribution_percent": 7.2,
+                "score": 38.69
+            },
+            {
+                "player": "TC Bruce",
+                "team": "Scotland",
+                "runs": 1,
+                "balls": 2,
+                "sr": 50.0,
+                "fours": 0,
+                "sixes": 0,
+                "win_contribution_percent": 0.5,
+                "score": 9.69
+            },
+            {
+                "player": "BAD Manenti",
+                "team": "Italy",
+                "runs": 52,
+                "balls": 31,
+                "sr": 167.74,
+                "fours": 5,
+                "sixes": 1,
+                "win_contribution_percent": 38.8,
+                "score": 81.14
+            },
+            {
+                "player": "HJ Manenti",
+                "team": "Italy",
+                "runs": 37,
+                "balls": 26,
+                "sr": 142.31,
+                "fours": 1,
+                "sixes": 3,
+                "win_contribution_percent": 27.6,
+                "score": 61.72
+            },
+            {
+                "player": "JT Smuts",
+                "team": "Italy",
+                "runs": 22,
+                "balls": 12,
+                "sr": 183.33,
+                "fours": 2,
+                "sixes": 2,
+                "win_contribution_percent": 16.4,
+                "score": 53.85
+            },
+            {
+                "player": "AJ Mosca",
+                "team": "Italy",
+                "runs": 13,
+                "balls": 12,
+                "sr": 108.33,
+                "fours": 1,
+                "sixes": 1,
+                "win_contribution_percent": 9.7,
+                "score": 31.82
+            },
+            {
+                "player": "CJPF Kalugamage",
+                "team": "Italy",
+                "runs": 3,
+                "balls": 6,
+                "sr": 50.0,
+                "fours": 0,
+                "sixes": 0,
+                "win_contribution_percent": 2.2,
+                "score": 11.69
+            },
+            {
+                "player": "G Stewart",
+                "team": "Italy",
+                "runs": 2,
+                "balls": 6,
+                "sr": 33.33,
+                "fours": 0,
+                "sixes": 0,
+                "win_contribution_percent": 1.5,
+                "score": 7.79
+            },
+            {
+                "player": "TJ Draca",
+                "team": "Italy",
+                "runs": 2,
+                "balls": 5,
+                "sr": 40.0,
+                "fours": 0,
+                "sixes": 0,
+                "win_contribution_percent": 1.5,
+                "score": 8.95
+            },
+            {
+                "player": "Ali Hasan",
+                "team": "Italy",
+                "runs": 0,
+                "balls": 2,
+                "sr": 0.0,
+                "fours": 0,
+                "sixes": 0,
+                "win_contribution_percent": 0.0,
+                "score": 0.0
+            },
+            {
+                "player": "GP Meade",
+                "team": "Italy",
+                "runs": 0,
+                "balls": 2,
+                "sr": 0.0,
+                "fours": 0,
+                "sixes": 0,
+                "win_contribution_percent": 0.0,
+                "score": 0.0
+            },
+            {
+                "player": "J Mosca",
+                "team": "Italy",
+                "runs": 0,
+                "balls": 1,
+                "sr": 0.0,
+                "fours": 0,
+                "sixes": 0,
+                "win_contribution_percent": 0.0,
+                "score": 0.0
+            }
+        ],
+        "bowling": [
+            {
+                "player": "Ali Hasan",
+                "team": "Italy",
+                "overs": 4.0,
+                "runs": 21,
+                "wickets": 1,
+                "econ": 5.25,
+                "score": 63.89,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "JT Smuts",
+                "team": "Italy",
+                "overs": 4.0,
+                "runs": 38,
+                "wickets": 1,
+                "econ": 9.5,
+                "score": 48.73,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "G Stewart",
+                "team": "Italy",
+                "overs": 4.0,
+                "runs": 44,
+                "wickets": 1,
+                "econ": 11.0,
+                "score": 46.17,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "TJ Draca",
+                "team": "Italy",
+                "overs": 2.0,
+                "runs": 37,
+                "wickets": 1,
+                "econ": 18.5,
+                "score": 39.62,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "BAD Manenti",
+                "team": "Italy",
+                "overs": 2.0,
+                "runs": 20,
+                "wickets": 0,
+                "econ": 10.0,
+                "score": 17.79,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "CJPF Kalugamage",
+                "team": "Italy",
+                "overs": 3.0,
+                "runs": 32,
+                "wickets": 0,
+                "econ": 10.67,
+                "score": 16.67,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "HJ Manenti",
+                "team": "Italy",
+                "overs": 1.0,
+                "runs": 15,
+                "wickets": 0,
+                "econ": 15.0,
+                "score": 11.86,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "MA Leask",
+                "team": "Scotland",
+                "overs": 4.0,
+                "runs": 17,
+                "wickets": 4,
+                "econ": 4.25,
+                "score": 150.0,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "MRJ Watt",
+                "team": "Scotland",
+                "overs": 4.0,
+                "runs": 24,
+                "wickets": 2,
+                "econ": 6.0,
+                "score": 89.65,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "BJ Currie",
+                "team": "Scotland",
+                "overs": 2.0,
+                "runs": 12,
+                "wickets": 1,
+                "econ": 6.0,
+                "score": 59.65,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "BTJ Wheal",
+                "team": "Scotland",
+                "overs": 2.4,
+                "runs": 29,
+                "wickets": 1,
+                "econ": 10.88,
+                "score": 46.35,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "O Davidson",
+                "team": "Scotland",
+                "overs": 3.0,
+                "runs": 39,
+                "wickets": 1,
+                "econ": 13.0,
+                "score": 43.69,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "BJ McMullen",
+                "team": "Scotland",
+                "overs": 1.0,
+                "runs": 13,
+                "wickets": 0,
+                "econ": 13.0,
+                "score": 13.69,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            }
+        ]
+    },
+    "innings": [
+        {
+            "innings": 1,
+            "team": "Scotland",
+            "total_runs": 207,
+            "total_wickets": 4,
+            "balls_faced": 120,
+            "overs_faced": 20.0,
+            "phase_analysis": {
+                "Powerplay": {
+                    "runs": 49,
+                    "wkts": 0,
+                    "rr": 8.17
+                },
+                "Middle": {
+                    "runs": 87,
+                    "wkts": 2,
+                    "rr": 9.67
+                },
+                "Death": {
+                    "runs": 71,
+                    "wkts": 2,
+                    "rr": 14.2
+                }
+            }
+        },
+        {
+            "innings": 2,
+            "team": "Italy",
+            "total_runs": 134,
+            "total_wickets": 9,
+            "balls_faced": 100,
+            "overs_faced": 16.4,
+            "phase_analysis": {
+                "Powerplay": {
+                    "runs": 54,
+                    "wkts": 3,
+                    "rr": 9.0
+                },
+                "Middle": {
+                    "runs": 77,
+                    "wkts": 4,
+                    "rr": 8.56
+                },
+                "Death": {
+                    "runs": 3,
+                    "wkts": 2,
+                    "rr": 1.8
+                }
+            },
+            "pressure_index": 85.0,
+            "target": 208
+        }
+    ],
+    "players": [
+        {
+            "player": "MA Leask",
+            "team": "Scotland",
+            "overs": 4.0,
+            "runs": 17,
+            "wickets": 4,
+            "econ": 4.25,
+            "score": 150.0,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-17r-4w"
+        },
+        {
+            "player": "HG Munsey",
+            "team": "Scotland",
+            "runs": 84,
+            "balls": 58,
+            "sr": 144.83,
+            "fours": 13,
+            "sixes": 2,
+            "win_contribution_percent": 40.6,
+            "score": 109.16,
+            "role": "batting",
+            "match_stats": "84(58)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "MA Leask",
+            "team": "Scotland",
+            "runs": 22,
+            "balls": 5,
+            "sr": 440.0,
+            "fours": 2,
+            "sixes": 2,
+            "win_contribution_percent": 10.6,
+            "score": 98.44,
+            "role": "batting",
+            "match_stats": "22(5)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "MRJ Watt",
+            "team": "Scotland",
+            "overs": 4.0,
+            "runs": 24,
+            "wickets": 2,
+            "econ": 6.0,
+            "score": 89.65,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-24r-2w"
+        },
+        {
+            "player": "BAD Manenti",
+            "team": "Italy",
+            "runs": 52,
+            "balls": 31,
+            "sr": 167.74,
+            "fours": 5,
+            "sixes": 1,
+            "win_contribution_percent": 38.8,
+            "score": 81.14,
+            "role": "batting",
+            "match_stats": "52(31)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "BJ McMullen",
+            "team": "Scotland",
+            "runs": 41,
+            "balls": 20,
+            "sr": 205.0,
+            "fours": 0,
+            "sixes": 4,
+            "win_contribution_percent": 19.8,
+            "score": 76.61,
+            "role": "batting",
+            "match_stats": "41(20)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "Ali Hasan",
+            "team": "Italy",
+            "overs": 4.0,
+            "runs": 21,
+            "wickets": 1,
+            "econ": 5.25,
+            "score": 63.89,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-21r-1w"
+        },
+        {
+            "player": "HJ Manenti",
+            "team": "Italy",
+            "runs": 37,
+            "balls": 26,
+            "sr": 142.31,
+            "fours": 1,
+            "sixes": 3,
+            "win_contribution_percent": 27.6,
+            "score": 61.72,
+            "role": "batting",
+            "match_stats": "37(26)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "BJ Currie",
+            "team": "Scotland",
+            "overs": 2.0,
+            "runs": 12,
+            "wickets": 1,
+            "econ": 6.0,
+            "score": 59.65,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "2.0o-12r-1w"
+        },
+        {
+            "player": "MA Jones",
+            "team": "Scotland",
+            "runs": 37,
+            "balls": 31,
+            "sr": 119.35,
+            "fours": 1,
+            "sixes": 2,
+            "win_contribution_percent": 17.9,
+            "score": 57.73,
+            "role": "batting",
+            "match_stats": "37(31)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "JT Smuts",
+            "team": "Italy",
+            "runs": 22,
+            "balls": 12,
+            "sr": 183.33,
+            "fours": 2,
+            "sixes": 2,
+            "win_contribution_percent": 16.4,
+            "score": 53.85,
+            "role": "batting",
+            "match_stats": "22(12)",
+            "baseline": {
+                "avg": 13.53,
+                "sr": 104.05,
+                "matches": 19,
+                "source": "t20_master",
+                "baseline_available": true
+            }
+        },
+        {
+            "player": "JT Smuts",
+            "team": "Italy",
+            "overs": 4.0,
+            "runs": 38,
+            "wickets": 1,
+            "econ": 9.5,
+            "score": 48.73,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-38r-1w"
+        },
+        {
+            "player": "BTJ Wheal",
+            "team": "Scotland",
+            "overs": 2.4,
+            "runs": 29,
+            "wickets": 1,
+            "econ": 10.88,
+            "score": 46.35,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "2.4o-29r-1w"
+        },
+        {
+            "player": "G Stewart",
+            "team": "Italy",
+            "overs": 4.0,
+            "runs": 44,
+            "wickets": 1,
+            "econ": 11.0,
+            "score": 46.17,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-44r-1w"
+        },
+        {
+            "player": "O Davidson",
+            "team": "Scotland",
+            "overs": 3.0,
+            "runs": 39,
+            "wickets": 1,
+            "econ": 13.0,
+            "score": 43.69,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "3.0o-39r-1w"
+        },
+        {
+            "player": "TJ Draca",
+            "team": "Italy",
+            "overs": 2.0,
+            "runs": 37,
+            "wickets": 1,
+            "econ": 18.5,
+            "score": 39.62,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "2.0o-37r-1w"
+        },
+        {
+            "player": "RD Berrington",
+            "team": "Scotland",
+            "runs": 15,
+            "balls": 11,
+            "sr": 136.36,
+            "fours": 2,
+            "sixes": 0,
+            "win_contribution_percent": 7.2,
+            "score": 38.69,
+            "role": "batting",
+            "match_stats": "15(11)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "AJ Mosca",
+            "team": "Italy",
+            "runs": 13,
+            "balls": 12,
+            "sr": 108.33,
+            "fours": 1,
+            "sixes": 1,
+            "win_contribution_percent": 9.7,
+            "score": 31.82,
+            "role": "batting",
+            "match_stats": "13(12)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "BAD Manenti",
+            "team": "Italy",
+            "overs": 2.0,
+            "runs": 20,
+            "wickets": 0,
+            "econ": 10.0,
+            "score": 17.79,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "2.0o-20r-0w"
+        },
+        {
+            "player": "CJPF Kalugamage",
+            "team": "Italy",
+            "overs": 3.0,
+            "runs": 32,
+            "wickets": 0,
+            "econ": 10.67,
+            "score": 16.67,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "3.0o-32r-0w"
+        },
+        {
+            "player": "BJ McMullen",
+            "team": "Scotland",
+            "overs": 1.0,
+            "runs": 13,
+            "wickets": 0,
+            "econ": 13.0,
+            "score": 13.69,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "1.0o-13r-0w"
+        },
+        {
+            "player": "HJ Manenti",
+            "team": "Italy",
+            "overs": 1.0,
+            "runs": 15,
+            "wickets": 0,
+            "econ": 15.0,
+            "score": 11.86,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "1.0o-15r-0w"
+        },
+        {
+            "player": "CJPF Kalugamage",
+            "team": "Italy",
+            "runs": 3,
+            "balls": 6,
+            "sr": 50.0,
+            "fours": 0,
+            "sixes": 0,
+            "win_contribution_percent": 2.2,
+            "score": 11.69,
+            "role": "batting",
+            "match_stats": "3(6)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "TC Bruce",
+            "team": "Scotland",
+            "runs": 1,
+            "balls": 2,
+            "sr": 50.0,
+            "fours": 0,
+            "sixes": 0,
+            "win_contribution_percent": 0.5,
+            "score": 9.69,
+            "role": "batting",
+            "match_stats": "1(2)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "TJ Draca",
+            "team": "Italy",
+            "runs": 2,
+            "balls": 5,
+            "sr": 40.0,
+            "fours": 0,
+            "sixes": 0,
+            "win_contribution_percent": 1.5,
+            "score": 8.95,
+            "role": "batting",
+            "match_stats": "2(5)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "G Stewart",
+            "team": "Italy",
+            "runs": 2,
+            "balls": 6,
+            "sr": 33.33,
+            "fours": 0,
+            "sixes": 0,
+            "win_contribution_percent": 1.5,
+            "score": 7.79,
+            "role": "batting",
+            "match_stats": "2(6)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "Ali Hasan",
+            "team": "Italy",
+            "runs": 0,
+            "balls": 2,
+            "sr": 0.0,
+            "fours": 0,
+            "sixes": 0,
+            "win_contribution_percent": 0.0,
+            "score": 0.0,
+            "role": "batting",
+            "match_stats": "0(2)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "GP Meade",
+            "team": "Italy",
+            "runs": 0,
+            "balls": 2,
+            "sr": 0.0,
+            "fours": 0,
+            "sixes": 0,
+            "win_contribution_percent": 0.0,
+            "score": 0.0,
+            "role": "batting",
+            "match_stats": "0(2)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "J Mosca",
+            "team": "Italy",
+            "runs": 0,
+            "balls": 1,
+            "sr": 0.0,
+            "fours": 0,
+            "sixes": 0,
+            "win_contribution_percent": 0.0,
+            "score": 0.0,
+            "role": "batting",
+            "match_stats": "0(1)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        }
+    ],
+    "validation": {
+        "logical_stability": true
+    }
+}

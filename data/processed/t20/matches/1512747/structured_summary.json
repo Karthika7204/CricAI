@@ -1,0 +1,365 @@
+{
+    "match_context": {
+        "match_id": "1512747",
+        "date": "2026-02-16",
+        "tournament": "2025/26",
+        "venue": "Eden Gardens, Kolkata",
+        "stage": "ICC Men's T20 World Cup",
+        "Teams": {
+            "England": {
+                "captain": "JC Buttler",
+                "playing_xi_count": 11
+            },
+            "Italy": {
+                "captain": "BAD Manenti",
+                "playing_xi_count": 11
+            }
+        }
+    },
+    "Match_Result": {
+        "summary": "England won by 24 runs",
+        "winner": "England",
+        "margin": 24,
+        "margin_type": "runs"
+    },
+    "Scorecard_Highlights": {
+        "Key_Support_Performers": [
+            {
+                "player": "T Banton",
+                "team": "England",
+                "runs": 30,
+                "balls": 21,
+                "sr": 142.86,
+                "fours": 3,
+                "sixes": 1,
+                "win_contribution_percent": 14.9,
+                "score": 54.4
+            },
+            {
+                "player": "JG Bethell",
+                "team": "England",
+                "runs": 23,
+                "balls": 20,
+                "sr": 115.0,
+                "fours": 2,
+                "sixes": 1,
+                "win_contribution_percent": 11.4,
+                "score": 42.64
+            }
+        ],
+        "Career_vs_Match_Bowling": [],
+        "Bowling_Standouts": {
+            "Economical_Spells": [],
+            "Expensive_Spells": [],
+            "High_Economy_No_Baseline": [
+                {
+                    "player": "WG Jacks",
+                    "team": "England",
+                    "overs": 2.0,
+                    "runs": 34,
+                    "wickets": 1,
+                    "econ": 17.0,
+                    "score": 40.73,
+                    "bowling_baseline": {
+                        "career_wickets": 0,
+                        "career_economy": 0.0,
+                        "career_sr": 0.0,
+                        "career_avg": 0.0,
+                        "best_bowling": "N/A",
+                        "matches": 0,
+                        "source": "none",
+                        "baseline_available": false
+                    }
+                },
+                {
+                    "player": "G Stewart",
+                    "team": "Italy",
+                    "overs": 4.0,
+                    "runs": 51,
+                    "wickets": 2,
+                    "econ": 12.75,
+                    "score": 74.31,
+                    "bowling_baseline": {
+                        "career_wickets": 0,
+                        "career_economy": 0.0,
+                        "career_sr": 0.0,
+                        "career_avg": 0.0,
+                        "best_bowling": "N/A",
+                        "matches": 0,
+                        "source": "none",
+                        "baseline_available": false
+                    }
+                }
+            ]
+        },
+        "Significant_Collapses": []
+    },
+    "Innings_Metrics": [
+        {
+            "innings": 1,
+            "team": "England",
+            "total_runs": 202,
+            "total_wickets": 7,
+            "balls_faced": 120,
+            "overs_faced": 20.0,
+            "phase_analysis": {
+                "Powerplay": {
+                    "runs": 56,
+                    "wkts": 2,
+                    "rr": 9.33
+                },
+                "Middle": {
+                    "runs": 68,
+                    "wkts": 3,
+                    "rr": 7.56
+                },
+                "Death": {
+                    "runs": 78,
+                    "wkts": 2,
+                    "rr": 15.6
+                }
+            }
+        },
+        {
+            "innings": 2,
+            "team": "Italy",
+            "total_runs": 178,
+            "total_wickets": 10,
+            "balls_faced": 120,
+            "overs_faced": 20.0,
+            "phase_analysis": {
+                "Powerplay": {
+                    "runs": 47,
+                    "wkts": 3,
+                    "rr": 7.83
+                },
+                "Middle": {
+                    "runs": 89,
+                    "wkts": 2,
+                    "rr": 9.89
+                },
+                "Death": {
+                    "runs": 42,
+                    "wkts": 5,
+                    "rr": 8.4
+                }
+            },
+            "pressure_index": 100.0,
+            "target": 203
+        }
+    ],
+    "Detailed_Impact_Analysis": [
+        {
+            "player": "J Overton",
+            "team": "England",
+            "overs": 4.0,
+            "runs": 18,
+            "wickets": 3,
+            "econ": 4.5,
+            "score": 130.53,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-18r-3w"
+        },
+        {
+            "player": "SM Curran",
+            "team": "England",
+            "overs": 3.0,
+            "runs": 22,
+            "wickets": 3,
+            "econ": 7.33,
+            "score": 114.88,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "3.0o-22r-3w"
+        },
+        {
+            "player": "BAD Manenti",
+            "team": "Italy",
+            "runs": 60,
+            "balls": 25,
+            "sr": 240.0,
+            "fours": 4,
+            "sixes": 6,
+            "win_contribution_percent": 33.7,
+            "score": 100.98,
+            "role": "batting",
+            "match_stats": "60(25)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "WG Jacks",
+            "team": "England",
+            "runs": 53,
+            "balls": 24,
+            "sr": 220.83,
+            "fours": 3,
+            "sixes": 4,
+            "win_contribution_percent": 26.2,
+            "score": 90.71,
+            "role": "batting",
+            "match_stats": "53(24)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "JC Archer",
+            "team": "England",
+            "overs": 4.0,
+            "runs": 35,
+            "wickets": 2,
+            "econ": 8.75,
+            "score": 80.85,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-35r-2w"
+        },
+        {
+            "player": "CJPF Kalugamage",
+            "team": "Italy",
+            "overs": 4.0,
+            "runs": 42,
+            "wickets": 2,
+            "econ": 10.5,
+            "score": 77.37,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-42r-2w"
+        },
+        {
+            "player": "G Stewart",
+            "team": "Italy",
+            "runs": 45,
+            "balls": 24,
+            "sr": 187.5,
+            "fours": 2,
+            "sixes": 5,
+            "win_contribution_percent": 25.3,
+            "score": 77.02,
+            "role": "batting",
+            "match_stats": "45(24)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "G Stewart",
+            "team": "Italy",
+            "overs": 4.0,
+            "runs": 51,
+            "wickets": 2,
+            "econ": 12.75,
+            "score": 74.31,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-51r-2w"
+        },
+        {
+            "player": "J Mosca",
+            "team": "Italy",
+            "runs": 43,
+            "balls": 34,
+            "sr": 126.47,
+            "fours": 7,
+            "sixes": 0,
+            "win_contribution_percent": 24.2,
+            "score": 64.6,
+            "role": "batting",
+            "match_stats": "43(34)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "PD Salt",
+            "team": "England",
+            "runs": 28,
+            "balls": 16,
+            "sr": 175.0,
+            "fours": 2,
+            "sixes": 2,
+            "win_contribution_percent": 13.9,
+            "score": 57.88,
+            "role": "batting",
+            "match_stats": "28(16)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        }
+    ],
+    "Tactical_Post_Match_Analysis": [
+        "England's victory was anchored by WG Jacks, who contributed 26.2% of the team's runs.",
+        "Defensive pressure was sustained by J Overton, finishing with an impact score of 130.53.",
+        "Italy struggled under extreme chase pressure (Index: 100.0), leading to a late-innings collapse.",
+        "High-scoring finish by England in Death Overs (RR: 15.6) shifted match momentum.",
+        "Italy lost 3 wickets in Powerplay, failing to build a stable foundation."
+    ]
+}

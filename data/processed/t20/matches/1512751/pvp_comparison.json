@@ -1,0 +1,1498 @@
+{
+  "match_id": "1512751",
+  "team_a": "Scotland",
+  "team_b": "Nepal",
+  "matchups": [
+    {
+      "bat": "RD Berrington",
+      "bat_t": "Scotland",
+      "bowl": "K Bhurtel",
+      "bowl_t": "Nepal",
+      "v": "bowler",
+      "h2h": {
+        "balls": 7,
+        "runs": 12,
+        "dismissals": 2,
+        "strike_rate": 171.43
+      },
+      "vs_t": {
+        "runs": 19,
+        "balls": 14,
+        "dismissals": 2,
+        "average": 9.5,
+        "strike_rate": 135.71
+      },
+      "b_f": [
+        10,
+        49,
+        15
+      ],
+      "w_f": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "K Bhurtel",
+      "bat_t": "Nepal",
+      "bowl": "MRJ Watt",
+      "bowl_t": "Scotland",
+      "v": "batsman",
+      "h2h": {
+        "balls": 23,
+        "runs": 32,
+        "dismissals": 1,
+        "strike_rate": 139.13
+      },
+      "vs_t": {
+        "runs": 77,
+        "balls": 74,
+        "dismissals": 3,
+        "average": 25.67,
+        "strike_rate": 104.05
+      },
+      "b_f": [
+        43,
+        1,
+        5
+      ],
+      "w_f": [
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "bat": "K Bhurtel",
+      "bat_t": "Nepal",
+      "bowl": "BJ McMullen",
+      "bowl_t": "Scotland",
+      "v": "bowler",
+      "h2h": {
+        "balls": 15,
+        "runs": 13,
+        "dismissals": 1,
+        "strike_rate": 86.67
+      },
+      "vs_t": {
+        "runs": 77,
+        "balls": 74,
+        "dismissals": 3,
+        "average": 25.67,
+        "strike_rate": 104.05
+      },
+      "b_f": [
+        43,
+        1,
+        5
+      ],
+      "w_f": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "MA Leask",
+      "bat_t": "Scotland",
+      "bowl": "DS Airee",
+      "bowl_t": "Nepal",
+      "v": "batsman",
+      "h2h": {
+        "balls": 13,
+        "runs": 22,
+        "dismissals": 1,
+        "strike_rate": 169.23
+      },
+      "vs_t": {
+        "runs": 76,
+        "balls": 72,
+        "dismissals": 2,
+        "average": 38.0,
+        "strike_rate": 105.56
+      },
+      "b_f": [
+        4,
+        1,
+        22
+      ],
+      "w_f": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "MH Cross",
+      "bat_t": "Scotland",
+      "bowl": "S Lamichhane",
+      "bowl_t": "Nepal",
+      "v": "bowler",
+      "h2h": {
+        "balls": 12,
+        "runs": 7,
+        "dismissals": 1,
+        "strike_rate": 58.33
+      },
+      "vs_t": {
+        "runs": 36,
+        "balls": 38,
+        "dismissals": 2,
+        "average": 18.0,
+        "strike_rate": 94.74
+      },
+      "b_f": [
+        4,
+        8,
+        11
+      ],
+      "w_f": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "RK Paudel",
+      "bat_t": "Nepal",
+      "bowl": "MRJ Watt",
+      "bowl_t": "Scotland",
+      "v": "bowler",
+      "h2h": {
+        "balls": 11,
+        "runs": 6,
+        "dismissals": 1,
+        "strike_rate": 54.55
+      },
+      "vs_t": {
+        "runs": 50,
+        "balls": 49,
+        "dismissals": 3,
+        "average": 16.67,
+        "strike_rate": 102.04
+      },
+      "b_f": [
+        16,
+        5,
+        23
+      ],
+      "w_f": [
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "bat": "MA Jones",
+      "bat_t": "Scotland",
+      "bowl": "Sompal Kami",
+      "bowl_t": "Nepal",
+      "v": "batsman",
+      "h2h": {
+        "balls": 10,
+        "runs": 11,
+        "dismissals": 1,
+        "strike_rate": 110.0
+      },
+      "vs_t": {
+        "runs": 71,
+        "balls": 46,
+        "dismissals": 1,
+        "average": 71.0,
+        "strike_rate": 154.35
+      },
+      "b_f": [
+        71,
+        33,
+        37
+      ],
+      "w_f": [
+        3,
+        0
+      ]
+    },
+    {
+      "bat": "BJ McMullen",
+      "bat_t": "Scotland",
+      "bowl": "S Lamichhane",
+      "bowl_t": "Nepal",
+      "v": "batsman",
+      "h2h": {
+        "balls": 9,
+        "runs": 13,
+        "dismissals": 1,
+        "strike_rate": 144.44
+      },
+      "vs_t": {
+        "runs": 77,
+        "balls": 64,
+        "dismissals": 3,
+        "average": 25.67,
+        "strike_rate": 120.31
+      },
+      "b_f": [
+        25,
+        0,
+        41
+      ],
+      "w_f": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "RK Paudel",
+      "bat_t": "Nepal",
+      "bowl": "MA Leask",
+      "bowl_t": "Scotland",
+      "v": "bowler",
+      "h2h": {
+        "balls": 9,
+        "runs": 6,
+        "dismissals": 1,
+        "strike_rate": 66.67
+      },
+      "vs_t": {
+        "runs": 50,
+        "balls": 49,
+        "dismissals": 3,
+        "average": 16.67,
+        "strike_rate": 102.04
+      },
+      "b_f": [
+        16,
+        5,
+        23
+      ],
+      "w_f": [
+        3,
+        1,
+        4
+      ]
+    },
+    {
+      "bat": "HG Munsey",
+      "bat_t": "Scotland",
+      "bowl": "RK Paudel",
+      "bowl_t": "Nepal",
+      "v": "batsman",
+      "h2h": {
+        "balls": 8,
+        "runs": 5,
+        "dismissals": 1,
+        "strike_rate": 62.5
+      },
+      "vs_t": {
+        "runs": 113,
+        "balls": 75,
+        "dismissals": 3,
+        "average": 37.67,
+        "strike_rate": 150.67
+      },
+      "b_f": [
+        27,
+        4,
+        84
+      ],
+      "w_f": [
+        1
+      ]
+    },
+    {
+      "bat": "Aasif Sheikh",
+      "bat_t": "Nepal",
+      "bowl": "MA Leask",
+      "bowl_t": "Scotland",
+      "v": "batsman",
+      "h2h": {
+        "balls": 5,
+        "runs": 3,
+        "dismissals": 1,
+        "strike_rate": 60.0
+      },
+      "vs_t": {
+        "runs": 47,
+        "balls": 35,
+        "dismissals": 1,
+        "average": 47.0,
+        "strike_rate": 134.29
+      },
+      "b_f": [
+        33,
+        11,
+        20
+      ],
+      "w_f": [
+        3,
+        1,
+        4
+      ]
+    },
+    {
+      "bat": "MRJ Watt",
+      "bat_t": "Scotland",
+      "bowl": "DS Airee",
+      "bowl_t": "Nepal",
+      "v": "bowler",
+      "h2h": {
+        "balls": 4,
+        "runs": 2,
+        "dismissals": 1,
+        "strike_rate": 50.0
+      },
+      "vs_t": {
+        "runs": 20,
+        "balls": 16,
+        "dismissals": 2,
+        "average": 10.0,
+        "strike_rate": 125.0
+      },
+      "b_f": [
+        10,
+        2,
+        15
+      ],
+      "w_f": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "MA Leask",
+      "bat_t": "Scotland",
+      "bowl": "NK Yadav",
+      "bowl_t": "Nepal",
+      "v": "bowler",
+      "h2h": {
+        "balls": 4,
+        "runs": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 76,
+        "balls": 72,
+        "dismissals": 2,
+        "average": 38.0,
+        "strike_rate": 105.56
+      },
+      "b_f": [
+        4,
+        1,
+        22
+      ],
+      "w_f": [
+        2,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "K Bhurtel",
+      "bat_t": "Nepal",
+      "bowl": "MA Leask",
+      "bowl_t": "Scotland",
+      "v": "bowler",
+      "h2h": {
+        "balls": 3,
+        "runs": 2,
+        "dismissals": 1,
+        "strike_rate": 66.67
+      },
+      "vs_t": {
+        "runs": 77,
+        "balls": 74,
+        "dismissals": 3,
+        "average": 25.67,
+        "strike_rate": 104.05
+      },
+      "b_f": [
+        43,
+        1,
+        5
+      ],
+      "w_f": [
+        3,
+        1,
+        4
+      ]
+    },
+    {
+      "bat": "TC Bruce",
+      "bat_t": "Scotland",
+      "bowl": "Sompal Kami",
+      "bowl_t": "Nepal",
+      "v": "neutral",
+      "h2h": {
+        "balls": 2,
+        "runs": 1,
+        "dismissals": 1,
+        "strike_rate": 50.0
+      },
+      "vs_t": {
+        "runs": 5,
+        "balls": 6,
+        "dismissals": 1,
+        "average": 5.0,
+        "strike_rate": 83.33
+      },
+      "b_f": [
+        5,
+        24,
+        1
+      ],
+      "w_f": [
+        3,
+        0
+      ]
+    },
+    {
+      "bat": "HG Munsey",
+      "bat_t": "Scotland",
+      "bowl": "K Bhurtel",
+      "bowl_t": "Nepal",
+      "v": "batsman",
+      "h2h": {
+        "balls": 2,
+        "runs": 6,
+        "dismissals": 1,
+        "strike_rate": 300.0
+      },
+      "vs_t": {
+        "runs": 113,
+        "balls": 75,
+        "dismissals": 3,
+        "average": 37.67,
+        "strike_rate": 150.67
+      },
+      "b_f": [
+        27,
+        4,
+        84
+      ],
+      "w_f": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "BJ McMullen",
+      "bat_t": "Scotland",
+      "bowl": "Sompal Kami",
+      "bowl_t": "Nepal",
+      "v": "bowler",
+      "h2h": {
+        "balls": 2,
+        "runs": 1,
+        "dismissals": 1,
+        "strike_rate": 50.0
+      },
+      "vs_t": {
+        "runs": 77,
+        "balls": 64,
+        "dismissals": 3,
+        "average": 25.67,
+        "strike_rate": 120.31
+      },
+      "b_f": [
+        25,
+        0,
+        41
+      ],
+      "w_f": [
+        3,
+        0
+      ]
+    },
+    {
+      "bat": "MH Cross",
+      "bat_t": "Scotland",
+      "bowl": "NK Yadav",
+      "bowl_t": "Nepal",
+      "v": "bowler",
+      "h2h": {
+        "balls": 2,
+        "runs": 4,
+        "dismissals": 1,
+        "strike_rate": 200.0
+      },
+      "vs_t": {
+        "runs": 36,
+        "balls": 38,
+        "dismissals": 2,
+        "average": 18.0,
+        "strike_rate": 94.74
+      },
+      "b_f": [
+        4,
+        8,
+        11
+      ],
+      "w_f": [
+        2,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "HG Munsey",
+      "bat_t": "Scotland",
+      "bowl": "DS Airee",
+      "bowl_t": "Nepal",
+      "v": "batsman",
+      "h2h": {
+        "balls": 24,
+        "runs": 43,
+        "dismissals": 0,
+        "strike_rate": 179.17
+      },
+      "vs_t": {
+        "runs": 113,
+        "balls": 75,
+        "dismissals": 3,
+        "average": 37.67,
+        "strike_rate": 150.67
+      },
+      "b_f": [
+        27,
+        4,
+        84
+      ],
+      "w_f": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "DS Airee",
+      "bat_t": "Nepal",
+      "bowl": "MA Leask",
+      "bowl_t": "Scotland",
+      "v": "batsman",
+      "h2h": {
+        "balls": 20,
+        "runs": 30,
+        "dismissals": 0,
+        "strike_rate": 150.0
+      },
+      "vs_t": {
+        "runs": 98,
+        "balls": 77,
+        "dismissals": 2,
+        "average": 49.0,
+        "strike_rate": 127.27
+      },
+      "b_f": [
+        50,
+        58,
+        17
+      ],
+      "w_f": [
+        3,
+        1,
+        4
+      ]
+    },
+    {
+      "bat": "MA Leask",
+      "bat_t": "Scotland",
+      "bowl": "K Bhurtel",
+      "bowl_t": "Nepal",
+      "v": "bowler",
+      "h2h": {
+        "balls": 15,
+        "runs": 16,
+        "dismissals": 0,
+        "strike_rate": 106.67
+      },
+      "vs_t": {
+        "runs": 76,
+        "balls": 72,
+        "dismissals": 2,
+        "average": 38.0,
+        "strike_rate": 105.56
+      },
+      "b_f": [
+        4,
+        1,
+        22
+      ],
+      "w_f": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "DS Airee",
+      "bat_t": "Nepal",
+      "bowl": "MRJ Watt",
+      "bowl_t": "Scotland",
+      "v": "batsman",
+      "h2h": {
+        "balls": 15,
+        "runs": 22,
+        "dismissals": 0,
+        "strike_rate": 146.67
+      },
+      "vs_t": {
+        "runs": 98,
+        "balls": 77,
+        "dismissals": 2,
+        "average": 49.0,
+        "strike_rate": 127.27
+      },
+      "b_f": [
+        50,
+        58,
+        17
+      ],
+      "w_f": [
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "bat": "HG Munsey",
+      "bat_t": "Scotland",
+      "bowl": "S Lamichhane",
+      "bowl_t": "Nepal",
+      "v": "batsman",
+      "h2h": {
+        "balls": 14,
+        "runs": 15,
+        "dismissals": 0,
+        "strike_rate": 107.14
+      },
+      "vs_t": {
+        "runs": 113,
+        "balls": 75,
+        "dismissals": 3,
+        "average": 37.67,
+        "strike_rate": 150.67
+      },
+      "b_f": [
+        27,
+        4,
+        84
+      ],
+      "w_f": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "BJ McMullen",
+      "bat_t": "Scotland",
+      "bowl": "K Bhurtel",
+      "bowl_t": "Nepal",
+      "v": "bowler",
+      "h2h": {
+        "balls": 13,
+        "runs": 16,
+        "dismissals": 0,
+        "strike_rate": 123.08
+      },
+      "vs_t": {
+        "runs": 77,
+        "balls": 64,
+        "dismissals": 3,
+        "average": 25.67,
+        "strike_rate": 120.31
+      },
+      "b_f": [
+        25,
+        0,
+        41
+      ],
+      "w_f": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "MA Leask",
+      "bat_t": "Scotland",
+      "bowl": "S Lamichhane",
+      "bowl_t": "Nepal",
+      "v": "bowler",
+      "h2h": {
+        "balls": 9,
+        "runs": 4,
+        "dismissals": 0,
+        "strike_rate": 44.44
+      },
+      "vs_t": {
+        "runs": 76,
+        "balls": 72,
+        "dismissals": 2,
+        "average": 38.0,
+        "strike_rate": 105.56
+      },
+      "b_f": [
+        4,
+        1,
+        22
+      ],
+      "w_f": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "MA Jones",
+      "bat_t": "Scotland",
+      "bowl": "S Lamichhane",
+      "bowl_t": "Nepal",
+      "v": "batsman",
+      "h2h": {
+        "balls": 9,
+        "runs": 13,
+        "dismissals": 0,
+        "strike_rate": 144.44
+      },
+      "vs_t": {
+        "runs": 71,
+        "balls": 46,
+        "dismissals": 1,
+        "average": 71.0,
+        "strike_rate": 154.35
+      },
+      "b_f": [
+        71,
+        33,
+        37
+      ],
+      "w_f": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "K Bhurtel",
+      "bat_t": "Nepal",
+      "bowl": "BTJ Wheal",
+      "bowl_t": "Scotland",
+      "v": "bowler",
+      "h2h": {
+        "balls": 9,
+        "runs": 9,
+        "dismissals": 0,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 77,
+        "balls": 74,
+        "dismissals": 3,
+        "average": 25.67,
+        "strike_rate": 104.05
+      },
+      "b_f": [
+        43,
+        1,
+        5
+      ],
+      "w_f": [
+        0,
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "MA Jones",
+      "bat_t": "Scotland",
+      "bowl": "K Bhurtel",
+      "bowl_t": "Nepal",
+      "v": "batsman",
+      "h2h": {
+        "balls": 8,
+        "runs": 14,
+        "dismissals": 0,
+        "strike_rate": 175.0
+      },
+      "vs_t": {
+        "runs": 71,
+        "balls": 46,
+        "dismissals": 1,
+        "average": 71.0,
+        "strike_rate": 154.35
+      },
+      "b_f": [
+        71,
+        33,
+        37
+      ],
+      "w_f": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "MA Jones",
+      "bat_t": "Scotland",
+      "bowl": "DS Airee",
+      "bowl_t": "Nepal",
+      "v": "batsman",
+      "h2h": {
+        "balls": 8,
+        "runs": 13,
+        "dismissals": 0,
+        "strike_rate": 162.5
+      },
+      "vs_t": {
+        "runs": 71,
+        "balls": 46,
+        "dismissals": 1,
+        "average": 71.0,
+        "strike_rate": 154.35
+      },
+      "b_f": [
+        71,
+        33,
+        37
+      ],
+      "w_f": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "MA Jones",
+      "bat_t": "Scotland",
+      "bowl": "NK Yadav",
+      "bowl_t": "Nepal",
+      "v": "batsman",
+      "h2h": {
+        "balls": 7,
+        "runs": 13,
+        "dismissals": 0,
+        "strike_rate": 185.71
+      },
+      "vs_t": {
+        "runs": 71,
+        "balls": 46,
+        "dismissals": 1,
+        "average": 71.0,
+        "strike_rate": 154.35
+      },
+      "b_f": [
+        71,
+        33,
+        37
+      ],
+      "w_f": [
+        2,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "MH Cross",
+      "bat_t": "Scotland",
+      "bowl": "K Bhurtel",
+      "bowl_t": "Nepal",
+      "v": "bowler",
+      "h2h": {
+        "balls": 7,
+        "runs": 6,
+        "dismissals": 0,
+        "strike_rate": 85.71
+      },
+      "vs_t": {
+        "runs": 36,
+        "balls": 38,
+        "dismissals": 2,
+        "average": 18.0,
+        "strike_rate": 94.74
+      },
+      "b_f": [
+        4,
+        8,
+        11
+      ],
+      "w_f": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "K Bhurtel",
+      "bat_t": "Nepal",
+      "bowl": "BJ Currie",
+      "bowl_t": "Scotland",
+      "v": "bowler",
+      "h2h": {
+        "balls": 7,
+        "runs": 7,
+        "dismissals": 0,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 77,
+        "balls": 74,
+        "dismissals": 3,
+        "average": 25.67,
+        "strike_rate": 104.05
+      },
+      "b_f": [
+        43,
+        1,
+        5
+      ],
+      "w_f": [
+        0,
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "Gulsan Jha",
+      "bat_t": "Nepal",
+      "bowl": "BJ Currie",
+      "bowl_t": "Scotland",
+      "v": "neutral",
+      "h2h": {
+        "balls": 7,
+        "runs": 9,
+        "dismissals": 0,
+        "strike_rate": 128.57
+      },
+      "vs_t": {
+        "runs": 24,
+        "balls": 18,
+        "dismissals": 0,
+        "average": 24.0,
+        "strike_rate": 133.33
+      },
+      "b_f": [
+        24,
+        11,
+        3
+      ],
+      "w_f": [
+        0,
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "Aasif Sheikh",
+      "bat_t": "Nepal",
+      "bowl": "BJ McMullen",
+      "bowl_t": "Scotland",
+      "v": "batsman",
+      "h2h": {
+        "balls": 7,
+        "runs": 14,
+        "dismissals": 0,
+        "strike_rate": 200.0
+      },
+      "vs_t": {
+        "runs": 47,
+        "balls": 35,
+        "dismissals": 1,
+        "average": 47.0,
+        "strike_rate": 134.29
+      },
+      "b_f": [
+        33,
+        11,
+        20
+      ],
+      "w_f": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "BJ McMullen",
+      "bat_t": "Scotland",
+      "bowl": "DS Airee",
+      "bowl_t": "Nepal",
+      "v": "bowler",
+      "h2h": {
+        "balls": 6,
+        "runs": 3,
+        "dismissals": 0,
+        "strike_rate": 50.0
+      },
+      "vs_t": {
+        "runs": 77,
+        "balls": 64,
+        "dismissals": 3,
+        "average": 25.67,
+        "strike_rate": 120.31
+      },
+      "b_f": [
+        25,
+        0,
+        41
+      ],
+      "w_f": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "MH Cross",
+      "bat_t": "Scotland",
+      "bowl": "DS Airee",
+      "bowl_t": "Nepal",
+      "v": "batsman",
+      "h2h": {
+        "balls": 6,
+        "runs": 9,
+        "dismissals": 0,
+        "strike_rate": 150.0
+      },
+      "vs_t": {
+        "runs": 36,
+        "balls": 38,
+        "dismissals": 2,
+        "average": 18.0,
+        "strike_rate": 94.74
+      },
+      "b_f": [
+        4,
+        8,
+        11
+      ],
+      "w_f": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "K Bhurtel",
+      "bat_t": "Nepal",
+      "bowl": "O Davidson",
+      "bowl_t": "Scotland",
+      "v": "bowler",
+      "h2h": {
+        "balls": 6,
+        "runs": 4,
+        "dismissals": 0,
+        "strike_rate": 66.67
+      },
+      "vs_t": {
+        "runs": 77,
+        "balls": 74,
+        "dismissals": 3,
+        "average": 25.67,
+        "strike_rate": 104.05
+      },
+      "b_f": [
+        43,
+        1,
+        5
+      ],
+      "w_f": [
+        0,
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "Aasif Sheikh",
+      "bat_t": "Nepal",
+      "bowl": "MRJ Watt",
+      "bowl_t": "Scotland",
+      "v": "batsman",
+      "h2h": {
+        "balls": 6,
+        "runs": 11,
+        "dismissals": 0,
+        "strike_rate": 183.33
+      },
+      "vs_t": {
+        "runs": 47,
+        "balls": 35,
+        "dismissals": 1,
+        "average": 47.0,
+        "strike_rate": 134.29
+      },
+      "b_f": [
+        33,
+        11,
+        20
+      ],
+      "w_f": [
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "bat": "Aasif Sheikh",
+      "bat_t": "Nepal",
+      "bowl": "BJ Currie",
+      "bowl_t": "Scotland",
+      "v": "batsman",
+      "h2h": {
+        "balls": 6,
+        "runs": 5,
+        "dismissals": 0,
+        "strike_rate": 83.33
+      },
+      "vs_t": {
+        "runs": 47,
+        "balls": 35,
+        "dismissals": 1,
+        "average": 47.0,
+        "strike_rate": 134.29
+      },
+      "b_f": [
+        33,
+        11,
+        20
+      ],
+      "w_f": [
+        0,
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "Aasif Sheikh",
+      "bat_t": "Nepal",
+      "bowl": "O Davidson",
+      "bowl_t": "Scotland",
+      "v": "batsman",
+      "h2h": {
+        "balls": 6,
+        "runs": 5,
+        "dismissals": 0,
+        "strike_rate": 83.33
+      },
+      "vs_t": {
+        "runs": 47,
+        "balls": 35,
+        "dismissals": 1,
+        "average": 47.0,
+        "strike_rate": 134.29
+      },
+      "b_f": [
+        33,
+        11,
+        20
+      ],
+      "w_f": [
+        0,
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "DS Airee",
+      "bat_t": "Nepal",
+      "bowl": "BJ Currie",
+      "bowl_t": "Scotland",
+      "v": "bowler",
+      "h2h": {
+        "balls": 5,
+        "runs": 11,
+        "dismissals": 0,
+        "strike_rate": 220.0
+      },
+      "vs_t": {
+        "runs": 98,
+        "balls": 77,
+        "dismissals": 2,
+        "average": 49.0,
+        "strike_rate": 127.27
+      },
+      "b_f": [
+        50,
+        58,
+        17
+      ],
+      "w_f": [
+        0,
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "DS Airee",
+      "bat_t": "Nepal",
+      "bowl": "O Davidson",
+      "bowl_t": "Scotland",
+      "v": "bowler",
+      "h2h": {
+        "balls": 5,
+        "runs": 5,
+        "dismissals": 0,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 98,
+        "balls": 77,
+        "dismissals": 2,
+        "average": 49.0,
+        "strike_rate": 127.27
+      },
+      "b_f": [
+        50,
+        58,
+        17
+      ],
+      "w_f": [
+        0,
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "RD Berrington",
+      "bat_t": "Scotland",
+      "bowl": "S Lamichhane",
+      "bowl_t": "Nepal",
+      "v": "bowler",
+      "h2h": {
+        "balls": 4,
+        "runs": 5,
+        "dismissals": 0,
+        "strike_rate": 125.0
+      },
+      "vs_t": {
+        "runs": 19,
+        "balls": 14,
+        "dismissals": 2,
+        "average": 9.5,
+        "strike_rate": 135.71
+      },
+      "b_f": [
+        10,
+        49,
+        15
+      ],
+      "w_f": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "MA Leask",
+      "bat_t": "Scotland",
+      "bowl": "Sompal Kami",
+      "bowl_t": "Nepal",
+      "v": "bowler",
+      "h2h": {
+        "balls": 4,
+        "runs": 4,
+        "dismissals": 0,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 76,
+        "balls": 72,
+        "dismissals": 2,
+        "average": 38.0,
+        "strike_rate": 105.56
+      },
+      "b_f": [
+        4,
+        1,
+        22
+      ],
+      "w_f": [
+        3,
+        0
+      ]
+    },
+    {
+      "bat": "MA Jones",
+      "bat_t": "Scotland",
+      "bowl": "RK Paudel",
+      "bowl_t": "Nepal",
+      "v": "batsman",
+      "h2h": {
+        "balls": 4,
+        "runs": 7,
+        "dismissals": 0,
+        "strike_rate": 175.0
+      },
+      "vs_t": {
+        "runs": 71,
+        "balls": 46,
+        "dismissals": 1,
+        "average": 71.0,
+        "strike_rate": 154.35
+      },
+      "b_f": [
+        71,
+        33,
+        37
+      ],
+      "w_f": [
+        1
+      ]
+    },
+    {
+      "bat": "HG Munsey",
+      "bat_t": "Scotland",
+      "bowl": "Sompal Kami",
+      "bowl_t": "Nepal",
+      "v": "batsman",
+      "h2h": {
+        "balls": 4,
+        "runs": 5,
+        "dismissals": 0,
+        "strike_rate": 125.0
+      },
+      "vs_t": {
+        "runs": 113,
+        "balls": 75,
+        "dismissals": 3,
+        "average": 37.67,
+        "strike_rate": 150.67
+      },
+      "b_f": [
+        27,
+        4,
+        84
+      ],
+      "w_f": [
+        3,
+        0
+      ]
+    },
+    {
+      "bat": "BJ McMullen",
+      "bat_t": "Scotland",
+      "bowl": "NK Yadav",
+      "bowl_t": "Nepal",
+      "v": "bowler",
+      "h2h": {
+        "balls": 4,
+        "runs": 3,
+        "dismissals": 0,
+        "strike_rate": 75.0
+      },
+      "vs_t": {
+        "runs": 77,
+        "balls": 64,
+        "dismissals": 3,
+        "average": 25.67,
+        "strike_rate": 120.31
+      },
+      "b_f": [
+        25,
+        0,
+        41
+      ],
+      "w_f": [
+        2,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "Gulsan Jha",
+      "bat_t": "Nepal",
+      "bowl": "O Davidson",
+      "bowl_t": "Scotland",
+      "v": "neutral",
+      "h2h": {
+        "balls": 4,
+        "runs": 8,
+        "dismissals": 0,
+        "strike_rate": 200.0
+      },
+      "vs_t": {
+        "runs": 24,
+        "balls": 18,
+        "dismissals": 0,
+        "average": 24.0,
+        "strike_rate": 133.33
+      },
+      "b_f": [
+        24,
+        11,
+        3
+      ],
+      "w_f": [
+        0,
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "Gulsan Jha",
+      "bat_t": "Nepal",
+      "bowl": "BTJ Wheal",
+      "bowl_t": "Scotland",
+      "v": "neutral",
+      "h2h": {
+        "balls": 4,
+        "runs": 5,
+        "dismissals": 0,
+        "strike_rate": 125.0
+      },
+      "vs_t": {
+        "runs": 24,
+        "balls": 18,
+        "dismissals": 0,
+        "average": 24.0,
+        "strike_rate": 133.33
+      },
+      "b_f": [
+        24,
+        11,
+        3
+      ],
+      "w_f": [
+        0,
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "DS Airee",
+      "bat_t": "Nepal",
+      "bowl": "BTJ Wheal",
+      "bowl_t": "Scotland",
+      "v": "bowler",
+      "h2h": {
+        "balls": 4,
+        "runs": 13,
+        "dismissals": 0,
+        "strike_rate": 325.0
+      },
+      "vs_t": {
+        "runs": 98,
+        "balls": 77,
+        "dismissals": 2,
+        "average": 49.0,
+        "strike_rate": 127.27
+      },
+      "b_f": [
+        50,
+        58,
+        17
+      ],
+      "w_f": [
+        0,
+        1,
+        1
+      ]
+    }
+  ]
+}

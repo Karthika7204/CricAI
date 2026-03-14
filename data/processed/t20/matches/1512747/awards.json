@@ -1,0 +1,96 @@
+{
+    "match_id": "1512747",
+    "winner": "England",
+    "loser": "Italy",
+    "awards": {
+        "player_of_the_match": {
+            "name": "BAD Manenti",
+            "team": "Italy",
+            "impact_score": 194.4,
+            "breakdown": {
+                "batting": 129.0,
+                "bowling": 25,
+                "fielding": 8,
+                "pressure_multiplier": 1.2
+            },
+            "key_stats": {
+                "batting": "60(25) SR:240.0",
+                "bowling": "4.0ov-1wkt econ:9.25"
+            }
+        },
+        "best_batter": {
+            "name": "BAD Manenti",
+            "team": "Italy",
+            "batting_impact": 129.0,
+            "stats": {
+                "runs": 60,
+                "balls": 25,
+                "sr": 240.0,
+                "fours": 4,
+                "sixes": 6
+            }
+        },
+        "best_bowler": {
+            "name": "J Overton",
+            "team": "England",
+            "bowling_impact": 120,
+            "stats": {
+                "overs": 4.0,
+                "wickets": 3,
+                "econ": 4.5
+            }
+        },
+        "game_changer": {
+            "name": "BAD Manenti",
+            "team": "Italy",
+            "reason": "SR 240.0 with 6 sixes",
+            "key_stats": {
+                "batting": "60(25) SR:240.0",
+                "bowling": "4.0ov-1wkt econ:9.25"
+            }
+        },
+        "pressure_performer": {
+            "name": "BAD Manenti",
+            "team": "Italy",
+            "pressure_multiplier": 1.2,
+            "reason": "Chasing team batter under pressure | Attacking SR 240.0 under pressure",
+            "key_stats": {
+                "batting": "60(25) SR:240.0",
+                "bowling": "4.0ov-1wkt econ:9.25"
+            }
+        },
+        "emerging_player": {
+            "name": "BAD Manenti",
+            "team": "Italy",
+            "reason": "Outperformed team average by 3.27x",
+            "key_stats": {
+                "batting": "60(25) SR:240.0",
+                "bowling": "4.0ov-1wkt econ:9.25"
+            }
+        },
+        "fielding_impact": {
+            "name": "J Overton",
+            "team": "England",
+            "fielding_proxy_score": 21,
+            "methodology": "Proxy-based: catch attribution (65% T20 wickets are catches) + dot ball pressure bonus + economy-implied fielding support",
+            "reason": "Estimated 2 caught dismissals from 3 wickets | Economy 4.5 — tight fielding support implied",
+            "stats": {
+                "overs": 4.0,
+                "wickets": 3,
+                "econ": 4.5
+            }
+        },
+        "all_rounder_impact": {
+            "name": "SM Curran",
+            "team": "England",
+            "all_rounder_score": 132.0,
+            "stats": {
+                "runs": 25,
+                "sr": 131.58,
+                "overs": 3.0,
+                "wickets": 3,
+                "econ": 7.33
+            }
+        }
+    }
+}

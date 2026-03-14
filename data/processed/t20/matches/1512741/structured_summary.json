@@ -1,0 +1,344 @@
+{
+    "match_context": {
+        "match_id": "1512741",
+        "date": "2026-02-14",
+        "tournament": "2025/26",
+        "venue": "Eden Gardens, Kolkata",
+        "stage": "ICC Men's T20 World Cup",
+        "Teams": {
+            "Scotland": {
+                "captain": "RD Berrington",
+                "playing_xi_count": 11
+            },
+            "England": {
+                "captain": "JC Buttler",
+                "playing_xi_count": 11
+            }
+        }
+    },
+    "Match_Result": {
+        "summary": "England won by 5 wickets",
+        "winner": "England",
+        "margin": 5,
+        "margin_type": "wickets"
+    },
+    "Scorecard_Highlights": {
+        "Key_Support_Performers": [
+            {
+                "player": "TC Bruce",
+                "team": "Scotland",
+                "runs": 24,
+                "balls": 18,
+                "sr": 133.33,
+                "fours": 1,
+                "sixes": 1,
+                "win_contribution_percent": 15.8,
+                "score": 50.85
+            },
+            {
+                "player": "WG Jacks",
+                "team": "England",
+                "runs": 16,
+                "balls": 11,
+                "sr": 145.45,
+                "fours": 1,
+                "sixes": 1,
+                "win_contribution_percent": 10.3,
+                "score": 45.29
+            }
+        ],
+        "Career_vs_Match_Bowling": [],
+        "Bowling_Standouts": {
+            "Economical_Spells": [],
+            "Expensive_Spells": [],
+            "High_Economy_No_Baseline": [
+                {
+                    "player": "MRJ Watt",
+                    "team": "Scotland",
+                    "overs": 3.0,
+                    "runs": 43,
+                    "wickets": 0,
+                    "econ": 14.33,
+                    "score": 10.89,
+                    "bowling_baseline": {
+                        "career_wickets": 0,
+                        "career_economy": 0.0,
+                        "career_sr": 0.0,
+                        "career_avg": 0.0,
+                        "best_bowling": "N/A",
+                        "matches": 0,
+                        "source": "none",
+                        "baseline_available": false
+                    }
+                }
+            ]
+        },
+        "Significant_Collapses": []
+    },
+    "Innings_Metrics": [
+        {
+            "innings": 1,
+            "team": "Scotland",
+            "total_runs": 152,
+            "total_wickets": 10,
+            "balls_faced": 118,
+            "overs_faced": 19.4,
+            "phase_analysis": {
+                "Powerplay": {
+                    "runs": 42,
+                    "wkts": 3,
+                    "rr": 7.0
+                },
+                "Middle": {
+                    "runs": 83,
+                    "wkts": 3,
+                    "rr": 9.22
+                },
+                "Death": {
+                    "runs": 27,
+                    "wkts": 4,
+                    "rr": 5.79
+                }
+            }
+        },
+        {
+            "innings": 2,
+            "team": "England",
+            "total_runs": 155,
+            "total_wickets": 5,
+            "balls_faced": 110,
+            "overs_faced": 18.2,
+            "phase_analysis": {
+                "Powerplay": {
+                    "runs": 43,
+                    "wkts": 2,
+                    "rr": 7.17
+                },
+                "Middle": {
+                    "runs": 76,
+                    "wkts": 2,
+                    "rr": 8.44
+                },
+                "Death": {
+                    "runs": 36,
+                    "wkts": 1,
+                    "rr": 10.8
+                }
+            },
+            "pressure_index": 75.0,
+            "target": 153
+        }
+    ],
+    "Detailed_Impact_Analysis": [
+        {
+            "player": "AU Rashid",
+            "team": "England",
+            "overs": 4.0,
+            "runs": 36,
+            "wickets": 3,
+            "econ": 9.0,
+            "score": 107.34,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-36r-3w"
+        },
+        {
+            "player": "T Banton",
+            "team": "England",
+            "runs": 63,
+            "balls": 42,
+            "sr": 150.0,
+            "fours": 4,
+            "sixes": 3,
+            "win_contribution_percent": 40.6,
+            "score": 93.2,
+            "role": "batting",
+            "match_stats": "63(42)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "JC Archer",
+            "team": "England",
+            "overs": 4.0,
+            "runs": 25,
+            "wickets": 2,
+            "econ": 6.25,
+            "score": 84.98,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-25r-2w"
+        },
+        {
+            "player": "LA Dawson",
+            "team": "England",
+            "overs": 4.0,
+            "runs": 34,
+            "wickets": 2,
+            "econ": 8.5,
+            "score": 78.36,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-34r-2w"
+        },
+        {
+            "player": "RD Berrington",
+            "team": "Scotland",
+            "runs": 49,
+            "balls": 34,
+            "sr": 144.12,
+            "fours": 5,
+            "sixes": 2,
+            "win_contribution_percent": 32.2,
+            "score": 78.02,
+            "role": "batting",
+            "match_stats": "49(34)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "MA Jones",
+            "team": "Scotland",
+            "runs": 33,
+            "balls": 20,
+            "sr": 165.0,
+            "fours": 5,
+            "sixes": 1,
+            "win_contribution_percent": 21.7,
+            "score": 66.23,
+            "role": "batting",
+            "match_stats": "33(20)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "SM Curran",
+            "team": "England",
+            "runs": 28,
+            "balls": 20,
+            "sr": 140.0,
+            "fours": 1,
+            "sixes": 2,
+            "win_contribution_percent": 18.1,
+            "score": 56.19,
+            "role": "batting",
+            "match_stats": "28(20)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "J Overton",
+            "team": "England",
+            "overs": 4.0,
+            "runs": 24,
+            "wickets": 1,
+            "econ": 6.0,
+            "score": 56.02,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-24r-1w"
+        },
+        {
+            "player": "O Davidson",
+            "team": "Scotland",
+            "overs": 2.0,
+            "runs": 12,
+            "wickets": 1,
+            "econ": 6.0,
+            "score": 56.02,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "2.0o-12r-1w"
+        },
+        {
+            "player": "JG Bethell",
+            "team": "England",
+            "runs": 32,
+            "balls": 28,
+            "sr": 114.29,
+            "fours": 2,
+            "sixes": 1,
+            "win_contribution_percent": 20.6,
+            "score": 55.01,
+            "role": "batting",
+            "match_stats": "32(28)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        }
+    ],
+    "Tactical_Post_Match_Analysis": [
+        "England's victory was anchored by T Banton, who contributed 40.6% of the team's runs.",
+        "Defensive pressure was sustained by AU Rashid, finishing with an impact score of 107.34.",
+        "Scotland lost 3 wickets in Powerplay, failing to build a stable foundation."
+    ]
+}

@@ -3,6 +3,7 @@ from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 import sys
 import os
+import json
 from pathlib import Path
 
 # Add src to path to import local modules
@@ -45,11 +46,87 @@ class QueryRequest(BaseModel):
 def read_root():
     return {"status": "CricAI Bridge Active"}
 
-@app.post("/api/chat")
+@app.get("/api/chat")
 async def chat(request: QueryRequest):
     try:
         result = query_engine.query(request.match_id, request.query)
         return result
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
+
+@app.get("/api/matches")
+async def get_matches():
+    try:
+        matches_dir = os.path.join(DATA_DIR, "processed/t20/matches")
+        if not os.path.exists(matches_dir):
+            return {"matches": []}
+            
+        match_list = []
+        for match_id in os.listdir(matches_dir):
+            match_path = os.path.join(matches_dir, match_id)
+            if not os.path.isdir(match_path):
+                continue
+
+            summary_path = os.path.join(match_path, "structured_summary.json")
+            match_info = None
+
+            if os.path.exists(summary_path):
+                try:
+                    with open(summary_path, 'r') as f:
+                        data = json.load(f)
+                        context = data.get("match_context", {})
+                        teams = list(context.get("Teams", {}).keys())
+                        if len(teams) >= 2:
+                            match_info = {
+                                "id": match_id,
+                                "date": context.get("date", ""),
+                                "teams": [teams[0][:3].upper(), teams[1][:3].upper()],
+                                "full_teams": teams
+                            }
+                except Exception:
+                    pass
+
+            if not match_info:
+                batting_path = os.path.join(match_path, "batting.csv")
+                if os.path.exists(batting_path):
+                    try:
+                        with open(batting_path, 'r', encoding='utf-8') as f:
+                            header_line = f.readline().strip()
+                            if not header_line:
+                                continue
+                            header = header_line.split(',')
+                            if 'date' in header and 'team' in header:
+                                date_idx = header.index('date')
+                                team_idx = header.index('team')
+                                
+                                teams = []
+                                match_date = ""
+                                for line in f:
+                                    parts = line.strip().split(',')
+                                    if len(parts) > max(date_idx, team_idx):
+                                        if not match_date:
+                                            match_date = parts[date_idx]
+                                        t = parts[team_idx]
+                                        if t not in teams:
+                                            teams.append(t)
+                                        if len(teams) >= 2:
+                                            break
+                                if len(teams) >= 2:
+                                    match_info = {
+                                        "id": match_id,
+                                        "date": match_date,
+                                        "teams": [teams[0][:3].upper(), teams[1][:3].upper()],
+                                        "full_teams": teams
+                                    }
+                    except Exception:
+                        pass
+            
+            if match_info:
+                match_list.append(match_info)
+        
+        # Sort by date descending
+        match_list.sort(key=lambda x: x["date"], reverse=True)
+        return {"matches": match_list}
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
 

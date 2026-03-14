@@ -1,0 +1,448 @@
+{
+    "match_context": {
+        "match_id": "1512739",
+        "date": "2026-02-13",
+        "tournament": "2025/26",
+        "venue": "MA Chidambaram Stadium, Chepauk, Chennai",
+        "stage": "ICC Men's T20 World Cup",
+        "Teams": {
+            "United States of America": {
+                "captain": "MD Patel",
+                "playing_xi_count": 11
+            },
+            "Netherlands": {
+                "captain": "SA Edwards",
+                "playing_xi_count": 11
+            }
+        }
+    },
+    "Match_Result": {
+        "summary": "United States of America won by 93 runs",
+        "winner": "United States of America",
+        "margin": 93,
+        "margin_type": "runs"
+    },
+    "Scorecard_Highlights": {
+        "Key_Support_Performers": [
+            {
+                "player": "Shayan Jahangir",
+                "team": "United States of America",
+                "runs": 20,
+                "balls": 14,
+                "sr": 142.86,
+                "fours": 1,
+                "sixes": 2,
+                "win_contribution_percent": 10.2,
+                "score": 47.92
+            },
+            {
+                "player": "SA Edwards",
+                "team": "Netherlands",
+                "runs": 20,
+                "balls": 14,
+                "sr": 142.86,
+                "fours": 2,
+                "sixes": 0,
+                "win_contribution_percent": 19.4,
+                "score": 47.92
+            }
+        ],
+        "Career_vs_Match_Bowling": [
+            {
+                "player": "Shubham Ranjane",
+                "team": "United States of America",
+                "match_figures": "1.0-4-0",
+                "match_economy": 4.0,
+                "career_economy": 6.5,
+                "economy_delta": -2.5,
+                "match_sr": null,
+                "career_sr": 24.0,
+                "career_wickets": 1,
+                "career_best": "1/6",
+                "verdict": "Exceptional - 2.5 below career economy (6.5)"
+            },
+            {
+                "player": "Harmeet Singh",
+                "team": "United States of America",
+                "match_figures": "4.0-21-4",
+                "match_economy": 5.25,
+                "career_economy": 7.05,
+                "economy_delta": -1.8,
+                "match_sr": 6.0,
+                "career_sr": 19.87,
+                "career_wickets": 31,
+                "career_best": "4/18",
+                "verdict": "Exceptional - 1.8 below career economy (7.05)"
+            },
+            {
+                "player": "NP Kenjige",
+                "team": "United States of America",
+                "match_figures": "3.0-20-1",
+                "match_economy": 6.67,
+                "career_economy": 7.71,
+                "economy_delta": -1.04,
+                "match_sr": 18.0,
+                "career_sr": 20.09,
+                "career_wickets": 22,
+                "career_best": "3/30",
+                "verdict": "On par with career economy (7.71)"
+            },
+            {
+                "player": "Ali Khan",
+                "team": "United States of America",
+                "match_figures": "2.0-18-0",
+                "match_economy": 9.0,
+                "career_economy": 9.15,
+                "economy_delta": -0.15,
+                "match_sr": null,
+                "career_sr": 24.76,
+                "career_wickets": 17,
+                "career_best": "3/27",
+                "verdict": "On par with career economy (9.15)"
+            }
+        ],
+        "Bowling_Standouts": {
+            "Economical_Spells": [
+                {
+                    "player": "Shubham Ranjane",
+                    "team": "United States of America",
+                    "match_figures": "1.0-4-0",
+                    "match_economy": 4.0,
+                    "career_economy": 6.5,
+                    "economy_delta": -2.5,
+                    "match_sr": null,
+                    "career_sr": 24.0,
+                    "career_wickets": 1,
+                    "career_best": "1/6",
+                    "verdict": "Exceptional - 2.5 below career economy (6.5)"
+                },
+                {
+                    "player": "Harmeet Singh",
+                    "team": "United States of America",
+                    "match_figures": "4.0-21-4",
+                    "match_economy": 5.25,
+                    "career_economy": 7.05,
+                    "economy_delta": -1.8,
+                    "match_sr": 6.0,
+                    "career_sr": 19.87,
+                    "career_wickets": 31,
+                    "career_best": "4/18",
+                    "verdict": "Exceptional - 1.8 below career economy (7.05)"
+                }
+            ],
+            "Expensive_Spells": [],
+            "High_Economy_No_Baseline": [
+                {
+                    "player": "A Dutt",
+                    "team": "Netherlands",
+                    "overs": 2.0,
+                    "runs": 24,
+                    "wickets": 0,
+                    "econ": 12.0,
+                    "score": 13.47,
+                    "bowling_baseline": {
+                        "career_wickets": 0,
+                        "career_economy": 0.0,
+                        "career_sr": 0.0,
+                        "career_avg": 0.0,
+                        "best_bowling": "N/A",
+                        "matches": 0,
+                        "source": "none",
+                        "baseline_available": false
+                    }
+                },
+                {
+                    "player": "RE van der Merwe",
+                    "team": "Netherlands",
+                    "overs": 3.0,
+                    "runs": 36,
+                    "wickets": 0,
+                    "econ": 12.0,
+                    "score": 13.47,
+                    "bowling_baseline": {
+                        "career_wickets": 0,
+                        "career_economy": 0.0,
+                        "career_sr": 0.0,
+                        "career_avg": 0.0,
+                        "best_bowling": "N/A",
+                        "matches": 0,
+                        "source": "none",
+                        "baseline_available": false
+                    }
+                }
+            ]
+        },
+        "Significant_Collapses": []
+    },
+    "Innings_Metrics": [
+        {
+            "innings": 1,
+            "team": "United States of America",
+            "total_runs": 196,
+            "total_wickets": 6,
+            "balls_faced": 120,
+            "overs_faced": 20.0,
+            "phase_analysis": {
+                "Powerplay": {
+                    "runs": 53,
+                    "wkts": 1,
+                    "rr": 8.83
+                },
+                "Middle": {
+                    "runs": 95,
+                    "wkts": 2,
+                    "rr": 10.56
+                },
+                "Death": {
+                    "runs": 48,
+                    "wkts": 3,
+                    "rr": 9.6
+                }
+            }
+        },
+        {
+            "innings": 2,
+            "team": "Netherlands",
+            "total_runs": 103,
+            "total_wickets": 10,
+            "balls_faced": 95,
+            "overs_faced": 15.5,
+            "phase_analysis": {
+                "Powerplay": {
+                    "runs": 51,
+                    "wkts": 3,
+                    "rr": 8.5
+                },
+                "Middle": {
+                    "runs": 50,
+                    "wkts": 6,
+                    "rr": 5.56
+                },
+                "Death": {
+                    "runs": 2,
+                    "wkts": 1,
+                    "rr": 2.4
+                }
+            },
+            "pressure_index": 87.0,
+            "target": 197
+        }
+    ],
+    "Detailed_Impact_Analysis": [
+        {
+            "player": "Harmeet Singh",
+            "team": "United States of America",
+            "overs": 4.0,
+            "runs": 21,
+            "wickets": 4,
+            "econ": 5.25,
+            "score": 150.0,
+            "bowling_baseline": {
+                "career_wickets": 31,
+                "career_economy": 7.05,
+                "career_sr": 19.87,
+                "career_avg": 23.35,
+                "best_bowling": "4/18",
+                "matches": 28,
+                "source": "t20_bowling_master",
+                "baseline_available": true
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-21r-4w"
+        },
+        {
+            "player": "SC van Schalkwyk",
+            "team": "United States of America",
+            "overs": 2.5,
+            "runs": 21,
+            "wickets": 3,
+            "econ": 7.41,
+            "score": 111.81,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "2.5o-21r-3w"
+        },
+        {
+            "player": "SR Mukkamalla",
+            "team": "United States of America",
+            "runs": 79,
+            "balls": 53,
+            "sr": 149.06,
+            "fours": 5,
+            "sixes": 4,
+            "win_contribution_percent": 40.3,
+            "score": 108.13,
+            "role": "batting",
+            "match_stats": "79(53)",
+            "baseline": {
+                "avg": 40.94,
+                "sr": 143.11,
+                "matches": 21,
+                "source": "t20_master",
+                "baseline_available": true
+            }
+        },
+        {
+            "player": "BFW de Leede",
+            "team": "Netherlands",
+            "overs": 4.0,
+            "runs": 37,
+            "wickets": 3,
+            "econ": 9.25,
+            "score": 107.47,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-37r-3w"
+        },
+        {
+            "player": "Mohammad Mohsin",
+            "team": "United States of America",
+            "overs": 3.0,
+            "runs": 19,
+            "wickets": 2,
+            "econ": 6.33,
+            "score": 85.53,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "3.0o-19r-2w"
+        },
+        {
+            "player": "Shubham Ranjane",
+            "team": "United States of America",
+            "runs": 48,
+            "balls": 25,
+            "sr": 192.0,
+            "fours": 3,
+            "sixes": 2,
+            "win_contribution_percent": 24.5,
+            "score": 85.52,
+            "role": "batting",
+            "match_stats": "48(25)",
+            "baseline": {
+                "avg": 70.5,
+                "sr": 171.95,
+                "matches": 4,
+                "source": "t20_master",
+                "baseline_available": true
+            }
+        },
+        {
+            "player": "MD Patel",
+            "team": "United States of America",
+            "runs": 36,
+            "balls": 22,
+            "sr": 163.64,
+            "fours": 3,
+            "sixes": 1,
+            "win_contribution_percent": 18.4,
+            "score": 67.98,
+            "role": "batting",
+            "match_stats": "36(22)",
+            "baseline": {
+                "avg": 28.89,
+                "sr": 132.68,
+                "matches": 40,
+                "source": "t20_master",
+                "baseline_available": true
+            }
+        },
+        {
+            "player": "NP Kenjige",
+            "team": "United States of America",
+            "overs": 3.0,
+            "runs": 20,
+            "wickets": 1,
+            "econ": 6.67,
+            "score": 54.23,
+            "bowling_baseline": {
+                "career_wickets": 22,
+                "career_economy": 7.71,
+                "career_sr": 20.09,
+                "career_avg": 25.82,
+                "best_bowling": "3/30",
+                "matches": 23,
+                "source": "t20_bowling_master",
+                "baseline_available": true
+            },
+            "role": "bowling",
+            "match_stats": "3.0o-20r-1w"
+        },
+        {
+            "player": "LV van Beek",
+            "team": "Netherlands",
+            "overs": 4.0,
+            "runs": 32,
+            "wickets": 1,
+            "econ": 8.0,
+            "score": 50.2,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-32r-1w"
+        },
+        {
+            "player": "K Klein",
+            "team": "Netherlands",
+            "overs": 4.0,
+            "runs": 35,
+            "wickets": 1,
+            "econ": 8.75,
+            "score": 48.47,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-35r-1w"
+        }
+    ],
+    "Tactical_Post_Match_Analysis": [
+        "United States of America's victory was anchored by SR Mukkamalla, who contributed 40.3% of the team's runs.",
+        "Defensive pressure was sustained by Harmeet Singh, finishing with an impact score of 150.0.",
+        "Shubham Ranjane was outstanding with the ball — economy 4.0 vs career avg 6.5 (delta: -2.5). A match-defining spell.",
+        "Netherlands struggled under extreme chase pressure (Index: 87.0), leading to a late-innings collapse.",
+        "Netherlands lost 3 wickets in Powerplay, failing to build a stable foundation.",
+        "Netherlands suffered from a lack of boundary frequency (one every 13.6 balls), increasing pressure."
+    ]
+}

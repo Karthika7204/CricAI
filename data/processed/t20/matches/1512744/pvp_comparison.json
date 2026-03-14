@@ -1,0 +1,1690 @@
+{
+  "match_id": "1512744",
+  "team_a": "United States of America",
+  "team_b": "Namibia",
+  "matchups": [
+    {
+      "bat": "SR Mukkamalla",
+      "bat_t": "United States of America",
+      "bowl": "BM Scholtz",
+      "bowl_t": "Namibia",
+      "v": "bowler",
+      "h2h": {
+        "balls": 23,
+        "runs": 14,
+        "dismissals": 2,
+        "strike_rate": 60.87
+      },
+      "vs_t": {
+        "runs": 56,
+        "balls": 55,
+        "dismissals": 3,
+        "average": 18.67,
+        "strike_rate": 101.82
+      },
+      "b_car": {
+        "avg": 40.94,
+        "sr": 143.11
+      },
+      "b_f": [
+        17,
+        79,
+        2
+      ],
+      "w_f": [
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "JN Frylinck",
+      "bat_t": "Namibia",
+      "bowl": "Milind Kumar",
+      "bowl_t": "United States of America",
+      "v": "bowler",
+      "h2h": {
+        "balls": 14,
+        "runs": 9,
+        "dismissals": 2,
+        "strike_rate": 64.29
+      },
+      "vs_t": {
+        "runs": 41,
+        "balls": 32,
+        "dismissals": 3,
+        "average": 13.67,
+        "strike_rate": 128.12
+      },
+      "w_car": {
+        "avg": 20.08,
+        "eco": 7.49
+      },
+      "b_f": [
+        9,
+        19,
+        22
+      ],
+      "w_f": [
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "Milind Kumar",
+      "bat_t": "United States of America",
+      "bowl": "MG Erasmus",
+      "bowl_t": "Namibia",
+      "v": "neutral",
+      "h2h": {
+        "balls": 16,
+        "runs": 16,
+        "dismissals": 1,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 59,
+        "balls": 47,
+        "dismissals": 1,
+        "average": 59.0,
+        "strike_rate": 125.53
+      },
+      "b_car": {
+        "avg": 32.0,
+        "sr": 103.74
+      },
+      "b_f": [
+        28,
+        3,
+        29
+      ],
+      "w_f": [
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "bat": "MG Erasmus",
+      "bat_t": "Namibia",
+      "bowl": "Milind Kumar",
+      "bowl_t": "United States of America",
+      "v": "bowler",
+      "h2h": {
+        "balls": 7,
+        "runs": 7,
+        "dismissals": 1,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 85,
+        "balls": 63,
+        "dismissals": 3,
+        "average": 28.33,
+        "strike_rate": 134.92
+      },
+      "w_car": {
+        "avg": 20.08,
+        "eco": 7.49
+      },
+      "b_f": [
+        7,
+        6,
+        18
+      ],
+      "w_f": [
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "JJ Smit",
+      "bat_t": "Namibia",
+      "bowl": "Ali Khan",
+      "bowl_t": "United States of America",
+      "v": "bowler",
+      "h2h": {
+        "balls": 7,
+        "runs": 7,
+        "dismissals": 1,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 56,
+        "balls": 38,
+        "dismissals": 3,
+        "average": 18.67,
+        "strike_rate": 147.37
+      },
+      "w_car": {
+        "avg": 37.76,
+        "eco": 9.15
+      },
+      "b_f": [
+        9,
+        31,
+        0
+      ],
+      "w_f": [
+        1,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "ZE Green",
+      "bat_t": "Namibia",
+      "bowl": "Harmeet Singh",
+      "bowl_t": "United States of America",
+      "v": "bowler",
+      "h2h": {
+        "balls": 7,
+        "runs": 3,
+        "dismissals": 1,
+        "strike_rate": 42.86
+      },
+      "vs_t": {
+        "runs": 24,
+        "balls": 30,
+        "dismissals": 1,
+        "average": 24.0,
+        "strike_rate": 80.0
+      },
+      "w_car": {
+        "avg": 23.35,
+        "eco": 7.05
+      },
+      "b_f": [
+        7,
+        18,
+        11
+      ],
+      "w_f": [
+        0,
+        4,
+        1
+      ]
+    },
+    {
+      "bat": "Harmeet Singh",
+      "bat_t": "United States of America",
+      "bowl": "MG Erasmus",
+      "bowl_t": "Namibia",
+      "v": "neutral",
+      "h2h": {
+        "balls": 6,
+        "runs": 7,
+        "dismissals": 1,
+        "strike_rate": 116.67
+      },
+      "vs_t": {
+        "runs": 16,
+        "balls": 12,
+        "dismissals": 1,
+        "average": 16.0,
+        "strike_rate": 133.33
+      },
+      "b_car": {
+        "avg": 16.13,
+        "sr": 139.88
+      },
+      "b_f": [
+        1,
+        6,
+        0
+      ],
+      "w_f": [
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "bat": "MD Patel",
+      "bat_t": "United States of America",
+      "bowl": "WP Myburgh",
+      "bowl_t": "Namibia",
+      "v": "batsman",
+      "h2h": {
+        "balls": 6,
+        "runs": 8,
+        "dismissals": 1,
+        "strike_rate": 133.33
+      },
+      "vs_t": {
+        "runs": 52,
+        "balls": 31,
+        "dismissals": 1,
+        "average": 52.0,
+        "strike_rate": 167.74
+      },
+      "b_car": {
+        "avg": 28.89,
+        "sr": 132.68
+      },
+      "b_f": [
+        52,
+        36,
+        3
+      ],
+      "w_f": [
+        0,
+        2,
+        0
+      ]
+    },
+    {
+      "bat": "SR Mukkamalla",
+      "bat_t": "United States of America",
+      "bowl": "MG Erasmus",
+      "bowl_t": "Namibia",
+      "v": "batsman",
+      "h2h": {
+        "balls": 6,
+        "runs": 15,
+        "dismissals": 1,
+        "strike_rate": 250.0
+      },
+      "vs_t": {
+        "runs": 56,
+        "balls": 55,
+        "dismissals": 3,
+        "average": 18.67,
+        "strike_rate": 101.82
+      },
+      "b_car": {
+        "avg": 40.94,
+        "sr": 143.11
+      },
+      "b_f": [
+        17,
+        79,
+        2
+      ],
+      "w_f": [
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "bat": "Shayan Jahangir",
+      "bat_t": "United States of America",
+      "bowl": "WP Myburgh",
+      "bowl_t": "Namibia",
+      "v": "batsman",
+      "h2h": {
+        "balls": 3,
+        "runs": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 36,
+        "balls": 33,
+        "dismissals": 1,
+        "average": 36.0,
+        "strike_rate": 109.09
+      },
+      "b_car": {
+        "avg": 30.87,
+        "sr": 131.16
+      },
+      "b_f": [
+        22,
+        20,
+        49
+      ],
+      "w_f": [
+        0,
+        2,
+        0
+      ]
+    },
+    {
+      "bat": "L Steenkamp",
+      "bat_t": "Namibia",
+      "bowl": "Shubham Ranjane",
+      "bowl_t": "United States of America",
+      "v": "batsman",
+      "h2h": {
+        "balls": 2,
+        "runs": 2,
+        "dismissals": 1,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 58,
+        "balls": 41,
+        "dismissals": 1,
+        "average": 58.0,
+        "strike_rate": 141.46
+      },
+      "w_car": {
+        "avg": 26.0,
+        "eco": 6.5
+      },
+      "b_f": [
+        23,
+        58,
+        29
+      ],
+      "w_f": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "JN Loftie-Eaton",
+      "bat_t": "Namibia",
+      "bowl": "SN Netravalkar",
+      "bowl_t": "United States of America",
+      "v": "bowler",
+      "h2h": {
+        "balls": 2,
+        "runs": 1,
+        "dismissals": 1,
+        "strike_rate": 50.0
+      },
+      "vs_t": {
+        "runs": 62,
+        "balls": 37,
+        "dismissals": 2,
+        "average": 31.0,
+        "strike_rate": 167.57
+      },
+      "w_car": {
+        "avg": 25.79,
+        "eco": 7.44
+      },
+      "b_f": [
+        5,
+        28,
+        13
+      ],
+      "w_f": [
+        1,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "JJ Smit",
+      "bat_t": "Namibia",
+      "bowl": "Milind Kumar",
+      "bowl_t": "United States of America",
+      "v": "bowler",
+      "h2h": {
+        "balls": 1,
+        "runs": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 56,
+        "balls": 38,
+        "dismissals": 3,
+        "average": 18.67,
+        "strike_rate": 147.37
+      },
+      "w_car": {
+        "avg": 20.08,
+        "eco": 7.49
+      },
+      "b_f": [
+        9,
+        31,
+        0
+      ],
+      "w_f": [
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "JN Frylinck",
+      "bat_t": "Namibia",
+      "bowl": "SC van Schalkwyk",
+      "bowl_t": "United States of America",
+      "v": "bowler",
+      "h2h": {
+        "balls": 5,
+        "runs": 8,
+        "dismissals": 1,
+        "strike_rate": 160.0
+      },
+      "vs_t": {
+        "runs": 41,
+        "balls": 32,
+        "dismissals": 3,
+        "average": 13.67,
+        "strike_rate": 128.12
+      },
+      "b_f": [
+        9,
+        19,
+        22
+      ],
+      "w_f": [
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "bat": "MG Erasmus",
+      "bat_t": "Namibia",
+      "bowl": "SC van Schalkwyk",
+      "bowl_t": "United States of America",
+      "v": "bowler",
+      "h2h": {
+        "balls": 3,
+        "runs": 1,
+        "dismissals": 1,
+        "strike_rate": 33.33
+      },
+      "vs_t": {
+        "runs": 85,
+        "balls": 63,
+        "dismissals": 3,
+        "average": 28.33,
+        "strike_rate": 134.92
+      },
+      "b_f": [
+        7,
+        6,
+        18
+      ],
+      "w_f": [
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "bat": "MG Erasmus",
+      "bat_t": "Namibia",
+      "bowl": "Harmeet Singh",
+      "bowl_t": "United States of America",
+      "v": "batsman",
+      "h2h": {
+        "balls": 15,
+        "runs": 24,
+        "dismissals": 0,
+        "strike_rate": 160.0
+      },
+      "vs_t": {
+        "runs": 85,
+        "balls": 63,
+        "dismissals": 3,
+        "average": 28.33,
+        "strike_rate": 134.92
+      },
+      "w_car": {
+        "avg": 23.35,
+        "eco": 7.05
+      },
+      "b_f": [
+        7,
+        6,
+        18
+      ],
+      "w_f": [
+        0,
+        4,
+        1
+      ]
+    },
+    {
+      "bat": "JN Loftie-Eaton",
+      "bat_t": "Namibia",
+      "bowl": "Milind Kumar",
+      "bowl_t": "United States of America",
+      "v": "batsman",
+      "h2h": {
+        "balls": 13,
+        "runs": 31,
+        "dismissals": 0,
+        "strike_rate": 238.46
+      },
+      "vs_t": {
+        "runs": 62,
+        "balls": 37,
+        "dismissals": 2,
+        "average": 31.0,
+        "strike_rate": 167.57
+      },
+      "w_car": {
+        "avg": 20.08,
+        "eco": 7.49
+      },
+      "b_f": [
+        5,
+        28,
+        13
+      ],
+      "w_f": [
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "MD Patel",
+      "bat_t": "United States of America",
+      "bowl": "JJ Smit",
+      "bowl_t": "Namibia",
+      "v": "batsman",
+      "h2h": {
+        "balls": 11,
+        "runs": 29,
+        "dismissals": 0,
+        "strike_rate": 263.64
+      },
+      "vs_t": {
+        "runs": 52,
+        "balls": 31,
+        "dismissals": 1,
+        "average": 52.0,
+        "strike_rate": 167.74
+      },
+      "b_car": {
+        "avg": 28.89,
+        "sr": 132.68
+      },
+      "b_f": [
+        52,
+        36,
+        3
+      ],
+      "w_f": [
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "L Steenkamp",
+      "bat_t": "Namibia",
+      "bowl": "Ali Khan",
+      "bowl_t": "United States of America",
+      "v": "batsman",
+      "h2h": {
+        "balls": 11,
+        "runs": 20,
+        "dismissals": 0,
+        "strike_rate": 181.82
+      },
+      "vs_t": {
+        "runs": 58,
+        "balls": 41,
+        "dismissals": 1,
+        "average": 58.0,
+        "strike_rate": 141.46
+      },
+      "w_car": {
+        "avg": 37.76,
+        "eco": 9.15
+      },
+      "b_f": [
+        23,
+        58,
+        29
+      ],
+      "w_f": [
+        1,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "SP Krishnamurthi",
+      "bat_t": "United States of America",
+      "bowl": "R Trumpelmann",
+      "bowl_t": "Namibia",
+      "v": "batsman",
+      "h2h": {
+        "balls": 10,
+        "runs": 29,
+        "dismissals": 0,
+        "strike_rate": 290.0
+      },
+      "vs_t": {
+        "runs": 68,
+        "balls": 34,
+        "dismissals": 0,
+        "average": 68.0,
+        "strike_rate": 200.0
+      },
+      "b_car": {
+        "avg": 32.67,
+        "sr": 139.01
+      },
+      "b_f": [
+        68,
+        1,
+        0
+      ],
+      "w_f": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "SP Krishnamurthi",
+      "bat_t": "United States of America",
+      "bowl": "MG Erasmus",
+      "bowl_t": "Namibia",
+      "v": "batsman",
+      "h2h": {
+        "balls": 9,
+        "runs": 14,
+        "dismissals": 0,
+        "strike_rate": 155.56
+      },
+      "vs_t": {
+        "runs": 68,
+        "balls": 34,
+        "dismissals": 0,
+        "average": 68.0,
+        "strike_rate": 200.0
+      },
+      "b_car": {
+        "avg": 32.67,
+        "sr": 139.01
+      },
+      "b_f": [
+        68,
+        1,
+        0
+      ],
+      "w_f": [
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "bat": "MD Patel",
+      "bat_t": "United States of America",
+      "bowl": "R Trumpelmann",
+      "bowl_t": "Namibia",
+      "v": "batsman",
+      "h2h": {
+        "balls": 8,
+        "runs": 9,
+        "dismissals": 0,
+        "strike_rate": 112.5
+      },
+      "vs_t": {
+        "runs": 52,
+        "balls": 31,
+        "dismissals": 1,
+        "average": 52.0,
+        "strike_rate": 167.74
+      },
+      "b_car": {
+        "avg": 28.89,
+        "sr": 132.68
+      },
+      "b_f": [
+        52,
+        36,
+        3
+      ],
+      "w_f": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "L Steenkamp",
+      "bat_t": "Namibia",
+      "bowl": "Harmeet Singh",
+      "bowl_t": "United States of America",
+      "v": "batsman",
+      "h2h": {
+        "balls": 8,
+        "runs": 15,
+        "dismissals": 0,
+        "strike_rate": 187.5
+      },
+      "vs_t": {
+        "runs": 58,
+        "balls": 41,
+        "dismissals": 1,
+        "average": 58.0,
+        "strike_rate": 141.46
+      },
+      "w_car": {
+        "avg": 23.35,
+        "eco": 7.05
+      },
+      "b_f": [
+        23,
+        58,
+        29
+      ],
+      "w_f": [
+        0,
+        4,
+        1
+      ]
+    },
+    {
+      "bat": "Shayan Jahangir",
+      "bat_t": "United States of America",
+      "bowl": "MG Erasmus",
+      "bowl_t": "Namibia",
+      "v": "batsman",
+      "h2h": {
+        "balls": 7,
+        "runs": 4,
+        "dismissals": 0,
+        "strike_rate": 57.14
+      },
+      "vs_t": {
+        "runs": 36,
+        "balls": 33,
+        "dismissals": 1,
+        "average": 36.0,
+        "strike_rate": 109.09
+      },
+      "b_car": {
+        "avg": 30.87,
+        "sr": 131.16
+      },
+      "b_f": [
+        22,
+        20,
+        49
+      ],
+      "w_f": [
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "bat": "SR Mukkamalla",
+      "bat_t": "United States of America",
+      "bowl": "WP Myburgh",
+      "bowl_t": "Namibia",
+      "v": "bowler",
+      "h2h": {
+        "balls": 7,
+        "runs": 6,
+        "dismissals": 0,
+        "strike_rate": 85.71
+      },
+      "vs_t": {
+        "runs": 56,
+        "balls": 55,
+        "dismissals": 3,
+        "average": 18.67,
+        "strike_rate": 101.82
+      },
+      "b_car": {
+        "avg": 40.94,
+        "sr": 143.11
+      },
+      "b_f": [
+        17,
+        79,
+        2
+      ],
+      "w_f": [
+        0,
+        2,
+        0
+      ]
+    },
+    {
+      "bat": "JJ Smit",
+      "bat_t": "Namibia",
+      "bowl": "Harmeet Singh",
+      "bowl_t": "United States of America",
+      "v": "batsman",
+      "h2h": {
+        "balls": 7,
+        "runs": 12,
+        "dismissals": 0,
+        "strike_rate": 171.43
+      },
+      "vs_t": {
+        "runs": 56,
+        "balls": 38,
+        "dismissals": 3,
+        "average": 18.67,
+        "strike_rate": 147.37
+      },
+      "w_car": {
+        "avg": 23.35,
+        "eco": 7.05
+      },
+      "b_f": [
+        9,
+        31,
+        0
+      ],
+      "w_f": [
+        0,
+        4,
+        1
+      ]
+    },
+    {
+      "bat": "ZE Green",
+      "bat_t": "Namibia",
+      "bowl": "SN Netravalkar",
+      "bowl_t": "United States of America",
+      "v": "neutral",
+      "h2h": {
+        "balls": 7,
+        "runs": 8,
+        "dismissals": 0,
+        "strike_rate": 114.29
+      },
+      "vs_t": {
+        "runs": 24,
+        "balls": 30,
+        "dismissals": 1,
+        "average": 24.0,
+        "strike_rate": 80.0
+      },
+      "w_car": {
+        "avg": 25.79,
+        "eco": 7.44
+      },
+      "b_f": [
+        7,
+        18,
+        11
+      ],
+      "w_f": [
+        1,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "ZE Green",
+      "bat_t": "Namibia",
+      "bowl": "Milind Kumar",
+      "bowl_t": "United States of America",
+      "v": "bowler",
+      "h2h": {
+        "balls": 7,
+        "runs": 2,
+        "dismissals": 0,
+        "strike_rate": 28.57
+      },
+      "vs_t": {
+        "runs": 24,
+        "balls": 30,
+        "dismissals": 1,
+        "average": 24.0,
+        "strike_rate": 80.0
+      },
+      "w_car": {
+        "avg": 20.08,
+        "eco": 7.49
+      },
+      "b_f": [
+        7,
+        18,
+        11
+      ],
+      "w_f": [
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "JN Loftie-Eaton",
+      "bat_t": "Namibia",
+      "bowl": "Harmeet Singh",
+      "bowl_t": "United States of America",
+      "v": "bowler",
+      "h2h": {
+        "balls": 7,
+        "runs": 9,
+        "dismissals": 0,
+        "strike_rate": 128.57
+      },
+      "vs_t": {
+        "runs": 62,
+        "balls": 37,
+        "dismissals": 2,
+        "average": 31.0,
+        "strike_rate": 167.57
+      },
+      "w_car": {
+        "avg": 23.35,
+        "eco": 7.05
+      },
+      "b_f": [
+        5,
+        28,
+        13
+      ],
+      "w_f": [
+        0,
+        4,
+        1
+      ]
+    },
+    {
+      "bat": "Shayan Jahangir",
+      "bat_t": "United States of America",
+      "bowl": "M Heingo",
+      "bowl_t": "Namibia",
+      "v": "batsman",
+      "h2h": {
+        "balls": 6,
+        "runs": 12,
+        "dismissals": 0,
+        "strike_rate": 200.0
+      },
+      "vs_t": {
+        "runs": 36,
+        "balls": 33,
+        "dismissals": 1,
+        "average": 36.0,
+        "strike_rate": 109.09
+      },
+      "b_car": {
+        "avg": 30.87,
+        "sr": 131.16
+      },
+      "b_f": [
+        22,
+        20,
+        49
+      ],
+      "w_f": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "MD Patel",
+      "bat_t": "United States of America",
+      "bowl": "BM Scholtz",
+      "bowl_t": "Namibia",
+      "v": "batsman",
+      "h2h": {
+        "balls": 6,
+        "runs": 6,
+        "dismissals": 0,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 52,
+        "balls": 31,
+        "dismissals": 1,
+        "average": 52.0,
+        "strike_rate": 167.74
+      },
+      "b_car": {
+        "avg": 28.89,
+        "sr": 132.68
+      },
+      "b_f": [
+        52,
+        36,
+        3
+      ],
+      "w_f": [
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "L Steenkamp",
+      "bat_t": "Namibia",
+      "bowl": "Milind Kumar",
+      "bowl_t": "United States of America",
+      "v": "batsman",
+      "h2h": {
+        "balls": 6,
+        "runs": 3,
+        "dismissals": 0,
+        "strike_rate": 50.0
+      },
+      "vs_t": {
+        "runs": 58,
+        "balls": 41,
+        "dismissals": 1,
+        "average": 58.0,
+        "strike_rate": 141.46
+      },
+      "w_car": {
+        "avg": 20.08,
+        "eco": 7.49
+      },
+      "b_f": [
+        23,
+        58,
+        29
+      ],
+      "w_f": [
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "Shayan Jahangir",
+      "bat_t": "United States of America",
+      "bowl": "R Trumpelmann",
+      "bowl_t": "Namibia",
+      "v": "batsman",
+      "h2h": {
+        "balls": 5,
+        "runs": 7,
+        "dismissals": 0,
+        "strike_rate": 140.0
+      },
+      "vs_t": {
+        "runs": 36,
+        "balls": 33,
+        "dismissals": 1,
+        "average": 36.0,
+        "strike_rate": 109.09
+      },
+      "b_car": {
+        "avg": 30.87,
+        "sr": 131.16
+      },
+      "b_f": [
+        22,
+        20,
+        49
+      ],
+      "w_f": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "Milind Kumar",
+      "bat_t": "United States of America",
+      "bowl": "R Trumpelmann",
+      "bowl_t": "Namibia",
+      "v": "neutral",
+      "h2h": {
+        "balls": 5,
+        "runs": 3,
+        "dismissals": 0,
+        "strike_rate": 60.0
+      },
+      "vs_t": {
+        "runs": 59,
+        "balls": 47,
+        "dismissals": 1,
+        "average": 59.0,
+        "strike_rate": 125.53
+      },
+      "b_car": {
+        "avg": 32.0,
+        "sr": 103.74
+      },
+      "b_f": [
+        28,
+        3,
+        29
+      ],
+      "w_f": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "L Steenkamp",
+      "bat_t": "Namibia",
+      "bowl": "SN Netravalkar",
+      "bowl_t": "United States of America",
+      "v": "batsman",
+      "h2h": {
+        "balls": 5,
+        "runs": 10,
+        "dismissals": 0,
+        "strike_rate": 200.0
+      },
+      "vs_t": {
+        "runs": 58,
+        "balls": 41,
+        "dismissals": 1,
+        "average": 58.0,
+        "strike_rate": 141.46
+      },
+      "w_car": {
+        "avg": 25.79,
+        "eco": 7.44
+      },
+      "b_f": [
+        23,
+        58,
+        29
+      ],
+      "w_f": [
+        1,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "JJ Smit",
+      "bat_t": "Namibia",
+      "bowl": "SN Netravalkar",
+      "bowl_t": "United States of America",
+      "v": "bowler",
+      "h2h": {
+        "balls": 5,
+        "runs": 5,
+        "dismissals": 0,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 56,
+        "balls": 38,
+        "dismissals": 3,
+        "average": 18.67,
+        "strike_rate": 147.37
+      },
+      "w_car": {
+        "avg": 25.79,
+        "eco": 7.44
+      },
+      "b_f": [
+        9,
+        31,
+        0
+      ],
+      "w_f": [
+        1,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "SP Krishnamurthi",
+      "bat_t": "United States of America",
+      "bowl": "JJ Smit",
+      "bowl_t": "Namibia",
+      "v": "batsman",
+      "h2h": {
+        "balls": 4,
+        "runs": 6,
+        "dismissals": 0,
+        "strike_rate": 150.0
+      },
+      "vs_t": {
+        "runs": 68,
+        "balls": 34,
+        "dismissals": 0,
+        "average": 68.0,
+        "strike_rate": 200.0
+      },
+      "b_car": {
+        "avg": 32.67,
+        "sr": 139.01
+      },
+      "b_f": [
+        68,
+        1,
+        0
+      ],
+      "w_f": [
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "SP Krishnamurthi",
+      "bat_t": "United States of America",
+      "bowl": "WP Myburgh",
+      "bowl_t": "Namibia",
+      "v": "batsman",
+      "h2h": {
+        "balls": 4,
+        "runs": 3,
+        "dismissals": 0,
+        "strike_rate": 75.0
+      },
+      "vs_t": {
+        "runs": 68,
+        "balls": 34,
+        "dismissals": 0,
+        "average": 68.0,
+        "strike_rate": 200.0
+      },
+      "b_car": {
+        "avg": 32.67,
+        "sr": 139.01
+      },
+      "b_f": [
+        68,
+        1,
+        0
+      ],
+      "w_f": [
+        0,
+        2,
+        0
+      ]
+    },
+    {
+      "bat": "SP Krishnamurthi",
+      "bat_t": "United States of America",
+      "bowl": "JN Loftie-Eaton",
+      "bowl_t": "Namibia",
+      "v": "batsman",
+      "h2h": {
+        "balls": 4,
+        "runs": 3,
+        "dismissals": 0,
+        "strike_rate": 75.0
+      },
+      "vs_t": {
+        "runs": 68,
+        "balls": 34,
+        "dismissals": 0,
+        "average": 68.0,
+        "strike_rate": 200.0
+      },
+      "b_car": {
+        "avg": 32.67,
+        "sr": 139.01
+      },
+      "b_f": [
+        68,
+        1,
+        0
+      ],
+      "w_f": [
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "Milind Kumar",
+      "bat_t": "United States of America",
+      "bowl": "BM Scholtz",
+      "bowl_t": "Namibia",
+      "v": "neutral",
+      "h2h": {
+        "balls": 4,
+        "runs": 8,
+        "dismissals": 0,
+        "strike_rate": 200.0
+      },
+      "vs_t": {
+        "runs": 59,
+        "balls": 47,
+        "dismissals": 1,
+        "average": 59.0,
+        "strike_rate": 125.53
+      },
+      "b_car": {
+        "avg": 32.0,
+        "sr": 103.74
+      },
+      "b_f": [
+        28,
+        3,
+        29
+      ],
+      "w_f": [
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "Milind Kumar",
+      "bat_t": "United States of America",
+      "bowl": "WP Myburgh",
+      "bowl_t": "Namibia",
+      "v": "neutral",
+      "h2h": {
+        "balls": 4,
+        "runs": 5,
+        "dismissals": 0,
+        "strike_rate": 125.0
+      },
+      "vs_t": {
+        "runs": 59,
+        "balls": 47,
+        "dismissals": 1,
+        "average": 59.0,
+        "strike_rate": 125.53
+      },
+      "b_car": {
+        "avg": 32.0,
+        "sr": 103.74
+      },
+      "b_f": [
+        28,
+        3,
+        29
+      ],
+      "w_f": [
+        0,
+        2,
+        0
+      ]
+    },
+    {
+      "bat": "ZE Green",
+      "bat_t": "Namibia",
+      "bowl": "Ali Khan",
+      "bowl_t": "United States of America",
+      "v": "neutral",
+      "h2h": {
+        "balls": 4,
+        "runs": 8,
+        "dismissals": 0,
+        "strike_rate": 200.0
+      },
+      "vs_t": {
+        "runs": 24,
+        "balls": 30,
+        "dismissals": 1,
+        "average": 24.0,
+        "strike_rate": 80.0
+      },
+      "w_car": {
+        "avg": 37.76,
+        "eco": 9.15
+      },
+      "b_f": [
+        7,
+        18,
+        11
+      ],
+      "w_f": [
+        1,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "SP Krishnamurthi",
+      "bat_t": "United States of America",
+      "bowl": "BM Scholtz",
+      "bowl_t": "Namibia",
+      "v": "batsman",
+      "h2h": {
+        "balls": 3,
+        "runs": 13,
+        "dismissals": 0,
+        "strike_rate": 433.33
+      },
+      "vs_t": {
+        "runs": 68,
+        "balls": 34,
+        "dismissals": 0,
+        "average": 68.0,
+        "strike_rate": 200.0
+      },
+      "b_car": {
+        "avg": 32.67,
+        "sr": 139.01
+      },
+      "b_f": [
+        68,
+        1,
+        0
+      ],
+      "w_f": [
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "Shayan Jahangir",
+      "bat_t": "United States of America",
+      "bowl": "BM Scholtz",
+      "bowl_t": "Namibia",
+      "v": "batsman",
+      "h2h": {
+        "balls": 3,
+        "runs": 2,
+        "dismissals": 0,
+        "strike_rate": 66.67
+      },
+      "vs_t": {
+        "runs": 36,
+        "balls": 33,
+        "dismissals": 1,
+        "average": 36.0,
+        "strike_rate": 109.09
+      },
+      "b_car": {
+        "avg": 30.87,
+        "sr": 131.16
+      },
+      "b_f": [
+        22,
+        20,
+        49
+      ],
+      "w_f": [
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "Harmeet Singh",
+      "bat_t": "United States of America",
+      "bowl": "BM Scholtz",
+      "bowl_t": "Namibia",
+      "v": "neutral",
+      "h2h": {
+        "balls": 3,
+        "runs": 7,
+        "dismissals": 0,
+        "strike_rate": 233.33
+      },
+      "vs_t": {
+        "runs": 16,
+        "balls": 12,
+        "dismissals": 1,
+        "average": 16.0,
+        "strike_rate": 133.33
+      },
+      "b_car": {
+        "avg": 16.13,
+        "sr": 139.88
+      },
+      "b_f": [
+        1,
+        6,
+        0
+      ],
+      "w_f": [
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "DO Leicher",
+      "bat_t": "Namibia",
+      "bowl": "Harmeet Singh",
+      "bowl_t": "United States of America",
+      "v": "bowler",
+      "h2h": {
+        "balls": 3,
+        "runs": 1,
+        "dismissals": 0,
+        "strike_rate": 33.33
+      },
+      "vs_t": {
+        "runs": 12,
+        "balls": 16,
+        "dismissals": 0,
+        "average": 12.0,
+        "strike_rate": 75.0
+      },
+      "w_car": {
+        "avg": 23.35,
+        "eco": 7.05
+      },
+      "b_f": [
+        0,
+        6
+      ],
+      "w_f": [
+        0,
+        4,
+        1
+      ]
+    },
+    {
+      "bat": "JN Frylinck",
+      "bat_t": "Namibia",
+      "bowl": "Ali Khan",
+      "bowl_t": "United States of America",
+      "v": "bowler",
+      "h2h": {
+        "balls": 3,
+        "runs": 2,
+        "dismissals": 0,
+        "strike_rate": 66.67
+      },
+      "vs_t": {
+        "runs": 41,
+        "balls": 32,
+        "dismissals": 3,
+        "average": 13.67,
+        "strike_rate": 128.12
+      },
+      "w_car": {
+        "avg": 37.76,
+        "eco": 9.15
+      },
+      "b_f": [
+        9,
+        19,
+        22
+      ],
+      "w_f": [
+        1,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "JN Frylinck",
+      "bat_t": "Namibia",
+      "bowl": "SN Netravalkar",
+      "bowl_t": "United States of America",
+      "v": "bowler",
+      "h2h": {
+        "balls": 3,
+        "runs": 2,
+        "dismissals": 0,
+        "strike_rate": 66.67
+      },
+      "vs_t": {
+        "runs": 41,
+        "balls": 32,
+        "dismissals": 3,
+        "average": 13.67,
+        "strike_rate": 128.12
+      },
+      "w_car": {
+        "avg": 25.79,
+        "eco": 7.44
+      },
+      "b_f": [
+        9,
+        19,
+        22
+      ],
+      "w_f": [
+        1,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "Milind Kumar",
+      "bat_t": "United States of America",
+      "bowl": "JJ Smit",
+      "bowl_t": "Namibia",
+      "v": "neutral",
+      "h2h": {
+        "balls": 2,
+        "runs": 7,
+        "dismissals": 0,
+        "strike_rate": 350.0
+      },
+      "vs_t": {
+        "runs": 59,
+        "balls": 47,
+        "dismissals": 1,
+        "average": 59.0,
+        "strike_rate": 125.53
+      },
+      "b_car": {
+        "avg": 32.0,
+        "sr": 103.74
+      },
+      "b_f": [
+        28,
+        3,
+        29
+      ],
+      "w_f": [
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "Milind Kumar",
+      "bat_t": "United States of America",
+      "bowl": "JN Loftie-Eaton",
+      "bowl_t": "Namibia",
+      "v": "neutral",
+      "h2h": {
+        "balls": 2,
+        "runs": 2,
+        "dismissals": 0,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 59,
+        "balls": 47,
+        "dismissals": 1,
+        "average": 59.0,
+        "strike_rate": 125.53
+      },
+      "b_car": {
+        "avg": 32.0,
+        "sr": 103.74
+      },
+      "b_f": [
+        28,
+        3,
+        29
+      ],
+      "w_f": [
+        0,
+        1
+      ]
+    }
+  ]
+}

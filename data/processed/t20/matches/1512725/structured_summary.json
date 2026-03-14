@@ -1,0 +1,353 @@
+{
+    "match_context": {
+        "match_id": "1512725",
+        "date": "2026-02-09",
+        "tournament": "2025/26",
+        "venue": "Eden Gardens, Kolkata",
+        "stage": "ICC Men's T20 World Cup",
+        "Teams": {
+            "Scotland": {
+                "captain": "RD Berrington",
+                "playing_xi_count": 10
+            },
+            "Italy": {
+                "captain": "BAD Manenti",
+                "playing_xi_count": 10
+            }
+        }
+    },
+    "Match_Result": {
+        "summary": "Scotland won by 73 runs",
+        "winner": "Scotland",
+        "margin": 73,
+        "margin_type": "runs"
+    },
+    "Scorecard_Highlights": {
+        "Key_Support_Performers": [
+            {
+                "player": "JT Smuts",
+                "team": "Italy",
+                "runs": 22,
+                "balls": 12,
+                "sr": 183.33,
+                "fours": 2,
+                "sixes": 2,
+                "win_contribution_percent": 16.4,
+                "score": 53.85
+            }
+        ],
+        "Career_vs_Match_Bowling": [],
+        "Bowling_Standouts": {
+            "Economical_Spells": [],
+            "Expensive_Spells": [],
+            "High_Economy_No_Baseline": [
+                {
+                    "player": "TJ Draca",
+                    "team": "Italy",
+                    "overs": 2.0,
+                    "runs": 37,
+                    "wickets": 1,
+                    "econ": 18.5,
+                    "score": 39.62,
+                    "bowling_baseline": {
+                        "career_wickets": 0,
+                        "career_economy": 0.0,
+                        "career_sr": 0.0,
+                        "career_avg": 0.0,
+                        "best_bowling": "N/A",
+                        "matches": 0,
+                        "source": "none",
+                        "baseline_available": false
+                    }
+                },
+                {
+                    "player": "HJ Manenti",
+                    "team": "Italy",
+                    "overs": 1.0,
+                    "runs": 15,
+                    "wickets": 0,
+                    "econ": 15.0,
+                    "score": 11.86,
+                    "bowling_baseline": {
+                        "career_wickets": 0,
+                        "career_economy": 0.0,
+                        "career_sr": 0.0,
+                        "career_avg": 0.0,
+                        "best_bowling": "N/A",
+                        "matches": 0,
+                        "source": "none",
+                        "baseline_available": false
+                    }
+                }
+            ]
+        },
+        "Significant_Collapses": []
+    },
+    "Innings_Metrics": [
+        {
+            "innings": 1,
+            "team": "Scotland",
+            "total_runs": 207,
+            "total_wickets": 4,
+            "balls_faced": 120,
+            "overs_faced": 20.0,
+            "phase_analysis": {
+                "Powerplay": {
+                    "runs": 49,
+                    "wkts": 0,
+                    "rr": 8.17
+                },
+                "Middle": {
+                    "runs": 87,
+                    "wkts": 2,
+                    "rr": 9.67
+                },
+                "Death": {
+                    "runs": 71,
+                    "wkts": 2,
+                    "rr": 14.2
+                }
+            }
+        },
+        {
+            "innings": 2,
+            "team": "Italy",
+            "total_runs": 134,
+            "total_wickets": 9,
+            "balls_faced": 100,
+            "overs_faced": 16.4,
+            "phase_analysis": {
+                "Powerplay": {
+                    "runs": 54,
+                    "wkts": 3,
+                    "rr": 9.0
+                },
+                "Middle": {
+                    "runs": 77,
+                    "wkts": 4,
+                    "rr": 8.56
+                },
+                "Death": {
+                    "runs": 3,
+                    "wkts": 2,
+                    "rr": 1.8
+                }
+            },
+            "pressure_index": 85.0,
+            "target": 208
+        }
+    ],
+    "Detailed_Impact_Analysis": [
+        {
+            "player": "MA Leask",
+            "team": "Scotland",
+            "overs": 4.0,
+            "runs": 17,
+            "wickets": 4,
+            "econ": 4.25,
+            "score": 150.0,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-17r-4w"
+        },
+        {
+            "player": "HG Munsey",
+            "team": "Scotland",
+            "runs": 84,
+            "balls": 58,
+            "sr": 144.83,
+            "fours": 13,
+            "sixes": 2,
+            "win_contribution_percent": 40.6,
+            "score": 109.16,
+            "role": "batting",
+            "match_stats": "84(58)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "MA Leask",
+            "team": "Scotland",
+            "runs": 22,
+            "balls": 5,
+            "sr": 440.0,
+            "fours": 2,
+            "sixes": 2,
+            "win_contribution_percent": 10.6,
+            "score": 98.44,
+            "role": "batting",
+            "match_stats": "22(5)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "MRJ Watt",
+            "team": "Scotland",
+            "overs": 4.0,
+            "runs": 24,
+            "wickets": 2,
+            "econ": 6.0,
+            "score": 89.65,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-24r-2w"
+        },
+        {
+            "player": "BAD Manenti",
+            "team": "Italy",
+            "runs": 52,
+            "balls": 31,
+            "sr": 167.74,
+            "fours": 5,
+            "sixes": 1,
+            "win_contribution_percent": 38.8,
+            "score": 81.14,
+            "role": "batting",
+            "match_stats": "52(31)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "BJ McMullen",
+            "team": "Scotland",
+            "runs": 41,
+            "balls": 20,
+            "sr": 205.0,
+            "fours": 0,
+            "sixes": 4,
+            "win_contribution_percent": 19.8,
+            "score": 76.61,
+            "role": "batting",
+            "match_stats": "41(20)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "Ali Hasan",
+            "team": "Italy",
+            "overs": 4.0,
+            "runs": 21,
+            "wickets": 1,
+            "econ": 5.25,
+            "score": 63.89,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-21r-1w"
+        },
+        {
+            "player": "HJ Manenti",
+            "team": "Italy",
+            "runs": 37,
+            "balls": 26,
+            "sr": 142.31,
+            "fours": 1,
+            "sixes": 3,
+            "win_contribution_percent": 27.6,
+            "score": 61.72,
+            "role": "batting",
+            "match_stats": "37(26)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "BJ Currie",
+            "team": "Scotland",
+            "overs": 2.0,
+            "runs": 12,
+            "wickets": 1,
+            "econ": 6.0,
+            "score": 59.65,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "2.0o-12r-1w"
+        },
+        {
+            "player": "MA Jones",
+            "team": "Scotland",
+            "runs": 37,
+            "balls": 31,
+            "sr": 119.35,
+            "fours": 1,
+            "sixes": 2,
+            "win_contribution_percent": 17.9,
+            "score": 57.73,
+            "role": "batting",
+            "match_stats": "37(31)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        }
+    ],
+    "Tactical_Post_Match_Analysis": [
+        "Scotland's victory was anchored by HG Munsey, who contributed 40.6% of the team's runs.",
+        "Defensive pressure was sustained by MA Leask, finishing with an impact score of 150.0.",
+        "Italy struggled under extreme chase pressure (Index: 85.0), leading to a late-innings collapse.",
+        "High-scoring finish by Scotland in Death Overs (RR: 14.2) shifted match momentum.",
+        "Italy lost 3 wickets in Powerplay, failing to build a stable foundation."
+    ]
+}

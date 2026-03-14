@@ -1,5 +1,6 @@
 import json
 import os
+import pandas as pd
 
 class FlowBuilder:
     """
@@ -19,7 +20,7 @@ class FlowBuilder:
 
     def extract_events(self):
         if not self.data:
-            return []
+            return self._extract_events_from_csv()
 
         events = []
         
@@ -79,6 +80,16 @@ class FlowBuilder:
                 "description": result
             })
 
+        # Fallback if the extracted JSON events are effectively empty 
+        # (e.g. no powerplay records, collapses, or high impacts found)
+        if len(events) <= 1:
+            csv_events = self._extract_events_from_csv()
+            if csv_events:
+                # keep the Result event but replace the rest with CSV extractions
+                return [e for e in events if e.get("type") == "Result"] + csv_events
+
+        return events
+
     def extract_summary_for_recommendations(self):
         """
         Extracts a condensed version of the structured summary for recommendation generation.
@@ -110,3 +121,42 @@ class FlowBuilder:
         summary["Top_Impact_Performers"] = top_performers
 
         return json.dumps(summary, indent=2)
+
+    def _extract_events_from_csv(self):
+        """
+        Fallback extraction method to pull basic tactical events (high scores, 
+        good bowling figures) directly from CSV if the AI summary is missing.
+        """
+        events = []
+        bat_path = os.path.join(self.match_data_path, "batting.csv")
+        bowl_path = os.path.join(self.match_data_path, "bowling.csv")
+
+        if os.path.exists(bat_path):
+            try:
+                bat_df = pd.read_csv(bat_path)
+                # Find high impact batters (e.g. >= 30 runs)
+                anchors = bat_df[bat_df['runs'] >= 30]
+                for _, row in anchors.iterrows():
+                    events.append({
+                        "phase": "All",
+                        "type": "Anchor Performance",
+                        "description": f"{row['player']} from {row['team']} scored {int(row['runs'])} off {int(row['balls_faced'])} balls (SR: {float(row['strike_rate']):.1f})."
+                    })
+            except Exception as e:
+                print(f"Error reading batting.csv for fallback events: {e}")
+
+        if os.path.exists(bowl_path):
+            try:
+                bowl_df = pd.read_csv(bowl_path)
+                # Find high impact bowlers (e.g. >= 2 wickets or very low econ)
+                good_spells = bowl_df[(bowl_df['wickets'] >= 2) | ((bowl_df['economy'] <= 6.0) & (bowl_df['overs'] >= 3))]
+                for _, row in good_spells.iterrows():
+                    events.append({
+                        "phase": "All",
+                        "type": "Bowling Spell",
+                        "description": f"{row['player']} from {row['team']} took {int(row['wickets'])} wickets for {int(row['runs_conceded'])} runs in {float(row['overs']):.1f} overs (Econ: {float(row['economy']):.1f})."
+                    })
+            except Exception as e:
+                print(f"Error reading bowling.csv for fallback events: {e}")
+
+        return events

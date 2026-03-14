@@ -1,0 +1,95 @@
+{
+    "match_id": "1512720",
+    "winner": "West Indies",
+    "loser": "Scotland",
+    "awards": {
+        "player_of_the_match": {
+            "name": "R Shepherd",
+            "team": "West Indies",
+            "impact_score": 201.0,
+            "breakdown": {
+                "batting": 27.0,
+                "bowling": 150,
+                "fielding": 24,
+                "pressure_multiplier": 1.0
+            },
+            "key_stats": {
+                "batting": "6(3) SR:200.0",
+                "bowling": "3.0ov-5wkt econ:6.67"
+            }
+        },
+        "best_batter": {
+            "name": "SO Hetmyer",
+            "team": "West Indies",
+            "batting_impact": 119.0,
+            "stats": {
+                "runs": 64,
+                "balls": 37,
+                "sr": 172.97,
+                "fours": 2,
+                "sixes": 6
+            }
+        },
+        "best_bowler": {
+            "name": "R Shepherd",
+            "team": "West Indies",
+            "bowling_impact": 150,
+            "stats": {
+                "overs": 3.0,
+                "wickets": 5,
+                "econ": 6.67
+            }
+        },
+        "game_changer": {
+            "name": "R Shepherd",
+            "team": "West Indies",
+            "reason": "5-wicket haul",
+            "key_stats": {
+                "batting": "6(3) SR:200.0",
+                "bowling": "3.0ov-5wkt econ:6.67"
+            }
+        },
+        "pressure_performer": {
+            "name": "RD Berrington",
+            "team": "Scotland",
+            "pressure_multiplier": 1.2,
+            "reason": "Chasing team batter under pressure | Attacking SR 175.0 under pressure",
+            "key_stats": {
+                "batting": "42(24) SR:175.0"
+            }
+        },
+        "emerging_player": {
+            "name": "R Shepherd",
+            "team": "West Indies",
+            "reason": "Outperformed team average by 3.15x",
+            "key_stats": {
+                "batting": "6(3) SR:200.0",
+                "bowling": "3.0ov-5wkt econ:6.67"
+            }
+        },
+        "fielding_impact": {
+            "name": "R Shepherd",
+            "team": "West Indies",
+            "fielding_proxy_score": 24,
+            "methodology": "Proxy-based: catch attribution (65% T20 wickets are catches) + dot ball pressure bonus + economy-implied fielding support",
+            "reason": "Estimated 3 caught dismissals from 5 wickets",
+            "stats": {
+                "overs": 3.0,
+                "wickets": 5,
+                "econ": 6.67
+            }
+        },
+        "all_rounder_impact": {
+            "name": "R Shepherd",
+            "team": "West Indies",
+            "all_rounder_score": 177.0,
+            "stats": {
+                "runs": 6,
+                "sr": 200.0,
+                "overs": 3.0,
+                "wickets": 5,
+                "econ": 6.67
+            }
+        }
+    }
+}

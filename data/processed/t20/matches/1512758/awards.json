@@ -1,0 +1,93 @@
+{
+    "match_id": "1512758",
+    "winner": "Australia",
+    "loser": "Oman",
+    "awards": {
+        "player_of_the_match": {
+            "name": "A Zampa",
+            "team": "Australia",
+            "impact_score": 149.0,
+            "breakdown": {
+                "batting": 0.0,
+                "bowling": 125,
+                "fielding": 24,
+                "pressure_multiplier": 1.0
+            },
+            "key_stats": {
+                "bowling": "3.2ov-4wkt econ:6.6"
+            }
+        },
+        "best_batter": {
+            "name": "MR Marsh",
+            "team": "Australia",
+            "batting_impact": 127.0,
+            "stats": {
+                "runs": 64,
+                "balls": 33,
+                "sr": 193.94,
+                "fours": 7,
+                "sixes": 4
+            }
+        },
+        "best_bowler": {
+            "name": "A Zampa",
+            "team": "Australia",
+            "bowling_impact": 125,
+            "stats": {
+                "overs": 3.2,
+                "wickets": 4,
+                "econ": 6.6
+            }
+        },
+        "game_changer": {
+            "name": "MR Marsh",
+            "team": "Australia",
+            "reason": "SR 193.94 with 4 sixes",
+            "key_stats": {
+                "batting": "64(33) SR:193.94"
+            }
+        },
+        "pressure_performer": {
+            "name": "MR Marsh",
+            "team": "Australia",
+            "pressure_multiplier": 1.0,
+            "reason": "Chasing team batter under pressure | Attacking SR 193.94 under pressure",
+            "key_stats": {
+                "batting": "64(33) SR:193.94"
+            }
+        },
+        "emerging_player": {
+            "name": "Shakeel Ahmed",
+            "team": "Oman",
+            "reason": "Outperformed team average by 4.8x",
+            "key_stats": {
+                "batting": "3(7) SR:42.86",
+                "bowling": "4.0ov-1wkt econ:7.25"
+            }
+        },
+        "fielding_impact": {
+            "name": "A Zampa",
+            "team": "Australia",
+            "fielding_proxy_score": 24,
+            "methodology": "Proxy-based: catch attribution (65% T20 wickets are catches) + dot ball pressure bonus + economy-implied fielding support",
+            "reason": "Estimated 3 caught dismissals from 4 wickets",
+            "stats": {
+                "overs": 3.2,
+                "wickets": 4,
+                "econ": 6.6
+            }
+        },
+        "all_rounder_impact": {
+            "name": "Shakeel Ahmed",
+            "team": "Oman",
+            "all_rounder_score": 50.0,
+            "stats": {
+                "runs": 3,
+                "sr": 42.86,
+                "overs": 4.0,
+                "wickets": 1,
+                "econ": 7.25
+            }
+        }
+    }
+}

@@ -1,0 +1,1234 @@
+{
+    "match_id": "1512740",
+    "metadata": {
+        "tournament": "2025/26",
+        "venue": "Sinhalese Sports Club Ground, Colombo",
+        "date": "2026-02-14",
+        "stage": "ICC Men's T20 World Cup",
+        "winner": "Ireland",
+        "loser": "Oman",
+        "win_classification": "Moderate",
+        "margin_runs": 96,
+        "margin_wickets": null,
+        "competitiveness_index": 85.0,
+        "teams": {
+            "Ireland": {
+                "captain": "L Tucker",
+                "playing_xi_count": 11
+            },
+            "Oman": {
+                "captain": "Aamir Kaleem",
+                "playing_xi_count": 11
+            }
+        },
+        "team_summary": {
+            "Ireland": {
+                "run_rate": 11.75,
+                "fours": 21,
+                "sixes": 13,
+                "boundary_runs": 162,
+                "dot_balls": 30,
+                "total_runs": 235,
+                "total_wickets": 5
+            },
+            "Oman": {
+                "run_rate": 7.72,
+                "fours": 15,
+                "sixes": 3,
+                "boundary_runs": 78,
+                "dot_balls": 43,
+                "total_runs": 139,
+                "total_wickets": 10
+            }
+        },
+        "formulas": {
+            "competitiveness": "Base(Margin) + Pressure_Bonus(L5 Overs)",
+            "pressure": "((RR_Gap / Start_RR) * 40) + ((Wickets / 10) * 60)",
+            "batting_impact": "Runs + (SR/Match_SR * 25)",
+            "bowling_impact": "(Wickets * 30) + (Match_RR/Econ * 20)"
+        }
+    },
+    "scorecards": {
+        "batting": [
+            {
+                "player": "L Tucker",
+                "team": "Ireland",
+                "runs": 94,
+                "balls": 53,
+                "sr": 177.36,
+                "fours": 10,
+                "sixes": 4,
+                "win_contribution_percent": 40.0,
+                "score": 122.99
+            },
+            {
+                "player": "GJ Delany",
+                "team": "Ireland",
+                "runs": 56,
+                "balls": 31,
+                "sr": 180.65,
+                "fours": 3,
+                "sixes": 4,
+                "win_contribution_percent": 23.8,
+                "score": 85.52
+            },
+            {
+                "player": "GH Dockrell",
+                "team": "Ireland",
+                "runs": 35,
+                "balls": 9,
+                "sr": 388.89,
+                "fours": 0,
+                "sixes": 5,
+                "win_contribution_percent": 14.9,
+                "score": 98.56
+            },
+            {
+                "player": "GR Adair",
+                "team": "Ireland",
+                "runs": 14,
+                "balls": 7,
+                "sr": 200.0,
+                "fours": 3,
+                "sixes": 0,
+                "win_contribution_percent": 6.0,
+                "score": 46.69
+            },
+            {
+                "player": "HT Tector",
+                "team": "Ireland",
+                "runs": 14,
+                "balls": 13,
+                "sr": 107.69,
+                "fours": 2,
+                "sixes": 0,
+                "win_contribution_percent": 6.0,
+                "score": 31.6
+            },
+            {
+                "player": "C Campher",
+                "team": "Ireland",
+                "runs": 12,
+                "balls": 7,
+                "sr": 171.43,
+                "fours": 2,
+                "sixes": 0,
+                "win_contribution_percent": 5.1,
+                "score": 40.02
+            },
+            {
+                "player": "TH Tector",
+                "team": "Ireland",
+                "runs": 5,
+                "balls": 4,
+                "sr": 125.0,
+                "fours": 1,
+                "sixes": 0,
+                "win_contribution_percent": 2.1,
+                "score": 25.43
+            },
+            {
+                "player": "Aamir Kaleem",
+                "team": "Oman",
+                "runs": 50,
+                "balls": 29,
+                "sr": 172.41,
+                "fours": 5,
+                "sixes": 2,
+                "win_contribution_percent": 36.0,
+                "score": 78.18
+            },
+            {
+                "player": "Hammad Mirza",
+                "team": "Oman",
+                "runs": 46,
+                "balls": 37,
+                "sr": 124.32,
+                "fours": 6,
+                "sixes": 1,
+                "win_contribution_percent": 33.1,
+                "score": 66.32
+            },
+            {
+                "player": "Sufyan Mehmood",
+                "team": "Oman",
+                "runs": 10,
+                "balls": 11,
+                "sr": 90.91,
+                "fours": 1,
+                "sixes": 0,
+                "win_contribution_percent": 7.2,
+                "score": 24.86
+            },
+            {
+                "player": "Shah Faisal",
+                "team": "Oman",
+                "runs": 9,
+                "balls": 7,
+                "sr": 128.57,
+                "fours": 1,
+                "sixes": 0,
+                "win_contribution_percent": 6.5,
+                "score": 30.01
+            },
+            {
+                "player": "Jatinder Singh",
+                "team": "Oman",
+                "runs": 7,
+                "balls": 5,
+                "sr": 140.0,
+                "fours": 1,
+                "sixes": 0,
+                "win_contribution_percent": 5.0,
+                "score": 29.88
+            },
+            {
+                "player": "Shakeel Ahmed",
+                "team": "Oman",
+                "runs": 4,
+                "balls": 6,
+                "sr": 66.67,
+                "fours": 1,
+                "sixes": 0,
+                "win_contribution_percent": 2.9,
+                "score": 14.9
+            },
+            {
+                "player": "J Ramanandi",
+                "team": "Oman",
+                "runs": 3,
+                "balls": 6,
+                "sr": 50.0,
+                "fours": 0,
+                "sixes": 0,
+                "win_contribution_percent": 2.2,
+                "score": 11.17
+            },
+            {
+                "player": "AR Odedara",
+                "team": "Oman",
+                "runs": 1,
+                "balls": 3,
+                "sr": 33.33,
+                "fours": 0,
+                "sixes": 0,
+                "win_contribution_percent": 0.7,
+                "score": 6.45
+            },
+            {
+                "player": "Mohammad Nadeem",
+                "team": "Oman",
+                "runs": 1,
+                "balls": 3,
+                "sr": 33.33,
+                "fours": 0,
+                "sixes": 0,
+                "win_contribution_percent": 0.7,
+                "score": 6.45
+            },
+            {
+                "player": "Nadeem Khan",
+                "team": "Oman",
+                "runs": 0,
+                "balls": 2,
+                "sr": 0.0,
+                "fours": 0,
+                "sixes": 0,
+                "win_contribution_percent": 0.0,
+                "score": 0.0
+            },
+            {
+                "player": "V Shukla",
+                "team": "Oman",
+                "runs": 0,
+                "balls": 3,
+                "sr": 0.0,
+                "fours": 0,
+                "sixes": 0,
+                "win_contribution_percent": 0.0,
+                "score": 0.0
+            }
+        ],
+        "bowling": [
+            {
+                "player": "Shakeel Ahmed",
+                "team": "Oman",
+                "overs": 4.0,
+                "runs": 33,
+                "wickets": 3,
+                "econ": 8.25,
+                "score": 113.05,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "Aamir Kaleem",
+                "team": "Oman",
+                "overs": 4.0,
+                "runs": 29,
+                "wickets": 1,
+                "econ": 7.25,
+                "score": 56.23,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "Shah Faisal",
+                "team": "Oman",
+                "overs": 2.0,
+                "runs": 32,
+                "wickets": 1,
+                "econ": 16.0,
+                "score": 41.89,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "Nadeem Khan",
+                "team": "Oman",
+                "overs": 4.0,
+                "runs": 34,
+                "wickets": 0,
+                "econ": 8.5,
+                "score": 22.37,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "Mohammad Nadeem",
+                "team": "Oman",
+                "overs": 2.0,
+                "runs": 33,
+                "wickets": 0,
+                "econ": 16.5,
+                "score": 11.53,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "Sufyan Mehmood",
+                "team": "Oman",
+                "overs": 2.0,
+                "runs": 35,
+                "wickets": 0,
+                "econ": 17.5,
+                "score": 10.87,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "J Ramanandi",
+                "team": "Oman",
+                "overs": 2.0,
+                "runs": 39,
+                "wickets": 0,
+                "econ": 19.5,
+                "score": 9.75,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "J Little",
+                "team": "Ireland",
+                "overs": 4.0,
+                "runs": 16,
+                "wickets": 3,
+                "econ": 4.0,
+                "score": 137.54,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "MJ Humphreys",
+                "team": "Ireland",
+                "overs": 4.0,
+                "runs": 27,
+                "wickets": 2,
+                "econ": 6.75,
+                "score": 88.17,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "BJ McCarthy",
+                "team": "Ireland",
+                "overs": 3.0,
+                "runs": 32,
+                "wickets": 2,
+                "econ": 10.67,
+                "score": 77.82,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "GH Dockrell",
+                "team": "Ireland",
+                "overs": 1.0,
+                "runs": 6,
+                "wickets": 1,
+                "econ": 6.0,
+                "score": 61.69,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "GJ Delany",
+                "team": "Ireland",
+                "overs": 2.0,
+                "runs": 13,
+                "wickets": 0,
+                "econ": 6.5,
+                "score": 29.26,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "HT Tector",
+                "team": "Ireland",
+                "overs": 1.0,
+                "runs": 9,
+                "wickets": 0,
+                "econ": 9.0,
+                "score": 21.13,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "MR Adair",
+                "team": "Ireland",
+                "overs": 3.0,
+                "runs": 36,
+                "wickets": 0,
+                "econ": 12.0,
+                "score": 15.85,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            }
+        ]
+    },
+    "innings": [
+        {
+            "innings": 1,
+            "team": "Ireland",
+            "total_runs": 235,
+            "total_wickets": 5,
+            "balls_faced": 120,
+            "overs_faced": 20.0,
+            "phase_analysis": {
+                "Powerplay": {
+                    "runs": 47,
+                    "wkts": 3,
+                    "rr": 7.83
+                },
+                "Middle": {
+                    "runs": 95,
+                    "wkts": 1,
+                    "rr": 10.56
+                },
+                "Death": {
+                    "runs": 93,
+                    "wkts": 1,
+                    "rr": 18.6
+                }
+            }
+        },
+        {
+            "innings": 2,
+            "team": "Oman",
+            "total_runs": 139,
+            "total_wickets": 10,
+            "balls_faced": 108,
+            "overs_faced": 18.0,
+            "phase_analysis": {
+                "Powerplay": {
+                    "runs": 63,
+                    "wkts": 2,
+                    "rr": 10.5
+                },
+                "Middle": {
+                    "runs": 53,
+                    "wkts": 6,
+                    "rr": 5.89
+                },
+                "Death": {
+                    "runs": 23,
+                    "wkts": 2,
+                    "rr": 7.67
+                }
+            },
+            "pressure_index": 89.0,
+            "target": 236
+        }
+    ],
+    "players": [
+        {
+            "player": "J Little",
+            "team": "Ireland",
+            "overs": 4.0,
+            "runs": 16,
+            "wickets": 3,
+            "econ": 4.0,
+            "score": 137.54,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-16r-3w"
+        },
+        {
+            "player": "L Tucker",
+            "team": "Ireland",
+            "runs": 94,
+            "balls": 53,
+            "sr": 177.36,
+            "fours": 10,
+            "sixes": 4,
+            "win_contribution_percent": 40.0,
+            "score": 122.99,
+            "role": "batting",
+            "match_stats": "94(53)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "Shakeel Ahmed",
+            "team": "Oman",
+            "overs": 4.0,
+            "runs": 33,
+            "wickets": 3,
+            "econ": 8.25,
+            "score": 113.05,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-33r-3w"
+        },
+        {
+            "player": "GH Dockrell",
+            "team": "Ireland",
+            "runs": 35,
+            "balls": 9,
+            "sr": 388.89,
+            "fours": 0,
+            "sixes": 5,
+            "win_contribution_percent": 14.9,
+            "score": 98.56,
+            "role": "batting",
+            "match_stats": "35(9)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "MJ Humphreys",
+            "team": "Ireland",
+            "overs": 4.0,
+            "runs": 27,
+            "wickets": 2,
+            "econ": 6.75,
+            "score": 88.17,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-27r-2w"
+        },
+        {
+            "player": "GJ Delany",
+            "team": "Ireland",
+            "runs": 56,
+            "balls": 31,
+            "sr": 180.65,
+            "fours": 3,
+            "sixes": 4,
+            "win_contribution_percent": 23.8,
+            "score": 85.52,
+            "role": "batting",
+            "match_stats": "56(31)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "Aamir Kaleem",
+            "team": "Oman",
+            "runs": 50,
+            "balls": 29,
+            "sr": 172.41,
+            "fours": 5,
+            "sixes": 2,
+            "win_contribution_percent": 36.0,
+            "score": 78.18,
+            "role": "batting",
+            "match_stats": "50(29)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "BJ McCarthy",
+            "team": "Ireland",
+            "overs": 3.0,
+            "runs": 32,
+            "wickets": 2,
+            "econ": 10.67,
+            "score": 77.82,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "3.0o-32r-2w"
+        },
+        {
+            "player": "Hammad Mirza",
+            "team": "Oman",
+            "runs": 46,
+            "balls": 37,
+            "sr": 124.32,
+            "fours": 6,
+            "sixes": 1,
+            "win_contribution_percent": 33.1,
+            "score": 66.32,
+            "role": "batting",
+            "match_stats": "46(37)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "GH Dockrell",
+            "team": "Ireland",
+            "overs": 1.0,
+            "runs": 6,
+            "wickets": 1,
+            "econ": 6.0,
+            "score": 61.69,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "1.0o-6r-1w"
+        },
+        {
+            "player": "Aamir Kaleem",
+            "team": "Oman",
+            "overs": 4.0,
+            "runs": 29,
+            "wickets": 1,
+            "econ": 7.25,
+            "score": 56.23,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-29r-1w"
+        },
+        {
+            "player": "GR Adair",
+            "team": "Ireland",
+            "runs": 14,
+            "balls": 7,
+            "sr": 200.0,
+            "fours": 3,
+            "sixes": 0,
+            "win_contribution_percent": 6.0,
+            "score": 46.69,
+            "role": "batting",
+            "match_stats": "14(7)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "Shah Faisal",
+            "team": "Oman",
+            "overs": 2.0,
+            "runs": 32,
+            "wickets": 1,
+            "econ": 16.0,
+            "score": 41.89,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "2.0o-32r-1w"
+        },
+        {
+            "player": "C Campher",
+            "team": "Ireland",
+            "runs": 12,
+            "balls": 7,
+            "sr": 171.43,
+            "fours": 2,
+            "sixes": 0,
+            "win_contribution_percent": 5.1,
+            "score": 40.02,
+            "role": "batting",
+            "match_stats": "12(7)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "HT Tector",
+            "team": "Ireland",
+            "runs": 14,
+            "balls": 13,
+            "sr": 107.69,
+            "fours": 2,
+            "sixes": 0,
+            "win_contribution_percent": 6.0,
+            "score": 31.6,
+            "role": "batting",
+            "match_stats": "14(13)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "Shah Faisal",
+            "team": "Oman",
+            "runs": 9,
+            "balls": 7,
+            "sr": 128.57,
+            "fours": 1,
+            "sixes": 0,
+            "win_contribution_percent": 6.5,
+            "score": 30.01,
+            "role": "batting",
+            "match_stats": "9(7)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "Jatinder Singh",
+            "team": "Oman",
+            "runs": 7,
+            "balls": 5,
+            "sr": 140.0,
+            "fours": 1,
+            "sixes": 0,
+            "win_contribution_percent": 5.0,
+            "score": 29.88,
+            "role": "batting",
+            "match_stats": "7(5)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "GJ Delany",
+            "team": "Ireland",
+            "overs": 2.0,
+            "runs": 13,
+            "wickets": 0,
+            "econ": 6.5,
+            "score": 29.26,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "2.0o-13r-0w"
+        },
+        {
+            "player": "TH Tector",
+            "team": "Ireland",
+            "runs": 5,
+            "balls": 4,
+            "sr": 125.0,
+            "fours": 1,
+            "sixes": 0,
+            "win_contribution_percent": 2.1,
+            "score": 25.43,
+            "role": "batting",
+            "match_stats": "5(4)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "Sufyan Mehmood",
+            "team": "Oman",
+            "runs": 10,
+            "balls": 11,
+            "sr": 90.91,
+            "fours": 1,
+            "sixes": 0,
+            "win_contribution_percent": 7.2,
+            "score": 24.86,
+            "role": "batting",
+            "match_stats": "10(11)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "Nadeem Khan",
+            "team": "Oman",
+            "overs": 4.0,
+            "runs": 34,
+            "wickets": 0,
+            "econ": 8.5,
+            "score": 22.37,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-34r-0w"
+        },
+        {
+            "player": "HT Tector",
+            "team": "Ireland",
+            "overs": 1.0,
+            "runs": 9,
+            "wickets": 0,
+            "econ": 9.0,
+            "score": 21.13,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "1.0o-9r-0w"
+        },
+        {
+            "player": "MR Adair",
+            "team": "Ireland",
+            "overs": 3.0,
+            "runs": 36,
+            "wickets": 0,
+            "econ": 12.0,
+            "score": 15.85,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "3.0o-36r-0w"
+        },
+        {
+            "player": "Shakeel Ahmed",
+            "team": "Oman",
+            "runs": 4,
+            "balls": 6,
+            "sr": 66.67,
+            "fours": 1,
+            "sixes": 0,
+            "win_contribution_percent": 2.9,
+            "score": 14.9,
+            "role": "batting",
+            "match_stats": "4(6)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "Mohammad Nadeem",
+            "team": "Oman",
+            "overs": 2.0,
+            "runs": 33,
+            "wickets": 0,
+            "econ": 16.5,
+            "score": 11.53,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "2.0o-33r-0w"
+        },
+        {
+            "player": "J Ramanandi",
+            "team": "Oman",
+            "runs": 3,
+            "balls": 6,
+            "sr": 50.0,
+            "fours": 0,
+            "sixes": 0,
+            "win_contribution_percent": 2.2,
+            "score": 11.17,
+            "role": "batting",
+            "match_stats": "3(6)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "Sufyan Mehmood",
+            "team": "Oman",
+            "overs": 2.0,
+            "runs": 35,
+            "wickets": 0,
+            "econ": 17.5,
+            "score": 10.87,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "2.0o-35r-0w"
+        },
+        {
+            "player": "J Ramanandi",
+            "team": "Oman",
+            "overs": 2.0,
+            "runs": 39,
+            "wickets": 0,
+            "econ": 19.5,
+            "score": 9.75,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "2.0o-39r-0w"
+        },
+        {
+            "player": "AR Odedara",
+            "team": "Oman",
+            "runs": 1,
+            "balls": 3,
+            "sr": 33.33,
+            "fours": 0,
+            "sixes": 0,
+            "win_contribution_percent": 0.7,
+            "score": 6.45,
+            "role": "batting",
+            "match_stats": "1(3)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "Mohammad Nadeem",
+            "team": "Oman",
+            "runs": 1,
+            "balls": 3,
+            "sr": 33.33,
+            "fours": 0,
+            "sixes": 0,
+            "win_contribution_percent": 0.7,
+            "score": 6.45,
+            "role": "batting",
+            "match_stats": "1(3)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "Nadeem Khan",
+            "team": "Oman",
+            "runs": 0,
+            "balls": 2,
+            "sr": 0.0,
+            "fours": 0,
+            "sixes": 0,
+            "win_contribution_percent": 0.0,
+            "score": 0.0,
+            "role": "batting",
+            "match_stats": "0(2)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "V Shukla",
+            "team": "Oman",
+            "runs": 0,
+            "balls": 3,
+            "sr": 0.0,
+            "fours": 0,
+            "sixes": 0,
+            "win_contribution_percent": 0.0,
+            "score": 0.0,
+            "role": "batting",
+            "match_stats": "0(3)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        }
+    ],
+    "validation": {
+        "logical_stability": true
+    }
+}

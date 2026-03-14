@@ -1,0 +1,1550 @@
+{
+  "match_id": "1512727",
+  "team_a": "South Africa",
+  "team_b": "Canada",
+  "matchups": [
+    {
+      "bat": "RD Rickelton",
+      "bat_t": "South Africa",
+      "bowl": "Ansh Patel",
+      "bowl_t": "Canada",
+      "v": "bowler",
+      "h2h": {
+        "balls": 7,
+        "runs": 9,
+        "dismissals": 1,
+        "strike_rate": 128.57
+      },
+      "vs_t": {
+        "runs": 33,
+        "balls": 22,
+        "dismissals": 1,
+        "average": 33.0,
+        "strike_rate": 150.0
+      },
+      "b_car": {
+        "avg": 26.26,
+        "sr": 141.78
+      },
+      "w_car": {
+        "avg": 14.38,
+        "eco": 5.75
+      },
+      "b_f": [
+        7,
+        30,
+        21
+      ],
+      "w_f": [
+        0,
+        0,
+        3
+      ]
+    },
+    {
+      "bat": "AK Markram",
+      "bat_t": "South Africa",
+      "bowl": "Ansh Patel",
+      "bowl_t": "Canada",
+      "v": "batsman",
+      "h2h": {
+        "balls": 4,
+        "runs": 5,
+        "dismissals": 1,
+        "strike_rate": 125.0
+      },
+      "vs_t": {
+        "runs": 59,
+        "balls": 36,
+        "dismissals": 1,
+        "average": 59.0,
+        "strike_rate": 163.89
+      },
+      "b_car": {
+        "avg": 31.08,
+        "sr": 143.73
+      },
+      "w_car": {
+        "avg": 14.38,
+        "eco": 5.75
+      },
+      "b_f": [
+        4,
+        28,
+        86
+      ],
+      "w_f": [
+        0,
+        0,
+        3
+      ]
+    },
+    {
+      "bat": "D Brevis",
+      "bat_t": "South Africa",
+      "bowl": "Ansh Patel",
+      "bowl_t": "Canada",
+      "v": "bowler",
+      "h2h": {
+        "balls": 3,
+        "runs": 5,
+        "dismissals": 1,
+        "strike_rate": 166.67
+      },
+      "vs_t": {
+        "runs": 6,
+        "balls": 7,
+        "dismissals": 1,
+        "average": 6.0,
+        "strike_rate": 85.71
+      },
+      "b_car": {
+        "avg": 26.0,
+        "sr": 154.92
+      },
+      "w_car": {
+        "avg": 14.38,
+        "eco": 5.75
+      },
+      "b_f": [
+        45,
+        36,
+        21
+      ],
+      "w_f": [
+        0,
+        0,
+        3
+      ]
+    },
+    {
+      "bat": "Q de Kock",
+      "bat_t": "South Africa",
+      "bowl": "DS Bajwa",
+      "bowl_t": "Canada",
+      "v": "batsman",
+      "h2h": {
+        "balls": 8,
+        "runs": 7,
+        "dismissals": 1,
+        "strike_rate": 87.5
+      },
+      "vs_t": {
+        "runs": 25,
+        "balls": 24,
+        "dismissals": 1,
+        "average": 25.0,
+        "strike_rate": 104.17
+      },
+      "b_car": {
+        "avg": 31.84,
+        "sr": 136.42
+      },
+      "b_f": [
+        6,
+        14,
+        20
+      ],
+      "w_f": [
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "Jaskaran Singh",
+      "bat_t": "Canada",
+      "bowl": "M Jansen",
+      "bowl_t": "South Africa",
+      "v": "neutral",
+      "h2h": {
+        "balls": 1,
+        "runs": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 0,
+        "balls": 1,
+        "dismissals": 1,
+        "average": 0.0,
+        "strike_rate": 0.0
+      },
+      "b_car": {
+        "avg": 22.6,
+        "sr": 168.66
+      },
+      "b_f": [
+        4,
+        0
+      ],
+      "w_f": [
+        4,
+        4,
+        2
+      ]
+    },
+    {
+      "bat": "NS Dhaliwal",
+      "bat_t": "Canada",
+      "bowl": "C Bosch",
+      "bowl_t": "South Africa",
+      "v": "neutral",
+      "h2h": {
+        "balls": 9,
+        "runs": 7,
+        "dismissals": 1,
+        "strike_rate": 77.78
+      },
+      "vs_t": {
+        "runs": 64,
+        "balls": 52,
+        "dismissals": 1,
+        "average": 64.0,
+        "strike_rate": 123.08
+      },
+      "b_f": [
+        10,
+        34,
+        64
+      ],
+      "w_f": [
+        2,
+        3,
+        1
+      ]
+    },
+    {
+      "bat": "S Movva",
+      "bat_t": "Canada",
+      "bowl": "K Rabada",
+      "bowl_t": "South Africa",
+      "v": "neutral",
+      "h2h": {
+        "balls": 5,
+        "runs": 1,
+        "dismissals": 1,
+        "strike_rate": 20.0
+      },
+      "vs_t": {
+        "runs": 9,
+        "balls": 11,
+        "dismissals": 1,
+        "average": 9.0,
+        "strike_rate": 81.82
+      },
+      "b_f": [
+        21,
+        9
+      ],
+      "w_f": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "NR Kirton",
+      "bat_t": "Canada",
+      "bowl": "L Ngidi",
+      "bowl_t": "South Africa",
+      "v": "neutral",
+      "h2h": {
+        "balls": 3,
+        "runs": 4,
+        "dismissals": 1,
+        "strike_rate": 133.33
+      },
+      "vs_t": {
+        "runs": 4,
+        "balls": 3,
+        "dismissals": 1,
+        "average": 4.0,
+        "strike_rate": 133.33
+      },
+      "b_f": [
+        2,
+        4,
+        4
+      ],
+      "w_f": [
+        0,
+        1,
+        4
+      ]
+    },
+    {
+      "bat": "Saad Bin Zafar",
+      "bat_t": "Canada",
+      "bowl": "M Jansen",
+      "bowl_t": "South Africa",
+      "v": "neutral",
+      "h2h": {
+        "balls": 2,
+        "runs": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 11,
+        "balls": 13,
+        "dismissals": 1,
+        "average": 11.0,
+        "strike_rate": 84.62
+      },
+      "b_f": [
+        5,
+        11
+      ],
+      "w_f": [
+        4,
+        4,
+        2
+      ]
+    },
+    {
+      "bat": "H Thaker",
+      "bat_t": "Canada",
+      "bowl": "L Ngidi",
+      "bowl_t": "South Africa",
+      "v": "neutral",
+      "h2h": {
+        "balls": 2,
+        "runs": 4,
+        "dismissals": 1,
+        "strike_rate": 200.0
+      },
+      "vs_t": {
+        "runs": 33,
+        "balls": 30,
+        "dismissals": 1,
+        "average": 33.0,
+        "strike_rate": 110.0
+      },
+      "b_f": [
+        3,
+        50,
+        33
+      ],
+      "w_f": [
+        0,
+        1,
+        4
+      ]
+    },
+    {
+      "bat": "YS Samra",
+      "bat_t": "Canada",
+      "bowl": "L Ngidi",
+      "bowl_t": "South Africa",
+      "v": "neutral",
+      "h2h": {
+        "balls": 2,
+        "runs": 4,
+        "dismissals": 1,
+        "strike_rate": 200.0
+      },
+      "vs_t": {
+        "runs": 12,
+        "balls": 9,
+        "dismissals": 1,
+        "average": 12.0,
+        "strike_rate": 133.33
+      },
+      "b_f": [
+        110,
+        5,
+        12
+      ],
+      "w_f": [
+        0,
+        1,
+        4
+      ]
+    },
+    {
+      "bat": "DS Bajwa",
+      "bat_t": "Canada",
+      "bowl": "L Ngidi",
+      "bowl_t": "South Africa",
+      "v": "neutral",
+      "h2h": {
+        "balls": 1,
+        "runs": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 0,
+        "balls": 1,
+        "dismissals": 1,
+        "average": 0.0,
+        "strike_rate": 0.0
+      },
+      "b_f": [
+        36,
+        11,
+        0
+      ],
+      "w_f": [
+        0,
+        1,
+        4
+      ]
+    },
+    {
+      "bat": "DA Miller",
+      "bat_t": "South Africa",
+      "bowl": "Jaskaran Singh",
+      "bowl_t": "Canada",
+      "v": "batsman",
+      "h2h": {
+        "balls": 6,
+        "runs": 15,
+        "dismissals": 0,
+        "strike_rate": 250.0
+      },
+      "vs_t": {
+        "runs": 39,
+        "balls": 24,
+        "dismissals": 0,
+        "average": 39.0,
+        "strike_rate": 162.5
+      },
+      "b_car": {
+        "avg": 34.81,
+        "sr": 136.68
+      },
+      "w_car": {
+        "avg": 27.17,
+        "eco": 9.01
+      },
+      "b_f": [
+        63,
+        24,
+        39
+      ],
+      "w_f": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "T Stubbs",
+      "bat_t": "South Africa",
+      "bowl": "Jaskaran Singh",
+      "bowl_t": "Canada",
+      "v": "batsman",
+      "h2h": {
+        "balls": 6,
+        "runs": 17,
+        "dismissals": 0,
+        "strike_rate": 283.33
+      },
+      "vs_t": {
+        "runs": 34,
+        "balls": 19,
+        "dismissals": 0,
+        "average": 34.0,
+        "strike_rate": 178.95
+      },
+      "b_car": {
+        "avg": 30.53,
+        "sr": 131.99
+      },
+      "w_car": {
+        "avg": 27.17,
+        "eco": 9.01
+      },
+      "b_f": [
+        44,
+        6,
+        34
+      ],
+      "w_f": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "AK Markram",
+      "bat_t": "South Africa",
+      "bowl": "Jaskaran Singh",
+      "bowl_t": "Canada",
+      "v": "batsman",
+      "h2h": {
+        "balls": 5,
+        "runs": 11,
+        "dismissals": 0,
+        "strike_rate": 220.0
+      },
+      "vs_t": {
+        "runs": 59,
+        "balls": 36,
+        "dismissals": 1,
+        "average": 59.0,
+        "strike_rate": 163.89
+      },
+      "b_car": {
+        "avg": 31.08,
+        "sr": 143.73
+      },
+      "w_car": {
+        "avg": 27.17,
+        "eco": 9.01
+      },
+      "b_f": [
+        4,
+        28,
+        86
+      ],
+      "w_f": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "DA Miller",
+      "bat_t": "South Africa",
+      "bowl": "Ansh Patel",
+      "bowl_t": "Canada",
+      "v": "batsman",
+      "h2h": {
+        "balls": 5,
+        "runs": 3,
+        "dismissals": 0,
+        "strike_rate": 60.0
+      },
+      "vs_t": {
+        "runs": 39,
+        "balls": 24,
+        "dismissals": 0,
+        "average": 39.0,
+        "strike_rate": 162.5
+      },
+      "b_car": {
+        "avg": 34.81,
+        "sr": 136.68
+      },
+      "w_car": {
+        "avg": 14.38,
+        "eco": 5.75
+      },
+      "b_f": [
+        63,
+        24,
+        39
+      ],
+      "w_f": [
+        0,
+        0,
+        3
+      ]
+    },
+    {
+      "bat": "T Stubbs",
+      "bat_t": "South Africa",
+      "bowl": "Ansh Patel",
+      "bowl_t": "Canada",
+      "v": "neutral",
+      "h2h": {
+        "balls": 5,
+        "runs": 9,
+        "dismissals": 0,
+        "strike_rate": 180.0
+      },
+      "vs_t": {
+        "runs": 34,
+        "balls": 19,
+        "dismissals": 0,
+        "average": 34.0,
+        "strike_rate": 178.95
+      },
+      "b_car": {
+        "avg": 30.53,
+        "sr": 131.99
+      },
+      "w_car": {
+        "avg": 14.38,
+        "eco": 5.75
+      },
+      "b_f": [
+        44,
+        6,
+        34
+      ],
+      "w_f": [
+        0,
+        0,
+        3
+      ]
+    },
+    {
+      "bat": "RD Rickelton",
+      "bat_t": "South Africa",
+      "bowl": "Jaskaran Singh",
+      "bowl_t": "Canada",
+      "v": "neutral",
+      "h2h": {
+        "balls": 4,
+        "runs": 2,
+        "dismissals": 0,
+        "strike_rate": 50.0
+      },
+      "vs_t": {
+        "runs": 33,
+        "balls": 22,
+        "dismissals": 1,
+        "average": 33.0,
+        "strike_rate": 150.0
+      },
+      "b_car": {
+        "avg": 26.26,
+        "sr": 141.78
+      },
+      "w_car": {
+        "avg": 27.17,
+        "eco": 9.01
+      },
+      "b_f": [
+        7,
+        30,
+        21
+      ],
+      "w_f": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "D Brevis",
+      "bat_t": "South Africa",
+      "bowl": "Jaskaran Singh",
+      "bowl_t": "Canada",
+      "v": "neutral",
+      "h2h": {
+        "balls": 4,
+        "runs": 1,
+        "dismissals": 0,
+        "strike_rate": 25.0
+      },
+      "vs_t": {
+        "runs": 6,
+        "balls": 7,
+        "dismissals": 1,
+        "average": 6.0,
+        "strike_rate": 85.71
+      },
+      "b_car": {
+        "avg": 26.0,
+        "sr": 154.92
+      },
+      "w_car": {
+        "avg": 27.17,
+        "eco": 9.01
+      },
+      "b_f": [
+        45,
+        36,
+        21
+      ],
+      "w_f": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "Q de Kock",
+      "bat_t": "South Africa",
+      "bowl": "Jaskaran Singh",
+      "bowl_t": "Canada",
+      "v": "batsman",
+      "h2h": {
+        "balls": 1,
+        "runs": 1,
+        "dismissals": 0,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 25,
+        "balls": 24,
+        "dismissals": 1,
+        "average": 25.0,
+        "strike_rate": 104.17
+      },
+      "b_car": {
+        "avg": 31.84,
+        "sr": 136.42
+      },
+      "w_car": {
+        "avg": 27.17,
+        "eco": 9.01
+      },
+      "b_f": [
+        6,
+        14,
+        20
+      ],
+      "w_f": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "Q de Kock",
+      "bat_t": "South Africa",
+      "bowl": "Ansh Patel",
+      "bowl_t": "Canada",
+      "v": "neutral",
+      "vs_t": {
+        "runs": 25,
+        "balls": 24,
+        "dismissals": 1,
+        "average": 25.0,
+        "strike_rate": 104.17
+      },
+      "b_car": {
+        "avg": 31.84,
+        "sr": 136.42
+      },
+      "w_car": {
+        "avg": 14.38,
+        "eco": 5.75
+      },
+      "b_f": [
+        6,
+        14,
+        20
+      ],
+      "w_f": [
+        0,
+        0,
+        3
+      ]
+    },
+    {
+      "bat": "Q de Kock",
+      "bat_t": "South Africa",
+      "bowl": "Kaleem Sana",
+      "bowl_t": "Canada",
+      "v": "batsman",
+      "h2h": {
+        "balls": 9,
+        "runs": 6,
+        "dismissals": 0,
+        "strike_rate": 66.67
+      },
+      "vs_t": {
+        "runs": 25,
+        "balls": 24,
+        "dismissals": 1,
+        "average": 25.0,
+        "strike_rate": 104.17
+      },
+      "b_car": {
+        "avg": 31.84,
+        "sr": 136.42
+      },
+      "b_f": [
+        6,
+        14,
+        20
+      ],
+      "w_f": [
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "AK Markram",
+      "bat_t": "South Africa",
+      "bowl": "DS Bajwa",
+      "bowl_t": "Canada",
+      "v": "batsman",
+      "h2h": {
+        "balls": 8,
+        "runs": 18,
+        "dismissals": 0,
+        "strike_rate": 225.0
+      },
+      "vs_t": {
+        "runs": 59,
+        "balls": 36,
+        "dismissals": 1,
+        "average": 59.0,
+        "strike_rate": 163.89
+      },
+      "b_car": {
+        "avg": 31.08,
+        "sr": 143.73
+      },
+      "b_f": [
+        4,
+        28,
+        86
+      ],
+      "w_f": [
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "DA Miller",
+      "bat_t": "South Africa",
+      "bowl": "Kaleem Sana",
+      "bowl_t": "Canada",
+      "v": "batsman",
+      "h2h": {
+        "balls": 8,
+        "runs": 12,
+        "dismissals": 0,
+        "strike_rate": 150.0
+      },
+      "vs_t": {
+        "runs": 39,
+        "balls": 24,
+        "dismissals": 0,
+        "average": 39.0,
+        "strike_rate": 162.5
+      },
+      "b_car": {
+        "avg": 34.81,
+        "sr": 136.68
+      },
+      "b_f": [
+        63,
+        24,
+        39
+      ],
+      "w_f": [
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "AK Markram",
+      "bat_t": "South Africa",
+      "bowl": "D Heyliger",
+      "bowl_t": "Canada",
+      "v": "batsman",
+      "h2h": {
+        "balls": 7,
+        "runs": 12,
+        "dismissals": 0,
+        "strike_rate": 171.43
+      },
+      "vs_t": {
+        "runs": 59,
+        "balls": 36,
+        "dismissals": 1,
+        "average": 59.0,
+        "strike_rate": 163.89
+      },
+      "b_car": {
+        "avg": 31.08,
+        "sr": 143.73
+      },
+      "b_f": [
+        4,
+        28,
+        86
+      ],
+      "w_f": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "RD Rickelton",
+      "bat_t": "South Africa",
+      "bowl": "Saad Bin Zafar",
+      "bowl_t": "Canada",
+      "v": "batsman",
+      "h2h": {
+        "balls": 7,
+        "runs": 18,
+        "dismissals": 0,
+        "strike_rate": 257.14
+      },
+      "vs_t": {
+        "runs": 33,
+        "balls": 22,
+        "dismissals": 1,
+        "average": 33.0,
+        "strike_rate": 150.0
+      },
+      "b_car": {
+        "avg": 26.26,
+        "sr": 141.78
+      },
+      "b_f": [
+        7,
+        30,
+        21
+      ],
+      "w_f": [
+        1,
+        3,
+        0
+      ]
+    },
+    {
+      "bat": "T Stubbs",
+      "bat_t": "South Africa",
+      "bowl": "Kaleem Sana",
+      "bowl_t": "Canada",
+      "v": "batsman",
+      "h2h": {
+        "balls": 7,
+        "runs": 8,
+        "dismissals": 0,
+        "strike_rate": 114.29
+      },
+      "vs_t": {
+        "runs": 34,
+        "balls": 19,
+        "dismissals": 0,
+        "average": 34.0,
+        "strike_rate": 178.95
+      },
+      "b_car": {
+        "avg": 30.53,
+        "sr": 131.99
+      },
+      "b_f": [
+        44,
+        6,
+        34
+      ],
+      "w_f": [
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "Q de Kock",
+      "bat_t": "South Africa",
+      "bowl": "Saad Bin Zafar",
+      "bowl_t": "Canada",
+      "v": "batsman",
+      "h2h": {
+        "balls": 6,
+        "runs": 11,
+        "dismissals": 0,
+        "strike_rate": 183.33
+      },
+      "vs_t": {
+        "runs": 25,
+        "balls": 24,
+        "dismissals": 1,
+        "average": 25.0,
+        "strike_rate": 104.17
+      },
+      "b_car": {
+        "avg": 31.84,
+        "sr": 136.42
+      },
+      "b_f": [
+        6,
+        14,
+        20
+      ],
+      "w_f": [
+        1,
+        3,
+        0
+      ]
+    },
+    {
+      "bat": "AK Markram",
+      "bat_t": "South Africa",
+      "bowl": "Saad Bin Zafar",
+      "bowl_t": "Canada",
+      "v": "batsman",
+      "h2h": {
+        "balls": 6,
+        "runs": 7,
+        "dismissals": 0,
+        "strike_rate": 116.67
+      },
+      "vs_t": {
+        "runs": 59,
+        "balls": 36,
+        "dismissals": 1,
+        "average": 59.0,
+        "strike_rate": 163.89
+      },
+      "b_car": {
+        "avg": 31.08,
+        "sr": 143.73
+      },
+      "b_f": [
+        4,
+        28,
+        86
+      ],
+      "w_f": [
+        1,
+        3,
+        0
+      ]
+    },
+    {
+      "bat": "AK Markram",
+      "bat_t": "South Africa",
+      "bowl": "Kaleem Sana",
+      "bowl_t": "Canada",
+      "v": "batsman",
+      "h2h": {
+        "balls": 6,
+        "runs": 6,
+        "dismissals": 0,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 59,
+        "balls": 36,
+        "dismissals": 1,
+        "average": 59.0,
+        "strike_rate": 163.89
+      },
+      "b_car": {
+        "avg": 31.08,
+        "sr": 143.73
+      },
+      "b_f": [
+        4,
+        28,
+        86
+      ],
+      "w_f": [
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "NS Dhaliwal",
+      "bat_t": "Canada",
+      "bowl": "K Rabada",
+      "bowl_t": "South Africa",
+      "v": "batsman",
+      "h2h": {
+        "balls": 16,
+        "runs": 26,
+        "dismissals": 0,
+        "strike_rate": 162.5
+      },
+      "vs_t": {
+        "runs": 64,
+        "balls": 52,
+        "dismissals": 1,
+        "average": 64.0,
+        "strike_rate": 123.08
+      },
+      "b_f": [
+        10,
+        34,
+        64
+      ],
+      "w_f": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "DA Miller",
+      "bat_t": "South Africa",
+      "bowl": "DS Bajwa",
+      "bowl_t": "Canada",
+      "v": "batsman",
+      "h2h": {
+        "balls": 5,
+        "runs": 9,
+        "dismissals": 0,
+        "strike_rate": 180.0
+      },
+      "vs_t": {
+        "runs": 39,
+        "balls": 24,
+        "dismissals": 0,
+        "average": 39.0,
+        "strike_rate": 162.5
+      },
+      "b_car": {
+        "avg": 34.81,
+        "sr": 136.68
+      },
+      "b_f": [
+        63,
+        24,
+        39
+      ],
+      "w_f": [
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "RD Rickelton",
+      "bat_t": "South Africa",
+      "bowl": "DS Bajwa",
+      "bowl_t": "Canada",
+      "v": "neutral",
+      "h2h": {
+        "balls": 4,
+        "runs": 4,
+        "dismissals": 0,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 33,
+        "balls": 22,
+        "dismissals": 1,
+        "average": 33.0,
+        "strike_rate": 150.0
+      },
+      "b_car": {
+        "avg": 26.26,
+        "sr": 141.78
+      },
+      "b_f": [
+        7,
+        30,
+        21
+      ],
+      "w_f": [
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "NS Dhaliwal",
+      "bat_t": "Canada",
+      "bowl": "KA Maharaj",
+      "bowl_t": "South Africa",
+      "v": "batsman",
+      "h2h": {
+        "balls": 13,
+        "runs": 20,
+        "dismissals": 0,
+        "strike_rate": 153.85
+      },
+      "vs_t": {
+        "runs": 64,
+        "balls": 52,
+        "dismissals": 1,
+        "average": 64.0,
+        "strike_rate": 123.08
+      },
+      "b_f": [
+        10,
+        34,
+        64
+      ],
+      "w_f": [
+        3,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "T Stubbs",
+      "bat_t": "South Africa",
+      "bowl": "DS Bajwa",
+      "bowl_t": "Canada",
+      "v": "batsman",
+      "h2h": {
+        "balls": 1,
+        "runs": 0,
+        "dismissals": 0,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 34,
+        "balls": 19,
+        "dismissals": 0,
+        "average": 34.0,
+        "strike_rate": 178.95
+      },
+      "b_car": {
+        "avg": 30.53,
+        "sr": 131.99
+      },
+      "b_f": [
+        44,
+        6,
+        34
+      ],
+      "w_f": [
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "Q de Kock",
+      "bat_t": "South Africa",
+      "bowl": "H Thaker",
+      "bowl_t": "Canada",
+      "v": "batsman",
+      "vs_t": {
+        "runs": 25,
+        "balls": 24,
+        "dismissals": 1,
+        "average": 25.0,
+        "strike_rate": 104.17
+      },
+      "b_car": {
+        "avg": 31.84,
+        "sr": 136.42
+      },
+      "b_f": [
+        6,
+        14,
+        20
+      ]
+    },
+    {
+      "bat": "Q de Kock",
+      "bat_t": "South Africa",
+      "bowl": "YS Samra",
+      "bowl_t": "Canada",
+      "v": "batsman",
+      "vs_t": {
+        "runs": 25,
+        "balls": 24,
+        "dismissals": 1,
+        "average": 25.0,
+        "strike_rate": 104.17
+      },
+      "b_car": {
+        "avg": 31.84,
+        "sr": 136.42
+      },
+      "b_f": [
+        6,
+        14,
+        20
+      ]
+    },
+    {
+      "bat": "Q de Kock",
+      "bat_t": "South Africa",
+      "bowl": "S Movva",
+      "bowl_t": "Canada",
+      "v": "batsman",
+      "vs_t": {
+        "runs": 25,
+        "balls": 24,
+        "dismissals": 1,
+        "average": 25.0,
+        "strike_rate": 104.17
+      },
+      "b_car": {
+        "avg": 31.84,
+        "sr": 136.42
+      },
+      "b_f": [
+        6,
+        14,
+        20
+      ]
+    },
+    {
+      "bat": "Q de Kock",
+      "bat_t": "South Africa",
+      "bowl": "D Heyliger",
+      "bowl_t": "Canada",
+      "v": "batsman",
+      "vs_t": {
+        "runs": 25,
+        "balls": 24,
+        "dismissals": 1,
+        "average": 25.0,
+        "strike_rate": 104.17
+      },
+      "b_car": {
+        "avg": 31.84,
+        "sr": 136.42
+      },
+      "b_f": [
+        6,
+        14,
+        20
+      ],
+      "w_f": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "Q de Kock",
+      "bat_t": "South Africa",
+      "bowl": "NR Kirton",
+      "bowl_t": "Canada",
+      "v": "batsman",
+      "vs_t": {
+        "runs": 25,
+        "balls": 24,
+        "dismissals": 1,
+        "average": 25.0,
+        "strike_rate": 104.17
+      },
+      "b_car": {
+        "avg": 31.84,
+        "sr": 136.42
+      },
+      "b_f": [
+        6,
+        14,
+        20
+      ]
+    },
+    {
+      "bat": "Q de Kock",
+      "bat_t": "South Africa",
+      "bowl": "NS Dhaliwal",
+      "bowl_t": "Canada",
+      "v": "batsman",
+      "vs_t": {
+        "runs": 25,
+        "balls": 24,
+        "dismissals": 1,
+        "average": 25.0,
+        "strike_rate": 104.17
+      },
+      "b_car": {
+        "avg": 31.84,
+        "sr": 136.42
+      },
+      "b_f": [
+        6,
+        14,
+        20
+      ]
+    },
+    {
+      "bat": "AK Markram",
+      "bat_t": "South Africa",
+      "bowl": "H Thaker",
+      "bowl_t": "Canada",
+      "v": "batsman",
+      "vs_t": {
+        "runs": 59,
+        "balls": 36,
+        "dismissals": 1,
+        "average": 59.0,
+        "strike_rate": 163.89
+      },
+      "b_car": {
+        "avg": 31.08,
+        "sr": 143.73
+      },
+      "b_f": [
+        4,
+        28,
+        86
+      ]
+    },
+    {
+      "bat": "AK Markram",
+      "bat_t": "South Africa",
+      "bowl": "YS Samra",
+      "bowl_t": "Canada",
+      "v": "batsman",
+      "vs_t": {
+        "runs": 59,
+        "balls": 36,
+        "dismissals": 1,
+        "average": 59.0,
+        "strike_rate": 163.89
+      },
+      "b_car": {
+        "avg": 31.08,
+        "sr": 143.73
+      },
+      "b_f": [
+        4,
+        28,
+        86
+      ]
+    },
+    {
+      "bat": "AK Markram",
+      "bat_t": "South Africa",
+      "bowl": "S Movva",
+      "bowl_t": "Canada",
+      "v": "batsman",
+      "vs_t": {
+        "runs": 59,
+        "balls": 36,
+        "dismissals": 1,
+        "average": 59.0,
+        "strike_rate": 163.89
+      },
+      "b_car": {
+        "avg": 31.08,
+        "sr": 143.73
+      },
+      "b_f": [
+        4,
+        28,
+        86
+      ]
+    },
+    {
+      "bat": "AK Markram",
+      "bat_t": "South Africa",
+      "bowl": "NR Kirton",
+      "bowl_t": "Canada",
+      "v": "batsman",
+      "vs_t": {
+        "runs": 59,
+        "balls": 36,
+        "dismissals": 1,
+        "average": 59.0,
+        "strike_rate": 163.89
+      },
+      "b_car": {
+        "avg": 31.08,
+        "sr": 143.73
+      },
+      "b_f": [
+        4,
+        28,
+        86
+      ]
+    },
+    {
+      "bat": "AK Markram",
+      "bat_t": "South Africa",
+      "bowl": "NS Dhaliwal",
+      "bowl_t": "Canada",
+      "v": "batsman",
+      "vs_t": {
+        "runs": 59,
+        "balls": 36,
+        "dismissals": 1,
+        "average": 59.0,
+        "strike_rate": 163.89
+      },
+      "b_car": {
+        "avg": 31.08,
+        "sr": 143.73
+      },
+      "b_f": [
+        4,
+        28,
+        86
+      ]
+    },
+    {
+      "bat": "RD Rickelton",
+      "bat_t": "South Africa",
+      "bowl": "Kaleem Sana",
+      "bowl_t": "Canada",
+      "v": "neutral",
+      "vs_t": {
+        "runs": 33,
+        "balls": 22,
+        "dismissals": 1,
+        "average": 33.0,
+        "strike_rate": 150.0
+      },
+      "b_car": {
+        "avg": 26.26,
+        "sr": 141.78
+      },
+      "b_f": [
+        7,
+        30,
+        21
+      ],
+      "w_f": [
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "RD Rickelton",
+      "bat_t": "South Africa",
+      "bowl": "H Thaker",
+      "bowl_t": "Canada",
+      "v": "neutral",
+      "vs_t": {
+        "runs": 33,
+        "balls": 22,
+        "dismissals": 1,
+        "average": 33.0,
+        "strike_rate": 150.0
+      },
+      "b_car": {
+        "avg": 26.26,
+        "sr": 141.78
+      },
+      "b_f": [
+        7,
+        30,
+        21
+      ]
+    },
+    {
+      "bat": "RD Rickelton",
+      "bat_t": "South Africa",
+      "bowl": "YS Samra",
+      "bowl_t": "Canada",
+      "v": "neutral",
+      "vs_t": {
+        "runs": 33,
+        "balls": 22,
+        "dismissals": 1,
+        "average": 33.0,
+        "strike_rate": 150.0
+      },
+      "b_car": {
+        "avg": 26.26,
+        "sr": 141.78
+      },
+      "b_f": [
+        7,
+        30,
+        21
+      ]
+    },
+    {
+      "bat": "RD Rickelton",
+      "bat_t": "South Africa",
+      "bowl": "S Movva",
+      "bowl_t": "Canada",
+      "v": "neutral",
+      "vs_t": {
+        "runs": 33,
+        "balls": 22,
+        "dismissals": 1,
+        "average": 33.0,
+        "strike_rate": 150.0
+      },
+      "b_car": {
+        "avg": 26.26,
+        "sr": 141.78
+      },
+      "b_f": [
+        7,
+        30,
+        21
+      ]
+    }
+  ]
+}

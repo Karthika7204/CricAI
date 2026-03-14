@@ -1,0 +1,96 @@
+{
+    "match_id": "1512736",
+    "winner": "India",
+    "loser": "Namibia",
+    "awards": {
+        "player_of_the_match": {
+            "name": "MG Erasmus",
+            "team": "Namibia",
+            "impact_score": 268.8,
+            "breakdown": {
+                "batting": 50.0,
+                "bowling": 145,
+                "fielding": 29,
+                "pressure_multiplier": 1.2
+            },
+            "key_stats": {
+                "batting": "18(11) SR:163.64",
+                "bowling": "4.0ov-4wkt econ:5.0"
+            }
+        },
+        "best_batter": {
+            "name": "Ishan Kishan",
+            "team": "India",
+            "batting_impact": 118.0,
+            "stats": {
+                "runs": 61,
+                "balls": 25,
+                "sr": 244.0,
+                "fours": 6,
+                "sixes": 5
+            }
+        },
+        "best_bowler": {
+            "name": "MG Erasmus",
+            "team": "Namibia",
+            "bowling_impact": 145,
+            "stats": {
+                "overs": 4.0,
+                "wickets": 4,
+                "econ": 5.0
+            }
+        },
+        "game_changer": {
+            "name": "MG Erasmus",
+            "team": "Namibia",
+            "reason": "4-wicket haul | SR 163.64 with 2 sixes",
+            "key_stats": {
+                "batting": "18(11) SR:163.64",
+                "bowling": "4.0ov-4wkt econ:5.0"
+            }
+        },
+        "pressure_performer": {
+            "name": "MG Erasmus",
+            "team": "Namibia",
+            "pressure_multiplier": 1.2,
+            "reason": "Chasing team batter under pressure | Attacking SR 163.64 under pressure | Economy 5.0 while defending chase",
+            "key_stats": {
+                "batting": "18(11) SR:163.64",
+                "bowling": "4.0ov-4wkt econ:5.0"
+            }
+        },
+        "emerging_player": {
+            "name": "MG Erasmus",
+            "team": "Namibia",
+            "reason": "Outperformed team average by 5.5x",
+            "key_stats": {
+                "batting": "18(11) SR:163.64",
+                "bowling": "4.0ov-4wkt econ:5.0"
+            }
+        },
+        "fielding_impact": {
+            "name": "MG Erasmus",
+            "team": "Namibia",
+            "fielding_proxy_score": 29,
+            "methodology": "Proxy-based: catch attribution (65% T20 wickets are catches) + dot ball pressure bonus + economy-implied fielding support",
+            "reason": "Estimated 3 caught dismissals from 4 wickets | Economy 5.0 — tight fielding support implied",
+            "stats": {
+                "overs": 4.0,
+                "wickets": 4,
+                "econ": 5.0
+            }
+        },
+        "all_rounder_impact": {
+            "name": "HH Pandya",
+            "team": "India",
+            "all_rounder_score": 194.0,
+            "stats": {
+                "runs": 52,
+                "sr": 179.31,
+                "overs": 4.0,
+                "wickets": 2,
+                "econ": 5.25
+            }
+        }
+    }
+}

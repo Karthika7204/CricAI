@@ -1,0 +1,520 @@
+{
+    "match_context": {
+        "match_id": "1512736",
+        "date": "2026-02-12",
+        "tournament": "2025/26",
+        "venue": "Arun Jaitley Stadium, Delhi",
+        "stage": "ICC Men's T20 World Cup",
+        "Teams": {
+            "India": {
+                "captain": "SA Yadav",
+                "playing_xi_count": 11
+            },
+            "Namibia": {
+                "captain": "MG Erasmus",
+                "playing_xi_count": 11
+            }
+        }
+    },
+    "Match_Result": {
+        "summary": "India won by 93 runs",
+        "winner": "India",
+        "margin": 93,
+        "margin_type": "runs"
+    },
+    "Scorecard_Highlights": {
+        "Key_Support_Performers": [
+            {
+                "player": "Tilak Varma",
+                "team": "India",
+                "runs": 25,
+                "balls": 21,
+                "sr": 119.05,
+                "fours": 3,
+                "sixes": 0,
+                "win_contribution_percent": 12.0,
+                "score": 48.46
+            },
+            {
+                "player": "JN Frylinck",
+                "team": "Namibia",
+                "runs": 22,
+                "balls": 16,
+                "sr": 137.5,
+                "fours": 3,
+                "sixes": 1,
+                "win_contribution_percent": 19.0,
+                "score": 49.1
+            }
+        ],
+        "Career_vs_Match_Bowling": [
+            {
+                "player": "S Dube",
+                "team": "India",
+                "match_figures": "2.2-11-1",
+                "match_economy": 4.71,
+                "career_economy": 9.74,
+                "economy_delta": -5.03,
+                "match_sr": 13.0,
+                "career_sr": 16.79,
+                "career_wickets": 28,
+                "career_best": "3/31",
+                "verdict": "Exceptional - 5.03 below career economy (9.74)"
+            },
+            {
+                "player": "CV Varun",
+                "team": "India",
+                "match_figures": "2.0-7-3",
+                "match_economy": 3.5,
+                "career_economy": 7.36,
+                "economy_delta": -3.86,
+                "match_sr": 4.0,
+                "career_sr": 12.97,
+                "career_wickets": 71,
+                "career_best": "5/24",
+                "verdict": "Exceptional - 3.86 below career economy (7.36)"
+            },
+            {
+                "player": "HH Pandya",
+                "team": "India",
+                "match_figures": "4.0-21-2",
+                "match_economy": 5.25,
+                "career_economy": 8.49,
+                "economy_delta": -3.24,
+                "match_sr": 12.0,
+                "career_sr": 19.4,
+                "career_wickets": 111,
+                "career_best": "4/38",
+                "verdict": "Exceptional - 3.24 below career economy (8.49)"
+            },
+            {
+                "player": "JJ Bumrah",
+                "team": "India",
+                "match_figures": "4.0-21-1",
+                "match_economy": 5.25,
+                "career_economy": 6.85,
+                "economy_delta": -1.6,
+                "match_sr": 24.0,
+                "career_sr": 17.08,
+                "career_wickets": 113,
+                "career_best": "3/23",
+                "verdict": "Exceptional - 1.6 below career economy (6.85)"
+            },
+            {
+                "player": "AR Patel",
+                "team": "India",
+                "match_figures": "3.0-20-2",
+                "match_economy": 6.67,
+                "career_economy": 7.59,
+                "economy_delta": -0.92,
+                "match_sr": 9.0,
+                "career_sr": 17.7,
+                "career_wickets": 88,
+                "career_best": "3/18",
+                "verdict": "On par with career economy (7.59)"
+            },
+            {
+                "player": "Arshdeep Singh",
+                "team": "India",
+                "match_figures": "3.0-36-1",
+                "match_economy": 12.0,
+                "career_economy": 8.75,
+                "economy_delta": 3.25,
+                "match_sr": 18.0,
+                "career_sr": 13.46,
+                "career_wickets": 120,
+                "career_best": "5/51",
+                "verdict": "Expensive - 3.25 above career economy (8.75)"
+            }
+        ],
+        "Bowling_Standouts": {
+            "Economical_Spells": [
+                {
+                    "player": "S Dube",
+                    "team": "India",
+                    "match_figures": "2.2-11-1",
+                    "match_economy": 4.71,
+                    "career_economy": 9.74,
+                    "economy_delta": -5.03,
+                    "match_sr": 13.0,
+                    "career_sr": 16.79,
+                    "career_wickets": 28,
+                    "career_best": "3/31",
+                    "verdict": "Exceptional - 5.03 below career economy (9.74)"
+                },
+                {
+                    "player": "CV Varun",
+                    "team": "India",
+                    "match_figures": "2.0-7-3",
+                    "match_economy": 3.5,
+                    "career_economy": 7.36,
+                    "economy_delta": -3.86,
+                    "match_sr": 4.0,
+                    "career_sr": 12.97,
+                    "career_wickets": 71,
+                    "career_best": "5/24",
+                    "verdict": "Exceptional - 3.86 below career economy (7.36)"
+                },
+                {
+                    "player": "HH Pandya",
+                    "team": "India",
+                    "match_figures": "4.0-21-2",
+                    "match_economy": 5.25,
+                    "career_economy": 8.49,
+                    "economy_delta": -3.24,
+                    "match_sr": 12.0,
+                    "career_sr": 19.4,
+                    "career_wickets": 111,
+                    "career_best": "4/38",
+                    "verdict": "Exceptional - 3.24 below career economy (8.49)"
+                },
+                {
+                    "player": "JJ Bumrah",
+                    "team": "India",
+                    "match_figures": "4.0-21-1",
+                    "match_economy": 5.25,
+                    "career_economy": 6.85,
+                    "economy_delta": -1.6,
+                    "match_sr": 24.0,
+                    "career_sr": 17.08,
+                    "career_wickets": 113,
+                    "career_best": "3/23",
+                    "verdict": "Exceptional - 1.6 below career economy (6.85)"
+                }
+            ],
+            "Expensive_Spells": [
+                {
+                    "player": "Arshdeep Singh",
+                    "team": "India",
+                    "match_figures": "3.0-36-1",
+                    "match_economy": 12.0,
+                    "career_economy": 8.75,
+                    "economy_delta": 3.25,
+                    "match_sr": 18.0,
+                    "career_sr": 13.46,
+                    "career_wickets": 120,
+                    "career_best": "5/51",
+                    "verdict": "Expensive - 3.25 above career economy (8.75)"
+                }
+            ],
+            "High_Economy_No_Baseline": [
+                {
+                    "player": "M Heingo",
+                    "team": "Namibia",
+                    "overs": 1.0,
+                    "runs": 18,
+                    "wickets": 0,
+                    "econ": 18.0,
+                    "score": 8.95,
+                    "bowling_baseline": {
+                        "career_wickets": 0,
+                        "career_economy": 0.0,
+                        "career_sr": 0.0,
+                        "career_avg": 0.0,
+                        "best_bowling": "N/A",
+                        "matches": 0,
+                        "source": "none",
+                        "baseline_available": false
+                    }
+                },
+                {
+                    "player": "B Shikongo",
+                    "team": "Namibia",
+                    "overs": 3.0,
+                    "runs": 41,
+                    "wickets": 1,
+                    "econ": 13.67,
+                    "score": 41.79,
+                    "bowling_baseline": {
+                        "career_wickets": 0,
+                        "career_economy": 0.0,
+                        "career_sr": 0.0,
+                        "career_avg": 0.0,
+                        "best_bowling": "N/A",
+                        "matches": 0,
+                        "source": "none",
+                        "baseline_available": false
+                    }
+                }
+            ]
+        },
+        "Significant_Collapses": [
+            {
+                "player": "R Trumpelmann",
+                "runs": 6,
+                "balls": 17
+            }
+        ]
+    },
+    "Innings_Metrics": [
+        {
+            "innings": 1,
+            "team": "India",
+            "total_runs": 209,
+            "total_wickets": 9,
+            "balls_faced": 120,
+            "overs_faced": 20.0,
+            "phase_analysis": {
+                "Powerplay": {
+                    "runs": 86,
+                    "wkts": 1,
+                    "rr": 14.33
+                },
+                "Middle": {
+                    "runs": 82,
+                    "wkts": 3,
+                    "rr": 9.11
+                },
+                "Death": {
+                    "runs": 41,
+                    "wkts": 5,
+                    "rr": 8.2
+                }
+            }
+        },
+        {
+            "innings": 2,
+            "team": "Namibia",
+            "total_runs": 116,
+            "total_wickets": 10,
+            "balls_faced": 110,
+            "overs_faced": 18.2,
+            "phase_analysis": {
+                "Powerplay": {
+                    "runs": 57,
+                    "wkts": 1,
+                    "rr": 9.5
+                },
+                "Middle": {
+                    "runs": 48,
+                    "wkts": 5,
+                    "rr": 5.33
+                },
+                "Death": {
+                    "runs": 11,
+                    "wkts": 4,
+                    "rr": 3.3
+                }
+            },
+            "pressure_index": 100.0,
+            "target": 210
+        }
+    ],
+    "Detailed_Impact_Analysis": [
+        {
+            "player": "MG Erasmus",
+            "team": "Namibia",
+            "overs": 4.0,
+            "runs": 20,
+            "wickets": 4,
+            "econ": 5.0,
+            "score": 150.0,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-20r-4w"
+        },
+        {
+            "player": "CV Varun",
+            "team": "India",
+            "overs": 2.0,
+            "runs": 7,
+            "wickets": 3,
+            "econ": 3.5,
+            "score": 136.04,
+            "bowling_baseline": {
+                "career_wickets": 71,
+                "career_economy": 7.36,
+                "career_sr": 12.97,
+                "career_avg": 15.9,
+                "best_bowling": "5/24",
+                "matches": 41,
+                "source": "t20_bowling_master",
+                "baseline_available": true
+            },
+            "role": "bowling",
+            "match_stats": "2.0o-7r-3w"
+        },
+        {
+            "player": "Ishan Kishan",
+            "team": "India",
+            "runs": 61,
+            "balls": 25,
+            "sr": 244.0,
+            "fours": 6,
+            "sixes": 5,
+            "win_contribution_percent": 29.2,
+            "score": 109.08,
+            "role": "batting",
+            "match_stats": "61(25)",
+            "baseline": {
+                "avg": 29.68,
+                "sr": 138.02,
+                "matches": 41,
+                "source": "t20_master",
+                "baseline_available": true
+            }
+        },
+        {
+            "player": "HH Pandya",
+            "team": "India",
+            "overs": 4.0,
+            "runs": 21,
+            "wickets": 2,
+            "econ": 5.25,
+            "score": 90.7,
+            "bowling_baseline": {
+                "career_wickets": 111,
+                "career_economy": 8.49,
+                "career_sr": 19.4,
+                "career_avg": 27.46,
+                "best_bowling": "4/38",
+                "matches": 121,
+                "source": "t20_bowling_master",
+                "baseline_available": true
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-21r-2w"
+        },
+        {
+            "player": "HH Pandya",
+            "team": "India",
+            "runs": 52,
+            "balls": 29,
+            "sr": 179.31,
+            "fours": 4,
+            "sixes": 4,
+            "win_contribution_percent": 24.9,
+            "score": 87.34,
+            "role": "batting",
+            "match_stats": "52(29)",
+            "baseline": {
+                "avg": 28.12,
+                "sr": 138.02,
+                "matches": 103,
+                "source": "t20_master",
+                "baseline_available": true
+            }
+        },
+        {
+            "player": "AR Patel",
+            "team": "India",
+            "overs": 3.0,
+            "runs": 20,
+            "wickets": 2,
+            "econ": 6.67,
+            "score": 84.16,
+            "bowling_baseline": {
+                "career_wickets": 88,
+                "career_economy": 7.59,
+                "career_sr": 17.7,
+                "career_avg": 22.41,
+                "best_bowling": "3/18",
+                "matches": 82,
+                "source": "t20_bowling_master",
+                "baseline_available": true
+            },
+            "role": "bowling",
+            "match_stats": "3.0o-20r-2w"
+        },
+        {
+            "player": "SV Samson",
+            "team": "India",
+            "runs": 22,
+            "balls": 8,
+            "sr": 275.0,
+            "fours": 1,
+            "sixes": 3,
+            "win_contribution_percent": 10.5,
+            "score": 76.19,
+            "role": "batting",
+            "match_stats": "22(8)",
+            "baseline": {
+                "avg": 25.0,
+                "sr": 143.98,
+                "matches": 49,
+                "source": "t20_master",
+                "baseline_available": true
+            }
+        },
+        {
+            "player": "S Dube",
+            "team": "India",
+            "overs": 2.2,
+            "runs": 11,
+            "wickets": 1,
+            "econ": 4.71,
+            "score": 64.22,
+            "bowling_baseline": {
+                "career_wickets": 28,
+                "career_economy": 9.74,
+                "career_sr": 16.79,
+                "career_avg": 27.25,
+                "best_bowling": "3/31",
+                "matches": 37,
+                "source": "t20_bowling_master",
+                "baseline_available": true
+            },
+            "role": "bowling",
+            "match_stats": "2.2o-11r-1w"
+        },
+        {
+            "player": "JJ Bumrah",
+            "team": "India",
+            "overs": 4.0,
+            "runs": 21,
+            "wickets": 1,
+            "econ": 5.25,
+            "score": 60.7,
+            "bowling_baseline": {
+                "career_wickets": 113,
+                "career_economy": 6.85,
+                "career_sr": 17.08,
+                "career_avg": 19.51,
+                "best_bowling": "3/23",
+                "matches": 88,
+                "source": "t20_bowling_master",
+                "baseline_available": true
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-21r-1w"
+        },
+        {
+            "player": "L Steenkamp",
+            "team": "Namibia",
+            "runs": 29,
+            "balls": 21,
+            "sr": 138.1,
+            "fours": 3,
+            "sixes": 1,
+            "win_contribution_percent": 25.0,
+            "score": 56.22,
+            "role": "batting",
+            "match_stats": "29(21)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        }
+    ],
+    "Tactical_Post_Match_Analysis": [
+        "India's victory was anchored by Ishan Kishan, who contributed 29.2% of the team's runs.",
+        "Defensive pressure was sustained by CV Varun, finishing with an impact score of 136.04.",
+        "S Dube was outstanding with the ball — economy 4.71 vs career avg 9.74 (delta: -5.03). A match-defining spell.",
+        "CV Varun was outstanding with the ball — economy 3.5 vs career avg 7.36 (delta: -3.86). A match-defining spell.",
+        "HH Pandya was outstanding with the ball — economy 5.25 vs career avg 8.49 (delta: -3.24). A match-defining spell.",
+        "Arshdeep Singh struggled with economy 12.0 vs career avg 8.75 (+3.25) — an expensive outing.",
+        "Namibia struggled under extreme chase pressure (Index: 100.0), leading to a late-innings collapse."
+    ]
+}

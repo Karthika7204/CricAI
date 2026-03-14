@@ -1,0 +1,1488 @@
+{
+  "match_id": "1512720",
+  "team_a": "West Indies",
+  "team_b": "Scotland",
+  "matchups": [
+    {
+      "bat": "MA Jones",
+      "bat_t": "Scotland",
+      "bowl": "JO Holder",
+      "bowl_t": "West Indies",
+      "v": "bowler",
+      "h2h": {
+        "balls": 4,
+        "runs": 0,
+        "dismissals": 2,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 21,
+        "balls": 23,
+        "dismissals": 2,
+        "average": 10.5,
+        "strike_rate": 91.3
+      },
+      "b_f": [
+        71,
+        33,
+        37
+      ],
+      "w_f": [
+        1,
+        0,
+        4
+      ]
+    },
+    {
+      "bat": "TC Bruce",
+      "bat_t": "Scotland",
+      "bowl": "G Motie",
+      "bowl_t": "West Indies",
+      "v": "bowler",
+      "h2h": {
+        "balls": 13,
+        "runs": 13,
+        "dismissals": 1,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 63,
+        "balls": 56,
+        "dismissals": 4,
+        "average": 15.75,
+        "strike_rate": 112.5
+      },
+      "b_f": [
+        5,
+        24,
+        1
+      ],
+      "w_f": [
+        4,
+        2,
+        0
+      ]
+    },
+    {
+      "bat": "R Powell",
+      "bat_t": "West Indies",
+      "bowl": "MA Leask",
+      "bowl_t": "Scotland",
+      "v": "batsman",
+      "h2h": {
+        "balls": 11,
+        "runs": 19,
+        "dismissals": 1,
+        "strike_rate": 172.73
+      },
+      "vs_t": {
+        "runs": 29,
+        "balls": 23,
+        "dismissals": 2,
+        "average": 14.5,
+        "strike_rate": 126.09
+      },
+      "b_f": [
+        59,
+        9,
+        14
+      ],
+      "w_f": [
+        3,
+        1,
+        4
+      ]
+    },
+    {
+      "bat": "SO Hetmyer",
+      "bat_t": "West Indies",
+      "bowl": "SM Sharif",
+      "bowl_t": "Scotland",
+      "v": "batsman",
+      "h2h": {
+        "balls": 9,
+        "runs": 14,
+        "dismissals": 1,
+        "strike_rate": 155.56
+      },
+      "vs_t": {
+        "runs": 64,
+        "balls": 37,
+        "dismissals": 1,
+        "average": 64.0,
+        "strike_rate": 172.97
+      },
+      "b_f": [
+        85,
+        1,
+        46
+      ],
+      "w_f": [
+        1
+      ]
+    },
+    {
+      "bat": "BA King",
+      "bat_t": "West Indies",
+      "bowl": "MRJ Watt",
+      "bowl_t": "Scotland",
+      "v": "bowler",
+      "h2h": {
+        "balls": 6,
+        "runs": 2,
+        "dismissals": 1,
+        "strike_rate": 33.33
+      },
+      "vs_t": {
+        "runs": 52,
+        "balls": 47,
+        "dismissals": 2,
+        "average": 26.0,
+        "strike_rate": 110.64
+      },
+      "b_f": [
+        9,
+        4,
+        22
+      ],
+      "w_f": [
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "bat": "MH Cross",
+      "bat_t": "Scotland",
+      "bowl": "JO Holder",
+      "bowl_t": "West Indies",
+      "v": "bowler",
+      "h2h": {
+        "balls": 5,
+        "runs": 4,
+        "dismissals": 1,
+        "strike_rate": 80.0
+      },
+      "vs_t": {
+        "runs": 14,
+        "balls": 16,
+        "dismissals": 2,
+        "average": 7.0,
+        "strike_rate": 87.5
+      },
+      "b_f": [
+        4,
+        8,
+        11
+      ],
+      "w_f": [
+        1,
+        0,
+        4
+      ]
+    },
+    {
+      "bat": "JO Holder",
+      "bat_t": "West Indies",
+      "bowl": "SM Sharif",
+      "bowl_t": "Scotland",
+      "v": "neutral",
+      "h2h": {
+        "balls": 4,
+        "runs": 3,
+        "dismissals": 1,
+        "strike_rate": 75.0
+      },
+      "vs_t": {
+        "runs": 38,
+        "balls": 34,
+        "dismissals": 1,
+        "average": 38.0,
+        "strike_rate": 111.76
+      },
+      "b_f": [
+        13,
+        9,
+        33
+      ],
+      "w_f": [
+        1
+      ]
+    },
+    {
+      "bat": "BA King",
+      "bat_t": "West Indies",
+      "bowl": "O Davidson",
+      "bowl_t": "Scotland",
+      "v": "bowler",
+      "h2h": {
+        "balls": 4,
+        "runs": 2,
+        "dismissals": 1,
+        "strike_rate": 50.0
+      },
+      "vs_t": {
+        "runs": 52,
+        "balls": 47,
+        "dismissals": 2,
+        "average": 26.0,
+        "strike_rate": 110.64
+      },
+      "b_f": [
+        9,
+        4,
+        22
+      ],
+      "w_f": [
+        0,
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "RD Berrington",
+      "bat_t": "Scotland",
+      "bowl": "JO Holder",
+      "bowl_t": "West Indies",
+      "v": "bowler",
+      "h2h": {
+        "balls": 4,
+        "runs": 1,
+        "dismissals": 1,
+        "strike_rate": 25.0
+      },
+      "vs_t": {
+        "runs": 58,
+        "balls": 38,
+        "dismissals": 2,
+        "average": 29.0,
+        "strike_rate": 152.63
+      },
+      "b_f": [
+        10,
+        49,
+        15
+      ],
+      "w_f": [
+        1,
+        0,
+        4
+      ]
+    },
+    {
+      "bat": "MRJ Watt",
+      "bat_t": "Scotland",
+      "bowl": "JO Holder",
+      "bowl_t": "West Indies",
+      "v": "neutral",
+      "h2h": {
+        "balls": 4,
+        "runs": 9,
+        "dismissals": 1,
+        "strike_rate": 225.0
+      },
+      "vs_t": {
+        "runs": 15,
+        "balls": 12,
+        "dismissals": 1,
+        "average": 15.0,
+        "strike_rate": 125.0
+      },
+      "b_f": [
+        10,
+        2,
+        15
+      ],
+      "w_f": [
+        1,
+        0,
+        4
+      ]
+    },
+    {
+      "bat": "HG Munsey",
+      "bat_t": "Scotland",
+      "bowl": "S Joseph",
+      "bowl_t": "West Indies",
+      "v": "neutral",
+      "h2h": {
+        "balls": 4,
+        "runs": 4,
+        "dismissals": 1,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 85,
+        "balls": 72,
+        "dismissals": 1,
+        "average": 85.0,
+        "strike_rate": 118.06
+      },
+      "b_f": [
+        27,
+        4,
+        84
+      ],
+      "w_f": [
+        0,
+        4,
+        1
+      ]
+    },
+    {
+      "bat": "SE Rutherford",
+      "bat_t": "West Indies",
+      "bowl": "BJ Currie",
+      "bowl_t": "Scotland",
+      "v": "neutral",
+      "h2h": {
+        "balls": 3,
+        "runs": 1,
+        "dismissals": 1,
+        "strike_rate": 33.33
+      },
+      "vs_t": {
+        "runs": 26,
+        "balls": 13,
+        "dismissals": 1,
+        "average": 26.0,
+        "strike_rate": 200.0
+      },
+      "b_f": [
+        31,
+        24,
+        76
+      ],
+      "w_f": [
+        0,
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "SD Hope",
+      "bat_t": "West Indies",
+      "bowl": "MA Leask",
+      "bowl_t": "Scotland",
+      "v": "neutral",
+      "h2h": {
+        "balls": 2,
+        "runs": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 19,
+        "balls": 22,
+        "dismissals": 1,
+        "average": 19.0,
+        "strike_rate": 86.36
+      },
+      "b_f": [
+        14,
+        75,
+        61
+      ],
+      "w_f": [
+        3,
+        1,
+        4
+      ]
+    },
+    {
+      "bat": "R Powell",
+      "bat_t": "West Indies",
+      "bowl": "BJ Currie",
+      "bowl_t": "Scotland",
+      "v": "bowler",
+      "h2h": {
+        "balls": 2,
+        "runs": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 29,
+        "balls": 23,
+        "dismissals": 2,
+        "average": 14.5,
+        "strike_rate": 126.09
+      },
+      "b_f": [
+        59,
+        9,
+        14
+      ],
+      "w_f": [
+        0,
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "SM Sharif",
+      "bat_t": "Scotland",
+      "bowl": "R Shepherd",
+      "bowl_t": "West Indies",
+      "v": "neutral",
+      "h2h": {
+        "balls": 2,
+        "runs": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 0,
+        "balls": 2,
+        "dismissals": 1,
+        "average": 0.0,
+        "strike_rate": 0.0
+      },
+      "b_f": [
+        0
+      ],
+      "w_f": [
+        1,
+        5
+      ]
+    },
+    {
+      "bat": "BJ McMullen",
+      "bat_t": "Scotland",
+      "bowl": "R Shepherd",
+      "bowl_t": "West Indies",
+      "v": "neutral",
+      "h2h": {
+        "balls": 2,
+        "runs": 1,
+        "dismissals": 1,
+        "strike_rate": 50.0
+      },
+      "vs_t": {
+        "runs": 14,
+        "balls": 13,
+        "dismissals": 1,
+        "average": 14.0,
+        "strike_rate": 107.69
+      },
+      "b_f": [
+        25,
+        0,
+        41
+      ],
+      "w_f": [
+        1,
+        5
+      ]
+    },
+    {
+      "bat": "MA Leask",
+      "bat_t": "Scotland",
+      "bowl": "R Shepherd",
+      "bowl_t": "West Indies",
+      "v": "neutral",
+      "h2h": {
+        "balls": 1,
+        "runs": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 4,
+        "balls": 7,
+        "dismissals": 2,
+        "average": 2.0,
+        "strike_rate": 57.14
+      },
+      "b_f": [
+        4,
+        1,
+        22
+      ],
+      "w_f": [
+        1,
+        5
+      ]
+    },
+    {
+      "bat": "O Davidson",
+      "bat_t": "Scotland",
+      "bowl": "R Shepherd",
+      "bowl_t": "West Indies",
+      "v": "neutral",
+      "h2h": {
+        "balls": 1,
+        "runs": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 0,
+        "balls": 1,
+        "dismissals": 1,
+        "average": 0.0,
+        "strike_rate": 0.0
+      },
+      "b_f": [
+        1,
+        20,
+        0
+      ],
+      "w_f": [
+        1,
+        5
+      ]
+    },
+    {
+      "bat": "MH Cross",
+      "bat_t": "Scotland",
+      "bowl": "R Shepherd",
+      "bowl_t": "West Indies",
+      "v": "bowler",
+      "h2h": {
+        "balls": 1,
+        "runs": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 14,
+        "balls": 16,
+        "dismissals": 2,
+        "average": 7.0,
+        "strike_rate": 87.5
+      },
+      "b_f": [
+        4,
+        8,
+        11
+      ],
+      "w_f": [
+        1,
+        5
+      ]
+    },
+    {
+      "bat": "RD Berrington",
+      "bat_t": "Scotland",
+      "bowl": "AJ Hosein",
+      "bowl_t": "West Indies",
+      "v": "batsman",
+      "h2h": {
+        "balls": 13,
+        "runs": 32,
+        "dismissals": 0,
+        "strike_rate": 246.15
+      },
+      "vs_t": {
+        "runs": 58,
+        "balls": 38,
+        "dismissals": 2,
+        "average": 29.0,
+        "strike_rate": 152.63
+      },
+      "b_f": [
+        10,
+        49,
+        15
+      ],
+      "w_f": [
+        3,
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "HG Munsey",
+      "bat_t": "Scotland",
+      "bowl": "JO Holder",
+      "bowl_t": "West Indies",
+      "v": "neutral",
+      "h2h": {
+        "balls": 12,
+        "runs": 11,
+        "dismissals": 0,
+        "strike_rate": 91.67
+      },
+      "vs_t": {
+        "runs": 85,
+        "balls": 72,
+        "dismissals": 1,
+        "average": 85.0,
+        "strike_rate": 118.06
+      },
+      "b_f": [
+        27,
+        4,
+        84
+      ],
+      "w_f": [
+        1,
+        0,
+        4
+      ]
+    },
+    {
+      "bat": "BA King",
+      "bat_t": "West Indies",
+      "bowl": "SM Sharif",
+      "bowl_t": "Scotland",
+      "v": "batsman",
+      "h2h": {
+        "balls": 11,
+        "runs": 22,
+        "dismissals": 0,
+        "strike_rate": 200.0
+      },
+      "vs_t": {
+        "runs": 52,
+        "balls": 47,
+        "dismissals": 2,
+        "average": 26.0,
+        "strike_rate": 110.64
+      },
+      "b_f": [
+        9,
+        4,
+        22
+      ],
+      "w_f": [
+        1
+      ]
+    },
+    {
+      "bat": "SO Hetmyer",
+      "bat_t": "West Indies",
+      "bowl": "MA Leask",
+      "bowl_t": "Scotland",
+      "v": "batsman",
+      "h2h": {
+        "balls": 11,
+        "runs": 15,
+        "dismissals": 0,
+        "strike_rate": 136.36
+      },
+      "vs_t": {
+        "runs": 64,
+        "balls": 37,
+        "dismissals": 1,
+        "average": 64.0,
+        "strike_rate": 172.97
+      },
+      "b_f": [
+        85,
+        1,
+        46
+      ],
+      "w_f": [
+        3,
+        1,
+        4
+      ]
+    },
+    {
+      "bat": "HG Munsey",
+      "bat_t": "Scotland",
+      "bowl": "AJ Hosein",
+      "bowl_t": "West Indies",
+      "v": "neutral",
+      "h2h": {
+        "balls": 11,
+        "runs": 7,
+        "dismissals": 0,
+        "strike_rate": 63.64
+      },
+      "vs_t": {
+        "runs": 85,
+        "balls": 72,
+        "dismissals": 1,
+        "average": 85.0,
+        "strike_rate": 118.06
+      },
+      "b_f": [
+        27,
+        4,
+        84
+      ],
+      "w_f": [
+        3,
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "JO Holder",
+      "bat_t": "West Indies",
+      "bowl": "MA Leask",
+      "bowl_t": "Scotland",
+      "v": "neutral",
+      "h2h": {
+        "balls": 9,
+        "runs": 3,
+        "dismissals": 0,
+        "strike_rate": 33.33
+      },
+      "vs_t": {
+        "runs": 38,
+        "balls": 34,
+        "dismissals": 1,
+        "average": 38.0,
+        "strike_rate": 111.76
+      },
+      "b_f": [
+        13,
+        9,
+        33
+      ],
+      "w_f": [
+        3,
+        1,
+        4
+      ]
+    },
+    {
+      "bat": "TC Bruce",
+      "bat_t": "Scotland",
+      "bowl": "S Joseph",
+      "bowl_t": "West Indies",
+      "v": "bowler",
+      "h2h": {
+        "balls": 9,
+        "runs": 7,
+        "dismissals": 0,
+        "strike_rate": 77.78
+      },
+      "vs_t": {
+        "runs": 63,
+        "balls": 56,
+        "dismissals": 4,
+        "average": 15.75,
+        "strike_rate": 112.5
+      },
+      "b_f": [
+        5,
+        24,
+        1
+      ],
+      "w_f": [
+        0,
+        4,
+        1
+      ]
+    },
+    {
+      "bat": "JO Holder",
+      "bat_t": "West Indies",
+      "bowl": "MRJ Watt",
+      "bowl_t": "Scotland",
+      "v": "neutral",
+      "h2h": {
+        "balls": 8,
+        "runs": 6,
+        "dismissals": 0,
+        "strike_rate": 75.0
+      },
+      "vs_t": {
+        "runs": 38,
+        "balls": 34,
+        "dismissals": 1,
+        "average": 38.0,
+        "strike_rate": 111.76
+      },
+      "b_f": [
+        13,
+        9,
+        33
+      ],
+      "w_f": [
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "bat": "SD Hope",
+      "bat_t": "West Indies",
+      "bowl": "MRJ Watt",
+      "bowl_t": "Scotland",
+      "v": "neutral",
+      "h2h": {
+        "balls": 8,
+        "runs": 6,
+        "dismissals": 0,
+        "strike_rate": 75.0
+      },
+      "vs_t": {
+        "runs": 19,
+        "balls": 22,
+        "dismissals": 1,
+        "average": 19.0,
+        "strike_rate": 86.36
+      },
+      "b_f": [
+        14,
+        75,
+        61
+      ],
+      "w_f": [
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "bat": "BA King",
+      "bat_t": "West Indies",
+      "bowl": "BJ Currie",
+      "bowl_t": "Scotland",
+      "v": "bowler",
+      "h2h": {
+        "balls": 8,
+        "runs": 7,
+        "dismissals": 0,
+        "strike_rate": 87.5
+      },
+      "vs_t": {
+        "runs": 52,
+        "balls": 47,
+        "dismissals": 2,
+        "average": 26.0,
+        "strike_rate": 110.64
+      },
+      "b_f": [
+        9,
+        4,
+        22
+      ],
+      "w_f": [
+        0,
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "SO Hetmyer",
+      "bat_t": "West Indies",
+      "bowl": "O Davidson",
+      "bowl_t": "Scotland",
+      "v": "batsman",
+      "h2h": {
+        "balls": 8,
+        "runs": 16,
+        "dismissals": 0,
+        "strike_rate": 200.0
+      },
+      "vs_t": {
+        "runs": 64,
+        "balls": 37,
+        "dismissals": 1,
+        "average": 64.0,
+        "strike_rate": 172.97
+      },
+      "b_f": [
+        85,
+        1,
+        46
+      ],
+      "w_f": [
+        0,
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "RD Berrington",
+      "bat_t": "Scotland",
+      "bowl": "G Motie",
+      "bowl_t": "West Indies",
+      "v": "batsman",
+      "h2h": {
+        "balls": 8,
+        "runs": 11,
+        "dismissals": 0,
+        "strike_rate": 137.5
+      },
+      "vs_t": {
+        "runs": 58,
+        "balls": 38,
+        "dismissals": 2,
+        "average": 29.0,
+        "strike_rate": 152.63
+      },
+      "b_f": [
+        10,
+        49,
+        15
+      ],
+      "w_f": [
+        4,
+        2,
+        0
+      ]
+    },
+    {
+      "bat": "SO Hetmyer",
+      "bat_t": "West Indies",
+      "bowl": "MRJ Watt",
+      "bowl_t": "Scotland",
+      "v": "batsman",
+      "h2h": {
+        "balls": 7,
+        "runs": 18,
+        "dismissals": 0,
+        "strike_rate": 257.14
+      },
+      "vs_t": {
+        "runs": 64,
+        "balls": 37,
+        "dismissals": 1,
+        "average": 64.0,
+        "strike_rate": 172.97
+      },
+      "b_f": [
+        85,
+        1,
+        46
+      ],
+      "w_f": [
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "bat": "BJ McMullen",
+      "bat_t": "Scotland",
+      "bowl": "JO Holder",
+      "bowl_t": "West Indies",
+      "v": "neutral",
+      "h2h": {
+        "balls": 7,
+        "runs": 6,
+        "dismissals": 0,
+        "strike_rate": 85.71
+      },
+      "vs_t": {
+        "runs": 14,
+        "balls": 13,
+        "dismissals": 1,
+        "average": 14.0,
+        "strike_rate": 107.69
+      },
+      "b_f": [
+        25,
+        0,
+        41
+      ],
+      "w_f": [
+        1,
+        0,
+        4
+      ]
+    },
+    {
+      "bat": "R Powell",
+      "bat_t": "West Indies",
+      "bowl": "SM Sharif",
+      "bowl_t": "Scotland",
+      "v": "bowler",
+      "h2h": {
+        "balls": 6,
+        "runs": 6,
+        "dismissals": 0,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 29,
+        "balls": 23,
+        "dismissals": 2,
+        "average": 14.5,
+        "strike_rate": 126.09
+      },
+      "b_f": [
+        59,
+        9,
+        14
+      ],
+      "w_f": [
+        1
+      ]
+    },
+    {
+      "bat": "MRJ Watt",
+      "bat_t": "Scotland",
+      "bowl": "S Joseph",
+      "bowl_t": "West Indies",
+      "v": "neutral",
+      "h2h": {
+        "balls": 6,
+        "runs": 4,
+        "dismissals": 0,
+        "strike_rate": 66.67
+      },
+      "vs_t": {
+        "runs": 15,
+        "balls": 12,
+        "dismissals": 1,
+        "average": 15.0,
+        "strike_rate": 125.0
+      },
+      "b_f": [
+        10,
+        2,
+        15
+      ],
+      "w_f": [
+        0,
+        4,
+        1
+      ]
+    },
+    {
+      "bat": "SD Hope",
+      "bat_t": "West Indies",
+      "bowl": "BJ Currie",
+      "bowl_t": "Scotland",
+      "v": "neutral",
+      "h2h": {
+        "balls": 5,
+        "runs": 6,
+        "dismissals": 0,
+        "strike_rate": 120.0
+      },
+      "vs_t": {
+        "runs": 19,
+        "balls": 22,
+        "dismissals": 1,
+        "average": 19.0,
+        "strike_rate": 86.36
+      },
+      "b_f": [
+        14,
+        75,
+        61
+      ],
+      "w_f": [
+        0,
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "BA King",
+      "bat_t": "West Indies",
+      "bowl": "MA Leask",
+      "bowl_t": "Scotland",
+      "v": "bowler",
+      "h2h": {
+        "balls": 5,
+        "runs": 3,
+        "dismissals": 0,
+        "strike_rate": 60.0
+      },
+      "vs_t": {
+        "runs": 52,
+        "balls": 47,
+        "dismissals": 2,
+        "average": 26.0,
+        "strike_rate": 110.64
+      },
+      "b_f": [
+        9,
+        4,
+        22
+      ],
+      "w_f": [
+        3,
+        1,
+        4
+      ]
+    },
+    {
+      "bat": "BA King",
+      "bat_t": "West Indies",
+      "bowl": "BJ McMullen",
+      "bowl_t": "Scotland",
+      "v": "bowler",
+      "h2h": {
+        "balls": 5,
+        "runs": 6,
+        "dismissals": 0,
+        "strike_rate": 120.0
+      },
+      "vs_t": {
+        "runs": 52,
+        "balls": 47,
+        "dismissals": 2,
+        "average": 26.0,
+        "strike_rate": 110.64
+      },
+      "b_f": [
+        9,
+        4,
+        22
+      ],
+      "w_f": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "MA Jones",
+      "bat_t": "Scotland",
+      "bowl": "AJ Hosein",
+      "bowl_t": "West Indies",
+      "v": "bowler",
+      "h2h": {
+        "balls": 5,
+        "runs": 8,
+        "dismissals": 0,
+        "strike_rate": 160.0
+      },
+      "vs_t": {
+        "runs": 21,
+        "balls": 23,
+        "dismissals": 2,
+        "average": 10.5,
+        "strike_rate": 91.3
+      },
+      "b_f": [
+        71,
+        33,
+        37
+      ],
+      "w_f": [
+        3,
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "HG Munsey",
+      "bat_t": "Scotland",
+      "bowl": "MW Forde",
+      "bowl_t": "West Indies",
+      "v": "neutral",
+      "h2h": {
+        "balls": 5,
+        "runs": 7,
+        "dismissals": 0,
+        "strike_rate": 140.0
+      },
+      "vs_t": {
+        "runs": 85,
+        "balls": 72,
+        "dismissals": 1,
+        "average": 85.0,
+        "strike_rate": 118.06
+      },
+      "b_f": [
+        27,
+        4,
+        84
+      ],
+      "w_f": [
+        2,
+        3,
+        1
+      ]
+    },
+    {
+      "bat": "SE Rutherford",
+      "bat_t": "West Indies",
+      "bowl": "MRJ Watt",
+      "bowl_t": "Scotland",
+      "v": "neutral",
+      "h2h": {
+        "balls": 4,
+        "runs": 11,
+        "dismissals": 0,
+        "strike_rate": 275.0
+      },
+      "vs_t": {
+        "runs": 26,
+        "balls": 13,
+        "dismissals": 1,
+        "average": 26.0,
+        "strike_rate": 200.0
+      },
+      "b_f": [
+        31,
+        24,
+        76
+      ],
+      "w_f": [
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "bat": "SE Rutherford",
+      "bat_t": "West Indies",
+      "bowl": "MA Leask",
+      "bowl_t": "Scotland",
+      "v": "neutral",
+      "h2h": {
+        "balls": 4,
+        "runs": 9,
+        "dismissals": 0,
+        "strike_rate": 225.0
+      },
+      "vs_t": {
+        "runs": 26,
+        "balls": 13,
+        "dismissals": 1,
+        "average": 26.0,
+        "strike_rate": 200.0
+      },
+      "b_f": [
+        31,
+        24,
+        76
+      ],
+      "w_f": [
+        3,
+        1,
+        4
+      ]
+    },
+    {
+      "bat": "RD Berrington",
+      "bat_t": "Scotland",
+      "bowl": "R Shepherd",
+      "bowl_t": "West Indies",
+      "v": "bowler",
+      "h2h": {
+        "balls": 4,
+        "runs": 6,
+        "dismissals": 0,
+        "strike_rate": 150.0
+      },
+      "vs_t": {
+        "runs": 58,
+        "balls": 38,
+        "dismissals": 2,
+        "average": 29.0,
+        "strike_rate": 152.63
+      },
+      "b_f": [
+        10,
+        49,
+        15
+      ],
+      "w_f": [
+        1,
+        5
+      ]
+    },
+    {
+      "bat": "TC Bruce",
+      "bat_t": "Scotland",
+      "bowl": "R Shepherd",
+      "bowl_t": "West Indies",
+      "v": "bowler",
+      "h2h": {
+        "balls": 4,
+        "runs": 10,
+        "dismissals": 0,
+        "strike_rate": 250.0
+      },
+      "vs_t": {
+        "runs": 63,
+        "balls": 56,
+        "dismissals": 4,
+        "average": 15.75,
+        "strike_rate": 112.5
+      },
+      "b_f": [
+        5,
+        24,
+        1
+      ],
+      "w_f": [
+        1,
+        5
+      ]
+    },
+    {
+      "bat": "BJ McMullen",
+      "bat_t": "Scotland",
+      "bowl": "MW Forde",
+      "bowl_t": "West Indies",
+      "v": "neutral",
+      "h2h": {
+        "balls": 4,
+        "runs": 7,
+        "dismissals": 0,
+        "strike_rate": 175.0
+      },
+      "vs_t": {
+        "runs": 14,
+        "balls": 13,
+        "dismissals": 1,
+        "average": 14.0,
+        "strike_rate": 107.69
+      },
+      "b_f": [
+        25,
+        0,
+        41
+      ],
+      "w_f": [
+        2,
+        3,
+        1
+      ]
+    },
+    {
+      "bat": "MH Cross",
+      "bat_t": "Scotland",
+      "bowl": "S Joseph",
+      "bowl_t": "West Indies",
+      "v": "bowler",
+      "h2h": {
+        "balls": 4,
+        "runs": 5,
+        "dismissals": 0,
+        "strike_rate": 125.0
+      },
+      "vs_t": {
+        "runs": 14,
+        "balls": 16,
+        "dismissals": 2,
+        "average": 7.0,
+        "strike_rate": 87.5
+      },
+      "b_f": [
+        4,
+        8,
+        11
+      ],
+      "w_f": [
+        0,
+        4,
+        1
+      ]
+    },
+    {
+      "bat": "R Shepherd",
+      "bat_t": "West Indies",
+      "bowl": "BJ Currie",
+      "bowl_t": "Scotland",
+      "v": "neutral",
+      "h2h": {
+        "balls": 3,
+        "runs": 6,
+        "dismissals": 0,
+        "strike_rate": 200.0
+      },
+      "vs_t": {
+        "runs": 6,
+        "balls": 3,
+        "dismissals": 0,
+        "average": 6.0,
+        "strike_rate": 200.0
+      },
+      "b_f": [
+        21,
+        1,
+        6
+      ],
+      "w_f": [
+        0,
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "SD Hope",
+      "bat_t": "West Indies",
+      "bowl": "SM Sharif",
+      "bowl_t": "Scotland",
+      "v": "neutral",
+      "h2h": {
+        "balls": 3,
+        "runs": 4,
+        "dismissals": 0,
+        "strike_rate": 133.33
+      },
+      "vs_t": {
+        "runs": 19,
+        "balls": 22,
+        "dismissals": 1,
+        "average": 19.0,
+        "strike_rate": 86.36
+      },
+      "b_f": [
+        14,
+        75,
+        61
+      ],
+      "w_f": [
+        1
+      ]
+    },
+    {
+      "bat": "SD Hope",
+      "bat_t": "West Indies",
+      "bowl": "O Davidson",
+      "bowl_t": "Scotland",
+      "v": "neutral",
+      "h2h": {
+        "balls": 3,
+        "runs": 2,
+        "dismissals": 0,
+        "strike_rate": 66.67
+      },
+      "vs_t": {
+        "runs": 19,
+        "balls": 22,
+        "dismissals": 1,
+        "average": 19.0,
+        "strike_rate": 86.36
+      },
+      "b_f": [
+        14,
+        75,
+        61
+      ],
+      "w_f": [
+        0,
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "R Powell",
+      "bat_t": "West Indies",
+      "bowl": "O Davidson",
+      "bowl_t": "Scotland",
+      "v": "bowler",
+      "h2h": {
+        "balls": 3,
+        "runs": 3,
+        "dismissals": 0,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 29,
+        "balls": 23,
+        "dismissals": 2,
+        "average": 14.5,
+        "strike_rate": 126.09
+      },
+      "b_f": [
+        59,
+        9,
+        14
+      ],
+      "w_f": [
+        0,
+        1,
+        1
+      ]
+    }
+  ]
+}

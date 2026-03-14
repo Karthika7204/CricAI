@@ -1,0 +1,1092 @@
+{
+    "match_id": "1512753",
+    "metadata": {
+        "tournament": "2025/26",
+        "venue": "Sinhalese Sports Club Ground, Colombo",
+        "date": "2026-02-18",
+        "stage": "ICC Men's T20 World Cup",
+        "winner": "Pakistan",
+        "loser": "Namibia",
+        "win_classification": "Moderate",
+        "margin_runs": 102,
+        "margin_wickets": null,
+        "competitiveness_index": 85.0,
+        "teams": {
+            "Pakistan": {
+                "captain": "Sahibzada Farhan",
+                "playing_xi_count": 9
+            },
+            "Namibia": {
+                "captain": "MG Erasmus",
+                "playing_xi_count": 11
+            }
+        },
+        "team_summary": {
+            "Pakistan": {
+                "run_rate": 9.95,
+                "fours": 18,
+                "sixes": 9,
+                "boundary_runs": 126,
+                "dot_balls": 37,
+                "total_runs": 199,
+                "total_wickets": 3
+            },
+            "Namibia": {
+                "run_rate": 5.54,
+                "fours": 7,
+                "sixes": 2,
+                "boundary_runs": 40,
+                "dot_balls": 57,
+                "total_runs": 97,
+                "total_wickets": 10
+            }
+        },
+        "formulas": {
+            "competitiveness": "Base(Margin) + Pressure_Bonus(L5 Overs)",
+            "pressure": "((RR_Gap / Start_RR) * 40) + ((Wickets / 10) * 60)",
+            "batting_impact": "Runs + (SR/Match_SR * 25)",
+            "bowling_impact": "(Wickets * 30) + (Match_RR/Econ * 20)"
+        }
+    },
+    "scorecards": {
+        "batting": [
+            {
+                "player": "Sahibzada Farhan",
+                "team": "Pakistan",
+                "runs": 100,
+                "balls": 59,
+                "sr": 169.49,
+                "fours": 11,
+                "sixes": 4,
+                "win_contribution_percent": 50.3,
+                "score": 134.89
+            },
+            {
+                "player": "Agha Salman",
+                "team": "Pakistan",
+                "runs": 38,
+                "balls": 24,
+                "sr": 158.33,
+                "fours": 3,
+                "sixes": 2,
+                "win_contribution_percent": 19.1,
+                "score": 70.59
+            },
+            {
+                "player": "Shadab Khan",
+                "team": "Pakistan",
+                "runs": 36,
+                "balls": 24,
+                "sr": 150.0,
+                "fours": 1,
+                "sixes": 3,
+                "win_contribution_percent": 18.1,
+                "score": 66.87
+            },
+            {
+                "player": "Saim Ayub",
+                "team": "Pakistan",
+                "runs": 14,
+                "balls": 12,
+                "sr": 116.67,
+                "fours": 2,
+                "sixes": 0,
+                "win_contribution_percent": 7.0,
+                "score": 38.01
+            },
+            {
+                "player": "Khawaja Nafay",
+                "team": "Pakistan",
+                "runs": 5,
+                "balls": 5,
+                "sr": 100.0,
+                "fours": 1,
+                "sixes": 0,
+                "win_contribution_percent": 2.5,
+                "score": 25.58
+            },
+            {
+                "player": "L Steenkamp",
+                "team": "Namibia",
+                "runs": 23,
+                "balls": 22,
+                "sr": 104.55,
+                "fours": 3,
+                "sixes": 1,
+                "win_contribution_percent": 23.7,
+                "score": 44.52
+            },
+            {
+                "player": "A Busing-Volschenk",
+                "team": "Namibia",
+                "runs": 20,
+                "balls": 22,
+                "sr": 90.91,
+                "fours": 1,
+                "sixes": 1,
+                "win_contribution_percent": 20.6,
+                "score": 38.71
+            },
+            {
+                "player": "JJ Smit",
+                "team": "Namibia",
+                "runs": 9,
+                "balls": 13,
+                "sr": 69.23,
+                "fours": 0,
+                "sixes": 0,
+                "win_contribution_percent": 9.3,
+                "score": 23.25
+            },
+            {
+                "player": "JN Frylinck",
+                "team": "Namibia",
+                "runs": 9,
+                "balls": 12,
+                "sr": 75.0,
+                "fours": 1,
+                "sixes": 0,
+                "win_contribution_percent": 9.3,
+                "score": 24.44
+            },
+            {
+                "player": "WP Myburgh",
+                "team": "Namibia",
+                "runs": 8,
+                "balls": 14,
+                "sr": 57.14,
+                "fours": 0,
+                "sixes": 0,
+                "win_contribution_percent": 8.2,
+                "score": 19.76
+            },
+            {
+                "player": "MG Erasmus",
+                "team": "Namibia",
+                "runs": 7,
+                "balls": 7,
+                "sr": 100.0,
+                "fours": 1,
+                "sixes": 0,
+                "win_contribution_percent": 7.2,
+                "score": 27.58
+            },
+            {
+                "player": "ZE Green",
+                "team": "Namibia",
+                "runs": 7,
+                "balls": 9,
+                "sr": 77.78,
+                "fours": 0,
+                "sixes": 0,
+                "win_contribution_percent": 7.2,
+                "score": 23.01
+            },
+            {
+                "player": "JN Loftie-Eaton",
+                "team": "Namibia",
+                "runs": 5,
+                "balls": 5,
+                "sr": 100.0,
+                "fours": 1,
+                "sixes": 0,
+                "win_contribution_percent": 5.2,
+                "score": 25.58
+            },
+            {
+                "player": "BM Scholtz",
+                "team": "Namibia",
+                "runs": 1,
+                "balls": 2,
+                "sr": 50.0,
+                "fours": 0,
+                "sixes": 0,
+                "win_contribution_percent": 1.0,
+                "score": 11.29
+            },
+            {
+                "player": "JT Brassell",
+                "team": "Namibia",
+                "runs": 1,
+                "balls": 1,
+                "sr": 100.0,
+                "fours": 0,
+                "sixes": 0,
+                "win_contribution_percent": 1.0,
+                "score": 21.58
+            },
+            {
+                "player": "R Trumpelmann",
+                "team": "Namibia",
+                "runs": 0,
+                "balls": 2,
+                "sr": 0.0,
+                "fours": 0,
+                "sixes": 0,
+                "win_contribution_percent": 0.0,
+                "score": 0.0
+            }
+        ],
+        "bowling": [
+            {
+                "player": "JT Brassell",
+                "team": "Namibia",
+                "overs": 4.0,
+                "runs": 48,
+                "wickets": 2,
+                "econ": 12.0,
+                "score": 72.7,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "MG Erasmus",
+                "team": "Namibia",
+                "overs": 3.0,
+                "runs": 25,
+                "wickets": 1,
+                "econ": 8.33,
+                "score": 48.3,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "BM Scholtz",
+                "team": "Namibia",
+                "overs": 4.0,
+                "runs": 34,
+                "wickets": 0,
+                "econ": 8.5,
+                "score": 17.93,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "R Trumpelmann",
+                "team": "Namibia",
+                "overs": 4.0,
+                "runs": 37,
+                "wickets": 0,
+                "econ": 9.25,
+                "score": 16.48,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "JJ Smit",
+                "team": "Namibia",
+                "overs": 3.0,
+                "runs": 28,
+                "wickets": 0,
+                "econ": 9.33,
+                "score": 16.34,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "WP Myburgh",
+                "team": "Namibia",
+                "overs": 2.0,
+                "runs": 27,
+                "wickets": 0,
+                "econ": 13.5,
+                "score": 11.29,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "Usman Tariq",
+                "team": "Pakistan",
+                "overs": 3.3,
+                "runs": 16,
+                "wickets": 4,
+                "econ": 4.57,
+                "score": 150.0,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "Shadab Khan",
+                "team": "Pakistan",
+                "overs": 4.0,
+                "runs": 19,
+                "wickets": 3,
+                "econ": 4.75,
+                "score": 122.09,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "Mohammad Nawaz",
+                "team": "Pakistan",
+                "overs": 4.0,
+                "runs": 22,
+                "wickets": 1,
+                "econ": 5.5,
+                "score": 57.72,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "Salman Mirza",
+                "team": "Pakistan",
+                "overs": 2.0,
+                "runs": 12,
+                "wickets": 1,
+                "econ": 6.0,
+                "score": 55.41,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "Saim Ayub",
+                "team": "Pakistan",
+                "overs": 2.0,
+                "runs": 11,
+                "wickets": 0,
+                "econ": 5.5,
+                "score": 27.72,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "Faheem Ashraf",
+                "team": "Pakistan",
+                "overs": 2.0,
+                "runs": 17,
+                "wickets": 0,
+                "econ": 8.5,
+                "score": 17.93,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            }
+        ]
+    },
+    "innings": [
+        {
+            "innings": 1,
+            "team": "Pakistan",
+            "total_runs": 199,
+            "total_wickets": 3,
+            "balls_faced": 120,
+            "overs_faced": 20.0,
+            "phase_analysis": {
+                "Powerplay": {
+                    "runs": 47,
+                    "wkts": 1,
+                    "rr": 7.83
+                },
+                "Middle": {
+                    "runs": 84,
+                    "wkts": 2,
+                    "rr": 9.33
+                },
+                "Death": {
+                    "runs": 68,
+                    "wkts": 0,
+                    "rr": 13.6
+                }
+            }
+        },
+        {
+            "innings": 2,
+            "team": "Namibia",
+            "total_runs": 97,
+            "total_wickets": 10,
+            "balls_faced": 105,
+            "overs_faced": 17.3,
+            "phase_analysis": {
+                "Powerplay": {
+                    "runs": 40,
+                    "wkts": 2,
+                    "rr": 6.67
+                },
+                "Middle": {
+                    "runs": 43,
+                    "wkts": 5,
+                    "rr": 4.78
+                },
+                "Death": {
+                    "runs": 14,
+                    "wkts": 3,
+                    "rr": 5.6
+                }
+            },
+            "pressure_index": 99.0,
+            "target": 200
+        }
+    ],
+    "players": [
+        {
+            "player": "Usman Tariq",
+            "team": "Pakistan",
+            "overs": 3.3,
+            "runs": 16,
+            "wickets": 4,
+            "econ": 4.57,
+            "score": 150.0,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "3.3o-16r-4w"
+        },
+        {
+            "player": "Sahibzada Farhan",
+            "team": "Pakistan",
+            "runs": 100,
+            "balls": 59,
+            "sr": 169.49,
+            "fours": 11,
+            "sixes": 4,
+            "win_contribution_percent": 50.3,
+            "score": 134.89,
+            "role": "batting",
+            "match_stats": "100(59)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "Shadab Khan",
+            "team": "Pakistan",
+            "overs": 4.0,
+            "runs": 19,
+            "wickets": 3,
+            "econ": 4.75,
+            "score": 122.09,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-19r-3w"
+        },
+        {
+            "player": "JT Brassell",
+            "team": "Namibia",
+            "overs": 4.0,
+            "runs": 48,
+            "wickets": 2,
+            "econ": 12.0,
+            "score": 72.7,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-48r-2w"
+        },
+        {
+            "player": "Agha Salman",
+            "team": "Pakistan",
+            "runs": 38,
+            "balls": 24,
+            "sr": 158.33,
+            "fours": 3,
+            "sixes": 2,
+            "win_contribution_percent": 19.1,
+            "score": 70.59,
+            "role": "batting",
+            "match_stats": "38(24)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "Shadab Khan",
+            "team": "Pakistan",
+            "runs": 36,
+            "balls": 24,
+            "sr": 150.0,
+            "fours": 1,
+            "sixes": 3,
+            "win_contribution_percent": 18.1,
+            "score": 66.87,
+            "role": "batting",
+            "match_stats": "36(24)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "Mohammad Nawaz",
+            "team": "Pakistan",
+            "overs": 4.0,
+            "runs": 22,
+            "wickets": 1,
+            "econ": 5.5,
+            "score": 57.72,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-22r-1w"
+        },
+        {
+            "player": "Salman Mirza",
+            "team": "Pakistan",
+            "overs": 2.0,
+            "runs": 12,
+            "wickets": 1,
+            "econ": 6.0,
+            "score": 55.41,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "2.0o-12r-1w"
+        },
+        {
+            "player": "MG Erasmus",
+            "team": "Namibia",
+            "overs": 3.0,
+            "runs": 25,
+            "wickets": 1,
+            "econ": 8.33,
+            "score": 48.3,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "3.0o-25r-1w"
+        },
+        {
+            "player": "L Steenkamp",
+            "team": "Namibia",
+            "runs": 23,
+            "balls": 22,
+            "sr": 104.55,
+            "fours": 3,
+            "sixes": 1,
+            "win_contribution_percent": 23.7,
+            "score": 44.52,
+            "role": "batting",
+            "match_stats": "23(22)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "A Busing-Volschenk",
+            "team": "Namibia",
+            "runs": 20,
+            "balls": 22,
+            "sr": 90.91,
+            "fours": 1,
+            "sixes": 1,
+            "win_contribution_percent": 20.6,
+            "score": 38.71,
+            "role": "batting",
+            "match_stats": "20(22)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "Saim Ayub",
+            "team": "Pakistan",
+            "runs": 14,
+            "balls": 12,
+            "sr": 116.67,
+            "fours": 2,
+            "sixes": 0,
+            "win_contribution_percent": 7.0,
+            "score": 38.01,
+            "role": "batting",
+            "match_stats": "14(12)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "Saim Ayub",
+            "team": "Pakistan",
+            "overs": 2.0,
+            "runs": 11,
+            "wickets": 0,
+            "econ": 5.5,
+            "score": 27.72,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "2.0o-11r-0w"
+        },
+        {
+            "player": "MG Erasmus",
+            "team": "Namibia",
+            "runs": 7,
+            "balls": 7,
+            "sr": 100.0,
+            "fours": 1,
+            "sixes": 0,
+            "win_contribution_percent": 7.2,
+            "score": 27.58,
+            "role": "batting",
+            "match_stats": "7(7)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "Khawaja Nafay",
+            "team": "Pakistan",
+            "runs": 5,
+            "balls": 5,
+            "sr": 100.0,
+            "fours": 1,
+            "sixes": 0,
+            "win_contribution_percent": 2.5,
+            "score": 25.58,
+            "role": "batting",
+            "match_stats": "5(5)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "JN Loftie-Eaton",
+            "team": "Namibia",
+            "runs": 5,
+            "balls": 5,
+            "sr": 100.0,
+            "fours": 1,
+            "sixes": 0,
+            "win_contribution_percent": 5.2,
+            "score": 25.58,
+            "role": "batting",
+            "match_stats": "5(5)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "JN Frylinck",
+            "team": "Namibia",
+            "runs": 9,
+            "balls": 12,
+            "sr": 75.0,
+            "fours": 1,
+            "sixes": 0,
+            "win_contribution_percent": 9.3,
+            "score": 24.44,
+            "role": "batting",
+            "match_stats": "9(12)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "JJ Smit",
+            "team": "Namibia",
+            "runs": 9,
+            "balls": 13,
+            "sr": 69.23,
+            "fours": 0,
+            "sixes": 0,
+            "win_contribution_percent": 9.3,
+            "score": 23.25,
+            "role": "batting",
+            "match_stats": "9(13)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "ZE Green",
+            "team": "Namibia",
+            "runs": 7,
+            "balls": 9,
+            "sr": 77.78,
+            "fours": 0,
+            "sixes": 0,
+            "win_contribution_percent": 7.2,
+            "score": 23.01,
+            "role": "batting",
+            "match_stats": "7(9)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "JT Brassell",
+            "team": "Namibia",
+            "runs": 1,
+            "balls": 1,
+            "sr": 100.0,
+            "fours": 0,
+            "sixes": 0,
+            "win_contribution_percent": 1.0,
+            "score": 21.58,
+            "role": "batting",
+            "match_stats": "1(1)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "WP Myburgh",
+            "team": "Namibia",
+            "runs": 8,
+            "balls": 14,
+            "sr": 57.14,
+            "fours": 0,
+            "sixes": 0,
+            "win_contribution_percent": 8.2,
+            "score": 19.76,
+            "role": "batting",
+            "match_stats": "8(14)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "BM Scholtz",
+            "team": "Namibia",
+            "overs": 4.0,
+            "runs": 34,
+            "wickets": 0,
+            "econ": 8.5,
+            "score": 17.93,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-34r-0w"
+        },
+        {
+            "player": "Faheem Ashraf",
+            "team": "Pakistan",
+            "overs": 2.0,
+            "runs": 17,
+            "wickets": 0,
+            "econ": 8.5,
+            "score": 17.93,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "2.0o-17r-0w"
+        },
+        {
+            "player": "R Trumpelmann",
+            "team": "Namibia",
+            "overs": 4.0,
+            "runs": 37,
+            "wickets": 0,
+            "econ": 9.25,
+            "score": 16.48,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-37r-0w"
+        },
+        {
+            "player": "JJ Smit",
+            "team": "Namibia",
+            "overs": 3.0,
+            "runs": 28,
+            "wickets": 0,
+            "econ": 9.33,
+            "score": 16.34,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "3.0o-28r-0w"
+        },
+        {
+            "player": "BM Scholtz",
+            "team": "Namibia",
+            "runs": 1,
+            "balls": 2,
+            "sr": 50.0,
+            "fours": 0,
+            "sixes": 0,
+            "win_contribution_percent": 1.0,
+            "score": 11.29,
+            "role": "batting",
+            "match_stats": "1(2)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "WP Myburgh",
+            "team": "Namibia",
+            "overs": 2.0,
+            "runs": 27,
+            "wickets": 0,
+            "econ": 13.5,
+            "score": 11.29,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "2.0o-27r-0w"
+        },
+        {
+            "player": "R Trumpelmann",
+            "team": "Namibia",
+            "runs": 0,
+            "balls": 2,
+            "sr": 0.0,
+            "fours": 0,
+            "sixes": 0,
+            "win_contribution_percent": 0.0,
+            "score": 0.0,
+            "role": "batting",
+            "match_stats": "0(2)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        }
+    ],
+    "validation": {
+        "logical_stability": true
+    }
+}

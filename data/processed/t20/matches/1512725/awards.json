@@ -1,0 +1,96 @@
+{
+    "match_id": "1512725",
+    "winner": "Scotland",
+    "loser": "Italy",
+    "awards": {
+        "player_of_the_match": {
+            "name": "MA Leask",
+            "team": "Scotland",
+            "impact_score": 227.0,
+            "breakdown": {
+                "batting": 53.0,
+                "bowling": 145,
+                "fielding": 29,
+                "pressure_multiplier": 1.0
+            },
+            "key_stats": {
+                "batting": "22(5) SR:440.0",
+                "bowling": "4.0ov-4wkt econ:4.25"
+            }
+        },
+        "best_batter": {
+            "name": "HG Munsey",
+            "team": "Scotland",
+            "batting_impact": 127.0,
+            "stats": {
+                "runs": 84,
+                "balls": 58,
+                "sr": 144.83,
+                "fours": 13,
+                "sixes": 2
+            }
+        },
+        "best_bowler": {
+            "name": "MA Leask",
+            "team": "Scotland",
+            "bowling_impact": 145,
+            "stats": {
+                "overs": 4.0,
+                "wickets": 4,
+                "econ": 4.25
+            }
+        },
+        "game_changer": {
+            "name": "MA Leask",
+            "team": "Scotland",
+            "reason": "4-wicket haul | SR 440.0 with 2 sixes | Exceptional economy 4.25",
+            "key_stats": {
+                "batting": "22(5) SR:440.0",
+                "bowling": "4.0ov-4wkt econ:4.25"
+            }
+        },
+        "pressure_performer": {
+            "name": "BAD Manenti",
+            "team": "Italy",
+            "pressure_multiplier": 1.2,
+            "reason": "Chasing team batter under pressure | Attacking SR 167.74 under pressure",
+            "key_stats": {
+                "batting": "52(31) SR:167.74",
+                "bowling": "2.0ov-0wkt econ:10.0"
+            }
+        },
+        "emerging_player": {
+            "name": "MA Leask",
+            "team": "Scotland",
+            "reason": "Outperformed team average by 3.46x",
+            "key_stats": {
+                "batting": "22(5) SR:440.0",
+                "bowling": "4.0ov-4wkt econ:4.25"
+            }
+        },
+        "fielding_impact": {
+            "name": "MA Leask",
+            "team": "Scotland",
+            "fielding_proxy_score": 29,
+            "methodology": "Proxy-based: catch attribution (65% T20 wickets are catches) + dot ball pressure bonus + economy-implied fielding support",
+            "reason": "Estimated 3 caught dismissals from 4 wickets | Economy 4.25 — tight fielding support implied",
+            "stats": {
+                "overs": 4.0,
+                "wickets": 4,
+                "econ": 4.25
+            }
+        },
+        "all_rounder_impact": {
+            "name": "MA Leask",
+            "team": "Scotland",
+            "all_rounder_score": 198.0,
+            "stats": {
+                "runs": 22,
+                "sr": 440.0,
+                "overs": 4.0,
+                "wickets": 4,
+                "econ": 4.25
+            }
+        }
+    }
+}

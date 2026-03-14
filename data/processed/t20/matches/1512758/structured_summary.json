@@ -1,0 +1,364 @@
+{
+    "match_context": {
+        "match_id": "1512758",
+        "date": "2026-02-20",
+        "tournament": "2025/26",
+        "venue": "Pallekele International Cricket Stadium",
+        "stage": "ICC Men's T20 World Cup",
+        "Teams": {
+            "Oman": {
+                "captain": "Wasim Ali",
+                "playing_xi_count": 11
+            },
+            "Australia": {
+                "captain": "MR Marsh",
+                "playing_xi_count": 9
+            }
+        }
+    },
+    "Match_Result": {
+        "summary": "Australia won by 9 wickets",
+        "winner": "Australia",
+        "margin": 9,
+        "margin_type": "wickets"
+    },
+    "Scorecard_Highlights": {
+        "Key_Support_Performers": [
+            {
+                "player": "Jatinder Singh",
+                "team": "Oman",
+                "runs": 17,
+                "balls": 16,
+                "sr": 106.25,
+                "fours": 3,
+                "sixes": 0,
+                "win_contribution_percent": 16.3,
+                "score": 37.57
+            },
+            {
+                "player": "Hammad Mirza",
+                "team": "Oman",
+                "runs": 16,
+                "balls": 14,
+                "sr": 114.29,
+                "fours": 1,
+                "sixes": 1,
+                "win_contribution_percent": 15.4,
+                "score": 38.13
+            }
+        ],
+        "Career_vs_Match_Bowling": [],
+        "Bowling_Standouts": {
+            "Economical_Spells": [],
+            "Expensive_Spells": [],
+            "High_Economy_No_Baseline": [
+                {
+                    "player": "Wasim Ali",
+                    "team": "Oman",
+                    "overs": 1.0,
+                    "runs": 18,
+                    "wickets": 0,
+                    "econ": 18.0,
+                    "score": 8.95,
+                    "bowling_baseline": {
+                        "career_wickets": 0,
+                        "career_economy": 0.0,
+                        "career_sr": 0.0,
+                        "career_avg": 0.0,
+                        "best_bowling": "N/A",
+                        "matches": 0,
+                        "source": "none",
+                        "baseline_available": false
+                    }
+                },
+                {
+                    "player": "J Ramanandi",
+                    "team": "Oman",
+                    "overs": 0.4,
+                    "runs": 10,
+                    "wickets": 0,
+                    "econ": 15.0,
+                    "score": 10.73,
+                    "bowling_baseline": {
+                        "career_wickets": 0,
+                        "career_economy": 0.0,
+                        "career_sr": 0.0,
+                        "career_avg": 0.0,
+                        "best_bowling": "N/A",
+                        "matches": 0,
+                        "source": "none",
+                        "baseline_available": false
+                    }
+                }
+            ]
+        },
+        "Significant_Collapses": []
+    },
+    "Innings_Metrics": [
+        {
+            "innings": 1,
+            "team": "Oman",
+            "total_runs": 104,
+            "total_wickets": 10,
+            "balls_faced": 98,
+            "overs_faced": 16.2,
+            "phase_analysis": {
+                "Powerplay": {
+                    "runs": 47,
+                    "wkts": 3,
+                    "rr": 7.83
+                },
+                "Middle": {
+                    "runs": 51,
+                    "wkts": 4,
+                    "rr": 5.67
+                },
+                "Death": {
+                    "runs": 6,
+                    "wkts": 3,
+                    "rr": 4.5
+                }
+            }
+        },
+        {
+            "innings": 2,
+            "team": "Australia",
+            "total_runs": 108,
+            "total_wickets": 1,
+            "balls_faced": 58,
+            "overs_faced": 9.4,
+            "phase_analysis": {
+                "Powerplay": {
+                    "runs": 73,
+                    "wkts": 0,
+                    "rr": 12.17
+                },
+                "Middle": {
+                    "runs": 35,
+                    "wkts": 1,
+                    "rr": 9.55
+                },
+                "Death": {
+                    "runs": 0,
+                    "wkts": 0,
+                    "rr": 0.0
+                }
+            },
+            "pressure_index": 14.0,
+            "target": 105
+        }
+    ],
+    "Detailed_Impact_Analysis": [
+        {
+            "player": "A Zampa",
+            "team": "Australia",
+            "overs": 3.2,
+            "runs": 22,
+            "wickets": 4,
+            "econ": 6.6,
+            "score": 144.4,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "3.2o-22r-4w"
+        },
+        {
+            "player": "MR Marsh",
+            "team": "Australia",
+            "runs": 64,
+            "balls": 33,
+            "sr": 193.94,
+            "fours": 7,
+            "sixes": 4,
+            "win_contribution_percent": 59.3,
+            "score": 101.55,
+            "role": "batting",
+            "match_stats": "64(33)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "GJ Maxwell",
+            "team": "Australia",
+            "overs": 3.0,
+            "runs": 13,
+            "wickets": 2,
+            "econ": 4.33,
+            "score": 97.19,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "3.0o-13r-2w"
+        },
+        {
+            "player": "XC Bartlett",
+            "team": "Australia",
+            "overs": 4.0,
+            "runs": 27,
+            "wickets": 2,
+            "econ": 6.75,
+            "score": 83.85,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-27r-2w"
+        },
+        {
+            "player": "TM Head",
+            "team": "Australia",
+            "runs": 32,
+            "balls": 19,
+            "sr": 168.42,
+            "fours": 6,
+            "sixes": 0,
+            "win_contribution_percent": 29.6,
+            "score": 64.61,
+            "role": "batting",
+            "match_stats": "32(19)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "Shakeel Ahmed",
+            "team": "Oman",
+            "overs": 4.0,
+            "runs": 29,
+            "wickets": 1,
+            "econ": 7.25,
+            "score": 52.21,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-29r-1w"
+        },
+        {
+            "player": "NT Ellis",
+            "team": "Australia",
+            "overs": 2.0,
+            "runs": 15,
+            "wickets": 1,
+            "econ": 7.5,
+            "score": 51.47,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "2.0o-15r-1w"
+        },
+        {
+            "player": "Wasim Ali",
+            "team": "Oman",
+            "runs": 32,
+            "balls": 33,
+            "sr": 96.97,
+            "fours": 4,
+            "sixes": 0,
+            "win_contribution_percent": 30.8,
+            "score": 50.78,
+            "role": "batting",
+            "match_stats": "32(33)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "JP Inglis",
+            "team": "Australia",
+            "runs": 12,
+            "balls": 6,
+            "sr": 200.0,
+            "fours": 2,
+            "sixes": 0,
+            "win_contribution_percent": 11.1,
+            "score": 50.73,
+            "role": "batting",
+            "match_stats": "12(6)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "MP Stoinis",
+            "team": "Australia",
+            "overs": 2.0,
+            "runs": 16,
+            "wickets": 1,
+            "econ": 8.0,
+            "score": 50.13,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "2.0o-16r-1w"
+        }
+    ],
+    "Tactical_Post_Match_Analysis": [
+        "Australia's victory was anchored by MR Marsh, who contributed 59.3% of the team's runs.",
+        "Defensive pressure was sustained by A Zampa, finishing with an impact score of 144.4.",
+        "Oman lost 3 wickets in Powerplay, failing to build a stable foundation."
+    ]
+}

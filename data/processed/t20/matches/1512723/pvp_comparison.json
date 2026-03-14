@@ -1,0 +1,1491 @@
+{
+  "match_id": "1512723",
+  "team_a": "England",
+  "team_b": "Nepal",
+  "matchups": [
+    {
+      "bat": "RK Paudel",
+      "bat_t": "Nepal",
+      "bowl": "LA Dawson",
+      "bowl_t": "England",
+      "v": "neutral",
+      "h2h": {
+        "balls": 7,
+        "runs": 5,
+        "dismissals": 1,
+        "strike_rate": 71.43
+      },
+      "vs_t": {
+        "runs": 39,
+        "balls": 37,
+        "dismissals": 1,
+        "average": 39.0,
+        "strike_rate": 105.41
+      },
+      "b_f": [
+        16,
+        5,
+        23
+      ],
+      "w_f": [
+        3,
+        2,
+        0
+      ]
+    },
+    {
+      "bat": "SM Curran",
+      "bat_t": "England",
+      "bowl": "DS Airee",
+      "bowl_t": "Nepal",
+      "v": "neutral",
+      "h2h": {
+        "balls": 4,
+        "runs": 1,
+        "dismissals": 1,
+        "strike_rate": 25.0
+      },
+      "vs_t": {
+        "runs": 2,
+        "balls": 8,
+        "dismissals": 1,
+        "average": 2.0,
+        "strike_rate": 25.0
+      },
+      "b_f": [
+        16,
+        11,
+        25
+      ],
+      "w_f": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "JG Bethell",
+      "bat_t": "England",
+      "bowl": "DS Airee",
+      "bowl_t": "Nepal",
+      "v": "batsman",
+      "h2h": {
+        "balls": 4,
+        "runs": 2,
+        "dismissals": 1,
+        "strike_rate": 50.0
+      },
+      "vs_t": {
+        "runs": 55,
+        "balls": 38,
+        "dismissals": 1,
+        "average": 55.0,
+        "strike_rate": 144.74
+      },
+      "b_f": [
+        8,
+        3,
+        23
+      ],
+      "w_f": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "HC Brook",
+      "bat_t": "England",
+      "bowl": "NK Yadav",
+      "bowl_t": "Nepal",
+      "v": "batsman",
+      "h2h": {
+        "balls": 4,
+        "runs": 8,
+        "dismissals": 1,
+        "strike_rate": 200.0
+      },
+      "vs_t": {
+        "runs": 53,
+        "balls": 33,
+        "dismissals": 1,
+        "average": 53.0,
+        "strike_rate": 160.61
+      },
+      "b_f": [
+        100,
+        14,
+        14
+      ],
+      "w_f": [
+        2,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "JC Buttler",
+      "bat_t": "England",
+      "bowl": "NK Yadav",
+      "bowl_t": "Nepal",
+      "v": "neutral",
+      "h2h": {
+        "balls": 3,
+        "runs": 4,
+        "dismissals": 1,
+        "strike_rate": 133.33
+      },
+      "vs_t": {
+        "runs": 26,
+        "balls": 17,
+        "dismissals": 1,
+        "average": 26.0,
+        "strike_rate": 152.94
+      },
+      "b_f": [
+        2,
+        7,
+        3
+      ],
+      "w_f": [
+        2,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "Aarif Sheikh",
+      "bat_t": "Nepal",
+      "bowl": "JC Archer",
+      "bowl_t": "England",
+      "v": "neutral",
+      "h2h": {
+        "balls": 3,
+        "runs": 6,
+        "dismissals": 1,
+        "strike_rate": 200.0
+      },
+      "vs_t": {
+        "runs": 10,
+        "balls": 9,
+        "dismissals": 1,
+        "average": 10.0,
+        "strike_rate": 111.11
+      },
+      "b_f": [
+        2,
+        27,
+        10
+      ],
+      "w_f": [
+        2,
+        2,
+        2
+      ]
+    },
+    {
+      "bat": "DS Airee",
+      "bat_t": "Nepal",
+      "bowl": "SM Curran",
+      "bowl_t": "England",
+      "v": "batsman",
+      "h2h": {
+        "balls": 3,
+        "runs": 2,
+        "dismissals": 1,
+        "strike_rate": 66.67
+      },
+      "vs_t": {
+        "runs": 44,
+        "balls": 29,
+        "dismissals": 1,
+        "average": 44.0,
+        "strike_rate": 151.72
+      },
+      "b_f": [
+        50,
+        58,
+        17
+      ],
+      "w_f": [
+        0,
+        3,
+        1
+      ]
+    },
+    {
+      "bat": "Aasif Sheikh",
+      "bat_t": "Nepal",
+      "bowl": "LA Dawson",
+      "bowl_t": "England",
+      "v": "neutral",
+      "h2h": {
+        "balls": 3,
+        "runs": 1,
+        "dismissals": 1,
+        "strike_rate": 33.33
+      },
+      "vs_t": {
+        "runs": 7,
+        "balls": 9,
+        "dismissals": 1,
+        "average": 7.0,
+        "strike_rate": 77.78
+      },
+      "b_f": [
+        33,
+        11,
+        20
+      ],
+      "w_f": [
+        3,
+        2,
+        0
+      ]
+    },
+    {
+      "bat": "T Banton",
+      "bat_t": "England",
+      "bowl": "S Lamichhane",
+      "bowl_t": "Nepal",
+      "v": "neutral",
+      "h2h": {
+        "balls": 1,
+        "runs": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 2,
+        "balls": 5,
+        "dismissals": 1,
+        "average": 2.0,
+        "strike_rate": 40.0
+      },
+      "b_f": [
+        2,
+        6,
+        30
+      ],
+      "w_f": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "PD Salt",
+      "bat_t": "England",
+      "bowl": "S Malla",
+      "bowl_t": "Nepal",
+      "v": "neutral",
+      "h2h": {
+        "balls": 1,
+        "runs": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 1,
+        "balls": 2,
+        "dismissals": 1,
+        "average": 1.0,
+        "strike_rate": 50.0
+      },
+      "b_f": [
+        0,
+        62,
+        28
+      ],
+      "w_f": [
+        1
+      ]
+    },
+    {
+      "bat": "K Bhurtel",
+      "bat_t": "Nepal",
+      "bowl": "WG Jacks",
+      "bowl_t": "England",
+      "v": "neutral",
+      "h2h": {
+        "balls": 1,
+        "runs": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 29,
+        "balls": 18,
+        "dismissals": 1,
+        "average": 29.0,
+        "strike_rate": 161.11
+      },
+      "b_f": [
+        43,
+        1,
+        5
+      ],
+      "w_f": [
+        0,
+        3,
+        1
+      ]
+    },
+    {
+      "bat": "Gulsan Jha",
+      "bat_t": "Nepal",
+      "bowl": "L Wood",
+      "bowl_t": "England",
+      "v": "neutral",
+      "h2h": {
+        "balls": 1,
+        "runs": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 1,
+        "balls": 2,
+        "dismissals": 1,
+        "average": 1.0,
+        "strike_rate": 50.0
+      },
+      "b_f": [
+        24,
+        11,
+        3
+      ],
+      "w_f": [
+        1
+      ]
+    },
+    {
+      "bat": "HC Brook",
+      "bat_t": "England",
+      "bowl": "S Lamichhane",
+      "bowl_t": "Nepal",
+      "v": "batsman",
+      "h2h": {
+        "balls": 14,
+        "runs": 21,
+        "dismissals": 0,
+        "strike_rate": 150.0
+      },
+      "vs_t": {
+        "runs": 53,
+        "balls": 33,
+        "dismissals": 1,
+        "average": 53.0,
+        "strike_rate": 160.61
+      },
+      "b_f": [
+        100,
+        14,
+        14
+      ],
+      "w_f": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "JG Bethell",
+      "bat_t": "England",
+      "bowl": "S Malla",
+      "bowl_t": "Nepal",
+      "v": "batsman",
+      "h2h": {
+        "balls": 12,
+        "runs": 31,
+        "dismissals": 0,
+        "strike_rate": 258.33
+      },
+      "vs_t": {
+        "runs": 55,
+        "balls": 38,
+        "dismissals": 1,
+        "average": 55.0,
+        "strike_rate": 144.74
+      },
+      "b_f": [
+        8,
+        3,
+        23
+      ],
+      "w_f": [
+        1
+      ]
+    },
+    {
+      "bat": "JC Buttler",
+      "bat_t": "England",
+      "bowl": "Karan KC",
+      "bowl_t": "Nepal",
+      "v": "neutral",
+      "h2h": {
+        "balls": 10,
+        "runs": 12,
+        "dismissals": 0,
+        "strike_rate": 120.0
+      },
+      "vs_t": {
+        "runs": 26,
+        "balls": 17,
+        "dismissals": 1,
+        "average": 26.0,
+        "strike_rate": 152.94
+      },
+      "b_f": [
+        2,
+        7,
+        3
+      ],
+      "w_f": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "Lokesh Bam",
+      "bat_t": "Nepal",
+      "bowl": "SM Curran",
+      "bowl_t": "England",
+      "v": "batsman",
+      "h2h": {
+        "balls": 10,
+        "runs": 13,
+        "dismissals": 0,
+        "strike_rate": 130.0
+      },
+      "vs_t": {
+        "runs": 39,
+        "balls": 24,
+        "dismissals": 0,
+        "average": 39.0,
+        "strike_rate": 162.5
+      },
+      "b_f": [
+        13,
+        3,
+        39
+      ],
+      "w_f": [
+        0,
+        3,
+        1
+      ]
+    },
+    {
+      "bat": "DS Airee",
+      "bat_t": "Nepal",
+      "bowl": "AU Rashid",
+      "bowl_t": "England",
+      "v": "batsman",
+      "h2h": {
+        "balls": 9,
+        "runs": 22,
+        "dismissals": 0,
+        "strike_rate": 244.44
+      },
+      "vs_t": {
+        "runs": 44,
+        "balls": 29,
+        "dismissals": 1,
+        "average": 44.0,
+        "strike_rate": 151.72
+      },
+      "b_f": [
+        50,
+        58,
+        17
+      ],
+      "w_f": [
+        1,
+        2,
+        1
+      ]
+    },
+    {
+      "bat": "RK Paudel",
+      "bat_t": "Nepal",
+      "bowl": "JC Archer",
+      "bowl_t": "England",
+      "v": "neutral",
+      "h2h": {
+        "balls": 9,
+        "runs": 3,
+        "dismissals": 0,
+        "strike_rate": 33.33
+      },
+      "vs_t": {
+        "runs": 39,
+        "balls": 37,
+        "dismissals": 1,
+        "average": 39.0,
+        "strike_rate": 105.41
+      },
+      "b_f": [
+        16,
+        5,
+        23
+      ],
+      "w_f": [
+        2,
+        2,
+        2
+      ]
+    },
+    {
+      "bat": "RK Paudel",
+      "bat_t": "Nepal",
+      "bowl": "AU Rashid",
+      "bowl_t": "England",
+      "v": "batsman",
+      "h2h": {
+        "balls": 9,
+        "runs": 20,
+        "dismissals": 0,
+        "strike_rate": 222.22
+      },
+      "vs_t": {
+        "runs": 39,
+        "balls": 37,
+        "dismissals": 1,
+        "average": 39.0,
+        "strike_rate": 105.41
+      },
+      "b_f": [
+        16,
+        5,
+        23
+      ],
+      "w_f": [
+        1,
+        2,
+        1
+      ]
+    },
+    {
+      "bat": "JG Bethell",
+      "bat_t": "England",
+      "bowl": "K Bhurtel",
+      "bowl_t": "Nepal",
+      "v": "batsman",
+      "h2h": {
+        "balls": 8,
+        "runs": 13,
+        "dismissals": 0,
+        "strike_rate": 162.5
+      },
+      "vs_t": {
+        "runs": 55,
+        "balls": 38,
+        "dismissals": 1,
+        "average": 55.0,
+        "strike_rate": 144.74
+      },
+      "b_f": [
+        8,
+        3,
+        23
+      ],
+      "w_f": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "JG Bethell",
+      "bat_t": "England",
+      "bowl": "NK Yadav",
+      "bowl_t": "Nepal",
+      "v": "batsman",
+      "h2h": {
+        "balls": 8,
+        "runs": 5,
+        "dismissals": 0,
+        "strike_rate": 62.5
+      },
+      "vs_t": {
+        "runs": 55,
+        "balls": 38,
+        "dismissals": 1,
+        "average": 55.0,
+        "strike_rate": 144.74
+      },
+      "b_f": [
+        8,
+        3,
+        23
+      ],
+      "w_f": [
+        2,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "HC Brook",
+      "bat_t": "England",
+      "bowl": "K Bhurtel",
+      "bowl_t": "Nepal",
+      "v": "batsman",
+      "h2h": {
+        "balls": 8,
+        "runs": 14,
+        "dismissals": 0,
+        "strike_rate": 175.0
+      },
+      "vs_t": {
+        "runs": 53,
+        "balls": 33,
+        "dismissals": 1,
+        "average": 53.0,
+        "strike_rate": 160.61
+      },
+      "b_f": [
+        100,
+        14,
+        14
+      ],
+      "w_f": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "DS Airee",
+      "bat_t": "Nepal",
+      "bowl": "WG Jacks",
+      "bowl_t": "England",
+      "v": "batsman",
+      "h2h": {
+        "balls": 8,
+        "runs": 13,
+        "dismissals": 0,
+        "strike_rate": 162.5
+      },
+      "vs_t": {
+        "runs": 44,
+        "balls": 29,
+        "dismissals": 1,
+        "average": 44.0,
+        "strike_rate": 151.72
+      },
+      "b_f": [
+        50,
+        58,
+        17
+      ],
+      "w_f": [
+        0,
+        3,
+        1
+      ]
+    },
+    {
+      "bat": "Lokesh Bam",
+      "bat_t": "Nepal",
+      "bowl": "L Wood",
+      "bowl_t": "England",
+      "v": "batsman",
+      "h2h": {
+        "balls": 8,
+        "runs": 11,
+        "dismissals": 0,
+        "strike_rate": 137.5
+      },
+      "vs_t": {
+        "runs": 39,
+        "balls": 24,
+        "dismissals": 0,
+        "average": 39.0,
+        "strike_rate": 162.5
+      },
+      "b_f": [
+        13,
+        3,
+        39
+      ],
+      "w_f": [
+        1
+      ]
+    },
+    {
+      "bat": "RK Paudel",
+      "bat_t": "Nepal",
+      "bowl": "SM Curran",
+      "bowl_t": "England",
+      "v": "neutral",
+      "h2h": {
+        "balls": 8,
+        "runs": 8,
+        "dismissals": 0,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 39,
+        "balls": 37,
+        "dismissals": 1,
+        "average": 39.0,
+        "strike_rate": 105.41
+      },
+      "b_f": [
+        16,
+        5,
+        23
+      ],
+      "w_f": [
+        0,
+        3,
+        1
+      ]
+    },
+    {
+      "bat": "K Bhurtel",
+      "bat_t": "Nepal",
+      "bowl": "JC Archer",
+      "bowl_t": "England",
+      "v": "batsman",
+      "h2h": {
+        "balls": 7,
+        "runs": 14,
+        "dismissals": 0,
+        "strike_rate": 200.0
+      },
+      "vs_t": {
+        "runs": 29,
+        "balls": 18,
+        "dismissals": 1,
+        "average": 29.0,
+        "strike_rate": 161.11
+      },
+      "b_f": [
+        43,
+        1,
+        5
+      ],
+      "w_f": [
+        2,
+        2,
+        2
+      ]
+    },
+    {
+      "bat": "K Bhurtel",
+      "bat_t": "Nepal",
+      "bowl": "L Wood",
+      "bowl_t": "England",
+      "v": "batsman",
+      "h2h": {
+        "balls": 7,
+        "runs": 12,
+        "dismissals": 0,
+        "strike_rate": 171.43
+      },
+      "vs_t": {
+        "runs": 29,
+        "balls": 18,
+        "dismissals": 1,
+        "average": 29.0,
+        "strike_rate": 161.11
+      },
+      "b_f": [
+        43,
+        1,
+        5
+      ],
+      "w_f": [
+        1
+      ]
+    },
+    {
+      "bat": "DS Airee",
+      "bat_t": "Nepal",
+      "bowl": "LA Dawson",
+      "bowl_t": "England",
+      "v": "batsman",
+      "h2h": {
+        "balls": 7,
+        "runs": 6,
+        "dismissals": 0,
+        "strike_rate": 85.71
+      },
+      "vs_t": {
+        "runs": 44,
+        "balls": 29,
+        "dismissals": 1,
+        "average": 44.0,
+        "strike_rate": 151.72
+      },
+      "b_f": [
+        50,
+        58,
+        17
+      ],
+      "w_f": [
+        3,
+        2,
+        0
+      ]
+    },
+    {
+      "bat": "JG Bethell",
+      "bat_t": "England",
+      "bowl": "S Lamichhane",
+      "bowl_t": "Nepal",
+      "v": "batsman",
+      "h2h": {
+        "balls": 5,
+        "runs": 3,
+        "dismissals": 0,
+        "strike_rate": 60.0
+      },
+      "vs_t": {
+        "runs": 55,
+        "balls": 38,
+        "dismissals": 1,
+        "average": 55.0,
+        "strike_rate": 144.74
+      },
+      "b_f": [
+        8,
+        3,
+        23
+      ],
+      "w_f": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "WG Jacks",
+      "bat_t": "England",
+      "bowl": "K Bhurtel",
+      "bowl_t": "Nepal",
+      "v": "batsman",
+      "h2h": {
+        "balls": 5,
+        "runs": 11,
+        "dismissals": 0,
+        "strike_rate": 220.0
+      },
+      "vs_t": {
+        "runs": 39,
+        "balls": 18,
+        "dismissals": 0,
+        "average": 39.0,
+        "strike_rate": 216.67
+      },
+      "b_f": [
+        28,
+        21,
+        53
+      ],
+      "w_f": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "WG Jacks",
+      "bat_t": "England",
+      "bowl": "Karan KC",
+      "bowl_t": "Nepal",
+      "v": "batsman",
+      "h2h": {
+        "balls": 5,
+        "runs": 21,
+        "dismissals": 0,
+        "strike_rate": 420.0
+      },
+      "vs_t": {
+        "runs": 39,
+        "balls": 18,
+        "dismissals": 0,
+        "average": 39.0,
+        "strike_rate": 216.67
+      },
+      "b_f": [
+        28,
+        21,
+        53
+      ],
+      "w_f": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "HC Brook",
+      "bat_t": "England",
+      "bowl": "DS Airee",
+      "bowl_t": "Nepal",
+      "v": "batsman",
+      "h2h": {
+        "balls": 5,
+        "runs": 8,
+        "dismissals": 0,
+        "strike_rate": 160.0
+      },
+      "vs_t": {
+        "runs": 53,
+        "balls": 33,
+        "dismissals": 1,
+        "average": 53.0,
+        "strike_rate": 160.61
+      },
+      "b_f": [
+        100,
+        14,
+        14
+      ],
+      "w_f": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "Aasif Sheikh",
+      "bat_t": "Nepal",
+      "bowl": "L Wood",
+      "bowl_t": "England",
+      "v": "neutral",
+      "h2h": {
+        "balls": 5,
+        "runs": 5,
+        "dismissals": 0,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 7,
+        "balls": 9,
+        "dismissals": 1,
+        "average": 7.0,
+        "strike_rate": 77.78
+      },
+      "b_f": [
+        33,
+        11,
+        20
+      ],
+      "w_f": [
+        1
+      ]
+    },
+    {
+      "bat": "SM Curran",
+      "bat_t": "England",
+      "bowl": "K Bhurtel",
+      "bowl_t": "Nepal",
+      "v": "neutral",
+      "h2h": {
+        "balls": 4,
+        "runs": 1,
+        "dismissals": 0,
+        "strike_rate": 25.0
+      },
+      "vs_t": {
+        "runs": 2,
+        "balls": 8,
+        "dismissals": 1,
+        "average": 2.0,
+        "strike_rate": 25.0
+      },
+      "b_f": [
+        16,
+        11,
+        25
+      ],
+      "w_f": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "WG Jacks",
+      "bat_t": "England",
+      "bowl": "S Lamichhane",
+      "bowl_t": "Nepal",
+      "v": "batsman",
+      "h2h": {
+        "balls": 4,
+        "runs": 1,
+        "dismissals": 0,
+        "strike_rate": 25.0
+      },
+      "vs_t": {
+        "runs": 39,
+        "balls": 18,
+        "dismissals": 0,
+        "average": 39.0,
+        "strike_rate": 216.67
+      },
+      "b_f": [
+        28,
+        21,
+        53
+      ],
+      "w_f": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "JC Buttler",
+      "bat_t": "England",
+      "bowl": "DS Airee",
+      "bowl_t": "Nepal",
+      "v": "neutral",
+      "h2h": {
+        "balls": 4,
+        "runs": 10,
+        "dismissals": 0,
+        "strike_rate": 250.0
+      },
+      "vs_t": {
+        "runs": 26,
+        "balls": 17,
+        "dismissals": 1,
+        "average": 26.0,
+        "strike_rate": 152.94
+      },
+      "b_f": [
+        2,
+        7,
+        3
+      ],
+      "w_f": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "Lokesh Bam",
+      "bat_t": "Nepal",
+      "bowl": "JC Archer",
+      "bowl_t": "England",
+      "v": "batsman",
+      "h2h": {
+        "balls": 4,
+        "runs": 13,
+        "dismissals": 0,
+        "strike_rate": 325.0
+      },
+      "vs_t": {
+        "runs": 39,
+        "balls": 24,
+        "dismissals": 0,
+        "average": 39.0,
+        "strike_rate": 162.5
+      },
+      "b_f": [
+        13,
+        3,
+        39
+      ],
+      "w_f": [
+        2,
+        2,
+        2
+      ]
+    },
+    {
+      "bat": "RK Paudel",
+      "bat_t": "Nepal",
+      "bowl": "WG Jacks",
+      "bowl_t": "England",
+      "v": "neutral",
+      "h2h": {
+        "balls": 4,
+        "runs": 3,
+        "dismissals": 0,
+        "strike_rate": 75.0
+      },
+      "vs_t": {
+        "runs": 39,
+        "balls": 37,
+        "dismissals": 1,
+        "average": 39.0,
+        "strike_rate": 105.41
+      },
+      "b_f": [
+        16,
+        5,
+        23
+      ],
+      "w_f": [
+        0,
+        3,
+        1
+      ]
+    },
+    {
+      "bat": "T Banton",
+      "bat_t": "England",
+      "bowl": "S Malla",
+      "bowl_t": "Nepal",
+      "v": "neutral",
+      "h2h": {
+        "balls": 3,
+        "runs": 2,
+        "dismissals": 0,
+        "strike_rate": 66.67
+      },
+      "vs_t": {
+        "runs": 2,
+        "balls": 5,
+        "dismissals": 1,
+        "average": 2.0,
+        "strike_rate": 40.0
+      },
+      "b_f": [
+        2,
+        6,
+        30
+      ],
+      "w_f": [
+        1
+      ]
+    },
+    {
+      "bat": "K Bhurtel",
+      "bat_t": "Nepal",
+      "bowl": "LA Dawson",
+      "bowl_t": "England",
+      "v": "neutral",
+      "h2h": {
+        "balls": 3,
+        "runs": 3,
+        "dismissals": 0,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 29,
+        "balls": 18,
+        "dismissals": 1,
+        "average": 29.0,
+        "strike_rate": 161.11
+      },
+      "b_f": [
+        43,
+        1,
+        5
+      ],
+      "w_f": [
+        3,
+        2,
+        0
+      ]
+    },
+    {
+      "bat": "Aarif Sheikh",
+      "bat_t": "Nepal",
+      "bowl": "SM Curran",
+      "bowl_t": "England",
+      "v": "neutral",
+      "h2h": {
+        "balls": 3,
+        "runs": 2,
+        "dismissals": 0,
+        "strike_rate": 66.67
+      },
+      "vs_t": {
+        "runs": 10,
+        "balls": 9,
+        "dismissals": 1,
+        "average": 10.0,
+        "strike_rate": 111.11
+      },
+      "b_f": [
+        2,
+        27,
+        10
+      ],
+      "w_f": [
+        0,
+        3,
+        1
+      ]
+    },
+    {
+      "bat": "Aarif Sheikh",
+      "bat_t": "Nepal",
+      "bowl": "LA Dawson",
+      "bowl_t": "England",
+      "v": "neutral",
+      "h2h": {
+        "balls": 3,
+        "runs": 2,
+        "dismissals": 0,
+        "strike_rate": 66.67
+      },
+      "vs_t": {
+        "runs": 10,
+        "balls": 9,
+        "dismissals": 1,
+        "average": 10.0,
+        "strike_rate": 111.11
+      },
+      "b_f": [
+        2,
+        27,
+        10
+      ],
+      "w_f": [
+        3,
+        2,
+        0
+      ]
+    },
+    {
+      "bat": "JC Archer",
+      "bat_t": "England",
+      "bowl": "NK Yadav",
+      "bowl_t": "Nepal",
+      "v": "neutral",
+      "h2h": {
+        "balls": 2,
+        "runs": 1,
+        "dismissals": 0,
+        "strike_rate": 50.0
+      },
+      "vs_t": {
+        "runs": 1,
+        "balls": 3,
+        "dismissals": 0,
+        "average": 1.0,
+        "strike_rate": 33.33
+      },
+      "b_f": [
+        5,
+        0,
+        1
+      ],
+      "w_f": [
+        2,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "WG Jacks",
+      "bat_t": "England",
+      "bowl": "DS Airee",
+      "bowl_t": "Nepal",
+      "v": "batsman",
+      "h2h": {
+        "balls": 2,
+        "runs": 1,
+        "dismissals": 0,
+        "strike_rate": 50.0
+      },
+      "vs_t": {
+        "runs": 39,
+        "balls": 18,
+        "dismissals": 0,
+        "average": 39.0,
+        "strike_rate": 216.67
+      },
+      "b_f": [
+        28,
+        21,
+        53
+      ],
+      "w_f": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "WG Jacks",
+      "bat_t": "England",
+      "bowl": "NK Yadav",
+      "bowl_t": "Nepal",
+      "v": "batsman",
+      "h2h": {
+        "balls": 2,
+        "runs": 5,
+        "dismissals": 0,
+        "strike_rate": 250.0
+      },
+      "vs_t": {
+        "runs": 39,
+        "balls": 18,
+        "dismissals": 0,
+        "average": 39.0,
+        "strike_rate": 216.67
+      },
+      "b_f": [
+        28,
+        21,
+        53
+      ],
+      "w_f": [
+        2,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "HC Brook",
+      "bat_t": "England",
+      "bowl": "S Malla",
+      "bowl_t": "Nepal",
+      "v": "batsman",
+      "h2h": {
+        "balls": 2,
+        "runs": 2,
+        "dismissals": 0,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 53,
+        "balls": 33,
+        "dismissals": 1,
+        "average": 53.0,
+        "strike_rate": 160.61
+      },
+      "b_f": [
+        100,
+        14,
+        14
+      ],
+      "w_f": [
+        1
+      ]
+    },
+    {
+      "bat": "DS Airee",
+      "bat_t": "Nepal",
+      "bowl": "JC Archer",
+      "bowl_t": "England",
+      "v": "batsman",
+      "h2h": {
+        "balls": 2,
+        "runs": 1,
+        "dismissals": 0,
+        "strike_rate": 50.0
+      },
+      "vs_t": {
+        "runs": 44,
+        "balls": 29,
+        "dismissals": 1,
+        "average": 44.0,
+        "strike_rate": 151.72
+      },
+      "b_f": [
+        50,
+        58,
+        17
+      ],
+      "w_f": [
+        2,
+        2,
+        2
+      ]
+    },
+    {
+      "bat": "Lokesh Bam",
+      "bat_t": "Nepal",
+      "bowl": "LA Dawson",
+      "bowl_t": "England",
+      "v": "batsman",
+      "h2h": {
+        "balls": 2,
+        "runs": 2,
+        "dismissals": 0,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 39,
+        "balls": 24,
+        "dismissals": 0,
+        "average": 39.0,
+        "strike_rate": 162.5
+      },
+      "b_f": [
+        13,
+        3,
+        39
+      ],
+      "w_f": [
+        3,
+        2,
+        0
+      ]
+    },
+    {
+      "bat": "JC Archer",
+      "bat_t": "England",
+      "bowl": "Karan KC",
+      "bowl_t": "Nepal",
+      "v": "neutral",
+      "h2h": {
+        "balls": 1,
+        "runs": 0,
+        "dismissals": 0,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 1,
+        "balls": 3,
+        "dismissals": 0,
+        "average": 1.0,
+        "strike_rate": 33.33
+      },
+      "b_f": [
+        5,
+        0,
+        1
+      ],
+      "w_f": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "T Banton",
+      "bat_t": "England",
+      "bowl": "NK Yadav",
+      "bowl_t": "Nepal",
+      "v": "neutral",
+      "h2h": {
+        "balls": 1,
+        "runs": 0,
+        "dismissals": 0,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 2,
+        "balls": 5,
+        "dismissals": 1,
+        "average": 2.0,
+        "strike_rate": 40.0
+      },
+      "b_f": [
+        2,
+        6,
+        30
+      ],
+      "w_f": [
+        2,
+        1,
+        0
+      ]
+    }
+  ]
+}

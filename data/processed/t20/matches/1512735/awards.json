@@ -1,0 +1,92 @@
+{
+    "match_id": "1512735",
+    "winner": "Italy",
+    "loser": "Nepal",
+    "awards": {
+        "player_of_the_match": {
+            "name": "CJPF Kalugamage",
+            "team": "Italy",
+            "impact_score": 141.0,
+            "breakdown": {
+                "batting": 0.0,
+                "bowling": 120,
+                "fielding": 21,
+                "pressure_multiplier": 1.0
+            },
+            "key_stats": {
+                "bowling": "4.0ov-3wkt econ:4.5"
+            }
+        },
+        "best_batter": {
+            "name": "AJ Mosca",
+            "team": "Italy",
+            "batting_impact": 129.0,
+            "stats": {
+                "runs": 62,
+                "balls": 32,
+                "sr": 193.75,
+                "fours": 3,
+                "sixes": 6
+            }
+        },
+        "best_bowler": {
+            "name": "CJPF Kalugamage",
+            "team": "Italy",
+            "bowling_impact": 120,
+            "stats": {
+                "overs": 4.0,
+                "wickets": 3,
+                "econ": 4.5
+            }
+        },
+        "game_changer": {
+            "name": "AJ Mosca",
+            "team": "Italy",
+            "reason": "SR 193.75 with 6 sixes",
+            "key_stats": {
+                "batting": "62(32) SR:193.75"
+            }
+        },
+        "pressure_performer": {
+            "name": "AJ Mosca",
+            "team": "Italy",
+            "pressure_multiplier": 1.0,
+            "reason": "Chasing team batter under pressure | Attacking SR 193.75 under pressure",
+            "key_stats": {
+                "batting": "62(32) SR:193.75"
+            }
+        },
+        "emerging_player": {
+            "name": "RK Paudel",
+            "team": "Nepal",
+            "reason": "Outperformed team average by 3.3x",
+            "key_stats": {
+                "batting": "23(14) SR:164.29"
+            }
+        },
+        "fielding_impact": {
+            "name": "CJPF Kalugamage",
+            "team": "Italy",
+            "fielding_proxy_score": 21,
+            "methodology": "Proxy-based: catch attribution (65% T20 wickets are catches) + dot ball pressure bonus + economy-implied fielding support",
+            "reason": "Estimated 2 caught dismissals from 3 wickets | Economy 4.5 — tight fielding support implied",
+            "stats": {
+                "overs": 4.0,
+                "wickets": 3,
+                "econ": 4.5
+            }
+        },
+        "all_rounder_impact": {
+            "name": "Karan KC",
+            "team": "Nepal",
+            "all_rounder_score": 36.0,
+            "stats": {
+                "runs": 18,
+                "sr": 163.64,
+                "overs": 2.0,
+                "wickets": 0,
+                "econ": 10.5
+            }
+        }
+    }
+}

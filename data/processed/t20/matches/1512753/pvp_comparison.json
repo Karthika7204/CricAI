@@ -1,0 +1,1465 @@
+{
+  "match_id": "1512753",
+  "team_a": "Pakistan",
+  "team_b": "Namibia",
+  "matchups": [
+    {
+      "bat": "MG Erasmus",
+      "bat_t": "Namibia",
+      "bowl": "Shadab Khan",
+      "bowl_t": "Pakistan",
+      "v": "batsman",
+      "h2h": {
+        "balls": 11,
+        "runs": 20,
+        "dismissals": 1,
+        "strike_rate": 181.82
+      },
+      "vs_t": {
+        "runs": 22,
+        "balls": 17,
+        "dismissals": 2,
+        "average": 11.0,
+        "strike_rate": 129.41
+      },
+      "b_f": [
+        7,
+        6,
+        18
+      ],
+      "w_f": [
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "bat": "A Busing-Volschenk",
+      "bat_t": "Namibia",
+      "bowl": "Shadab Khan",
+      "bowl_t": "Pakistan",
+      "v": "neutral",
+      "h2h": {
+        "balls": 8,
+        "runs": 5,
+        "dismissals": 1,
+        "strike_rate": 62.5
+      },
+      "vs_t": {
+        "runs": 20,
+        "balls": 22,
+        "dismissals": 1,
+        "average": 20.0,
+        "strike_rate": 90.91
+      },
+      "b_f": [
+        20
+      ],
+      "w_f": [
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "bat": "WP Myburgh",
+      "bat_t": "Namibia",
+      "bowl": "Usman Tariq",
+      "bowl_t": "Pakistan",
+      "v": "neutral",
+      "h2h": {
+        "balls": 7,
+        "runs": 6,
+        "dismissals": 1,
+        "strike_rate": 85.71
+      },
+      "vs_t": {
+        "runs": 8,
+        "balls": 14,
+        "dismissals": 1,
+        "average": 8.0,
+        "strike_rate": 57.14
+      },
+      "b_f": [
+        8,
+        4
+      ],
+      "w_f": [
+        2,
+        4,
+        1
+      ]
+    },
+    {
+      "bat": "JN Frylinck",
+      "bat_t": "Namibia",
+      "bowl": "Salman Mirza",
+      "bowl_t": "Pakistan",
+      "v": "neutral",
+      "h2h": {
+        "balls": 6,
+        "runs": 4,
+        "dismissals": 1,
+        "strike_rate": 66.67
+      },
+      "vs_t": {
+        "runs": 9,
+        "balls": 12,
+        "dismissals": 1,
+        "average": 9.0,
+        "strike_rate": 75.0
+      },
+      "b_f": [
+        9,
+        19,
+        22
+      ],
+      "w_f": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "bat": "Agha Salman",
+      "bat_t": "Pakistan",
+      "bowl": "JT Brassell",
+      "bowl_t": "Namibia",
+      "v": "batsman",
+      "h2h": {
+        "balls": 5,
+        "runs": 6,
+        "dismissals": 1,
+        "strike_rate": 120.0
+      },
+      "vs_t": {
+        "runs": 38,
+        "balls": 24,
+        "dismissals": 1,
+        "average": 38.0,
+        "strike_rate": 158.33
+      },
+      "b_f": [
+        5,
+        38,
+        4
+      ],
+      "w_f": [
+        2
+      ]
+    },
+    {
+      "bat": "L Steenkamp",
+      "bat_t": "Namibia",
+      "bowl": "Mohammad Nawaz",
+      "bowl_t": "Pakistan",
+      "v": "neutral",
+      "h2h": {
+        "balls": 4,
+        "runs": 1,
+        "dismissals": 1,
+        "strike_rate": 25.0
+      },
+      "vs_t": {
+        "runs": 23,
+        "balls": 22,
+        "dismissals": 1,
+        "average": 23.0,
+        "strike_rate": 104.55
+      },
+      "b_f": [
+        23,
+        58,
+        29
+      ],
+      "w_f": [
+        2,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "JJ Smit",
+      "bat_t": "Namibia",
+      "bowl": "Usman Tariq",
+      "bowl_t": "Pakistan",
+      "v": "bowler",
+      "h2h": {
+        "balls": 3,
+        "runs": 2,
+        "dismissals": 1,
+        "strike_rate": 66.67
+      },
+      "vs_t": {
+        "runs": 11,
+        "balls": 18,
+        "dismissals": 2,
+        "average": 5.5,
+        "strike_rate": 61.11
+      },
+      "b_f": [
+        9,
+        31,
+        0
+      ],
+      "w_f": [
+        2,
+        4,
+        1
+      ]
+    },
+    {
+      "bat": "ZE Green",
+      "bat_t": "Namibia",
+      "bowl": "Shadab Khan",
+      "bowl_t": "Pakistan",
+      "v": "neutral",
+      "h2h": {
+        "balls": 3,
+        "runs": 1,
+        "dismissals": 1,
+        "strike_rate": 33.33
+      },
+      "vs_t": {
+        "runs": 7,
+        "balls": 9,
+        "dismissals": 1,
+        "average": 7.0,
+        "strike_rate": 77.78
+      },
+      "b_f": [
+        7,
+        18,
+        11
+      ],
+      "w_f": [
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "bat": "Khawaja Nafay",
+      "bat_t": "Pakistan",
+      "bowl": "MG Erasmus",
+      "bowl_t": "Namibia",
+      "v": "neutral",
+      "h2h": {
+        "balls": 2,
+        "runs": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 5,
+        "balls": 5,
+        "dismissals": 1,
+        "average": 5.0,
+        "strike_rate": 100.0
+      },
+      "b_f": [
+        5
+      ],
+      "w_f": [
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "bat": "R Trumpelmann",
+      "bat_t": "Namibia",
+      "bowl": "Usman Tariq",
+      "bowl_t": "Pakistan",
+      "v": "neutral",
+      "h2h": {
+        "balls": 2,
+        "runs": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 0,
+        "balls": 2,
+        "dismissals": 1,
+        "average": 0.0,
+        "strike_rate": 0.0
+      },
+      "b_f": [
+        0,
+        3,
+        6
+      ],
+      "w_f": [
+        2,
+        4,
+        1
+      ]
+    },
+    {
+      "bat": "Saim Ayub",
+      "bat_t": "Pakistan",
+      "bowl": "JT Brassell",
+      "bowl_t": "Namibia",
+      "v": "neutral",
+      "h2h": {
+        "balls": 1,
+        "runs": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 14,
+        "balls": 12,
+        "dismissals": 1,
+        "average": 14.0,
+        "strike_rate": 116.67
+      },
+      "b_f": [
+        7,
+        14,
+        6
+      ],
+      "w_f": [
+        2
+      ]
+    },
+    {
+      "bat": "BM Scholtz",
+      "bat_t": "Namibia",
+      "bowl": "Usman Tariq",
+      "bowl_t": "Pakistan",
+      "v": "neutral",
+      "h2h": {
+        "balls": 1,
+        "runs": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 1,
+        "balls": 2,
+        "dismissals": 1,
+        "average": 1.0,
+        "strike_rate": 50.0
+      },
+      "b_f": [
+        1,
+        4
+      ],
+      "w_f": [
+        2,
+        4,
+        1
+      ]
+    },
+    {
+      "bat": "Sahibzada Farhan",
+      "bat_t": "Pakistan",
+      "bowl": "JT Brassell",
+      "bowl_t": "Namibia",
+      "v": "batsman",
+      "h2h": {
+        "balls": 13,
+        "runs": 30,
+        "dismissals": 0,
+        "strike_rate": 230.77
+      },
+      "vs_t": {
+        "runs": 100,
+        "balls": 59,
+        "dismissals": 0,
+        "average": 100.0,
+        "strike_rate": 169.49
+      },
+      "b_f": [
+        63,
+        100,
+        0
+      ],
+      "w_f": [
+        2
+      ]
+    },
+    {
+      "bat": "Sahibzada Farhan",
+      "bat_t": "Pakistan",
+      "bowl": "BM Scholtz",
+      "bowl_t": "Namibia",
+      "v": "batsman",
+      "h2h": {
+        "balls": 12,
+        "runs": 14,
+        "dismissals": 0,
+        "strike_rate": 116.67
+      },
+      "vs_t": {
+        "runs": 100,
+        "balls": 59,
+        "dismissals": 0,
+        "average": 100.0,
+        "strike_rate": 169.49
+      },
+      "b_f": [
+        63,
+        100,
+        0
+      ],
+      "w_f": [
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "Agha Salman",
+      "bat_t": "Pakistan",
+      "bowl": "BM Scholtz",
+      "bowl_t": "Namibia",
+      "v": "batsman",
+      "h2h": {
+        "balls": 11,
+        "runs": 16,
+        "dismissals": 0,
+        "strike_rate": 145.45
+      },
+      "vs_t": {
+        "runs": 38,
+        "balls": 24,
+        "dismissals": 1,
+        "average": 38.0,
+        "strike_rate": 158.33
+      },
+      "b_f": [
+        5,
+        38,
+        4
+      ],
+      "w_f": [
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "Sahibzada Farhan",
+      "bat_t": "Pakistan",
+      "bowl": "R Trumpelmann",
+      "bowl_t": "Namibia",
+      "v": "batsman",
+      "h2h": {
+        "balls": 11,
+        "runs": 19,
+        "dismissals": 0,
+        "strike_rate": 172.73
+      },
+      "vs_t": {
+        "runs": 100,
+        "balls": 59,
+        "dismissals": 0,
+        "average": 100.0,
+        "strike_rate": 169.49
+      },
+      "b_f": [
+        63,
+        100,
+        0
+      ],
+      "w_f": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "A Busing-Volschenk",
+      "bat_t": "Namibia",
+      "bowl": "Mohammad Nawaz",
+      "bowl_t": "Pakistan",
+      "v": "batsman",
+      "h2h": {
+        "balls": 10,
+        "runs": 13,
+        "dismissals": 0,
+        "strike_rate": 130.0
+      },
+      "vs_t": {
+        "runs": 20,
+        "balls": 22,
+        "dismissals": 1,
+        "average": 20.0,
+        "strike_rate": 90.91
+      },
+      "b_f": [
+        20
+      ],
+      "w_f": [
+        2,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "Shadab Khan",
+      "bat_t": "Pakistan",
+      "bowl": "MG Erasmus",
+      "bowl_t": "Namibia",
+      "v": "batsman",
+      "h2h": {
+        "balls": 9,
+        "runs": 17,
+        "dismissals": 0,
+        "strike_rate": 188.89
+      },
+      "vs_t": {
+        "runs": 36,
+        "balls": 24,
+        "dismissals": 0,
+        "average": 36.0,
+        "strike_rate": 150.0
+      },
+      "b_f": [
+        23,
+        36,
+        14
+      ],
+      "w_f": [
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "bat": "Shadab Khan",
+      "bat_t": "Pakistan",
+      "bowl": "R Trumpelmann",
+      "bowl_t": "Namibia",
+      "v": "batsman",
+      "h2h": {
+        "balls": 9,
+        "runs": 5,
+        "dismissals": 0,
+        "strike_rate": 55.56
+      },
+      "vs_t": {
+        "runs": 36,
+        "balls": 24,
+        "dismissals": 0,
+        "average": 36.0,
+        "strike_rate": 150.0
+      },
+      "b_f": [
+        23,
+        36,
+        14
+      ],
+      "w_f": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "Sahibzada Farhan",
+      "bat_t": "Pakistan",
+      "bowl": "JJ Smit",
+      "bowl_t": "Namibia",
+      "v": "batsman",
+      "h2h": {
+        "balls": 8,
+        "runs": 16,
+        "dismissals": 0,
+        "strike_rate": 200.0
+      },
+      "vs_t": {
+        "runs": 100,
+        "balls": 59,
+        "dismissals": 0,
+        "average": 100.0,
+        "strike_rate": 169.49
+      },
+      "b_f": [
+        63,
+        100,
+        0
+      ],
+      "w_f": [
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "Sahibzada Farhan",
+      "bat_t": "Pakistan",
+      "bowl": "WP Myburgh",
+      "bowl_t": "Namibia",
+      "v": "batsman",
+      "h2h": {
+        "balls": 8,
+        "runs": 15,
+        "dismissals": 0,
+        "strike_rate": 187.5
+      },
+      "vs_t": {
+        "runs": 100,
+        "balls": 59,
+        "dismissals": 0,
+        "average": 100.0,
+        "strike_rate": 169.49
+      },
+      "b_f": [
+        63,
+        100,
+        0
+      ],
+      "w_f": [
+        0,
+        2,
+        0
+      ]
+    },
+    {
+      "bat": "L Steenkamp",
+      "bat_t": "Namibia",
+      "bowl": "Faheem Ashraf",
+      "bowl_t": "Pakistan",
+      "v": "batsman",
+      "h2h": {
+        "balls": 8,
+        "runs": 12,
+        "dismissals": 0,
+        "strike_rate": 150.0
+      },
+      "vs_t": {
+        "runs": 23,
+        "balls": 22,
+        "dismissals": 1,
+        "average": 23.0,
+        "strike_rate": 104.55
+      },
+      "b_f": [
+        23,
+        58,
+        29
+      ],
+      "w_f": [
+        0
+      ]
+    },
+    {
+      "bat": "Sahibzada Farhan",
+      "bat_t": "Pakistan",
+      "bowl": "MG Erasmus",
+      "bowl_t": "Namibia",
+      "v": "batsman",
+      "h2h": {
+        "balls": 7,
+        "runs": 6,
+        "dismissals": 0,
+        "strike_rate": 85.71
+      },
+      "vs_t": {
+        "runs": 100,
+        "balls": 59,
+        "dismissals": 0,
+        "average": 100.0,
+        "strike_rate": 169.49
+      },
+      "b_f": [
+        63,
+        100,
+        0
+      ],
+      "w_f": [
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "bat": "L Steenkamp",
+      "bat_t": "Namibia",
+      "bowl": "Saim Ayub",
+      "bowl_t": "Pakistan",
+      "v": "neutral",
+      "h2h": {
+        "balls": 7,
+        "runs": 9,
+        "dismissals": 0,
+        "strike_rate": 128.57
+      },
+      "vs_t": {
+        "runs": 23,
+        "balls": 22,
+        "dismissals": 1,
+        "average": 23.0,
+        "strike_rate": 104.55
+      },
+      "b_f": [
+        23,
+        58,
+        29
+      ],
+      "w_f": [
+        0,
+        0,
+        3
+      ]
+    },
+    {
+      "bat": "JJ Smit",
+      "bat_t": "Namibia",
+      "bowl": "Shadab Khan",
+      "bowl_t": "Pakistan",
+      "v": "bowler",
+      "h2h": {
+        "balls": 6,
+        "runs": 4,
+        "dismissals": 0,
+        "strike_rate": 66.67
+      },
+      "vs_t": {
+        "runs": 11,
+        "balls": 18,
+        "dismissals": 2,
+        "average": 5.5,
+        "strike_rate": 61.11
+      },
+      "b_f": [
+        9,
+        31,
+        0
+      ],
+      "w_f": [
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "bat": "Agha Salman",
+      "bat_t": "Pakistan",
+      "bowl": "WP Myburgh",
+      "bowl_t": "Namibia",
+      "v": "batsman",
+      "h2h": {
+        "balls": 5,
+        "runs": 11,
+        "dismissals": 0,
+        "strike_rate": 220.0
+      },
+      "vs_t": {
+        "runs": 38,
+        "balls": 24,
+        "dismissals": 1,
+        "average": 38.0,
+        "strike_rate": 158.33
+      },
+      "b_f": [
+        5,
+        38,
+        4
+      ],
+      "w_f": [
+        0,
+        2,
+        0
+      ]
+    },
+    {
+      "bat": "Saim Ayub",
+      "bat_t": "Pakistan",
+      "bowl": "JJ Smit",
+      "bowl_t": "Namibia",
+      "v": "neutral",
+      "h2h": {
+        "balls": 5,
+        "runs": 2,
+        "dismissals": 0,
+        "strike_rate": 40.0
+      },
+      "vs_t": {
+        "runs": 14,
+        "balls": 12,
+        "dismissals": 1,
+        "average": 14.0,
+        "strike_rate": 116.67
+      },
+      "b_f": [
+        7,
+        14,
+        6
+      ],
+      "w_f": [
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "Saim Ayub",
+      "bat_t": "Pakistan",
+      "bowl": "R Trumpelmann",
+      "bowl_t": "Namibia",
+      "v": "neutral",
+      "h2h": {
+        "balls": 5,
+        "runs": 11,
+        "dismissals": 0,
+        "strike_rate": 220.0
+      },
+      "vs_t": {
+        "runs": 14,
+        "balls": 12,
+        "dismissals": 1,
+        "average": 14.0,
+        "strike_rate": 116.67
+      },
+      "b_f": [
+        7,
+        14,
+        6
+      ],
+      "w_f": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "A Busing-Volschenk",
+      "bat_t": "Namibia",
+      "bowl": "Usman Tariq",
+      "bowl_t": "Pakistan",
+      "v": "neutral",
+      "h2h": {
+        "balls": 4,
+        "runs": 2,
+        "dismissals": 0,
+        "strike_rate": 50.0
+      },
+      "vs_t": {
+        "runs": 20,
+        "balls": 22,
+        "dismissals": 1,
+        "average": 20.0,
+        "strike_rate": 90.91
+      },
+      "b_f": [
+        20
+      ],
+      "w_f": [
+        2,
+        4,
+        1
+      ]
+    },
+    {
+      "bat": "JJ Smit",
+      "bat_t": "Namibia",
+      "bowl": "Mohammad Nawaz",
+      "bowl_t": "Pakistan",
+      "v": "bowler",
+      "h2h": {
+        "balls": 4,
+        "runs": 3,
+        "dismissals": 0,
+        "strike_rate": 75.0
+      },
+      "vs_t": {
+        "runs": 11,
+        "balls": 18,
+        "dismissals": 2,
+        "average": 5.5,
+        "strike_rate": 61.11
+      },
+      "b_f": [
+        9,
+        31,
+        0
+      ],
+      "w_f": [
+        2,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "WP Myburgh",
+      "bat_t": "Namibia",
+      "bowl": "Shadab Khan",
+      "bowl_t": "Pakistan",
+      "v": "neutral",
+      "h2h": {
+        "balls": 4,
+        "runs": 1,
+        "dismissals": 0,
+        "strike_rate": 25.0
+      },
+      "vs_t": {
+        "runs": 8,
+        "balls": 14,
+        "dismissals": 1,
+        "average": 8.0,
+        "strike_rate": 57.14
+      },
+      "b_f": [
+        8,
+        4
+      ],
+      "w_f": [
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "bat": "JN Frylinck",
+      "bat_t": "Namibia",
+      "bowl": "Faheem Ashraf",
+      "bowl_t": "Pakistan",
+      "v": "neutral",
+      "h2h": {
+        "balls": 4,
+        "runs": 4,
+        "dismissals": 0,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 9,
+        "balls": 12,
+        "dismissals": 1,
+        "average": 9.0,
+        "strike_rate": 75.0
+      },
+      "b_f": [
+        9,
+        19,
+        22
+      ],
+      "w_f": [
+        0
+      ]
+    },
+    {
+      "bat": "JN Loftie-Eaton",
+      "bat_t": "Namibia",
+      "bowl": "Salman Mirza",
+      "bowl_t": "Pakistan",
+      "v": "neutral",
+      "h2h": {
+        "balls": 4,
+        "runs": 5,
+        "dismissals": 0,
+        "strike_rate": 125.0
+      },
+      "vs_t": {
+        "runs": 12,
+        "balls": 12,
+        "dismissals": 0,
+        "average": 12.0,
+        "strike_rate": 100.0
+      },
+      "b_f": [
+        5,
+        28,
+        13
+      ],
+      "w_f": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "bat": "Agha Salman",
+      "bat_t": "Pakistan",
+      "bowl": "JJ Smit",
+      "bowl_t": "Namibia",
+      "v": "batsman",
+      "h2h": {
+        "balls": 3,
+        "runs": 5,
+        "dismissals": 0,
+        "strike_rate": 166.67
+      },
+      "vs_t": {
+        "runs": 38,
+        "balls": 24,
+        "dismissals": 1,
+        "average": 38.0,
+        "strike_rate": 158.33
+      },
+      "b_f": [
+        5,
+        38,
+        4
+      ],
+      "w_f": [
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "Khawaja Nafay",
+      "bat_t": "Pakistan",
+      "bowl": "JT Brassell",
+      "bowl_t": "Namibia",
+      "v": "neutral",
+      "h2h": {
+        "balls": 3,
+        "runs": 5,
+        "dismissals": 0,
+        "strike_rate": 166.67
+      },
+      "vs_t": {
+        "runs": 5,
+        "balls": 5,
+        "dismissals": 1,
+        "average": 5.0,
+        "strike_rate": 100.0
+      },
+      "b_f": [
+        5
+      ],
+      "w_f": [
+        2
+      ]
+    },
+    {
+      "bat": "L Steenkamp",
+      "bat_t": "Namibia",
+      "bowl": "Salman Mirza",
+      "bowl_t": "Pakistan",
+      "v": "neutral",
+      "h2h": {
+        "balls": 3,
+        "runs": 1,
+        "dismissals": 0,
+        "strike_rate": 33.33
+      },
+      "vs_t": {
+        "runs": 23,
+        "balls": 22,
+        "dismissals": 1,
+        "average": 23.0,
+        "strike_rate": 104.55
+      },
+      "b_f": [
+        23,
+        58,
+        29
+      ],
+      "w_f": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "bat": "WP Myburgh",
+      "bat_t": "Namibia",
+      "bowl": "Mohammad Nawaz",
+      "bowl_t": "Pakistan",
+      "v": "neutral",
+      "h2h": {
+        "balls": 3,
+        "runs": 1,
+        "dismissals": 0,
+        "strike_rate": 33.33
+      },
+      "vs_t": {
+        "runs": 8,
+        "balls": 14,
+        "dismissals": 1,
+        "average": 8.0,
+        "strike_rate": 57.14
+      },
+      "b_f": [
+        8,
+        4
+      ],
+      "w_f": [
+        2,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "ZE Green",
+      "bat_t": "Namibia",
+      "bowl": "Mohammad Nawaz",
+      "bowl_t": "Pakistan",
+      "v": "neutral",
+      "h2h": {
+        "balls": 3,
+        "runs": 1,
+        "dismissals": 0,
+        "strike_rate": 33.33
+      },
+      "vs_t": {
+        "runs": 7,
+        "balls": 9,
+        "dismissals": 1,
+        "average": 7.0,
+        "strike_rate": 77.78
+      },
+      "b_f": [
+        7,
+        18,
+        11
+      ],
+      "w_f": [
+        2,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "ZE Green",
+      "bat_t": "Namibia",
+      "bowl": "Usman Tariq",
+      "bowl_t": "Pakistan",
+      "v": "neutral",
+      "h2h": {
+        "balls": 3,
+        "runs": 5,
+        "dismissals": 0,
+        "strike_rate": 166.67
+      },
+      "vs_t": {
+        "runs": 7,
+        "balls": 9,
+        "dismissals": 1,
+        "average": 7.0,
+        "strike_rate": 77.78
+      },
+      "b_f": [
+        7,
+        18,
+        11
+      ],
+      "w_f": [
+        2,
+        4,
+        1
+      ]
+    },
+    {
+      "bat": "Shadab Khan",
+      "bat_t": "Pakistan",
+      "bowl": "BM Scholtz",
+      "bowl_t": "Namibia",
+      "v": "batsman",
+      "h2h": {
+        "balls": 2,
+        "runs": 2,
+        "dismissals": 0,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 36,
+        "balls": 24,
+        "dismissals": 0,
+        "average": 36.0,
+        "strike_rate": 150.0
+      },
+      "b_f": [
+        23,
+        36,
+        14
+      ],
+      "w_f": [
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "Shadab Khan",
+      "bat_t": "Pakistan",
+      "bowl": "JT Brassell",
+      "bowl_t": "Namibia",
+      "v": "batsman",
+      "h2h": {
+        "balls": 2,
+        "runs": 7,
+        "dismissals": 0,
+        "strike_rate": 350.0
+      },
+      "vs_t": {
+        "runs": 36,
+        "balls": 24,
+        "dismissals": 0,
+        "average": 36.0,
+        "strike_rate": 150.0
+      },
+      "b_f": [
+        23,
+        36,
+        14
+      ],
+      "w_f": [
+        2
+      ]
+    },
+    {
+      "bat": "Shadab Khan",
+      "bat_t": "Pakistan",
+      "bowl": "JJ Smit",
+      "bowl_t": "Namibia",
+      "v": "batsman",
+      "h2h": {
+        "balls": 2,
+        "runs": 5,
+        "dismissals": 0,
+        "strike_rate": 250.0
+      },
+      "vs_t": {
+        "runs": 36,
+        "balls": 24,
+        "dismissals": 0,
+        "average": 36.0,
+        "strike_rate": 150.0
+      },
+      "b_f": [
+        23,
+        36,
+        14
+      ],
+      "w_f": [
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "MG Erasmus",
+      "bat_t": "Namibia",
+      "bowl": "Mohammad Nawaz",
+      "bowl_t": "Pakistan",
+      "v": "bowler",
+      "h2h": {
+        "balls": 2,
+        "runs": 1,
+        "dismissals": 0,
+        "strike_rate": 50.0
+      },
+      "vs_t": {
+        "runs": 22,
+        "balls": 17,
+        "dismissals": 2,
+        "average": 11.0,
+        "strike_rate": 129.41
+      },
+      "b_f": [
+        7,
+        6,
+        18
+      ],
+      "w_f": [
+        2,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "MG Erasmus",
+      "bat_t": "Namibia",
+      "bowl": "Saim Ayub",
+      "bowl_t": "Pakistan",
+      "v": "bowler",
+      "h2h": {
+        "balls": 2,
+        "runs": 0,
+        "dismissals": 0,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 22,
+        "balls": 17,
+        "dismissals": 2,
+        "average": 11.0,
+        "strike_rate": 129.41
+      },
+      "b_f": [
+        7,
+        6,
+        18
+      ],
+      "w_f": [
+        0,
+        0,
+        3
+      ]
+    },
+    {
+      "bat": "JN Frylinck",
+      "bat_t": "Namibia",
+      "bowl": "Saim Ayub",
+      "bowl_t": "Pakistan",
+      "v": "neutral",
+      "h2h": {
+        "balls": 2,
+        "runs": 1,
+        "dismissals": 0,
+        "strike_rate": 50.0
+      },
+      "vs_t": {
+        "runs": 9,
+        "balls": 12,
+        "dismissals": 1,
+        "average": 9.0,
+        "strike_rate": 75.0
+      },
+      "b_f": [
+        9,
+        19,
+        22
+      ],
+      "w_f": [
+        0,
+        0,
+        3
+      ]
+    },
+    {
+      "bat": "Saim Ayub",
+      "bat_t": "Pakistan",
+      "bowl": "MG Erasmus",
+      "bowl_t": "Namibia",
+      "v": "neutral",
+      "h2h": {
+        "balls": 1,
+        "runs": 1,
+        "dismissals": 0,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 14,
+        "balls": 12,
+        "dismissals": 1,
+        "average": 14.0,
+        "strike_rate": 116.67
+      },
+      "b_f": [
+        7,
+        14,
+        6
+      ],
+      "w_f": [
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "bat": "BM Scholtz",
+      "bat_t": "Namibia",
+      "bowl": "Shadab Khan",
+      "bowl_t": "Pakistan",
+      "v": "neutral",
+      "h2h": {
+        "balls": 1,
+        "runs": 1,
+        "dismissals": 0,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 1,
+        "balls": 2,
+        "dismissals": 1,
+        "average": 1.0,
+        "strike_rate": 50.0
+      },
+      "b_f": [
+        1,
+        4
+      ],
+      "w_f": [
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "bat": "JT Brassell",
+      "bat_t": "Namibia",
+      "bowl": "Usman Tariq",
+      "bowl_t": "Pakistan",
+      "v": "neutral",
+      "h2h": {
+        "balls": 1,
+        "runs": 1,
+        "dismissals": 0,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 1,
+        "balls": 1,
+        "dismissals": 0,
+        "average": 1.0,
+        "strike_rate": 100.0
+      },
+      "b_f": [
+        1
+      ],
+      "w_f": [
+        2,
+        4,
+        1
+      ]
+    },
+    {
+      "bat": "JN Loftie-Eaton",
+      "bat_t": "Namibia",
+      "bowl": "Saim Ayub",
+      "bowl_t": "Pakistan",
+      "v": "neutral",
+      "h2h": {
+        "balls": 1,
+        "runs": 0,
+        "dismissals": 0,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 12,
+        "balls": 12,
+        "dismissals": 0,
+        "average": 12.0,
+        "strike_rate": 100.0
+      },
+      "b_f": [
+        5,
+        28,
+        13
+      ],
+      "w_f": [
+        0,
+        0,
+        3
+      ]
+    },
+    {
+      "bat": "Agha Salman",
+      "bat_t": "Pakistan",
+      "bowl": "A Busing-Volschenk",
+      "bowl_t": "Namibia",
+      "v": "batsman",
+      "vs_t": {
+        "runs": 38,
+        "balls": 24,
+        "dismissals": 1,
+        "average": 38.0,
+        "strike_rate": 158.33
+      },
+      "b_f": [
+        5,
+        38,
+        4
+      ]
+    }
+  ]
+}

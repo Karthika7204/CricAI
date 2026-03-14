@@ -1,0 +1,92 @@
+{
+    "match_id": "1512733",
+    "winner": "West Indies",
+    "loser": "England",
+    "awards": {
+        "player_of_the_match": {
+            "name": "AU Rashid",
+            "team": "England",
+            "impact_score": 141.6,
+            "breakdown": {
+                "batting": 10.0,
+                "bowling": 95,
+                "fielding": 13,
+                "pressure_multiplier": 1.2
+            },
+            "key_stats": {
+                "bowling": "4.0ov-2wkt econ:4.0"
+            }
+        },
+        "best_batter": {
+            "name": "SE Rutherford",
+            "team": "West Indies",
+            "batting_impact": 132.0,
+            "stats": {
+                "runs": 76,
+                "balls": 45,
+                "sr": 168.89,
+                "fours": 2,
+                "sixes": 7
+            }
+        },
+        "best_bowler": {
+            "name": "AU Rashid",
+            "team": "England",
+            "bowling_impact": 95,
+            "stats": {
+                "overs": 4.0,
+                "wickets": 2,
+                "econ": 4.0
+            }
+        },
+        "game_changer": {
+            "name": "SE Rutherford",
+            "team": "West Indies",
+            "reason": "SR 168.89 with 7 sixes",
+            "key_stats": {
+                "batting": "76(45) SR:168.89"
+            }
+        },
+        "pressure_performer": {
+            "name": "AU Rashid",
+            "team": "England",
+            "pressure_multiplier": 1.2,
+            "reason": "Chasing team contributor | Economy 4.0 while defending chase",
+            "key_stats": {
+                "bowling": "4.0ov-2wkt econ:4.0"
+            }
+        },
+        "emerging_player": {
+            "name": "AU Rashid",
+            "team": "England",
+            "reason": "Outperformed team average by 2.44x",
+            "key_stats": {
+                "bowling": "4.0ov-2wkt econ:4.0"
+            }
+        },
+        "fielding_impact": {
+            "name": "G Motie",
+            "team": "West Indies",
+            "fielding_proxy_score": 16,
+            "methodology": "Proxy-based: catch attribution (65% T20 wickets are catches) + dot ball pressure bonus + economy-implied fielding support",
+            "reason": "Estimated 2 caught dismissals from 3 wickets",
+            "stats": {
+                "overs": 4.0,
+                "wickets": 3,
+                "econ": 8.25
+            }
+        },
+        "all_rounder_impact": {
+            "name": "RL Chase",
+            "team": "West Indies",
+            "all_rounder_score": 111.0,
+            "stats": {
+                "runs": 34,
+                "sr": 117.24,
+                "overs": 4.0,
+                "wickets": 2,
+                "econ": 7.25
+            }
+        }
+    }
+}

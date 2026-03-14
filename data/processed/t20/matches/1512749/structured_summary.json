@@ -1,0 +1,422 @@
+{
+    "match_context": {
+        "match_id": "1512749",
+        "date": "2026-02-17",
+        "tournament": "2025/26",
+        "venue": "MA Chidambaram Stadium, Chepauk, Chennai",
+        "stage": "ICC Men's T20 World Cup",
+        "Teams": {
+            "Canada": {
+                "captain": "Saad Bin Zafar",
+                "playing_xi_count": 10
+            },
+            "New Zealand": {
+                "captain": "GD Phillips",
+                "playing_xi_count": 9
+            }
+        }
+    },
+    "Match_Result": {
+        "summary": "New Zealand won by 8 wickets",
+        "winner": "New Zealand",
+        "margin": 8,
+        "margin_type": "wickets"
+    },
+    "Scorecard_Highlights": {
+        "Key_Support_Performers": [],
+        "Career_vs_Match_Bowling": [
+            {
+                "player": "Jaskaran Singh",
+                "team": "Canada",
+                "match_figures": "2.1-31-0",
+                "match_economy": 14.31,
+                "career_economy": 9.01,
+                "economy_delta": 5.3,
+                "match_sr": null,
+                "career_sr": 18.08,
+                "career_wickets": 12,
+                "career_best": "3/13",
+                "verdict": "Expensive - 5.3 above career economy (9.01)"
+            },
+            {
+                "player": "Shivam Sharma",
+                "team": "Canada",
+                "match_figures": "2.0-23-0",
+                "match_economy": 11.5,
+                "career_economy": 5.6,
+                "economy_delta": 5.9,
+                "match_sr": null,
+                "career_sr": 10.59,
+                "career_wickets": 17,
+                "career_best": "4/14",
+                "verdict": "Expensive - 5.9 above career economy (5.6)"
+            },
+            {
+                "player": "Ansh Patel",
+                "team": "Canada",
+                "match_figures": "2.0-24-0",
+                "match_economy": 12.0,
+                "career_economy": 5.75,
+                "economy_delta": 6.25,
+                "match_sr": null,
+                "career_sr": 15.0,
+                "career_wickets": 8,
+                "career_best": "3/31",
+                "verdict": "Expensive - 6.25 above career economy (5.75)"
+            }
+        ],
+        "Bowling_Standouts": {
+            "Economical_Spells": [],
+            "Expensive_Spells": [
+                {
+                    "player": "Jaskaran Singh",
+                    "team": "Canada",
+                    "match_figures": "2.1-31-0",
+                    "match_economy": 14.31,
+                    "career_economy": 9.01,
+                    "economy_delta": 5.3,
+                    "match_sr": null,
+                    "career_sr": 18.08,
+                    "career_wickets": 12,
+                    "career_best": "3/13",
+                    "verdict": "Expensive - 5.3 above career economy (9.01)"
+                },
+                {
+                    "player": "Shivam Sharma",
+                    "team": "Canada",
+                    "match_figures": "2.0-23-0",
+                    "match_economy": 11.5,
+                    "career_economy": 5.6,
+                    "economy_delta": 5.9,
+                    "match_sr": null,
+                    "career_sr": 10.59,
+                    "career_wickets": 17,
+                    "career_best": "4/14",
+                    "verdict": "Expensive - 5.9 above career economy (5.6)"
+                },
+                {
+                    "player": "Ansh Patel",
+                    "team": "Canada",
+                    "match_figures": "2.0-24-0",
+                    "match_economy": 12.0,
+                    "career_economy": 5.75,
+                    "economy_delta": 6.25,
+                    "match_sr": null,
+                    "career_sr": 15.0,
+                    "career_wickets": 8,
+                    "career_best": "3/31",
+                    "verdict": "Expensive - 6.25 above career economy (5.75)"
+                }
+            ],
+            "High_Economy_No_Baseline": [
+                {
+                    "player": "DS Bajwa",
+                    "team": "Canada",
+                    "overs": 2.0,
+                    "runs": 26,
+                    "wickets": 0,
+                    "econ": 13.0,
+                    "score": 14.32,
+                    "bowling_baseline": {
+                        "career_wickets": 0,
+                        "career_economy": 0.0,
+                        "career_sr": 0.0,
+                        "career_avg": 0.0,
+                        "best_bowling": "N/A",
+                        "matches": 0,
+                        "source": "none",
+                        "baseline_available": false
+                    }
+                },
+                {
+                    "player": "CE McConchie",
+                    "team": "New Zealand",
+                    "overs": 3.0,
+                    "runs": 35,
+                    "wickets": 0,
+                    "econ": 11.67,
+                    "score": 15.95,
+                    "bowling_baseline": {
+                        "career_wickets": 0,
+                        "career_economy": 0.0,
+                        "career_sr": 0.0,
+                        "career_avg": 0.0,
+                        "best_bowling": "N/A",
+                        "matches": 0,
+                        "source": "none",
+                        "baseline_available": false
+                    }
+                }
+            ]
+        },
+        "Significant_Collapses": []
+    },
+    "Innings_Metrics": [
+        {
+            "innings": 1,
+            "team": "Canada",
+            "total_runs": 173,
+            "total_wickets": 4,
+            "balls_faced": 120,
+            "overs_faced": 20.0,
+            "phase_analysis": {
+                "Powerplay": {
+                    "runs": 50,
+                    "wkts": 0,
+                    "rr": 8.33
+                },
+                "Middle": {
+                    "runs": 73,
+                    "wkts": 1,
+                    "rr": 8.11
+                },
+                "Death": {
+                    "runs": 50,
+                    "wkts": 3,
+                    "rr": 10.0
+                }
+            }
+        },
+        {
+            "innings": 2,
+            "team": "New Zealand",
+            "total_runs": 176,
+            "total_wickets": 2,
+            "balls_faced": 91,
+            "overs_faced": 15.1,
+            "phase_analysis": {
+                "Powerplay": {
+                    "runs": 60,
+                    "wkts": 2,
+                    "rr": 10.0
+                },
+                "Middle": {
+                    "runs": 109,
+                    "wkts": 0,
+                    "rr": 12.11
+                },
+                "Death": {
+                    "runs": 7,
+                    "wkts": 0,
+                    "rr": 42.0
+                }
+            },
+            "pressure_index": 23.0,
+            "target": 174
+        }
+    ],
+    "Detailed_Impact_Analysis": [
+        {
+            "player": "YS Samra",
+            "team": "Canada",
+            "runs": 110,
+            "balls": 67,
+            "sr": 164.18,
+            "fours": 11,
+            "sixes": 6,
+            "win_contribution_percent": 63.6,
+            "score": 137.9,
+            "role": "batting",
+            "match_stats": "110(67)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "GD Phillips",
+            "team": "New Zealand",
+            "runs": 76,
+            "balls": 41,
+            "sr": 185.37,
+            "fours": 4,
+            "sixes": 6,
+            "win_contribution_percent": 43.2,
+            "score": 107.5,
+            "role": "batting",
+            "match_stats": "76(41)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "R Ravindra",
+            "team": "New Zealand",
+            "runs": 59,
+            "balls": 42,
+            "sr": 140.48,
+            "fours": 4,
+            "sixes": 3,
+            "win_contribution_percent": 33.5,
+            "score": 82.87,
+            "role": "batting",
+            "match_stats": "59(42)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "FH Allen",
+            "team": "New Zealand",
+            "runs": 21,
+            "balls": 9,
+            "sr": 233.33,
+            "fours": 2,
+            "sixes": 1,
+            "win_contribution_percent": 11.9,
+            "score": 60.65,
+            "role": "batting",
+            "match_stats": "21(9)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "JA Duffy",
+            "team": "New Zealand",
+            "overs": 4.0,
+            "runs": 25,
+            "wickets": 1,
+            "econ": 6.25,
+            "score": 59.78,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-25r-1w"
+        },
+        {
+            "player": "MJ Henry",
+            "team": "New Zealand",
+            "overs": 4.0,
+            "runs": 28,
+            "wickets": 1,
+            "econ": 7.0,
+            "score": 56.59,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-28r-1w"
+        },
+        {
+            "player": "D Heyliger",
+            "team": "Canada",
+            "runs": 8,
+            "balls": 3,
+            "sr": 266.67,
+            "fours": 0,
+            "sixes": 1,
+            "win_contribution_percent": 4.6,
+            "score": 53.32,
+            "role": "batting",
+            "match_stats": "8(3)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "DS Bajwa",
+            "team": "Canada",
+            "runs": 36,
+            "balls": 40,
+            "sr": 90.0,
+            "fours": 4,
+            "sixes": 0,
+            "win_contribution_percent": 20.8,
+            "score": 51.29,
+            "role": "batting",
+            "match_stats": "36(40)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "JDS Neesham",
+            "team": "New Zealand",
+            "overs": 4.0,
+            "runs": 38,
+            "wickets": 1,
+            "econ": 9.5,
+            "score": 49.59,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-38r-1w"
+        },
+        {
+            "player": "Saad Bin Zafar",
+            "team": "Canada",
+            "overs": 3.0,
+            "runs": 30,
+            "wickets": 1,
+            "econ": 10.0,
+            "score": 48.61,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "3.0o-30r-1w"
+        }
+    ],
+    "Tactical_Post_Match_Analysis": [
+        "New Zealand's victory was anchored by GD Phillips, who contributed 43.2% of the team's runs.",
+        "Defensive pressure was sustained by JA Duffy, finishing with an impact score of 59.78.",
+        "Jaskaran Singh struggled with economy 14.31 vs career avg 9.01 (+5.3) — an expensive outing.",
+        "Shivam Sharma struggled with economy 11.5 vs career avg 5.6 (+5.9) — an expensive outing.",
+        "Ansh Patel struggled with economy 12.0 vs career avg 5.75 (+6.25) — an expensive outing.",
+        "High-scoring finish by New Zealand in Death Overs (RR: 42.0) shifted match momentum."
+    ]
+}

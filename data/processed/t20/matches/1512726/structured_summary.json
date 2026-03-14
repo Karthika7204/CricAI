@@ -1,0 +1,363 @@
+{
+    "match_context": {
+        "match_id": "1512726",
+        "date": "2026-02-09",
+        "tournament": "2025/26",
+        "venue": "Sinhalese Sports Club Ground, Colombo",
+        "stage": "ICC Men's T20 World Cup",
+        "Teams": {
+            "Oman": {
+                "captain": "V Shukla",
+                "playing_xi_count": 11
+            },
+            "Zimbabwe": {
+                "captain": "BJ Bennett",
+                "playing_xi_count": 9
+            }
+        }
+    },
+    "Match_Result": {
+        "summary": "Zimbabwe won by 8 wickets",
+        "winner": "Zimbabwe",
+        "margin": 8,
+        "margin_type": "wickets"
+    },
+    "Scorecard_Highlights": {
+        "Key_Support_Performers": [
+            {
+                "player": "Nadeem Khan",
+                "team": "Oman",
+                "runs": 20,
+                "balls": 19,
+                "sr": 105.26,
+                "fours": 1,
+                "sixes": 1,
+                "win_contribution_percent": 19.4,
+                "score": 46.45
+            },
+            {
+                "player": "BRM Taylor",
+                "team": "Zimbabwe",
+                "runs": 31,
+                "balls": 30,
+                "sr": 103.33,
+                "fours": 3,
+                "sixes": 0,
+                "win_contribution_percent": 29.2,
+                "score": 56.96
+            }
+        ],
+        "Career_vs_Match_Bowling": [],
+        "Bowling_Standouts": {
+            "Economical_Spells": [],
+            "Expensive_Spells": [],
+            "High_Economy_No_Baseline": [
+                {
+                    "player": "Shakeel Ahmed",
+                    "team": "Oman",
+                    "overs": 2.0,
+                    "runs": 27,
+                    "wickets": 0,
+                    "econ": 13.5,
+                    "score": 9.2,
+                    "bowling_baseline": {
+                        "career_wickets": 0,
+                        "career_economy": 0.0,
+                        "career_sr": 0.0,
+                        "career_avg": 0.0,
+                        "best_bowling": "N/A",
+                        "matches": 0,
+                        "source": "none",
+                        "baseline_available": false
+                    }
+                },
+                {
+                    "player": "K Sonavale",
+                    "team": "Oman",
+                    "overs": 0.3,
+                    "runs": 6,
+                    "wickets": 0,
+                    "econ": 12.0,
+                    "score": 10.35,
+                    "bowling_baseline": {
+                        "career_wickets": 0,
+                        "career_economy": 0.0,
+                        "career_sr": 0.0,
+                        "career_avg": 0.0,
+                        "best_bowling": "N/A",
+                        "matches": 0,
+                        "source": "none",
+                        "baseline_available": false
+                    }
+                }
+            ]
+        },
+        "Significant_Collapses": []
+    },
+    "Innings_Metrics": [
+        {
+            "innings": 1,
+            "team": "Oman",
+            "total_runs": 103,
+            "total_wickets": 10,
+            "balls_faced": 119,
+            "overs_faced": 19.5,
+            "phase_analysis": {
+                "Powerplay": {
+                    "runs": 24,
+                    "wkts": 4,
+                    "rr": 4.0
+                },
+                "Middle": {
+                    "runs": 47,
+                    "wkts": 3,
+                    "rr": 5.22
+                },
+                "Death": {
+                    "runs": 32,
+                    "wkts": 3,
+                    "rr": 6.62
+                }
+            }
+        },
+        {
+            "innings": 2,
+            "team": "Zimbabwe",
+            "total_runs": 106,
+            "total_wickets": 2,
+            "balls_faced": 81,
+            "overs_faced": 13.3,
+            "phase_analysis": {
+                "Powerplay": {
+                    "runs": 43,
+                    "wkts": 2,
+                    "rr": 7.17
+                },
+                "Middle": {
+                    "runs": 63,
+                    "wkts": 0,
+                    "rr": 8.4
+                },
+                "Death": {
+                    "runs": 0,
+                    "wkts": 0,
+                    "rr": 0.0
+                }
+            },
+            "pressure_index": 21.0,
+            "target": 104
+        }
+    ],
+    "Detailed_Impact_Analysis": [
+        {
+            "player": "B Muzarabani",
+            "team": "Zimbabwe",
+            "overs": 4.0,
+            "runs": 17,
+            "wickets": 3,
+            "econ": 4.25,
+            "score": 119.21,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-17r-3w"
+        },
+        {
+            "player": "B Evans",
+            "team": "Zimbabwe",
+            "overs": 3.5,
+            "runs": 18,
+            "wickets": 3,
+            "econ": 4.7,
+            "score": 116.42,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "3.5o-18r-3w"
+        },
+        {
+            "player": "R Ngarava",
+            "team": "Zimbabwe",
+            "overs": 4.0,
+            "runs": 21,
+            "wickets": 3,
+            "econ": 5.25,
+            "score": 113.65,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-21r-3w"
+        },
+        {
+            "player": "Sufyan Mehmood",
+            "team": "Oman",
+            "overs": 3.0,
+            "runs": 12,
+            "wickets": 2,
+            "econ": 4.0,
+            "score": 91.04,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "3.0o-12r-2w"
+        },
+        {
+            "player": "BJ Bennett",
+            "team": "Zimbabwe",
+            "runs": 48,
+            "balls": 36,
+            "sr": 133.33,
+            "fours": 7,
+            "sixes": 0,
+            "win_contribution_percent": 45.3,
+            "score": 81.5,
+            "role": "batting",
+            "match_stats": "48(36)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "T Marumani",
+            "team": "Zimbabwe",
+            "runs": 21,
+            "balls": 11,
+            "sr": 190.91,
+            "fours": 5,
+            "sixes": 0,
+            "win_contribution_percent": 19.8,
+            "score": 68.96,
+            "role": "batting",
+            "match_stats": "21(11)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "Shah Faisal",
+            "team": "Oman",
+            "runs": 5,
+            "balls": 2,
+            "sr": 250.0,
+            "fours": 1,
+            "sixes": 0,
+            "win_contribution_percent": 4.9,
+            "score": 67.81,
+            "role": "batting",
+            "match_stats": "5(2)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "Sikandar Raza",
+            "team": "Zimbabwe",
+            "runs": 5,
+            "balls": 2,
+            "sr": 250.0,
+            "fours": 1,
+            "sixes": 0,
+            "win_contribution_percent": 4.7,
+            "score": 67.81,
+            "role": "batting",
+            "match_stats": "5(2)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "V Shukla",
+            "team": "Oman",
+            "runs": 28,
+            "balls": 21,
+            "sr": 133.33,
+            "fours": 4,
+            "sixes": 0,
+            "win_contribution_percent": 27.2,
+            "score": 61.5,
+            "role": "batting",
+            "match_stats": "28(21)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "Sikandar Raza",
+            "team": "Zimbabwe",
+            "overs": 4.0,
+            "runs": 17,
+            "wickets": 1,
+            "econ": 4.25,
+            "score": 59.21,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-17r-1w"
+        }
+    ],
+    "Tactical_Post_Match_Analysis": [
+        "Zimbabwe's victory was anchored by BJ Bennett, who contributed 45.3% of the team's runs.",
+        "Defensive pressure was sustained by B Muzarabani, finishing with an impact score of 119.21.",
+        "Oman lost 4 wickets in Powerplay, failing to build a stable foundation."
+    ]
+}

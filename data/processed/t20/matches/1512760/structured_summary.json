@@ -1,0 +1,315 @@
+{
+    "match_context": {
+        "match_id": "1512760",
+        "date": "2026-02-22",
+        "tournament": "2025/26",
+        "venue": "Pallekele International Cricket Stadium",
+        "stage": "ICC Men's T20 World Cup",
+        "Teams": {
+            "England": {
+                "captain": "JC Buttler",
+                "playing_xi_count": 11
+            },
+            "Sri Lanka": {
+                "captain": "MD Shanaka",
+                "playing_xi_count": 11
+            }
+        }
+    },
+    "Match_Result": {
+        "summary": "England won by 51 runs",
+        "winner": "England",
+        "margin": 51,
+        "margin_type": "runs"
+    },
+    "Scorecard_Highlights": {
+        "Key_Support_Performers": [],
+        "Career_vs_Match_Bowling": [],
+        "Bowling_Standouts": {
+            "Economical_Spells": [],
+            "Expensive_Spells": [],
+            "High_Economy_No_Baseline": []
+        },
+        "Significant_Collapses": [
+            {
+                "player": "JC Buttler",
+                "runs": 7,
+                "balls": 14
+            },
+            {
+                "player": "PVD Chameera",
+                "runs": 6,
+                "balls": 14
+            }
+        ]
+    },
+    "Innings_Metrics": [
+        {
+            "innings": 1,
+            "team": "England",
+            "total_runs": 146,
+            "total_wickets": 9,
+            "balls_faced": 120,
+            "overs_faced": 20.0,
+            "phase_analysis": {
+                "Powerplay": {
+                    "runs": 37,
+                    "wkts": 2,
+                    "rr": 6.17
+                },
+                "Middle": {
+                    "runs": 69,
+                    "wkts": 4,
+                    "rr": 7.67
+                },
+                "Death": {
+                    "runs": 40,
+                    "wkts": 3,
+                    "rr": 8.0
+                }
+            }
+        },
+        {
+            "innings": 2,
+            "team": "Sri Lanka",
+            "total_runs": 95,
+            "total_wickets": 10,
+            "balls_faced": 100,
+            "overs_faced": 16.4,
+            "phase_analysis": {
+                "Powerplay": {
+                    "runs": 34,
+                    "wkts": 5,
+                    "rr": 5.67
+                },
+                "Middle": {
+                    "runs": 52,
+                    "wkts": 3,
+                    "rr": 5.78
+                },
+                "Death": {
+                    "runs": 9,
+                    "wkts": 2,
+                    "rr": 5.4
+                }
+            },
+            "pressure_index": 88.0,
+            "target": 147
+        }
+    ],
+    "Detailed_Impact_Analysis": [
+        {
+            "player": "WG Jacks",
+            "team": "England",
+            "overs": 4.0,
+            "runs": 22,
+            "wickets": 3,
+            "econ": 5.5,
+            "score": 113.37,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-22r-3w"
+        },
+        {
+            "player": "DN Wellalage",
+            "team": "Sri Lanka",
+            "overs": 4.0,
+            "runs": 26,
+            "wickets": 3,
+            "econ": 6.5,
+            "score": 109.77,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-26r-3w"
+        },
+        {
+            "player": "PD Salt",
+            "team": "England",
+            "runs": 62,
+            "balls": 41,
+            "sr": 151.22,
+            "fours": 6,
+            "sixes": 2,
+            "win_contribution_percent": 42.5,
+            "score": 98.35,
+            "role": "batting",
+            "match_stats": "62(41)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "AU Rashid",
+            "team": "England",
+            "overs": 3.4,
+            "runs": 13,
+            "wickets": 2,
+            "econ": 3.55,
+            "score": 96.21,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "3.4o-13r-2w"
+        },
+        {
+            "player": "M Theekshana",
+            "team": "Sri Lanka",
+            "overs": 4.0,
+            "runs": 21,
+            "wickets": 2,
+            "econ": 5.25,
+            "score": 84.48,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-21r-2w"
+        },
+        {
+            "player": "D Madushanka",
+            "team": "Sri Lanka",
+            "overs": 4.0,
+            "runs": 25,
+            "wickets": 2,
+            "econ": 6.25,
+            "score": 80.57,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-25r-2w"
+        },
+        {
+            "player": "JC Archer",
+            "team": "England",
+            "overs": 3.0,
+            "runs": 20,
+            "wickets": 2,
+            "econ": 6.67,
+            "score": 79.27,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "3.0o-20r-2w"
+        },
+        {
+            "player": "LA Dawson",
+            "team": "England",
+            "overs": 4.0,
+            "runs": 27,
+            "wickets": 2,
+            "econ": 6.75,
+            "score": 79.04,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-27r-2w"
+        },
+        {
+            "player": "HC Brook",
+            "team": "England",
+            "runs": 14,
+            "balls": 7,
+            "sr": 200.0,
+            "fours": 1,
+            "sixes": 1,
+            "win_contribution_percent": 9.6,
+            "score": 62.08,
+            "role": "batting",
+            "match_stats": "14(7)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "MD Shanaka",
+            "team": "Sri Lanka",
+            "runs": 30,
+            "balls": 24,
+            "sr": 125.0,
+            "fours": 1,
+            "sixes": 2,
+            "win_contribution_percent": 31.6,
+            "score": 60.05,
+            "role": "batting",
+            "match_stats": "30(24)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        }
+    ],
+    "Tactical_Post_Match_Analysis": [
+        "England's victory was anchored by PD Salt, who contributed 42.5% of the team's runs.",
+        "Defensive pressure was sustained by WG Jacks, finishing with an impact score of 113.37.",
+        "Sri Lanka struggled under extreme chase pressure (Index: 88.0), leading to a late-innings collapse.",
+        "Sri Lanka lost 5 wickets in Powerplay, failing to build a stable foundation."
+    ]
+}

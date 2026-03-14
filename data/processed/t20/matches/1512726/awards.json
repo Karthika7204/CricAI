@@ -1,0 +1,93 @@
+{
+    "match_id": "1512726",
+    "winner": "Zimbabwe",
+    "loser": "Oman",
+    "awards": {
+        "player_of_the_match": {
+            "name": "B Evans",
+            "team": "Zimbabwe",
+            "impact_score": 141.0,
+            "breakdown": {
+                "batting": 0.0,
+                "bowling": 120,
+                "fielding": 21,
+                "pressure_multiplier": 1.0
+            },
+            "key_stats": {
+                "bowling": "3.5ov-3wkt econ:4.7"
+            }
+        },
+        "best_batter": {
+            "name": "BJ Bennett",
+            "team": "Zimbabwe",
+            "batting_impact": 77.0,
+            "stats": {
+                "runs": 48,
+                "balls": 36,
+                "sr": 133.33,
+                "fours": 7,
+                "sixes": 0
+            }
+        },
+        "best_bowler": {
+            "name": "B Evans",
+            "team": "Zimbabwe",
+            "bowling_impact": 120,
+            "stats": {
+                "overs": 3.5,
+                "wickets": 3,
+                "econ": 4.7
+            }
+        },
+        "game_changer": {
+            "name": "B Evans",
+            "team": "Zimbabwe",
+            "reason": "3-wicket haul | Exceptional economy 4.7",
+            "key_stats": {
+                "bowling": "3.5ov-3wkt econ:4.7"
+            }
+        },
+        "pressure_performer": {
+            "name": "B Evans",
+            "team": "Zimbabwe",
+            "pressure_multiplier": 1.0,
+            "reason": "Chasing team contributor | Economy 4.7 while defending chase",
+            "key_stats": {
+                "bowling": "3.5ov-3wkt econ:4.7"
+            }
+        },
+        "emerging_player": {
+            "name": "Sufyan Mehmood",
+            "team": "Oman",
+            "reason": "Outperformed team average by 4.94x",
+            "key_stats": {
+                "batting": "25(39) SR:64.1",
+                "bowling": "3.0ov-2wkt econ:4.0"
+            }
+        },
+        "fielding_impact": {
+            "name": "B Evans",
+            "team": "Zimbabwe",
+            "fielding_proxy_score": 21,
+            "methodology": "Proxy-based: catch attribution (65% T20 wickets are catches) + dot ball pressure bonus + economy-implied fielding support",
+            "reason": "Estimated 2 caught dismissals from 3 wickets | Economy 4.7 — tight fielding support implied",
+            "stats": {
+                "overs": 3.5,
+                "wickets": 3,
+                "econ": 4.7
+            }
+        },
+        "all_rounder_impact": {
+            "name": "Sufyan Mehmood",
+            "team": "Oman",
+            "all_rounder_score": 114.0,
+            "stats": {
+                "runs": 25,
+                "sr": 64.1,
+                "overs": 3.0,
+                "wickets": 2,
+                "econ": 4.0
+            }
+        }
+    }
+}

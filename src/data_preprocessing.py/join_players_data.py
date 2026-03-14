@@ -6,7 +6,7 @@ from glob import glob
 base_path = r"D:\CricAI\data\raw\career\t20\batting"
 
 # Get all country files
-all_files = glob(os.path.join(base_path, "*_all_players_career_t20.csv"))
+all_files = glob(os.path.join(base_path, "*_all_players_career.csv"))
 
 print("Files Found:", len(all_files))
 

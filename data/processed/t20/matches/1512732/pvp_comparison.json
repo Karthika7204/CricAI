@@ -1,0 +1,1482 @@
+{
+  "match_id": "1512732",
+  "team_a": "Australia",
+  "team_b": "Ireland",
+  "matchups": [
+    {
+      "bat": "MR Adair",
+      "bat_t": "Ireland",
+      "bowl": "A Zampa",
+      "bowl_t": "Australia",
+      "v": "bowler",
+      "h2h": {
+        "balls": 8,
+        "runs": 6,
+        "dismissals": 2,
+        "strike_rate": 75.0
+      },
+      "vs_t": {
+        "runs": 23,
+        "balls": 17,
+        "dismissals": 2,
+        "average": 11.5,
+        "strike_rate": 135.29
+      },
+      "b_f": [
+        12,
+        10
+      ],
+      "w_f": [
+        4,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "L Tucker",
+      "bat_t": "Ireland",
+      "bowl": "A Zampa",
+      "bowl_t": "Australia",
+      "v": "neutral",
+      "h2h": {
+        "balls": 16,
+        "runs": 11,
+        "dismissals": 1,
+        "strike_rate": 68.75
+      },
+      "vs_t": {
+        "runs": 95,
+        "balls": 79,
+        "dismissals": 1,
+        "average": 95.0,
+        "strike_rate": 120.25
+      },
+      "b_f": [
+        94,
+        24,
+        21
+      ],
+      "w_f": [
+        4,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "GH Dockrell",
+      "bat_t": "Ireland",
+      "bowl": "A Zampa",
+      "bowl_t": "Australia",
+      "v": "batsman",
+      "h2h": {
+        "balls": 11,
+        "runs": 18,
+        "dismissals": 1,
+        "strike_rate": 163.64
+      },
+      "vs_t": {
+        "runs": 41,
+        "balls": 33,
+        "dismissals": 2,
+        "average": 20.5,
+        "strike_rate": 124.24
+      },
+      "b_f": [
+        35,
+        41,
+        9
+      ],
+      "w_f": [
+        4,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "MP Stoinis",
+      "bat_t": "Australia",
+      "bowl": "MR Adair",
+      "bowl_t": "Ireland",
+      "v": "batsman",
+      "h2h": {
+        "balls": 10,
+        "runs": 21,
+        "dismissals": 1,
+        "strike_rate": 210.0
+      },
+      "vs_t": {
+        "runs": 80,
+        "balls": 56,
+        "dismissals": 2,
+        "average": 40.0,
+        "strike_rate": 142.86
+      },
+      "b_f": [
+        4,
+        6,
+        45
+      ],
+      "w_f": [
+        0,
+        2,
+        1
+      ]
+    },
+    {
+      "bat": "MT Renshaw",
+      "bat_t": "Australia",
+      "bowl": "MJ Humphreys",
+      "bowl_t": "Ireland",
+      "v": "neutral",
+      "h2h": {
+        "balls": 6,
+        "runs": 5,
+        "dismissals": 1,
+        "strike_rate": 83.33
+      },
+      "vs_t": {
+        "runs": 37,
+        "balls": 33,
+        "dismissals": 1,
+        "average": 37.0,
+        "strike_rate": 112.12
+      },
+      "b_f": [
+        65,
+        37
+      ],
+      "w_f": [
+        2,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "GJ Maxwell",
+      "bat_t": "Australia",
+      "bowl": "HT Tector",
+      "bowl_t": "Ireland",
+      "v": "bowler",
+      "h2h": {
+        "balls": 4,
+        "runs": 3,
+        "dismissals": 1,
+        "strike_rate": 75.0
+      },
+      "vs_t": {
+        "runs": 22,
+        "balls": 20,
+        "dismissals": 2,
+        "average": 11.0,
+        "strike_rate": 110.0
+      },
+      "b_f": [
+        22,
+        31,
+        9
+      ],
+      "w_f": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "C Green",
+      "bat_t": "Australia",
+      "bowl": "MR Adair",
+      "bowl_t": "Ireland",
+      "v": "neutral",
+      "h2h": {
+        "balls": 4,
+        "runs": 7,
+        "dismissals": 1,
+        "strike_rate": 175.0
+      },
+      "vs_t": {
+        "runs": 21,
+        "balls": 11,
+        "dismissals": 1,
+        "average": 21.0,
+        "strike_rate": 190.91
+      },
+      "b_f": [
+        3,
+        0,
+        21
+      ],
+      "w_f": [
+        0,
+        2,
+        1
+      ]
+    },
+    {
+      "bat": "HT Tector",
+      "bat_t": "Ireland",
+      "bowl": "GJ Maxwell",
+      "bowl_t": "Australia",
+      "v": "neutral",
+      "h2h": {
+        "balls": 4,
+        "runs": 6,
+        "dismissals": 1,
+        "strike_rate": 150.0
+      },
+      "vs_t": {
+        "runs": 6,
+        "balls": 7,
+        "dismissals": 2,
+        "average": 3.0,
+        "strike_rate": 85.71
+      },
+      "b_f": [
+        14,
+        0,
+        40
+      ],
+      "w_f": [
+        2,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "GJ Delany",
+      "bat_t": "Ireland",
+      "bowl": "A Zampa",
+      "bowl_t": "Australia",
+      "v": "bowler",
+      "h2h": {
+        "balls": 4,
+        "runs": 2,
+        "dismissals": 1,
+        "strike_rate": 50.0
+      },
+      "vs_t": {
+        "runs": 25,
+        "balls": 22,
+        "dismissals": 2,
+        "average": 12.5,
+        "strike_rate": 113.64
+      },
+      "b_f": [
+        56,
+        11,
+        0
+      ],
+      "w_f": [
+        4,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "BF Calitz",
+      "bat_t": "Ireland",
+      "bowl": "NT Ellis",
+      "bowl_t": "Australia",
+      "v": "neutral",
+      "h2h": {
+        "balls": 3,
+        "runs": 1,
+        "dismissals": 1,
+        "strike_rate": 33.33
+      },
+      "vs_t": {
+        "runs": 2,
+        "balls": 4,
+        "dismissals": 1,
+        "average": 2.0,
+        "strike_rate": 50.0
+      },
+      "b_f": [
+        2,
+        4
+      ],
+      "w_f": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "BJ McCarthy",
+      "bat_t": "Ireland",
+      "bowl": "NT Ellis",
+      "bowl_t": "Australia",
+      "v": "neutral",
+      "h2h": {
+        "balls": 3,
+        "runs": 1,
+        "dismissals": 1,
+        "strike_rate": 33.33
+      },
+      "vs_t": {
+        "runs": 5,
+        "balls": 11,
+        "dismissals": 2,
+        "average": 2.5,
+        "strike_rate": 45.45
+      },
+      "b_f": [
+        2
+      ],
+      "w_f": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "HT Tector",
+      "bat_t": "Ireland",
+      "bowl": "MP Kuhnemann",
+      "bowl_t": "Australia",
+      "v": "neutral",
+      "h2h": {
+        "balls": 3,
+        "runs": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 6,
+        "balls": 7,
+        "dismissals": 2,
+        "average": 3.0,
+        "strike_rate": 85.71
+      },
+      "b_f": [
+        14,
+        0,
+        40
+      ],
+      "w_f": [
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "JP Inglis",
+      "bat_t": "Australia",
+      "bowl": "GH Dockrell",
+      "bowl_t": "Ireland",
+      "v": "batsman",
+      "h2h": {
+        "balls": 2,
+        "runs": 4,
+        "dismissals": 1,
+        "strike_rate": 200.0
+      },
+      "vs_t": {
+        "runs": 37,
+        "balls": 18,
+        "dismissals": 1,
+        "average": 37.0,
+        "strike_rate": 205.56
+      },
+      "b_f": [
+        12,
+        27,
+        8
+      ],
+      "w_f": [
+        1,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "C Campher",
+      "bat_t": "Ireland",
+      "bowl": "NT Ellis",
+      "bowl_t": "Australia",
+      "v": "neutral",
+      "h2h": {
+        "balls": 2,
+        "runs": 4,
+        "dismissals": 1,
+        "strike_rate": 200.0
+      },
+      "vs_t": {
+        "runs": 4,
+        "balls": 3,
+        "dismissals": 2,
+        "average": 2.0,
+        "strike_rate": 133.33
+      },
+      "b_f": [
+        12,
+        4,
+        13
+      ],
+      "w_f": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "PR Stirling",
+      "bat_t": "Ireland",
+      "bowl": "GJ Maxwell",
+      "bowl_t": "Australia",
+      "v": "bowler",
+      "h2h": {
+        "balls": 2,
+        "runs": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 19,
+        "balls": 20,
+        "dismissals": 2,
+        "average": 9.5,
+        "strike_rate": 95.0
+      },
+      "b_f": [
+        1,
+        6
+      ],
+      "w_f": [
+        2,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "GR Adair",
+      "bat_t": "Ireland",
+      "bowl": "NT Ellis",
+      "bowl_t": "Australia",
+      "v": "neutral",
+      "h2h": {
+        "balls": 1,
+        "runs": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 12,
+        "balls": 9,
+        "dismissals": 1,
+        "average": 12.0,
+        "strike_rate": 133.33
+      },
+      "b_f": [
+        14,
+        12,
+        34
+      ],
+      "w_f": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "GJ Delany",
+      "bat_t": "Ireland",
+      "bowl": "MP Stoinis",
+      "bowl_t": "Australia",
+      "v": "bowler",
+      "h2h": {
+        "balls": 1,
+        "runs": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 25,
+        "balls": 22,
+        "dismissals": 2,
+        "average": 12.5,
+        "strike_rate": 113.64
+      },
+      "b_f": [
+        56,
+        11,
+        0
+      ],
+      "w_f": [
+        1,
+        2,
+        1
+      ]
+    },
+    {
+      "bat": "MP Stoinis",
+      "bat_t": "Australia",
+      "bowl": "GH Dockrell",
+      "bowl_t": "Ireland",
+      "v": "batsman",
+      "h2h": {
+        "balls": 16,
+        "runs": 15,
+        "dismissals": 0,
+        "strike_rate": 93.75
+      },
+      "vs_t": {
+        "runs": 80,
+        "balls": 56,
+        "dismissals": 2,
+        "average": 40.0,
+        "strike_rate": 142.86
+      },
+      "b_f": [
+        4,
+        6,
+        45
+      ],
+      "w_f": [
+        1,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "MT Renshaw",
+      "bat_t": "Australia",
+      "bowl": "GH Dockrell",
+      "bowl_t": "Ireland",
+      "v": "neutral",
+      "h2h": {
+        "balls": 10,
+        "runs": 12,
+        "dismissals": 0,
+        "strike_rate": 120.0
+      },
+      "vs_t": {
+        "runs": 37,
+        "balls": 33,
+        "dismissals": 1,
+        "average": 37.0,
+        "strike_rate": 112.12
+      },
+      "b_f": [
+        65,
+        37
+      ],
+      "w_f": [
+        1,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "JP Inglis",
+      "bat_t": "Australia",
+      "bowl": "MR Adair",
+      "bowl_t": "Ireland",
+      "v": "batsman",
+      "h2h": {
+        "balls": 8,
+        "runs": 13,
+        "dismissals": 0,
+        "strike_rate": 162.5
+      },
+      "vs_t": {
+        "runs": 37,
+        "balls": 18,
+        "dismissals": 1,
+        "average": 37.0,
+        "strike_rate": 205.56
+      },
+      "b_f": [
+        12,
+        27,
+        8
+      ],
+      "w_f": [
+        0,
+        2,
+        1
+      ]
+    },
+    {
+      "bat": "MP Stoinis",
+      "bat_t": "Australia",
+      "bowl": "BJ McCarthy",
+      "bowl_t": "Ireland",
+      "v": "batsman",
+      "h2h": {
+        "balls": 8,
+        "runs": 12,
+        "dismissals": 0,
+        "strike_rate": 150.0
+      },
+      "vs_t": {
+        "runs": 80,
+        "balls": 56,
+        "dismissals": 2,
+        "average": 40.0,
+        "strike_rate": 142.86
+      },
+      "b_f": [
+        4,
+        6,
+        45
+      ],
+      "w_f": [
+        2,
+        0,
+        2
+      ]
+    },
+    {
+      "bat": "MT Renshaw",
+      "bat_t": "Australia",
+      "bowl": "GJ Delany",
+      "bowl_t": "Ireland",
+      "v": "neutral",
+      "h2h": {
+        "balls": 8,
+        "runs": 5,
+        "dismissals": 0,
+        "strike_rate": 62.5
+      },
+      "vs_t": {
+        "runs": 37,
+        "balls": 33,
+        "dismissals": 1,
+        "average": 37.0,
+        "strike_rate": 112.12
+      },
+      "b_f": [
+        65,
+        37
+      ],
+      "w_f": [
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "L Tucker",
+      "bat_t": "Ireland",
+      "bowl": "C Connolly",
+      "bowl_t": "Australia",
+      "v": "neutral",
+      "h2h": {
+        "balls": 8,
+        "runs": 9,
+        "dismissals": 0,
+        "strike_rate": 112.5
+      },
+      "vs_t": {
+        "runs": 95,
+        "balls": 79,
+        "dismissals": 1,
+        "average": 95.0,
+        "strike_rate": 120.25
+      },
+      "b_f": [
+        94,
+        24,
+        21
+      ],
+      "w_f": [
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "MP Stoinis",
+      "bat_t": "Australia",
+      "bowl": "HT Tector",
+      "bowl_t": "Ireland",
+      "v": "batsman",
+      "h2h": {
+        "balls": 7,
+        "runs": 12,
+        "dismissals": 0,
+        "strike_rate": 171.43
+      },
+      "vs_t": {
+        "runs": 80,
+        "balls": 56,
+        "dismissals": 2,
+        "average": 40.0,
+        "strike_rate": 142.86
+      },
+      "b_f": [
+        4,
+        6,
+        45
+      ],
+      "w_f": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "MT Renshaw",
+      "bat_t": "Australia",
+      "bowl": "HT Tector",
+      "bowl_t": "Ireland",
+      "v": "neutral",
+      "h2h": {
+        "balls": 7,
+        "runs": 9,
+        "dismissals": 0,
+        "strike_rate": 128.57
+      },
+      "vs_t": {
+        "runs": 37,
+        "balls": 33,
+        "dismissals": 1,
+        "average": 37.0,
+        "strike_rate": 112.12
+      },
+      "b_f": [
+        65,
+        37
+      ],
+      "w_f": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "L Tucker",
+      "bat_t": "Ireland",
+      "bowl": "MP Kuhnemann",
+      "bowl_t": "Australia",
+      "v": "batsman",
+      "h2h": {
+        "balls": 7,
+        "runs": 10,
+        "dismissals": 0,
+        "strike_rate": 142.86
+      },
+      "vs_t": {
+        "runs": 95,
+        "balls": 79,
+        "dismissals": 1,
+        "average": 95.0,
+        "strike_rate": 120.25
+      },
+      "b_f": [
+        94,
+        24,
+        21
+      ],
+      "w_f": [
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "MP Stoinis",
+      "bat_t": "Australia",
+      "bowl": "MJ Humphreys",
+      "bowl_t": "Ireland",
+      "v": "batsman",
+      "h2h": {
+        "balls": 6,
+        "runs": 6,
+        "dismissals": 0,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 80,
+        "balls": 56,
+        "dismissals": 2,
+        "average": 40.0,
+        "strike_rate": 142.86
+      },
+      "b_f": [
+        4,
+        6,
+        45
+      ],
+      "w_f": [
+        2,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "MP Stoinis",
+      "bat_t": "Australia",
+      "bowl": "GJ Delany",
+      "bowl_t": "Ireland",
+      "v": "batsman",
+      "h2h": {
+        "balls": 6,
+        "runs": 14,
+        "dismissals": 0,
+        "strike_rate": 233.33
+      },
+      "vs_t": {
+        "runs": 80,
+        "balls": 56,
+        "dismissals": 2,
+        "average": 40.0,
+        "strike_rate": 142.86
+      },
+      "b_f": [
+        4,
+        6,
+        45
+      ],
+      "w_f": [
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "TM Head",
+      "bat_t": "Australia",
+      "bowl": "MJ Humphreys",
+      "bowl_t": "Ireland",
+      "v": "neutral",
+      "h2h": {
+        "balls": 6,
+        "runs": 6,
+        "dismissals": 0,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 6,
+        "balls": 7,
+        "dismissals": 0,
+        "average": 6.0,
+        "strike_rate": 85.71
+      },
+      "b_f": [
+        32,
+        56,
+        17
+      ],
+      "w_f": [
+        2,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "GH Dockrell",
+      "bat_t": "Ireland",
+      "bowl": "XC Bartlett",
+      "bowl_t": "Australia",
+      "v": "batsman",
+      "h2h": {
+        "balls": 6,
+        "runs": 10,
+        "dismissals": 0,
+        "strike_rate": 166.67
+      },
+      "vs_t": {
+        "runs": 41,
+        "balls": 33,
+        "dismissals": 2,
+        "average": 20.5,
+        "strike_rate": 124.24
+      },
+      "b_f": [
+        35,
+        41,
+        9
+      ],
+      "w_f": [
+        2,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "GH Dockrell",
+      "bat_t": "Ireland",
+      "bowl": "C Connolly",
+      "bowl_t": "Australia",
+      "v": "bowler",
+      "h2h": {
+        "balls": 6,
+        "runs": 6,
+        "dismissals": 0,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 41,
+        "balls": 33,
+        "dismissals": 2,
+        "average": 20.5,
+        "strike_rate": 124.24
+      },
+      "b_f": [
+        35,
+        41,
+        9
+      ],
+      "w_f": [
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "L Tucker",
+      "bat_t": "Ireland",
+      "bowl": "NT Ellis",
+      "bowl_t": "Australia",
+      "v": "neutral",
+      "h2h": {
+        "balls": 6,
+        "runs": 3,
+        "dismissals": 0,
+        "strike_rate": 50.0
+      },
+      "vs_t": {
+        "runs": 95,
+        "balls": 79,
+        "dismissals": 1,
+        "average": 95.0,
+        "strike_rate": 120.25
+      },
+      "b_f": [
+        94,
+        24,
+        21
+      ],
+      "w_f": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "GJ Maxwell",
+      "bat_t": "Australia",
+      "bowl": "GH Dockrell",
+      "bowl_t": "Ireland",
+      "v": "bowler",
+      "h2h": {
+        "balls": 5,
+        "runs": 6,
+        "dismissals": 0,
+        "strike_rate": 120.0
+      },
+      "vs_t": {
+        "runs": 22,
+        "balls": 20,
+        "dismissals": 2,
+        "average": 11.0,
+        "strike_rate": 110.0
+      },
+      "b_f": [
+        22,
+        31,
+        9
+      ],
+      "w_f": [
+        1,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "GJ Maxwell",
+      "bat_t": "Australia",
+      "bowl": "GJ Delany",
+      "bowl_t": "Ireland",
+      "v": "bowler",
+      "h2h": {
+        "balls": 5,
+        "runs": 6,
+        "dismissals": 0,
+        "strike_rate": 120.0
+      },
+      "vs_t": {
+        "runs": 22,
+        "balls": 20,
+        "dismissals": 2,
+        "average": 11.0,
+        "strike_rate": 110.0
+      },
+      "b_f": [
+        22,
+        31,
+        9
+      ],
+      "w_f": [
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "C Green",
+      "bat_t": "Australia",
+      "bowl": "BJ McCarthy",
+      "bowl_t": "Ireland",
+      "v": "neutral",
+      "h2h": {
+        "balls": 5,
+        "runs": 13,
+        "dismissals": 0,
+        "strike_rate": 260.0
+      },
+      "vs_t": {
+        "runs": 21,
+        "balls": 11,
+        "dismissals": 1,
+        "average": 21.0,
+        "strike_rate": 190.91
+      },
+      "b_f": [
+        3,
+        0,
+        21
+      ],
+      "w_f": [
+        2,
+        0,
+        2
+      ]
+    },
+    {
+      "bat": "GR Adair",
+      "bat_t": "Ireland",
+      "bowl": "XC Bartlett",
+      "bowl_t": "Australia",
+      "v": "neutral",
+      "h2h": {
+        "balls": 5,
+        "runs": 11,
+        "dismissals": 0,
+        "strike_rate": 220.0
+      },
+      "vs_t": {
+        "runs": 12,
+        "balls": 9,
+        "dismissals": 1,
+        "average": 12.0,
+        "strike_rate": 133.33
+      },
+      "b_f": [
+        14,
+        12,
+        34
+      ],
+      "w_f": [
+        2,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "GH Dockrell",
+      "bat_t": "Ireland",
+      "bowl": "MP Kuhnemann",
+      "bowl_t": "Australia",
+      "v": "bowler",
+      "h2h": {
+        "balls": 5,
+        "runs": 6,
+        "dismissals": 0,
+        "strike_rate": 120.0
+      },
+      "vs_t": {
+        "runs": 41,
+        "balls": 33,
+        "dismissals": 2,
+        "average": 20.5,
+        "strike_rate": 124.24
+      },
+      "b_f": [
+        35,
+        41,
+        9
+      ],
+      "w_f": [
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "GJ Delany",
+      "bat_t": "Ireland",
+      "bowl": "MP Kuhnemann",
+      "bowl_t": "Australia",
+      "v": "bowler",
+      "h2h": {
+        "balls": 5,
+        "runs": 11,
+        "dismissals": 0,
+        "strike_rate": 220.0
+      },
+      "vs_t": {
+        "runs": 25,
+        "balls": 22,
+        "dismissals": 2,
+        "average": 12.5,
+        "strike_rate": 113.64
+      },
+      "b_f": [
+        56,
+        11,
+        0
+      ],
+      "w_f": [
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "GJ Delany",
+      "bat_t": "Ireland",
+      "bowl": "NT Ellis",
+      "bowl_t": "Australia",
+      "v": "bowler",
+      "h2h": {
+        "balls": 5,
+        "runs": 0,
+        "dismissals": 0,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 25,
+        "balls": 22,
+        "dismissals": 2,
+        "average": 12.5,
+        "strike_rate": 113.64
+      },
+      "b_f": [
+        56,
+        11,
+        0
+      ],
+      "w_f": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "GJ Maxwell",
+      "bat_t": "Australia",
+      "bowl": "BJ McCarthy",
+      "bowl_t": "Ireland",
+      "v": "bowler",
+      "h2h": {
+        "balls": 4,
+        "runs": 7,
+        "dismissals": 0,
+        "strike_rate": 175.0
+      },
+      "vs_t": {
+        "runs": 22,
+        "balls": 20,
+        "dismissals": 2,
+        "average": 11.0,
+        "strike_rate": 110.0
+      },
+      "b_f": [
+        22,
+        31,
+        9
+      ],
+      "w_f": [
+        2,
+        0,
+        2
+      ]
+    },
+    {
+      "bat": "JP Inglis",
+      "bat_t": "Australia",
+      "bowl": "MJ Humphreys",
+      "bowl_t": "Ireland",
+      "v": "batsman",
+      "h2h": {
+        "balls": 4,
+        "runs": 13,
+        "dismissals": 0,
+        "strike_rate": 325.0
+      },
+      "vs_t": {
+        "runs": 37,
+        "balls": 18,
+        "dismissals": 1,
+        "average": 37.0,
+        "strike_rate": 205.56
+      },
+      "b_f": [
+        12,
+        27,
+        8
+      ],
+      "w_f": [
+        2,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "XC Bartlett",
+      "bat_t": "Australia",
+      "bowl": "BJ McCarthy",
+      "bowl_t": "Ireland",
+      "v": "neutral",
+      "h2h": {
+        "balls": 4,
+        "runs": 6,
+        "dismissals": 0,
+        "strike_rate": 150.0
+      },
+      "vs_t": {
+        "runs": 11,
+        "balls": 7,
+        "dismissals": 0,
+        "average": 11.0,
+        "strike_rate": 157.14
+      },
+      "b_f": [
+        0,
+        11
+      ],
+      "w_f": [
+        2,
+        0,
+        2
+      ]
+    },
+    {
+      "bat": "C Connolly",
+      "bat_t": "Australia",
+      "bowl": "MR Adair",
+      "bowl_t": "Ireland",
+      "v": "neutral",
+      "h2h": {
+        "balls": 4,
+        "runs": 8,
+        "dismissals": 0,
+        "strike_rate": 200.0
+      },
+      "vs_t": {
+        "runs": 11,
+        "balls": 8,
+        "dismissals": 0,
+        "average": 11.0,
+        "strike_rate": 137.5
+      },
+      "b_f": [
+        3,
+        11
+      ],
+      "w_f": [
+        0,
+        2,
+        1
+      ]
+    },
+    {
+      "bat": "BJ McCarthy",
+      "bat_t": "Ireland",
+      "bowl": "A Zampa",
+      "bowl_t": "Australia",
+      "v": "neutral",
+      "h2h": {
+        "balls": 4,
+        "runs": 3,
+        "dismissals": 0,
+        "strike_rate": 75.0
+      },
+      "vs_t": {
+        "runs": 5,
+        "balls": 11,
+        "dismissals": 2,
+        "average": 2.5,
+        "strike_rate": 45.45
+      },
+      "b_f": [
+        2
+      ],
+      "w_f": [
+        4,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "MR Adair",
+      "bat_t": "Ireland",
+      "bowl": "MP Stoinis",
+      "bowl_t": "Australia",
+      "v": "bowler",
+      "h2h": {
+        "balls": 4,
+        "runs": 5,
+        "dismissals": 0,
+        "strike_rate": 125.0
+      },
+      "vs_t": {
+        "runs": 23,
+        "balls": 17,
+        "dismissals": 2,
+        "average": 11.5,
+        "strike_rate": 135.29
+      },
+      "b_f": [
+        12,
+        10
+      ],
+      "w_f": [
+        1,
+        2,
+        1
+      ]
+    },
+    {
+      "bat": "MR Adair",
+      "bat_t": "Ireland",
+      "bowl": "C Connolly",
+      "bowl_t": "Australia",
+      "v": "bowler",
+      "h2h": {
+        "balls": 4,
+        "runs": 11,
+        "dismissals": 0,
+        "strike_rate": 275.0
+      },
+      "vs_t": {
+        "runs": 23,
+        "balls": 17,
+        "dismissals": 2,
+        "average": 11.5,
+        "strike_rate": 135.29
+      },
+      "b_f": [
+        12,
+        10
+      ],
+      "w_f": [
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "JP Inglis",
+      "bat_t": "Australia",
+      "bowl": "GJ Delany",
+      "bowl_t": "Ireland",
+      "v": "batsman",
+      "h2h": {
+        "balls": 3,
+        "runs": 6,
+        "dismissals": 0,
+        "strike_rate": 200.0
+      },
+      "vs_t": {
+        "runs": 37,
+        "balls": 18,
+        "dismissals": 1,
+        "average": 37.0,
+        "strike_rate": 205.56
+      },
+      "b_f": [
+        12,
+        27,
+        8
+      ],
+      "w_f": [
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "XC Bartlett",
+      "bat_t": "Australia",
+      "bowl": "MR Adair",
+      "bowl_t": "Ireland",
+      "v": "neutral",
+      "h2h": {
+        "balls": 3,
+        "runs": 5,
+        "dismissals": 0,
+        "strike_rate": 166.67
+      },
+      "vs_t": {
+        "runs": 11,
+        "balls": 7,
+        "dismissals": 0,
+        "average": 11.0,
+        "strike_rate": 157.14
+      },
+      "b_f": [
+        0,
+        11
+      ],
+      "w_f": [
+        0,
+        2,
+        1
+      ]
+    },
+    {
+      "bat": "C Connolly",
+      "bat_t": "Australia",
+      "bowl": "BJ McCarthy",
+      "bowl_t": "Ireland",
+      "v": "neutral",
+      "h2h": {
+        "balls": 3,
+        "runs": 3,
+        "dismissals": 0,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 11,
+        "balls": 8,
+        "dismissals": 0,
+        "average": 11.0,
+        "strike_rate": 137.5
+      },
+      "b_f": [
+        3,
+        11
+      ],
+      "w_f": [
+        2,
+        0,
+        2
+      ]
+    },
+    {
+      "bat": "GR Adair",
+      "bat_t": "Ireland",
+      "bowl": "MP Kuhnemann",
+      "bowl_t": "Australia",
+      "v": "neutral",
+      "h2h": {
+        "balls": 3,
+        "runs": 1,
+        "dismissals": 0,
+        "strike_rate": 33.33
+      },
+      "vs_t": {
+        "runs": 12,
+        "balls": 9,
+        "dismissals": 1,
+        "average": 12.0,
+        "strike_rate": 133.33
+      },
+      "b_f": [
+        14,
+        12,
+        34
+      ],
+      "w_f": [
+        0,
+        1
+      ]
+    }
+  ]
+}

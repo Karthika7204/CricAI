@@ -1,0 +1,1194 @@
+{
+    "match_id": "1512734",
+    "metadata": {
+        "tournament": "2025/26",
+        "venue": "Pallekele International Cricket Stadium",
+        "date": "2026-02-12",
+        "stage": "ICC Men's T20 World Cup",
+        "winner": "Sri Lanka",
+        "loser": "Oman",
+        "win_classification": "Moderate",
+        "margin_runs": 105,
+        "margin_wickets": null,
+        "competitiveness_index": 85.0,
+        "teams": {
+            "Sri Lanka": {
+                "captain": "BKG Mendis",
+                "playing_xi_count": 11
+            },
+            "Oman": {
+                "captain": "Mohammad Nadeem",
+                "playing_xi_count": 11
+            }
+        },
+        "team_summary": {
+            "Sri Lanka": {
+                "run_rate": 11.25,
+                "fours": 23,
+                "sixes": 8,
+                "boundary_runs": 140,
+                "dot_balls": 30,
+                "total_runs": 225,
+                "total_wickets": 5
+            },
+            "Oman": {
+                "run_rate": 6.0,
+                "fours": 5,
+                "sixes": 4,
+                "boundary_runs": 44,
+                "dot_balls": 56,
+                "total_runs": 120,
+                "total_wickets": 9
+            }
+        },
+        "formulas": {
+            "competitiveness": "Base(Margin) + Pressure_Bonus(L5 Overs)",
+            "pressure": "((RR_Gap / Start_RR) * 40) + ((Wickets / 10) * 60)",
+            "batting_impact": "Runs + (SR/Match_SR * 25)",
+            "bowling_impact": "(Wickets * 30) + (Match_RR/Econ * 20)"
+        }
+    },
+    "scorecards": {
+        "batting": [
+            {
+                "player": "BKG Mendis",
+                "team": "Sri Lanka",
+                "runs": 61,
+                "balls": 45,
+                "sr": 135.56,
+                "fours": 7,
+                "sixes": 0,
+                "win_contribution_percent": 27.1,
+                "score": 87.31
+            },
+            {
+                "player": "P Rathnayake",
+                "team": "Sri Lanka",
+                "runs": 60,
+                "balls": 28,
+                "sr": 214.29,
+                "fours": 8,
+                "sixes": 1,
+                "win_contribution_percent": 26.7,
+                "score": 101.59
+            },
+            {
+                "player": "MD Shanaka",
+                "team": "Sri Lanka",
+                "runs": 50,
+                "balls": 20,
+                "sr": 250.0,
+                "fours": 2,
+                "sixes": 5,
+                "win_contribution_percent": 22.2,
+                "score": 98.52
+            },
+            {
+                "player": "PHKD Mendis",
+                "team": "Sri Lanka",
+                "runs": 19,
+                "balls": 8,
+                "sr": 237.5,
+                "fours": 1,
+                "sixes": 2,
+                "win_contribution_percent": 8.4,
+                "score": 65.1
+            },
+            {
+                "player": "P Nissanka",
+                "team": "Sri Lanka",
+                "runs": 13,
+                "balls": 11,
+                "sr": 118.18,
+                "fours": 2,
+                "sixes": 0,
+                "win_contribution_percent": 5.8,
+                "score": 35.94
+            },
+            {
+                "player": "K Mishara",
+                "team": "Sri Lanka",
+                "runs": 8,
+                "balls": 8,
+                "sr": 100.0,
+                "fours": 2,
+                "sixes": 0,
+                "win_contribution_percent": 3.6,
+                "score": 27.41
+            },
+            {
+                "player": "DN Wellalage",
+                "team": "Sri Lanka",
+                "runs": 6,
+                "balls": 4,
+                "sr": 150.0,
+                "fours": 1,
+                "sixes": 0,
+                "win_contribution_percent": 2.7,
+                "score": 35.11
+            },
+            {
+                "player": "Mohammad Nadeem",
+                "team": "Oman",
+                "runs": 53,
+                "balls": 60,
+                "sr": 88.33,
+                "fours": 3,
+                "sixes": 1,
+                "win_contribution_percent": 44.2,
+                "score": 70.14
+            },
+            {
+                "player": "Wasim Ali",
+                "team": "Oman",
+                "runs": 27,
+                "balls": 20,
+                "sr": 135.0,
+                "fours": 0,
+                "sixes": 3,
+                "win_contribution_percent": 22.5,
+                "score": 53.2
+            },
+            {
+                "player": "Hammad Mirza",
+                "team": "Oman",
+                "runs": 9,
+                "balls": 12,
+                "sr": 75.0,
+                "fours": 1,
+                "sixes": 0,
+                "win_contribution_percent": 7.5,
+                "score": 23.56
+            },
+            {
+                "player": "Aamir Kaleem",
+                "team": "Oman",
+                "runs": 6,
+                "balls": 6,
+                "sr": 100.0,
+                "fours": 1,
+                "sixes": 0,
+                "win_contribution_percent": 5.0,
+                "score": 25.41
+            },
+            {
+                "player": "Jay Odedra",
+                "team": "Oman",
+                "runs": 4,
+                "balls": 12,
+                "sr": 33.33,
+                "fours": 0,
+                "sixes": 0,
+                "win_contribution_percent": 3.3,
+                "score": 10.47
+            },
+            {
+                "player": "Nadeem Khan",
+                "team": "Oman",
+                "runs": 2,
+                "balls": 3,
+                "sr": 66.67,
+                "fours": 0,
+                "sixes": 0,
+                "win_contribution_percent": 1.7,
+                "score": 14.94
+            },
+            {
+                "player": "Jatinder Singh",
+                "team": "Oman",
+                "runs": 1,
+                "balls": 2,
+                "sr": 50.0,
+                "fours": 0,
+                "sixes": 0,
+                "win_contribution_percent": 0.8,
+                "score": 10.7
+            },
+            {
+                "player": "Shah Faisal",
+                "team": "Oman",
+                "runs": 1,
+                "balls": 8,
+                "sr": 12.5,
+                "fours": 0,
+                "sixes": 0,
+                "win_contribution_percent": 0.8,
+                "score": 3.43
+            },
+            {
+                "player": "Sufyan Mehmood",
+                "team": "Oman",
+                "runs": 1,
+                "balls": 1,
+                "sr": 100.0,
+                "fours": 0,
+                "sixes": 0,
+                "win_contribution_percent": 0.8,
+                "score": 20.41
+            },
+            {
+                "player": "V Shukla",
+                "team": "Oman",
+                "runs": 1,
+                "balls": 1,
+                "sr": 100.0,
+                "fours": 0,
+                "sixes": 0,
+                "win_contribution_percent": 0.8,
+                "score": 20.41
+            },
+            {
+                "player": "J Ramanandi",
+                "team": "Oman",
+                "runs": 0,
+                "balls": 1,
+                "sr": 0.0,
+                "fours": 0,
+                "sixes": 0,
+                "win_contribution_percent": 0.0,
+                "score": 0.0
+            }
+        ],
+        "bowling": [
+            {
+                "player": "J Ramanandi",
+                "team": "Oman",
+                "overs": 4.0,
+                "runs": 41,
+                "wickets": 2,
+                "econ": 10.25,
+                "score": 76.16,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "Jay Odedra",
+                "team": "Oman",
+                "overs": 1.0,
+                "runs": 14,
+                "wickets": 1,
+                "econ": 14.0,
+                "score": 41.83,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "Sufyan Mehmood",
+                "team": "Oman",
+                "overs": 4.0,
+                "runs": 60,
+                "wickets": 1,
+                "econ": 15.0,
+                "score": 41.04,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "Shah Faisal",
+                "team": "Oman",
+                "overs": 4.0,
+                "runs": 32,
+                "wickets": 0,
+                "econ": 8.0,
+                "score": 20.7,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "Nadeem Khan",
+                "team": "Oman",
+                "overs": 4.0,
+                "runs": 40,
+                "wickets": 0,
+                "econ": 10.0,
+                "score": 16.56,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "Wasim Ali",
+                "team": "Oman",
+                "overs": 3.0,
+                "runs": 38,
+                "wickets": 0,
+                "econ": 12.67,
+                "score": 13.07,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "M Theekshana",
+                "team": "Sri Lanka",
+                "overs": 4.0,
+                "runs": 11,
+                "wickets": 2,
+                "econ": 2.75,
+                "score": 120.22,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "PVD Chameera",
+                "team": "Sri Lanka",
+                "overs": 2.0,
+                "runs": 19,
+                "wickets": 2,
+                "econ": 9.5,
+                "score": 77.43,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "DN Wellalage",
+                "team": "Sri Lanka",
+                "overs": 4.0,
+                "runs": 17,
+                "wickets": 1,
+                "econ": 4.25,
+                "score": 68.96,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "PHKD Mendis",
+                "team": "Sri Lanka",
+                "overs": 2.0,
+                "runs": 10,
+                "wickets": 1,
+                "econ": 5.0,
+                "score": 63.12,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "MADI Hemantha",
+                "team": "Sri Lanka",
+                "overs": 4.0,
+                "runs": 45,
+                "wickets": 1,
+                "econ": 11.25,
+                "score": 44.72,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "M Pathirana",
+                "team": "Sri Lanka",
+                "overs": 3.0,
+                "runs": 11,
+                "wickets": 0,
+                "econ": 3.67,
+                "score": 45.12,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "MD Shanaka",
+                "team": "Sri Lanka",
+                "overs": 1.0,
+                "runs": 7,
+                "wickets": 0,
+                "econ": 7.0,
+                "score": 23.66,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            }
+        ]
+    },
+    "innings": [
+        {
+            "innings": 1,
+            "team": "Sri Lanka",
+            "total_runs": 225,
+            "total_wickets": 5,
+            "balls_faced": 120,
+            "overs_faced": 20.0,
+            "phase_analysis": {
+                "Powerplay": {
+                    "runs": 58,
+                    "wkts": 2,
+                    "rr": 9.67
+                },
+                "Middle": {
+                    "runs": 88,
+                    "wkts": 1,
+                    "rr": 9.78
+                },
+                "Death": {
+                    "runs": 79,
+                    "wkts": 2,
+                    "rr": 15.8
+                }
+            }
+        },
+        {
+            "innings": 2,
+            "team": "Oman",
+            "total_runs": 120,
+            "total_wickets": 9,
+            "balls_faced": 120,
+            "overs_faced": 20.0,
+            "phase_analysis": {
+                "Powerplay": {
+                    "runs": 36,
+                    "wkts": 3,
+                    "rr": 6.0
+                },
+                "Middle": {
+                    "runs": 71,
+                    "wkts": 5,
+                    "rr": 7.89
+                },
+                "Death": {
+                    "runs": 13,
+                    "wkts": 1,
+                    "rr": 2.6
+                }
+            },
+            "pressure_index": 87.0,
+            "target": 226
+        }
+    ],
+    "players": [
+        {
+            "player": "M Theekshana",
+            "team": "Sri Lanka",
+            "overs": 4.0,
+            "runs": 11,
+            "wickets": 2,
+            "econ": 2.75,
+            "score": 120.22,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-11r-2w"
+        },
+        {
+            "player": "P Rathnayake",
+            "team": "Sri Lanka",
+            "runs": 60,
+            "balls": 28,
+            "sr": 214.29,
+            "fours": 8,
+            "sixes": 1,
+            "win_contribution_percent": 26.7,
+            "score": 101.59,
+            "role": "batting",
+            "match_stats": "60(28)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "MD Shanaka",
+            "team": "Sri Lanka",
+            "runs": 50,
+            "balls": 20,
+            "sr": 250.0,
+            "fours": 2,
+            "sixes": 5,
+            "win_contribution_percent": 22.2,
+            "score": 98.52,
+            "role": "batting",
+            "match_stats": "50(20)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "BKG Mendis",
+            "team": "Sri Lanka",
+            "runs": 61,
+            "balls": 45,
+            "sr": 135.56,
+            "fours": 7,
+            "sixes": 0,
+            "win_contribution_percent": 27.1,
+            "score": 87.31,
+            "role": "batting",
+            "match_stats": "61(45)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "PVD Chameera",
+            "team": "Sri Lanka",
+            "overs": 2.0,
+            "runs": 19,
+            "wickets": 2,
+            "econ": 9.5,
+            "score": 77.43,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "2.0o-19r-2w"
+        },
+        {
+            "player": "J Ramanandi",
+            "team": "Oman",
+            "overs": 4.0,
+            "runs": 41,
+            "wickets": 2,
+            "econ": 10.25,
+            "score": 76.16,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-41r-2w"
+        },
+        {
+            "player": "Mohammad Nadeem",
+            "team": "Oman",
+            "runs": 53,
+            "balls": 60,
+            "sr": 88.33,
+            "fours": 3,
+            "sixes": 1,
+            "win_contribution_percent": 44.2,
+            "score": 70.14,
+            "role": "batting",
+            "match_stats": "53(60)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "DN Wellalage",
+            "team": "Sri Lanka",
+            "overs": 4.0,
+            "runs": 17,
+            "wickets": 1,
+            "econ": 4.25,
+            "score": 68.96,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-17r-1w"
+        },
+        {
+            "player": "PHKD Mendis",
+            "team": "Sri Lanka",
+            "runs": 19,
+            "balls": 8,
+            "sr": 237.5,
+            "fours": 1,
+            "sixes": 2,
+            "win_contribution_percent": 8.4,
+            "score": 65.1,
+            "role": "batting",
+            "match_stats": "19(8)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "PHKD Mendis",
+            "team": "Sri Lanka",
+            "overs": 2.0,
+            "runs": 10,
+            "wickets": 1,
+            "econ": 5.0,
+            "score": 63.12,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "2.0o-10r-1w"
+        },
+        {
+            "player": "Wasim Ali",
+            "team": "Oman",
+            "runs": 27,
+            "balls": 20,
+            "sr": 135.0,
+            "fours": 0,
+            "sixes": 3,
+            "win_contribution_percent": 22.5,
+            "score": 53.2,
+            "role": "batting",
+            "match_stats": "27(20)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "M Pathirana",
+            "team": "Sri Lanka",
+            "overs": 3.0,
+            "runs": 11,
+            "wickets": 0,
+            "econ": 3.67,
+            "score": 45.12,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "3.0o-11r-0w"
+        },
+        {
+            "player": "MADI Hemantha",
+            "team": "Sri Lanka",
+            "overs": 4.0,
+            "runs": 45,
+            "wickets": 1,
+            "econ": 11.25,
+            "score": 44.72,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-45r-1w"
+        },
+        {
+            "player": "Jay Odedra",
+            "team": "Oman",
+            "overs": 1.0,
+            "runs": 14,
+            "wickets": 1,
+            "econ": 14.0,
+            "score": 41.83,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "1.0o-14r-1w"
+        },
+        {
+            "player": "Sufyan Mehmood",
+            "team": "Oman",
+            "overs": 4.0,
+            "runs": 60,
+            "wickets": 1,
+            "econ": 15.0,
+            "score": 41.04,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-60r-1w"
+        },
+        {
+            "player": "P Nissanka",
+            "team": "Sri Lanka",
+            "runs": 13,
+            "balls": 11,
+            "sr": 118.18,
+            "fours": 2,
+            "sixes": 0,
+            "win_contribution_percent": 5.8,
+            "score": 35.94,
+            "role": "batting",
+            "match_stats": "13(11)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "DN Wellalage",
+            "team": "Sri Lanka",
+            "runs": 6,
+            "balls": 4,
+            "sr": 150.0,
+            "fours": 1,
+            "sixes": 0,
+            "win_contribution_percent": 2.7,
+            "score": 35.11,
+            "role": "batting",
+            "match_stats": "6(4)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "K Mishara",
+            "team": "Sri Lanka",
+            "runs": 8,
+            "balls": 8,
+            "sr": 100.0,
+            "fours": 2,
+            "sixes": 0,
+            "win_contribution_percent": 3.6,
+            "score": 27.41,
+            "role": "batting",
+            "match_stats": "8(8)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "Aamir Kaleem",
+            "team": "Oman",
+            "runs": 6,
+            "balls": 6,
+            "sr": 100.0,
+            "fours": 1,
+            "sixes": 0,
+            "win_contribution_percent": 5.0,
+            "score": 25.41,
+            "role": "batting",
+            "match_stats": "6(6)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "MD Shanaka",
+            "team": "Sri Lanka",
+            "overs": 1.0,
+            "runs": 7,
+            "wickets": 0,
+            "econ": 7.0,
+            "score": 23.66,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "1.0o-7r-0w"
+        },
+        {
+            "player": "Hammad Mirza",
+            "team": "Oman",
+            "runs": 9,
+            "balls": 12,
+            "sr": 75.0,
+            "fours": 1,
+            "sixes": 0,
+            "win_contribution_percent": 7.5,
+            "score": 23.56,
+            "role": "batting",
+            "match_stats": "9(12)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "Shah Faisal",
+            "team": "Oman",
+            "overs": 4.0,
+            "runs": 32,
+            "wickets": 0,
+            "econ": 8.0,
+            "score": 20.7,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-32r-0w"
+        },
+        {
+            "player": "Sufyan Mehmood",
+            "team": "Oman",
+            "runs": 1,
+            "balls": 1,
+            "sr": 100.0,
+            "fours": 0,
+            "sixes": 0,
+            "win_contribution_percent": 0.8,
+            "score": 20.41,
+            "role": "batting",
+            "match_stats": "1(1)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "V Shukla",
+            "team": "Oman",
+            "runs": 1,
+            "balls": 1,
+            "sr": 100.0,
+            "fours": 0,
+            "sixes": 0,
+            "win_contribution_percent": 0.8,
+            "score": 20.41,
+            "role": "batting",
+            "match_stats": "1(1)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "Nadeem Khan",
+            "team": "Oman",
+            "overs": 4.0,
+            "runs": 40,
+            "wickets": 0,
+            "econ": 10.0,
+            "score": 16.56,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-40r-0w"
+        },
+        {
+            "player": "Nadeem Khan",
+            "team": "Oman",
+            "runs": 2,
+            "balls": 3,
+            "sr": 66.67,
+            "fours": 0,
+            "sixes": 0,
+            "win_contribution_percent": 1.7,
+            "score": 14.94,
+            "role": "batting",
+            "match_stats": "2(3)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "Wasim Ali",
+            "team": "Oman",
+            "overs": 3.0,
+            "runs": 38,
+            "wickets": 0,
+            "econ": 12.67,
+            "score": 13.07,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "3.0o-38r-0w"
+        },
+        {
+            "player": "Jatinder Singh",
+            "team": "Oman",
+            "runs": 1,
+            "balls": 2,
+            "sr": 50.0,
+            "fours": 0,
+            "sixes": 0,
+            "win_contribution_percent": 0.8,
+            "score": 10.7,
+            "role": "batting",
+            "match_stats": "1(2)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "Jay Odedra",
+            "team": "Oman",
+            "runs": 4,
+            "balls": 12,
+            "sr": 33.33,
+            "fours": 0,
+            "sixes": 0,
+            "win_contribution_percent": 3.3,
+            "score": 10.47,
+            "role": "batting",
+            "match_stats": "4(12)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "Shah Faisal",
+            "team": "Oman",
+            "runs": 1,
+            "balls": 8,
+            "sr": 12.5,
+            "fours": 0,
+            "sixes": 0,
+            "win_contribution_percent": 0.8,
+            "score": 3.43,
+            "role": "batting",
+            "match_stats": "1(8)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "J Ramanandi",
+            "team": "Oman",
+            "runs": 0,
+            "balls": 1,
+            "sr": 0.0,
+            "fours": 0,
+            "sixes": 0,
+            "win_contribution_percent": 0.0,
+            "score": 0.0,
+            "role": "batting",
+            "match_stats": "0(1)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        }
+    ],
+    "validation": {
+        "logical_stability": true
+    }
+}

@@ -1,0 +1,362 @@
+{
+    "match_context": {
+        "match_id": "1512751",
+        "date": "2026-02-17",
+        "tournament": "2025/26",
+        "venue": "Wankhede Stadium, Mumbai",
+        "stage": "ICC Men's T20 World Cup",
+        "Teams": {
+            "Scotland": {
+                "captain": "RD Berrington",
+                "playing_xi_count": 11
+            },
+            "Nepal": {
+                "captain": "RK Paudel",
+                "playing_xi_count": 8
+            }
+        }
+    },
+    "Match_Result": {
+        "summary": "Nepal won by 7 wickets",
+        "winner": "Nepal",
+        "margin": 7,
+        "margin_type": "wickets"
+    },
+    "Scorecard_Highlights": {
+        "Key_Support_Performers": [
+            {
+                "player": "HG Munsey",
+                "team": "Scotland",
+                "runs": 27,
+                "balls": 29,
+                "sr": 93.1,
+                "fours": 4,
+                "sixes": 0,
+                "win_contribution_percent": 15.9,
+                "score": 44.37
+            },
+            {
+                "player": "BJ McMullen",
+                "team": "Scotland",
+                "runs": 25,
+                "balls": 20,
+                "sr": 125.0,
+                "fours": 1,
+                "sixes": 1,
+                "win_contribution_percent": 14.7,
+                "score": 48.32
+            }
+        ],
+        "Career_vs_Match_Bowling": [],
+        "Bowling_Standouts": {
+            "Economical_Spells": [],
+            "Expensive_Spells": [],
+            "High_Economy_No_Baseline": [
+                {
+                    "player": "MRJ Watt",
+                    "team": "Scotland",
+                    "overs": 3.0,
+                    "runs": 35,
+                    "wickets": 0,
+                    "econ": 11.67,
+                    "score": 14.55,
+                    "bowling_baseline": {
+                        "career_wickets": 0,
+                        "career_economy": 0.0,
+                        "career_sr": 0.0,
+                        "career_avg": 0.0,
+                        "best_bowling": "N/A",
+                        "matches": 0,
+                        "source": "none",
+                        "baseline_available": false
+                    }
+                },
+                {
+                    "player": "S Lamichhane",
+                    "team": "Nepal",
+                    "overs": 3.0,
+                    "runs": 33,
+                    "wickets": 0,
+                    "econ": 11.0,
+                    "score": 15.44,
+                    "bowling_baseline": {
+                        "career_wickets": 0,
+                        "career_economy": 0.0,
+                        "career_sr": 0.0,
+                        "career_avg": 0.0,
+                        "best_bowling": "N/A",
+                        "matches": 0,
+                        "source": "none",
+                        "baseline_available": false
+                    }
+                }
+            ]
+        },
+        "Significant_Collapses": []
+    },
+    "Innings_Metrics": [
+        {
+            "innings": 1,
+            "team": "Scotland",
+            "total_runs": 170,
+            "total_wickets": 7,
+            "balls_faced": 120,
+            "overs_faced": 20.0,
+            "phase_analysis": {
+                "Powerplay": {
+                    "runs": 52,
+                    "wkts": 0,
+                    "rr": 8.67
+                },
+                "Middle": {
+                    "runs": 79,
+                    "wkts": 1,
+                    "rr": 8.78
+                },
+                "Death": {
+                    "runs": 39,
+                    "wkts": 6,
+                    "rr": 7.8
+                }
+            }
+        },
+        {
+            "innings": 2,
+            "team": "Nepal",
+            "total_runs": 171,
+            "total_wickets": 3,
+            "balls_faced": 116,
+            "overs_faced": 19.2,
+            "phase_analysis": {
+                "Powerplay": {
+                    "runs": 56,
+                    "wkts": 0,
+                    "rr": 9.33
+                },
+                "Middle": {
+                    "runs": 56,
+                    "wkts": 3,
+                    "rr": 6.22
+                },
+                "Death": {
+                    "runs": 59,
+                    "wkts": 0,
+                    "rr": 13.62
+                }
+            },
+            "pressure_index": 69.0,
+            "target": 171
+        }
+    ],
+    "Detailed_Impact_Analysis": [
+        {
+            "player": "Sompal Kami",
+            "team": "Nepal",
+            "overs": 4.0,
+            "runs": 26,
+            "wickets": 3,
+            "econ": 6.5,
+            "score": 116.12,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-26r-3w"
+        },
+        {
+            "player": "MA Leask",
+            "team": "Scotland",
+            "overs": 4.0,
+            "runs": 30,
+            "wickets": 3,
+            "econ": 7.5,
+            "score": 112.64,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-30r-3w"
+        },
+        {
+            "player": "MA Jones",
+            "team": "Scotland",
+            "runs": 71,
+            "balls": 46,
+            "sr": 154.35,
+            "fours": 8,
+            "sixes": 3,
+            "win_contribution_percent": 41.8,
+            "score": 99.79,
+            "role": "batting",
+            "match_stats": "71(46)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "DS Airee",
+            "team": "Nepal",
+            "runs": 50,
+            "balls": 23,
+            "sr": 217.39,
+            "fours": 4,
+            "sixes": 3,
+            "win_contribution_percent": 29.2,
+            "score": 90.55,
+            "role": "batting",
+            "match_stats": "50(23)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "NK Yadav",
+            "team": "Nepal",
+            "overs": 4.0,
+            "runs": 39,
+            "wickets": 2,
+            "econ": 9.75,
+            "score": 77.41,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-39r-2w"
+        },
+        {
+            "player": "K Bhurtel",
+            "team": "Nepal",
+            "runs": 43,
+            "balls": 35,
+            "sr": 122.86,
+            "fours": 1,
+            "sixes": 4,
+            "win_contribution_percent": 25.1,
+            "score": 65.92,
+            "role": "batting",
+            "match_stats": "43(35)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "RK Paudel",
+            "team": "Nepal",
+            "overs": 2.0,
+            "runs": 12,
+            "wickets": 1,
+            "econ": 6.0,
+            "score": 58.3,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "2.0o-12r-1w"
+        },
+        {
+            "player": "MRJ Watt",
+            "team": "Scotland",
+            "runs": 10,
+            "balls": 4,
+            "sr": 250.0,
+            "fours": 0,
+            "sixes": 1,
+            "win_contribution_percent": 5.9,
+            "score": 56.63,
+            "role": "batting",
+            "match_stats": "10(4)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "Aasif Sheikh",
+            "team": "Nepal",
+            "runs": 33,
+            "balls": 28,
+            "sr": 117.86,
+            "fours": 0,
+            "sixes": 2,
+            "win_contribution_percent": 19.3,
+            "score": 54.98,
+            "role": "batting",
+            "match_stats": "33(28)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "Gulsan Jha",
+            "team": "Nepal",
+            "runs": 24,
+            "balls": 18,
+            "sr": 133.33,
+            "fours": 1,
+            "sixes": 2,
+            "win_contribution_percent": 14.0,
+            "score": 48.87,
+            "role": "batting",
+            "match_stats": "24(18)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        }
+    ],
+    "Tactical_Post_Match_Analysis": [
+        "Nepal's victory was anchored by DS Airee, who contributed 29.2% of the team's runs.",
+        "Defensive pressure was sustained by Sompal Kami, finishing with an impact score of 116.12.",
+        "High-scoring finish by Nepal in Death Overs (RR: 13.62) shifted match momentum."
+    ]
+}

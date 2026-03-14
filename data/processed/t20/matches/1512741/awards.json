@@ -1,0 +1,92 @@
+{
+    "match_id": "1512741",
+    "winner": "England",
+    "loser": "Scotland",
+    "awards": {
+        "player_of_the_match": {
+            "name": "T Banton",
+            "team": "England",
+            "impact_score": 119.9,
+            "breakdown": {
+                "batting": 109.0,
+                "bowling": 0.0,
+                "fielding": 0.0,
+                "pressure_multiplier": 1.1
+            },
+            "key_stats": {
+                "batting": "63(42) SR:150.0"
+            }
+        },
+        "best_batter": {
+            "name": "T Banton",
+            "team": "England",
+            "batting_impact": 109.0,
+            "stats": {
+                "runs": 63,
+                "balls": 42,
+                "sr": 150.0,
+                "fours": 4,
+                "sixes": 3
+            }
+        },
+        "best_bowler": {
+            "name": "AU Rashid",
+            "team": "England",
+            "bowling_impact": 75,
+            "stats": {
+                "overs": 4.0,
+                "wickets": 3,
+                "econ": 9.0
+            }
+        },
+        "game_changer": {
+            "name": "T Banton",
+            "team": "England",
+            "reason": "SR 150.0 with 3 sixes",
+            "key_stats": {
+                "batting": "63(42) SR:150.0"
+            }
+        },
+        "pressure_performer": {
+            "name": "T Banton",
+            "team": "England",
+            "pressure_multiplier": 1.1,
+            "reason": "Chasing team batter under pressure | Attacking SR 150.0 under pressure",
+            "key_stats": {
+                "batting": "63(42) SR:150.0"
+            }
+        },
+        "emerging_player": {
+            "name": "T Banton",
+            "team": "England",
+            "reason": "Outperformed team average by 2.07x",
+            "key_stats": {
+                "batting": "63(42) SR:150.0"
+            }
+        },
+        "fielding_impact": {
+            "name": "AU Rashid",
+            "team": "England",
+            "fielding_proxy_score": 16,
+            "methodology": "Proxy-based: catch attribution (65% T20 wickets are catches) + dot ball pressure bonus + economy-implied fielding support",
+            "reason": "Estimated 2 caught dismissals from 3 wickets",
+            "stats": {
+                "overs": 4.0,
+                "wickets": 3,
+                "econ": 9.0
+            }
+        },
+        "all_rounder_impact": {
+            "name": "SM Curran",
+            "team": "England",
+            "all_rounder_score": 82.0,
+            "stats": {
+                "runs": 28,
+                "sr": 140.0,
+                "overs": 3.4,
+                "wickets": 1,
+                "econ": 9.0
+            }
+        }
+    }
+}

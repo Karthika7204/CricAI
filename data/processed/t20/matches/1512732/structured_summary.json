@@ -1,0 +1,352 @@
+{
+    "match_context": {
+        "match_id": "1512732",
+        "date": "2026-02-11",
+        "tournament": "2025/26",
+        "venue": "R Premadasa Stadium, Colombo",
+        "stage": "ICC Men's T20 World Cup",
+        "Teams": {
+            "Australia": {
+                "captain": "MP Stoinis",
+                "playing_xi_count": 11
+            },
+            "Ireland": {
+                "captain": "PR Stirling",
+                "playing_xi_count": 11
+            }
+        }
+    },
+    "Match_Result": {
+        "summary": "Australia won by 67 runs",
+        "winner": "Australia",
+        "margin": 67,
+        "margin_type": "runs"
+    },
+    "Scorecard_Highlights": {
+        "Key_Support_Performers": [
+            {
+                "player": "L Tucker",
+                "team": "Ireland",
+                "runs": 24,
+                "balls": 27,
+                "sr": 88.89,
+                "fours": 1,
+                "sixes": 1,
+                "win_contribution_percent": 20.9,
+                "score": 41.22
+            }
+        ],
+        "Career_vs_Match_Bowling": [],
+        "Bowling_Standouts": {
+            "Economical_Spells": [],
+            "Expensive_Spells": [],
+            "High_Economy_No_Baseline": [
+                {
+                    "player": "BJ McCarthy",
+                    "team": "Ireland",
+                    "overs": 3.0,
+                    "runs": 37,
+                    "wickets": 0,
+                    "econ": 12.33,
+                    "score": 12.9,
+                    "bowling_baseline": {
+                        "career_wickets": 0,
+                        "career_economy": 0.0,
+                        "career_sr": 0.0,
+                        "career_avg": 0.0,
+                        "best_bowling": "N/A",
+                        "matches": 0,
+                        "source": "none",
+                        "baseline_available": false
+                    }
+                },
+                {
+                    "player": "MR Adair",
+                    "team": "Ireland",
+                    "overs": 4.0,
+                    "runs": 44,
+                    "wickets": 2,
+                    "econ": 11.0,
+                    "score": 74.46,
+                    "bowling_baseline": {
+                        "career_wickets": 0,
+                        "career_economy": 0.0,
+                        "career_sr": 0.0,
+                        "career_avg": 0.0,
+                        "best_bowling": "N/A",
+                        "matches": 0,
+                        "source": "none",
+                        "baseline_available": false
+                    }
+                }
+            ]
+        },
+        "Significant_Collapses": []
+    },
+    "Innings_Metrics": [
+        {
+            "innings": 1,
+            "team": "Australia",
+            "total_runs": 182,
+            "total_wickets": 6,
+            "balls_faced": 120,
+            "overs_faced": 20.0,
+            "phase_analysis": {
+                "Powerplay": {
+                    "runs": 64,
+                    "wkts": 2,
+                    "rr": 10.67
+                },
+                "Middle": {
+                    "runs": 65,
+                    "wkts": 2,
+                    "rr": 7.22
+                },
+                "Death": {
+                    "runs": 53,
+                    "wkts": 2,
+                    "rr": 10.6
+                }
+            }
+        },
+        {
+            "innings": 2,
+            "team": "Ireland",
+            "total_runs": 115,
+            "total_wickets": 9,
+            "balls_faced": 101,
+            "overs_faced": 16.5,
+            "phase_analysis": {
+                "Powerplay": {
+                    "runs": 40,
+                    "wkts": 4,
+                    "rr": 6.67
+                },
+                "Middle": {
+                    "runs": 64,
+                    "wkts": 2,
+                    "rr": 7.11
+                },
+                "Death": {
+                    "runs": 11,
+                    "wkts": 3,
+                    "rr": 6.0
+                }
+            },
+            "pressure_index": 95.0,
+            "target": 183
+        }
+    ],
+    "Detailed_Impact_Analysis": [
+        {
+            "player": "NT Ellis",
+            "team": "Australia",
+            "overs": 3.5,
+            "runs": 13,
+            "wickets": 4,
+            "econ": 3.39,
+            "score": 150.0,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "3.5o-13r-4w"
+        },
+        {
+            "player": "A Zampa",
+            "team": "Australia",
+            "overs": 4.0,
+            "runs": 25,
+            "wickets": 4,
+            "econ": 6.25,
+            "score": 145.46,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-25r-4w"
+        },
+        {
+            "player": "JP Inglis",
+            "team": "Australia",
+            "runs": 37,
+            "balls": 18,
+            "sr": 205.56,
+            "fours": 6,
+            "sixes": 1,
+            "win_contribution_percent": 20.3,
+            "score": 76.83,
+            "role": "batting",
+            "match_stats": "37(18)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "MR Adair",
+            "team": "Ireland",
+            "overs": 4.0,
+            "runs": 44,
+            "wickets": 2,
+            "econ": 11.0,
+            "score": 74.46,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-44r-2w"
+        },
+        {
+            "player": "MP Stoinis",
+            "team": "Australia",
+            "runs": 45,
+            "balls": 30,
+            "sr": 150.0,
+            "fours": 2,
+            "sixes": 1,
+            "win_contribution_percent": 24.7,
+            "score": 74.07,
+            "role": "batting",
+            "match_stats": "45(30)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "GH Dockrell",
+            "team": "Ireland",
+            "runs": 41,
+            "balls": 29,
+            "sr": 141.38,
+            "fours": 3,
+            "sixes": 2,
+            "win_contribution_percent": 35.7,
+            "score": 68.4,
+            "role": "batting",
+            "match_stats": "41(29)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "MT Renshaw",
+            "team": "Australia",
+            "runs": 37,
+            "balls": 33,
+            "sr": 112.12,
+            "fours": 2,
+            "sixes": 0,
+            "win_contribution_percent": 20.3,
+            "score": 58.73,
+            "role": "batting",
+            "match_stats": "37(33)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "C Green",
+            "team": "Australia",
+            "runs": 21,
+            "balls": 11,
+            "sr": 190.91,
+            "fours": 1,
+            "sixes": 2,
+            "win_contribution_percent": 11.5,
+            "score": 57.99,
+            "role": "batting",
+            "match_stats": "21(11)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "MP Kuhnemann",
+            "team": "Australia",
+            "overs": 4.0,
+            "runs": 29,
+            "wickets": 1,
+            "econ": 7.25,
+            "score": 51.95,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-29r-1w"
+        },
+        {
+            "player": "MR Adair",
+            "team": "Ireland",
+            "runs": 12,
+            "balls": 6,
+            "sr": 200.0,
+            "fours": 2,
+            "sixes": 0,
+            "win_contribution_percent": 10.4,
+            "score": 50.75,
+            "role": "batting",
+            "match_stats": "12(6)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        }
+    ],
+    "Tactical_Post_Match_Analysis": [
+        "Australia's victory was anchored by JP Inglis, who contributed 20.3% of the team's runs.",
+        "Defensive pressure was sustained by NT Ellis, finishing with an impact score of 150.0.",
+        "Ireland struggled under extreme chase pressure (Index: 95.0), leading to a late-innings collapse.",
+        "Ireland lost 4 wickets in Powerplay, failing to build a stable foundation."
+    ]
+}

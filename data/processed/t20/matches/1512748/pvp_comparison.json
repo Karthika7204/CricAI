@@ -1,0 +1,1490 @@
+{
+  "match_id": "1512748",
+  "team_a": "Australia",
+  "team_b": "Sri Lanka",
+  "matchups": [
+    {
+      "bat": "MP Stoinis",
+      "bat_t": "Australia",
+      "bowl": "PVD Chameera",
+      "bowl_t": "Sri Lanka",
+      "v": "bowler",
+      "h2h": {
+        "balls": 30,
+        "runs": 35,
+        "dismissals": 3,
+        "strike_rate": 116.67
+      },
+      "vs_t": {
+        "runs": 220,
+        "balls": 125,
+        "dismissals": 6,
+        "average": 36.67,
+        "strike_rate": 176.0
+      },
+      "b_f": [
+        4,
+        6,
+        45
+      ],
+      "w_f": [
+        3,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "JP Inglis",
+      "bat_t": "Australia",
+      "bowl": "PVD Chameera",
+      "bowl_t": "Sri Lanka",
+      "v": "bowler",
+      "h2h": {
+        "balls": 25,
+        "runs": 35,
+        "dismissals": 3,
+        "strike_rate": 140.0
+      },
+      "vs_t": {
+        "runs": 182,
+        "balls": 134,
+        "dismissals": 5,
+        "average": 36.4,
+        "strike_rate": 135.82
+      },
+      "b_f": [
+        12,
+        27,
+        8
+      ],
+      "w_f": [
+        3,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "P Nissanka",
+      "bat_t": "Sri Lanka",
+      "bowl": "A Zampa",
+      "bowl_t": "Australia",
+      "v": "bowler",
+      "h2h": {
+        "balls": 38,
+        "runs": 44,
+        "dismissals": 2,
+        "strike_rate": 115.79
+      },
+      "vs_t": {
+        "runs": 400,
+        "balls": 342,
+        "dismissals": 9,
+        "average": 44.44,
+        "strike_rate": 116.96
+      },
+      "b_f": [
+        0,
+        9,
+        62
+      ],
+      "w_f": [
+        4,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "P Nissanka",
+      "bat_t": "Sri Lanka",
+      "bowl": "MP Stoinis",
+      "bowl_t": "Australia",
+      "v": "bowler",
+      "h2h": {
+        "balls": 38,
+        "runs": 53,
+        "dismissals": 2,
+        "strike_rate": 139.47
+      },
+      "vs_t": {
+        "runs": 400,
+        "balls": 342,
+        "dismissals": 9,
+        "average": 44.44,
+        "strike_rate": 116.96
+      },
+      "b_f": [
+        0,
+        9,
+        62
+      ],
+      "w_f": [
+        1,
+        2,
+        1
+      ]
+    },
+    {
+      "bat": "MD Shanaka",
+      "bat_t": "Sri Lanka",
+      "bowl": "A Zampa",
+      "bowl_t": "Australia",
+      "v": "bowler",
+      "h2h": {
+        "balls": 32,
+        "runs": 29,
+        "dismissals": 2,
+        "strike_rate": 90.62
+      },
+      "vs_t": {
+        "runs": 218,
+        "balls": 208,
+        "dismissals": 10,
+        "average": 21.8,
+        "strike_rate": 104.81
+      },
+      "b_f": [
+        3,
+        30,
+        6
+      ],
+      "w_f": [
+        4,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "GJ Maxwell",
+      "bat_t": "Australia",
+      "bowl": "M Theekshana",
+      "bowl_t": "Sri Lanka",
+      "v": "bowler",
+      "h2h": {
+        "balls": 23,
+        "runs": 38,
+        "dismissals": 2,
+        "strike_rate": 165.22
+      },
+      "vs_t": {
+        "runs": 505,
+        "balls": 298,
+        "dismissals": 11,
+        "average": 45.91,
+        "strike_rate": 169.46
+      },
+      "b_f": [
+        22,
+        31,
+        9
+      ],
+      "w_f": [
+        3,
+        2,
+        0
+      ]
+    },
+    {
+      "bat": "MDKJ Perera",
+      "bat_t": "Sri Lanka",
+      "bowl": "GJ Maxwell",
+      "bowl_t": "Australia",
+      "v": "bowler",
+      "h2h": {
+        "balls": 11,
+        "runs": 11,
+        "dismissals": 2,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 210,
+        "balls": 177,
+        "dismissals": 9,
+        "average": 23.33,
+        "strike_rate": 118.64
+      },
+      "b_f": [
+        22,
+        1
+      ],
+      "w_f": [
+        2,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "BKG Mendis",
+      "bat_t": "Sri Lanka",
+      "bowl": "A Zampa",
+      "bowl_t": "Australia",
+      "v": "batsman",
+      "h2h": {
+        "balls": 31,
+        "runs": 43,
+        "dismissals": 1,
+        "strike_rate": 138.71
+      },
+      "vs_t": {
+        "runs": 259,
+        "balls": 250,
+        "dismissals": 12,
+        "average": 21.58,
+        "strike_rate": 103.6
+      },
+      "b_f": [
+        11,
+        4,
+        14
+      ],
+      "w_f": [
+        4,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "P Nissanka",
+      "bat_t": "Sri Lanka",
+      "bowl": "GJ Maxwell",
+      "bowl_t": "Australia",
+      "v": "bowler",
+      "h2h": {
+        "balls": 25,
+        "runs": 31,
+        "dismissals": 1,
+        "strike_rate": 124.0
+      },
+      "vs_t": {
+        "runs": 400,
+        "balls": 342,
+        "dismissals": 9,
+        "average": 44.44,
+        "strike_rate": 116.96
+      },
+      "b_f": [
+        0,
+        9,
+        62
+      ],
+      "w_f": [
+        2,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "BKG Mendis",
+      "bat_t": "Sri Lanka",
+      "bowl": "MP Stoinis",
+      "bowl_t": "Australia",
+      "v": "bowler",
+      "h2h": {
+        "balls": 15,
+        "runs": 16,
+        "dismissals": 1,
+        "strike_rate": 106.67
+      },
+      "vs_t": {
+        "runs": 259,
+        "balls": 250,
+        "dismissals": 12,
+        "average": 21.58,
+        "strike_rate": 103.6
+      },
+      "b_f": [
+        11,
+        4,
+        14
+      ],
+      "w_f": [
+        1,
+        2,
+        1
+      ]
+    },
+    {
+      "bat": "MDKJ Perera",
+      "bat_t": "Sri Lanka",
+      "bowl": "MP Stoinis",
+      "bowl_t": "Australia",
+      "v": "batsman",
+      "h2h": {
+        "balls": 9,
+        "runs": 13,
+        "dismissals": 1,
+        "strike_rate": 144.44
+      },
+      "vs_t": {
+        "runs": 210,
+        "balls": 177,
+        "dismissals": 9,
+        "average": 23.33,
+        "strike_rate": 118.64
+      },
+      "b_f": [
+        22,
+        1
+      ],
+      "w_f": [
+        1,
+        2,
+        1
+      ]
+    },
+    {
+      "bat": "TM Head",
+      "bat_t": "Australia",
+      "bowl": "MADI Hemantha",
+      "bowl_t": "Sri Lanka",
+      "v": "batsman",
+      "h2h": {
+        "balls": 8,
+        "runs": 20,
+        "dismissals": 1,
+        "strike_rate": 250.0
+      },
+      "vs_t": {
+        "runs": 175,
+        "balls": 104,
+        "dismissals": 5,
+        "average": 35.0,
+        "strike_rate": 168.27
+      },
+      "b_f": [
+        32,
+        56,
+        17
+      ],
+      "w_f": [
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "bat": "MD Shanaka",
+      "bat_t": "Sri Lanka",
+      "bowl": "GJ Maxwell",
+      "bowl_t": "Australia",
+      "v": "bowler",
+      "h2h": {
+        "balls": 7,
+        "runs": 4,
+        "dismissals": 1,
+        "strike_rate": 57.14
+      },
+      "vs_t": {
+        "runs": 218,
+        "balls": 208,
+        "dismissals": 10,
+        "average": 21.8,
+        "strike_rate": 104.81
+      },
+      "b_f": [
+        3,
+        30,
+        6
+      ],
+      "w_f": [
+        2,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "MR Marsh",
+      "bat_t": "Australia",
+      "bowl": "MADI Hemantha",
+      "bowl_t": "Sri Lanka",
+      "v": "bowler",
+      "h2h": {
+        "balls": 4,
+        "runs": 6,
+        "dismissals": 1,
+        "strike_rate": 150.0
+      },
+      "vs_t": {
+        "runs": 82,
+        "balls": 52,
+        "dismissals": 3,
+        "average": 27.33,
+        "strike_rate": 157.69
+      },
+      "b_f": [
+        64,
+        54
+      ],
+      "w_f": [
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "bat": "C Green",
+      "bat_t": "Australia",
+      "bowl": "DN Wellalage",
+      "bowl_t": "Sri Lanka",
+      "v": "neutral",
+      "h2h": {
+        "balls": 4,
+        "runs": 2,
+        "dismissals": 1,
+        "strike_rate": 50.0
+      },
+      "vs_t": {
+        "runs": 3,
+        "balls": 7,
+        "dismissals": 1,
+        "average": 3.0,
+        "strike_rate": 42.86
+      },
+      "b_f": [
+        3,
+        0,
+        21
+      ],
+      "w_f": [
+        1,
+        3,
+        1
+      ]
+    },
+    {
+      "bat": "C Connolly",
+      "bat_t": "Australia",
+      "bowl": "M Theekshana",
+      "bowl_t": "Sri Lanka",
+      "v": "neutral",
+      "h2h": {
+        "balls": 3,
+        "runs": 2,
+        "dismissals": 1,
+        "strike_rate": 66.67
+      },
+      "vs_t": {
+        "runs": 3,
+        "balls": 4,
+        "dismissals": 1,
+        "average": 3.0,
+        "strike_rate": 75.0
+      },
+      "b_f": [
+        3,
+        11
+      ],
+      "w_f": [
+        3,
+        2,
+        0
+      ]
+    },
+    {
+      "bat": "GJ Maxwell",
+      "bat_t": "Australia",
+      "bowl": "MD Shanaka",
+      "bowl_t": "Sri Lanka",
+      "v": "batsman",
+      "h2h": {
+        "balls": 2,
+        "runs": 1,
+        "dismissals": 1,
+        "strike_rate": 50.0
+      },
+      "vs_t": {
+        "runs": 505,
+        "balls": 298,
+        "dismissals": 11,
+        "average": 45.91,
+        "strike_rate": 169.46
+      },
+      "b_f": [
+        22,
+        31,
+        9
+      ],
+      "w_f": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "GJ Maxwell",
+      "bat_t": "Australia",
+      "bowl": "MADI Hemantha",
+      "bowl_t": "Sri Lanka",
+      "v": "batsman",
+      "h2h": {
+        "balls": 1,
+        "runs": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 505,
+        "balls": 298,
+        "dismissals": 11,
+        "average": 45.91,
+        "strike_rate": 169.46
+      },
+      "b_f": [
+        22,
+        31,
+        9
+      ],
+      "w_f": [
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "bat": "GJ Maxwell",
+      "bat_t": "Australia",
+      "bowl": "PVD Chameera",
+      "bowl_t": "Sri Lanka",
+      "v": "batsman",
+      "h2h": {
+        "balls": 31,
+        "runs": 28,
+        "dismissals": 0,
+        "strike_rate": 90.32
+      },
+      "vs_t": {
+        "runs": 505,
+        "balls": 298,
+        "dismissals": 11,
+        "average": 45.91,
+        "strike_rate": 169.46
+      },
+      "b_f": [
+        22,
+        31,
+        9
+      ],
+      "w_f": [
+        3,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "TH David",
+      "bat_t": "Australia",
+      "bowl": "PHKD Mendis",
+      "bowl_t": "Sri Lanka",
+      "v": "neutral",
+      "h2h": {
+        "balls": 1,
+        "runs": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 6,
+        "balls": 6,
+        "dismissals": 1,
+        "average": 6.0,
+        "strike_rate": 100.0
+      },
+      "b_f": [
+        6,
+        0
+      ],
+      "w_f": [
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "MDKJ Perera",
+      "bat_t": "Sri Lanka",
+      "bowl": "A Zampa",
+      "bowl_t": "Australia",
+      "v": "bowler",
+      "h2h": {
+        "balls": 28,
+        "runs": 27,
+        "dismissals": 0,
+        "strike_rate": 96.43
+      },
+      "vs_t": {
+        "runs": 210,
+        "balls": 177,
+        "dismissals": 9,
+        "average": 23.33,
+        "strike_rate": 118.64
+      },
+      "b_f": [
+        22,
+        1
+      ],
+      "w_f": [
+        4,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "MP Stoinis",
+      "bat_t": "Australia",
+      "bowl": "M Theekshana",
+      "bowl_t": "Sri Lanka",
+      "v": "batsman",
+      "h2h": {
+        "balls": 15,
+        "runs": 36,
+        "dismissals": 0,
+        "strike_rate": 240.0
+      },
+      "vs_t": {
+        "runs": 220,
+        "balls": 125,
+        "dismissals": 6,
+        "average": 36.67,
+        "strike_rate": 176.0
+      },
+      "b_f": [
+        4,
+        6,
+        45
+      ],
+      "w_f": [
+        3,
+        2,
+        0
+      ]
+    },
+    {
+      "bat": "BKG Mendis",
+      "bat_t": "Sri Lanka",
+      "bowl": "GJ Maxwell",
+      "bowl_t": "Australia",
+      "v": "batsman",
+      "h2h": {
+        "balls": 15,
+        "runs": 21,
+        "dismissals": 0,
+        "strike_rate": 140.0
+      },
+      "vs_t": {
+        "runs": 259,
+        "balls": 250,
+        "dismissals": 12,
+        "average": 21.58,
+        "strike_rate": 103.6
+      },
+      "b_f": [
+        11,
+        4,
+        14
+      ],
+      "w_f": [
+        2,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "MR Marsh",
+      "bat_t": "Australia",
+      "bowl": "M Theekshana",
+      "bowl_t": "Sri Lanka",
+      "v": "batsman",
+      "h2h": {
+        "balls": 14,
+        "runs": 23,
+        "dismissals": 0,
+        "strike_rate": 164.29
+      },
+      "vs_t": {
+        "runs": 82,
+        "balls": 52,
+        "dismissals": 3,
+        "average": 27.33,
+        "strike_rate": 157.69
+      },
+      "b_f": [
+        64,
+        54
+      ],
+      "w_f": [
+        3,
+        2,
+        0
+      ]
+    },
+    {
+      "bat": "JP Inglis",
+      "bat_t": "Australia",
+      "bowl": "M Theekshana",
+      "bowl_t": "Sri Lanka",
+      "v": "batsman",
+      "h2h": {
+        "balls": 14,
+        "runs": 17,
+        "dismissals": 0,
+        "strike_rate": 121.43
+      },
+      "vs_t": {
+        "runs": 182,
+        "balls": 134,
+        "dismissals": 5,
+        "average": 36.4,
+        "strike_rate": 135.82
+      },
+      "b_f": [
+        12,
+        27,
+        8
+      ],
+      "w_f": [
+        3,
+        2,
+        0
+      ]
+    },
+    {
+      "bat": "P Nissanka",
+      "bat_t": "Sri Lanka",
+      "bowl": "XC Bartlett",
+      "bowl_t": "Australia",
+      "v": "batsman",
+      "h2h": {
+        "balls": 11,
+        "runs": 16,
+        "dismissals": 0,
+        "strike_rate": 145.45
+      },
+      "vs_t": {
+        "runs": 400,
+        "balls": 342,
+        "dismissals": 9,
+        "average": 44.44,
+        "strike_rate": 116.96
+      },
+      "b_f": [
+        0,
+        9,
+        62
+      ],
+      "w_f": [
+        2,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "BKG Mendis",
+      "bat_t": "Sri Lanka",
+      "bowl": "C Connolly",
+      "bowl_t": "Australia",
+      "v": "bowler",
+      "h2h": {
+        "balls": 10,
+        "runs": 12,
+        "dismissals": 0,
+        "strike_rate": 120.0
+      },
+      "vs_t": {
+        "runs": 259,
+        "balls": 250,
+        "dismissals": 12,
+        "average": 21.58,
+        "strike_rate": 103.6
+      },
+      "b_f": [
+        11,
+        4,
+        14
+      ],
+      "w_f": [
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "P Nissanka",
+      "bat_t": "Sri Lanka",
+      "bowl": "NT Ellis",
+      "bowl_t": "Australia",
+      "v": "batsman",
+      "h2h": {
+        "balls": 10,
+        "runs": 19,
+        "dismissals": 0,
+        "strike_rate": 190.0
+      },
+      "vs_t": {
+        "runs": 400,
+        "balls": 342,
+        "dismissals": 9,
+        "average": 44.44,
+        "strike_rate": 116.96
+      },
+      "b_f": [
+        0,
+        9,
+        62
+      ],
+      "w_f": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "TM Head",
+      "bat_t": "Australia",
+      "bowl": "MD Shanaka",
+      "bowl_t": "Sri Lanka",
+      "v": "batsman",
+      "h2h": {
+        "balls": 9,
+        "runs": 19,
+        "dismissals": 0,
+        "strike_rate": 211.11
+      },
+      "vs_t": {
+        "runs": 175,
+        "balls": 104,
+        "dismissals": 5,
+        "average": 35.0,
+        "strike_rate": 168.27
+      },
+      "b_f": [
+        32,
+        56,
+        17
+      ],
+      "w_f": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "TM Head",
+      "bat_t": "Australia",
+      "bowl": "M Theekshana",
+      "bowl_t": "Sri Lanka",
+      "v": "batsman",
+      "h2h": {
+        "balls": 9,
+        "runs": 14,
+        "dismissals": 0,
+        "strike_rate": 155.56
+      },
+      "vs_t": {
+        "runs": 175,
+        "balls": 104,
+        "dismissals": 5,
+        "average": 35.0,
+        "strike_rate": 168.27
+      },
+      "b_f": [
+        32,
+        56,
+        17
+      ],
+      "w_f": [
+        3,
+        2,
+        0
+      ]
+    },
+    {
+      "bat": "BKG Mendis",
+      "bat_t": "Sri Lanka",
+      "bowl": "NT Ellis",
+      "bowl_t": "Australia",
+      "v": "bowler",
+      "h2h": {
+        "balls": 9,
+        "runs": 10,
+        "dismissals": 0,
+        "strike_rate": 111.11
+      },
+      "vs_t": {
+        "runs": 259,
+        "balls": 250,
+        "dismissals": 12,
+        "average": 21.58,
+        "strike_rate": 103.6
+      },
+      "b_f": [
+        11,
+        4,
+        14
+      ],
+      "w_f": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "MD Shanaka",
+      "bat_t": "Sri Lanka",
+      "bowl": "MP Stoinis",
+      "bowl_t": "Australia",
+      "v": "bowler",
+      "h2h": {
+        "balls": 9,
+        "runs": 5,
+        "dismissals": 0,
+        "strike_rate": 55.56
+      },
+      "vs_t": {
+        "runs": 218,
+        "balls": 208,
+        "dismissals": 10,
+        "average": 21.8,
+        "strike_rate": 104.81
+      },
+      "b_f": [
+        3,
+        30,
+        6
+      ],
+      "w_f": [
+        1,
+        2,
+        1
+      ]
+    },
+    {
+      "bat": "MR Marsh",
+      "bat_t": "Australia",
+      "bowl": "DN Wellalage",
+      "bowl_t": "Sri Lanka",
+      "v": "batsman",
+      "h2h": {
+        "balls": 8,
+        "runs": 14,
+        "dismissals": 0,
+        "strike_rate": 175.0
+      },
+      "vs_t": {
+        "runs": 82,
+        "balls": 52,
+        "dismissals": 3,
+        "average": 27.33,
+        "strike_rate": 157.69
+      },
+      "b_f": [
+        64,
+        54
+      ],
+      "w_f": [
+        1,
+        3,
+        1
+      ]
+    },
+    {
+      "bat": "MP Stoinis",
+      "bat_t": "Australia",
+      "bowl": "MD Shanaka",
+      "bowl_t": "Sri Lanka",
+      "v": "batsman",
+      "h2h": {
+        "balls": 8,
+        "runs": 19,
+        "dismissals": 0,
+        "strike_rate": 237.5
+      },
+      "vs_t": {
+        "runs": 220,
+        "balls": 125,
+        "dismissals": 6,
+        "average": 36.67,
+        "strike_rate": 176.0
+      },
+      "b_f": [
+        4,
+        6,
+        45
+      ],
+      "w_f": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "P Nissanka",
+      "bat_t": "Sri Lanka",
+      "bowl": "C Connolly",
+      "bowl_t": "Australia",
+      "v": "batsman",
+      "h2h": {
+        "balls": 8,
+        "runs": 15,
+        "dismissals": 0,
+        "strike_rate": 187.5
+      },
+      "vs_t": {
+        "runs": 400,
+        "balls": 342,
+        "dismissals": 9,
+        "average": 44.44,
+        "strike_rate": 116.96
+      },
+      "b_f": [
+        0,
+        9,
+        62
+      ],
+      "w_f": [
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "GJ Maxwell",
+      "bat_t": "Australia",
+      "bowl": "PHKD Mendis",
+      "bowl_t": "Sri Lanka",
+      "v": "batsman",
+      "h2h": {
+        "balls": 6,
+        "runs": 15,
+        "dismissals": 0,
+        "strike_rate": 250.0
+      },
+      "vs_t": {
+        "runs": 505,
+        "balls": 298,
+        "dismissals": 11,
+        "average": 45.91,
+        "strike_rate": 169.46
+      },
+      "b_f": [
+        22,
+        31,
+        9
+      ],
+      "w_f": [
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "JP Inglis",
+      "bat_t": "Australia",
+      "bowl": "MADI Hemantha",
+      "bowl_t": "Sri Lanka",
+      "v": "batsman",
+      "h2h": {
+        "balls": 6,
+        "runs": 8,
+        "dismissals": 0,
+        "strike_rate": 133.33
+      },
+      "vs_t": {
+        "runs": 182,
+        "balls": 134,
+        "dismissals": 5,
+        "average": 36.4,
+        "strike_rate": 135.82
+      },
+      "b_f": [
+        12,
+        27,
+        8
+      ],
+      "w_f": [
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "bat": "P Rathnayake",
+      "bat_t": "Sri Lanka",
+      "bowl": "MP Stoinis",
+      "bowl_t": "Australia",
+      "v": "batsman",
+      "h2h": {
+        "balls": 6,
+        "runs": 13,
+        "dismissals": 0,
+        "strike_rate": 216.67
+      },
+      "vs_t": {
+        "runs": 28,
+        "balls": 15,
+        "dismissals": 0,
+        "average": 28.0,
+        "strike_rate": 186.67
+      },
+      "b_f": [
+        10,
+        0,
+        44
+      ],
+      "w_f": [
+        1,
+        2,
+        1
+      ]
+    },
+    {
+      "bat": "JP Inglis",
+      "bat_t": "Australia",
+      "bowl": "PHKD Mendis",
+      "bowl_t": "Sri Lanka",
+      "v": "batsman",
+      "h2h": {
+        "balls": 5,
+        "runs": 4,
+        "dismissals": 0,
+        "strike_rate": 80.0
+      },
+      "vs_t": {
+        "runs": 182,
+        "balls": 134,
+        "dismissals": 5,
+        "average": 36.4,
+        "strike_rate": 135.82
+      },
+      "b_f": [
+        12,
+        27,
+        8
+      ],
+      "w_f": [
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "JP Inglis",
+      "bat_t": "Australia",
+      "bowl": "DN Wellalage",
+      "bowl_t": "Sri Lanka",
+      "v": "batsman",
+      "h2h": {
+        "balls": 5,
+        "runs": 5,
+        "dismissals": 0,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 182,
+        "balls": 134,
+        "dismissals": 5,
+        "average": 36.4,
+        "strike_rate": 135.82
+      },
+      "b_f": [
+        12,
+        27,
+        8
+      ],
+      "w_f": [
+        1,
+        3,
+        1
+      ]
+    },
+    {
+      "bat": "JP Inglis",
+      "bat_t": "Australia",
+      "bowl": "MD Shanaka",
+      "bowl_t": "Sri Lanka",
+      "v": "batsman",
+      "h2h": {
+        "balls": 5,
+        "runs": 7,
+        "dismissals": 0,
+        "strike_rate": 140.0
+      },
+      "vs_t": {
+        "runs": 182,
+        "balls": 134,
+        "dismissals": 5,
+        "average": 36.4,
+        "strike_rate": 135.82
+      },
+      "b_f": [
+        12,
+        27,
+        8
+      ],
+      "w_f": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "P Rathnayake",
+      "bat_t": "Sri Lanka",
+      "bowl": "GJ Maxwell",
+      "bowl_t": "Australia",
+      "v": "neutral",
+      "h2h": {
+        "balls": 5,
+        "runs": 9,
+        "dismissals": 0,
+        "strike_rate": 180.0
+      },
+      "vs_t": {
+        "runs": 28,
+        "balls": 15,
+        "dismissals": 0,
+        "average": 28.0,
+        "strike_rate": 186.67
+      },
+      "b_f": [
+        10,
+        0,
+        44
+      ],
+      "w_f": [
+        2,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "MR Marsh",
+      "bat_t": "Australia",
+      "bowl": "PVD Chameera",
+      "bowl_t": "Sri Lanka",
+      "v": "bowler",
+      "h2h": {
+        "balls": 4,
+        "runs": 11,
+        "dismissals": 0,
+        "strike_rate": 275.0
+      },
+      "vs_t": {
+        "runs": 82,
+        "balls": 52,
+        "dismissals": 3,
+        "average": 27.33,
+        "strike_rate": 157.69
+      },
+      "b_f": [
+        64,
+        54
+      ],
+      "w_f": [
+        3,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "GJ Maxwell",
+      "bat_t": "Australia",
+      "bowl": "DN Wellalage",
+      "bowl_t": "Sri Lanka",
+      "v": "batsman",
+      "h2h": {
+        "balls": 4,
+        "runs": 3,
+        "dismissals": 0,
+        "strike_rate": 75.0
+      },
+      "vs_t": {
+        "runs": 505,
+        "balls": 298,
+        "dismissals": 11,
+        "average": 45.91,
+        "strike_rate": 169.46
+      },
+      "b_f": [
+        22,
+        31,
+        9
+      ],
+      "w_f": [
+        1,
+        3,
+        1
+      ]
+    },
+    {
+      "bat": "TH David",
+      "bat_t": "Australia",
+      "bowl": "DN Wellalage",
+      "bowl_t": "Sri Lanka",
+      "v": "neutral",
+      "h2h": {
+        "balls": 4,
+        "runs": 5,
+        "dismissals": 0,
+        "strike_rate": 125.0
+      },
+      "vs_t": {
+        "runs": 6,
+        "balls": 6,
+        "dismissals": 1,
+        "average": 6.0,
+        "strike_rate": 100.0
+      },
+      "b_f": [
+        6,
+        0
+      ],
+      "w_f": [
+        1,
+        3,
+        1
+      ]
+    },
+    {
+      "bat": "TM Head",
+      "bat_t": "Australia",
+      "bowl": "M Pathirana",
+      "bowl_t": "Sri Lanka",
+      "v": "batsman",
+      "h2h": {
+        "balls": 4,
+        "runs": 1,
+        "dismissals": 0,
+        "strike_rate": 25.0
+      },
+      "vs_t": {
+        "runs": 175,
+        "balls": 104,
+        "dismissals": 5,
+        "average": 35.0,
+        "strike_rate": 168.27
+      },
+      "b_f": [
+        32,
+        56,
+        17
+      ],
+      "w_f": [
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "bat": "C Green",
+      "bat_t": "Australia",
+      "bowl": "MADI Hemantha",
+      "bowl_t": "Sri Lanka",
+      "v": "neutral",
+      "h2h": {
+        "balls": 3,
+        "runs": 1,
+        "dismissals": 0,
+        "strike_rate": 33.33
+      },
+      "vs_t": {
+        "runs": 3,
+        "balls": 7,
+        "dismissals": 1,
+        "average": 3.0,
+        "strike_rate": 42.86
+      },
+      "b_f": [
+        3,
+        0,
+        21
+      ],
+      "w_f": [
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "bat": "A Zampa",
+      "bat_t": "Australia",
+      "bowl": "PVD Chameera",
+      "bowl_t": "Sri Lanka",
+      "v": "neutral",
+      "h2h": {
+        "balls": 3,
+        "runs": 3,
+        "dismissals": 0,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 3,
+        "balls": 7,
+        "dismissals": 0,
+        "average": 3.0,
+        "strike_rate": 42.86
+      },
+      "b_f": [
+        1,
+        2
+      ],
+      "w_f": [
+        3,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "XC Bartlett",
+      "bat_t": "Australia",
+      "bowl": "M Theekshana",
+      "bowl_t": "Sri Lanka",
+      "v": "neutral",
+      "h2h": {
+        "balls": 3,
+        "runs": 0,
+        "dismissals": 0,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 0,
+        "balls": 3,
+        "dismissals": 0,
+        "average": 0.0,
+        "strike_rate": 0.0
+      },
+      "b_f": [
+        0,
+        11
+      ],
+      "w_f": [
+        3,
+        2,
+        0
+      ]
+    },
+    {
+      "bat": "P Rathnayake",
+      "bat_t": "Sri Lanka",
+      "bowl": "A Zampa",
+      "bowl_t": "Australia",
+      "v": "neutral",
+      "h2h": {
+        "balls": 3,
+        "runs": 5,
+        "dismissals": 0,
+        "strike_rate": 166.67
+      },
+      "vs_t": {
+        "runs": 28,
+        "balls": 15,
+        "dismissals": 0,
+        "average": 28.0,
+        "strike_rate": 186.67
+      },
+      "b_f": [
+        10,
+        0,
+        44
+      ],
+      "w_f": [
+        4,
+        0,
+        0
+      ]
+    }
+  ]
+}

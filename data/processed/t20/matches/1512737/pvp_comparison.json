@@ -1,0 +1,1474 @@
+{
+  "match_id": "1512737",
+  "team_a": "Zimbabwe",
+  "team_b": "Australia",
+  "matchups": [
+    {
+      "bat": "TH David",
+      "bat_t": "Australia",
+      "bowl": "RP Burl",
+      "bowl_t": "Zimbabwe",
+      "v": "batsman",
+      "h2h": {
+        "balls": 13,
+        "runs": 23,
+        "dismissals": 1,
+        "strike_rate": 176.92
+      },
+      "vs_t": {
+        "runs": 88,
+        "balls": 49,
+        "dismissals": 3,
+        "average": 29.33,
+        "strike_rate": 179.59
+      },
+      "b_f": [
+        6,
+        0
+      ],
+      "w_f": [
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "TM Head",
+      "bat_t": "Australia",
+      "bowl": "B Muzarabani",
+      "bowl_t": "Zimbabwe",
+      "v": "bowler",
+      "h2h": {
+        "balls": 11,
+        "runs": 10,
+        "dismissals": 1,
+        "strike_rate": 90.91
+      },
+      "vs_t": {
+        "runs": 65,
+        "balls": 59,
+        "dismissals": 2,
+        "average": 32.5,
+        "strike_rate": 110.17
+      },
+      "b_f": [
+        32,
+        56,
+        17
+      ],
+      "w_f": [
+        2,
+        2,
+        4
+      ]
+    },
+    {
+      "bat": "GJ Maxwell",
+      "bat_t": "Australia",
+      "bowl": "B Muzarabani",
+      "bowl_t": "Zimbabwe",
+      "v": "bowler",
+      "h2h": {
+        "balls": 10,
+        "runs": 5,
+        "dismissals": 1,
+        "strike_rate": 50.0
+      },
+      "vs_t": {
+        "runs": 87,
+        "balls": 73,
+        "dismissals": 2,
+        "average": 43.5,
+        "strike_rate": 119.18
+      },
+      "b_f": [
+        22,
+        31,
+        9
+      ],
+      "w_f": [
+        2,
+        2,
+        4
+      ]
+    },
+    {
+      "bat": "T Marumani",
+      "bat_t": "Zimbabwe",
+      "bowl": "MP Stoinis",
+      "bowl_t": "Australia",
+      "v": "batsman",
+      "h2h": {
+        "balls": 7,
+        "runs": 6,
+        "dismissals": 1,
+        "strike_rate": 85.71
+      },
+      "vs_t": {
+        "runs": 35,
+        "balls": 22,
+        "dismissals": 1,
+        "average": 35.0,
+        "strike_rate": 159.09
+      },
+      "b_f": [
+        14,
+        34,
+        35
+      ],
+      "w_f": [
+        1,
+        2,
+        1
+      ]
+    },
+    {
+      "bat": "MT Renshaw",
+      "bat_t": "Australia",
+      "bowl": "B Muzarabani",
+      "bowl_t": "Zimbabwe",
+      "v": "batsman",
+      "h2h": {
+        "balls": 6,
+        "runs": 3,
+        "dismissals": 1,
+        "strike_rate": 50.0
+      },
+      "vs_t": {
+        "runs": 65,
+        "balls": 46,
+        "dismissals": 1,
+        "average": 65.0,
+        "strike_rate": 141.3
+      },
+      "b_f": [
+        65,
+        37
+      ],
+      "w_f": [
+        2,
+        2,
+        4
+      ]
+    },
+    {
+      "bat": "TM Head",
+      "bat_t": "Australia",
+      "bowl": "B Evans",
+      "bowl_t": "Zimbabwe",
+      "v": "bowler",
+      "h2h": {
+        "balls": 5,
+        "runs": 5,
+        "dismissals": 1,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 65,
+        "balls": 59,
+        "dismissals": 2,
+        "average": 32.5,
+        "strike_rate": 110.17
+      },
+      "b_f": [
+        32,
+        56,
+        17
+      ],
+      "w_f": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "bat": "RP Burl",
+      "bat_t": "Zimbabwe",
+      "bowl": "C Green",
+      "bowl_t": "Australia",
+      "v": "bowler",
+      "h2h": {
+        "balls": 4,
+        "runs": 1,
+        "dismissals": 1,
+        "strike_rate": 25.0
+      },
+      "vs_t": {
+        "runs": 45,
+        "balls": 50,
+        "dismissals": 2,
+        "average": 22.5,
+        "strike_rate": 90.0
+      },
+      "b_f": [
+        0,
+        23,
+        35
+      ],
+      "w_f": [
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "A Zampa",
+      "bat_t": "Australia",
+      "bowl": "B Muzarabani",
+      "bowl_t": "Zimbabwe",
+      "v": "neutral",
+      "h2h": {
+        "balls": 2,
+        "runs": 2,
+        "dismissals": 1,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 2,
+        "balls": 2,
+        "dismissals": 1,
+        "average": 2.0,
+        "strike_rate": 100.0
+      },
+      "b_f": [
+        1,
+        2
+      ],
+      "w_f": [
+        2,
+        2,
+        4
+      ]
+    },
+    {
+      "bat": "BJ Dwarshuis",
+      "bat_t": "Australia",
+      "bowl": "B Evans",
+      "bowl_t": "Zimbabwe",
+      "v": "neutral",
+      "h2h": {
+        "balls": 2,
+        "runs": 1,
+        "dismissals": 1,
+        "strike_rate": 50.0
+      },
+      "vs_t": {
+        "runs": 6,
+        "balls": 7,
+        "dismissals": 1,
+        "average": 6.0,
+        "strike_rate": 85.71
+      },
+      "b_f": [
+        6
+      ],
+      "w_f": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "bat": "MP Stoinis",
+      "bat_t": "Australia",
+      "bowl": "WP Masakadza",
+      "bowl_t": "Zimbabwe",
+      "v": "neutral",
+      "h2h": {
+        "balls": 2,
+        "runs": 1,
+        "dismissals": 1,
+        "strike_rate": 50.0
+      },
+      "vs_t": {
+        "runs": 19,
+        "balls": 12,
+        "dismissals": 1,
+        "average": 19.0,
+        "strike_rate": 158.33
+      },
+      "b_f": [
+        4,
+        6,
+        45
+      ],
+      "w_f": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "GJ Maxwell",
+      "bat_t": "Australia",
+      "bowl": "RP Burl",
+      "bowl_t": "Zimbabwe",
+      "v": "bowler",
+      "h2h": {
+        "balls": 1,
+        "runs": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 87,
+        "balls": 73,
+        "dismissals": 2,
+        "average": 43.5,
+        "strike_rate": 119.18
+      },
+      "b_f": [
+        22,
+        31,
+        9
+      ],
+      "w_f": [
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "TH David",
+      "bat_t": "Australia",
+      "bowl": "B Muzarabani",
+      "bowl_t": "Zimbabwe",
+      "v": "bowler",
+      "h2h": {
+        "balls": 1,
+        "runs": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 88,
+        "balls": 49,
+        "dismissals": 3,
+        "average": 29.33,
+        "strike_rate": 179.59
+      },
+      "b_f": [
+        6,
+        0
+      ],
+      "w_f": [
+        2,
+        2,
+        4
+      ]
+    },
+    {
+      "bat": "JP Inglis",
+      "bat_t": "Australia",
+      "bowl": "B Muzarabani",
+      "bowl_t": "Zimbabwe",
+      "v": "neutral",
+      "h2h": {
+        "balls": 1,
+        "runs": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 8,
+        "balls": 4,
+        "dismissals": 1,
+        "average": 8.0,
+        "strike_rate": 200.0
+      },
+      "b_f": [
+        12,
+        27,
+        8
+      ],
+      "w_f": [
+        2,
+        2,
+        4
+      ]
+    },
+    {
+      "bat": "C Green",
+      "bat_t": "Australia",
+      "bowl": "B Evans",
+      "bowl_t": "Zimbabwe",
+      "v": "neutral",
+      "h2h": {
+        "balls": 1,
+        "runs": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 0,
+        "balls": 2,
+        "dismissals": 1,
+        "average": 0.0,
+        "strike_rate": 0.0
+      },
+      "b_f": [
+        3,
+        0,
+        21
+      ],
+      "w_f": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "bat": "GJ Maxwell",
+      "bat_t": "Australia",
+      "bowl": "WP Masakadza",
+      "bowl_t": "Zimbabwe",
+      "v": "batsman",
+      "h2h": {
+        "balls": 20,
+        "runs": 34,
+        "dismissals": 0,
+        "strike_rate": 170.0
+      },
+      "vs_t": {
+        "runs": 87,
+        "balls": 73,
+        "dismissals": 2,
+        "average": 43.5,
+        "strike_rate": 119.18
+      },
+      "b_f": [
+        22,
+        31,
+        9
+      ],
+      "w_f": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "BJ Bennett",
+      "bat_t": "Zimbabwe",
+      "bowl": "BJ Dwarshuis",
+      "bowl_t": "Australia",
+      "v": "batsman",
+      "h2h": {
+        "balls": 14,
+        "runs": 19,
+        "dismissals": 0,
+        "strike_rate": 135.71
+      },
+      "vs_t": {
+        "runs": 64,
+        "balls": 58,
+        "dismissals": 0,
+        "average": 64.0,
+        "strike_rate": 110.34
+      },
+      "b_f": [
+        5,
+        63,
+        64
+      ],
+      "w_f": [
+        0
+      ]
+    },
+    {
+      "bat": "MT Renshaw",
+      "bat_t": "Australia",
+      "bowl": "AG Cremer",
+      "bowl_t": "Zimbabwe",
+      "v": "batsman",
+      "h2h": {
+        "balls": 13,
+        "runs": 20,
+        "dismissals": 0,
+        "strike_rate": 153.85
+      },
+      "vs_t": {
+        "runs": 65,
+        "balls": 46,
+        "dismissals": 1,
+        "average": 65.0,
+        "strike_rate": 141.3
+      },
+      "b_f": [
+        65,
+        37
+      ],
+      "w_f": [
+        1,
+        2,
+        0
+      ]
+    },
+    {
+      "bat": "RP Burl",
+      "bat_t": "Zimbabwe",
+      "bowl": "MP Stoinis",
+      "bowl_t": "Australia",
+      "v": "bowler",
+      "h2h": {
+        "balls": 11,
+        "runs": 12,
+        "dismissals": 0,
+        "strike_rate": 109.09
+      },
+      "vs_t": {
+        "runs": 45,
+        "balls": 50,
+        "dismissals": 2,
+        "average": 22.5,
+        "strike_rate": 90.0
+      },
+      "b_f": [
+        0,
+        23,
+        35
+      ],
+      "w_f": [
+        1,
+        2,
+        1
+      ]
+    },
+    {
+      "bat": "BJ Bennett",
+      "bat_t": "Zimbabwe",
+      "bowl": "NT Ellis",
+      "bowl_t": "Australia",
+      "v": "neutral",
+      "h2h": {
+        "balls": 11,
+        "runs": 10,
+        "dismissals": 0,
+        "strike_rate": 90.91
+      },
+      "vs_t": {
+        "runs": 64,
+        "balls": 58,
+        "dismissals": 0,
+        "average": 64.0,
+        "strike_rate": 110.34
+      },
+      "b_f": [
+        5,
+        63,
+        64
+      ],
+      "w_f": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "BJ Bennett",
+      "bat_t": "Zimbabwe",
+      "bowl": "A Zampa",
+      "bowl_t": "Australia",
+      "v": "batsman",
+      "h2h": {
+        "balls": 11,
+        "runs": 17,
+        "dismissals": 0,
+        "strike_rate": 154.55
+      },
+      "vs_t": {
+        "runs": 64,
+        "balls": 58,
+        "dismissals": 0,
+        "average": 64.0,
+        "strike_rate": 110.34
+      },
+      "b_f": [
+        5,
+        63,
+        64
+      ],
+      "w_f": [
+        4,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "MT Renshaw",
+      "bat_t": "Australia",
+      "bowl": "WP Masakadza",
+      "bowl_t": "Zimbabwe",
+      "v": "batsman",
+      "h2h": {
+        "balls": 11,
+        "runs": 21,
+        "dismissals": 0,
+        "strike_rate": 190.91
+      },
+      "vs_t": {
+        "runs": 65,
+        "balls": 46,
+        "dismissals": 1,
+        "average": 65.0,
+        "strike_rate": 141.3
+      },
+      "b_f": [
+        65,
+        37
+      ],
+      "w_f": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "RP Burl",
+      "bat_t": "Zimbabwe",
+      "bowl": "MP Kuhnemann",
+      "bowl_t": "Australia",
+      "v": "batsman",
+      "h2h": {
+        "balls": 9,
+        "runs": 12,
+        "dismissals": 0,
+        "strike_rate": 133.33
+      },
+      "vs_t": {
+        "runs": 45,
+        "balls": 50,
+        "dismissals": 2,
+        "average": 22.5,
+        "strike_rate": 90.0
+      },
+      "b_f": [
+        0,
+        23,
+        35
+      ],
+      "w_f": [
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "BJ Bennett",
+      "bat_t": "Zimbabwe",
+      "bowl": "MP Kuhnemann",
+      "bowl_t": "Australia",
+      "v": "batsman",
+      "h2h": {
+        "balls": 9,
+        "runs": 12,
+        "dismissals": 0,
+        "strike_rate": 133.33
+      },
+      "vs_t": {
+        "runs": 64,
+        "balls": 58,
+        "dismissals": 0,
+        "average": 64.0,
+        "strike_rate": 110.34
+      },
+      "b_f": [
+        5,
+        63,
+        64
+      ],
+      "w_f": [
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "BJ Bennett",
+      "bat_t": "Zimbabwe",
+      "bowl": "MP Stoinis",
+      "bowl_t": "Australia",
+      "v": "neutral",
+      "h2h": {
+        "balls": 8,
+        "runs": 3,
+        "dismissals": 0,
+        "strike_rate": 37.5
+      },
+      "vs_t": {
+        "runs": 64,
+        "balls": 58,
+        "dismissals": 0,
+        "average": 64.0,
+        "strike_rate": 110.34
+      },
+      "b_f": [
+        5,
+        63,
+        64
+      ],
+      "w_f": [
+        1,
+        2,
+        1
+      ]
+    },
+    {
+      "bat": "GJ Maxwell",
+      "bat_t": "Australia",
+      "bowl": "AG Cremer",
+      "bowl_t": "Zimbabwe",
+      "v": "bowler",
+      "h2h": {
+        "balls": 7,
+        "runs": 9,
+        "dismissals": 0,
+        "strike_rate": 128.57
+      },
+      "vs_t": {
+        "runs": 87,
+        "balls": 73,
+        "dismissals": 2,
+        "average": 43.5,
+        "strike_rate": 119.18
+      },
+      "b_f": [
+        22,
+        31,
+        9
+      ],
+      "w_f": [
+        1,
+        2,
+        0
+      ]
+    },
+    {
+      "bat": "RP Burl",
+      "bat_t": "Zimbabwe",
+      "bowl": "NT Ellis",
+      "bowl_t": "Australia",
+      "v": "batsman",
+      "h2h": {
+        "balls": 6,
+        "runs": 11,
+        "dismissals": 0,
+        "strike_rate": 183.33
+      },
+      "vs_t": {
+        "runs": 45,
+        "balls": 50,
+        "dismissals": 2,
+        "average": 22.5,
+        "strike_rate": 90.0
+      },
+      "b_f": [
+        0,
+        23,
+        35
+      ],
+      "w_f": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "RP Burl",
+      "bat_t": "Zimbabwe",
+      "bowl": "A Zampa",
+      "bowl_t": "Australia",
+      "v": "bowler",
+      "h2h": {
+        "balls": 6,
+        "runs": 3,
+        "dismissals": 0,
+        "strike_rate": 50.0
+      },
+      "vs_t": {
+        "runs": 45,
+        "balls": 50,
+        "dismissals": 2,
+        "average": 22.5,
+        "strike_rate": 90.0
+      },
+      "b_f": [
+        0,
+        23,
+        35
+      ],
+      "w_f": [
+        4,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "MT Renshaw",
+      "bat_t": "Australia",
+      "bowl": "B Evans",
+      "bowl_t": "Zimbabwe",
+      "v": "batsman",
+      "h2h": {
+        "balls": 6,
+        "runs": 8,
+        "dismissals": 0,
+        "strike_rate": 133.33
+      },
+      "vs_t": {
+        "runs": 65,
+        "balls": 46,
+        "dismissals": 1,
+        "average": 65.0,
+        "strike_rate": 141.3
+      },
+      "b_f": [
+        65,
+        37
+      ],
+      "w_f": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "bat": "T Marumani",
+      "bat_t": "Zimbabwe",
+      "bowl": "GJ Maxwell",
+      "bowl_t": "Australia",
+      "v": "batsman",
+      "h2h": {
+        "balls": 5,
+        "runs": 13,
+        "dismissals": 0,
+        "strike_rate": 260.0
+      },
+      "vs_t": {
+        "runs": 35,
+        "balls": 22,
+        "dismissals": 1,
+        "average": 35.0,
+        "strike_rate": 159.09
+      },
+      "b_f": [
+        14,
+        34,
+        35
+      ],
+      "w_f": [
+        2,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "Sikandar Raza",
+      "bat_t": "Zimbabwe",
+      "bowl": "NT Ellis",
+      "bowl_t": "Australia",
+      "v": "neutral",
+      "h2h": {
+        "balls": 5,
+        "runs": 10,
+        "dismissals": 0,
+        "strike_rate": 200.0
+      },
+      "vs_t": {
+        "runs": 25,
+        "balls": 13,
+        "dismissals": 0,
+        "average": 25.0,
+        "strike_rate": 192.31
+      },
+      "b_f": [
+        27,
+        45,
+        25
+      ],
+      "w_f": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "T Marumani",
+      "bat_t": "Zimbabwe",
+      "bowl": "BJ Dwarshuis",
+      "bowl_t": "Australia",
+      "v": "batsman",
+      "h2h": {
+        "balls": 4,
+        "runs": 9,
+        "dismissals": 0,
+        "strike_rate": 225.0
+      },
+      "vs_t": {
+        "runs": 35,
+        "balls": 22,
+        "dismissals": 1,
+        "average": 35.0,
+        "strike_rate": 159.09
+      },
+      "b_f": [
+        14,
+        34,
+        35
+      ],
+      "w_f": [
+        0
+      ]
+    },
+    {
+      "bat": "Sikandar Raza",
+      "bat_t": "Zimbabwe",
+      "bowl": "A Zampa",
+      "bowl_t": "Australia",
+      "v": "neutral",
+      "h2h": {
+        "balls": 4,
+        "runs": 6,
+        "dismissals": 0,
+        "strike_rate": 150.0
+      },
+      "vs_t": {
+        "runs": 25,
+        "balls": 13,
+        "dismissals": 0,
+        "average": 25.0,
+        "strike_rate": 192.31
+      },
+      "b_f": [
+        27,
+        45,
+        25
+      ],
+      "w_f": [
+        4,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "Sikandar Raza",
+      "bat_t": "Zimbabwe",
+      "bowl": "BJ Dwarshuis",
+      "bowl_t": "Australia",
+      "v": "neutral",
+      "h2h": {
+        "balls": 4,
+        "runs": 9,
+        "dismissals": 0,
+        "strike_rate": 225.0
+      },
+      "vs_t": {
+        "runs": 25,
+        "balls": 13,
+        "dismissals": 0,
+        "average": 25.0,
+        "strike_rate": 192.31
+      },
+      "b_f": [
+        27,
+        45,
+        25
+      ],
+      "w_f": [
+        0
+      ]
+    },
+    {
+      "bat": "BJ Bennett",
+      "bat_t": "Zimbabwe",
+      "bowl": "C Green",
+      "bowl_t": "Australia",
+      "v": "neutral",
+      "h2h": {
+        "balls": 4,
+        "runs": 2,
+        "dismissals": 0,
+        "strike_rate": 50.0
+      },
+      "vs_t": {
+        "runs": 64,
+        "balls": 58,
+        "dismissals": 0,
+        "average": 64.0,
+        "strike_rate": 110.34
+      },
+      "b_f": [
+        5,
+        63,
+        64
+      ],
+      "w_f": [
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "BJ Dwarshuis",
+      "bat_t": "Australia",
+      "bowl": "AG Cremer",
+      "bowl_t": "Zimbabwe",
+      "v": "neutral",
+      "h2h": {
+        "balls": 4,
+        "runs": 4,
+        "dismissals": 0,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 6,
+        "balls": 7,
+        "dismissals": 1,
+        "average": 6.0,
+        "strike_rate": 85.71
+      },
+      "b_f": [
+        6
+      ],
+      "w_f": [
+        1,
+        2,
+        0
+      ]
+    },
+    {
+      "bat": "MP Stoinis",
+      "bat_t": "Australia",
+      "bowl": "B Muzarabani",
+      "bowl_t": "Zimbabwe",
+      "v": "neutral",
+      "h2h": {
+        "balls": 4,
+        "runs": 5,
+        "dismissals": 0,
+        "strike_rate": 125.0
+      },
+      "vs_t": {
+        "runs": 19,
+        "balls": 12,
+        "dismissals": 1,
+        "average": 19.0,
+        "strike_rate": 158.33
+      },
+      "b_f": [
+        4,
+        6,
+        45
+      ],
+      "w_f": [
+        2,
+        2,
+        4
+      ]
+    },
+    {
+      "bat": "MT Renshaw",
+      "bat_t": "Australia",
+      "bowl": "D Myers",
+      "bowl_t": "Zimbabwe",
+      "v": "batsman",
+      "h2h": {
+        "balls": 4,
+        "runs": 7,
+        "dismissals": 0,
+        "strike_rate": 175.0
+      },
+      "vs_t": {
+        "runs": 65,
+        "balls": 46,
+        "dismissals": 1,
+        "average": 65.0,
+        "strike_rate": 141.3
+      },
+      "b_f": [
+        65,
+        37
+      ],
+      "w_f": [
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "T Marumani",
+      "bat_t": "Zimbabwe",
+      "bowl": "NT Ellis",
+      "bowl_t": "Australia",
+      "v": "batsman",
+      "h2h": {
+        "balls": 3,
+        "runs": 2,
+        "dismissals": 0,
+        "strike_rate": 66.67
+      },
+      "vs_t": {
+        "runs": 35,
+        "balls": 22,
+        "dismissals": 1,
+        "average": 35.0,
+        "strike_rate": 159.09
+      },
+      "b_f": [
+        14,
+        34,
+        35
+      ],
+      "w_f": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "T Marumani",
+      "bat_t": "Zimbabwe",
+      "bowl": "A Zampa",
+      "bowl_t": "Australia",
+      "v": "batsman",
+      "h2h": {
+        "balls": 3,
+        "runs": 5,
+        "dismissals": 0,
+        "strike_rate": 166.67
+      },
+      "vs_t": {
+        "runs": 35,
+        "balls": 22,
+        "dismissals": 1,
+        "average": 35.0,
+        "strike_rate": 159.09
+      },
+      "b_f": [
+        14,
+        34,
+        35
+      ],
+      "w_f": [
+        4,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "RP Burl",
+      "bat_t": "Zimbabwe",
+      "bowl": "BJ Dwarshuis",
+      "bowl_t": "Australia",
+      "v": "bowler",
+      "h2h": {
+        "balls": 3,
+        "runs": 2,
+        "dismissals": 0,
+        "strike_rate": 66.67
+      },
+      "vs_t": {
+        "runs": 45,
+        "balls": 50,
+        "dismissals": 2,
+        "average": 22.5,
+        "strike_rate": 90.0
+      },
+      "b_f": [
+        0,
+        23,
+        35
+      ],
+      "w_f": [
+        0
+      ]
+    },
+    {
+      "bat": "GJ Maxwell",
+      "bat_t": "Australia",
+      "bowl": "Sikandar Raza",
+      "bowl_t": "Zimbabwe",
+      "v": "bowler",
+      "h2h": {
+        "balls": 3,
+        "runs": 2,
+        "dismissals": 0,
+        "strike_rate": 66.67
+      },
+      "vs_t": {
+        "runs": 87,
+        "balls": 73,
+        "dismissals": 2,
+        "average": 43.5,
+        "strike_rate": 119.18
+      },
+      "b_f": [
+        22,
+        31,
+        9
+      ],
+      "w_f": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "GJ Maxwell",
+      "bat_t": "Australia",
+      "bowl": "B Evans",
+      "bowl_t": "Zimbabwe",
+      "v": "bowler",
+      "h2h": {
+        "balls": 3,
+        "runs": 2,
+        "dismissals": 0,
+        "strike_rate": 66.67
+      },
+      "vs_t": {
+        "runs": 87,
+        "balls": 73,
+        "dismissals": 2,
+        "average": 43.5,
+        "strike_rate": 119.18
+      },
+      "b_f": [
+        22,
+        31,
+        9
+      ],
+      "w_f": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "bat": "GJ Maxwell",
+      "bat_t": "Australia",
+      "bowl": "D Myers",
+      "bowl_t": "Zimbabwe",
+      "v": "bowler",
+      "h2h": {
+        "balls": 3,
+        "runs": 1,
+        "dismissals": 0,
+        "strike_rate": 33.33
+      },
+      "vs_t": {
+        "runs": 87,
+        "balls": 73,
+        "dismissals": 2,
+        "average": 43.5,
+        "strike_rate": 119.18
+      },
+      "b_f": [
+        22,
+        31,
+        9
+      ],
+      "w_f": [
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "TH David",
+      "bat_t": "Australia",
+      "bowl": "WP Masakadza",
+      "bowl_t": "Zimbabwe",
+      "v": "bowler",
+      "h2h": {
+        "balls": 3,
+        "runs": 3,
+        "dismissals": 0,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 88,
+        "balls": 49,
+        "dismissals": 3,
+        "average": 29.33,
+        "strike_rate": 179.59
+      },
+      "b_f": [
+        6,
+        0
+      ],
+      "w_f": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "NT Ellis",
+      "bat_t": "Australia",
+      "bowl": "B Evans",
+      "bowl_t": "Zimbabwe",
+      "v": "neutral",
+      "h2h": {
+        "balls": 3,
+        "runs": 6,
+        "dismissals": 0,
+        "strike_rate": 200.0
+      },
+      "vs_t": {
+        "runs": 7,
+        "balls": 4,
+        "dismissals": 0,
+        "average": 7.0,
+        "strike_rate": 175.0
+      },
+      "b_f": [
+        0,
+        7
+      ],
+      "w_f": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "bat": "JP Inglis",
+      "bat_t": "Australia",
+      "bowl": "Sikandar Raza",
+      "bowl_t": "Zimbabwe",
+      "v": "neutral",
+      "h2h": {
+        "balls": 3,
+        "runs": 8,
+        "dismissals": 0,
+        "strike_rate": 266.67
+      },
+      "vs_t": {
+        "runs": 8,
+        "balls": 4,
+        "dismissals": 1,
+        "average": 8.0,
+        "strike_rate": 200.0
+      },
+      "b_f": [
+        12,
+        27,
+        8
+      ],
+      "w_f": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "TM Head",
+      "bat_t": "Australia",
+      "bowl": "Sikandar Raza",
+      "bowl_t": "Zimbabwe",
+      "v": "bowler",
+      "h2h": {
+        "balls": 3,
+        "runs": 5,
+        "dismissals": 0,
+        "strike_rate": 166.67
+      },
+      "vs_t": {
+        "runs": 65,
+        "balls": 59,
+        "dismissals": 2,
+        "average": 32.5,
+        "strike_rate": 110.17
+      },
+      "b_f": [
+        32,
+        56,
+        17
+      ],
+      "w_f": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "TM Head",
+      "bat_t": "Australia",
+      "bowl": "WP Masakadza",
+      "bowl_t": "Zimbabwe",
+      "v": "bowler",
+      "h2h": {
+        "balls": 3,
+        "runs": 3,
+        "dismissals": 0,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 65,
+        "balls": 59,
+        "dismissals": 2,
+        "average": 32.5,
+        "strike_rate": 110.17
+      },
+      "b_f": [
+        32,
+        56,
+        17
+      ],
+      "w_f": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "MT Renshaw",
+      "bat_t": "Australia",
+      "bowl": "Sikandar Raza",
+      "bowl_t": "Zimbabwe",
+      "v": "batsman",
+      "h2h": {
+        "balls": 3,
+        "runs": 2,
+        "dismissals": 0,
+        "strike_rate": 66.67
+      },
+      "vs_t": {
+        "runs": 65,
+        "balls": 46,
+        "dismissals": 1,
+        "average": 65.0,
+        "strike_rate": 141.3
+      },
+      "b_f": [
+        65,
+        37
+      ],
+      "w_f": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "MT Renshaw",
+      "bat_t": "Australia",
+      "bowl": "RP Burl",
+      "bowl_t": "Zimbabwe",
+      "v": "batsman",
+      "h2h": {
+        "balls": 3,
+        "runs": 4,
+        "dismissals": 0,
+        "strike_rate": 133.33
+      },
+      "vs_t": {
+        "runs": 65,
+        "balls": 46,
+        "dismissals": 1,
+        "average": 65.0,
+        "strike_rate": 141.3
+      },
+      "b_f": [
+        65,
+        37
+      ],
+      "w_f": [
+        1,
+        1
+      ]
+    }
+  ]
+}

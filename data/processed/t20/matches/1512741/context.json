@@ -1,0 +1,1114 @@
+{
+    "match_id": "1512741",
+    "metadata": {
+        "tournament": "2025/26",
+        "venue": "Eden Gardens, Kolkata",
+        "date": "2026-02-14",
+        "stage": "ICC Men's T20 World Cup",
+        "winner": "England",
+        "loser": "Scotland",
+        "win_classification": "Moderate",
+        "margin_runs": null,
+        "margin_wickets": 5,
+        "competitiveness_index": 85.0,
+        "teams": {
+            "Scotland": {
+                "captain": "RD Berrington",
+                "playing_xi_count": 11
+            },
+            "England": {
+                "captain": "JC Buttler",
+                "playing_xi_count": 11
+            }
+        },
+        "team_summary": {
+            "Scotland": {
+                "run_rate": 7.73,
+                "fours": 15,
+                "sixes": 5,
+                "boundary_runs": 90,
+                "dot_balls": 48,
+                "total_runs": 152,
+                "total_wickets": 10
+            },
+            "England": {
+                "run_rate": 8.45,
+                "fours": 8,
+                "sixes": 7,
+                "boundary_runs": 74,
+                "dot_balls": 37,
+                "total_runs": 155,
+                "total_wickets": 5
+            }
+        },
+        "formulas": {
+            "competitiveness": "Base(Margin) + Pressure_Bonus(L5 Overs)",
+            "pressure": "((RR_Gap / Start_RR) * 40) + ((Wickets / 10) * 60)",
+            "batting_impact": "Runs + (SR/Match_SR * 25)",
+            "bowling_impact": "(Wickets * 30) + (Match_RR/Econ * 20)"
+        }
+    },
+    "scorecards": {
+        "batting": [
+            {
+                "player": "RD Berrington",
+                "team": "Scotland",
+                "runs": 49,
+                "balls": 34,
+                "sr": 144.12,
+                "fours": 5,
+                "sixes": 2,
+                "win_contribution_percent": 32.2,
+                "score": 78.02
+            },
+            {
+                "player": "MA Jones",
+                "team": "Scotland",
+                "runs": 33,
+                "balls": 20,
+                "sr": 165.0,
+                "fours": 5,
+                "sixes": 1,
+                "win_contribution_percent": 21.7,
+                "score": 66.23
+            },
+            {
+                "player": "TC Bruce",
+                "team": "Scotland",
+                "runs": 24,
+                "balls": 18,
+                "sr": 133.33,
+                "fours": 1,
+                "sixes": 1,
+                "win_contribution_percent": 15.8,
+                "score": 50.85
+            },
+            {
+                "player": "O Davidson",
+                "team": "Scotland",
+                "runs": 20,
+                "balls": 17,
+                "sr": 117.65,
+                "fours": 2,
+                "sixes": 1,
+                "win_contribution_percent": 13.2,
+                "score": 43.69
+            },
+            {
+                "player": "MH Cross",
+                "team": "Scotland",
+                "runs": 8,
+                "balls": 10,
+                "sr": 80.0,
+                "fours": 1,
+                "sixes": 0,
+                "win_contribution_percent": 5.3,
+                "score": 24.11
+            },
+            {
+                "player": "HG Munsey",
+                "team": "Scotland",
+                "runs": 4,
+                "balls": 6,
+                "sr": 66.67,
+                "fours": 1,
+                "sixes": 0,
+                "win_contribution_percent": 2.6,
+                "score": 17.43
+            },
+            {
+                "player": "BJ Currie",
+                "team": "Scotland",
+                "runs": 2,
+                "balls": 5,
+                "sr": 40.0,
+                "fours": 0,
+                "sixes": 0,
+                "win_contribution_percent": 1.3,
+                "score": 10.05
+            },
+            {
+                "player": "BTJ Wheal",
+                "team": "Scotland",
+                "runs": 2,
+                "balls": 3,
+                "sr": 66.67,
+                "fours": 0,
+                "sixes": 0,
+                "win_contribution_percent": 1.3,
+                "score": 15.43
+            },
+            {
+                "player": "MRJ Watt",
+                "team": "Scotland",
+                "runs": 2,
+                "balls": 4,
+                "sr": 50.0,
+                "fours": 0,
+                "sixes": 0,
+                "win_contribution_percent": 1.3,
+                "score": 12.07
+            },
+            {
+                "player": "MA Leask",
+                "team": "Scotland",
+                "runs": 1,
+                "balls": 4,
+                "sr": 25.0,
+                "fours": 0,
+                "sixes": 0,
+                "win_contribution_percent": 0.7,
+                "score": 6.03
+            },
+            {
+                "player": "BJ McMullen",
+                "team": "Scotland",
+                "runs": 0,
+                "balls": 2,
+                "sr": 0.0,
+                "fours": 0,
+                "sixes": 0,
+                "win_contribution_percent": 0.0,
+                "score": 0.0
+            },
+            {
+                "player": "T Banton",
+                "team": "England",
+                "runs": 63,
+                "balls": 42,
+                "sr": 150.0,
+                "fours": 4,
+                "sixes": 3,
+                "win_contribution_percent": 40.6,
+                "score": 93.2
+            },
+            {
+                "player": "JG Bethell",
+                "team": "England",
+                "runs": 32,
+                "balls": 28,
+                "sr": 114.29,
+                "fours": 2,
+                "sixes": 1,
+                "win_contribution_percent": 20.6,
+                "score": 55.01
+            },
+            {
+                "player": "SM Curran",
+                "team": "England",
+                "runs": 28,
+                "balls": 20,
+                "sr": 140.0,
+                "fours": 1,
+                "sixes": 2,
+                "win_contribution_percent": 18.1,
+                "score": 56.19
+            },
+            {
+                "player": "WG Jacks",
+                "team": "England",
+                "runs": 16,
+                "balls": 11,
+                "sr": 145.45,
+                "fours": 1,
+                "sixes": 1,
+                "win_contribution_percent": 10.3,
+                "score": 45.29
+            },
+            {
+                "player": "HC Brook",
+                "team": "England",
+                "runs": 4,
+                "balls": 4,
+                "sr": 100.0,
+                "fours": 0,
+                "sixes": 0,
+                "win_contribution_percent": 2.6,
+                "score": 24.14
+            },
+            {
+                "player": "JC Buttler",
+                "team": "England",
+                "runs": 3,
+                "balls": 5,
+                "sr": 60.0,
+                "fours": 0,
+                "sixes": 0,
+                "win_contribution_percent": 1.9,
+                "score": 15.08
+            },
+            {
+                "player": "PD Salt",
+                "team": "England",
+                "runs": 2,
+                "balls": 3,
+                "sr": 66.67,
+                "fours": 0,
+                "sixes": 0,
+                "win_contribution_percent": 1.3,
+                "score": 15.43
+            }
+        ],
+        "bowling": [
+            {
+                "player": "AU Rashid",
+                "team": "England",
+                "overs": 4.0,
+                "runs": 36,
+                "wickets": 3,
+                "econ": 9.0,
+                "score": 107.34,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "JC Archer",
+                "team": "England",
+                "overs": 4.0,
+                "runs": 25,
+                "wickets": 2,
+                "econ": 6.25,
+                "score": 84.98,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "LA Dawson",
+                "team": "England",
+                "overs": 4.0,
+                "runs": 34,
+                "wickets": 2,
+                "econ": 8.5,
+                "score": 78.36,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "J Overton",
+                "team": "England",
+                "overs": 4.0,
+                "runs": 24,
+                "wickets": 1,
+                "econ": 6.0,
+                "score": 56.02,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "SM Curran",
+                "team": "England",
+                "overs": 3.4,
+                "runs": 33,
+                "wickets": 1,
+                "econ": 9.0,
+                "score": 47.34,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "O Davidson",
+                "team": "Scotland",
+                "overs": 2.0,
+                "runs": 12,
+                "wickets": 1,
+                "econ": 6.0,
+                "score": 56.02,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "BTJ Wheal",
+                "team": "Scotland",
+                "overs": 3.2,
+                "runs": 23,
+                "wickets": 1,
+                "econ": 6.9,
+                "score": 52.62,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "BJ Currie",
+                "team": "Scotland",
+                "overs": 3.0,
+                "runs": 21,
+                "wickets": 1,
+                "econ": 7.0,
+                "score": 52.3,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "BJ McMullen",
+                "team": "Scotland",
+                "overs": 3.0,
+                "runs": 23,
+                "wickets": 1,
+                "econ": 7.67,
+                "score": 50.35,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "MA Leask",
+                "team": "Scotland",
+                "overs": 4.0,
+                "runs": 33,
+                "wickets": 1,
+                "econ": 8.25,
+                "score": 48.92,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "MRJ Watt",
+                "team": "Scotland",
+                "overs": 3.0,
+                "runs": 43,
+                "wickets": 0,
+                "econ": 14.33,
+                "score": 10.89,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            }
+        ]
+    },
+    "innings": [
+        {
+            "innings": 1,
+            "team": "Scotland",
+            "total_runs": 152,
+            "total_wickets": 10,
+            "balls_faced": 118,
+            "overs_faced": 19.4,
+            "phase_analysis": {
+                "Powerplay": {
+                    "runs": 42,
+                    "wkts": 3,
+                    "rr": 7.0
+                },
+                "Middle": {
+                    "runs": 83,
+                    "wkts": 3,
+                    "rr": 9.22
+                },
+                "Death": {
+                    "runs": 27,
+                    "wkts": 4,
+                    "rr": 5.79
+                }
+            }
+        },
+        {
+            "innings": 2,
+            "team": "England",
+            "total_runs": 155,
+            "total_wickets": 5,
+            "balls_faced": 110,
+            "overs_faced": 18.2,
+            "phase_analysis": {
+                "Powerplay": {
+                    "runs": 43,
+                    "wkts": 2,
+                    "rr": 7.17
+                },
+                "Middle": {
+                    "runs": 76,
+                    "wkts": 2,
+                    "rr": 8.44
+                },
+                "Death": {
+                    "runs": 36,
+                    "wkts": 1,
+                    "rr": 10.8
+                }
+            },
+            "pressure_index": 75.0,
+            "target": 153
+        }
+    ],
+    "players": [
+        {
+            "player": "AU Rashid",
+            "team": "England",
+            "overs": 4.0,
+            "runs": 36,
+            "wickets": 3,
+            "econ": 9.0,
+            "score": 107.34,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-36r-3w"
+        },
+        {
+            "player": "T Banton",
+            "team": "England",
+            "runs": 63,
+            "balls": 42,
+            "sr": 150.0,
+            "fours": 4,
+            "sixes": 3,
+            "win_contribution_percent": 40.6,
+            "score": 93.2,
+            "role": "batting",
+            "match_stats": "63(42)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "JC Archer",
+            "team": "England",
+            "overs": 4.0,
+            "runs": 25,
+            "wickets": 2,
+            "econ": 6.25,
+            "score": 84.98,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-25r-2w"
+        },
+        {
+            "player": "LA Dawson",
+            "team": "England",
+            "overs": 4.0,
+            "runs": 34,
+            "wickets": 2,
+            "econ": 8.5,
+            "score": 78.36,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-34r-2w"
+        },
+        {
+            "player": "RD Berrington",
+            "team": "Scotland",
+            "runs": 49,
+            "balls": 34,
+            "sr": 144.12,
+            "fours": 5,
+            "sixes": 2,
+            "win_contribution_percent": 32.2,
+            "score": 78.02,
+            "role": "batting",
+            "match_stats": "49(34)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "MA Jones",
+            "team": "Scotland",
+            "runs": 33,
+            "balls": 20,
+            "sr": 165.0,
+            "fours": 5,
+            "sixes": 1,
+            "win_contribution_percent": 21.7,
+            "score": 66.23,
+            "role": "batting",
+            "match_stats": "33(20)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "SM Curran",
+            "team": "England",
+            "runs": 28,
+            "balls": 20,
+            "sr": 140.0,
+            "fours": 1,
+            "sixes": 2,
+            "win_contribution_percent": 18.1,
+            "score": 56.19,
+            "role": "batting",
+            "match_stats": "28(20)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "J Overton",
+            "team": "England",
+            "overs": 4.0,
+            "runs": 24,
+            "wickets": 1,
+            "econ": 6.0,
+            "score": 56.02,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-24r-1w"
+        },
+        {
+            "player": "O Davidson",
+            "team": "Scotland",
+            "overs": 2.0,
+            "runs": 12,
+            "wickets": 1,
+            "econ": 6.0,
+            "score": 56.02,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "2.0o-12r-1w"
+        },
+        {
+            "player": "JG Bethell",
+            "team": "England",
+            "runs": 32,
+            "balls": 28,
+            "sr": 114.29,
+            "fours": 2,
+            "sixes": 1,
+            "win_contribution_percent": 20.6,
+            "score": 55.01,
+            "role": "batting",
+            "match_stats": "32(28)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "BTJ Wheal",
+            "team": "Scotland",
+            "overs": 3.2,
+            "runs": 23,
+            "wickets": 1,
+            "econ": 6.9,
+            "score": 52.62,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "3.2o-23r-1w"
+        },
+        {
+            "player": "BJ Currie",
+            "team": "Scotland",
+            "overs": 3.0,
+            "runs": 21,
+            "wickets": 1,
+            "econ": 7.0,
+            "score": 52.3,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "3.0o-21r-1w"
+        },
+        {
+            "player": "TC Bruce",
+            "team": "Scotland",
+            "runs": 24,
+            "balls": 18,
+            "sr": 133.33,
+            "fours": 1,
+            "sixes": 1,
+            "win_contribution_percent": 15.8,
+            "score": 50.85,
+            "role": "batting",
+            "match_stats": "24(18)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "BJ McMullen",
+            "team": "Scotland",
+            "overs": 3.0,
+            "runs": 23,
+            "wickets": 1,
+            "econ": 7.67,
+            "score": 50.35,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "3.0o-23r-1w"
+        },
+        {
+            "player": "MA Leask",
+            "team": "Scotland",
+            "overs": 4.0,
+            "runs": 33,
+            "wickets": 1,
+            "econ": 8.25,
+            "score": 48.92,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-33r-1w"
+        },
+        {
+            "player": "SM Curran",
+            "team": "England",
+            "overs": 3.4,
+            "runs": 33,
+            "wickets": 1,
+            "econ": 9.0,
+            "score": 47.34,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "3.4o-33r-1w"
+        },
+        {
+            "player": "WG Jacks",
+            "team": "England",
+            "runs": 16,
+            "balls": 11,
+            "sr": 145.45,
+            "fours": 1,
+            "sixes": 1,
+            "win_contribution_percent": 10.3,
+            "score": 45.29,
+            "role": "batting",
+            "match_stats": "16(11)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "O Davidson",
+            "team": "Scotland",
+            "runs": 20,
+            "balls": 17,
+            "sr": 117.65,
+            "fours": 2,
+            "sixes": 1,
+            "win_contribution_percent": 13.2,
+            "score": 43.69,
+            "role": "batting",
+            "match_stats": "20(17)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "HC Brook",
+            "team": "England",
+            "runs": 4,
+            "balls": 4,
+            "sr": 100.0,
+            "fours": 0,
+            "sixes": 0,
+            "win_contribution_percent": 2.6,
+            "score": 24.14,
+            "role": "batting",
+            "match_stats": "4(4)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "MH Cross",
+            "team": "Scotland",
+            "runs": 8,
+            "balls": 10,
+            "sr": 80.0,
+            "fours": 1,
+            "sixes": 0,
+            "win_contribution_percent": 5.3,
+            "score": 24.11,
+            "role": "batting",
+            "match_stats": "8(10)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "HG Munsey",
+            "team": "Scotland",
+            "runs": 4,
+            "balls": 6,
+            "sr": 66.67,
+            "fours": 1,
+            "sixes": 0,
+            "win_contribution_percent": 2.6,
+            "score": 17.43,
+            "role": "batting",
+            "match_stats": "4(6)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "BTJ Wheal",
+            "team": "Scotland",
+            "runs": 2,
+            "balls": 3,
+            "sr": 66.67,
+            "fours": 0,
+            "sixes": 0,
+            "win_contribution_percent": 1.3,
+            "score": 15.43,
+            "role": "batting",
+            "match_stats": "2(3)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "PD Salt",
+            "team": "England",
+            "runs": 2,
+            "balls": 3,
+            "sr": 66.67,
+            "fours": 0,
+            "sixes": 0,
+            "win_contribution_percent": 1.3,
+            "score": 15.43,
+            "role": "batting",
+            "match_stats": "2(3)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "JC Buttler",
+            "team": "England",
+            "runs": 3,
+            "balls": 5,
+            "sr": 60.0,
+            "fours": 0,
+            "sixes": 0,
+            "win_contribution_percent": 1.9,
+            "score": 15.08,
+            "role": "batting",
+            "match_stats": "3(5)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "MRJ Watt",
+            "team": "Scotland",
+            "runs": 2,
+            "balls": 4,
+            "sr": 50.0,
+            "fours": 0,
+            "sixes": 0,
+            "win_contribution_percent": 1.3,
+            "score": 12.07,
+            "role": "batting",
+            "match_stats": "2(4)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "MRJ Watt",
+            "team": "Scotland",
+            "overs": 3.0,
+            "runs": 43,
+            "wickets": 0,
+            "econ": 14.33,
+            "score": 10.89,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "3.0o-43r-0w"
+        },
+        {
+            "player": "BJ Currie",
+            "team": "Scotland",
+            "runs": 2,
+            "balls": 5,
+            "sr": 40.0,
+            "fours": 0,
+            "sixes": 0,
+            "win_contribution_percent": 1.3,
+            "score": 10.05,
+            "role": "batting",
+            "match_stats": "2(5)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "MA Leask",
+            "team": "Scotland",
+            "runs": 1,
+            "balls": 4,
+            "sr": 25.0,
+            "fours": 0,
+            "sixes": 0,
+            "win_contribution_percent": 0.7,
+            "score": 6.03,
+            "role": "batting",
+            "match_stats": "1(4)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "BJ McMullen",
+            "team": "Scotland",
+            "runs": 0,
+            "balls": 2,
+            "sr": 0.0,
+            "fours": 0,
+            "sixes": 0,
+            "win_contribution_percent": 0.0,
+            "score": 0.0,
+            "role": "batting",
+            "match_stats": "0(2)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        }
+    ],
+    "validation": {
+        "logical_stability": true
+    }
+}

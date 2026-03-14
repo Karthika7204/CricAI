@@ -1,0 +1,1681 @@
+{
+  "match_id": "1512745",
+  "team_a": "India",
+  "team_b": "Pakistan",
+  "matchups": [
+    {
+      "bat": "Tilak Varma",
+      "bat_t": "India",
+      "bowl": "Saim Ayub",
+      "bowl_t": "Pakistan",
+      "v": "bowler",
+      "h2h": {
+        "balls": 17,
+        "runs": 11,
+        "dismissals": 2,
+        "strike_rate": 64.71
+      },
+      "vs_t": {
+        "runs": 155,
+        "balls": 129,
+        "dismissals": 2,
+        "average": 77.5,
+        "strike_rate": 120.16
+      },
+      "b_car": {
+        "avg": 46.81,
+        "sr": 136.65
+      },
+      "b_f": [
+        1,
+        31,
+        25
+      ],
+      "w_f": [
+        0,
+        0,
+        3
+      ]
+    },
+    {
+      "bat": "Usman Khan",
+      "bat_t": "Pakistan",
+      "bowl": "AR Patel",
+      "bowl_t": "India",
+      "v": "bowler",
+      "h2h": {
+        "balls": 17,
+        "runs": 27,
+        "dismissals": 2,
+        "strike_rate": 158.82
+      },
+      "vs_t": {
+        "runs": 57,
+        "balls": 50,
+        "dismissals": 2,
+        "average": 28.5,
+        "strike_rate": 114.0
+      },
+      "w_car": {
+        "avg": 22.41,
+        "eco": 7.59
+      },
+      "b_f": [
+        8,
+        44,
+        0
+      ],
+      "w_f": [
+        2,
+        2,
+        2
+      ]
+    },
+    {
+      "bat": "Mohammad Nawaz",
+      "bat_t": "Pakistan",
+      "bowl": "Kuldeep Yadav",
+      "bowl_t": "India",
+      "v": "bowler",
+      "h2h": {
+        "balls": 10,
+        "runs": 8,
+        "dismissals": 2,
+        "strike_rate": 80.0
+      },
+      "vs_t": {
+        "runs": 83,
+        "balls": 66,
+        "dismissals": 6,
+        "average": 13.83,
+        "strike_rate": 125.76
+      },
+      "w_car": {
+        "avg": 13.82,
+        "eco": 7.03
+      },
+      "b_f": [
+        0,
+        4,
+        5
+      ],
+      "w_f": [
+        1
+      ]
+    },
+    {
+      "bat": "Shadab Khan",
+      "bat_t": "Pakistan",
+      "bowl": "HH Pandya",
+      "bowl_t": "India",
+      "v": "bowler",
+      "h2h": {
+        "balls": 8,
+        "runs": 4,
+        "dismissals": 2,
+        "strike_rate": 50.0
+      },
+      "vs_t": {
+        "runs": 33,
+        "balls": 39,
+        "dismissals": 4,
+        "average": 8.25,
+        "strike_rate": 84.62
+      },
+      "w_car": {
+        "avg": 27.46,
+        "eco": 8.49
+      },
+      "b_f": [
+        23,
+        36,
+        14
+      ],
+      "w_f": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "Faheem Ashraf",
+      "bat_t": "Pakistan",
+      "bowl": "CV Varun",
+      "bowl_t": "India",
+      "v": "bowler",
+      "h2h": {
+        "balls": 7,
+        "runs": 5,
+        "dismissals": 2,
+        "strike_rate": 71.43
+      },
+      "vs_t": {
+        "runs": 41,
+        "balls": 40,
+        "dismissals": 3,
+        "average": 13.67,
+        "strike_rate": 102.5
+      },
+      "w_car": {
+        "avg": 15.9,
+        "eco": 7.36
+      },
+      "b_f": [
+        10,
+        1,
+        29
+      ],
+      "w_f": [
+        1,
+        3,
+        2
+      ]
+    },
+    {
+      "bat": "SA Yadav",
+      "bat_t": "India",
+      "bowl": "Mohammad Nawaz",
+      "bowl_t": "Pakistan",
+      "v": "bowler",
+      "h2h": {
+        "balls": 29,
+        "runs": 33,
+        "dismissals": 1,
+        "strike_rate": 113.79
+      },
+      "vs_t": {
+        "runs": 144,
+        "balls": 129,
+        "dismissals": 8,
+        "average": 18.0,
+        "strike_rate": 111.63
+      },
+      "b_car": {
+        "avg": 38.51,
+        "sr": 156.8
+      },
+      "b_f": [
+        18,
+        34,
+        32
+      ],
+      "w_f": [
+        2,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "Sahibzada Farhan",
+      "bat_t": "Pakistan",
+      "bowl": "CV Varun",
+      "bowl_t": "India",
+      "v": "bowler",
+      "h2h": {
+        "balls": 24,
+        "runs": 29,
+        "dismissals": 1,
+        "strike_rate": 120.83
+      },
+      "vs_t": {
+        "runs": 155,
+        "balls": 133,
+        "dismissals": 4,
+        "average": 38.75,
+        "strike_rate": 116.54
+      },
+      "w_car": {
+        "avg": 15.9,
+        "eco": 7.36
+      },
+      "b_f": [
+        63,
+        100,
+        0
+      ],
+      "w_f": [
+        1,
+        3,
+        2
+      ]
+    },
+    {
+      "bat": "Sahibzada Farhan",
+      "bat_t": "Pakistan",
+      "bowl": "Kuldeep Yadav",
+      "bowl_t": "India",
+      "v": "bowler",
+      "h2h": {
+        "balls": 21,
+        "runs": 23,
+        "dismissals": 1,
+        "strike_rate": 109.52
+      },
+      "vs_t": {
+        "runs": 155,
+        "balls": 133,
+        "dismissals": 4,
+        "average": 38.75,
+        "strike_rate": 116.54
+      },
+      "w_car": {
+        "avg": 13.82,
+        "eco": 7.03
+      },
+      "b_f": [
+        63,
+        100,
+        0
+      ],
+      "w_f": [
+        1
+      ]
+    },
+    {
+      "bat": "Babar Azam",
+      "bat_t": "Pakistan",
+      "bowl": "JJ Bumrah",
+      "bowl_t": "India",
+      "v": "bowler",
+      "h2h": {
+        "balls": 20,
+        "runs": 22,
+        "dismissals": 1,
+        "strike_rate": 110.0
+      },
+      "vs_t": {
+        "runs": 110,
+        "balls": 94,
+        "dismissals": 5,
+        "average": 22.0,
+        "strike_rate": 117.02
+      },
+      "w_car": {
+        "avg": 19.51,
+        "eco": 6.85
+      },
+      "b_f": [
+        25,
+        5,
+        46
+      ],
+      "w_f": [
+        3,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "Faheem Ashraf",
+      "bat_t": "Pakistan",
+      "bowl": "Kuldeep Yadav",
+      "bowl_t": "India",
+      "v": "bowler",
+      "h2h": {
+        "balls": 16,
+        "runs": 8,
+        "dismissals": 1,
+        "strike_rate": 50.0
+      },
+      "vs_t": {
+        "runs": 41,
+        "balls": 40,
+        "dismissals": 3,
+        "average": 13.67,
+        "strike_rate": 102.5
+      },
+      "w_car": {
+        "avg": 13.82,
+        "eco": 7.03
+      },
+      "b_f": [
+        10,
+        1,
+        29
+      ],
+      "w_f": [
+        1
+      ]
+    },
+    {
+      "bat": "Sahibzada Farhan",
+      "bat_t": "Pakistan",
+      "bowl": "S Dube",
+      "bowl_t": "India",
+      "v": "bowler",
+      "h2h": {
+        "balls": 14,
+        "runs": 9,
+        "dismissals": 1,
+        "strike_rate": 64.29
+      },
+      "vs_t": {
+        "runs": 155,
+        "balls": 133,
+        "dismissals": 4,
+        "average": 38.75,
+        "strike_rate": 116.54
+      },
+      "w_car": {
+        "avg": 27.25,
+        "eco": 9.74
+      },
+      "b_f": [
+        63,
+        100,
+        0
+      ],
+      "w_f": [
+        1,
+        2,
+        1
+      ]
+    },
+    {
+      "bat": "HH Pandya",
+      "bat_t": "India",
+      "bowl": "Mohammad Nawaz",
+      "bowl_t": "Pakistan",
+      "v": "batsman",
+      "h2h": {
+        "balls": 13,
+        "runs": 24,
+        "dismissals": 1,
+        "strike_rate": 184.62
+      },
+      "vs_t": {
+        "runs": 98,
+        "balls": 89,
+        "dismissals": 6,
+        "average": 16.33,
+        "strike_rate": 110.11
+      },
+      "b_car": {
+        "avg": 28.12,
+        "sr": 138.02
+      },
+      "b_f": [
+        18,
+        30,
+        0
+      ],
+      "w_f": [
+        2,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "Ishan Kishan",
+      "bat_t": "India",
+      "bowl": "Saim Ayub",
+      "bowl_t": "Pakistan",
+      "v": "batsman",
+      "h2h": {
+        "balls": 13,
+        "runs": 16,
+        "dismissals": 1,
+        "strike_rate": 123.08
+      },
+      "vs_t": {
+        "runs": 77,
+        "balls": 40,
+        "dismissals": 1,
+        "average": 77.0,
+        "strike_rate": 192.5
+      },
+      "b_car": {
+        "avg": 29.68,
+        "sr": 138.02
+      },
+      "b_f": [
+        0,
+        18,
+        77
+      ],
+      "w_f": [
+        0,
+        0,
+        3
+      ]
+    },
+    {
+      "bat": "Agha Salman",
+      "bat_t": "Pakistan",
+      "bowl": "AR Patel",
+      "bowl_t": "India",
+      "v": "bowler",
+      "h2h": {
+        "balls": 13,
+        "runs": 9,
+        "dismissals": 1,
+        "strike_rate": 69.23
+      },
+      "vs_t": {
+        "runs": 32,
+        "balls": 36,
+        "dismissals": 3,
+        "average": 10.67,
+        "strike_rate": 88.89
+      },
+      "w_car": {
+        "avg": 22.41,
+        "eco": 7.59
+      },
+      "b_f": [
+        5,
+        38,
+        4
+      ],
+      "w_f": [
+        2,
+        2,
+        2
+      ]
+    },
+    {
+      "bat": "SA Yadav",
+      "bat_t": "India",
+      "bowl": "Usman Tariq",
+      "bowl_t": "Pakistan",
+      "v": "bowler",
+      "h2h": {
+        "balls": 12,
+        "runs": 12,
+        "dismissals": 1,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 144,
+        "balls": 129,
+        "dismissals": 8,
+        "average": 18.0,
+        "strike_rate": 111.63
+      },
+      "b_car": {
+        "avg": 38.51,
+        "sr": 156.8
+      },
+      "b_f": [
+        18,
+        34,
+        32
+      ],
+      "w_f": [
+        2,
+        4,
+        1
+      ]
+    },
+    {
+      "bat": "Abhishek Sharma",
+      "bat_t": "India",
+      "bowl": "Abrar Ahmed",
+      "bowl_t": "Pakistan",
+      "v": "batsman",
+      "h2h": {
+        "balls": 12,
+        "runs": 32,
+        "dismissals": 1,
+        "strike_rate": 266.67
+      },
+      "vs_t": {
+        "runs": 110,
+        "balls": 62,
+        "dismissals": 4,
+        "average": 27.5,
+        "strike_rate": 177.42
+      },
+      "b_car": {
+        "avg": 35.46,
+        "sr": 184.27
+      },
+      "b_f": [
+        15,
+        0,
+        0
+      ],
+      "w_f": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "Sahibzada Farhan",
+      "bat_t": "Pakistan",
+      "bowl": "HH Pandya",
+      "bowl_t": "India",
+      "v": "bowler",
+      "h2h": {
+        "balls": 12,
+        "runs": 8,
+        "dismissals": 1,
+        "strike_rate": 66.67
+      },
+      "vs_t": {
+        "runs": 155,
+        "balls": 133,
+        "dismissals": 4,
+        "average": 38.75,
+        "strike_rate": 116.54
+      },
+      "w_car": {
+        "avg": 27.46,
+        "eco": 8.49
+      },
+      "b_f": [
+        63,
+        100,
+        0
+      ],
+      "w_f": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "Mohammad Nawaz",
+      "bat_t": "Pakistan",
+      "bowl": "HH Pandya",
+      "bowl_t": "India",
+      "v": "batsman",
+      "h2h": {
+        "balls": 11,
+        "runs": 24,
+        "dismissals": 1,
+        "strike_rate": 218.18
+      },
+      "vs_t": {
+        "runs": 83,
+        "balls": 66,
+        "dismissals": 6,
+        "average": 13.83,
+        "strike_rate": 125.76
+      },
+      "w_car": {
+        "avg": 27.46,
+        "eco": 8.49
+      },
+      "b_f": [
+        0,
+        4,
+        5
+      ],
+      "w_f": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "Abhishek Sharma",
+      "bat_t": "India",
+      "bowl": "Saim Ayub",
+      "bowl_t": "Pakistan",
+      "v": "batsman",
+      "h2h": {
+        "balls": 10,
+        "runs": 20,
+        "dismissals": 1,
+        "strike_rate": 200.0
+      },
+      "vs_t": {
+        "runs": 110,
+        "balls": 62,
+        "dismissals": 4,
+        "average": 27.5,
+        "strike_rate": 177.42
+      },
+      "b_car": {
+        "avg": 35.46,
+        "sr": 184.27
+      },
+      "b_f": [
+        15,
+        0,
+        0
+      ],
+      "w_f": [
+        0,
+        0,
+        3
+      ]
+    },
+    {
+      "bat": "Shaheen Shah Afridi",
+      "bat_t": "Pakistan",
+      "bowl": "Kuldeep Yadav",
+      "bowl_t": "India",
+      "v": "batsman",
+      "h2h": {
+        "balls": 10,
+        "runs": 8,
+        "dismissals": 1,
+        "strike_rate": 80.0
+      },
+      "vs_t": {
+        "runs": 72,
+        "balls": 50,
+        "dismissals": 2,
+        "average": 36.0,
+        "strike_rate": 144.0
+      },
+      "w_car": {
+        "avg": 13.82,
+        "eco": 7.03
+      },
+      "b_f": [
+        2,
+        23,
+        9
+      ],
+      "w_f": [
+        1
+      ]
+    },
+    {
+      "bat": "Saim Ayub",
+      "bat_t": "Pakistan",
+      "bowl": "Kuldeep Yadav",
+      "bowl_t": "India",
+      "v": "bowler",
+      "h2h": {
+        "balls": 10,
+        "runs": 10,
+        "dismissals": 1,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 41,
+        "balls": 36,
+        "dismissals": 4,
+        "average": 10.25,
+        "strike_rate": 113.89
+      },
+      "w_car": {
+        "avg": 13.82,
+        "eco": 7.03
+      },
+      "b_f": [
+        7,
+        14,
+        6
+      ],
+      "w_f": [
+        1
+      ]
+    },
+    {
+      "bat": "SA Yadav",
+      "bat_t": "India",
+      "bowl": "Shaheen Shah Afridi",
+      "bowl_t": "Pakistan",
+      "v": "bowler",
+      "h2h": {
+        "balls": 9,
+        "runs": 7,
+        "dismissals": 1,
+        "strike_rate": 77.78
+      },
+      "vs_t": {
+        "runs": 144,
+        "balls": 129,
+        "dismissals": 8,
+        "average": 18.0,
+        "strike_rate": 111.63
+      },
+      "b_car": {
+        "avg": 38.51,
+        "sr": 156.8
+      },
+      "b_f": [
+        18,
+        34,
+        32
+      ],
+      "w_f": [
+        4,
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "Abhishek Sharma",
+      "bat_t": "India",
+      "bowl": "Faheem Ashraf",
+      "bowl_t": "Pakistan",
+      "v": "batsman",
+      "h2h": {
+        "balls": 8,
+        "runs": 11,
+        "dismissals": 1,
+        "strike_rate": 137.5
+      },
+      "vs_t": {
+        "runs": 110,
+        "balls": 62,
+        "dismissals": 4,
+        "average": 27.5,
+        "strike_rate": 177.42
+      },
+      "b_car": {
+        "avg": 35.46,
+        "sr": 184.27
+      },
+      "b_f": [
+        15,
+        0,
+        0
+      ],
+      "w_f": [
+        0
+      ]
+    },
+    {
+      "bat": "AR Patel",
+      "bat_t": "India",
+      "bowl": "Shaheen Shah Afridi",
+      "bowl_t": "Pakistan",
+      "v": "batsman",
+      "h2h": {
+        "balls": 8,
+        "runs": 13,
+        "dismissals": 1,
+        "strike_rate": 162.5
+      },
+      "vs_t": {
+        "runs": 22,
+        "balls": 23,
+        "dismissals": 2,
+        "average": 11.0,
+        "strike_rate": 95.65
+      },
+      "b_car": {
+        "avg": 19.66,
+        "sr": 125.55
+      },
+      "b_f": [
+        0,
+        0,
+        14
+      ],
+      "w_f": [
+        4,
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "Saim Ayub",
+      "bat_t": "Pakistan",
+      "bowl": "S Dube",
+      "bowl_t": "India",
+      "v": "bowler",
+      "h2h": {
+        "balls": 8,
+        "runs": 10,
+        "dismissals": 1,
+        "strike_rate": 125.0
+      },
+      "vs_t": {
+        "runs": 41,
+        "balls": 36,
+        "dismissals": 4,
+        "average": 10.25,
+        "strike_rate": 113.89
+      },
+      "w_car": {
+        "avg": 27.25,
+        "eco": 9.74
+      },
+      "b_f": [
+        7,
+        14,
+        6
+      ],
+      "w_f": [
+        1,
+        2,
+        1
+      ]
+    },
+    {
+      "bat": "Agha Salman",
+      "bat_t": "Pakistan",
+      "bowl": "Kuldeep Yadav",
+      "bowl_t": "India",
+      "v": "bowler",
+      "h2h": {
+        "balls": 7,
+        "runs": 8,
+        "dismissals": 1,
+        "strike_rate": 114.29
+      },
+      "vs_t": {
+        "runs": 32,
+        "balls": 36,
+        "dismissals": 3,
+        "average": 10.67,
+        "strike_rate": 88.89
+      },
+      "w_car": {
+        "avg": 13.82,
+        "eco": 7.03
+      },
+      "b_f": [
+        5,
+        38,
+        4
+      ],
+      "w_f": [
+        1
+      ]
+    },
+    {
+      "bat": "Saim Ayub",
+      "bat_t": "Pakistan",
+      "bowl": "HH Pandya",
+      "bowl_t": "India",
+      "v": "bowler",
+      "h2h": {
+        "balls": 6,
+        "runs": 4,
+        "dismissals": 1,
+        "strike_rate": 66.67
+      },
+      "vs_t": {
+        "runs": 41,
+        "balls": 36,
+        "dismissals": 4,
+        "average": 10.25,
+        "strike_rate": 113.89
+      },
+      "w_car": {
+        "avg": 27.46,
+        "eco": 8.49
+      },
+      "b_f": [
+        7,
+        14,
+        6
+      ],
+      "w_f": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "Mohammad Nawaz",
+      "bat_t": "Pakistan",
+      "bowl": "JJ Bumrah",
+      "bowl_t": "India",
+      "v": "bowler",
+      "h2h": {
+        "balls": 5,
+        "runs": 2,
+        "dismissals": 1,
+        "strike_rate": 40.0
+      },
+      "vs_t": {
+        "runs": 83,
+        "balls": 66,
+        "dismissals": 6,
+        "average": 13.83,
+        "strike_rate": 125.76
+      },
+      "w_car": {
+        "avg": 19.51,
+        "eco": 6.85
+      },
+      "b_f": [
+        0,
+        4,
+        5
+      ],
+      "w_f": [
+        3,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "Saim Ayub",
+      "bat_t": "Pakistan",
+      "bowl": "JJ Bumrah",
+      "bowl_t": "India",
+      "v": "bowler",
+      "h2h": {
+        "balls": 5,
+        "runs": 10,
+        "dismissals": 1,
+        "strike_rate": 200.0
+      },
+      "vs_t": {
+        "runs": 41,
+        "balls": 36,
+        "dismissals": 4,
+        "average": 10.25,
+        "strike_rate": 113.89
+      },
+      "w_car": {
+        "avg": 19.51,
+        "eco": 6.85
+      },
+      "b_f": [
+        7,
+        14,
+        6
+      ],
+      "w_f": [
+        3,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "Abhishek Sharma",
+      "bat_t": "India",
+      "bowl": "Agha Salman",
+      "bowl_t": "Pakistan",
+      "v": "bowler",
+      "h2h": {
+        "balls": 4,
+        "runs": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 110,
+        "balls": 62,
+        "dismissals": 4,
+        "average": 27.5,
+        "strike_rate": 177.42
+      },
+      "b_car": {
+        "avg": 35.46,
+        "sr": 184.27
+      },
+      "b_f": [
+        15,
+        0,
+        0
+      ],
+      "w_f": [
+        1
+      ]
+    },
+    {
+      "bat": "S Dube",
+      "bat_t": "India",
+      "bowl": "Faheem Ashraf",
+      "bowl_t": "Pakistan",
+      "v": "batsman",
+      "h2h": {
+        "balls": 4,
+        "runs": 5,
+        "dismissals": 1,
+        "strike_rate": 125.0
+      },
+      "vs_t": {
+        "runs": 73,
+        "balls": 56,
+        "dismissals": 2,
+        "average": 36.5,
+        "strike_rate": 130.36
+      },
+      "b_car": {
+        "avg": 31.2,
+        "sr": 141.3
+      },
+      "b_f": [
+        42,
+        66,
+        27
+      ],
+      "w_f": [
+        0
+      ]
+    },
+    {
+      "bat": "Sahibzada Farhan",
+      "bat_t": "Pakistan",
+      "bowl": "JJ Bumrah",
+      "bowl_t": "India",
+      "v": "batsman",
+      "h2h": {
+        "balls": 34,
+        "runs": 51,
+        "dismissals": 0,
+        "strike_rate": 150.0
+      },
+      "vs_t": {
+        "runs": 155,
+        "balls": 133,
+        "dismissals": 4,
+        "average": 38.75,
+        "strike_rate": 116.54
+      },
+      "w_car": {
+        "avg": 19.51,
+        "eco": 6.85
+      },
+      "b_f": [
+        63,
+        100,
+        0
+      ],
+      "w_f": [
+        3,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "Agha Salman",
+      "bat_t": "Pakistan",
+      "bowl": "JJ Bumrah",
+      "bowl_t": "India",
+      "v": "bowler",
+      "h2h": {
+        "balls": 3,
+        "runs": 5,
+        "dismissals": 1,
+        "strike_rate": 166.67
+      },
+      "vs_t": {
+        "runs": 32,
+        "balls": 36,
+        "dismissals": 3,
+        "average": 10.67,
+        "strike_rate": 88.89
+      },
+      "w_car": {
+        "avg": 19.51,
+        "eco": 6.85
+      },
+      "b_f": [
+        5,
+        38,
+        4
+      ],
+      "w_f": [
+        3,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "Abrar Ahmed",
+      "bat_t": "Pakistan",
+      "bowl": "CV Varun",
+      "bowl_t": "India",
+      "v": "bowler",
+      "h2h": {
+        "balls": 2,
+        "runs": 1,
+        "dismissals": 1,
+        "strike_rate": 50.0
+      },
+      "vs_t": {
+        "runs": 1,
+        "balls": 3,
+        "dismissals": 1,
+        "average": 1.0,
+        "strike_rate": 33.33
+      },
+      "w_car": {
+        "avg": 15.9,
+        "eco": 7.36
+      },
+      "b_f": [
+        0
+      ],
+      "w_f": [
+        1,
+        3,
+        2
+      ]
+    },
+    {
+      "bat": "HH Pandya",
+      "bat_t": "India",
+      "bowl": "Saim Ayub",
+      "bowl_t": "Pakistan",
+      "v": "bowler",
+      "h2h": {
+        "balls": 1,
+        "runs": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 98,
+        "balls": 89,
+        "dismissals": 6,
+        "average": 16.33,
+        "strike_rate": 110.11
+      },
+      "b_car": {
+        "avg": 28.12,
+        "sr": 138.02
+      },
+      "b_f": [
+        18,
+        30,
+        0
+      ],
+      "w_f": [
+        0,
+        0,
+        3
+      ]
+    },
+    {
+      "bat": "Shadab Khan",
+      "bat_t": "Pakistan",
+      "bowl": "Tilak Varma",
+      "bowl_t": "India",
+      "v": "bowler",
+      "h2h": {
+        "balls": 1,
+        "runs": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 33,
+        "balls": 39,
+        "dismissals": 4,
+        "average": 8.25,
+        "strike_rate": 84.62
+      },
+      "w_car": {
+        "avg": 14.0,
+        "eco": 5.89
+      },
+      "b_f": [
+        23,
+        36,
+        14
+      ],
+      "w_f": [
+        1
+      ]
+    },
+    {
+      "bat": "Babar Azam",
+      "bat_t": "Pakistan",
+      "bowl": "AR Patel",
+      "bowl_t": "India",
+      "v": "bowler",
+      "h2h": {
+        "balls": 1,
+        "runs": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 110,
+        "balls": 94,
+        "dismissals": 5,
+        "average": 22.0,
+        "strike_rate": 117.02
+      },
+      "w_car": {
+        "avg": 22.41,
+        "eco": 7.59
+      },
+      "b_f": [
+        25,
+        5,
+        46
+      ],
+      "w_f": [
+        2,
+        2,
+        2
+      ]
+    },
+    {
+      "bat": "Usman Tariq",
+      "bat_t": "Pakistan",
+      "bowl": "HH Pandya",
+      "bowl_t": "India",
+      "v": "neutral",
+      "h2h": {
+        "balls": 1,
+        "runs": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 0,
+        "balls": 3,
+        "dismissals": 1,
+        "average": 0.0,
+        "strike_rate": 0.0
+      },
+      "w_car": {
+        "avg": 27.46,
+        "eco": 8.49
+      },
+      "b_f": [
+        0
+      ],
+      "w_f": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "Tilak Varma",
+      "bat_t": "India",
+      "bowl": "Abrar Ahmed",
+      "bowl_t": "Pakistan",
+      "v": "bowler",
+      "h2h": {
+        "balls": 27,
+        "runs": 23,
+        "dismissals": 0,
+        "strike_rate": 85.19
+      },
+      "vs_t": {
+        "runs": 155,
+        "balls": 129,
+        "dismissals": 2,
+        "average": 77.5,
+        "strike_rate": 120.16
+      },
+      "b_car": {
+        "avg": 46.81,
+        "sr": 136.65
+      },
+      "b_f": [
+        1,
+        31,
+        25
+      ],
+      "w_f": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "Sahibzada Farhan",
+      "bat_t": "Pakistan",
+      "bowl": "AR Patel",
+      "bowl_t": "India",
+      "v": "batsman",
+      "h2h": {
+        "balls": 24,
+        "runs": 32,
+        "dismissals": 0,
+        "strike_rate": 133.33
+      },
+      "vs_t": {
+        "runs": 155,
+        "balls": 133,
+        "dismissals": 4,
+        "average": 38.75,
+        "strike_rate": 116.54
+      },
+      "w_car": {
+        "avg": 22.41,
+        "eco": 7.59
+      },
+      "b_f": [
+        63,
+        100,
+        0
+      ],
+      "w_f": [
+        2,
+        2,
+        2
+      ]
+    },
+    {
+      "bat": "Tilak Varma",
+      "bat_t": "India",
+      "bowl": "Mohammad Nawaz",
+      "bowl_t": "Pakistan",
+      "v": "batsman",
+      "h2h": {
+        "balls": 21,
+        "runs": 29,
+        "dismissals": 0,
+        "strike_rate": 138.1
+      },
+      "vs_t": {
+        "runs": 155,
+        "balls": 129,
+        "dismissals": 2,
+        "average": 77.5,
+        "strike_rate": 120.16
+      },
+      "b_car": {
+        "avg": 46.81,
+        "sr": 136.65
+      },
+      "b_f": [
+        1,
+        31,
+        25
+      ],
+      "w_f": [
+        2,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "Abhishek Sharma",
+      "bat_t": "India",
+      "bowl": "Shaheen Shah Afridi",
+      "bowl_t": "Pakistan",
+      "v": "batsman",
+      "h2h": {
+        "balls": 19,
+        "runs": 36,
+        "dismissals": 0,
+        "strike_rate": 189.47
+      },
+      "vs_t": {
+        "runs": 110,
+        "balls": 62,
+        "dismissals": 4,
+        "average": 27.5,
+        "strike_rate": 177.42
+      },
+      "b_car": {
+        "avg": 35.46,
+        "sr": 184.27
+      },
+      "b_f": [
+        15,
+        0,
+        0
+      ],
+      "w_f": [
+        4,
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "Tilak Varma",
+      "bat_t": "India",
+      "bowl": "Shaheen Shah Afridi",
+      "bowl_t": "Pakistan",
+      "v": "batsman",
+      "h2h": {
+        "balls": 17,
+        "runs": 26,
+        "dismissals": 0,
+        "strike_rate": 152.94
+      },
+      "vs_t": {
+        "runs": 155,
+        "balls": 129,
+        "dismissals": 2,
+        "average": 77.5,
+        "strike_rate": 120.16
+      },
+      "b_car": {
+        "avg": 46.81,
+        "sr": 136.65
+      },
+      "b_f": [
+        1,
+        31,
+        25
+      ],
+      "w_f": [
+        4,
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "SA Yadav",
+      "bat_t": "India",
+      "bowl": "Abrar Ahmed",
+      "bowl_t": "Pakistan",
+      "v": "bowler",
+      "h2h": {
+        "balls": 15,
+        "runs": 15,
+        "dismissals": 0,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 144,
+        "balls": 129,
+        "dismissals": 8,
+        "average": 18.0,
+        "strike_rate": 111.63
+      },
+      "b_car": {
+        "avg": 38.51,
+        "sr": 156.8
+      },
+      "b_f": [
+        18,
+        34,
+        32
+      ],
+      "w_f": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "SA Yadav",
+      "bat_t": "India",
+      "bowl": "Shadab Khan",
+      "bowl_t": "Pakistan",
+      "v": "bowler",
+      "h2h": {
+        "balls": 14,
+        "runs": 18,
+        "dismissals": 0,
+        "strike_rate": 128.57
+      },
+      "vs_t": {
+        "runs": 144,
+        "balls": 129,
+        "dismissals": 8,
+        "average": 18.0,
+        "strike_rate": 111.63
+      },
+      "b_car": {
+        "avg": 38.51,
+        "sr": 156.8
+      },
+      "b_f": [
+        18,
+        34,
+        32
+      ],
+      "w_f": [
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "bat": "Tilak Varma",
+      "bat_t": "India",
+      "bowl": "Faheem Ashraf",
+      "bowl_t": "Pakistan",
+      "v": "batsman",
+      "h2h": {
+        "balls": 14,
+        "runs": 23,
+        "dismissals": 0,
+        "strike_rate": 164.29
+      },
+      "vs_t": {
+        "runs": 155,
+        "balls": 129,
+        "dismissals": 2,
+        "average": 77.5,
+        "strike_rate": 120.16
+      },
+      "b_car": {
+        "avg": 46.81,
+        "sr": 136.65
+      },
+      "b_f": [
+        1,
+        31,
+        25
+      ],
+      "w_f": [
+        0
+      ]
+    },
+    {
+      "bat": "HH Pandya",
+      "bat_t": "India",
+      "bowl": "Shaheen Shah Afridi",
+      "bowl_t": "Pakistan",
+      "v": "bowler",
+      "h2h": {
+        "balls": 13,
+        "runs": 14,
+        "dismissals": 0,
+        "strike_rate": 107.69
+      },
+      "vs_t": {
+        "runs": 98,
+        "balls": 89,
+        "dismissals": 6,
+        "average": 16.33,
+        "strike_rate": 110.11
+      },
+      "b_car": {
+        "avg": 28.12,
+        "sr": 138.02
+      },
+      "b_f": [
+        18,
+        30,
+        0
+      ],
+      "w_f": [
+        4,
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "Babar Azam",
+      "bat_t": "Pakistan",
+      "bowl": "CV Varun",
+      "bowl_t": "India",
+      "v": "batsman",
+      "h2h": {
+        "balls": 13,
+        "runs": 17,
+        "dismissals": 0,
+        "strike_rate": 130.77
+      },
+      "vs_t": {
+        "runs": 110,
+        "balls": 94,
+        "dismissals": 5,
+        "average": 22.0,
+        "strike_rate": 117.02
+      },
+      "w_car": {
+        "avg": 15.9,
+        "eco": 7.36
+      },
+      "b_f": [
+        25,
+        5,
+        46
+      ],
+      "w_f": [
+        1,
+        3,
+        2
+      ]
+    },
+    {
+      "bat": "Shaheen Shah Afridi",
+      "bat_t": "Pakistan",
+      "bowl": "HH Pandya",
+      "bowl_t": "India",
+      "v": "batsman",
+      "h2h": {
+        "balls": 12,
+        "runs": 23,
+        "dismissals": 0,
+        "strike_rate": 191.67
+      },
+      "vs_t": {
+        "runs": 72,
+        "balls": 50,
+        "dismissals": 2,
+        "average": 36.0,
+        "strike_rate": 144.0
+      },
+      "w_car": {
+        "avg": 27.46,
+        "eco": 8.49
+      },
+      "b_f": [
+        2,
+        23,
+        9
+      ],
+      "w_f": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "HH Pandya",
+      "bat_t": "India",
+      "bowl": "Shadab Khan",
+      "bowl_t": "Pakistan",
+      "v": "bowler",
+      "h2h": {
+        "balls": 11,
+        "runs": 9,
+        "dismissals": 0,
+        "strike_rate": 81.82
+      },
+      "vs_t": {
+        "runs": 98,
+        "balls": 89,
+        "dismissals": 6,
+        "average": 16.33,
+        "strike_rate": 110.11
+      },
+      "b_car": {
+        "avg": 28.12,
+        "sr": 138.02
+      },
+      "b_f": [
+        18,
+        30,
+        0
+      ],
+      "w_f": [
+        0,
+        3,
+        0
+      ]
+    }
+  ]
+}

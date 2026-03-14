@@ -1,0 +1,95 @@
+{
+    "match_id": "1512740",
+    "winner": "Ireland",
+    "loser": "Oman",
+    "awards": {
+        "player_of_the_match": {
+            "name": "Aamir Kaleem",
+            "team": "Oman",
+            "impact_score": 186.0,
+            "breakdown": {
+                "batting": 97.0,
+                "bowling": 50,
+                "fielding": 8,
+                "pressure_multiplier": 1.2
+            },
+            "key_stats": {
+                "batting": "50(29) SR:172.41",
+                "bowling": "4.0ov-1wkt econ:7.25"
+            }
+        },
+        "best_batter": {
+            "name": "L Tucker",
+            "team": "Ireland",
+            "batting_impact": 153.0,
+            "stats": {
+                "runs": 94,
+                "balls": 53,
+                "sr": 177.36,
+                "fours": 10,
+                "sixes": 4
+            }
+        },
+        "best_bowler": {
+            "name": "J Little",
+            "team": "Ireland",
+            "bowling_impact": 120,
+            "stats": {
+                "overs": 4.0,
+                "wickets": 3,
+                "econ": 4.0
+            }
+        },
+        "game_changer": {
+            "name": "L Tucker",
+            "team": "Ireland",
+            "reason": "SR 177.36 with 4 sixes",
+            "key_stats": {
+                "batting": "94(53) SR:177.36"
+            }
+        },
+        "pressure_performer": {
+            "name": "Aamir Kaleem",
+            "team": "Oman",
+            "pressure_multiplier": 1.2,
+            "reason": "Chasing team batter under pressure | Attacking SR 172.41 under pressure | Economy 7.25 while defending chase",
+            "key_stats": {
+                "batting": "50(29) SR:172.41",
+                "bowling": "4.0ov-1wkt econ:7.25"
+            }
+        },
+        "emerging_player": {
+            "name": "Aamir Kaleem",
+            "team": "Oman",
+            "reason": "Outperformed team average by 4.53x",
+            "key_stats": {
+                "batting": "50(29) SR:172.41",
+                "bowling": "4.0ov-1wkt econ:7.25"
+            }
+        },
+        "fielding_impact": {
+            "name": "J Little",
+            "team": "Ireland",
+            "fielding_proxy_score": 21,
+            "methodology": "Proxy-based: catch attribution (65% T20 wickets are catches) + dot ball pressure bonus + economy-implied fielding support",
+            "reason": "Estimated 2 caught dismissals from 3 wickets | Economy 4.0 — tight fielding support implied",
+            "stats": {
+                "overs": 4.0,
+                "wickets": 3,
+                "econ": 4.0
+            }
+        },
+        "all_rounder_impact": {
+            "name": "Aamir Kaleem",
+            "team": "Oman",
+            "all_rounder_score": 147.0,
+            "stats": {
+                "runs": 50,
+                "sr": 172.41,
+                "overs": 4.0,
+                "wickets": 1,
+                "econ": 7.25
+            }
+        }
+    }
+}

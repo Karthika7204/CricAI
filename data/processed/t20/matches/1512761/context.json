@@ -1,0 +1,1216 @@
+{
+    "match_id": "1512761",
+    "metadata": {
+        "tournament": "2025/26",
+        "venue": "Narendra Modi Stadium, Ahmedabad",
+        "date": "2026-02-22",
+        "stage": "ICC Men's T20 World Cup",
+        "winner": "South Africa",
+        "loser": "India",
+        "win_classification": "Moderate",
+        "margin_runs": 76,
+        "margin_wickets": null,
+        "competitiveness_index": 85.0,
+        "teams": {
+            "South Africa": {
+                "captain": "AK Markram",
+                "playing_xi_count": 11
+            },
+            "India": {
+                "captain": "SA Yadav",
+                "playing_xi_count": 11
+            }
+        },
+        "team_summary": {
+            "South Africa": {
+                "run_rate": 9.35,
+                "fours": 13,
+                "sixes": 10,
+                "boundary_runs": 112,
+                "dot_balls": 41,
+                "total_runs": 187,
+                "total_wickets": 7
+            },
+            "India": {
+                "run_rate": 5.89,
+                "fours": 5,
+                "sixes": 6,
+                "boundary_runs": 56,
+                "dot_balls": 55,
+                "total_runs": 111,
+                "total_wickets": 10
+            }
+        },
+        "formulas": {
+            "competitiveness": "Base(Margin) + Pressure_Bonus(L5 Overs)",
+            "pressure": "((RR_Gap / Start_RR) * 40) + ((Wickets / 10) * 60)",
+            "batting_impact": "Runs + (SR/Match_SR * 25)",
+            "bowling_impact": "(Wickets * 30) + (Match_RR/Econ * 20)"
+        }
+    },
+    "scorecards": {
+        "batting": [
+            {
+                "player": "DA Miller",
+                "team": "South Africa",
+                "runs": 63,
+                "balls": 37,
+                "sr": 170.27,
+                "fours": 7,
+                "sixes": 3,
+                "win_contribution_percent": 33.7,
+                "score": 99.98
+            },
+            {
+                "player": "D Brevis",
+                "team": "South Africa",
+                "runs": 45,
+                "balls": 33,
+                "sr": 136.36,
+                "fours": 3,
+                "sixes": 3,
+                "win_contribution_percent": 24.1,
+                "score": 74.62
+            },
+            {
+                "player": "T Stubbs",
+                "team": "South Africa",
+                "runs": 44,
+                "balls": 24,
+                "sr": 183.33,
+                "fours": 1,
+                "sixes": 3,
+                "win_contribution_percent": 23.5,
+                "score": 83.82
+            },
+            {
+                "player": "RD Rickelton",
+                "team": "South Africa",
+                "runs": 7,
+                "balls": 7,
+                "sr": 100.0,
+                "fours": 0,
+                "sixes": 1,
+                "win_contribution_percent": 3.7,
+                "score": 28.72
+            },
+            {
+                "player": "Q de Kock",
+                "team": "South Africa",
+                "runs": 6,
+                "balls": 7,
+                "sr": 85.71,
+                "fours": 1,
+                "sixes": 0,
+                "win_contribution_percent": 3.2,
+                "score": 24.62
+            },
+            {
+                "player": "C Bosch",
+                "team": "South Africa",
+                "runs": 5,
+                "balls": 6,
+                "sr": 83.33,
+                "fours": 1,
+                "sixes": 0,
+                "win_contribution_percent": 2.7,
+                "score": 23.1
+            },
+            {
+                "player": "AK Markram",
+                "team": "South Africa",
+                "runs": 4,
+                "balls": 7,
+                "sr": 57.14,
+                "fours": 0,
+                "sixes": 0,
+                "win_contribution_percent": 2.1,
+                "score": 16.41
+            },
+            {
+                "player": "M Jansen",
+                "team": "South Africa",
+                "runs": 2,
+                "balls": 6,
+                "sr": 33.33,
+                "fours": 0,
+                "sixes": 0,
+                "win_contribution_percent": 1.1,
+                "score": 9.24
+            },
+            {
+                "player": "K Rabada",
+                "team": "South Africa",
+                "runs": 0,
+                "balls": 1,
+                "sr": 0.0,
+                "fours": 0,
+                "sixes": 0,
+                "win_contribution_percent": 0.0,
+                "score": 0.0
+            },
+            {
+                "player": "S Dube",
+                "team": "India",
+                "runs": 42,
+                "balls": 37,
+                "sr": 113.51,
+                "fours": 1,
+                "sixes": 3,
+                "win_contribution_percent": 37.8,
+                "score": 66.65
+            },
+            {
+                "player": "HH Pandya",
+                "team": "India",
+                "runs": 18,
+                "balls": 19,
+                "sr": 94.74,
+                "fours": 0,
+                "sixes": 1,
+                "win_contribution_percent": 16.2,
+                "score": 38.58
+            },
+            {
+                "player": "SA Yadav",
+                "team": "India",
+                "runs": 18,
+                "balls": 23,
+                "sr": 78.26,
+                "fours": 2,
+                "sixes": 0,
+                "win_contribution_percent": 16.2,
+                "score": 35.0
+            },
+            {
+                "player": "Abhishek Sharma",
+                "team": "India",
+                "runs": 15,
+                "balls": 13,
+                "sr": 115.38,
+                "fours": 2,
+                "sixes": 1,
+                "win_contribution_percent": 13.5,
+                "score": 40.06
+            },
+            {
+                "player": "Washington Sundar",
+                "team": "India",
+                "runs": 11,
+                "balls": 11,
+                "sr": 100.0,
+                "fours": 0,
+                "sixes": 1,
+                "win_contribution_percent": 9.9,
+                "score": 32.72
+            },
+            {
+                "player": "Arshdeep Singh",
+                "team": "India",
+                "runs": 1,
+                "balls": 2,
+                "sr": 50.0,
+                "fours": 0,
+                "sixes": 0,
+                "win_contribution_percent": 0.9,
+                "score": 11.86
+            },
+            {
+                "player": "Tilak Varma",
+                "team": "India",
+                "runs": 1,
+                "balls": 2,
+                "sr": 50.0,
+                "fours": 0,
+                "sixes": 0,
+                "win_contribution_percent": 0.9,
+                "score": 11.86
+            },
+            {
+                "player": "CV Varun",
+                "team": "India",
+                "runs": 0,
+                "balls": 3,
+                "sr": 0.0,
+                "fours": 0,
+                "sixes": 0,
+                "win_contribution_percent": 0.0,
+                "score": 0.0
+            },
+            {
+                "player": "Ishan Kishan",
+                "team": "India",
+                "runs": 0,
+                "balls": 4,
+                "sr": 0.0,
+                "fours": 0,
+                "sixes": 0,
+                "win_contribution_percent": 0.0,
+                "score": 0.0
+            },
+            {
+                "player": "JJ Bumrah",
+                "team": "India",
+                "runs": 0,
+                "balls": 1,
+                "sr": 0.0,
+                "fours": 0,
+                "sixes": 0,
+                "win_contribution_percent": 0.0,
+                "score": 0.0
+            },
+            {
+                "player": "RK Singh",
+                "team": "India",
+                "runs": 0,
+                "balls": 2,
+                "sr": 0.0,
+                "fours": 0,
+                "sixes": 0,
+                "win_contribution_percent": 0.0,
+                "score": 0.0
+            }
+        ],
+        "bowling": [
+            {
+                "player": "JJ Bumrah",
+                "team": "India",
+                "overs": 4.0,
+                "runs": 15,
+                "wickets": 3,
+                "econ": 3.75,
+                "score": 128.92,
+                "bowling_baseline": {
+                    "career_wickets": 113,
+                    "career_economy": 6.85,
+                    "career_sr": 17.08,
+                    "career_avg": 19.51,
+                    "best_bowling": "3/23",
+                    "matches": 88,
+                    "source": "t20_bowling_master",
+                    "baseline_available": true
+                }
+            },
+            {
+                "player": "Arshdeep Singh",
+                "team": "India",
+                "overs": 4.0,
+                "runs": 30,
+                "wickets": 2,
+                "econ": 7.5,
+                "score": 79.46,
+                "bowling_baseline": {
+                    "career_wickets": 120,
+                    "career_economy": 8.75,
+                    "career_sr": 13.46,
+                    "career_avg": 19.63,
+                    "best_bowling": "5/51",
+                    "matches": 76,
+                    "source": "t20_bowling_master",
+                    "baseline_available": true
+                }
+            },
+            {
+                "player": "CV Varun",
+                "team": "India",
+                "overs": 4.0,
+                "runs": 48,
+                "wickets": 1,
+                "econ": 12.0,
+                "score": 42.16,
+                "bowling_baseline": {
+                    "career_wickets": 71,
+                    "career_economy": 7.36,
+                    "career_sr": 12.97,
+                    "career_avg": 15.9,
+                    "best_bowling": "5/24",
+                    "matches": 41,
+                    "source": "t20_bowling_master",
+                    "baseline_available": true
+                }
+            },
+            {
+                "player": "S Dube",
+                "team": "India",
+                "overs": 2.0,
+                "runs": 32,
+                "wickets": 1,
+                "econ": 16.0,
+                "score": 39.12,
+                "bowling_baseline": {
+                    "career_wickets": 28,
+                    "career_economy": 9.74,
+                    "career_sr": 16.79,
+                    "career_avg": 27.25,
+                    "best_bowling": "3/31",
+                    "matches": 37,
+                    "source": "t20_bowling_master",
+                    "baseline_available": true
+                }
+            },
+            {
+                "player": "Washington Sundar",
+                "team": "India",
+                "overs": 2.0,
+                "runs": 17,
+                "wickets": 0,
+                "econ": 8.5,
+                "score": 17.17,
+                "bowling_baseline": {
+                    "career_wickets": 50,
+                    "career_economy": 6.99,
+                    "career_sr": 19.48,
+                    "career_avg": 22.7,
+                    "best_bowling": "4/26",
+                    "matches": 52,
+                    "source": "t20_bowling_master",
+                    "baseline_available": true
+                }
+            },
+            {
+                "player": "HH Pandya",
+                "team": "India",
+                "overs": 4.0,
+                "runs": 45,
+                "wickets": 0,
+                "econ": 11.25,
+                "score": 12.97,
+                "bowling_baseline": {
+                    "career_wickets": 111,
+                    "career_economy": 8.49,
+                    "career_sr": 19.4,
+                    "career_avg": 27.46,
+                    "best_bowling": "4/38",
+                    "matches": 121,
+                    "source": "t20_bowling_master",
+                    "baseline_available": true
+                }
+            },
+            {
+                "player": "M Jansen",
+                "team": "South Africa",
+                "overs": 3.5,
+                "runs": 23,
+                "wickets": 4,
+                "econ": 6.0,
+                "score": 144.33,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "KA Maharaj",
+                "team": "South Africa",
+                "overs": 3.0,
+                "runs": 24,
+                "wickets": 3,
+                "econ": 8.0,
+                "score": 108.24,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "C Bosch",
+                "team": "South Africa",
+                "overs": 3.0,
+                "runs": 12,
+                "wickets": 2,
+                "econ": 4.0,
+                "score": 96.49,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "AK Markram",
+                "team": "South Africa",
+                "overs": 1.0,
+                "runs": 5,
+                "wickets": 1,
+                "econ": 5.0,
+                "score": 59.19,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "L Ngidi",
+                "team": "South Africa",
+                "overs": 4.0,
+                "runs": 15,
+                "wickets": 0,
+                "econ": 3.75,
+                "score": 38.92,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "K Rabada",
+                "team": "South Africa",
+                "overs": 4.0,
+                "runs": 32,
+                "wickets": 0,
+                "econ": 8.0,
+                "score": 18.24,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            }
+        ]
+    },
+    "innings": [
+        {
+            "innings": 1,
+            "team": "South Africa",
+            "total_runs": 187,
+            "total_wickets": 7,
+            "balls_faced": 120,
+            "overs_faced": 20.0,
+            "phase_analysis": {
+                "Powerplay": {
+                    "runs": 41,
+                    "wkts": 3,
+                    "rr": 6.83
+                },
+                "Middle": {
+                    "runs": 103,
+                    "wkts": 1,
+                    "rr": 11.44
+                },
+                "Death": {
+                    "runs": 43,
+                    "wkts": 3,
+                    "rr": 8.6
+                }
+            }
+        },
+        {
+            "innings": 2,
+            "team": "India",
+            "total_runs": 111,
+            "total_wickets": 10,
+            "balls_faced": 113,
+            "overs_faced": 18.5,
+            "phase_analysis": {
+                "Powerplay": {
+                    "runs": 31,
+                    "wkts": 3,
+                    "rr": 5.17
+                },
+                "Middle": {
+                    "runs": 57,
+                    "wkts": 5,
+                    "rr": 6.33
+                },
+                "Death": {
+                    "runs": 23,
+                    "wkts": 2,
+                    "rr": 6.0
+                }
+            },
+            "pressure_index": 90.0,
+            "target": 188
+        }
+    ],
+    "players": [
+        {
+            "player": "M Jansen",
+            "team": "South Africa",
+            "overs": 3.5,
+            "runs": 23,
+            "wickets": 4,
+            "econ": 6.0,
+            "score": 144.33,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "3.5o-23r-4w"
+        },
+        {
+            "player": "JJ Bumrah",
+            "team": "India",
+            "overs": 4.0,
+            "runs": 15,
+            "wickets": 3,
+            "econ": 3.75,
+            "score": 128.92,
+            "bowling_baseline": {
+                "career_wickets": 113,
+                "career_economy": 6.85,
+                "career_sr": 17.08,
+                "career_avg": 19.51,
+                "best_bowling": "3/23",
+                "matches": 88,
+                "source": "t20_bowling_master",
+                "baseline_available": true
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-15r-3w"
+        },
+        {
+            "player": "KA Maharaj",
+            "team": "South Africa",
+            "overs": 3.0,
+            "runs": 24,
+            "wickets": 3,
+            "econ": 8.0,
+            "score": 108.24,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "3.0o-24r-3w"
+        },
+        {
+            "player": "DA Miller",
+            "team": "South Africa",
+            "runs": 63,
+            "balls": 37,
+            "sr": 170.27,
+            "fours": 7,
+            "sixes": 3,
+            "win_contribution_percent": 33.7,
+            "score": 99.98,
+            "role": "batting",
+            "match_stats": "63(37)",
+            "baseline": {
+                "avg": 34.81,
+                "sr": 136.68,
+                "matches": 119,
+                "source": "t20_master",
+                "baseline_available": true
+            }
+        },
+        {
+            "player": "C Bosch",
+            "team": "South Africa",
+            "overs": 3.0,
+            "runs": 12,
+            "wickets": 2,
+            "econ": 4.0,
+            "score": 96.49,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "3.0o-12r-2w"
+        },
+        {
+            "player": "T Stubbs",
+            "team": "South Africa",
+            "runs": 44,
+            "balls": 24,
+            "sr": 183.33,
+            "fours": 1,
+            "sixes": 3,
+            "win_contribution_percent": 23.5,
+            "score": 83.82,
+            "role": "batting",
+            "match_stats": "44(24)",
+            "baseline": {
+                "avg": 30.53,
+                "sr": 131.99,
+                "matches": 40,
+                "source": "t20_master",
+                "baseline_available": true
+            }
+        },
+        {
+            "player": "Arshdeep Singh",
+            "team": "India",
+            "overs": 4.0,
+            "runs": 30,
+            "wickets": 2,
+            "econ": 7.5,
+            "score": 79.46,
+            "bowling_baseline": {
+                "career_wickets": 120,
+                "career_economy": 8.75,
+                "career_sr": 13.46,
+                "career_avg": 19.63,
+                "best_bowling": "5/51",
+                "matches": 76,
+                "source": "t20_bowling_master",
+                "baseline_available": true
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-30r-2w"
+        },
+        {
+            "player": "D Brevis",
+            "team": "South Africa",
+            "runs": 45,
+            "balls": 33,
+            "sr": 136.36,
+            "fours": 3,
+            "sixes": 3,
+            "win_contribution_percent": 24.1,
+            "score": 74.62,
+            "role": "batting",
+            "match_stats": "45(33)",
+            "baseline": {
+                "avg": 26.0,
+                "sr": 154.92,
+                "matches": 25,
+                "source": "t20_master",
+                "baseline_available": true
+            }
+        },
+        {
+            "player": "S Dube",
+            "team": "India",
+            "runs": 42,
+            "balls": 37,
+            "sr": 113.51,
+            "fours": 1,
+            "sixes": 3,
+            "win_contribution_percent": 37.8,
+            "score": 66.65,
+            "role": "batting",
+            "match_stats": "42(37)",
+            "baseline": {
+                "avg": 31.2,
+                "sr": 141.3,
+                "matches": 40,
+                "source": "t20_master",
+                "baseline_available": true
+            }
+        },
+        {
+            "player": "AK Markram",
+            "team": "South Africa",
+            "overs": 1.0,
+            "runs": 5,
+            "wickets": 1,
+            "econ": 5.0,
+            "score": 59.19,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "1.0o-5r-1w"
+        },
+        {
+            "player": "CV Varun",
+            "team": "India",
+            "overs": 4.0,
+            "runs": 48,
+            "wickets": 1,
+            "econ": 12.0,
+            "score": 42.16,
+            "bowling_baseline": {
+                "career_wickets": 71,
+                "career_economy": 7.36,
+                "career_sr": 12.97,
+                "career_avg": 15.9,
+                "best_bowling": "5/24",
+                "matches": 41,
+                "source": "t20_bowling_master",
+                "baseline_available": true
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-48r-1w"
+        },
+        {
+            "player": "Abhishek Sharma",
+            "team": "India",
+            "runs": 15,
+            "balls": 13,
+            "sr": 115.38,
+            "fours": 2,
+            "sixes": 1,
+            "win_contribution_percent": 13.5,
+            "score": 40.06,
+            "role": "batting",
+            "match_stats": "15(13)",
+            "baseline": {
+                "avg": 35.46,
+                "sr": 184.27,
+                "matches": 41,
+                "source": "t20_master",
+                "baseline_available": true
+            }
+        },
+        {
+            "player": "S Dube",
+            "team": "India",
+            "overs": 2.0,
+            "runs": 32,
+            "wickets": 1,
+            "econ": 16.0,
+            "score": 39.12,
+            "bowling_baseline": {
+                "career_wickets": 28,
+                "career_economy": 9.74,
+                "career_sr": 16.79,
+                "career_avg": 27.25,
+                "best_bowling": "3/31",
+                "matches": 37,
+                "source": "t20_bowling_master",
+                "baseline_available": true
+            },
+            "role": "bowling",
+            "match_stats": "2.0o-32r-1w"
+        },
+        {
+            "player": "L Ngidi",
+            "team": "South Africa",
+            "overs": 4.0,
+            "runs": 15,
+            "wickets": 0,
+            "econ": 3.75,
+            "score": 38.92,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-15r-0w"
+        },
+        {
+            "player": "HH Pandya",
+            "team": "India",
+            "runs": 18,
+            "balls": 19,
+            "sr": 94.74,
+            "fours": 0,
+            "sixes": 1,
+            "win_contribution_percent": 16.2,
+            "score": 38.58,
+            "role": "batting",
+            "match_stats": "18(19)",
+            "baseline": {
+                "avg": 28.12,
+                "sr": 138.02,
+                "matches": 103,
+                "source": "t20_master",
+                "baseline_available": true
+            }
+        },
+        {
+            "player": "SA Yadav",
+            "team": "India",
+            "runs": 18,
+            "balls": 23,
+            "sr": 78.26,
+            "fours": 2,
+            "sixes": 0,
+            "win_contribution_percent": 16.2,
+            "score": 35.0,
+            "role": "batting",
+            "match_stats": "18(23)",
+            "baseline": {
+                "avg": 38.51,
+                "sr": 156.8,
+                "matches": 101,
+                "source": "t20_master",
+                "baseline_available": true
+            }
+        },
+        {
+            "player": "Washington Sundar",
+            "team": "India",
+            "runs": 11,
+            "balls": 11,
+            "sr": 100.0,
+            "fours": 0,
+            "sixes": 1,
+            "win_contribution_percent": 9.9,
+            "score": 32.72,
+            "role": "batting",
+            "match_stats": "11(11)",
+            "baseline": {
+                "avg": 17.67,
+                "sr": 125.0,
+                "matches": 23,
+                "source": "t20_master",
+                "baseline_available": true
+            }
+        },
+        {
+            "player": "RD Rickelton",
+            "team": "South Africa",
+            "runs": 7,
+            "balls": 7,
+            "sr": 100.0,
+            "fours": 0,
+            "sixes": 1,
+            "win_contribution_percent": 3.7,
+            "score": 28.72,
+            "role": "batting",
+            "match_stats": "7(7)",
+            "baseline": {
+                "avg": 26.26,
+                "sr": 141.78,
+                "matches": 25,
+                "source": "t20_master",
+                "baseline_available": true
+            }
+        },
+        {
+            "player": "Q de Kock",
+            "team": "South Africa",
+            "runs": 6,
+            "balls": 7,
+            "sr": 85.71,
+            "fours": 1,
+            "sixes": 0,
+            "win_contribution_percent": 3.2,
+            "score": 24.62,
+            "role": "batting",
+            "match_stats": "6(7)",
+            "baseline": {
+                "avg": 31.84,
+                "sr": 136.42,
+                "matches": 101,
+                "source": "t20_master",
+                "baseline_available": true
+            }
+        },
+        {
+            "player": "C Bosch",
+            "team": "South Africa",
+            "runs": 5,
+            "balls": 6,
+            "sr": 83.33,
+            "fours": 1,
+            "sixes": 0,
+            "win_contribution_percent": 2.7,
+            "score": 23.1,
+            "role": "batting",
+            "match_stats": "5(6)",
+            "baseline": {
+                "avg": 14.12,
+                "sr": 104.63,
+                "matches": 13,
+                "source": "t20_master",
+                "baseline_available": true
+            }
+        },
+        {
+            "player": "K Rabada",
+            "team": "South Africa",
+            "overs": 4.0,
+            "runs": 32,
+            "wickets": 0,
+            "econ": 8.0,
+            "score": 18.24,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-32r-0w"
+        },
+        {
+            "player": "Washington Sundar",
+            "team": "India",
+            "overs": 2.0,
+            "runs": 17,
+            "wickets": 0,
+            "econ": 8.5,
+            "score": 17.17,
+            "bowling_baseline": {
+                "career_wickets": 50,
+                "career_economy": 6.99,
+                "career_sr": 19.48,
+                "career_avg": 22.7,
+                "best_bowling": "4/26",
+                "matches": 52,
+                "source": "t20_bowling_master",
+                "baseline_available": true
+            },
+            "role": "bowling",
+            "match_stats": "2.0o-17r-0w"
+        },
+        {
+            "player": "AK Markram",
+            "team": "South Africa",
+            "runs": 4,
+            "balls": 7,
+            "sr": 57.14,
+            "fours": 0,
+            "sixes": 0,
+            "win_contribution_percent": 2.1,
+            "score": 16.41,
+            "role": "batting",
+            "match_stats": "4(7)",
+            "baseline": {
+                "avg": 31.08,
+                "sr": 143.73,
+                "matches": 68,
+                "source": "t20_master",
+                "baseline_available": true
+            }
+        },
+        {
+            "player": "HH Pandya",
+            "team": "India",
+            "overs": 4.0,
+            "runs": 45,
+            "wickets": 0,
+            "econ": 11.25,
+            "score": 12.97,
+            "bowling_baseline": {
+                "career_wickets": 111,
+                "career_economy": 8.49,
+                "career_sr": 19.4,
+                "career_avg": 27.46,
+                "best_bowling": "4/38",
+                "matches": 121,
+                "source": "t20_bowling_master",
+                "baseline_available": true
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-45r-0w"
+        },
+        {
+            "player": "Arshdeep Singh",
+            "team": "India",
+            "runs": 1,
+            "balls": 2,
+            "sr": 50.0,
+            "fours": 0,
+            "sixes": 0,
+            "win_contribution_percent": 0.9,
+            "score": 11.86,
+            "role": "batting",
+            "match_stats": "1(2)",
+            "baseline": {
+                "avg": 7.25,
+                "sr": 98.86,
+                "matches": 26,
+                "source": "t20_master",
+                "baseline_available": true
+            }
+        },
+        {
+            "player": "Tilak Varma",
+            "team": "India",
+            "runs": 1,
+            "balls": 2,
+            "sr": 50.0,
+            "fours": 0,
+            "sixes": 0,
+            "win_contribution_percent": 0.9,
+            "score": 11.86,
+            "role": "batting",
+            "match_stats": "1(2)",
+            "baseline": {
+                "avg": 46.81,
+                "sr": 136.65,
+                "matches": 41,
+                "source": "t20_master",
+                "baseline_available": true
+            }
+        },
+        {
+            "player": "M Jansen",
+            "team": "South Africa",
+            "runs": 2,
+            "balls": 6,
+            "sr": 33.33,
+            "fours": 0,
+            "sixes": 0,
+            "win_contribution_percent": 1.1,
+            "score": 9.24,
+            "role": "batting",
+            "match_stats": "2(6)",
+            "baseline": {
+                "avg": 14.07,
+                "sr": 134.93,
+                "matches": 18,
+                "source": "t20_master",
+                "baseline_available": true
+            }
+        },
+        {
+            "player": "K Rabada",
+            "team": "South Africa",
+            "runs": 0,
+            "balls": 1,
+            "sr": 0.0,
+            "fours": 0,
+            "sixes": 0,
+            "win_contribution_percent": 0.0,
+            "score": 0.0,
+            "role": "batting",
+            "match_stats": "0(1)",
+            "baseline": {
+                "avg": 16.73,
+                "sr": 110.84,
+                "matches": 26,
+                "source": "t20_master",
+                "baseline_available": true
+            }
+        },
+        {
+            "player": "CV Varun",
+            "team": "India",
+            "runs": 0,
+            "balls": 3,
+            "sr": 0.0,
+            "fours": 0,
+            "sixes": 0,
+            "win_contribution_percent": 0.0,
+            "score": 0.0,
+            "role": "batting",
+            "match_stats": "0(3)",
+            "baseline": {
+                "avg": 1.0,
+                "sr": 21.43,
+                "matches": 8,
+                "source": "t20_master",
+                "baseline_available": true
+            }
+        },
+        {
+            "player": "Ishan Kishan",
+            "team": "India",
+            "runs": 0,
+            "balls": 4,
+            "sr": 0.0,
+            "fours": 0,
+            "sixes": 0,
+            "win_contribution_percent": 0.0,
+            "score": 0.0,
+            "role": "batting",
+            "match_stats": "0(4)",
+            "baseline": {
+                "avg": 29.68,
+                "sr": 138.02,
+                "matches": 41,
+                "source": "t20_master",
+                "baseline_available": true
+            }
+        },
+        {
+            "player": "JJ Bumrah",
+            "team": "India",
+            "runs": 0,
+            "balls": 1,
+            "sr": 0.0,
+            "fours": 0,
+            "sixes": 0,
+            "win_contribution_percent": 0.0,
+            "score": 0.0,
+            "role": "batting",
+            "match_stats": "0(1)",
+            "baseline": {
+                "avg": 3.0,
+                "sr": 63.16,
+                "matches": 7,
+                "source": "t20_master",
+                "baseline_available": true
+            }
+        },
+        {
+            "player": "RK Singh",
+            "team": "India",
+            "runs": 0,
+            "balls": 2,
+            "sr": 0.0,
+            "fours": 0,
+            "sixes": 0,
+            "win_contribution_percent": 0.0,
+            "score": 0.0,
+            "role": "batting",
+            "match_stats": "0(2)",
+            "baseline": {
+                "avg": 28.1,
+                "sr": 136.57,
+                "matches": 34,
+                "source": "t20_master",
+                "baseline_available": true
+            }
+        }
+    ],
+    "validation": {
+        "logical_stability": true
+    }
+}

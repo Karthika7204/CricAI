@@ -1,0 +1,1431 @@
+{
+  "match_id": "1512729",
+  "team_a": "United Arab Emirates",
+  "team_b": "New Zealand",
+  "matchups": [
+    {
+      "bat": "A Sharma",
+      "bat_t": "United Arab Emirates",
+      "bowl": "MJ Santner",
+      "bowl_t": "New Zealand",
+      "v": "bowler",
+      "h2h": {
+        "balls": 13,
+        "runs": 10,
+        "dismissals": 1,
+        "strike_rate": 76.92
+      },
+      "vs_t": {
+        "runs": 84,
+        "balls": 77,
+        "dismissals": 4,
+        "average": 21.0,
+        "strike_rate": 109.09
+      },
+      "b_car": {
+        "avg": 25.82,
+        "sr": 113.44
+      },
+      "b_f": [
+        13,
+        74,
+        8
+      ],
+      "w_f": [
+        1,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "A Sharma",
+      "bat_t": "United Arab Emirates",
+      "bowl": "JDS Neesham",
+      "bowl_t": "New Zealand",
+      "v": "bowler",
+      "h2h": {
+        "balls": 10,
+        "runs": 6,
+        "dismissals": 1,
+        "strike_rate": 60.0
+      },
+      "vs_t": {
+        "runs": 84,
+        "balls": 77,
+        "dismissals": 4,
+        "average": 21.0,
+        "strike_rate": 109.09
+      },
+      "b_car": {
+        "avg": 25.82,
+        "sr": 113.44
+      },
+      "b_f": [
+        13,
+        74,
+        8
+      ],
+      "w_f": [
+        1,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "Waseem Muhammad",
+      "bat_t": "United Arab Emirates",
+      "bowl": "MJ Santner",
+      "bowl_t": "New Zealand",
+      "v": "batsman",
+      "h2h": {
+        "balls": 17,
+        "runs": 28,
+        "dismissals": 1,
+        "strike_rate": 164.71
+      },
+      "vs_t": {
+        "runs": 129,
+        "balls": 80,
+        "dismissals": 3,
+        "average": 43.0,
+        "strike_rate": 161.25
+      },
+      "b_f": [
+        22,
+        4,
+        66
+      ],
+      "w_f": [
+        1,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "TL Seifert",
+      "bat_t": "New Zealand",
+      "bowl": "Junaid Siddique",
+      "bowl_t": "United Arab Emirates",
+      "v": "batsman",
+      "h2h": {
+        "balls": 16,
+        "runs": 30,
+        "dismissals": 1,
+        "strike_rate": 187.5
+      },
+      "vs_t": {
+        "runs": 164,
+        "balls": 95,
+        "dismissals": 3,
+        "average": 54.67,
+        "strike_rate": 172.63
+      },
+      "b_f": [
+        8,
+        6,
+        13
+      ],
+      "w_f": [
+        0,
+        5,
+        0
+      ]
+    },
+    {
+      "bat": "A Sharma",
+      "bat_t": "United Arab Emirates",
+      "bowl": "JA Duffy",
+      "bowl_t": "New Zealand",
+      "v": "bowler",
+      "h2h": {
+        "balls": 3,
+        "runs": 4,
+        "dismissals": 1,
+        "strike_rate": 133.33
+      },
+      "vs_t": {
+        "runs": 84,
+        "balls": 77,
+        "dismissals": 4,
+        "average": 21.0,
+        "strike_rate": 109.09
+      },
+      "b_car": {
+        "avg": 25.82,
+        "sr": 113.44
+      },
+      "b_f": [
+        13,
+        74,
+        8
+      ],
+      "w_f": [
+        1,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "A Sharafu",
+      "bat_t": "United Arab Emirates",
+      "bowl": "MJ Santner",
+      "bowl_t": "New Zealand",
+      "v": "neutral",
+      "h2h": {
+        "balls": 12,
+        "runs": 11,
+        "dismissals": 1,
+        "strike_rate": 91.67
+      },
+      "vs_t": {
+        "runs": 55,
+        "balls": 48,
+        "dismissals": 1,
+        "average": 55.0,
+        "strike_rate": 114.58
+      },
+      "b_f": [
+        45,
+        5,
+        55
+      ],
+      "w_f": [
+        1,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "MR Kumar",
+      "bat_t": "United Arab Emirates",
+      "bowl": "LH Ferguson",
+      "bowl_t": "New Zealand",
+      "v": "neutral",
+      "h2h": {
+        "balls": 10,
+        "runs": 8,
+        "dismissals": 1,
+        "strike_rate": 80.0
+      },
+      "vs_t": {
+        "runs": 21,
+        "balls": 15,
+        "dismissals": 1,
+        "average": 21.0,
+        "strike_rate": 140.0
+      },
+      "b_f": [
+        4,
+        21
+      ],
+      "w_f": [
+        0,
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "Shoaib Khan",
+      "bat_t": "United Arab Emirates",
+      "bowl": "MJ Henry",
+      "bowl_t": "New Zealand",
+      "v": "neutral",
+      "h2h": {
+        "balls": 3,
+        "runs": 7,
+        "dismissals": 1,
+        "strike_rate": 233.33
+      },
+      "vs_t": {
+        "runs": 7,
+        "balls": 3,
+        "dismissals": 1,
+        "average": 7.0,
+        "strike_rate": 233.33
+      },
+      "b_f": [
+        6,
+        51,
+        7
+      ],
+      "w_f": [
+        2,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "H Kaushik",
+      "bat_t": "United Arab Emirates",
+      "bowl": "GD Phillips",
+      "bowl_t": "New Zealand",
+      "v": "neutral",
+      "h2h": {
+        "balls": 3,
+        "runs": 1,
+        "dismissals": 1,
+        "strike_rate": 33.33
+      },
+      "vs_t": {
+        "runs": 2,
+        "balls": 6,
+        "dismissals": 1,
+        "average": 2.0,
+        "strike_rate": 33.33
+      },
+      "b_f": [
+        5,
+        2
+      ],
+      "w_f": [
+        1,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "Muhammad Arfan",
+      "bat_t": "United Arab Emirates",
+      "bowl": "MJ Henry",
+      "bowl_t": "New Zealand",
+      "v": "neutral",
+      "h2h": {
+        "balls": 1,
+        "runs": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 0,
+        "balls": 1,
+        "dismissals": 1,
+        "average": 0.0,
+        "strike_rate": 0.0
+      },
+      "b_f": [
+        11,
+        1,
+        0
+      ],
+      "w_f": [
+        2,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "JDS Neesham",
+      "bat_t": "New Zealand",
+      "bowl": "Junaid Siddique",
+      "bowl_t": "United Arab Emirates",
+      "v": "bowler",
+      "h2h": {
+        "balls": 1,
+        "runs": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 46,
+        "balls": 40,
+        "dismissals": 2,
+        "average": 23.0,
+        "strike_rate": 115.0
+      },
+      "b_f": [
+        23
+      ],
+      "w_f": [
+        0,
+        5,
+        0
+      ]
+    },
+    {
+      "bat": "FH Allen",
+      "bat_t": "New Zealand",
+      "bowl": "Junaid Siddique",
+      "bowl_t": "United Arab Emirates",
+      "v": "batsman",
+      "h2h": {
+        "balls": 18,
+        "runs": 34,
+        "dismissals": 0,
+        "strike_rate": 188.89
+      },
+      "vs_t": {
+        "runs": 84,
+        "balls": 51,
+        "dismissals": 0,
+        "average": 84.0,
+        "strike_rate": 164.71
+      },
+      "b_f": [
+        23,
+        21,
+        31
+      ],
+      "w_f": [
+        0,
+        5,
+        0
+      ]
+    },
+    {
+      "bat": "A Sharma",
+      "bat_t": "United Arab Emirates",
+      "bowl": "MJ Henry",
+      "bowl_t": "New Zealand",
+      "v": "bowler",
+      "h2h": {
+        "balls": 4,
+        "runs": 4,
+        "dismissals": 0,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 84,
+        "balls": 77,
+        "dismissals": 4,
+        "average": 21.0,
+        "strike_rate": 109.09
+      },
+      "b_car": {
+        "avg": 25.82,
+        "sr": 113.44
+      },
+      "b_f": [
+        13,
+        74,
+        8
+      ],
+      "w_f": [
+        2,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "A Sharma",
+      "bat_t": "United Arab Emirates",
+      "bowl": "R Ravindra",
+      "bowl_t": "New Zealand",
+      "v": "bowler",
+      "h2h": {
+        "balls": 3,
+        "runs": 6,
+        "dismissals": 0,
+        "strike_rate": 200.0
+      },
+      "vs_t": {
+        "runs": 84,
+        "balls": 77,
+        "dismissals": 4,
+        "average": 21.0,
+        "strike_rate": 109.09
+      },
+      "b_car": {
+        "avg": 25.82,
+        "sr": 113.44
+      },
+      "b_f": [
+        13,
+        74,
+        8
+      ],
+      "w_f": [
+        4,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "TL Seifert",
+      "bat_t": "New Zealand",
+      "bowl": "Muhammad Rohid",
+      "bowl_t": "United Arab Emirates",
+      "v": "batsman",
+      "h2h": {
+        "balls": 12,
+        "runs": 36,
+        "dismissals": 0,
+        "strike_rate": 300.0
+      },
+      "vs_t": {
+        "runs": 164,
+        "balls": 95,
+        "dismissals": 3,
+        "average": 54.67,
+        "strike_rate": 172.63
+      },
+      "b_f": [
+        8,
+        6,
+        13
+      ],
+      "w_f": [
+        0
+      ]
+    },
+    {
+      "bat": "TL Seifert",
+      "bat_t": "New Zealand",
+      "bowl": "Haider Ali",
+      "bowl_t": "United Arab Emirates",
+      "v": "batsman",
+      "h2h": {
+        "balls": 12,
+        "runs": 20,
+        "dismissals": 0,
+        "strike_rate": 166.67
+      },
+      "vs_t": {
+        "runs": 164,
+        "balls": 95,
+        "dismissals": 3,
+        "average": 54.67,
+        "strike_rate": 172.63
+      },
+      "b_f": [
+        8,
+        6,
+        13
+      ],
+      "w_f": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "FH Allen",
+      "bat_t": "New Zealand",
+      "bowl": "Haider Ali",
+      "bowl_t": "United Arab Emirates",
+      "v": "batsman",
+      "h2h": {
+        "balls": 12,
+        "runs": 7,
+        "dismissals": 0,
+        "strike_rate": 58.33
+      },
+      "vs_t": {
+        "runs": 84,
+        "balls": 51,
+        "dismissals": 0,
+        "average": 84.0,
+        "strike_rate": 164.71
+      },
+      "b_f": [
+        23,
+        21,
+        31
+      ],
+      "w_f": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "A Sharma",
+      "bat_t": "United Arab Emirates",
+      "bowl": "LH Ferguson",
+      "bowl_t": "New Zealand",
+      "v": "bowler",
+      "vs_t": {
+        "runs": 84,
+        "balls": 77,
+        "dismissals": 4,
+        "average": 21.0,
+        "strike_rate": 109.09
+      },
+      "b_car": {
+        "avg": 25.82,
+        "sr": 113.44
+      },
+      "b_f": [
+        13,
+        74,
+        8
+      ],
+      "w_f": [
+        0,
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "A Sharma",
+      "bat_t": "United Arab Emirates",
+      "bowl": "TL Seifert",
+      "bowl_t": "New Zealand",
+      "v": "bowler",
+      "vs_t": {
+        "runs": 84,
+        "balls": 77,
+        "dismissals": 4,
+        "average": 21.0,
+        "strike_rate": 109.09
+      },
+      "b_car": {
+        "avg": 25.82,
+        "sr": 113.44
+      },
+      "b_f": [
+        13,
+        74,
+        8
+      ]
+    },
+    {
+      "bat": "A Sharma",
+      "bat_t": "United Arab Emirates",
+      "bowl": "GD Phillips",
+      "bowl_t": "New Zealand",
+      "v": "bowler",
+      "vs_t": {
+        "runs": 84,
+        "balls": 77,
+        "dismissals": 4,
+        "average": 21.0,
+        "strike_rate": 109.09
+      },
+      "b_car": {
+        "avg": 25.82,
+        "sr": 113.44
+      },
+      "b_f": [
+        13,
+        74,
+        8
+      ],
+      "w_f": [
+        1,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "A Sharma",
+      "bat_t": "United Arab Emirates",
+      "bowl": "FH Allen",
+      "bowl_t": "New Zealand",
+      "v": "bowler",
+      "vs_t": {
+        "runs": 84,
+        "balls": 77,
+        "dismissals": 4,
+        "average": 21.0,
+        "strike_rate": 109.09
+      },
+      "b_car": {
+        "avg": 25.82,
+        "sr": 113.44
+      },
+      "b_f": [
+        13,
+        74,
+        8
+      ]
+    },
+    {
+      "bat": "A Sharafu",
+      "bat_t": "United Arab Emirates",
+      "bowl": "MJ Henry",
+      "bowl_t": "New Zealand",
+      "v": "batsman",
+      "h2h": {
+        "balls": 10,
+        "runs": 18,
+        "dismissals": 0,
+        "strike_rate": 180.0
+      },
+      "vs_t": {
+        "runs": 55,
+        "balls": 48,
+        "dismissals": 1,
+        "average": 55.0,
+        "strike_rate": 114.58
+      },
+      "b_f": [
+        45,
+        5,
+        55
+      ],
+      "w_f": [
+        2,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "A Sharafu",
+      "bat_t": "United Arab Emirates",
+      "bowl": "R Ravindra",
+      "bowl_t": "New Zealand",
+      "v": "neutral",
+      "h2h": {
+        "balls": 10,
+        "runs": 5,
+        "dismissals": 0,
+        "strike_rate": 50.0
+      },
+      "vs_t": {
+        "runs": 55,
+        "balls": 48,
+        "dismissals": 1,
+        "average": 55.0,
+        "strike_rate": 114.58
+      },
+      "b_f": [
+        45,
+        5,
+        55
+      ],
+      "w_f": [
+        4,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "FH Allen",
+      "bat_t": "New Zealand",
+      "bowl": "Muhammad Arfan",
+      "bowl_t": "United Arab Emirates",
+      "v": "batsman",
+      "h2h": {
+        "balls": 10,
+        "runs": 20,
+        "dismissals": 0,
+        "strike_rate": 200.0
+      },
+      "vs_t": {
+        "runs": 84,
+        "balls": 51,
+        "dismissals": 0,
+        "average": 84.0,
+        "strike_rate": 164.71
+      },
+      "b_f": [
+        23,
+        21,
+        31
+      ],
+      "w_f": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "A Sharafu",
+      "bat_t": "United Arab Emirates",
+      "bowl": "LH Ferguson",
+      "bowl_t": "New Zealand",
+      "v": "batsman",
+      "h2h": {
+        "balls": 9,
+        "runs": 13,
+        "dismissals": 0,
+        "strike_rate": 144.44
+      },
+      "vs_t": {
+        "runs": 55,
+        "balls": 48,
+        "dismissals": 1,
+        "average": 55.0,
+        "strike_rate": 114.58
+      },
+      "b_f": [
+        45,
+        5,
+        55
+      ],
+      "w_f": [
+        0,
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "TL Seifert",
+      "bat_t": "New Zealand",
+      "bowl": "Muhammad Arfan",
+      "bowl_t": "United Arab Emirates",
+      "v": "batsman",
+      "h2h": {
+        "balls": 9,
+        "runs": 15,
+        "dismissals": 0,
+        "strike_rate": 166.67
+      },
+      "vs_t": {
+        "runs": 164,
+        "balls": 95,
+        "dismissals": 3,
+        "average": 54.67,
+        "strike_rate": 172.63
+      },
+      "b_f": [
+        8,
+        6,
+        13
+      ],
+      "w_f": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "Waseem Muhammad",
+      "bat_t": "United Arab Emirates",
+      "bowl": "R Ravindra",
+      "bowl_t": "New Zealand",
+      "v": "batsman",
+      "h2h": {
+        "balls": 8,
+        "runs": 14,
+        "dismissals": 0,
+        "strike_rate": 175.0
+      },
+      "vs_t": {
+        "runs": 129,
+        "balls": 80,
+        "dismissals": 3,
+        "average": 43.0,
+        "strike_rate": 161.25
+      },
+      "b_f": [
+        22,
+        4,
+        66
+      ],
+      "w_f": [
+        4,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "Waseem Muhammad",
+      "bat_t": "United Arab Emirates",
+      "bowl": "JA Duffy",
+      "bowl_t": "New Zealand",
+      "v": "batsman",
+      "h2h": {
+        "balls": 8,
+        "runs": 8,
+        "dismissals": 0,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 129,
+        "balls": 80,
+        "dismissals": 3,
+        "average": 43.0,
+        "strike_rate": 161.25
+      },
+      "b_f": [
+        22,
+        4,
+        66
+      ],
+      "w_f": [
+        1,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "FH Allen",
+      "bat_t": "New Zealand",
+      "bowl": "Muhammad Rohid",
+      "bowl_t": "United Arab Emirates",
+      "v": "batsman",
+      "h2h": {
+        "balls": 8,
+        "runs": 15,
+        "dismissals": 0,
+        "strike_rate": 187.5
+      },
+      "vs_t": {
+        "runs": 84,
+        "balls": 51,
+        "dismissals": 0,
+        "average": 84.0,
+        "strike_rate": 164.71
+      },
+      "b_f": [
+        23,
+        21,
+        31
+      ],
+      "w_f": [
+        0
+      ]
+    },
+    {
+      "bat": "Waseem Muhammad",
+      "bat_t": "United Arab Emirates",
+      "bowl": "LH Ferguson",
+      "bowl_t": "New Zealand",
+      "v": "batsman",
+      "h2h": {
+        "balls": 7,
+        "runs": 11,
+        "dismissals": 0,
+        "strike_rate": 157.14
+      },
+      "vs_t": {
+        "runs": 129,
+        "balls": 80,
+        "dismissals": 3,
+        "average": 43.0,
+        "strike_rate": 161.25
+      },
+      "b_f": [
+        22,
+        4,
+        66
+      ],
+      "w_f": [
+        0,
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "Waseem Muhammad",
+      "bat_t": "United Arab Emirates",
+      "bowl": "MJ Henry",
+      "bowl_t": "New Zealand",
+      "v": "batsman",
+      "h2h": {
+        "balls": 6,
+        "runs": 8,
+        "dismissals": 0,
+        "strike_rate": 133.33
+      },
+      "vs_t": {
+        "runs": 129,
+        "balls": 80,
+        "dismissals": 3,
+        "average": 43.0,
+        "strike_rate": 161.25
+      },
+      "b_f": [
+        22,
+        4,
+        66
+      ],
+      "w_f": [
+        2,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "Waseem Muhammad",
+      "bat_t": "United Arab Emirates",
+      "bowl": "GD Phillips",
+      "bowl_t": "New Zealand",
+      "v": "batsman",
+      "h2h": {
+        "balls": 6,
+        "runs": 13,
+        "dismissals": 0,
+        "strike_rate": 216.67
+      },
+      "vs_t": {
+        "runs": 129,
+        "balls": 80,
+        "dismissals": 3,
+        "average": 43.0,
+        "strike_rate": 161.25
+      },
+      "b_f": [
+        22,
+        4,
+        66
+      ],
+      "w_f": [
+        1,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "MR Kumar",
+      "bat_t": "United Arab Emirates",
+      "bowl": "GD Phillips",
+      "bowl_t": "New Zealand",
+      "v": "neutral",
+      "h2h": {
+        "balls": 5,
+        "runs": 13,
+        "dismissals": 0,
+        "strike_rate": 260.0
+      },
+      "vs_t": {
+        "runs": 21,
+        "balls": 15,
+        "dismissals": 1,
+        "average": 21.0,
+        "strike_rate": 140.0
+      },
+      "b_f": [
+        4,
+        21
+      ],
+      "w_f": [
+        1,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "A Sharafu",
+      "bat_t": "United Arab Emirates",
+      "bowl": "JDS Neesham",
+      "bowl_t": "New Zealand",
+      "v": "neutral",
+      "h2h": {
+        "balls": 4,
+        "runs": 6,
+        "dismissals": 0,
+        "strike_rate": 150.0
+      },
+      "vs_t": {
+        "runs": 55,
+        "balls": 48,
+        "dismissals": 1,
+        "average": 55.0,
+        "strike_rate": 114.58
+      },
+      "b_f": [
+        45,
+        5,
+        55
+      ],
+      "w_f": [
+        1,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "Waseem Muhammad",
+      "bat_t": "United Arab Emirates",
+      "bowl": "JDS Neesham",
+      "bowl_t": "New Zealand",
+      "v": "batsman",
+      "h2h": {
+        "balls": 4,
+        "runs": 4,
+        "dismissals": 0,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 129,
+        "balls": 80,
+        "dismissals": 3,
+        "average": 43.0,
+        "strike_rate": 161.25
+      },
+      "b_f": [
+        22,
+        4,
+        66
+      ],
+      "w_f": [
+        1,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "MJ Santner",
+      "bat_t": "New Zealand",
+      "bowl": "Junaid Siddique",
+      "bowl_t": "United Arab Emirates",
+      "v": "bowler",
+      "h2h": {
+        "balls": 4,
+        "runs": 5,
+        "dismissals": 0,
+        "strike_rate": 125.0
+      },
+      "vs_t": {
+        "runs": 23,
+        "balls": 20,
+        "dismissals": 2,
+        "average": 11.5,
+        "strike_rate": 115.0
+      },
+      "b_f": [
+        47,
+        4
+      ],
+      "w_f": [
+        0,
+        5,
+        0
+      ]
+    },
+    {
+      "bat": "H Kaushik",
+      "bat_t": "United Arab Emirates",
+      "bowl": "MJ Santner",
+      "bowl_t": "New Zealand",
+      "v": "neutral",
+      "h2h": {
+        "balls": 3,
+        "runs": 1,
+        "dismissals": 0,
+        "strike_rate": 33.33
+      },
+      "vs_t": {
+        "runs": 2,
+        "balls": 6,
+        "dismissals": 1,
+        "average": 2.0,
+        "strike_rate": 33.33
+      },
+      "b_f": [
+        5,
+        2
+      ],
+      "w_f": [
+        1,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "A Sharafu",
+      "bat_t": "United Arab Emirates",
+      "bowl": "JA Duffy",
+      "bowl_t": "New Zealand",
+      "v": "neutral",
+      "h2h": {
+        "balls": 3,
+        "runs": 2,
+        "dismissals": 0,
+        "strike_rate": 66.67
+      },
+      "vs_t": {
+        "runs": 55,
+        "balls": 48,
+        "dismissals": 1,
+        "average": 55.0,
+        "strike_rate": 114.58
+      },
+      "b_f": [
+        45,
+        5,
+        55
+      ],
+      "w_f": [
+        1,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "TL Seifert",
+      "bat_t": "New Zealand",
+      "bowl": "D Parashar",
+      "bowl_t": "United Arab Emirates",
+      "v": "batsman",
+      "h2h": {
+        "balls": 3,
+        "runs": 6,
+        "dismissals": 0,
+        "strike_rate": 200.0
+      },
+      "vs_t": {
+        "runs": 164,
+        "balls": 95,
+        "dismissals": 3,
+        "average": 54.67,
+        "strike_rate": 172.63
+      },
+      "b_f": [
+        8,
+        6,
+        13
+      ],
+      "w_f": [
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "FH Allen",
+      "bat_t": "New Zealand",
+      "bowl": "D Parashar",
+      "bowl_t": "United Arab Emirates",
+      "v": "batsman",
+      "h2h": {
+        "balls": 3,
+        "runs": 8,
+        "dismissals": 0,
+        "strike_rate": 266.67
+      },
+      "vs_t": {
+        "runs": 84,
+        "balls": 51,
+        "dismissals": 0,
+        "average": 84.0,
+        "strike_rate": 164.71
+      },
+      "b_f": [
+        23,
+        21,
+        31
+      ],
+      "w_f": [
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "R Ravindra",
+      "bat_t": "New Zealand",
+      "bowl": "Junaid Siddique",
+      "bowl_t": "United Arab Emirates",
+      "v": "neutral",
+      "h2h": {
+        "balls": 2,
+        "runs": 2,
+        "dismissals": 0,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 23,
+        "balls": 16,
+        "dismissals": 1,
+        "average": 23.0,
+        "strike_rate": 143.75
+      },
+      "b_f": [
+        32,
+        59,
+        13
+      ],
+      "w_f": [
+        0,
+        5,
+        0
+      ]
+    },
+    {
+      "bat": "Shoaib Khan",
+      "bat_t": "United Arab Emirates",
+      "bowl": "LH Ferguson",
+      "bowl_t": "New Zealand",
+      "v": "neutral",
+      "vs_t": {
+        "runs": 7,
+        "balls": 3,
+        "dismissals": 1,
+        "average": 7.0,
+        "strike_rate": 233.33
+      },
+      "b_f": [
+        6,
+        51,
+        7
+      ],
+      "w_f": [
+        0,
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "Shoaib Khan",
+      "bat_t": "United Arab Emirates",
+      "bowl": "TL Seifert",
+      "bowl_t": "New Zealand",
+      "v": "neutral",
+      "vs_t": {
+        "runs": 7,
+        "balls": 3,
+        "dismissals": 1,
+        "average": 7.0,
+        "strike_rate": 233.33
+      },
+      "b_f": [
+        6,
+        51,
+        7
+      ]
+    },
+    {
+      "bat": "Shoaib Khan",
+      "bat_t": "United Arab Emirates",
+      "bowl": "R Ravindra",
+      "bowl_t": "New Zealand",
+      "v": "neutral",
+      "vs_t": {
+        "runs": 7,
+        "balls": 3,
+        "dismissals": 1,
+        "average": 7.0,
+        "strike_rate": 233.33
+      },
+      "b_f": [
+        6,
+        51,
+        7
+      ],
+      "w_f": [
+        4,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "Shoaib Khan",
+      "bat_t": "United Arab Emirates",
+      "bowl": "MJ Santner",
+      "bowl_t": "New Zealand",
+      "v": "neutral",
+      "vs_t": {
+        "runs": 7,
+        "balls": 3,
+        "dismissals": 1,
+        "average": 7.0,
+        "strike_rate": 233.33
+      },
+      "b_f": [
+        6,
+        51,
+        7
+      ],
+      "w_f": [
+        1,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "Shoaib Khan",
+      "bat_t": "United Arab Emirates",
+      "bowl": "GD Phillips",
+      "bowl_t": "New Zealand",
+      "v": "neutral",
+      "vs_t": {
+        "runs": 7,
+        "balls": 3,
+        "dismissals": 1,
+        "average": 7.0,
+        "strike_rate": 233.33
+      },
+      "b_f": [
+        6,
+        51,
+        7
+      ],
+      "w_f": [
+        1,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "Shoaib Khan",
+      "bat_t": "United Arab Emirates",
+      "bowl": "FH Allen",
+      "bowl_t": "New Zealand",
+      "v": "neutral",
+      "vs_t": {
+        "runs": 7,
+        "balls": 3,
+        "dismissals": 1,
+        "average": 7.0,
+        "strike_rate": 233.33
+      },
+      "b_f": [
+        6,
+        51,
+        7
+      ]
+    },
+    {
+      "bat": "Shoaib Khan",
+      "bat_t": "United Arab Emirates",
+      "bowl": "JDS Neesham",
+      "bowl_t": "New Zealand",
+      "v": "neutral",
+      "vs_t": {
+        "runs": 7,
+        "balls": 3,
+        "dismissals": 1,
+        "average": 7.0,
+        "strike_rate": 233.33
+      },
+      "b_f": [
+        6,
+        51,
+        7
+      ],
+      "w_f": [
+        1,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "Shoaib Khan",
+      "bat_t": "United Arab Emirates",
+      "bowl": "JA Duffy",
+      "bowl_t": "New Zealand",
+      "v": "neutral",
+      "vs_t": {
+        "runs": 7,
+        "balls": 3,
+        "dismissals": 1,
+        "average": 7.0,
+        "strike_rate": 233.33
+      },
+      "b_f": [
+        6,
+        51,
+        7
+      ],
+      "w_f": [
+        1,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "H Kaushik",
+      "bat_t": "United Arab Emirates",
+      "bowl": "LH Ferguson",
+      "bowl_t": "New Zealand",
+      "v": "neutral",
+      "vs_t": {
+        "runs": 2,
+        "balls": 6,
+        "dismissals": 1,
+        "average": 2.0,
+        "strike_rate": 33.33
+      },
+      "b_f": [
+        5,
+        2
+      ],
+      "w_f": [
+        0,
+        1,
+        1
+      ]
+    }
+  ]
+}

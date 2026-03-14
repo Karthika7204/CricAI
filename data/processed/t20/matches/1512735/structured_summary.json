@@ -1,0 +1,362 @@
+{
+    "match_context": {
+        "match_id": "1512735",
+        "date": "2026-02-12",
+        "tournament": "2025/26",
+        "venue": "Wankhede Stadium, Mumbai",
+        "stage": "ICC Men's T20 World Cup",
+        "Teams": {
+            "Nepal": {
+                "captain": "RK Paudel",
+                "playing_xi_count": 11
+            },
+            "Italy": {
+                "captain": "AJ Mosca",
+                "playing_xi_count": 8
+            }
+        }
+    },
+    "Match_Result": {
+        "summary": "Italy won by 10 wickets",
+        "winner": "Italy",
+        "margin": 10,
+        "margin_type": "wickets"
+    },
+    "Scorecard_Highlights": {
+        "Key_Support_Performers": [
+            {
+                "player": "Aasif Sheikh",
+                "team": "Nepal",
+                "runs": 20,
+                "balls": 20,
+                "sr": 100.0,
+                "fours": 2,
+                "sixes": 0,
+                "win_contribution_percent": 16.3,
+                "score": 40.06
+            },
+            {
+                "player": "DS Airee",
+                "team": "Nepal",
+                "runs": 17,
+                "balls": 19,
+                "sr": 89.47,
+                "fours": 0,
+                "sixes": 0,
+                "win_contribution_percent": 13.8,
+                "score": 34.95
+            }
+        ],
+        "Career_vs_Match_Bowling": [],
+        "Bowling_Standouts": {
+            "Economical_Spells": [],
+            "Expensive_Spells": [],
+            "High_Economy_No_Baseline": [
+                {
+                    "player": "LN Rajbanshi",
+                    "team": "Nepal",
+                    "overs": 1.0,
+                    "runs": 20,
+                    "wickets": 0,
+                    "econ": 20.0,
+                    "score": 7.6,
+                    "bowling_baseline": {
+                        "career_wickets": 0,
+                        "career_economy": 0.0,
+                        "career_sr": 0.0,
+                        "career_avg": 0.0,
+                        "best_bowling": "N/A",
+                        "matches": 0,
+                        "source": "none",
+                        "baseline_available": false
+                    }
+                },
+                {
+                    "player": "NK Yadav",
+                    "team": "Nepal",
+                    "overs": 1.0,
+                    "runs": 12,
+                    "wickets": 0,
+                    "econ": 12.0,
+                    "score": 12.67,
+                    "bowling_baseline": {
+                        "career_wickets": 0,
+                        "career_economy": 0.0,
+                        "career_sr": 0.0,
+                        "career_avg": 0.0,
+                        "best_bowling": "N/A",
+                        "matches": 0,
+                        "source": "none",
+                        "baseline_available": false
+                    }
+                }
+            ]
+        },
+        "Significant_Collapses": []
+    },
+    "Innings_Metrics": [
+        {
+            "innings": 1,
+            "team": "Nepal",
+            "total_runs": 123,
+            "total_wickets": 10,
+            "balls_faced": 117,
+            "overs_faced": 19.3,
+            "phase_analysis": {
+                "Powerplay": {
+                    "runs": 46,
+                    "wkts": 1,
+                    "rr": 7.67
+                },
+                "Middle": {
+                    "runs": 51,
+                    "wkts": 4,
+                    "rr": 5.67
+                },
+                "Death": {
+                    "runs": 26,
+                    "wkts": 5,
+                    "rr": 5.78
+                }
+            }
+        },
+        {
+            "innings": 2,
+            "team": "Italy",
+            "total_runs": 124,
+            "total_wickets": 0,
+            "balls_faced": 76,
+            "overs_faced": 12.4,
+            "phase_analysis": {
+                "Powerplay": {
+                    "runs": 68,
+                    "wkts": 0,
+                    "rr": 11.33
+                },
+                "Middle": {
+                    "runs": 56,
+                    "wkts": 0,
+                    "rr": 8.4
+                },
+                "Death": {
+                    "runs": 0,
+                    "wkts": 0,
+                    "rr": 0.0
+                }
+            },
+            "pressure_index": 14.0,
+            "target": 124
+        }
+    ],
+    "Detailed_Impact_Analysis": [
+        {
+            "player": "BAD Manenti",
+            "team": "Italy",
+            "overs": 4.0,
+            "runs": 9,
+            "wickets": 2,
+            "econ": 2.25,
+            "score": 127.56,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-9r-2w"
+        },
+        {
+            "player": "CJPF Kalugamage",
+            "team": "Italy",
+            "overs": 4.0,
+            "runs": 18,
+            "wickets": 3,
+            "econ": 4.5,
+            "score": 123.78,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-18r-3w"
+        },
+        {
+            "player": "AJ Mosca",
+            "team": "Italy",
+            "runs": 62,
+            "balls": 32,
+            "sr": 193.75,
+            "fours": 3,
+            "sixes": 6,
+            "win_contribution_percent": 50.0,
+            "score": 100.87,
+            "role": "batting",
+            "match_stats": "62(32)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "J Mosca",
+            "team": "Italy",
+            "runs": 60,
+            "balls": 44,
+            "sr": 136.36,
+            "fours": 5,
+            "sixes": 3,
+            "win_contribution_percent": 48.4,
+            "score": 87.36,
+            "role": "batting",
+            "match_stats": "60(44)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "Jaspreet Singh",
+            "team": "Italy",
+            "overs": 1.3,
+            "runs": 8,
+            "wickets": 1,
+            "econ": 5.33,
+            "score": 58.52,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "1.3o-8r-1w"
+        },
+        {
+            "player": "JT Smuts",
+            "team": "Italy",
+            "overs": 4.0,
+            "runs": 22,
+            "wickets": 1,
+            "econ": 5.5,
+            "score": 57.64,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-22r-1w"
+        },
+        {
+            "player": "RK Paudel",
+            "team": "Nepal",
+            "runs": 23,
+            "balls": 14,
+            "sr": 164.29,
+            "fours": 0,
+            "sixes": 2,
+            "win_contribution_percent": 18.7,
+            "score": 55.96,
+            "role": "batting",
+            "match_stats": "23(14)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "Karan KC",
+            "team": "Nepal",
+            "runs": 18,
+            "balls": 11,
+            "sr": 163.64,
+            "fours": 1,
+            "sixes": 1,
+            "win_contribution_percent": 14.6,
+            "score": 50.83,
+            "role": "batting",
+            "match_stats": "18(11)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "Aarif Sheikh",
+            "team": "Nepal",
+            "runs": 27,
+            "balls": 24,
+            "sr": 112.5,
+            "fours": 3,
+            "sixes": 0,
+            "win_contribution_percent": 22.0,
+            "score": 49.57,
+            "role": "batting",
+            "match_stats": "27(24)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "Ali Hasan",
+            "team": "Italy",
+            "overs": 3.0,
+            "runs": 34,
+            "wickets": 1,
+            "econ": 11.33,
+            "score": 43.42,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "3.0o-34r-1w"
+        }
+    ],
+    "Tactical_Post_Match_Analysis": [
+        "Italy's victory was anchored by AJ Mosca, who contributed 50.0% of the team's runs.",
+        "Defensive pressure was sustained by BAD Manenti, finishing with an impact score of 127.56."
+    ]
+}

@@ -1,0 +1,92 @@
+{
+    "match_id": "1512729",
+    "winner": "New Zealand",
+    "loser": "United Arab Emirates",
+    "awards": {
+        "player_of_the_match": {
+            "name": "TL Seifert",
+            "team": "New Zealand",
+            "impact_score": 156.0,
+            "breakdown": {
+                "batting": 156.0,
+                "bowling": 0.0,
+                "fielding": 0.0,
+                "pressure_multiplier": 1.0
+            },
+            "key_stats": {
+                "batting": "89(43) SR:206.98"
+            }
+        },
+        "best_batter": {
+            "name": "TL Seifert",
+            "team": "New Zealand",
+            "batting_impact": 156.0,
+            "stats": {
+                "runs": 89,
+                "balls": 43,
+                "sr": 206.98,
+                "fours": 12,
+                "sixes": 3
+            }
+        },
+        "best_bowler": {
+            "name": "MJ Santner",
+            "team": "New Zealand",
+            "bowling_impact": 50,
+            "stats": {
+                "overs": 4.0,
+                "wickets": 1,
+                "econ": 6.0
+            }
+        },
+        "game_changer": {
+            "name": "TL Seifert",
+            "team": "New Zealand",
+            "reason": "SR 206.98 with 3 sixes",
+            "key_stats": {
+                "batting": "89(43) SR:206.98"
+            }
+        },
+        "pressure_performer": {
+            "name": "TL Seifert",
+            "team": "New Zealand",
+            "pressure_multiplier": 1.0,
+            "reason": "Chasing team batter under pressure | Attacking SR 206.98 under pressure",
+            "key_stats": {
+                "batting": "89(43) SR:206.98"
+            }
+        },
+        "emerging_player": {
+            "name": "Waseem Muhammad",
+            "team": "United Arab Emirates",
+            "reason": "Outperformed team average by 4.03x",
+            "key_stats": {
+                "batting": "66(46) SR:143.48"
+            }
+        },
+        "fielding_impact": {
+            "name": "MJ Santner",
+            "team": "New Zealand",
+            "fielding_proxy_score": 8,
+            "methodology": "Proxy-based: catch attribution (65% T20 wickets are catches) + dot ball pressure bonus + economy-implied fielding support",
+            "reason": "Best fielding contribution proxy",
+            "stats": {
+                "overs": 4.0,
+                "wickets": 1,
+                "econ": 6.0
+            }
+        },
+        "all_rounder_impact": {
+            "name": "Muhammad Arfan",
+            "team": "United Arab Emirates",
+            "all_rounder_score": 0.0,
+            "stats": {
+                "runs": 0,
+                "sr": 0.0,
+                "overs": 3.0,
+                "wickets": 0,
+                "econ": 12.0
+            }
+        }
+    }
+}

@@ -1,0 +1,350 @@
+{
+    "match_context": {
+        "match_id": "1512756",
+        "date": "2026-02-19",
+        "tournament": "2025/26",
+        "venue": "R Premadasa Stadium, Colombo",
+        "stage": "ICC Men's T20 World Cup",
+        "Teams": {
+            "Sri Lanka": {
+                "captain": "P Nissanka",
+                "playing_xi_count": 11
+            },
+            "Zimbabwe": {
+                "captain": "BJ Bennett",
+                "playing_xi_count": 10
+            }
+        }
+    },
+    "Match_Result": {
+        "summary": "Zimbabwe won by 6 wickets",
+        "winner": "Zimbabwe",
+        "margin": 6,
+        "margin_type": "wickets"
+    },
+    "Scorecard_Highlights": {
+        "Key_Support_Performers": [
+            {
+                "player": "MDKJ Perera",
+                "team": "Sri Lanka",
+                "runs": 22,
+                "balls": 14,
+                "sr": 157.14,
+                "fours": 4,
+                "sixes": 0,
+                "win_contribution_percent": 12.4,
+                "score": 50.21
+            }
+        ],
+        "Career_vs_Match_Bowling": [],
+        "Bowling_Standouts": {
+            "Economical_Spells": [],
+            "Expensive_Spells": [],
+            "High_Economy_No_Baseline": [
+                {
+                    "player": "M Theekshana",
+                    "team": "Sri Lanka",
+                    "overs": 3.3,
+                    "runs": 47,
+                    "wickets": 0,
+                    "econ": 13.43,
+                    "score": 13.02,
+                    "bowling_baseline": {
+                        "career_wickets": 0,
+                        "career_economy": 0.0,
+                        "career_sr": 0.0,
+                        "career_avg": 0.0,
+                        "best_bowling": "N/A",
+                        "matches": 0,
+                        "source": "none",
+                        "baseline_available": false
+                    }
+                },
+                {
+                    "player": "B Evans",
+                    "team": "Zimbabwe",
+                    "overs": 3.0,
+                    "runs": 37,
+                    "wickets": 2,
+                    "econ": 12.33,
+                    "score": 74.18,
+                    "bowling_baseline": {
+                        "career_wickets": 0,
+                        "career_economy": 0.0,
+                        "career_sr": 0.0,
+                        "career_avg": 0.0,
+                        "best_bowling": "N/A",
+                        "matches": 0,
+                        "source": "none",
+                        "baseline_available": false
+                    }
+                }
+            ]
+        },
+        "Significant_Collapses": []
+    },
+    "Innings_Metrics": [
+        {
+            "innings": 1,
+            "team": "Sri Lanka",
+            "total_runs": 178,
+            "total_wickets": 7,
+            "balls_faced": 120,
+            "overs_faced": 20.0,
+            "phase_analysis": {
+                "Powerplay": {
+                    "runs": 61,
+                    "wkts": 1,
+                    "rr": 10.17
+                },
+                "Middle": {
+                    "runs": 61,
+                    "wkts": 2,
+                    "rr": 6.78
+                },
+                "Death": {
+                    "runs": 56,
+                    "wkts": 4,
+                    "rr": 11.2
+                }
+            }
+        },
+        {
+            "innings": 2,
+            "team": "Zimbabwe",
+            "total_runs": 182,
+            "total_wickets": 4,
+            "balls_faced": 117,
+            "overs_faced": 19.3,
+            "phase_analysis": {
+                "Powerplay": {
+                    "runs": 55,
+                    "wkts": 0,
+                    "rr": 9.17
+                },
+                "Middle": {
+                    "runs": 79,
+                    "wkts": 2,
+                    "rr": 8.78
+                },
+                "Death": {
+                    "runs": 48,
+                    "wkts": 2,
+                    "rr": 10.67
+                }
+            },
+            "pressure_index": 72.0,
+            "target": 179
+        }
+    ],
+    "Detailed_Impact_Analysis": [
+        {
+            "player": "P Nissanka",
+            "team": "Sri Lanka",
+            "runs": 62,
+            "balls": 42,
+            "sr": 147.62,
+            "fours": 8,
+            "sixes": 0,
+            "win_contribution_percent": 34.8,
+            "score": 88.5,
+            "role": "batting",
+            "match_stats": "62(42)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "AG Cremer",
+            "team": "Zimbabwe",
+            "overs": 4.0,
+            "runs": 27,
+            "wickets": 2,
+            "econ": 6.75,
+            "score": 85.91,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-27r-2w"
+        },
+        {
+            "player": "BJ Bennett",
+            "team": "Zimbabwe",
+            "runs": 63,
+            "balls": 50,
+            "sr": 126.0,
+            "fours": 8,
+            "sixes": 0,
+            "win_contribution_percent": 34.6,
+            "score": 85.62,
+            "role": "batting",
+            "match_stats": "63(50)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "MADI Hemantha",
+            "team": "Sri Lanka",
+            "overs": 4.0,
+            "runs": 36,
+            "wickets": 2,
+            "econ": 9.0,
+            "score": 79.43,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-36r-2w"
+        },
+        {
+            "player": "B Muzarabani",
+            "team": "Zimbabwe",
+            "overs": 4.0,
+            "runs": 39,
+            "wickets": 2,
+            "econ": 9.75,
+            "score": 77.94,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-39r-2w"
+        },
+        {
+            "player": "Sikandar Raza",
+            "team": "Zimbabwe",
+            "runs": 45,
+            "balls": 27,
+            "sr": 166.67,
+            "fours": 2,
+            "sixes": 4,
+            "win_contribution_percent": 24.7,
+            "score": 74.92,
+            "role": "batting",
+            "match_stats": "45(27)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "P Rathnayake",
+            "team": "Sri Lanka",
+            "runs": 44,
+            "balls": 26,
+            "sr": 169.23,
+            "fours": 3,
+            "sixes": 2,
+            "win_contribution_percent": 24.7,
+            "score": 74.38,
+            "role": "batting",
+            "match_stats": "44(26)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "B Evans",
+            "team": "Zimbabwe",
+            "overs": 3.0,
+            "runs": 37,
+            "wickets": 2,
+            "econ": 12.33,
+            "score": 74.18,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "3.0o-37r-2w"
+        },
+        {
+            "player": "RP Burl",
+            "team": "Zimbabwe",
+            "runs": 23,
+            "balls": 12,
+            "sr": 191.67,
+            "fours": 2,
+            "sixes": 1,
+            "win_contribution_percent": 12.6,
+            "score": 57.41,
+            "role": "batting",
+            "match_stats": "23(12)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "T Marumani",
+            "team": "Zimbabwe",
+            "runs": 34,
+            "balls": 27,
+            "sr": 125.93,
+            "fours": 5,
+            "sixes": 1,
+            "win_contribution_percent": 18.7,
+            "score": 56.61,
+            "role": "batting",
+            "match_stats": "34(27)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        }
+    ],
+    "Tactical_Post_Match_Analysis": [
+        "Zimbabwe's victory was anchored by BJ Bennett, who contributed 34.6% of the team's runs.",
+        "Defensive pressure was sustained by AG Cremer, finishing with an impact score of 85.91."
+    ]
+}

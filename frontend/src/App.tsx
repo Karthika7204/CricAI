@@ -1,4 +1,4 @@
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 import { Navbar } from './components/Navbar';
 import { MatchDetail } from './components/MatchDetail';
 import { AnalyticsHub } from './components/AnalyticsHub';
@@ -12,6 +12,11 @@ function App() {
   const [activeTab, setActiveTab] = useState('dashboard');
   const [selectedMatch, setSelectedMatch] = useState<string | null>(null);
   const [isChatOpen, setIsChatOpen] = useState(false);
+  const [matches, setMatches] = useState<any[]>([]);
+
+  useEffect(() => {
+    matchApi.getMatches().then(res => setMatches(res.data.matches || [])).catch(console.error);
+  }, []);
 
   return (
     <div className="bg-background min-h-screen text-text overflow-x-hidden font-inter selection:bg-primary selection:text-background relative">
@@ -31,8 +36,8 @@ function App() {
               <MatchDetail matchId={selectedMatch} onBack={() => setSelectedMatch(null)} />
             ) : (
               <>
-                {activeTab === 'dashboard' && <Dashboard onMatchClick={setSelectedMatch} />}
-                {activeTab === 'match_center' && <MatchCenter onMatchClick={setSelectedMatch} />}
+                {activeTab === 'dashboard' && <Dashboard onMatchClick={setSelectedMatch} matches={matches} />}
+                {activeTab === 'match_center' && <MatchCenter onMatchClick={setSelectedMatch} matches={matches} />}
                 {activeTab === 'stats' && <AnalyticsHub />}
                 {activeTab === 'learning' && <AnalyticsHub />}
 
@@ -63,16 +68,21 @@ function App() {
   );
 }
 
-const Dashboard = ({ onMatchClick }: { onMatchClick: (id: string) => void }) => (
-  <div className="space-y-10">
-    <div className="grid grid-cols-3 gap-6">
-      <div className="col-span-2 space-y-6">
-        <h2 className="text-3xl font-outfit font-bold">Recommended for You</h2>
-        <div className="grid grid-cols-2 gap-4">
-          <MatchCard id="1512721" teams={['IND', 'PAK']} status="AI Analyzed" onClick={() => onMatchClick('1512721')} />
-          <MatchCard id="1512722" teams={['AUS', 'ENG']} status="Live AI Tracking" isLive onClick={() => onMatchClick('1512722')} />
+const Dashboard = ({ onMatchClick, matches }: { onMatchClick: (id: string) => void, matches: any[] }) => {
+  const recentMatches = matches.slice(0, 2);
+  
+  return (
+    <div className="space-y-10">
+      <div className="grid grid-cols-3 gap-6">
+        <div className="col-span-2 space-y-6">
+          <h2 className="text-3xl font-outfit font-bold">Recommended for You</h2>
+          <div className="grid grid-cols-2 gap-4">
+            {recentMatches.map((m, i) => (
+              <MatchCard key={m.id} id={m.id} teams={m.teams} status={i === 0 ? "Latest AI Insights" : "AI Analyzed"} onClick={() => onMatchClick(m.id)} />
+            ))}
+            {recentMatches.length === 0 && <div className="text-white/40 italic p-4">Loading matches...</div>}
+          </div>
         </div>
-      </div>
       <div className="glass-card p-6 bg-primary/5 border-primary/20">
         <h3 className="text-lg font-bold mb-4 flex items-center gap-2">
           <TrendingUp className="text-primary w-5 h-5" /> AI Insight Pulse
@@ -91,7 +101,8 @@ const Dashboard = ({ onMatchClick }: { onMatchClick: (id: string) => void }) => 
       </div>
     </div>
   </div>
-);
+  );
+};
 
 const MatchCard = ({ id, teams, status, isLive, onClick }: any) => (
   <motion.div
@@ -133,13 +144,14 @@ const MatchCard = ({ id, teams, status, isLive, onClick }: any) => (
   </motion.div>
 );
 
-const MatchCenter = ({ onMatchClick }: any) => (
+const MatchCenter = ({ onMatchClick, matches }: any) => (
   <div className="space-y-6">
     <h2 className="text-3xl font-outfit font-bold">Match Archive</h2>
     <div className="grid grid-cols-4 gap-4">
-      {['1512721', '1512257', '1512258', '1512259'].map(id => (
-        <MatchCard key={id} id={id} teams={['T1', 'T2']} status="Archived" onClick={() => onMatchClick(id)} />
+      {matches.map((m: any) => (
+        <MatchCard key={m.id} id={m.id} teams={m.teams} status="Archived" onClick={() => onMatchClick(m.id)} />
       ))}
+      {matches.length === 0 && <div className="col-span-4 text-white/40 p-4">Empty archive</div>}
     </div>
   </div>
 );

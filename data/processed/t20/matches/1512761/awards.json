@@ -1,0 +1,93 @@
+{
+    "match_id": "1512761",
+    "winner": "South Africa",
+    "loser": "India",
+    "awards": {
+        "player_of_the_match": {
+            "name": "JJ Bumrah",
+            "team": "India",
+            "impact_score": 181.2,
+            "breakdown": {
+                "batting": 10.0,
+                "bowling": 120,
+                "fielding": 21,
+                "pressure_multiplier": 1.2
+            },
+            "key_stats": {
+                "bowling": "4.0ov-3wkt econ:3.75"
+            }
+        },
+        "best_batter": {
+            "name": "DA Miller",
+            "team": "South Africa",
+            "batting_impact": 110.0,
+            "stats": {
+                "runs": 63,
+                "balls": 37,
+                "sr": 170.27,
+                "fours": 7,
+                "sixes": 3
+            }
+        },
+        "best_bowler": {
+            "name": "M Jansen",
+            "team": "South Africa",
+            "bowling_impact": 135,
+            "stats": {
+                "overs": 3.5,
+                "wickets": 4,
+                "econ": 6.0
+            }
+        },
+        "game_changer": {
+            "name": "M Jansen",
+            "team": "South Africa",
+            "reason": "4-wicket haul",
+            "key_stats": {
+                "batting": "2(6) SR:33.33",
+                "bowling": "3.5ov-4wkt econ:6.0"
+            }
+        },
+        "pressure_performer": {
+            "name": "JJ Bumrah",
+            "team": "India",
+            "pressure_multiplier": 1.2,
+            "reason": "Chasing team contributor | Economy 3.75 while defending chase",
+            "key_stats": {
+                "bowling": "4.0ov-3wkt econ:3.75"
+            }
+        },
+        "emerging_player": {
+            "name": "JJ Bumrah",
+            "team": "India",
+            "reason": "Outperformed team average by 3.84x",
+            "key_stats": {
+                "bowling": "4.0ov-3wkt econ:3.75"
+            }
+        },
+        "fielding_impact": {
+            "name": "M Jansen",
+            "team": "South Africa",
+            "fielding_proxy_score": 24,
+            "methodology": "Proxy-based: catch attribution (65% T20 wickets are catches) + dot ball pressure bonus + economy-implied fielding support",
+            "reason": "Estimated 3 caught dismissals from 4 wickets",
+            "stats": {
+                "overs": 3.5,
+                "wickets": 4,
+                "econ": 6.0
+            }
+        },
+        "all_rounder_impact": {
+            "name": "S Dube",
+            "team": "India",
+            "all_rounder_score": 62.0,
+            "stats": {
+                "runs": 42,
+                "sr": 113.51,
+                "overs": 2.0,
+                "wickets": 1,
+                "econ": 16.0
+            }
+        }
+    }
+}

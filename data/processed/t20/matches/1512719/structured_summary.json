@@ -6,12 +6,12 @@
         "venue": "Sinhalese Sports Club Ground, Colombo",
         "stage": "ICC Men's T20 World Cup",
         "Teams": {
-            "India": {
-                "captain": "Surya Kumar Yadav",
+            "Netherlands": {
+                "captain": "SA Edwards",
                 "playing_xi_count": 11
             },
-            "United States of America": {
-                "captain": "Monank Patel",
+            "Pakistan": {
+                "captain": "Babar Azam",
                 "playing_xi_count": 11
             }
         }
@@ -58,17 +58,32 @@
                 "score": 47.59
             }
         ],
-        "Worst_Economy_Spells": [
-            {
-                "player": "LV van Beek",
-                "team": "Netherlands",
-                "overs": 4.0,
-                "runs": 46,
-                "wickets": 1,
-                "econ": 11.5,
-                "score": 42.83
-            }
-        ],
+        "Career_vs_Match_Bowling": [],
+        "Bowling_Standouts": {
+            "Economical_Spells": [],
+            "Expensive_Spells": [],
+            "High_Economy_No_Baseline": [
+                {
+                    "player": "LV van Beek",
+                    "team": "Netherlands",
+                    "overs": 4.0,
+                    "runs": 46,
+                    "wickets": 1,
+                    "econ": 11.5,
+                    "score": 42.83,
+                    "bowling_baseline": {
+                        "career_wickets": 0,
+                        "career_economy": 0.0,
+                        "career_sr": 0.0,
+                        "career_avg": 0.0,
+                        "best_bowling": "N/A",
+                        "matches": 0,
+                        "source": "none",
+                        "baseline_available": false
+                    }
+                }
+            ]
+        },
         "Significant_Collapses": [
             {
                 "player": "Mohammad Nawaz",
@@ -127,7 +142,7 @@
                     "rr": 8.22
                 }
             },
-            "pressure_index": 2.0,
+            "pressure_index": 81.0,
             "target": 148
         }
     ],
@@ -140,6 +155,16 @@
             "wickets": 3,
             "econ": 6.52,
             "score": 112.62,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
             "role": "bowling",
             "match_stats": "3.5o-25r-3w"
         },
@@ -151,6 +176,16 @@
             "wickets": 2,
             "econ": 5.0,
             "score": 89.5,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
             "role": "bowling",
             "match_stats": "4.0o-20r-2w"
         },
@@ -162,6 +197,16 @@
             "wickets": 2,
             "econ": 5.75,
             "score": 85.65,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
             "role": "bowling",
             "match_stats": "4.0o-23r-2w"
         },
@@ -193,6 +238,16 @@
             "wickets": 2,
             "econ": 7.0,
             "score": 81.07,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
             "role": "bowling",
             "match_stats": "1.0o-7r-2w"
         },
@@ -204,6 +259,16 @@
             "wickets": 2,
             "econ": 8.25,
             "score": 77.88,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
             "role": "bowling",
             "match_stats": "4.0o-33r-2w"
         },
@@ -235,6 +300,16 @@
             "wickets": 2,
             "econ": 9.5,
             "score": 75.53,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
             "role": "bowling",
             "match_stats": "4.0o-38r-2w"
         },
@@ -246,6 +321,16 @@
             "wickets": 1,
             "econ": 4.33,
             "score": 64.06,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
             "role": "bowling",
             "match_stats": "3.0o-13r-1w"
         },

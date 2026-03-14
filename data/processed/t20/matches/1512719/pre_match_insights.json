@@ -1,0 +1,70 @@
+{
+  "match_id": "1512719",
+  "ranking_races": [
+    {
+      "player": "Salman Mirza",
+      "category": "bowling",
+      "current_pos": 21,
+      "target_pos": 10,
+      "points_away": 27,
+      "effort_needed": "2 wickets"
+    },
+    {
+      "player": "Mohammad Nawaz",
+      "category": "bowling",
+      "current_pos": 12,
+      "target_pos": 10,
+      "points_away": 5,
+      "effort_needed": "1 wickets"
+    },
+    {
+      "player": "Mohammad Nawaz",
+      "category": "all_rounder",
+      "current_pos": 8,
+      "target_pos": 5,
+      "points_away": 38,
+      "effort_needed": "57 runs or 2 wickets"
+    },
+    {
+      "player": "Sahibzada Farhan",
+      "category": "batting",
+      "current_pos": 2,
+      "target_pos": 1,
+      "points_away": 26,
+      "effort_needed": "39 runs"
+    },
+    {
+      "player": "Saim Ayub",
+      "category": "all_rounder",
+      "current_pos": 3,
+      "target_pos": 1,
+      "points_away": 53,
+      "effort_needed": "79 runs or 4 wickets"
+    },
+    {
+      "player": "Abrar Ahmed",
+      "category": "bowling",
+      "current_pos": 3,
+      "target_pos": 1,
+      "points_away": 35,
+      "effort_needed": "2 wickets"
+    }
+  ],
+  "milestone_watch": [
+    {
+      "player": "RE van der Merwe",
+      "type": "fours",
+      "current": 40,
+      "target": 50,
+      "needed": 10
+    },
+    {
+      "player": "SA Edwards",
+      "type": "runs",
+      "current": 1283,
+      "target": 1300,
+      "needed": 17
+    }
+  ],
+  "personal_best_watch": []
+}

@@ -57,7 +57,7 @@ class MatchFlowEngine:
         events = builder.extract_events()
 
         if not events:
-            return {"error": f"No summary data found for match {match_id}"}
+            return {"error": f"No summary data or raw CSV data found for match {match_id}"}
 
         # 2. AI Compression
         events_json = json.dumps(events, indent=2)
@@ -83,5 +83,5 @@ class MatchFlowEngine:
 if __name__ == "__main__":
     engine = MatchFlowEngine()
     # Test with match_id 1512721
-    result = engine.generate_match_flow("1512721")
+    result = engine.generate_match_flow("1512761")
     print(json.dumps(result, indent=2))

@@ -1,0 +1,1194 @@
+{
+    "match_id": "1512764",
+    "metadata": {
+        "tournament": "2025/26",
+        "venue": "R Premadasa Stadium, Colombo",
+        "date": "2026-02-25",
+        "stage": "ICC Men's T20 World Cup",
+        "winner": "New Zealand",
+        "loser": "Sri Lanka",
+        "win_classification": "Moderate",
+        "margin_runs": 61,
+        "margin_wickets": null,
+        "competitiveness_index": 85.0,
+        "teams": {
+            "New Zealand": {
+                "captain": "MJ Santner",
+                "playing_xi_count": 11
+            },
+            "Sri Lanka": {
+                "captain": "KIC Asalanka",
+                "playing_xi_count": 11
+            }
+        },
+        "team_summary": {
+            "New Zealand": {
+                "run_rate": 8.4,
+                "fours": 13,
+                "sixes": 8,
+                "boundary_runs": 100,
+                "dot_balls": 45,
+                "total_runs": 168,
+                "total_wickets": 7
+            },
+            "Sri Lanka": {
+                "run_rate": 5.35,
+                "fours": 8,
+                "sixes": 1,
+                "boundary_runs": 38,
+                "dot_balls": 55,
+                "total_runs": 107,
+                "total_wickets": 8
+            }
+        },
+        "formulas": {
+            "competitiveness": "Base(Margin) + Pressure_Bonus(L5 Overs)",
+            "pressure": "((RR_Gap / Start_RR) * 40) + ((Wickets / 10) * 60)",
+            "batting_impact": "Runs + (SR/Match_SR * 25)",
+            "bowling_impact": "(Wickets * 30) + (Match_RR/Econ * 20)"
+        }
+    },
+    "scorecards": {
+        "batting": [
+            {
+                "player": "MJ Santner",
+                "team": "New Zealand",
+                "runs": 47,
+                "balls": 29,
+                "sr": 162.07,
+                "fours": 2,
+                "sixes": 4,
+                "win_contribution_percent": 28.0,
+                "score": 85.35
+            },
+            {
+                "player": "R Ravindra",
+                "team": "New Zealand",
+                "runs": 32,
+                "balls": 22,
+                "sr": 145.45,
+                "fours": 3,
+                "sixes": 1,
+                "win_contribution_percent": 19.0,
+                "score": 66.42
+            },
+            {
+                "player": "CE McConchie",
+                "team": "New Zealand",
+                "runs": 31,
+                "balls": 24,
+                "sr": 129.17,
+                "fours": 3,
+                "sixes": 2,
+                "win_contribution_percent": 18.5,
+                "score": 61.57
+            },
+            {
+                "player": "FH Allen",
+                "team": "New Zealand",
+                "runs": 23,
+                "balls": 13,
+                "sr": 176.92,
+                "fours": 3,
+                "sixes": 1,
+                "win_contribution_percent": 13.7,
+                "score": 64.87
+            },
+            {
+                "player": "GD Phillips",
+                "team": "New Zealand",
+                "runs": 18,
+                "balls": 18,
+                "sr": 100.0,
+                "fours": 1,
+                "sixes": 0,
+                "win_contribution_percent": 10.7,
+                "score": 41.66
+            },
+            {
+                "player": "TL Seifert",
+                "team": "New Zealand",
+                "runs": 8,
+                "balls": 9,
+                "sr": 88.89,
+                "fours": 1,
+                "sixes": 0,
+                "win_contribution_percent": 4.8,
+                "score": 29.04
+            },
+            {
+                "player": "DJ Mitchell",
+                "team": "New Zealand",
+                "runs": 3,
+                "balls": 7,
+                "sr": 42.86,
+                "fours": 0,
+                "sixes": 0,
+                "win_contribution_percent": 1.8,
+                "score": 13.14
+            },
+            {
+                "player": "MS Chapman",
+                "team": "New Zealand",
+                "runs": 0,
+                "balls": 2,
+                "sr": 0.0,
+                "fours": 0,
+                "sixes": 0,
+                "win_contribution_percent": 0.0,
+                "score": 0.0
+            },
+            {
+                "player": "PHKD Mendis",
+                "team": "Sri Lanka",
+                "runs": 31,
+                "balls": 26,
+                "sr": 119.23,
+                "fours": 4,
+                "sixes": 0,
+                "win_contribution_percent": 29.0,
+                "score": 59.21
+            },
+            {
+                "player": "DN Wellalage",
+                "team": "Sri Lanka",
+                "runs": 29,
+                "balls": 24,
+                "sr": 120.83,
+                "fours": 2,
+                "sixes": 1,
+                "win_contribution_percent": 27.1,
+                "score": 57.59
+            },
+            {
+                "player": "BKG Mendis",
+                "team": "Sri Lanka",
+                "runs": 11,
+                "balls": 22,
+                "sr": 50.0,
+                "fours": 1,
+                "sixes": 0,
+                "win_contribution_percent": 10.3,
+                "score": 22.83
+            },
+            {
+                "player": "P Rathnayake",
+                "team": "Sri Lanka",
+                "runs": 10,
+                "balls": 18,
+                "sr": 55.56,
+                "fours": 0,
+                "sixes": 0,
+                "win_contribution_percent": 9.3,
+                "score": 23.15
+            },
+            {
+                "player": "PVD Chameera",
+                "team": "Sri Lanka",
+                "runs": 7,
+                "balls": 12,
+                "sr": 58.33,
+                "fours": 0,
+                "sixes": 0,
+                "win_contribution_percent": 6.5,
+                "score": 20.8
+            },
+            {
+                "player": "KIC Asalanka",
+                "team": "Sri Lanka",
+                "runs": 5,
+                "balls": 9,
+                "sr": 55.56,
+                "fours": 1,
+                "sixes": 0,
+                "win_contribution_percent": 4.7,
+                "score": 18.15
+            },
+            {
+                "player": "MADI Hemantha",
+                "team": "Sri Lanka",
+                "runs": 3,
+                "balls": 6,
+                "sr": 50.0,
+                "fours": 0,
+                "sixes": 0,
+                "win_contribution_percent": 2.8,
+                "score": 14.83
+            },
+            {
+                "player": "MD Shanaka",
+                "team": "Sri Lanka",
+                "runs": 3,
+                "balls": 5,
+                "sr": 60.0,
+                "fours": 0,
+                "sixes": 0,
+                "win_contribution_percent": 2.8,
+                "score": 17.2
+            },
+            {
+                "player": "M Theekshana",
+                "team": "Sri Lanka",
+                "runs": 1,
+                "balls": 1,
+                "sr": 100.0,
+                "fours": 0,
+                "sixes": 0,
+                "win_contribution_percent": 0.9,
+                "score": 24.66
+            },
+            {
+                "player": "P Nissanka",
+                "team": "Sri Lanka",
+                "runs": 0,
+                "balls": 1,
+                "sr": 0.0,
+                "fours": 0,
+                "sixes": 0,
+                "win_contribution_percent": 0.0,
+                "score": 0.0
+            }
+        ],
+        "bowling": [
+            {
+                "player": "M Theekshana",
+                "team": "Sri Lanka",
+                "overs": 4.0,
+                "runs": 30,
+                "wickets": 3,
+                "econ": 7.5,
+                "score": 107.74,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "PVD Chameera",
+                "team": "Sri Lanka",
+                "overs": 4.0,
+                "runs": 38,
+                "wickets": 3,
+                "econ": 9.5,
+                "score": 104.01,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "DN Wellalage",
+                "team": "Sri Lanka",
+                "overs": 4.0,
+                "runs": 27,
+                "wickets": 1,
+                "econ": 6.75,
+                "score": 49.71,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "KIC Asalanka",
+                "team": "Sri Lanka",
+                "overs": 3.0,
+                "runs": 17,
+                "wickets": 0,
+                "econ": 5.67,
+                "score": 23.47,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "MADI Hemantha",
+                "team": "Sri Lanka",
+                "overs": 2.0,
+                "runs": 22,
+                "wickets": 0,
+                "econ": 11.0,
+                "score": 12.1,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "D Madushanka",
+                "team": "Sri Lanka",
+                "overs": 3.0,
+                "runs": 34,
+                "wickets": 0,
+                "econ": 11.33,
+                "score": 11.74,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "R Ravindra",
+                "team": "New Zealand",
+                "overs": 4.0,
+                "runs": 27,
+                "wickets": 4,
+                "econ": 6.75,
+                "score": 139.71,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "MJ Henry",
+                "team": "New Zealand",
+                "overs": 2.0,
+                "runs": 3,
+                "wickets": 2,
+                "econ": 1.5,
+                "score": 148.71,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "MJ Santner",
+                "team": "New Zealand",
+                "overs": 4.0,
+                "runs": 19,
+                "wickets": 1,
+                "econ": 4.75,
+                "score": 58.01,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "GD Phillips",
+                "team": "New Zealand",
+                "overs": 4.0,
+                "runs": 22,
+                "wickets": 1,
+                "econ": 5.5,
+                "score": 54.19,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "LH Ferguson",
+                "team": "New Zealand",
+                "overs": 1.0,
+                "runs": 3,
+                "wickets": 0,
+                "econ": 3.0,
+                "score": 44.35,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "IS Sodhi",
+                "team": "New Zealand",
+                "overs": 2.0,
+                "runs": 13,
+                "wickets": 0,
+                "econ": 6.5,
+                "score": 20.47,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "CE McConchie",
+                "team": "New Zealand",
+                "overs": 3.0,
+                "runs": 20,
+                "wickets": 0,
+                "econ": 6.67,
+                "score": 19.95,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            }
+        ]
+    },
+    "innings": [
+        {
+            "innings": 1,
+            "team": "New Zealand",
+            "total_runs": 168,
+            "total_wickets": 7,
+            "balls_faced": 120,
+            "overs_faced": 20.0,
+            "phase_analysis": {
+                "Powerplay": {
+                    "runs": 44,
+                    "wkts": 2,
+                    "rr": 7.33
+                },
+                "Middle": {
+                    "runs": 46,
+                    "wkts": 4,
+                    "rr": 5.11
+                },
+                "Death": {
+                    "runs": 78,
+                    "wkts": 1,
+                    "rr": 15.6
+                }
+            }
+        },
+        {
+            "innings": 2,
+            "team": "Sri Lanka",
+            "total_runs": 107,
+            "total_wickets": 8,
+            "balls_faced": 120,
+            "overs_faced": 20.0,
+            "phase_analysis": {
+                "Powerplay": {
+                    "runs": 20,
+                    "wkts": 2,
+                    "rr": 3.33
+                },
+                "Middle": {
+                    "runs": 57,
+                    "wkts": 5,
+                    "rr": 6.33
+                },
+                "Death": {
+                    "runs": 30,
+                    "wkts": 1,
+                    "rr": 6.0
+                }
+            },
+            "pressure_index": 84.0,
+            "target": 169
+        }
+    ],
+    "players": [
+        {
+            "player": "MJ Henry",
+            "team": "New Zealand",
+            "overs": 2.0,
+            "runs": 3,
+            "wickets": 2,
+            "econ": 1.5,
+            "score": 148.71,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "2.0o-3r-2w"
+        },
+        {
+            "player": "R Ravindra",
+            "team": "New Zealand",
+            "overs": 4.0,
+            "runs": 27,
+            "wickets": 4,
+            "econ": 6.75,
+            "score": 139.71,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-27r-4w"
+        },
+        {
+            "player": "M Theekshana",
+            "team": "Sri Lanka",
+            "overs": 4.0,
+            "runs": 30,
+            "wickets": 3,
+            "econ": 7.5,
+            "score": 107.74,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-30r-3w"
+        },
+        {
+            "player": "PVD Chameera",
+            "team": "Sri Lanka",
+            "overs": 4.0,
+            "runs": 38,
+            "wickets": 3,
+            "econ": 9.5,
+            "score": 104.01,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-38r-3w"
+        },
+        {
+            "player": "MJ Santner",
+            "team": "New Zealand",
+            "runs": 47,
+            "balls": 29,
+            "sr": 162.07,
+            "fours": 2,
+            "sixes": 4,
+            "win_contribution_percent": 28.0,
+            "score": 85.35,
+            "role": "batting",
+            "match_stats": "47(29)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "R Ravindra",
+            "team": "New Zealand",
+            "runs": 32,
+            "balls": 22,
+            "sr": 145.45,
+            "fours": 3,
+            "sixes": 1,
+            "win_contribution_percent": 19.0,
+            "score": 66.42,
+            "role": "batting",
+            "match_stats": "32(22)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "FH Allen",
+            "team": "New Zealand",
+            "runs": 23,
+            "balls": 13,
+            "sr": 176.92,
+            "fours": 3,
+            "sixes": 1,
+            "win_contribution_percent": 13.7,
+            "score": 64.87,
+            "role": "batting",
+            "match_stats": "23(13)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "CE McConchie",
+            "team": "New Zealand",
+            "runs": 31,
+            "balls": 24,
+            "sr": 129.17,
+            "fours": 3,
+            "sixes": 2,
+            "win_contribution_percent": 18.5,
+            "score": 61.57,
+            "role": "batting",
+            "match_stats": "31(24)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "PHKD Mendis",
+            "team": "Sri Lanka",
+            "runs": 31,
+            "balls": 26,
+            "sr": 119.23,
+            "fours": 4,
+            "sixes": 0,
+            "win_contribution_percent": 29.0,
+            "score": 59.21,
+            "role": "batting",
+            "match_stats": "31(26)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "MJ Santner",
+            "team": "New Zealand",
+            "overs": 4.0,
+            "runs": 19,
+            "wickets": 1,
+            "econ": 4.75,
+            "score": 58.01,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-19r-1w"
+        },
+        {
+            "player": "DN Wellalage",
+            "team": "Sri Lanka",
+            "runs": 29,
+            "balls": 24,
+            "sr": 120.83,
+            "fours": 2,
+            "sixes": 1,
+            "win_contribution_percent": 27.1,
+            "score": 57.59,
+            "role": "batting",
+            "match_stats": "29(24)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "GD Phillips",
+            "team": "New Zealand",
+            "overs": 4.0,
+            "runs": 22,
+            "wickets": 1,
+            "econ": 5.5,
+            "score": 54.19,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-22r-1w"
+        },
+        {
+            "player": "DN Wellalage",
+            "team": "Sri Lanka",
+            "overs": 4.0,
+            "runs": 27,
+            "wickets": 1,
+            "econ": 6.75,
+            "score": 49.71,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-27r-1w"
+        },
+        {
+            "player": "LH Ferguson",
+            "team": "New Zealand",
+            "overs": 1.0,
+            "runs": 3,
+            "wickets": 0,
+            "econ": 3.0,
+            "score": 44.35,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "1.0o-3r-0w"
+        },
+        {
+            "player": "GD Phillips",
+            "team": "New Zealand",
+            "runs": 18,
+            "balls": 18,
+            "sr": 100.0,
+            "fours": 1,
+            "sixes": 0,
+            "win_contribution_percent": 10.7,
+            "score": 41.66,
+            "role": "batting",
+            "match_stats": "18(18)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "TL Seifert",
+            "team": "New Zealand",
+            "runs": 8,
+            "balls": 9,
+            "sr": 88.89,
+            "fours": 1,
+            "sixes": 0,
+            "win_contribution_percent": 4.8,
+            "score": 29.04,
+            "role": "batting",
+            "match_stats": "8(9)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "M Theekshana",
+            "team": "Sri Lanka",
+            "runs": 1,
+            "balls": 1,
+            "sr": 100.0,
+            "fours": 0,
+            "sixes": 0,
+            "win_contribution_percent": 0.9,
+            "score": 24.66,
+            "role": "batting",
+            "match_stats": "1(1)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "KIC Asalanka",
+            "team": "Sri Lanka",
+            "overs": 3.0,
+            "runs": 17,
+            "wickets": 0,
+            "econ": 5.67,
+            "score": 23.47,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "3.0o-17r-0w"
+        },
+        {
+            "player": "P Rathnayake",
+            "team": "Sri Lanka",
+            "runs": 10,
+            "balls": 18,
+            "sr": 55.56,
+            "fours": 0,
+            "sixes": 0,
+            "win_contribution_percent": 9.3,
+            "score": 23.15,
+            "role": "batting",
+            "match_stats": "10(18)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "BKG Mendis",
+            "team": "Sri Lanka",
+            "runs": 11,
+            "balls": 22,
+            "sr": 50.0,
+            "fours": 1,
+            "sixes": 0,
+            "win_contribution_percent": 10.3,
+            "score": 22.83,
+            "role": "batting",
+            "match_stats": "11(22)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "PVD Chameera",
+            "team": "Sri Lanka",
+            "runs": 7,
+            "balls": 12,
+            "sr": 58.33,
+            "fours": 0,
+            "sixes": 0,
+            "win_contribution_percent": 6.5,
+            "score": 20.8,
+            "role": "batting",
+            "match_stats": "7(12)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "IS Sodhi",
+            "team": "New Zealand",
+            "overs": 2.0,
+            "runs": 13,
+            "wickets": 0,
+            "econ": 6.5,
+            "score": 20.47,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "2.0o-13r-0w"
+        },
+        {
+            "player": "CE McConchie",
+            "team": "New Zealand",
+            "overs": 3.0,
+            "runs": 20,
+            "wickets": 0,
+            "econ": 6.67,
+            "score": 19.95,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "3.0o-20r-0w"
+        },
+        {
+            "player": "KIC Asalanka",
+            "team": "Sri Lanka",
+            "runs": 5,
+            "balls": 9,
+            "sr": 55.56,
+            "fours": 1,
+            "sixes": 0,
+            "win_contribution_percent": 4.7,
+            "score": 18.15,
+            "role": "batting",
+            "match_stats": "5(9)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "MD Shanaka",
+            "team": "Sri Lanka",
+            "runs": 3,
+            "balls": 5,
+            "sr": 60.0,
+            "fours": 0,
+            "sixes": 0,
+            "win_contribution_percent": 2.8,
+            "score": 17.2,
+            "role": "batting",
+            "match_stats": "3(5)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "MADI Hemantha",
+            "team": "Sri Lanka",
+            "runs": 3,
+            "balls": 6,
+            "sr": 50.0,
+            "fours": 0,
+            "sixes": 0,
+            "win_contribution_percent": 2.8,
+            "score": 14.83,
+            "role": "batting",
+            "match_stats": "3(6)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "DJ Mitchell",
+            "team": "New Zealand",
+            "runs": 3,
+            "balls": 7,
+            "sr": 42.86,
+            "fours": 0,
+            "sixes": 0,
+            "win_contribution_percent": 1.8,
+            "score": 13.14,
+            "role": "batting",
+            "match_stats": "3(7)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "MADI Hemantha",
+            "team": "Sri Lanka",
+            "overs": 2.0,
+            "runs": 22,
+            "wickets": 0,
+            "econ": 11.0,
+            "score": 12.1,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "2.0o-22r-0w"
+        },
+        {
+            "player": "D Madushanka",
+            "team": "Sri Lanka",
+            "overs": 3.0,
+            "runs": 34,
+            "wickets": 0,
+            "econ": 11.33,
+            "score": 11.74,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "3.0o-34r-0w"
+        },
+        {
+            "player": "MS Chapman",
+            "team": "New Zealand",
+            "runs": 0,
+            "balls": 2,
+            "sr": 0.0,
+            "fours": 0,
+            "sixes": 0,
+            "win_contribution_percent": 0.0,
+            "score": 0.0,
+            "role": "batting",
+            "match_stats": "0(2)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "P Nissanka",
+            "team": "Sri Lanka",
+            "runs": 0,
+            "balls": 1,
+            "sr": 0.0,
+            "fours": 0,
+            "sixes": 0,
+            "win_contribution_percent": 0.0,
+            "score": 0.0,
+            "role": "batting",
+            "match_stats": "0(1)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        }
+    ],
+    "validation": {
+        "logical_stability": true
+    }
+}

@@ -1,0 +1,1470 @@
+{
+  "match_id": "1512735",
+  "team_a": "Nepal",
+  "team_b": "Italy",
+  "matchups": [
+    {
+      "bat": "Aarif Sheikh",
+      "bat_t": "Nepal",
+      "bowl": "JT Smuts",
+      "bowl_t": "Italy",
+      "v": "neutral",
+      "h2h": {
+        "balls": 5,
+        "runs": 4,
+        "dismissals": 1,
+        "strike_rate": 80.0
+      },
+      "vs_t": {
+        "runs": 27,
+        "balls": 24,
+        "dismissals": 1,
+        "average": 27.0,
+        "strike_rate": 112.5
+      },
+      "b_f": [
+        2,
+        27,
+        10
+      ],
+      "w_f": [
+        0,
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "DS Airee",
+      "bat_t": "Nepal",
+      "bowl": "CJPF Kalugamage",
+      "bowl_t": "Italy",
+      "v": "neutral",
+      "h2h": {
+        "balls": 5,
+        "runs": 4,
+        "dismissals": 1,
+        "strike_rate": 80.0
+      },
+      "vs_t": {
+        "runs": 17,
+        "balls": 19,
+        "dismissals": 1,
+        "average": 17.0,
+        "strike_rate": 89.47
+      },
+      "b_f": [
+        50,
+        58,
+        17
+      ],
+      "w_f": [
+        2,
+        2,
+        3
+      ]
+    },
+    {
+      "bat": "K Bhurtel",
+      "bat_t": "Nepal",
+      "bowl": "Ali Hasan",
+      "bowl_t": "Italy",
+      "v": "neutral",
+      "h2h": {
+        "balls": 4,
+        "runs": 5,
+        "dismissals": 1,
+        "strike_rate": 125.0
+      },
+      "vs_t": {
+        "runs": 5,
+        "balls": 11,
+        "dismissals": 1,
+        "average": 5.0,
+        "strike_rate": 45.45
+      },
+      "b_f": [
+        43,
+        1,
+        5
+      ],
+      "w_f": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "Lokesh Bam",
+      "bat_t": "Nepal",
+      "bowl": "BAD Manenti",
+      "bowl_t": "Italy",
+      "v": "neutral",
+      "h2h": {
+        "balls": 4,
+        "runs": 2,
+        "dismissals": 1,
+        "strike_rate": 50.0
+      },
+      "vs_t": {
+        "runs": 3,
+        "balls": 5,
+        "dismissals": 1,
+        "average": 3.0,
+        "strike_rate": 60.0
+      },
+      "b_f": [
+        13,
+        3,
+        39
+      ],
+      "w_f": [
+        2,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "RK Paudel",
+      "bat_t": "Nepal",
+      "bowl": "CJPF Kalugamage",
+      "bowl_t": "Italy",
+      "v": "neutral",
+      "h2h": {
+        "balls": 4,
+        "runs": 1,
+        "dismissals": 1,
+        "strike_rate": 25.0
+      },
+      "vs_t": {
+        "runs": 23,
+        "balls": 14,
+        "dismissals": 1,
+        "average": 23.0,
+        "strike_rate": 164.29
+      },
+      "b_f": [
+        16,
+        5,
+        23
+      ],
+      "w_f": [
+        2,
+        2,
+        3
+      ]
+    },
+    {
+      "bat": "Aasif Sheikh",
+      "bat_t": "Nepal",
+      "bowl": "BAD Manenti",
+      "bowl_t": "Italy",
+      "v": "neutral",
+      "h2h": {
+        "balls": 2,
+        "runs": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 20,
+        "balls": 20,
+        "dismissals": 1,
+        "average": 20.0,
+        "strike_rate": 100.0
+      },
+      "b_f": [
+        33,
+        11,
+        20
+      ],
+      "w_f": [
+        2,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "S Lamichhane",
+      "bat_t": "Nepal",
+      "bowl": "Jaspreet Singh",
+      "bowl_t": "Italy",
+      "v": "neutral",
+      "h2h": {
+        "balls": 1,
+        "runs": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 5,
+        "balls": 7,
+        "dismissals": 1,
+        "average": 5.0,
+        "strike_rate": 71.43
+      },
+      "b_f": [
+        5
+      ],
+      "w_f": [
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "Gulsan Jha",
+      "bat_t": "Nepal",
+      "bowl": "CJPF Kalugamage",
+      "bowl_t": "Italy",
+      "v": "neutral",
+      "h2h": {
+        "balls": 1,
+        "runs": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 3,
+        "balls": 4,
+        "dismissals": 1,
+        "average": 3.0,
+        "strike_rate": 75.0
+      },
+      "b_f": [
+        24,
+        11,
+        3
+      ],
+      "w_f": [
+        2,
+        2,
+        3
+      ]
+    },
+    {
+      "bat": "J Mosca",
+      "bat_t": "Italy",
+      "bowl": "DS Airee",
+      "bowl_t": "Nepal",
+      "v": "batsman",
+      "h2h": {
+        "balls": 15,
+        "runs": 15,
+        "dismissals": 0,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 60,
+        "balls": 44,
+        "dismissals": 0,
+        "average": 60.0,
+        "strike_rate": 136.36
+      },
+      "b_f": [
+        2,
+        43,
+        60
+      ],
+      "w_f": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "AJ Mosca",
+      "bat_t": "Italy",
+      "bowl": "S Lamichhane",
+      "bowl_t": "Nepal",
+      "v": "batsman",
+      "h2h": {
+        "balls": 13,
+        "runs": 28,
+        "dismissals": 0,
+        "strike_rate": 215.38
+      },
+      "vs_t": {
+        "runs": 62,
+        "balls": 32,
+        "dismissals": 0,
+        "average": 62.0,
+        "strike_rate": 193.75
+      },
+      "b_f": [
+        19,
+        0,
+        62
+      ],
+      "w_f": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "J Mosca",
+      "bat_t": "Italy",
+      "bowl": "Karan KC",
+      "bowl_t": "Nepal",
+      "v": "batsman",
+      "h2h": {
+        "balls": 10,
+        "runs": 15,
+        "dismissals": 0,
+        "strike_rate": 150.0
+      },
+      "vs_t": {
+        "runs": 60,
+        "balls": 44,
+        "dismissals": 0,
+        "average": 60.0,
+        "strike_rate": 136.36
+      },
+      "b_f": [
+        2,
+        43,
+        60
+      ],
+      "w_f": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "Aarif Sheikh",
+      "bat_t": "Nepal",
+      "bowl": "BAD Manenti",
+      "bowl_t": "Italy",
+      "v": "neutral",
+      "h2h": {
+        "balls": 8,
+        "runs": 4,
+        "dismissals": 0,
+        "strike_rate": 50.0
+      },
+      "vs_t": {
+        "runs": 27,
+        "balls": 24,
+        "dismissals": 1,
+        "average": 27.0,
+        "strike_rate": 112.5
+      },
+      "b_f": [
+        2,
+        27,
+        10
+      ],
+      "w_f": [
+        2,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "Aasif Sheikh",
+      "bat_t": "Nepal",
+      "bowl": "JT Smuts",
+      "bowl_t": "Italy",
+      "v": "neutral",
+      "h2h": {
+        "balls": 8,
+        "runs": 3,
+        "dismissals": 0,
+        "strike_rate": 37.5
+      },
+      "vs_t": {
+        "runs": 20,
+        "balls": 20,
+        "dismissals": 1,
+        "average": 20.0,
+        "strike_rate": 100.0
+      },
+      "b_f": [
+        33,
+        11,
+        20
+      ],
+      "w_f": [
+        0,
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "K Bhurtel",
+      "bat_t": "Nepal",
+      "bowl": "BAD Manenti",
+      "bowl_t": "Italy",
+      "v": "neutral",
+      "h2h": {
+        "balls": 7,
+        "runs": 0,
+        "dismissals": 0,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 5,
+        "balls": 11,
+        "dismissals": 1,
+        "average": 5.0,
+        "strike_rate": 45.45
+      },
+      "b_f": [
+        43,
+        1,
+        5
+      ],
+      "w_f": [
+        2,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "J Mosca",
+      "bat_t": "Italy",
+      "bowl": "K Bhurtel",
+      "bowl_t": "Nepal",
+      "v": "batsman",
+      "h2h": {
+        "balls": 7,
+        "runs": 11,
+        "dismissals": 0,
+        "strike_rate": 157.14
+      },
+      "vs_t": {
+        "runs": 60,
+        "balls": 44,
+        "dismissals": 0,
+        "average": 60.0,
+        "strike_rate": 136.36
+      },
+      "b_f": [
+        2,
+        43,
+        60
+      ],
+      "w_f": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "AJ Mosca",
+      "bat_t": "Italy",
+      "bowl": "DS Airee",
+      "bowl_t": "Nepal",
+      "v": "batsman",
+      "h2h": {
+        "balls": 7,
+        "runs": 9,
+        "dismissals": 0,
+        "strike_rate": 128.57
+      },
+      "vs_t": {
+        "runs": 62,
+        "balls": 32,
+        "dismissals": 0,
+        "average": 62.0,
+        "strike_rate": 193.75
+      },
+      "b_f": [
+        19,
+        0,
+        62
+      ],
+      "w_f": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "Aarif Sheikh",
+      "bat_t": "Nepal",
+      "bowl": "CJPF Kalugamage",
+      "bowl_t": "Italy",
+      "v": "batsman",
+      "h2h": {
+        "balls": 6,
+        "runs": 9,
+        "dismissals": 0,
+        "strike_rate": 150.0
+      },
+      "vs_t": {
+        "runs": 27,
+        "balls": 24,
+        "dismissals": 1,
+        "average": 27.0,
+        "strike_rate": 112.5
+      },
+      "b_f": [
+        2,
+        27,
+        10
+      ],
+      "w_f": [
+        2,
+        2,
+        3
+      ]
+    },
+    {
+      "bat": "Aasif Sheikh",
+      "bat_t": "Nepal",
+      "bowl": "Ali Hasan",
+      "bowl_t": "Italy",
+      "v": "batsman",
+      "h2h": {
+        "balls": 6,
+        "runs": 13,
+        "dismissals": 0,
+        "strike_rate": 216.67
+      },
+      "vs_t": {
+        "runs": 20,
+        "balls": 20,
+        "dismissals": 1,
+        "average": 20.0,
+        "strike_rate": 100.0
+      },
+      "b_f": [
+        33,
+        11,
+        20
+      ],
+      "w_f": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "DS Airee",
+      "bat_t": "Nepal",
+      "bowl": "Jaspreet Singh",
+      "bowl_t": "Italy",
+      "v": "neutral",
+      "h2h": {
+        "balls": 5,
+        "runs": 6,
+        "dismissals": 0,
+        "strike_rate": 120.0
+      },
+      "vs_t": {
+        "runs": 17,
+        "balls": 19,
+        "dismissals": 1,
+        "average": 17.0,
+        "strike_rate": 89.47
+      },
+      "b_f": [
+        50,
+        58,
+        17
+      ],
+      "w_f": [
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "J Mosca",
+      "bat_t": "Italy",
+      "bowl": "S Lamichhane",
+      "bowl_t": "Nepal",
+      "v": "batsman",
+      "h2h": {
+        "balls": 5,
+        "runs": 3,
+        "dismissals": 0,
+        "strike_rate": 60.0
+      },
+      "vs_t": {
+        "runs": 60,
+        "balls": 44,
+        "dismissals": 0,
+        "average": 60.0,
+        "strike_rate": 136.36
+      },
+      "b_f": [
+        2,
+        43,
+        60
+      ],
+      "w_f": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "AJ Mosca",
+      "bat_t": "Italy",
+      "bowl": "K Bhurtel",
+      "bowl_t": "Nepal",
+      "v": "batsman",
+      "h2h": {
+        "balls": 5,
+        "runs": 4,
+        "dismissals": 0,
+        "strike_rate": 80.0
+      },
+      "vs_t": {
+        "runs": 62,
+        "balls": 32,
+        "dismissals": 0,
+        "average": 62.0,
+        "strike_rate": 193.75
+      },
+      "b_f": [
+        19,
+        0,
+        62
+      ],
+      "w_f": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "Karan KC",
+      "bat_t": "Nepal",
+      "bowl": "Ali Hasan",
+      "bowl_t": "Italy",
+      "v": "neutral",
+      "h2h": {
+        "balls": 4,
+        "runs": 12,
+        "dismissals": 0,
+        "strike_rate": 300.0
+      },
+      "vs_t": {
+        "runs": 18,
+        "balls": 11,
+        "dismissals": 0,
+        "average": 18.0,
+        "strike_rate": 163.64
+      },
+      "b_f": [
+        1,
+        18,
+        1
+      ],
+      "w_f": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "RK Paudel",
+      "bat_t": "Nepal",
+      "bowl": "JT Smuts",
+      "bowl_t": "Italy",
+      "v": "neutral",
+      "h2h": {
+        "balls": 4,
+        "runs": 9,
+        "dismissals": 0,
+        "strike_rate": 225.0
+      },
+      "vs_t": {
+        "runs": 23,
+        "balls": 14,
+        "dismissals": 1,
+        "average": 23.0,
+        "strike_rate": 164.29
+      },
+      "b_f": [
+        16,
+        5,
+        23
+      ],
+      "w_f": [
+        0,
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "RK Paudel",
+      "bat_t": "Nepal",
+      "bowl": "G Stewart",
+      "bowl_t": "Italy",
+      "v": "neutral",
+      "h2h": {
+        "balls": 4,
+        "runs": 11,
+        "dismissals": 0,
+        "strike_rate": 275.0
+      },
+      "vs_t": {
+        "runs": 23,
+        "balls": 14,
+        "dismissals": 1,
+        "average": 23.0,
+        "strike_rate": 164.29
+      },
+      "b_f": [
+        16,
+        5,
+        23
+      ],
+      "w_f": [
+        0,
+        2,
+        0
+      ]
+    },
+    {
+      "bat": "J Mosca",
+      "bat_t": "Italy",
+      "bowl": "NK Yadav",
+      "bowl_t": "Nepal",
+      "v": "batsman",
+      "h2h": {
+        "balls": 4,
+        "runs": 5,
+        "dismissals": 0,
+        "strike_rate": 125.0
+      },
+      "vs_t": {
+        "runs": 60,
+        "balls": 44,
+        "dismissals": 0,
+        "average": 60.0,
+        "strike_rate": 136.36
+      },
+      "b_f": [
+        2,
+        43,
+        60
+      ],
+      "w_f": [
+        2,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "Karan KC",
+      "bat_t": "Nepal",
+      "bowl": "G Stewart",
+      "bowl_t": "Italy",
+      "v": "neutral",
+      "h2h": {
+        "balls": 3,
+        "runs": 4,
+        "dismissals": 0,
+        "strike_rate": 133.33
+      },
+      "vs_t": {
+        "runs": 18,
+        "balls": 11,
+        "dismissals": 0,
+        "average": 18.0,
+        "strike_rate": 163.64
+      },
+      "b_f": [
+        1,
+        18,
+        1
+      ],
+      "w_f": [
+        0,
+        2,
+        0
+      ]
+    },
+    {
+      "bat": "Aarif Sheikh",
+      "bat_t": "Nepal",
+      "bowl": "G Stewart",
+      "bowl_t": "Italy",
+      "v": "neutral",
+      "h2h": {
+        "balls": 3,
+        "runs": 9,
+        "dismissals": 0,
+        "strike_rate": 300.0
+      },
+      "vs_t": {
+        "runs": 27,
+        "balls": 24,
+        "dismissals": 1,
+        "average": 27.0,
+        "strike_rate": 112.5
+      },
+      "b_f": [
+        2,
+        27,
+        10
+      ],
+      "w_f": [
+        0,
+        2,
+        0
+      ]
+    },
+    {
+      "bat": "S Lamichhane",
+      "bat_t": "Nepal",
+      "bowl": "G Stewart",
+      "bowl_t": "Italy",
+      "v": "neutral",
+      "h2h": {
+        "balls": 3,
+        "runs": 3,
+        "dismissals": 0,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 5,
+        "balls": 7,
+        "dismissals": 1,
+        "average": 5.0,
+        "strike_rate": 71.43
+      },
+      "b_f": [
+        5
+      ],
+      "w_f": [
+        0,
+        2,
+        0
+      ]
+    },
+    {
+      "bat": "DS Airee",
+      "bat_t": "Nepal",
+      "bowl": "BAD Manenti",
+      "bowl_t": "Italy",
+      "v": "neutral",
+      "h2h": {
+        "balls": 3,
+        "runs": 1,
+        "dismissals": 0,
+        "strike_rate": 33.33
+      },
+      "vs_t": {
+        "runs": 17,
+        "balls": 19,
+        "dismissals": 1,
+        "average": 17.0,
+        "strike_rate": 89.47
+      },
+      "b_f": [
+        50,
+        58,
+        17
+      ],
+      "w_f": [
+        2,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "DS Airee",
+      "bat_t": "Nepal",
+      "bowl": "JT Smuts",
+      "bowl_t": "Italy",
+      "v": "neutral",
+      "h2h": {
+        "balls": 3,
+        "runs": 3,
+        "dismissals": 0,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 17,
+        "balls": 19,
+        "dismissals": 1,
+        "average": 17.0,
+        "strike_rate": 89.47
+      },
+      "b_f": [
+        50,
+        58,
+        17
+      ],
+      "w_f": [
+        0,
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "DS Airee",
+      "bat_t": "Nepal",
+      "bowl": "G Stewart",
+      "bowl_t": "Italy",
+      "v": "neutral",
+      "h2h": {
+        "balls": 3,
+        "runs": 3,
+        "dismissals": 0,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 17,
+        "balls": 19,
+        "dismissals": 1,
+        "average": 17.0,
+        "strike_rate": 89.47
+      },
+      "b_f": [
+        50,
+        58,
+        17
+      ],
+      "w_f": [
+        0,
+        2,
+        0
+      ]
+    },
+    {
+      "bat": "J Mosca",
+      "bat_t": "Italy",
+      "bowl": "LN Rajbanshi",
+      "bowl_t": "Nepal",
+      "v": "batsman",
+      "h2h": {
+        "balls": 3,
+        "runs": 11,
+        "dismissals": 0,
+        "strike_rate": 366.67
+      },
+      "vs_t": {
+        "runs": 60,
+        "balls": 44,
+        "dismissals": 0,
+        "average": 60.0,
+        "strike_rate": 136.36
+      },
+      "b_f": [
+        2,
+        43,
+        60
+      ],
+      "w_f": [
+        0
+      ]
+    },
+    {
+      "bat": "AJ Mosca",
+      "bat_t": "Italy",
+      "bowl": "LN Rajbanshi",
+      "bowl_t": "Nepal",
+      "v": "batsman",
+      "h2h": {
+        "balls": 3,
+        "runs": 8,
+        "dismissals": 0,
+        "strike_rate": 266.67
+      },
+      "vs_t": {
+        "runs": 62,
+        "balls": 32,
+        "dismissals": 0,
+        "average": 62.0,
+        "strike_rate": 193.75
+      },
+      "b_f": [
+        19,
+        0,
+        62
+      ],
+      "w_f": [
+        0
+      ]
+    },
+    {
+      "bat": "Karan KC",
+      "bat_t": "Nepal",
+      "bowl": "CJPF Kalugamage",
+      "bowl_t": "Italy",
+      "v": "neutral",
+      "h2h": {
+        "balls": 2,
+        "runs": 1,
+        "dismissals": 0,
+        "strike_rate": 50.0
+      },
+      "vs_t": {
+        "runs": 18,
+        "balls": 11,
+        "dismissals": 0,
+        "average": 18.0,
+        "strike_rate": 163.64
+      },
+      "b_f": [
+        1,
+        18,
+        1
+      ],
+      "w_f": [
+        2,
+        2,
+        3
+      ]
+    },
+    {
+      "bat": "Karan KC",
+      "bat_t": "Nepal",
+      "bowl": "JT Smuts",
+      "bowl_t": "Italy",
+      "v": "neutral",
+      "h2h": {
+        "balls": 2,
+        "runs": 1,
+        "dismissals": 0,
+        "strike_rate": 50.0
+      },
+      "vs_t": {
+        "runs": 18,
+        "balls": 11,
+        "dismissals": 0,
+        "average": 18.0,
+        "strike_rate": 163.64
+      },
+      "b_f": [
+        1,
+        18,
+        1
+      ],
+      "w_f": [
+        0,
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "Aarif Sheikh",
+      "bat_t": "Nepal",
+      "bowl": "Jaspreet Singh",
+      "bowl_t": "Italy",
+      "v": "neutral",
+      "h2h": {
+        "balls": 2,
+        "runs": 1,
+        "dismissals": 0,
+        "strike_rate": 50.0
+      },
+      "vs_t": {
+        "runs": 27,
+        "balls": 24,
+        "dismissals": 1,
+        "average": 27.0,
+        "strike_rate": 112.5
+      },
+      "b_f": [
+        2,
+        27,
+        10
+      ],
+      "w_f": [
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "S Lamichhane",
+      "bat_t": "Nepal",
+      "bowl": "Ali Hasan",
+      "bowl_t": "Italy",
+      "v": "neutral",
+      "h2h": {
+        "balls": 2,
+        "runs": 2,
+        "dismissals": 0,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 5,
+        "balls": 7,
+        "dismissals": 1,
+        "average": 5.0,
+        "strike_rate": 71.43
+      },
+      "b_f": [
+        5
+      ],
+      "w_f": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "Gulsan Jha",
+      "bat_t": "Nepal",
+      "bowl": "JT Smuts",
+      "bowl_t": "Italy",
+      "v": "neutral",
+      "h2h": {
+        "balls": 2,
+        "runs": 2,
+        "dismissals": 0,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 3,
+        "balls": 4,
+        "dismissals": 1,
+        "average": 3.0,
+        "strike_rate": 75.0
+      },
+      "b_f": [
+        24,
+        11,
+        3
+      ],
+      "w_f": [
+        0,
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "LN Rajbanshi",
+      "bat_t": "Nepal",
+      "bowl": "Jaspreet Singh",
+      "bowl_t": "Italy",
+      "v": "neutral",
+      "h2h": {
+        "balls": 2,
+        "runs": 0,
+        "dismissals": 0,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 0,
+        "balls": 2,
+        "dismissals": 0,
+        "average": 0.0,
+        "strike_rate": 0.0
+      },
+      "b_f": [
+        0
+      ],
+      "w_f": [
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "Aasif Sheikh",
+      "bat_t": "Nepal",
+      "bowl": "CJPF Kalugamage",
+      "bowl_t": "Italy",
+      "v": "neutral",
+      "h2h": {
+        "balls": 2,
+        "runs": 2,
+        "dismissals": 0,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 20,
+        "balls": 20,
+        "dismissals": 1,
+        "average": 20.0,
+        "strike_rate": 100.0
+      },
+      "b_f": [
+        33,
+        11,
+        20
+      ],
+      "w_f": [
+        2,
+        2,
+        3
+      ]
+    },
+    {
+      "bat": "Aasif Sheikh",
+      "bat_t": "Nepal",
+      "bowl": "G Stewart",
+      "bowl_t": "Italy",
+      "v": "neutral",
+      "h2h": {
+        "balls": 2,
+        "runs": 2,
+        "dismissals": 0,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 20,
+        "balls": 20,
+        "dismissals": 1,
+        "average": 20.0,
+        "strike_rate": 100.0
+      },
+      "b_f": [
+        33,
+        11,
+        20
+      ],
+      "w_f": [
+        0,
+        2,
+        0
+      ]
+    },
+    {
+      "bat": "RK Paudel",
+      "bat_t": "Nepal",
+      "bowl": "Ali Hasan",
+      "bowl_t": "Italy",
+      "v": "neutral",
+      "h2h": {
+        "balls": 2,
+        "runs": 2,
+        "dismissals": 0,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 23,
+        "balls": 14,
+        "dismissals": 1,
+        "average": 23.0,
+        "strike_rate": 164.29
+      },
+      "b_f": [
+        16,
+        5,
+        23
+      ],
+      "w_f": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "NK Yadav",
+      "bat_t": "Nepal",
+      "bowl": "CJPF Kalugamage",
+      "bowl_t": "Italy",
+      "v": "neutral",
+      "h2h": {
+        "balls": 2,
+        "runs": 0,
+        "dismissals": 0,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 0,
+        "balls": 2,
+        "dismissals": 0,
+        "average": 0.0,
+        "strike_rate": 0.0
+      },
+      "b_f": [
+        0
+      ],
+      "w_f": [
+        2,
+        2,
+        3
+      ]
+    },
+    {
+      "bat": "AJ Mosca",
+      "bat_t": "Italy",
+      "bowl": "Karan KC",
+      "bowl_t": "Nepal",
+      "v": "batsman",
+      "h2h": {
+        "balls": 2,
+        "runs": 6,
+        "dismissals": 0,
+        "strike_rate": 300.0
+      },
+      "vs_t": {
+        "runs": 62,
+        "balls": 32,
+        "dismissals": 0,
+        "average": 62.0,
+        "strike_rate": 193.75
+      },
+      "b_f": [
+        19,
+        0,
+        62
+      ],
+      "w_f": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "AJ Mosca",
+      "bat_t": "Italy",
+      "bowl": "NK Yadav",
+      "bowl_t": "Nepal",
+      "v": "batsman",
+      "h2h": {
+        "balls": 2,
+        "runs": 7,
+        "dismissals": 0,
+        "strike_rate": 350.0
+      },
+      "vs_t": {
+        "runs": 62,
+        "balls": 32,
+        "dismissals": 0,
+        "average": 62.0,
+        "strike_rate": 193.75
+      },
+      "b_f": [
+        19,
+        0,
+        62
+      ],
+      "w_f": [
+        2,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "S Lamichhane",
+      "bat_t": "Nepal",
+      "bowl": "CJPF Kalugamage",
+      "bowl_t": "Italy",
+      "v": "neutral",
+      "h2h": {
+        "balls": 1,
+        "runs": 0,
+        "dismissals": 0,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 5,
+        "balls": 7,
+        "dismissals": 1,
+        "average": 5.0,
+        "strike_rate": 71.43
+      },
+      "b_f": [
+        5
+      ],
+      "w_f": [
+        2,
+        2,
+        3
+      ]
+    },
+    {
+      "bat": "Gulsan Jha",
+      "bat_t": "Nepal",
+      "bowl": "BAD Manenti",
+      "bowl_t": "Italy",
+      "v": "neutral",
+      "h2h": {
+        "balls": 1,
+        "runs": 1,
+        "dismissals": 0,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 3,
+        "balls": 4,
+        "dismissals": 1,
+        "average": 3.0,
+        "strike_rate": 75.0
+      },
+      "b_f": [
+        24,
+        11,
+        3
+      ],
+      "w_f": [
+        2,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "Lokesh Bam",
+      "bat_t": "Nepal",
+      "bowl": "CJPF Kalugamage",
+      "bowl_t": "Italy",
+      "v": "neutral",
+      "h2h": {
+        "balls": 1,
+        "runs": 1,
+        "dismissals": 0,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 3,
+        "balls": 5,
+        "dismissals": 1,
+        "average": 3.0,
+        "strike_rate": 60.0
+      },
+      "b_f": [
+        13,
+        3,
+        39
+      ],
+      "w_f": [
+        2,
+        2,
+        3
+      ]
+    },
+    {
+      "bat": "Karan KC",
+      "bat_t": "Nepal",
+      "bowl": "J Mosca",
+      "bowl_t": "Italy",
+      "v": "neutral",
+      "vs_t": {
+        "runs": 18,
+        "balls": 11,
+        "dismissals": 0,
+        "average": 18.0,
+        "strike_rate": 163.64
+      },
+      "b_f": [
+        1,
+        18,
+        1
+      ]
+    },
+    {
+      "bat": "Karan KC",
+      "bat_t": "Nepal",
+      "bowl": "BAD Manenti",
+      "bowl_t": "Italy",
+      "v": "neutral",
+      "vs_t": {
+        "runs": 18,
+        "balls": 11,
+        "dismissals": 0,
+        "average": 18.0,
+        "strike_rate": 163.64
+      },
+      "b_f": [
+        1,
+        18,
+        1
+      ],
+      "w_f": [
+        2,
+        1,
+        2
+      ]
+    }
+  ]
+}

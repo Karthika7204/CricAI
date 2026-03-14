@@ -180,17 +180,25 @@ export const MatchDetail = ({ matchId, onBack }: { matchId: string, onBack: () =
                                     </div>
                                 </div>
                                 <div className="space-y-4">
-                                    {data.flow.flow_points?.map((p: string, i: number) => (
-                                        <div key={i} className="flex gap-6">
-                                            <div className="flex flex-col items-center">
-                                                <div className="w-3 h-3 rounded-full bg-primary shadow-neon" />
-                                                <div className="w-px flex-1 bg-gradient-to-b from-primary/30 to-transparent my-1" />
-                                            </div>
-                                            <div className="pb-8">
-                                                <p className="text-base text-text/80 leading-relaxed font-medium">{p}</p>
-                                            </div>
+                                    {data.flow?.error ? (
+                                        <div className="p-6 bg-red-500/10 border border-red-500/20 rounded-xl text-red-400 text-sm font-medium">
+                                            ⚠️ This match's detailed LLM summary has not been generated yet, so tactical flow points are unavailable. ({data.flow.error})
                                         </div>
-                                    ))}
+                                    ) : data.flow?.flow_points?.length > 0 ? (
+                                        data.flow.flow_points.map((p: string, i: number) => (
+                                            <div key={i} className="flex gap-6">
+                                                <div className="flex flex-col items-center">
+                                                    <div className="w-3 h-3 rounded-full bg-primary shadow-neon" />
+                                                    <div className="w-px flex-1 bg-gradient-to-b from-primary/30 to-transparent my-1" />
+                                                </div>
+                                                <div className="pb-8">
+                                                    <p className="text-base text-text/80 leading-relaxed font-medium">{p}</p>
+                                                </div>
+                                            </div>
+                                        ))
+                                    ) : (
+                                        <div className="text-white/40 italic p-4">Match flow data is pending generation.</div>
+                                    )}
                                 </div>
                             </div>
                         )}
@@ -204,11 +212,19 @@ export const MatchDetail = ({ matchId, onBack }: { matchId: string, onBack: () =
                                     </div>
                                 </div>
                                 <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-                                    {data.insights?.textual_insights?.map((insight: string, idx: number) => (
-                                        <div key={idx} className="p-6 bg-white/5 border border-white/10 rounded-2xl border-l-4 border-l-accent hover:bg-white/10 transition-colors">
-                                            <p className="text-sm italic text-text/70">"{insight}"</p>
+                                    {data.insights?.error ? (
+                                        <div className="col-span-2 p-6 bg-red-500/10 border border-red-500/20 rounded-xl text-red-400 text-sm font-medium">
+                                            ⚠️ Insights generation error: {data.insights.error}
                                         </div>
-                                    ))}
+                                    ) : data.insights?.textual_insights?.length > 0 ? (
+                                        data.insights.textual_insights.map((insight: string, idx: number) => (
+                                            <div key={idx} className="p-6 bg-white/5 border border-white/10 rounded-2xl border-l-4 border-l-accent hover:bg-white/10 transition-colors">
+                                                <p className="text-sm italic text-text/70">"{insight}"</p>
+                                            </div>
+                                        ))
+                                    ) : (
+                                        <div className="col-span-2 text-white/40 italic p-4">Pre-match insights are pending generation.</div>
+                                    )}
                                 </div>
                             </div>
                         )}
@@ -251,6 +267,12 @@ const RecommendationBot = ({ matchId }: { matchId: string }) => {
     const [isLoading, setIsLoading] = useState(false);
     const scrollRef = useRef<HTMLDivElement>(null);
 
+    const suggestedQuestions = [
+        "What should the defeated team avoid to lose and perform better ?",
+        "What should the winning team do to maintain their lead?",
+        "Give me the best and worst player matchups of this match",
+    ];
+
     const sendMessage = async () => {
         if (!input.trim() || isLoading) return;
         const newMsgs = [...messages, { role: 'user', text: input }];
@@ -270,15 +292,7 @@ const RecommendationBot = ({ matchId }: { matchId: string }) => {
     useEffect(() => { scrollRef.current?.scrollTo(0, scrollRef.current.scrollHeight); }, [messages]);
 
     return (
-        <div className="flex flex-col h-[600px] max-w-[1000px] mx-auto">
-            <div className="p-8 pb-0 flex items-center gap-4">
-                <div className="p-3 bg-primary/10 rounded-2xl"><TrendingUp className="text-primary w-8 h-8" /></div>
-                <div>
-                    <h3 className="font-outfit font-black uppercase text-2xl tracking-tighter">Tactical Recommendation Bot</h3>
-                    <p className="text-[10px] font-bold text-text/40 tracking-widest uppercase mb-1">PvP · Strategy · Pressure Avoidance</p>
-                </div>
-            </div>
-
+        <div className="flex flex-col h-[600px]">
             <div className="flex-1 overflow-y-auto p-8 space-y-6" ref={scrollRef}>
                 {messages.map((m, i) => (
                     <motion.div
@@ -307,7 +321,18 @@ const RecommendationBot = ({ matchId }: { matchId: string }) => {
                 )}
             </div>
 
-            <div className="p-6 bg-surface/40 border-t border-white/5 rounded-b-2xl mb-6 mx-8">
+            <div className="p-6 bg-surface/40 border-t border-white/5">
+                <div className="flex gap-2 overflow-x-auto scrollbar-hide mb-4 pb-2">
+                    {suggestedQuestions.map((q, i) => (
+                        <button
+                            key={i}
+                            onClick={() => setInput(q)}
+                            className="whitespace-nowrap px-4 py-2 rounded-full bg-white/5 border border-white/10 text-xs font-medium text-text/70 hover:bg-white/10 hover:text-white transition-colors"
+                        >
+                            {q}
+                        </button>
+                    ))}
+                </div>
                 <div className="flex gap-4">
                     <input
                         value={input} onChange={e => setInput(e.target.value)} onKeyDown={e => e.key === 'Enter' && sendMessage()}
@@ -332,6 +357,13 @@ const PostMatchChat = ({ matchId }: { matchId: string }) => {
     const [input, setInput] = useState('');
     const [isLoading, setIsLoading] = useState(false);
     const scrollRef = useRef<HTMLDivElement>(null);
+
+    const suggestedQuestions = [
+        "Summarize the turning points of this match",
+        "Who was the most impactful player?",
+        "What was the winning strategy?",
+        "give me the full summaries of this match"
+    ];
 
     const sendMessage = async () => {
         if (!input.trim() || isLoading) return;
@@ -369,6 +401,17 @@ const PostMatchChat = ({ matchId }: { matchId: string }) => {
                 {isLoading && <div className="text-[10px] font-black uppercase tracking-widest text-primary animate-pulse ml-11">Analyzing Match Data...</div>}
             </div>
             <div className="p-6 bg-surface/40 border-t border-white/5">
+                <div className="flex gap-2 overflow-x-auto scrollbar-hide mb-4 pb-2">
+                    {suggestedQuestions.map((q, i) => (
+                        <button
+                            key={i}
+                            onClick={() => setInput(q)}
+                            className="whitespace-nowrap px-4 py-2 rounded-full bg-white/5 border border-white/10 text-xs font-medium text-text/70 hover:bg-white/10 hover:text-white transition-colors"
+                        >
+                            {q}
+                        </button>
+                    ))}
+                </div>
                 <div className="flex gap-4">
                     <input
                         value={input} onChange={e => setInput(e.target.value)} onKeyDown={e => e.key === 'Enter' && sendMessage()}

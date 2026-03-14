@@ -1,0 +1,94 @@
+{
+    "match_id": "1512734",
+    "winner": "Sri Lanka",
+    "loser": "Oman",
+    "awards": {
+        "player_of_the_match": {
+            "name": "PHKD Mendis",
+            "team": "Sri Lanka",
+            "impact_score": 131.0,
+            "breakdown": {
+                "batting": 48.0,
+                "bowling": 70,
+                "fielding": 13,
+                "pressure_multiplier": 1.0
+            },
+            "key_stats": {
+                "batting": "19(8) SR:237.5",
+                "bowling": "2.0ov-1wkt econ:5.0"
+            }
+        },
+        "best_batter": {
+            "name": "MD Shanaka",
+            "team": "Sri Lanka",
+            "batting_impact": 99.0,
+            "stats": {
+                "runs": 50,
+                "balls": 20,
+                "sr": 250.0,
+                "fours": 2,
+                "sixes": 5
+            }
+        },
+        "best_bowler": {
+            "name": "M Theekshana",
+            "team": "Sri Lanka",
+            "bowling_impact": 95,
+            "stats": {
+                "overs": 4.0,
+                "wickets": 2,
+                "econ": 2.75
+            }
+        },
+        "game_changer": {
+            "name": "MD Shanaka",
+            "team": "Sri Lanka",
+            "reason": "SR 250.0 with 5 sixes",
+            "key_stats": {
+                "batting": "50(20) SR:250.0",
+                "bowling": "1.0ov-0wkt econ:7.0"
+            }
+        },
+        "pressure_performer": {
+            "name": "Mohammad Nadeem",
+            "team": "Oman",
+            "pressure_multiplier": 1.2,
+            "reason": "Chasing team batter under pressure",
+            "key_stats": {
+                "batting": "53(60) SR:88.33"
+            }
+        },
+        "emerging_player": {
+            "name": "Mohammad Nadeem",
+            "team": "Oman",
+            "reason": "Outperformed team average by 2.94x",
+            "key_stats": {
+                "batting": "53(60) SR:88.33"
+            }
+        },
+        "fielding_impact": {
+            "name": "PHKD Mendis",
+            "team": "Sri Lanka",
+            "fielding_proxy_score": 13,
+            "methodology": "Proxy-based: catch attribution (65% T20 wickets are catches) + dot ball pressure bonus + economy-implied fielding support",
+            "reason": "Economy 5.0 — tight fielding support implied",
+            "stats": {
+                "overs": 2.0,
+                "wickets": 1,
+                "econ": 5.0
+            }
+        },
+        "all_rounder_impact": {
+            "name": "PHKD Mendis",
+            "team": "Sri Lanka",
+            "all_rounder_score": 118.0,
+            "stats": {
+                "runs": 19,
+                "sr": 237.5,
+                "overs": 2.0,
+                "wickets": 1,
+                "econ": 5.0
+            }
+        }
+    }
+}

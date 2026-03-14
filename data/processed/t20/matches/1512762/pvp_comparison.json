@@ -1,0 +1,1462 @@
+{
+  "match_id": "1512762",
+  "team_a": "West Indies",
+  "team_b": "Zimbabwe",
+  "matchups": [
+    {
+      "bat": "R Powell",
+      "bat_t": "West Indies",
+      "bowl": "B Muzarabani",
+      "bowl_t": "Zimbabwe",
+      "v": "bowler",
+      "h2h": {
+        "balls": 8,
+        "runs": 14,
+        "dismissals": 2,
+        "strike_rate": 175.0
+      },
+      "vs_t": {
+        "runs": 87,
+        "balls": 59,
+        "dismissals": 2,
+        "average": 43.5,
+        "strike_rate": 147.46
+      },
+      "b_f": [
+        59,
+        9,
+        14
+      ],
+      "w_f": [
+        2,
+        2,
+        4
+      ]
+    },
+    {
+      "bat": "BA King",
+      "bat_t": "West Indies",
+      "bowl": "R Ngarava",
+      "bowl_t": "Zimbabwe",
+      "v": "neutral",
+      "h2h": {
+        "balls": 8,
+        "runs": 7,
+        "dismissals": 1,
+        "strike_rate": 87.5
+      },
+      "vs_t": {
+        "runs": 9,
+        "balls": 12,
+        "dismissals": 1,
+        "average": 9.0,
+        "strike_rate": 75.0
+      },
+      "b_f": [
+        9,
+        4,
+        22
+      ],
+      "w_f": [
+        2,
+        3
+      ]
+    },
+    {
+      "bat": "SO Hetmyer",
+      "bat_t": "West Indies",
+      "bowl": "AG Cremer",
+      "bowl_t": "Zimbabwe",
+      "v": "batsman",
+      "h2h": {
+        "balls": 8,
+        "runs": 23,
+        "dismissals": 1,
+        "strike_rate": 287.5
+      },
+      "vs_t": {
+        "runs": 85,
+        "balls": 38,
+        "dismissals": 1,
+        "average": 85.0,
+        "strike_rate": 223.68
+      },
+      "b_f": [
+        85,
+        1,
+        46
+      ],
+      "w_f": [
+        1,
+        2,
+        0
+      ]
+    },
+    {
+      "bat": "T Munyonga",
+      "bat_t": "Zimbabwe",
+      "bowl": "G Motie",
+      "bowl_t": "West Indies",
+      "v": "bowler",
+      "h2h": {
+        "balls": 8,
+        "runs": 10,
+        "dismissals": 1,
+        "strike_rate": 125.0
+      },
+      "vs_t": {
+        "runs": 16,
+        "balls": 23,
+        "dismissals": 2,
+        "average": 8.0,
+        "strike_rate": 69.57
+      },
+      "b_f": [
+        14,
+        8
+      ],
+      "w_f": [
+        4,
+        2,
+        0
+      ]
+    },
+    {
+      "bat": "Sikandar Raza",
+      "bat_t": "Zimbabwe",
+      "bowl": "G Motie",
+      "bowl_t": "West Indies",
+      "v": "batsman",
+      "h2h": {
+        "balls": 7,
+        "runs": 13,
+        "dismissals": 1,
+        "strike_rate": 185.71
+      },
+      "vs_t": {
+        "runs": 41,
+        "balls": 28,
+        "dismissals": 2,
+        "average": 20.5,
+        "strike_rate": 146.43
+      },
+      "b_f": [
+        27,
+        45,
+        25
+      ],
+      "w_f": [
+        4,
+        2,
+        0
+      ]
+    },
+    {
+      "bat": "RP Burl",
+      "bat_t": "Zimbabwe",
+      "bowl": "AJ Hosein",
+      "bowl_t": "West Indies",
+      "v": "bowler",
+      "h2h": {
+        "balls": 7,
+        "runs": 2,
+        "dismissals": 1,
+        "strike_rate": 28.57
+      },
+      "vs_t": {
+        "runs": 17,
+        "balls": 24,
+        "dismissals": 2,
+        "average": 8.5,
+        "strike_rate": 70.83
+      },
+      "b_f": [
+        0,
+        23,
+        35
+      ],
+      "w_f": [
+        3,
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "RP Burl",
+      "bat_t": "Zimbabwe",
+      "bowl": "JO Holder",
+      "bowl_t": "West Indies",
+      "v": "bowler",
+      "h2h": {
+        "balls": 5,
+        "runs": 5,
+        "dismissals": 1,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 17,
+        "balls": 24,
+        "dismissals": 2,
+        "average": 8.5,
+        "strike_rate": 70.83
+      },
+      "b_f": [
+        0,
+        23,
+        35
+      ],
+      "w_f": [
+        1,
+        0,
+        4
+      ]
+    },
+    {
+      "bat": "SD Hope",
+      "bat_t": "West Indies",
+      "bowl": "B Evans",
+      "bowl_t": "Zimbabwe",
+      "v": "neutral",
+      "h2h": {
+        "balls": 4,
+        "runs": 6,
+        "dismissals": 1,
+        "strike_rate": 150.0
+      },
+      "vs_t": {
+        "runs": 14,
+        "balls": 14,
+        "dismissals": 1,
+        "average": 14.0,
+        "strike_rate": 100.0
+      },
+      "b_f": [
+        14,
+        75,
+        61
+      ],
+      "w_f": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "bat": "R Shepherd",
+      "bat_t": "West Indies",
+      "bowl": "R Ngarava",
+      "bowl_t": "Zimbabwe",
+      "v": "neutral",
+      "h2h": {
+        "balls": 3,
+        "runs": 12,
+        "dismissals": 1,
+        "strike_rate": 400.0
+      },
+      "vs_t": {
+        "runs": 21,
+        "balls": 11,
+        "dismissals": 1,
+        "average": 21.0,
+        "strike_rate": 190.91
+      },
+      "b_f": [
+        21,
+        1,
+        6
+      ],
+      "w_f": [
+        2,
+        3
+      ]
+    },
+    {
+      "bat": "JO Holder",
+      "bat_t": "West Indies",
+      "bowl": "Sikandar Raza",
+      "bowl_t": "Zimbabwe",
+      "v": "neutral",
+      "h2h": {
+        "balls": 3,
+        "runs": 4,
+        "dismissals": 1,
+        "strike_rate": 133.33
+      },
+      "vs_t": {
+        "runs": 17,
+        "balls": 7,
+        "dismissals": 2,
+        "average": 8.5,
+        "strike_rate": 242.86
+      },
+      "b_f": [
+        13,
+        9,
+        33
+      ],
+      "w_f": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "JO Holder",
+      "bat_t": "West Indies",
+      "bowl": "B Muzarabani",
+      "bowl_t": "Zimbabwe",
+      "v": "neutral",
+      "h2h": {
+        "balls": 3,
+        "runs": 12,
+        "dismissals": 1,
+        "strike_rate": 400.0
+      },
+      "vs_t": {
+        "runs": 17,
+        "balls": 7,
+        "dismissals": 2,
+        "average": 8.5,
+        "strike_rate": 242.86
+      },
+      "b_f": [
+        13,
+        9,
+        33
+      ],
+      "w_f": [
+        2,
+        2,
+        4
+      ]
+    },
+    {
+      "bat": "D Myers",
+      "bat_t": "Zimbabwe",
+      "bowl": "G Motie",
+      "bowl_t": "West Indies",
+      "v": "neutral",
+      "h2h": {
+        "balls": 3,
+        "runs": 4,
+        "dismissals": 1,
+        "strike_rate": 133.33
+      },
+      "vs_t": {
+        "runs": 28,
+        "balls": 16,
+        "dismissals": 1,
+        "average": 28.0,
+        "strike_rate": 175.0
+      },
+      "b_f": [
+        28,
+        0
+      ],
+      "w_f": [
+        4,
+        2,
+        0
+      ]
+    },
+    {
+      "bat": "T Marumani",
+      "bat_t": "Zimbabwe",
+      "bowl": "MW Forde",
+      "bowl_t": "West Indies",
+      "v": "neutral",
+      "h2h": {
+        "balls": 2,
+        "runs": 4,
+        "dismissals": 1,
+        "strike_rate": 200.0
+      },
+      "vs_t": {
+        "runs": 14,
+        "balls": 8,
+        "dismissals": 1,
+        "average": 14.0,
+        "strike_rate": 175.0
+      },
+      "b_f": [
+        14,
+        34,
+        35
+      ],
+      "w_f": [
+        2,
+        3,
+        1
+      ]
+    },
+    {
+      "bat": "B Muzarabani",
+      "bat_t": "Zimbabwe",
+      "bowl": "AJ Hosein",
+      "bowl_t": "West Indies",
+      "v": "neutral",
+      "h2h": {
+        "balls": 2,
+        "runs": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 1,
+        "balls": 9,
+        "dismissals": 1,
+        "average": 1.0,
+        "strike_rate": 11.11
+      },
+      "b_f": [
+        0
+      ],
+      "w_f": [
+        3,
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "AG Cremer",
+      "bat_t": "Zimbabwe",
+      "bowl": "JO Holder",
+      "bowl_t": "West Indies",
+      "v": "neutral",
+      "h2h": {
+        "balls": 2,
+        "runs": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 2,
+        "balls": 9,
+        "dismissals": 2,
+        "average": 1.0,
+        "strike_rate": 22.22
+      },
+      "b_f": [
+        0
+      ],
+      "w_f": [
+        1,
+        0,
+        4
+      ]
+    },
+    {
+      "bat": "BJ Bennett",
+      "bat_t": "Zimbabwe",
+      "bowl": "AJ Hosein",
+      "bowl_t": "West Indies",
+      "v": "neutral",
+      "h2h": {
+        "balls": 1,
+        "runs": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 5,
+        "balls": 6,
+        "dismissals": 1,
+        "average": 5.0,
+        "strike_rate": 83.33
+      },
+      "b_f": [
+        5,
+        63,
+        64
+      ],
+      "w_f": [
+        3,
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "T Musekiwa",
+      "bat_t": "Zimbabwe",
+      "bowl": "G Motie",
+      "bowl_t": "West Indies",
+      "v": "neutral",
+      "h2h": {
+        "balls": 1,
+        "runs": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 0,
+        "balls": 1,
+        "dismissals": 1,
+        "average": 0.0,
+        "strike_rate": 0.0
+      },
+      "b_f": [
+        0,
+        1
+      ],
+      "w_f": [
+        4,
+        2,
+        0
+      ]
+    },
+    {
+      "bat": "B Evans",
+      "bat_t": "Zimbabwe",
+      "bowl": "MW Forde",
+      "bowl_t": "West Indies",
+      "v": "batsman",
+      "h2h": {
+        "balls": 1,
+        "runs": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 43,
+        "balls": 22,
+        "dismissals": 1,
+        "average": 43.0,
+        "strike_rate": 195.45
+      },
+      "b_f": [
+        43
+      ],
+      "w_f": [
+        2,
+        3,
+        1
+      ]
+    },
+    {
+      "bat": "R Powell",
+      "bat_t": "West Indies",
+      "bowl": "AG Cremer",
+      "bowl_t": "Zimbabwe",
+      "v": "batsman",
+      "h2h": {
+        "balls": 14,
+        "runs": 13,
+        "dismissals": 0,
+        "strike_rate": 92.86
+      },
+      "vs_t": {
+        "runs": 87,
+        "balls": 59,
+        "dismissals": 2,
+        "average": 43.5,
+        "strike_rate": 147.46
+      },
+      "b_f": [
+        59,
+        9,
+        14
+      ],
+      "w_f": [
+        1,
+        2,
+        0
+      ]
+    },
+    {
+      "bat": "B Evans",
+      "bat_t": "Zimbabwe",
+      "bowl": "JO Holder",
+      "bowl_t": "West Indies",
+      "v": "batsman",
+      "h2h": {
+        "balls": 13,
+        "runs": 23,
+        "dismissals": 0,
+        "strike_rate": 176.92
+      },
+      "vs_t": {
+        "runs": 43,
+        "balls": 22,
+        "dismissals": 1,
+        "average": 43.0,
+        "strike_rate": 195.45
+      },
+      "b_f": [
+        43
+      ],
+      "w_f": [
+        1,
+        0,
+        4
+      ]
+    },
+    {
+      "bat": "R Powell",
+      "bat_t": "West Indies",
+      "bowl": "B Evans",
+      "bowl_t": "Zimbabwe",
+      "v": "batsman",
+      "h2h": {
+        "balls": 12,
+        "runs": 25,
+        "dismissals": 0,
+        "strike_rate": 208.33
+      },
+      "vs_t": {
+        "runs": 87,
+        "balls": 59,
+        "dismissals": 2,
+        "average": 43.5,
+        "strike_rate": 147.46
+      },
+      "b_f": [
+        59,
+        9,
+        14
+      ],
+      "w_f": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "bat": "SO Hetmyer",
+      "bat_t": "West Indies",
+      "bowl": "Sikandar Raza",
+      "bowl_t": "Zimbabwe",
+      "v": "batsman",
+      "h2h": {
+        "balls": 11,
+        "runs": 33,
+        "dismissals": 0,
+        "strike_rate": 300.0
+      },
+      "vs_t": {
+        "runs": 85,
+        "balls": 38,
+        "dismissals": 1,
+        "average": 85.0,
+        "strike_rate": 223.68
+      },
+      "b_f": [
+        85,
+        1,
+        46
+      ],
+      "w_f": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "T Munyonga",
+      "bat_t": "Zimbabwe",
+      "bowl": "S Joseph",
+      "bowl_t": "West Indies",
+      "v": "bowler",
+      "h2h": {
+        "balls": 8,
+        "runs": 3,
+        "dismissals": 0,
+        "strike_rate": 37.5
+      },
+      "vs_t": {
+        "runs": 16,
+        "balls": 23,
+        "dismissals": 2,
+        "average": 8.0,
+        "strike_rate": 69.57
+      },
+      "b_f": [
+        14,
+        8
+      ],
+      "w_f": [
+        0,
+        4,
+        1
+      ]
+    },
+    {
+      "bat": "R Powell",
+      "bat_t": "West Indies",
+      "bowl": "Sikandar Raza",
+      "bowl_t": "Zimbabwe",
+      "v": "batsman",
+      "h2h": {
+        "balls": 7,
+        "runs": 10,
+        "dismissals": 0,
+        "strike_rate": 142.86
+      },
+      "vs_t": {
+        "runs": 87,
+        "balls": 59,
+        "dismissals": 2,
+        "average": 43.5,
+        "strike_rate": 147.46
+      },
+      "b_f": [
+        59,
+        9,
+        14
+      ],
+      "w_f": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "D Myers",
+      "bat_t": "Zimbabwe",
+      "bowl": "MW Forde",
+      "bowl_t": "West Indies",
+      "v": "batsman",
+      "h2h": {
+        "balls": 7,
+        "runs": 13,
+        "dismissals": 0,
+        "strike_rate": 185.71
+      },
+      "vs_t": {
+        "runs": 28,
+        "balls": 16,
+        "dismissals": 1,
+        "average": 28.0,
+        "strike_rate": 175.0
+      },
+      "b_f": [
+        28,
+        0
+      ],
+      "w_f": [
+        2,
+        3,
+        1
+      ]
+    },
+    {
+      "bat": "SO Hetmyer",
+      "bat_t": "West Indies",
+      "bowl": "R Ngarava",
+      "bowl_t": "Zimbabwe",
+      "v": "batsman",
+      "h2h": {
+        "balls": 6,
+        "runs": 14,
+        "dismissals": 0,
+        "strike_rate": 233.33
+      },
+      "vs_t": {
+        "runs": 85,
+        "balls": 38,
+        "dismissals": 1,
+        "average": 85.0,
+        "strike_rate": 223.68
+      },
+      "b_f": [
+        85,
+        1,
+        46
+      ],
+      "w_f": [
+        2,
+        3
+      ]
+    },
+    {
+      "bat": "SE Rutherford",
+      "bat_t": "West Indies",
+      "bowl": "B Muzarabani",
+      "bowl_t": "Zimbabwe",
+      "v": "batsman",
+      "h2h": {
+        "balls": 6,
+        "runs": 15,
+        "dismissals": 0,
+        "strike_rate": 250.0
+      },
+      "vs_t": {
+        "runs": 31,
+        "balls": 14,
+        "dismissals": 0,
+        "average": 31.0,
+        "strike_rate": 221.43
+      },
+      "b_f": [
+        31,
+        24,
+        76
+      ],
+      "w_f": [
+        2,
+        2,
+        4
+      ]
+    },
+    {
+      "bat": "Sikandar Raza",
+      "bat_t": "Zimbabwe",
+      "bowl": "MW Forde",
+      "bowl_t": "West Indies",
+      "v": "bowler",
+      "h2h": {
+        "balls": 6,
+        "runs": 1,
+        "dismissals": 0,
+        "strike_rate": 16.67
+      },
+      "vs_t": {
+        "runs": 41,
+        "balls": 28,
+        "dismissals": 2,
+        "average": 20.5,
+        "strike_rate": 146.43
+      },
+      "b_f": [
+        27,
+        45,
+        25
+      ],
+      "w_f": [
+        2,
+        3,
+        1
+      ]
+    },
+    {
+      "bat": "T Marumani",
+      "bat_t": "Zimbabwe",
+      "bowl": "AJ Hosein",
+      "bowl_t": "West Indies",
+      "v": "batsman",
+      "h2h": {
+        "balls": 6,
+        "runs": 10,
+        "dismissals": 0,
+        "strike_rate": 166.67
+      },
+      "vs_t": {
+        "runs": 14,
+        "balls": 8,
+        "dismissals": 1,
+        "average": 14.0,
+        "strike_rate": 175.0
+      },
+      "b_f": [
+        14,
+        34,
+        35
+      ],
+      "w_f": [
+        3,
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "B Evans",
+      "bat_t": "Zimbabwe",
+      "bowl": "S Joseph",
+      "bowl_t": "West Indies",
+      "v": "batsman",
+      "h2h": {
+        "balls": 6,
+        "runs": 18,
+        "dismissals": 0,
+        "strike_rate": 300.0
+      },
+      "vs_t": {
+        "runs": 43,
+        "balls": 22,
+        "dismissals": 1,
+        "average": 43.0,
+        "strike_rate": 195.45
+      },
+      "b_f": [
+        43
+      ],
+      "w_f": [
+        0,
+        4,
+        1
+      ]
+    },
+    {
+      "bat": "D Myers",
+      "bat_t": "Zimbabwe",
+      "bowl": "AJ Hosein",
+      "bowl_t": "West Indies",
+      "v": "batsman",
+      "h2h": {
+        "balls": 6,
+        "runs": 11,
+        "dismissals": 0,
+        "strike_rate": 183.33
+      },
+      "vs_t": {
+        "runs": 28,
+        "balls": 16,
+        "dismissals": 1,
+        "average": 28.0,
+        "strike_rate": 175.0
+      },
+      "b_f": [
+        28,
+        0
+      ],
+      "w_f": [
+        3,
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "R Shepherd",
+      "bat_t": "West Indies",
+      "bowl": "B Evans",
+      "bowl_t": "Zimbabwe",
+      "v": "neutral",
+      "h2h": {
+        "balls": 5,
+        "runs": 7,
+        "dismissals": 0,
+        "strike_rate": 140.0
+      },
+      "vs_t": {
+        "runs": 21,
+        "balls": 11,
+        "dismissals": 1,
+        "average": 21.0,
+        "strike_rate": 190.91
+      },
+      "b_f": [
+        21,
+        1,
+        6
+      ],
+      "w_f": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "bat": "SD Hope",
+      "bat_t": "West Indies",
+      "bowl": "R Ngarava",
+      "bowl_t": "Zimbabwe",
+      "v": "neutral",
+      "h2h": {
+        "balls": 5,
+        "runs": 5,
+        "dismissals": 0,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 14,
+        "balls": 14,
+        "dismissals": 1,
+        "average": 14.0,
+        "strike_rate": 100.0
+      },
+      "b_f": [
+        14,
+        75,
+        61
+      ],
+      "w_f": [
+        2,
+        3
+      ]
+    },
+    {
+      "bat": "SD Hope",
+      "bat_t": "West Indies",
+      "bowl": "B Muzarabani",
+      "bowl_t": "Zimbabwe",
+      "v": "neutral",
+      "h2h": {
+        "balls": 5,
+        "runs": 3,
+        "dismissals": 0,
+        "strike_rate": 60.0
+      },
+      "vs_t": {
+        "runs": 14,
+        "balls": 14,
+        "dismissals": 1,
+        "average": 14.0,
+        "strike_rate": 100.0
+      },
+      "b_f": [
+        14,
+        75,
+        61
+      ],
+      "w_f": [
+        2,
+        2,
+        4
+      ]
+    },
+    {
+      "bat": "AJ Hosein",
+      "bat_t": "West Indies",
+      "bowl": "B Muzarabani",
+      "bowl_t": "Zimbabwe",
+      "v": "neutral",
+      "h2h": {
+        "balls": 5,
+        "runs": 4,
+        "dismissals": 0,
+        "strike_rate": 80.0
+      },
+      "vs_t": {
+        "runs": 23,
+        "balls": 18,
+        "dismissals": 0,
+        "average": 23.0,
+        "strike_rate": 127.78
+      },
+      "w_f": [
+        2,
+        2,
+        4
+      ]
+    },
+    {
+      "bat": "SO Hetmyer",
+      "bat_t": "West Indies",
+      "bowl": "B Evans",
+      "bowl_t": "Zimbabwe",
+      "v": "batsman",
+      "h2h": {
+        "balls": 5,
+        "runs": 4,
+        "dismissals": 0,
+        "strike_rate": 80.0
+      },
+      "vs_t": {
+        "runs": 85,
+        "balls": 38,
+        "dismissals": 1,
+        "average": 85.0,
+        "strike_rate": 223.68
+      },
+      "b_f": [
+        85,
+        1,
+        46
+      ],
+      "w_f": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "bat": "SO Hetmyer",
+      "bat_t": "West Indies",
+      "bowl": "D Myers",
+      "bowl_t": "Zimbabwe",
+      "v": "batsman",
+      "h2h": {
+        "balls": 5,
+        "runs": 6,
+        "dismissals": 0,
+        "strike_rate": 120.0
+      },
+      "vs_t": {
+        "runs": 85,
+        "balls": 38,
+        "dismissals": 1,
+        "average": 85.0,
+        "strike_rate": 223.68
+      },
+      "b_f": [
+        85,
+        1,
+        46
+      ],
+      "w_f": [
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "Sikandar Raza",
+      "bat_t": "Zimbabwe",
+      "bowl": "S Joseph",
+      "bowl_t": "West Indies",
+      "v": "bowler",
+      "h2h": {
+        "balls": 5,
+        "runs": 13,
+        "dismissals": 0,
+        "strike_rate": 260.0
+      },
+      "vs_t": {
+        "runs": 41,
+        "balls": 28,
+        "dismissals": 2,
+        "average": 20.5,
+        "strike_rate": 146.43
+      },
+      "b_f": [
+        27,
+        45,
+        25
+      ],
+      "w_f": [
+        0,
+        4,
+        1
+      ]
+    },
+    {
+      "bat": "BJ Bennett",
+      "bat_t": "Zimbabwe",
+      "bowl": "MW Forde",
+      "bowl_t": "West Indies",
+      "v": "neutral",
+      "h2h": {
+        "balls": 5,
+        "runs": 5,
+        "dismissals": 0,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 5,
+        "balls": 6,
+        "dismissals": 1,
+        "average": 5.0,
+        "strike_rate": 83.33
+      },
+      "b_f": [
+        5,
+        63,
+        64
+      ],
+      "w_f": [
+        2,
+        3,
+        1
+      ]
+    },
+    {
+      "bat": "AJ Hosein",
+      "bat_t": "West Indies",
+      "bowl": "RP Burl",
+      "bowl_t": "Zimbabwe",
+      "v": "neutral",
+      "h2h": {
+        "balls": 4,
+        "runs": 5,
+        "dismissals": 0,
+        "strike_rate": 125.0
+      },
+      "vs_t": {
+        "runs": 23,
+        "balls": 18,
+        "dismissals": 0,
+        "average": 23.0,
+        "strike_rate": 127.78
+      },
+      "w_f": [
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "AJ Hosein",
+      "bat_t": "West Indies",
+      "bowl": "R Ngarava",
+      "bowl_t": "Zimbabwe",
+      "v": "neutral",
+      "h2h": {
+        "balls": 4,
+        "runs": 7,
+        "dismissals": 0,
+        "strike_rate": 175.0
+      },
+      "vs_t": {
+        "runs": 23,
+        "balls": 18,
+        "dismissals": 0,
+        "average": 23.0,
+        "strike_rate": 127.78
+      },
+      "w_f": [
+        2,
+        3
+      ]
+    },
+    {
+      "bat": "BA King",
+      "bat_t": "West Indies",
+      "bowl": "B Muzarabani",
+      "bowl_t": "Zimbabwe",
+      "v": "neutral",
+      "h2h": {
+        "balls": 4,
+        "runs": 2,
+        "dismissals": 0,
+        "strike_rate": 50.0
+      },
+      "vs_t": {
+        "runs": 9,
+        "balls": 12,
+        "dismissals": 1,
+        "average": 9.0,
+        "strike_rate": 75.0
+      },
+      "b_f": [
+        9,
+        4,
+        22
+      ],
+      "w_f": [
+        2,
+        2,
+        4
+      ]
+    },
+    {
+      "bat": "Sikandar Raza",
+      "bat_t": "Zimbabwe",
+      "bowl": "JO Holder",
+      "bowl_t": "West Indies",
+      "v": "bowler",
+      "h2h": {
+        "balls": 4,
+        "runs": 3,
+        "dismissals": 0,
+        "strike_rate": 75.0
+      },
+      "vs_t": {
+        "runs": 41,
+        "balls": 28,
+        "dismissals": 2,
+        "average": 20.5,
+        "strike_rate": 146.43
+      },
+      "b_f": [
+        27,
+        45,
+        25
+      ],
+      "w_f": [
+        1,
+        0,
+        4
+      ]
+    },
+    {
+      "bat": "R Ngarava",
+      "bat_t": "Zimbabwe",
+      "bowl": "MW Forde",
+      "bowl_t": "West Indies",
+      "v": "neutral",
+      "h2h": {
+        "balls": 4,
+        "runs": 1,
+        "dismissals": 0,
+        "strike_rate": 25.0
+      },
+      "vs_t": {
+        "runs": 9,
+        "balls": 13,
+        "dismissals": 1,
+        "average": 9.0,
+        "strike_rate": 69.23
+      },
+      "b_f": [
+        7
+      ],
+      "w_f": [
+        2,
+        3,
+        1
+      ]
+    },
+    {
+      "bat": "R Ngarava",
+      "bat_t": "Zimbabwe",
+      "bowl": "AJ Hosein",
+      "bowl_t": "West Indies",
+      "v": "neutral",
+      "h2h": {
+        "balls": 4,
+        "runs": 7,
+        "dismissals": 0,
+        "strike_rate": 175.0
+      },
+      "vs_t": {
+        "runs": 9,
+        "balls": 13,
+        "dismissals": 1,
+        "average": 9.0,
+        "strike_rate": 69.23
+      },
+      "b_f": [
+        7
+      ],
+      "w_f": [
+        3,
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "AG Cremer",
+      "bat_t": "Zimbabwe",
+      "bowl": "G Motie",
+      "bowl_t": "West Indies",
+      "v": "neutral",
+      "h2h": {
+        "balls": 4,
+        "runs": 0,
+        "dismissals": 0,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 2,
+        "balls": 9,
+        "dismissals": 2,
+        "average": 1.0,
+        "strike_rate": 22.22
+      },
+      "b_f": [
+        0
+      ],
+      "w_f": [
+        4,
+        2,
+        0
+      ]
+    },
+    {
+      "bat": "R Shepherd",
+      "bat_t": "West Indies",
+      "bowl": "B Muzarabani",
+      "bowl_t": "Zimbabwe",
+      "v": "neutral",
+      "h2h": {
+        "balls": 3,
+        "runs": 2,
+        "dismissals": 0,
+        "strike_rate": 66.67
+      },
+      "vs_t": {
+        "runs": 21,
+        "balls": 11,
+        "dismissals": 1,
+        "average": 21.0,
+        "strike_rate": 190.91
+      },
+      "b_f": [
+        21,
+        1,
+        6
+      ],
+      "w_f": [
+        2,
+        2,
+        4
+      ]
+    },
+    {
+      "bat": "R Powell",
+      "bat_t": "West Indies",
+      "bowl": "D Myers",
+      "bowl_t": "Zimbabwe",
+      "v": "batsman",
+      "h2h": {
+        "balls": 3,
+        "runs": 11,
+        "dismissals": 0,
+        "strike_rate": 366.67
+      },
+      "vs_t": {
+        "runs": 87,
+        "balls": 59,
+        "dismissals": 2,
+        "average": 43.5,
+        "strike_rate": 147.46
+      },
+      "b_f": [
+        59,
+        9,
+        14
+      ],
+      "w_f": [
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "SO Hetmyer",
+      "bat_t": "West Indies",
+      "bowl": "B Muzarabani",
+      "bowl_t": "Zimbabwe",
+      "v": "batsman",
+      "h2h": {
+        "balls": 3,
+        "runs": 5,
+        "dismissals": 0,
+        "strike_rate": 166.67
+      },
+      "vs_t": {
+        "runs": 85,
+        "balls": 38,
+        "dismissals": 1,
+        "average": 85.0,
+        "strike_rate": 223.68
+      },
+      "b_f": [
+        85,
+        1,
+        46
+      ],
+      "w_f": [
+        2,
+        2,
+        4
+      ]
+    },
+    {
+      "bat": "SE Rutherford",
+      "bat_t": "West Indies",
+      "bowl": "Sikandar Raza",
+      "bowl_t": "Zimbabwe",
+      "v": "neutral",
+      "h2h": {
+        "balls": 3,
+        "runs": 6,
+        "dismissals": 0,
+        "strike_rate": 200.0
+      },
+      "vs_t": {
+        "runs": 31,
+        "balls": 14,
+        "dismissals": 0,
+        "average": 31.0,
+        "strike_rate": 221.43
+      },
+      "b_f": [
+        31,
+        24,
+        76
+      ],
+      "w_f": [
+        0,
+        0,
+        0
+      ]
+    }
+  ]
+}

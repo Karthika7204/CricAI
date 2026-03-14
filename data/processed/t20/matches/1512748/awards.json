@@ -1,0 +1,92 @@
+{
+    "match_id": "1512748",
+    "winner": "Sri Lanka",
+    "loser": "Australia",
+    "awards": {
+        "player_of_the_match": {
+            "name": "P Nissanka",
+            "team": "Sri Lanka",
+            "impact_score": 175.0,
+            "breakdown": {
+                "batting": 175.0,
+                "bowling": 0.0,
+                "fielding": 0.0,
+                "pressure_multiplier": 1.0
+            },
+            "key_stats": {
+                "batting": "100(55) SR:181.82"
+            }
+        },
+        "best_batter": {
+            "name": "P Nissanka",
+            "team": "Sri Lanka",
+            "batting_impact": 175.0,
+            "stats": {
+                "runs": 100,
+                "balls": 55,
+                "sr": 181.82,
+                "fours": 10,
+                "sixes": 5
+            }
+        },
+        "best_bowler": {
+            "name": "MADI Hemantha",
+            "team": "Sri Lanka",
+            "bowling_impact": 75,
+            "stats": {
+                "overs": 4.0,
+                "wickets": 3,
+                "econ": 9.25
+            }
+        },
+        "game_changer": {
+            "name": "P Nissanka",
+            "team": "Sri Lanka",
+            "reason": "SR 181.82 with 5 sixes",
+            "key_stats": {
+                "batting": "100(55) SR:181.82"
+            }
+        },
+        "pressure_performer": {
+            "name": "P Nissanka",
+            "team": "Sri Lanka",
+            "pressure_multiplier": 1.0,
+            "reason": "Chasing team batter under pressure | Attacking SR 181.82 under pressure",
+            "key_stats": {
+                "batting": "100(55) SR:181.82"
+            }
+        },
+        "emerging_player": {
+            "name": "TM Head",
+            "team": "Australia",
+            "reason": "Outperformed team average by 3.88x",
+            "key_stats": {
+                "batting": "56(30) SR:186.67"
+            }
+        },
+        "fielding_impact": {
+            "name": "MADI Hemantha",
+            "team": "Sri Lanka",
+            "fielding_proxy_score": 16,
+            "methodology": "Proxy-based: catch attribution (65% T20 wickets are catches) + dot ball pressure bonus + economy-implied fielding support",
+            "reason": "Estimated 2 caught dismissals from 3 wickets",
+            "stats": {
+                "overs": 4.0,
+                "wickets": 3,
+                "econ": 9.25
+            }
+        },
+        "all_rounder_impact": {
+            "name": "MP Stoinis",
+            "team": "Australia",
+            "all_rounder_score": 35.0,
+            "stats": {
+                "runs": 4,
+                "sr": 66.67,
+                "overs": 4.0,
+                "wickets": 2,
+                "econ": 11.5
+            }
+        }
+    }
+}

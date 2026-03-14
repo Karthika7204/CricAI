@@ -1,0 +1,333 @@
+{
+    "match_context": {
+        "match_id": "1512737",
+        "date": "2026-02-13",
+        "tournament": "2025/26",
+        "venue": "R Premadasa Stadium, Colombo",
+        "stage": "ICC Men's T20 World Cup",
+        "Teams": {
+            "Zimbabwe": {
+                "captain": "BJ Bennett",
+                "playing_xi_count": 9
+            },
+            "Australia": {
+                "captain": "MT Renshaw",
+                "playing_xi_count": 11
+            }
+        }
+    },
+    "Match_Result": {
+        "summary": "Zimbabwe won by 23 runs",
+        "winner": "Zimbabwe",
+        "margin": 23,
+        "margin_type": "runs"
+    },
+    "Scorecard_Highlights": {
+        "Key_Support_Performers": [
+            {
+                "player": "TM Head",
+                "team": "Australia",
+                "runs": 17,
+                "balls": 15,
+                "sr": 113.33,
+                "fours": 3,
+                "sixes": 0,
+                "win_contribution_percent": 11.6,
+                "score": 39.97
+            }
+        ],
+        "Career_vs_Match_Bowling": [],
+        "Bowling_Standouts": {
+            "Economical_Spells": [],
+            "Expensive_Spells": [],
+            "High_Economy_No_Baseline": [
+                {
+                    "player": "GJ Maxwell",
+                    "team": "Australia",
+                    "overs": 1.0,
+                    "runs": 14,
+                    "wickets": 0,
+                    "econ": 14.0,
+                    "score": 11.07,
+                    "bowling_baseline": {
+                        "career_wickets": 0,
+                        "career_economy": 0.0,
+                        "career_sr": 0.0,
+                        "career_avg": 0.0,
+                        "best_bowling": "N/A",
+                        "matches": 0,
+                        "source": "none",
+                        "baseline_available": false
+                    }
+                }
+            ]
+        },
+        "Significant_Collapses": []
+    },
+    "Innings_Metrics": [
+        {
+            "innings": 1,
+            "team": "Zimbabwe",
+            "total_runs": 169,
+            "total_wickets": 2,
+            "balls_faced": 120,
+            "overs_faced": 20.0,
+            "phase_analysis": {
+                "Powerplay": {
+                    "runs": 47,
+                    "wkts": 0,
+                    "rr": 7.83
+                },
+                "Middle": {
+                    "runs": 78,
+                    "wkts": 1,
+                    "rr": 8.67
+                },
+                "Death": {
+                    "runs": 44,
+                    "wkts": 1,
+                    "rr": 8.8
+                }
+            }
+        },
+        {
+            "innings": 2,
+            "team": "Australia",
+            "total_runs": 146,
+            "total_wickets": 10,
+            "balls_faced": 117,
+            "overs_faced": 19.3,
+            "phase_analysis": {
+                "Powerplay": {
+                    "runs": 38,
+                    "wkts": 4,
+                    "rr": 6.33
+                },
+                "Middle": {
+                    "runs": 76,
+                    "wkts": 1,
+                    "rr": 8.44
+                },
+                "Death": {
+                    "runs": 32,
+                    "wkts": 5,
+                    "rr": 7.11
+                }
+            },
+            "pressure_index": 100.0,
+            "target": 170
+        }
+    ],
+    "Detailed_Impact_Analysis": [
+        {
+            "player": "B Muzarabani",
+            "team": "Zimbabwe",
+            "overs": 4.0,
+            "runs": 19,
+            "wickets": 4,
+            "econ": 4.75,
+            "score": 150.0,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-19r-4w"
+        },
+        {
+            "player": "B Evans",
+            "team": "Zimbabwe",
+            "overs": 3.3,
+            "runs": 23,
+            "wickets": 3,
+            "econ": 6.57,
+            "score": 113.58,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "3.3o-23r-3w"
+        },
+        {
+            "player": "MT Renshaw",
+            "team": "Australia",
+            "runs": 65,
+            "balls": 46,
+            "sr": 141.3,
+            "fours": 5,
+            "sixes": 1,
+            "win_contribution_percent": 44.5,
+            "score": 93.64,
+            "role": "batting",
+            "match_stats": "65(46)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "BJ Bennett",
+            "team": "Zimbabwe",
+            "runs": 64,
+            "balls": 58,
+            "sr": 110.34,
+            "fours": 7,
+            "sixes": 0,
+            "win_contribution_percent": 37.9,
+            "score": 86.36,
+            "role": "batting",
+            "match_stats": "64(58)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "T Marumani",
+            "team": "Zimbabwe",
+            "runs": 35,
+            "balls": 22,
+            "sr": 159.09,
+            "fours": 7,
+            "sixes": 0,
+            "win_contribution_percent": 20.7,
+            "score": 67.24,
+            "role": "batting",
+            "match_stats": "35(22)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "Sikandar Raza",
+            "team": "Zimbabwe",
+            "runs": 25,
+            "balls": 13,
+            "sr": 192.31,
+            "fours": 2,
+            "sixes": 1,
+            "win_contribution_percent": 14.8,
+            "score": 63.97,
+            "role": "batting",
+            "match_stats": "25(13)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "RP Burl",
+            "team": "Zimbabwe",
+            "runs": 35,
+            "balls": 32,
+            "sr": 109.38,
+            "fours": 4,
+            "sixes": 0,
+            "win_contribution_percent": 20.7,
+            "score": 57.17,
+            "role": "batting",
+            "match_stats": "35(32)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "C Green",
+            "team": "Australia",
+            "overs": 1.1,
+            "runs": 7,
+            "wickets": 1,
+            "econ": 6.0,
+            "score": 55.82,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "1.1o-7r-1w"
+        },
+        {
+            "player": "MP Stoinis",
+            "team": "Australia",
+            "overs": 2.5,
+            "runs": 19,
+            "wickets": 1,
+            "econ": 6.71,
+            "score": 53.09,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "2.5o-19r-1w"
+        },
+        {
+            "player": "GJ Maxwell",
+            "team": "Australia",
+            "runs": 31,
+            "balls": 32,
+            "sr": 96.88,
+            "fours": 1,
+            "sixes": 1,
+            "win_contribution_percent": 21.2,
+            "score": 50.63,
+            "role": "batting",
+            "match_stats": "31(32)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        }
+    ],
+    "Tactical_Post_Match_Analysis": [
+        "Zimbabwe's victory was anchored by BJ Bennett, who contributed 37.9% of the team's runs.",
+        "Defensive pressure was sustained by B Muzarabani, finishing with an impact score of 150.0.",
+        "Australia struggled under extreme chase pressure (Index: 100.0), leading to a late-innings collapse.",
+        "Australia lost 4 wickets in Powerplay, failing to build a stable foundation."
+    ]
+}

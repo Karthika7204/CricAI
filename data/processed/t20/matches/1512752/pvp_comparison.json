@@ -1,0 +1,1463 @@
+{
+  "match_id": "1512752",
+  "team_a": "United Arab Emirates",
+  "team_b": "South Africa",
+  "matchups": [
+    {
+      "bat": "D Brevis",
+      "bat_t": "South Africa",
+      "bowl": "Muhammad Arfan",
+      "bowl_t": "United Arab Emirates",
+      "v": "batsman",
+      "h2h": {
+        "balls": 9,
+        "runs": 11,
+        "dismissals": 1,
+        "strike_rate": 122.22
+      },
+      "vs_t": {
+        "runs": 36,
+        "balls": 27,
+        "dismissals": 1,
+        "average": 36.0,
+        "strike_rate": 133.33
+      },
+      "b_car": {
+        "avg": 26.0,
+        "sr": 154.92
+      },
+      "b_f": [
+        45,
+        36,
+        21
+      ],
+      "w_f": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "AK Markram",
+      "bat_t": "South Africa",
+      "bowl": "Haider Ali",
+      "bowl_t": "United Arab Emirates",
+      "v": "batsman",
+      "h2h": {
+        "balls": 6,
+        "runs": 18,
+        "dismissals": 1,
+        "strike_rate": 300.0
+      },
+      "vs_t": {
+        "runs": 28,
+        "balls": 11,
+        "dismissals": 1,
+        "average": 28.0,
+        "strike_rate": 254.55
+      },
+      "b_car": {
+        "avg": 31.08,
+        "sr": 143.73
+      },
+      "b_f": [
+        4,
+        28,
+        86
+      ],
+      "w_f": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "RD Rickelton",
+      "bat_t": "South Africa",
+      "bowl": "Muhammad Farooq",
+      "bowl_t": "United Arab Emirates",
+      "v": "neutral",
+      "h2h": {
+        "balls": 4,
+        "runs": 12,
+        "dismissals": 1,
+        "strike_rate": 300.0
+      },
+      "vs_t": {
+        "runs": 30,
+        "balls": 16,
+        "dismissals": 1,
+        "average": 30.0,
+        "strike_rate": 187.5
+      },
+      "b_car": {
+        "avg": 26.26,
+        "sr": 141.78
+      },
+      "b_f": [
+        7,
+        30,
+        21
+      ],
+      "w_f": [
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "A Sharma",
+      "bat_t": "United Arab Emirates",
+      "bowl": "C Bosch",
+      "bowl_t": "South Africa",
+      "v": "neutral",
+      "h2h": {
+        "balls": 2,
+        "runs": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 13,
+        "balls": 18,
+        "dismissals": 1,
+        "average": 13.0,
+        "strike_rate": 72.22
+      },
+      "b_car": {
+        "avg": 25.82,
+        "sr": 113.44
+      },
+      "b_f": [
+        13,
+        74,
+        8
+      ],
+      "w_f": [
+        2,
+        3,
+        1
+      ]
+    },
+    {
+      "bat": "Q de Kock",
+      "bat_t": "South Africa",
+      "bowl": "Muhammad Jawadullah",
+      "bowl_t": "United Arab Emirates",
+      "v": "batsman",
+      "h2h": {
+        "balls": 1,
+        "runs": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 14,
+        "balls": 16,
+        "dismissals": 1,
+        "average": 14.0,
+        "strike_rate": 87.5
+      },
+      "b_car": {
+        "avg": 31.84,
+        "sr": 136.42
+      },
+      "b_f": [
+        6,
+        14,
+        20
+      ],
+      "w_f": [
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "A Sharafu",
+      "bat_t": "United Arab Emirates",
+      "bowl": "A Nortje",
+      "bowl_t": "South Africa",
+      "v": "batsman",
+      "h2h": {
+        "balls": 8,
+        "runs": 15,
+        "dismissals": 1,
+        "strike_rate": 187.5
+      },
+      "vs_t": {
+        "runs": 45,
+        "balls": 38,
+        "dismissals": 1,
+        "average": 45.0,
+        "strike_rate": 118.42
+      },
+      "b_f": [
+        45,
+        5,
+        55
+      ],
+      "w_f": [
+        2
+      ]
+    },
+    {
+      "bat": "Muhammad Arfan",
+      "bat_t": "United Arab Emirates",
+      "bowl": "C Bosch",
+      "bowl_t": "South Africa",
+      "v": "neutral",
+      "h2h": {
+        "balls": 4,
+        "runs": 1,
+        "dismissals": 1,
+        "strike_rate": 25.0
+      },
+      "vs_t": {
+        "runs": 11,
+        "balls": 19,
+        "dismissals": 1,
+        "average": 11.0,
+        "strike_rate": 57.89
+      },
+      "b_f": [
+        11,
+        1,
+        0
+      ],
+      "w_f": [
+        2,
+        3,
+        1
+      ]
+    },
+    {
+      "bat": "Shoaib Khan",
+      "bat_t": "United Arab Emirates",
+      "bowl": "C Bosch",
+      "bowl_t": "South Africa",
+      "v": "neutral",
+      "h2h": {
+        "balls": 3,
+        "runs": 1,
+        "dismissals": 1,
+        "strike_rate": 33.33
+      },
+      "vs_t": {
+        "runs": 6,
+        "balls": 11,
+        "dismissals": 1,
+        "average": 6.0,
+        "strike_rate": 54.55
+      },
+      "b_f": [
+        6,
+        51,
+        7
+      ],
+      "w_f": [
+        2,
+        3,
+        1
+      ]
+    },
+    {
+      "bat": "Syed Haider",
+      "bat_t": "United Arab Emirates",
+      "bowl": "A Nortje",
+      "bowl_t": "South Africa",
+      "v": "neutral",
+      "h2h": {
+        "balls": 2,
+        "runs": 1,
+        "dismissals": 1,
+        "strike_rate": 50.0
+      },
+      "vs_t": {
+        "runs": 6,
+        "balls": 15,
+        "dismissals": 1,
+        "average": 6.0,
+        "strike_rate": 40.0
+      },
+      "b_f": [
+        6
+      ],
+      "w_f": [
+        2
+      ]
+    },
+    {
+      "bat": "Waseem Muhammad",
+      "bat_t": "United Arab Emirates",
+      "bowl": "GF Linde",
+      "bowl_t": "South Africa",
+      "v": "neutral",
+      "h2h": {
+        "balls": 2,
+        "runs": 1,
+        "dismissals": 1,
+        "strike_rate": 50.0
+      },
+      "vs_t": {
+        "runs": 22,
+        "balls": 14,
+        "dismissals": 1,
+        "average": 22.0,
+        "strike_rate": 157.14
+      },
+      "b_f": [
+        22,
+        4,
+        66
+      ],
+      "w_f": [
+        1
+      ]
+    },
+    {
+      "bat": "D Brevis",
+      "bat_t": "South Africa",
+      "bowl": "Haider Ali",
+      "bowl_t": "United Arab Emirates",
+      "v": "batsman",
+      "h2h": {
+        "balls": 9,
+        "runs": 13,
+        "dismissals": 0,
+        "strike_rate": 144.44
+      },
+      "vs_t": {
+        "runs": 36,
+        "balls": 27,
+        "dismissals": 1,
+        "average": 36.0,
+        "strike_rate": 133.33
+      },
+      "b_car": {
+        "avg": 26.0,
+        "sr": 154.92
+      },
+      "b_f": [
+        45,
+        36,
+        21
+      ],
+      "w_f": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "Q de Kock",
+      "bat_t": "South Africa",
+      "bowl": "Junaid Siddique",
+      "bowl_t": "United Arab Emirates",
+      "v": "batsman",
+      "h2h": {
+        "balls": 8,
+        "runs": 12,
+        "dismissals": 0,
+        "strike_rate": 150.0
+      },
+      "vs_t": {
+        "runs": 14,
+        "balls": 16,
+        "dismissals": 1,
+        "average": 14.0,
+        "strike_rate": 87.5
+      },
+      "b_car": {
+        "avg": 31.84,
+        "sr": 136.42
+      },
+      "b_f": [
+        6,
+        14,
+        20
+      ],
+      "w_f": [
+        0,
+        5,
+        0
+      ]
+    },
+    {
+      "bat": "D Brevis",
+      "bat_t": "South Africa",
+      "bowl": "Muhammad Jawadullah",
+      "bowl_t": "United Arab Emirates",
+      "v": "batsman",
+      "h2h": {
+        "balls": 8,
+        "runs": 11,
+        "dismissals": 0,
+        "strike_rate": 137.5
+      },
+      "vs_t": {
+        "runs": 36,
+        "balls": 27,
+        "dismissals": 1,
+        "average": 36.0,
+        "strike_rate": 133.33
+      },
+      "b_car": {
+        "avg": 26.0,
+        "sr": 154.92
+      },
+      "b_f": [
+        45,
+        36,
+        21
+      ],
+      "w_f": [
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "A Sharma",
+      "bat_t": "United Arab Emirates",
+      "bowl": "K Rabada",
+      "bowl_t": "South Africa",
+      "v": "neutral",
+      "h2h": {
+        "balls": 7,
+        "runs": 7,
+        "dismissals": 0,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 13,
+        "balls": 18,
+        "dismissals": 1,
+        "average": 13.0,
+        "strike_rate": 72.22
+      },
+      "b_car": {
+        "avg": 25.82,
+        "sr": 113.44
+      },
+      "b_f": [
+        13,
+        74,
+        8
+      ],
+      "w_f": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "Q de Kock",
+      "bat_t": "South Africa",
+      "bowl": "D Parashar",
+      "bowl_t": "United Arab Emirates",
+      "v": "batsman",
+      "h2h": {
+        "balls": 7,
+        "runs": 2,
+        "dismissals": 0,
+        "strike_rate": 28.57
+      },
+      "vs_t": {
+        "runs": 14,
+        "balls": 16,
+        "dismissals": 1,
+        "average": 14.0,
+        "strike_rate": 87.5
+      },
+      "b_car": {
+        "avg": 31.84,
+        "sr": 136.42
+      },
+      "b_f": [
+        6,
+        14,
+        20
+      ],
+      "w_f": [
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "A Sharma",
+      "bat_t": "United Arab Emirates",
+      "bowl": "A Nortje",
+      "bowl_t": "South Africa",
+      "v": "neutral",
+      "h2h": {
+        "balls": 5,
+        "runs": 5,
+        "dismissals": 0,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 13,
+        "balls": 18,
+        "dismissals": 1,
+        "average": 13.0,
+        "strike_rate": 72.22
+      },
+      "b_car": {
+        "avg": 25.82,
+        "sr": 113.44
+      },
+      "b_f": [
+        13,
+        74,
+        8
+      ],
+      "w_f": [
+        2
+      ]
+    },
+    {
+      "bat": "T Stubbs",
+      "bat_t": "South Africa",
+      "bowl": "Muhammad Farooq",
+      "bowl_t": "United Arab Emirates",
+      "v": "batsman",
+      "h2h": {
+        "balls": 5,
+        "runs": 4,
+        "dismissals": 0,
+        "strike_rate": 80.0
+      },
+      "vs_t": {
+        "runs": 6,
+        "balls": 7,
+        "dismissals": 0,
+        "average": 6.0,
+        "strike_rate": 85.71
+      },
+      "b_car": {
+        "avg": 30.53,
+        "sr": 131.99
+      },
+      "b_f": [
+        44,
+        6,
+        34
+      ],
+      "w_f": [
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "AK Markram",
+      "bat_t": "South Africa",
+      "bowl": "Junaid Siddique",
+      "bowl_t": "United Arab Emirates",
+      "v": "batsman",
+      "h2h": {
+        "balls": 4,
+        "runs": 9,
+        "dismissals": 0,
+        "strike_rate": 225.0
+      },
+      "vs_t": {
+        "runs": 28,
+        "balls": 11,
+        "dismissals": 1,
+        "average": 28.0,
+        "strike_rate": 254.55
+      },
+      "b_car": {
+        "avg": 31.08,
+        "sr": 143.73
+      },
+      "b_f": [
+        4,
+        28,
+        86
+      ],
+      "w_f": [
+        0,
+        5,
+        0
+      ]
+    },
+    {
+      "bat": "RD Rickelton",
+      "bat_t": "South Africa",
+      "bowl": "D Parashar",
+      "bowl_t": "United Arab Emirates",
+      "v": "neutral",
+      "h2h": {
+        "balls": 4,
+        "runs": 5,
+        "dismissals": 0,
+        "strike_rate": 125.0
+      },
+      "vs_t": {
+        "runs": 30,
+        "balls": 16,
+        "dismissals": 1,
+        "average": 30.0,
+        "strike_rate": 187.5
+      },
+      "b_car": {
+        "avg": 26.26,
+        "sr": 141.78
+      },
+      "b_f": [
+        7,
+        30,
+        21
+      ],
+      "w_f": [
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "A Sharma",
+      "bat_t": "United Arab Emirates",
+      "bowl": "KT Maphaka",
+      "bowl_t": "South Africa",
+      "v": "neutral",
+      "h2h": {
+        "balls": 3,
+        "runs": 0,
+        "dismissals": 0,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 13,
+        "balls": 18,
+        "dismissals": 1,
+        "average": 13.0,
+        "strike_rate": 72.22
+      },
+      "b_car": {
+        "avg": 25.82,
+        "sr": 113.44
+      },
+      "b_f": [
+        13,
+        74,
+        8
+      ],
+      "w_f": [
+        0
+      ]
+    },
+    {
+      "bat": "RD Rickelton",
+      "bat_t": "South Africa",
+      "bowl": "Muhammad Jawadullah",
+      "bowl_t": "United Arab Emirates",
+      "v": "neutral",
+      "h2h": {
+        "balls": 3,
+        "runs": 9,
+        "dismissals": 0,
+        "strike_rate": 300.0
+      },
+      "vs_t": {
+        "runs": 30,
+        "balls": 16,
+        "dismissals": 1,
+        "average": 30.0,
+        "strike_rate": 187.5
+      },
+      "b_car": {
+        "avg": 26.26,
+        "sr": 141.78
+      },
+      "b_f": [
+        7,
+        30,
+        21
+      ],
+      "w_f": [
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "RD Rickelton",
+      "bat_t": "South Africa",
+      "bowl": "Haider Ali",
+      "bowl_t": "United Arab Emirates",
+      "v": "neutral",
+      "h2h": {
+        "balls": 3,
+        "runs": 2,
+        "dismissals": 0,
+        "strike_rate": 66.67
+      },
+      "vs_t": {
+        "runs": 30,
+        "balls": 16,
+        "dismissals": 1,
+        "average": 30.0,
+        "strike_rate": 187.5
+      },
+      "b_car": {
+        "avg": 26.26,
+        "sr": 141.78
+      },
+      "b_f": [
+        7,
+        30,
+        21
+      ],
+      "w_f": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "A Sharafu",
+      "bat_t": "United Arab Emirates",
+      "bowl": "GF Linde",
+      "bowl_t": "South Africa",
+      "v": "neutral",
+      "h2h": {
+        "balls": 12,
+        "runs": 10,
+        "dismissals": 0,
+        "strike_rate": 83.33
+      },
+      "vs_t": {
+        "runs": 45,
+        "balls": 38,
+        "dismissals": 1,
+        "average": 45.0,
+        "strike_rate": 118.42
+      },
+      "b_f": [
+        45,
+        5,
+        55
+      ],
+      "w_f": [
+        1
+      ]
+    },
+    {
+      "bat": "JF Smith",
+      "bat_t": "South Africa",
+      "bowl": "Muhammad Farooq",
+      "bowl_t": "United Arab Emirates",
+      "v": "batsman",
+      "h2h": {
+        "balls": 2,
+        "runs": 2,
+        "dismissals": 0,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 3,
+        "balls": 5,
+        "dismissals": 0,
+        "average": 3.0,
+        "strike_rate": 60.0
+      },
+      "b_car": {
+        "avg": 36.0,
+        "sr": 133.33
+      },
+      "b_f": [
+        3
+      ],
+      "w_f": [
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "JF Smith",
+      "bat_t": "South Africa",
+      "bowl": "Muhammad Arfan",
+      "bowl_t": "United Arab Emirates",
+      "v": "batsman",
+      "h2h": {
+        "balls": 2,
+        "runs": 0,
+        "dismissals": 0,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 3,
+        "balls": 5,
+        "dismissals": 0,
+        "average": 3.0,
+        "strike_rate": 60.0
+      },
+      "b_car": {
+        "avg": 36.0,
+        "sr": 133.33
+      },
+      "b_f": [
+        3
+      ],
+      "w_f": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "RD Rickelton",
+      "bat_t": "South Africa",
+      "bowl": "Muhammad Arfan",
+      "bowl_t": "United Arab Emirates",
+      "v": "neutral",
+      "h2h": {
+        "balls": 2,
+        "runs": 2,
+        "dismissals": 0,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 30,
+        "balls": 16,
+        "dismissals": 1,
+        "average": 30.0,
+        "strike_rate": 187.5
+      },
+      "b_car": {
+        "avg": 26.26,
+        "sr": 141.78
+      },
+      "b_f": [
+        7,
+        30,
+        21
+      ],
+      "w_f": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "A Sharma",
+      "bat_t": "United Arab Emirates",
+      "bowl": "GF Linde",
+      "bowl_t": "South Africa",
+      "v": "neutral",
+      "h2h": {
+        "balls": 1,
+        "runs": 1,
+        "dismissals": 0,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 13,
+        "balls": 18,
+        "dismissals": 1,
+        "average": 13.0,
+        "strike_rate": 72.22
+      },
+      "b_car": {
+        "avg": 25.82,
+        "sr": 113.44
+      },
+      "b_f": [
+        13,
+        74,
+        8
+      ],
+      "w_f": [
+        1
+      ]
+    },
+    {
+      "bat": "JF Smith",
+      "bat_t": "South Africa",
+      "bowl": "Junaid Siddique",
+      "bowl_t": "United Arab Emirates",
+      "v": "batsman",
+      "h2h": {
+        "balls": 1,
+        "runs": 1,
+        "dismissals": 0,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 3,
+        "balls": 5,
+        "dismissals": 0,
+        "average": 3.0,
+        "strike_rate": 60.0
+      },
+      "b_car": {
+        "avg": 36.0,
+        "sr": 133.33
+      },
+      "b_f": [
+        3
+      ],
+      "w_f": [
+        0,
+        5,
+        0
+      ]
+    },
+    {
+      "bat": "AK Markram",
+      "bat_t": "South Africa",
+      "bowl": "D Parashar",
+      "bowl_t": "United Arab Emirates",
+      "v": "batsman",
+      "h2h": {
+        "balls": 1,
+        "runs": 1,
+        "dismissals": 0,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 28,
+        "balls": 11,
+        "dismissals": 1,
+        "average": 28.0,
+        "strike_rate": 254.55
+      },
+      "b_car": {
+        "avg": 31.08,
+        "sr": 143.73
+      },
+      "b_f": [
+        4,
+        28,
+        86
+      ],
+      "w_f": [
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "D Brevis",
+      "bat_t": "South Africa",
+      "bowl": "Muhammad Farooq",
+      "bowl_t": "United Arab Emirates",
+      "v": "batsman",
+      "h2h": {
+        "balls": 1,
+        "runs": 1,
+        "dismissals": 0,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 36,
+        "balls": 27,
+        "dismissals": 1,
+        "average": 36.0,
+        "strike_rate": 133.33
+      },
+      "b_car": {
+        "avg": 26.0,
+        "sr": 154.92
+      },
+      "b_f": [
+        45,
+        36,
+        21
+      ],
+      "w_f": [
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "T Stubbs",
+      "bat_t": "South Africa",
+      "bowl": "Muhammad Arfan",
+      "bowl_t": "United Arab Emirates",
+      "v": "batsman",
+      "h2h": {
+        "balls": 1,
+        "runs": 1,
+        "dismissals": 0,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 6,
+        "balls": 7,
+        "dismissals": 0,
+        "average": 6.0,
+        "strike_rate": 85.71
+      },
+      "b_car": {
+        "avg": 30.53,
+        "sr": 131.99
+      },
+      "b_f": [
+        44,
+        6,
+        34
+      ],
+      "w_f": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "T Stubbs",
+      "bat_t": "South Africa",
+      "bowl": "Junaid Siddique",
+      "bowl_t": "United Arab Emirates",
+      "v": "batsman",
+      "h2h": {
+        "balls": 1,
+        "runs": 1,
+        "dismissals": 0,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 6,
+        "balls": 7,
+        "dismissals": 0,
+        "average": 6.0,
+        "strike_rate": 85.71
+      },
+      "b_car": {
+        "avg": 30.53,
+        "sr": 131.99
+      },
+      "b_f": [
+        44,
+        6,
+        34
+      ],
+      "w_f": [
+        0,
+        5,
+        0
+      ]
+    },
+    {
+      "bat": "A Sharma",
+      "bat_t": "United Arab Emirates",
+      "bowl": "JF Smith",
+      "bowl_t": "South Africa",
+      "v": "neutral",
+      "vs_t": {
+        "runs": 13,
+        "balls": 18,
+        "dismissals": 1,
+        "average": 13.0,
+        "strike_rate": 72.22
+      },
+      "b_car": {
+        "avg": 25.82,
+        "sr": 113.44
+      },
+      "b_f": [
+        13,
+        74,
+        8
+      ]
+    },
+    {
+      "bat": "A Sharma",
+      "bat_t": "United Arab Emirates",
+      "bowl": "Q de Kock",
+      "bowl_t": "South Africa",
+      "v": "neutral",
+      "vs_t": {
+        "runs": 13,
+        "balls": 18,
+        "dismissals": 1,
+        "average": 13.0,
+        "strike_rate": 72.22
+      },
+      "b_car": {
+        "avg": 25.82,
+        "sr": 113.44
+      },
+      "b_f": [
+        13,
+        74,
+        8
+      ]
+    },
+    {
+      "bat": "A Sharma",
+      "bat_t": "United Arab Emirates",
+      "bowl": "AK Markram",
+      "bowl_t": "South Africa",
+      "v": "neutral",
+      "vs_t": {
+        "runs": 13,
+        "balls": 18,
+        "dismissals": 1,
+        "average": 13.0,
+        "strike_rate": 72.22
+      },
+      "b_car": {
+        "avg": 25.82,
+        "sr": 113.44
+      },
+      "b_f": [
+        13,
+        74,
+        8
+      ],
+      "w_f": [
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "A Sharma",
+      "bat_t": "United Arab Emirates",
+      "bowl": "RD Rickelton",
+      "bowl_t": "South Africa",
+      "v": "neutral",
+      "vs_t": {
+        "runs": 13,
+        "balls": 18,
+        "dismissals": 1,
+        "average": 13.0,
+        "strike_rate": 72.22
+      },
+      "b_car": {
+        "avg": 25.82,
+        "sr": 113.44
+      },
+      "b_f": [
+        13,
+        74,
+        8
+      ]
+    },
+    {
+      "bat": "A Sharma",
+      "bat_t": "United Arab Emirates",
+      "bowl": "D Brevis",
+      "bowl_t": "South Africa",
+      "v": "neutral",
+      "vs_t": {
+        "runs": 13,
+        "balls": 18,
+        "dismissals": 1,
+        "average": 13.0,
+        "strike_rate": 72.22
+      },
+      "b_car": {
+        "avg": 25.82,
+        "sr": 113.44
+      },
+      "b_f": [
+        13,
+        74,
+        8
+      ]
+    },
+    {
+      "bat": "A Sharma",
+      "bat_t": "United Arab Emirates",
+      "bowl": "T Stubbs",
+      "bowl_t": "South Africa",
+      "v": "neutral",
+      "vs_t": {
+        "runs": 13,
+        "balls": 18,
+        "dismissals": 1,
+        "average": 13.0,
+        "strike_rate": 72.22
+      },
+      "b_car": {
+        "avg": 25.82,
+        "sr": 113.44
+      },
+      "b_f": [
+        13,
+        74,
+        8
+      ]
+    },
+    {
+      "bat": "JF Smith",
+      "bat_t": "South Africa",
+      "bowl": "Muhammad Jawadullah",
+      "bowl_t": "United Arab Emirates",
+      "v": "batsman",
+      "vs_t": {
+        "runs": 3,
+        "balls": 5,
+        "dismissals": 0,
+        "average": 3.0,
+        "strike_rate": 60.0
+      },
+      "b_car": {
+        "avg": 36.0,
+        "sr": 133.33
+      },
+      "b_f": [
+        3
+      ],
+      "w_f": [
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "JF Smith",
+      "bat_t": "South Africa",
+      "bowl": "Shoaib Khan",
+      "bowl_t": "United Arab Emirates",
+      "v": "batsman",
+      "vs_t": {
+        "runs": 3,
+        "balls": 5,
+        "dismissals": 0,
+        "average": 3.0,
+        "strike_rate": 60.0
+      },
+      "b_car": {
+        "avg": 36.0,
+        "sr": 133.33
+      },
+      "b_f": [
+        3
+      ]
+    },
+    {
+      "bat": "JF Smith",
+      "bat_t": "South Africa",
+      "bowl": "D Parashar",
+      "bowl_t": "United Arab Emirates",
+      "v": "batsman",
+      "vs_t": {
+        "runs": 3,
+        "balls": 5,
+        "dismissals": 0,
+        "average": 3.0,
+        "strike_rate": 60.0
+      },
+      "b_car": {
+        "avg": 36.0,
+        "sr": 133.33
+      },
+      "b_f": [
+        3
+      ],
+      "w_f": [
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "JF Smith",
+      "bat_t": "South Africa",
+      "bowl": "A Sharafu",
+      "bowl_t": "United Arab Emirates",
+      "v": "batsman",
+      "vs_t": {
+        "runs": 3,
+        "balls": 5,
+        "dismissals": 0,
+        "average": 3.0,
+        "strike_rate": 60.0
+      },
+      "b_car": {
+        "avg": 36.0,
+        "sr": 133.33
+      },
+      "b_f": [
+        3
+      ]
+    },
+    {
+      "bat": "JF Smith",
+      "bat_t": "South Africa",
+      "bowl": "Syed Haider",
+      "bowl_t": "United Arab Emirates",
+      "v": "batsman",
+      "vs_t": {
+        "runs": 3,
+        "balls": 5,
+        "dismissals": 0,
+        "average": 3.0,
+        "strike_rate": 60.0
+      },
+      "b_car": {
+        "avg": 36.0,
+        "sr": 133.33
+      },
+      "b_f": [
+        3
+      ]
+    },
+    {
+      "bat": "JF Smith",
+      "bat_t": "South Africa",
+      "bowl": "Haider Ali",
+      "bowl_t": "United Arab Emirates",
+      "v": "batsman",
+      "vs_t": {
+        "runs": 3,
+        "balls": 5,
+        "dismissals": 0,
+        "average": 3.0,
+        "strike_rate": 60.0
+      },
+      "b_car": {
+        "avg": 36.0,
+        "sr": 133.33
+      },
+      "b_f": [
+        3
+      ],
+      "w_f": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "JF Smith",
+      "bat_t": "South Africa",
+      "bowl": "A Sharma",
+      "bowl_t": "United Arab Emirates",
+      "v": "batsman",
+      "vs_t": {
+        "runs": 3,
+        "balls": 5,
+        "dismissals": 0,
+        "average": 3.0,
+        "strike_rate": 60.0
+      },
+      "b_car": {
+        "avg": 36.0,
+        "sr": 133.33
+      },
+      "b_f": [
+        3
+      ]
+    },
+    {
+      "bat": "JF Smith",
+      "bat_t": "South Africa",
+      "bowl": "Waseem Muhammad",
+      "bowl_t": "United Arab Emirates",
+      "v": "batsman",
+      "vs_t": {
+        "runs": 3,
+        "balls": 5,
+        "dismissals": 0,
+        "average": 3.0,
+        "strike_rate": 60.0
+      },
+      "b_car": {
+        "avg": 36.0,
+        "sr": 133.33
+      },
+      "b_f": [
+        3
+      ]
+    },
+    {
+      "bat": "Q de Kock",
+      "bat_t": "South Africa",
+      "bowl": "Muhammad Farooq",
+      "bowl_t": "United Arab Emirates",
+      "v": "batsman",
+      "vs_t": {
+        "runs": 14,
+        "balls": 16,
+        "dismissals": 1,
+        "average": 14.0,
+        "strike_rate": 87.5
+      },
+      "b_car": {
+        "avg": 31.84,
+        "sr": 136.42
+      },
+      "b_f": [
+        6,
+        14,
+        20
+      ],
+      "w_f": [
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "Q de Kock",
+      "bat_t": "South Africa",
+      "bowl": "Shoaib Khan",
+      "bowl_t": "United Arab Emirates",
+      "v": "batsman",
+      "vs_t": {
+        "runs": 14,
+        "balls": 16,
+        "dismissals": 1,
+        "average": 14.0,
+        "strike_rate": 87.5
+      },
+      "b_car": {
+        "avg": 31.84,
+        "sr": 136.42
+      },
+      "b_f": [
+        6,
+        14,
+        20
+      ]
+    },
+    {
+      "bat": "Q de Kock",
+      "bat_t": "South Africa",
+      "bowl": "Muhammad Arfan",
+      "bowl_t": "United Arab Emirates",
+      "v": "batsman",
+      "vs_t": {
+        "runs": 14,
+        "balls": 16,
+        "dismissals": 1,
+        "average": 14.0,
+        "strike_rate": 87.5
+      },
+      "b_car": {
+        "avg": 31.84,
+        "sr": 136.42
+      },
+      "b_f": [
+        6,
+        14,
+        20
+      ],
+      "w_f": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "Q de Kock",
+      "bat_t": "South Africa",
+      "bowl": "A Sharafu",
+      "bowl_t": "United Arab Emirates",
+      "v": "batsman",
+      "vs_t": {
+        "runs": 14,
+        "balls": 16,
+        "dismissals": 1,
+        "average": 14.0,
+        "strike_rate": 87.5
+      },
+      "b_car": {
+        "avg": 31.84,
+        "sr": 136.42
+      },
+      "b_f": [
+        6,
+        14,
+        20
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1634 @@
+{
+  "match_id": "1512739",
+  "team_a": "United States of America",
+  "team_b": "Netherlands",
+  "matchups": [
+    {
+      "bat": "SA Edwards",
+      "bat_t": "Netherlands",
+      "bowl": "Harmeet Singh",
+      "bowl_t": "United States of America",
+      "v": "bowler",
+      "h2h": {
+        "balls": 18,
+        "runs": 19,
+        "dismissals": 2,
+        "strike_rate": 105.56
+      },
+      "vs_t": {
+        "runs": 137,
+        "balls": 95,
+        "dismissals": 2,
+        "average": 68.5,
+        "strike_rate": 144.21
+      },
+      "w_car": {
+        "avg": 23.35,
+        "eco": 7.05
+      },
+      "b_f": [
+        15,
+        20,
+        18
+      ],
+      "w_f": [
+        0,
+        4,
+        1
+      ]
+    },
+    {
+      "bat": "MD Patel",
+      "bat_t": "United States of America",
+      "bowl": "K Klein",
+      "bowl_t": "Netherlands",
+      "v": "bowler",
+      "h2h": {
+        "balls": 20,
+        "runs": 23,
+        "dismissals": 1,
+        "strike_rate": 115.0
+      },
+      "vs_t": {
+        "runs": 94,
+        "balls": 56,
+        "dismissals": 4,
+        "average": 23.5,
+        "strike_rate": 167.86
+      },
+      "b_car": {
+        "avg": 28.89,
+        "sr": 132.68
+      },
+      "b_f": [
+        52,
+        36,
+        3
+      ],
+      "w_f": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "ZB Lion-Cachet",
+      "bat_t": "Netherlands",
+      "bowl": "Harmeet Singh",
+      "bowl_t": "United States of America",
+      "v": "bowler",
+      "h2h": {
+        "balls": 17,
+        "runs": 6,
+        "dismissals": 1,
+        "strike_rate": 35.29
+      },
+      "vs_t": {
+        "runs": 26,
+        "balls": 32,
+        "dismissals": 3,
+        "average": 8.67,
+        "strike_rate": 81.25
+      },
+      "w_car": {
+        "avg": 23.35,
+        "eco": 7.05
+      },
+      "b_f": [
+        26,
+        6,
+        9
+      ],
+      "w_f": [
+        0,
+        4,
+        1
+      ]
+    },
+    {
+      "bat": "M Levitt",
+      "bat_t": "Netherlands",
+      "bowl": "NP Kenjige",
+      "bowl_t": "United States of America",
+      "v": "batsman",
+      "h2h": {
+        "balls": 13,
+        "runs": 22,
+        "dismissals": 1,
+        "strike_rate": 169.23
+      },
+      "vs_t": {
+        "runs": 79,
+        "balls": 53,
+        "dismissals": 3,
+        "average": 26.33,
+        "strike_rate": 149.06
+      },
+      "w_car": {
+        "avg": 25.82,
+        "eco": 7.71
+      },
+      "b_f": [
+        24,
+        3,
+        28
+      ],
+      "w_f": [
+        1
+      ]
+    },
+    {
+      "bat": "MD Patel",
+      "bat_t": "United States of America",
+      "bowl": "A Dutt",
+      "bowl_t": "Netherlands",
+      "v": "batsman",
+      "h2h": {
+        "balls": 10,
+        "runs": 23,
+        "dismissals": 1,
+        "strike_rate": 230.0
+      },
+      "vs_t": {
+        "runs": 94,
+        "balls": 56,
+        "dismissals": 4,
+        "average": 23.5,
+        "strike_rate": 167.86
+      },
+      "b_car": {
+        "avg": 28.89,
+        "sr": 132.68
+      },
+      "b_f": [
+        52,
+        36,
+        3
+      ],
+      "w_f": [
+        2,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "SR Mukkamalla",
+      "bat_t": "United States of America",
+      "bowl": "BFW de Leede",
+      "bowl_t": "Netherlands",
+      "v": "batsman",
+      "h2h": {
+        "balls": 9,
+        "runs": 7,
+        "dismissals": 1,
+        "strike_rate": 77.78
+      },
+      "vs_t": {
+        "runs": 103,
+        "balls": 69,
+        "dismissals": 2,
+        "average": 51.5,
+        "strike_rate": 149.28
+      },
+      "b_car": {
+        "avg": 40.94,
+        "sr": 143.11
+      },
+      "b_f": [
+        17,
+        79,
+        2
+      ],
+      "w_f": [
+        0,
+        3,
+        2
+      ]
+    },
+    {
+      "bat": "MP O'Dowd",
+      "bat_t": "Netherlands",
+      "bowl": "Harmeet Singh",
+      "bowl_t": "United States of America",
+      "v": "bowler",
+      "h2h": {
+        "balls": 9,
+        "runs": 5,
+        "dismissals": 1,
+        "strike_rate": 55.56
+      },
+      "vs_t": {
+        "runs": 84,
+        "balls": 62,
+        "dismissals": 4,
+        "average": 21.0,
+        "strike_rate": 135.48
+      },
+      "w_car": {
+        "avg": 23.35,
+        "eco": 7.05
+      },
+      "b_f": [
+        20,
+        13,
+        7
+      ],
+      "w_f": [
+        0,
+        4,
+        1
+      ]
+    },
+    {
+      "bat": "Shayan Jahangir",
+      "bat_t": "United States of America",
+      "bowl": "K Klein",
+      "bowl_t": "Netherlands",
+      "v": "bowler",
+      "h2h": {
+        "balls": 7,
+        "runs": 4,
+        "dismissals": 1,
+        "strike_rate": 57.14
+      },
+      "vs_t": {
+        "runs": 60,
+        "balls": 53,
+        "dismissals": 3,
+        "average": 20.0,
+        "strike_rate": 113.21
+      },
+      "b_car": {
+        "avg": 30.87,
+        "sr": 131.16
+      },
+      "b_f": [
+        22,
+        20,
+        49
+      ],
+      "w_f": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "MD Patel",
+      "bat_t": "United States of America",
+      "bowl": "BFW de Leede",
+      "bowl_t": "Netherlands",
+      "v": "batsman",
+      "h2h": {
+        "balls": 7,
+        "runs": 15,
+        "dismissals": 1,
+        "strike_rate": 214.29
+      },
+      "vs_t": {
+        "runs": 94,
+        "balls": 56,
+        "dismissals": 4,
+        "average": 23.5,
+        "strike_rate": 167.86
+      },
+      "b_car": {
+        "avg": 28.89,
+        "sr": 132.68
+      },
+      "b_f": [
+        52,
+        36,
+        3
+      ],
+      "w_f": [
+        0,
+        3,
+        2
+      ]
+    },
+    {
+      "bat": "M Levitt",
+      "bat_t": "Netherlands",
+      "bowl": "Harmeet Singh",
+      "bowl_t": "United States of America",
+      "v": "bowler",
+      "h2h": {
+        "balls": 7,
+        "runs": 3,
+        "dismissals": 1,
+        "strike_rate": 42.86
+      },
+      "vs_t": {
+        "runs": 79,
+        "balls": 53,
+        "dismissals": 3,
+        "average": 26.33,
+        "strike_rate": 149.06
+      },
+      "w_car": {
+        "avg": 23.35,
+        "eco": 7.05
+      },
+      "b_f": [
+        24,
+        3,
+        28
+      ],
+      "w_f": [
+        0,
+        4,
+        1
+      ]
+    },
+    {
+      "bat": "RE van der Merwe",
+      "bat_t": "Netherlands",
+      "bowl": "Harmeet Singh",
+      "bowl_t": "United States of America",
+      "v": "bowler",
+      "h2h": {
+        "balls": 6,
+        "runs": 4,
+        "dismissals": 1,
+        "strike_rate": 66.67
+      },
+      "vs_t": {
+        "runs": 10,
+        "balls": 11,
+        "dismissals": 1,
+        "average": 10.0,
+        "strike_rate": 90.91
+      },
+      "w_car": {
+        "avg": 23.35,
+        "eco": 7.05
+      },
+      "b_f": [
+        10,
+        4
+      ],
+      "w_f": [
+        0,
+        4,
+        1
+      ]
+    },
+    {
+      "bat": "Harmeet Singh",
+      "bat_t": "United States of America",
+      "bowl": "ZB Lion-Cachet",
+      "bowl_t": "Netherlands",
+      "v": "bowler",
+      "h2h": {
+        "balls": 4,
+        "runs": 4,
+        "dismissals": 1,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 14,
+        "balls": 15,
+        "dismissals": 3,
+        "average": 4.67,
+        "strike_rate": 93.33
+      },
+      "b_car": {
+        "avg": 16.13,
+        "sr": 139.88
+      },
+      "b_f": [
+        1,
+        6,
+        0
+      ],
+      "w_f": [
+        0
+      ]
+    },
+    {
+      "bat": "BFW de Leede",
+      "bat_t": "Netherlands",
+      "bowl": "Harmeet Singh",
+      "bowl_t": "United States of America",
+      "v": "batsman",
+      "h2h": {
+        "balls": 4,
+        "runs": 5,
+        "dismissals": 1,
+        "strike_rate": 125.0
+      },
+      "vs_t": {
+        "runs": 114,
+        "balls": 85,
+        "dismissals": 1,
+        "average": 114.0,
+        "strike_rate": 134.12
+      },
+      "w_car": {
+        "avg": 23.35,
+        "eco": 7.05
+      },
+      "b_f": [
+        33,
+        23,
+        72
+      ],
+      "w_f": [
+        0,
+        4,
+        1
+      ]
+    },
+    {
+      "bat": "Harmeet Singh",
+      "bat_t": "United States of America",
+      "bowl": "MP O'Dowd",
+      "bowl_t": "Netherlands",
+      "v": "bowler",
+      "h2h": {
+        "balls": 2,
+        "runs": 1,
+        "dismissals": 1,
+        "strike_rate": 50.0
+      },
+      "vs_t": {
+        "runs": 14,
+        "balls": 15,
+        "dismissals": 3,
+        "average": 4.67,
+        "strike_rate": 93.33
+      },
+      "b_car": {
+        "avg": 16.13,
+        "sr": 139.88
+      },
+      "b_f": [
+        1,
+        6,
+        0
+      ]
+    },
+    {
+      "bat": "SC van Schalkwyk",
+      "bat_t": "United States of America",
+      "bowl": "A Dutt",
+      "bowl_t": "Netherlands",
+      "v": "neutral",
+      "h2h": {
+        "balls": 2,
+        "runs": 1,
+        "dismissals": 1,
+        "strike_rate": 50.0
+      },
+      "vs_t": {
+        "runs": 5,
+        "balls": 7,
+        "dismissals": 2,
+        "average": 2.5,
+        "strike_rate": 71.43
+      },
+      "b_car": {
+        "avg": 21.4,
+        "sr": 109.18
+      },
+      "b_f": [
+        1,
+        2
+      ],
+      "w_f": [
+        2,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "Milind Kumar",
+      "bat_t": "United States of America",
+      "bowl": "BFW de Leede",
+      "bowl_t": "Netherlands",
+      "v": "neutral",
+      "h2h": {
+        "balls": 2,
+        "runs": 1,
+        "dismissals": 1,
+        "strike_rate": 50.0
+      },
+      "vs_t": {
+        "runs": 3,
+        "balls": 4,
+        "dismissals": 1,
+        "average": 3.0,
+        "strike_rate": 75.0
+      },
+      "b_car": {
+        "avg": 32.0,
+        "sr": 103.74
+      },
+      "b_f": [
+        28,
+        3,
+        29
+      ],
+      "w_f": [
+        0,
+        3,
+        2
+      ]
+    },
+    {
+      "bat": "NP Kenjige",
+      "bat_t": "United States of America",
+      "bowl": "ZB Lion-Cachet",
+      "bowl_t": "Netherlands",
+      "v": "neutral",
+      "h2h": {
+        "balls": 2,
+        "runs": 1,
+        "dismissals": 1,
+        "strike_rate": 50.0
+      },
+      "vs_t": {
+        "runs": 8,
+        "balls": 13,
+        "dismissals": 1,
+        "average": 8.0,
+        "strike_rate": 61.54
+      },
+      "b_car": {
+        "avg": 2.0,
+        "sr": 47.62
+      },
+      "w_f": [
+        0
+      ]
+    },
+    {
+      "bat": "SP Krishnamurthi",
+      "bat_t": "United States of America",
+      "bowl": "FJ Klaassen",
+      "bowl_t": "Netherlands",
+      "v": "batsman",
+      "h2h": {
+        "balls": 1,
+        "runs": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 1,
+        "balls": 2,
+        "dismissals": 1,
+        "average": 1.0,
+        "strike_rate": 50.0
+      },
+      "b_car": {
+        "avg": 32.67,
+        "sr": 139.01
+      },
+      "b_f": [
+        68,
+        1,
+        0
+      ],
+      "w_f": [
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "Harmeet Singh",
+      "bat_t": "United States of America",
+      "bowl": "LV van Beek",
+      "bowl_t": "Netherlands",
+      "v": "bowler",
+      "h2h": {
+        "balls": 1,
+        "runs": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 14,
+        "balls": 15,
+        "dismissals": 3,
+        "average": 4.67,
+        "strike_rate": 93.33
+      },
+      "b_car": {
+        "avg": 16.13,
+        "sr": 139.88
+      },
+      "b_f": [
+        1,
+        6,
+        0
+      ],
+      "w_f": [
+        3,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "FJ Klaassen",
+      "bat_t": "Netherlands",
+      "bowl": "SC van Schalkwyk",
+      "bowl_t": "United States of America",
+      "v": "neutral",
+      "h2h": {
+        "balls": 5,
+        "runs": 2,
+        "dismissals": 1,
+        "strike_rate": 40.0
+      },
+      "vs_t": {
+        "runs": 3,
+        "balls": 7,
+        "dismissals": 1,
+        "average": 3.0,
+        "strike_rate": 42.86
+      },
+      "b_f": [
+        3
+      ],
+      "w_f": [
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "bat": "LV van Beek",
+      "bat_t": "Netherlands",
+      "bowl": "Mohammad Mohsin",
+      "bowl_t": "United States of America",
+      "v": "neutral",
+      "h2h": {
+        "balls": 4,
+        "runs": 1,
+        "dismissals": 1,
+        "strike_rate": 25.0
+      },
+      "vs_t": {
+        "runs": 2,
+        "balls": 5,
+        "dismissals": 1,
+        "average": 2.0,
+        "strike_rate": 40.0
+      },
+      "b_f": [
+        4,
+        2,
+        0
+      ],
+      "w_f": [
+        0,
+        2,
+        1
+      ]
+    },
+    {
+      "bat": "ZB Lion-Cachet",
+      "bat_t": "Netherlands",
+      "bowl": "Mohammad Mohsin",
+      "bowl_t": "United States of America",
+      "v": "bowler",
+      "h2h": {
+        "balls": 3,
+        "runs": 5,
+        "dismissals": 1,
+        "strike_rate": 166.67
+      },
+      "vs_t": {
+        "runs": 26,
+        "balls": 32,
+        "dismissals": 3,
+        "average": 8.67,
+        "strike_rate": 81.25
+      },
+      "b_f": [
+        26,
+        6,
+        9
+      ],
+      "w_f": [
+        0,
+        2,
+        1
+      ]
+    },
+    {
+      "bat": "A Dutt",
+      "bat_t": "Netherlands",
+      "bowl": "SC van Schalkwyk",
+      "bowl_t": "United States of America",
+      "v": "neutral",
+      "h2h": {
+        "balls": 2,
+        "runs": 6,
+        "dismissals": 1,
+        "strike_rate": 300.0
+      },
+      "vs_t": {
+        "runs": 9,
+        "balls": 8,
+        "dismissals": 1,
+        "average": 9.0,
+        "strike_rate": 112.5
+      },
+      "b_f": [
+        0,
+        9,
+        13
+      ],
+      "w_f": [
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "bat": "MP O'Dowd",
+      "bat_t": "Netherlands",
+      "bowl": "SC van Schalkwyk",
+      "bowl_t": "United States of America",
+      "v": "bowler",
+      "h2h": {
+        "balls": 2,
+        "runs": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 84,
+        "balls": 62,
+        "dismissals": 4,
+        "average": 21.0,
+        "strike_rate": 135.48
+      },
+      "b_f": [
+        20,
+        13,
+        7
+      ],
+      "w_f": [
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "bat": "CN Ackermann",
+      "bat_t": "Netherlands",
+      "bowl": "SC van Schalkwyk",
+      "bowl_t": "United States of America",
+      "v": "neutral",
+      "h2h": {
+        "balls": 1,
+        "runs": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 0,
+        "balls": 1,
+        "dismissals": 1,
+        "average": 0.0,
+        "strike_rate": 0.0
+      },
+      "b_f": [
+        23,
+        0,
+        32
+      ],
+      "w_f": [
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "bat": "MP O'Dowd",
+      "bat_t": "Netherlands",
+      "bowl": "NP Kenjige",
+      "bowl_t": "United States of America",
+      "v": "batsman",
+      "h2h": {
+        "balls": 18,
+        "runs": 33,
+        "dismissals": 0,
+        "strike_rate": 183.33
+      },
+      "vs_t": {
+        "runs": 84,
+        "balls": 62,
+        "dismissals": 4,
+        "average": 21.0,
+        "strike_rate": 135.48
+      },
+      "w_car": {
+        "avg": 25.82,
+        "eco": 7.71
+      },
+      "b_f": [
+        20,
+        13,
+        7
+      ],
+      "w_f": [
+        1
+      ]
+    },
+    {
+      "bat": "SR Mukkamalla",
+      "bat_t": "United States of America",
+      "bowl": "FJ Klaassen",
+      "bowl_t": "Netherlands",
+      "v": "batsman",
+      "h2h": {
+        "balls": 15,
+        "runs": 29,
+        "dismissals": 0,
+        "strike_rate": 193.33
+      },
+      "vs_t": {
+        "runs": 103,
+        "balls": 69,
+        "dismissals": 2,
+        "average": 51.5,
+        "strike_rate": 149.28
+      },
+      "b_car": {
+        "avg": 40.94,
+        "sr": 143.11
+      },
+      "b_f": [
+        17,
+        79,
+        2
+      ],
+      "w_f": [
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "SR Mukkamalla",
+      "bat_t": "United States of America",
+      "bowl": "RE van der Merwe",
+      "bowl_t": "Netherlands",
+      "v": "batsman",
+      "h2h": {
+        "balls": 14,
+        "runs": 29,
+        "dismissals": 0,
+        "strike_rate": 207.14
+      },
+      "vs_t": {
+        "runs": 103,
+        "balls": 69,
+        "dismissals": 2,
+        "average": 51.5,
+        "strike_rate": 149.28
+      },
+      "b_car": {
+        "avg": 40.94,
+        "sr": 143.11
+      },
+      "b_f": [
+        17,
+        79,
+        2
+      ],
+      "w_f": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "SR Mukkamalla",
+      "bat_t": "United States of America",
+      "bowl": "K Klein",
+      "bowl_t": "Netherlands",
+      "v": "batsman",
+      "h2h": {
+        "balls": 13,
+        "runs": 20,
+        "dismissals": 0,
+        "strike_rate": 153.85
+      },
+      "vs_t": {
+        "runs": 103,
+        "balls": 69,
+        "dismissals": 2,
+        "average": 51.5,
+        "strike_rate": 149.28
+      },
+      "b_car": {
+        "avg": 40.94,
+        "sr": 143.11
+      },
+      "b_f": [
+        17,
+        79,
+        2
+      ],
+      "w_f": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "SR Mukkamalla",
+      "bat_t": "United States of America",
+      "bowl": "A Dutt",
+      "bowl_t": "Netherlands",
+      "v": "batsman",
+      "h2h": {
+        "balls": 11,
+        "runs": 15,
+        "dismissals": 0,
+        "strike_rate": 136.36
+      },
+      "vs_t": {
+        "runs": 103,
+        "balls": 69,
+        "dismissals": 2,
+        "average": 51.5,
+        "strike_rate": 149.28
+      },
+      "b_car": {
+        "avg": 40.94,
+        "sr": 143.11
+      },
+      "b_f": [
+        17,
+        79,
+        2
+      ],
+      "w_f": [
+        2,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "Shubham Ranjane",
+      "bat_t": "United States of America",
+      "bowl": "BFW de Leede",
+      "bowl_t": "Netherlands",
+      "v": "batsman",
+      "h2h": {
+        "balls": 9,
+        "runs": 22,
+        "dismissals": 0,
+        "strike_rate": 244.44
+      },
+      "vs_t": {
+        "runs": 48,
+        "balls": 25,
+        "dismissals": 0,
+        "average": 48.0,
+        "strike_rate": 192.0
+      },
+      "b_car": {
+        "avg": 70.5,
+        "sr": 171.95
+      },
+      "b_f": [
+        5,
+        48,
+        51
+      ],
+      "w_f": [
+        0,
+        3,
+        2
+      ]
+    },
+    {
+      "bat": "Shubham Ranjane",
+      "bat_t": "United States of America",
+      "bowl": "LV van Beek",
+      "bowl_t": "Netherlands",
+      "v": "batsman",
+      "h2h": {
+        "balls": 8,
+        "runs": 9,
+        "dismissals": 0,
+        "strike_rate": 112.5
+      },
+      "vs_t": {
+        "runs": 48,
+        "balls": 25,
+        "dismissals": 0,
+        "average": 48.0,
+        "strike_rate": 192.0
+      },
+      "b_car": {
+        "avg": 70.5,
+        "sr": 171.95
+      },
+      "b_f": [
+        5,
+        48,
+        51
+      ],
+      "w_f": [
+        3,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "BFW de Leede",
+      "bat_t": "Netherlands",
+      "bowl": "NP Kenjige",
+      "bowl_t": "United States of America",
+      "v": "batsman",
+      "h2h": {
+        "balls": 8,
+        "runs": 14,
+        "dismissals": 0,
+        "strike_rate": 175.0
+      },
+      "vs_t": {
+        "runs": 114,
+        "balls": 85,
+        "dismissals": 1,
+        "average": 114.0,
+        "strike_rate": 134.12
+      },
+      "w_car": {
+        "avg": 25.82,
+        "eco": 7.71
+      },
+      "b_f": [
+        33,
+        23,
+        72
+      ],
+      "w_f": [
+        1
+      ]
+    },
+    {
+      "bat": "M Levitt",
+      "bat_t": "Netherlands",
+      "bowl": "Ali Khan",
+      "bowl_t": "United States of America",
+      "v": "bowler",
+      "h2h": {
+        "balls": 8,
+        "runs": 3,
+        "dismissals": 0,
+        "strike_rate": 37.5
+      },
+      "vs_t": {
+        "runs": 79,
+        "balls": 53,
+        "dismissals": 3,
+        "average": 26.33,
+        "strike_rate": 149.06
+      },
+      "w_car": {
+        "avg": 37.76,
+        "eco": 9.15
+      },
+      "b_f": [
+        24,
+        3,
+        28
+      ],
+      "w_f": [
+        1,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "MD Patel",
+      "bat_t": "United States of America",
+      "bowl": "LV van Beek",
+      "bowl_t": "Netherlands",
+      "v": "batsman",
+      "h2h": {
+        "balls": 7,
+        "runs": 14,
+        "dismissals": 0,
+        "strike_rate": 200.0
+      },
+      "vs_t": {
+        "runs": 94,
+        "balls": 56,
+        "dismissals": 4,
+        "average": 23.5,
+        "strike_rate": 167.86
+      },
+      "b_car": {
+        "avg": 28.89,
+        "sr": 132.68
+      },
+      "b_f": [
+        52,
+        36,
+        3
+      ],
+      "w_f": [
+        3,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "Shayan Jahangir",
+      "bat_t": "United States of America",
+      "bowl": "A Dutt",
+      "bowl_t": "Netherlands",
+      "v": "batsman",
+      "h2h": {
+        "balls": 6,
+        "runs": 9,
+        "dismissals": 0,
+        "strike_rate": 150.0
+      },
+      "vs_t": {
+        "runs": 60,
+        "balls": 53,
+        "dismissals": 3,
+        "average": 20.0,
+        "strike_rate": 113.21
+      },
+      "b_car": {
+        "avg": 30.87,
+        "sr": 131.16
+      },
+      "b_f": [
+        22,
+        20,
+        49
+      ],
+      "w_f": [
+        2,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "SR Mukkamalla",
+      "bat_t": "United States of America",
+      "bowl": "LV van Beek",
+      "bowl_t": "Netherlands",
+      "v": "batsman",
+      "h2h": {
+        "balls": 6,
+        "runs": 3,
+        "dismissals": 0,
+        "strike_rate": 50.0
+      },
+      "vs_t": {
+        "runs": 103,
+        "balls": 69,
+        "dismissals": 2,
+        "average": 51.5,
+        "strike_rate": 149.28
+      },
+      "b_car": {
+        "avg": 40.94,
+        "sr": 143.11
+      },
+      "b_f": [
+        17,
+        79,
+        2
+      ],
+      "w_f": [
+        3,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "SA Edwards",
+      "bat_t": "Netherlands",
+      "bowl": "NP Kenjige",
+      "bowl_t": "United States of America",
+      "v": "batsman",
+      "h2h": {
+        "balls": 6,
+        "runs": 14,
+        "dismissals": 0,
+        "strike_rate": 233.33
+      },
+      "vs_t": {
+        "runs": 137,
+        "balls": 95,
+        "dismissals": 2,
+        "average": 68.5,
+        "strike_rate": 144.21
+      },
+      "w_car": {
+        "avg": 25.82,
+        "eco": 7.71
+      },
+      "b_f": [
+        15,
+        20,
+        18
+      ],
+      "w_f": [
+        1
+      ]
+    },
+    {
+      "bat": "Shayan Jahangir",
+      "bat_t": "United States of America",
+      "bowl": "LV van Beek",
+      "bowl_t": "Netherlands",
+      "v": "bowler",
+      "h2h": {
+        "balls": 5,
+        "runs": 7,
+        "dismissals": 0,
+        "strike_rate": 140.0
+      },
+      "vs_t": {
+        "runs": 60,
+        "balls": 53,
+        "dismissals": 3,
+        "average": 20.0,
+        "strike_rate": 113.21
+      },
+      "b_car": {
+        "avg": 30.87,
+        "sr": 131.16
+      },
+      "b_f": [
+        22,
+        20,
+        49
+      ],
+      "w_f": [
+        3,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "Shayan Jahangir",
+      "bat_t": "United States of America",
+      "bowl": "MP O'Dowd",
+      "bowl_t": "Netherlands",
+      "v": "bowler",
+      "h2h": {
+        "balls": 5,
+        "runs": 2,
+        "dismissals": 0,
+        "strike_rate": 40.0
+      },
+      "vs_t": {
+        "runs": 60,
+        "balls": 53,
+        "dismissals": 3,
+        "average": 20.0,
+        "strike_rate": 113.21
+      },
+      "b_car": {
+        "avg": 30.87,
+        "sr": 131.16
+      },
+      "b_f": [
+        22,
+        20,
+        49
+      ]
+    },
+    {
+      "bat": "Shubham Ranjane",
+      "bat_t": "United States of America",
+      "bowl": "K Klein",
+      "bowl_t": "Netherlands",
+      "v": "batsman",
+      "h2h": {
+        "balls": 5,
+        "runs": 13,
+        "dismissals": 0,
+        "strike_rate": 260.0
+      },
+      "vs_t": {
+        "runs": 48,
+        "balls": 25,
+        "dismissals": 0,
+        "average": 48.0,
+        "strike_rate": 192.0
+      },
+      "b_car": {
+        "avg": 70.5,
+        "sr": 171.95
+      },
+      "b_f": [
+        5,
+        48,
+        51
+      ],
+      "w_f": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "K Klein",
+      "bat_t": "Netherlands",
+      "bowl": "NP Kenjige",
+      "bowl_t": "United States of America",
+      "v": "neutral",
+      "h2h": {
+        "balls": 5,
+        "runs": 1,
+        "dismissals": 0,
+        "strike_rate": 20.0
+      },
+      "vs_t": {
+        "runs": 22,
+        "balls": 25,
+        "dismissals": 1,
+        "average": 22.0,
+        "strike_rate": 88.0
+      },
+      "w_car": {
+        "avg": 25.82,
+        "eco": 7.71
+      },
+      "b_f": [
+        6,
+        2
+      ],
+      "w_f": [
+        1
+      ]
+    },
+    {
+      "bat": "SA Edwards",
+      "bat_t": "Netherlands",
+      "bowl": "Shubham Ranjane",
+      "bowl_t": "United States of America",
+      "v": "batsman",
+      "h2h": {
+        "balls": 4,
+        "runs": 2,
+        "dismissals": 0,
+        "strike_rate": 50.0
+      },
+      "vs_t": {
+        "runs": 137,
+        "balls": 95,
+        "dismissals": 2,
+        "average": 68.5,
+        "strike_rate": 144.21
+      },
+      "w_car": {
+        "avg": 26.0,
+        "eco": 6.5
+      },
+      "b_f": [
+        15,
+        20,
+        18
+      ],
+      "w_f": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "MP O'Dowd",
+      "bat_t": "Netherlands",
+      "bowl": "Ali Khan",
+      "bowl_t": "United States of America",
+      "v": "bowler",
+      "h2h": {
+        "balls": 4,
+        "runs": 8,
+        "dismissals": 0,
+        "strike_rate": 200.0
+      },
+      "vs_t": {
+        "runs": 84,
+        "balls": 62,
+        "dismissals": 4,
+        "average": 21.0,
+        "strike_rate": 135.48
+      },
+      "w_car": {
+        "avg": 37.76,
+        "eco": 9.15
+      },
+      "b_f": [
+        20,
+        13,
+        7
+      ],
+      "w_f": [
+        1,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "MD Patel",
+      "bat_t": "United States of America",
+      "bowl": "RE van der Merwe",
+      "bowl_t": "Netherlands",
+      "v": "bowler",
+      "h2h": {
+        "balls": 3,
+        "runs": 4,
+        "dismissals": 0,
+        "strike_rate": 133.33
+      },
+      "vs_t": {
+        "runs": 94,
+        "balls": 56,
+        "dismissals": 4,
+        "average": 23.5,
+        "strike_rate": 167.86
+      },
+      "b_car": {
+        "avg": 28.89,
+        "sr": 132.68
+      },
+      "b_f": [
+        52,
+        36,
+        3
+      ],
+      "w_f": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "NP Kenjige",
+      "bat_t": "United States of America",
+      "bowl": "A Dutt",
+      "bowl_t": "Netherlands",
+      "v": "neutral",
+      "h2h": {
+        "balls": 3,
+        "runs": 2,
+        "dismissals": 0,
+        "strike_rate": 66.67
+      },
+      "vs_t": {
+        "runs": 8,
+        "balls": 13,
+        "dismissals": 1,
+        "average": 8.0,
+        "strike_rate": 61.54
+      },
+      "b_car": {
+        "avg": 2.0,
+        "sr": 47.62
+      },
+      "w_f": [
+        2,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "NP Kenjige",
+      "bat_t": "United States of America",
+      "bowl": "K Klein",
+      "bowl_t": "Netherlands",
+      "v": "neutral",
+      "h2h": {
+        "balls": 3,
+        "runs": 1,
+        "dismissals": 0,
+        "strike_rate": 33.33
+      },
+      "vs_t": {
+        "runs": 8,
+        "balls": 13,
+        "dismissals": 1,
+        "average": 8.0,
+        "strike_rate": 61.54
+      },
+      "b_car": {
+        "avg": 2.0,
+        "sr": 47.62
+      },
+      "w_f": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "A Dutt",
+      "bat_t": "Netherlands",
+      "bowl": "Harmeet Singh",
+      "bowl_t": "United States of America",
+      "v": "bowler",
+      "h2h": {
+        "balls": 3,
+        "runs": 1,
+        "dismissals": 0,
+        "strike_rate": 33.33
+      },
+      "vs_t": {
+        "runs": 9,
+        "balls": 8,
+        "dismissals": 1,
+        "average": 9.0,
+        "strike_rate": 112.5
+      },
+      "w_car": {
+        "avg": 23.35,
+        "eco": 7.05
+      },
+      "b_f": [
+        0,
+        9,
+        13
+      ],
+      "w_f": [
+        0,
+        4,
+        1
+      ]
+    },
+    {
+      "bat": "K Klein",
+      "bat_t": "Netherlands",
+      "bowl": "Harmeet Singh",
+      "bowl_t": "United States of America",
+      "v": "bowler",
+      "h2h": {
+        "balls": 3,
+        "runs": 2,
+        "dismissals": 0,
+        "strike_rate": 66.67
+      },
+      "vs_t": {
+        "runs": 22,
+        "balls": 25,
+        "dismissals": 1,
+        "average": 22.0,
+        "strike_rate": 88.0
+      },
+      "w_car": {
+        "avg": 23.35,
+        "eco": 7.05
+      },
+      "b_f": [
+        6,
+        2
+      ],
+      "w_f": [
+        0,
+        4,
+        1
+      ]
+    },
+    {
+      "bat": "Shayan Jahangir",
+      "bat_t": "United States of America",
+      "bowl": "ZB Lion-Cachet",
+      "bowl_t": "Netherlands",
+      "v": "bowler",
+      "h2h": {
+        "balls": 2,
+        "runs": 1,
+        "dismissals": 0,
+        "strike_rate": 50.0
+      },
+      "vs_t": {
+        "runs": 60,
+        "balls": 53,
+        "dismissals": 3,
+        "average": 20.0,
+        "strike_rate": 113.21
+      },
+      "b_car": {
+        "avg": 30.87,
+        "sr": 131.16
+      },
+      "b_f": [
+        22,
+        20,
+        49
+      ],
+      "w_f": [
+        0
+      ]
+    }
+  ]
+}

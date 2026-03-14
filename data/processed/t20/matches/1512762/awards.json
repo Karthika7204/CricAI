@@ -1,0 +1,94 @@
+{
+    "match_id": "1512762",
+    "winner": "West Indies",
+    "loser": "Zimbabwe",
+    "awards": {
+        "player_of_the_match": {
+            "name": "SO Hetmyer",
+            "team": "West Indies",
+            "impact_score": 156.0,
+            "breakdown": {
+                "batting": 156.0,
+                "bowling": 0.0,
+                "fielding": 0.0,
+                "pressure_multiplier": 1.0
+            },
+            "key_stats": {
+                "batting": "85(38) SR:223.68"
+            }
+        },
+        "best_batter": {
+            "name": "SO Hetmyer",
+            "team": "West Indies",
+            "batting_impact": 156.0,
+            "stats": {
+                "runs": 85,
+                "balls": 38,
+                "sr": 223.68,
+                "fours": 7,
+                "sixes": 7
+            }
+        },
+        "best_bowler": {
+            "name": "G Motie",
+            "team": "West Indies",
+            "bowling_impact": 125,
+            "stats": {
+                "overs": 4.0,
+                "wickets": 4,
+                "econ": 7.0
+            }
+        },
+        "game_changer": {
+            "name": "SO Hetmyer",
+            "team": "West Indies",
+            "reason": "SR 223.68 with 7 sixes",
+            "key_stats": {
+                "batting": "85(38) SR:223.68"
+            }
+        },
+        "pressure_performer": {
+            "name": "B Evans",
+            "team": "Zimbabwe",
+            "pressure_multiplier": 1.2,
+            "reason": "Chasing team batter under pressure | Attacking SR 195.45 under pressure",
+            "key_stats": {
+                "batting": "43(22) SR:195.45",
+                "bowling": "4.0ov-1wkt econ:11.75"
+            }
+        },
+        "emerging_player": {
+            "name": "B Evans",
+            "team": "Zimbabwe",
+            "reason": "Outperformed team average by 2.89x",
+            "key_stats": {
+                "batting": "43(22) SR:195.45",
+                "bowling": "4.0ov-1wkt econ:11.75"
+            }
+        },
+        "fielding_impact": {
+            "name": "G Motie",
+            "team": "West Indies",
+            "fielding_proxy_score": 24,
+            "methodology": "Proxy-based: catch attribution (65% T20 wickets are catches) + dot ball pressure bonus + economy-implied fielding support",
+            "reason": "Estimated 3 caught dismissals from 4 wickets",
+            "stats": {
+                "overs": 4.0,
+                "wickets": 4,
+                "econ": 7.0
+            }
+        },
+        "all_rounder_impact": {
+            "name": "B Evans",
+            "team": "Zimbabwe",
+            "all_rounder_score": 112.0,
+            "stats": {
+                "runs": 43,
+                "sr": 195.45,
+                "overs": 4.0,
+                "wickets": 1,
+                "econ": 11.75
+            }
+        }
+    }
+}

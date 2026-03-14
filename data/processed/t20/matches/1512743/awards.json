@@ -1,0 +1,93 @@
+{
+    "match_id": "1512743",
+    "winner": "West Indies",
+    "loser": "Nepal",
+    "awards": {
+        "player_of_the_match": {
+            "name": "JO Holder",
+            "team": "West Indies",
+            "impact_score": 149.0,
+            "breakdown": {
+                "batting": 0.0,
+                "bowling": 125,
+                "fielding": 24,
+                "pressure_multiplier": 1.0
+            },
+            "key_stats": {
+                "bowling": "4.0ov-4wkt econ:7.0"
+            }
+        },
+        "best_batter": {
+            "name": "SD Hope",
+            "team": "West Indies",
+            "batting_impact": 104.0,
+            "stats": {
+                "runs": 61,
+                "balls": 44,
+                "sr": 138.64,
+                "fours": 5,
+                "sixes": 3
+            }
+        },
+        "best_bowler": {
+            "name": "JO Holder",
+            "team": "West Indies",
+            "bowling_impact": 125,
+            "stats": {
+                "overs": 4.0,
+                "wickets": 4,
+                "econ": 7.0
+            }
+        },
+        "game_changer": {
+            "name": "JO Holder",
+            "team": "West Indies",
+            "reason": "4-wicket haul",
+            "key_stats": {
+                "bowling": "4.0ov-4wkt econ:7.0"
+            }
+        },
+        "pressure_performer": {
+            "name": "JO Holder",
+            "team": "West Indies",
+            "pressure_multiplier": 1.0,
+            "reason": "Chasing team contributor | Economy 7.0 while defending chase",
+            "key_stats": {
+                "bowling": "4.0ov-4wkt econ:7.0"
+            }
+        },
+        "emerging_player": {
+            "name": "DS Airee",
+            "team": "Nepal",
+            "reason": "Outperformed team average by 5.41x",
+            "key_stats": {
+                "batting": "58(48) SR:120.83",
+                "bowling": "3.2ov-0wkt econ:5.7"
+            }
+        },
+        "fielding_impact": {
+            "name": "JO Holder",
+            "team": "West Indies",
+            "fielding_proxy_score": 24,
+            "methodology": "Proxy-based: catch attribution (65% T20 wickets are catches) + dot ball pressure bonus + economy-implied fielding support",
+            "reason": "Estimated 3 caught dismissals from 4 wickets",
+            "stats": {
+                "overs": 4.0,
+                "wickets": 4,
+                "econ": 7.0
+            }
+        },
+        "all_rounder_impact": {
+            "name": "DS Airee",
+            "team": "Nepal",
+            "all_rounder_score": 117.0,
+            "stats": {
+                "runs": 58,
+                "sr": 120.83,
+                "overs": 3.2,
+                "wickets": 0,
+                "econ": 5.7
+            }
+        }
+    }
+}

@@ -1,0 +1,377 @@
+{
+    "match_context": {
+        "match_id": "1512762",
+        "date": "2026-02-23",
+        "tournament": "2025/26",
+        "venue": "Wankhede Stadium, Mumbai",
+        "stage": "ICC Men's T20 World Cup",
+        "Teams": {
+            "West Indies": {
+                "captain": "SD Hope",
+                "playing_xi_count": 11
+            },
+            "Zimbabwe": {
+                "captain": "B Evans",
+                "playing_xi_count": 11
+            }
+        }
+    },
+    "Match_Result": {
+        "summary": "West Indies won by 107 runs",
+        "winner": "West Indies",
+        "margin": 107,
+        "margin_type": "runs"
+    },
+    "Scorecard_Highlights": {
+        "Key_Support_Performers": [
+            {
+                "player": "R Shepherd",
+                "team": "West Indies",
+                "runs": 21,
+                "balls": 11,
+                "sr": 190.91,
+                "fours": 0,
+                "sixes": 3,
+                "win_contribution_percent": 8.3,
+                "score": 52.13
+            },
+            {
+                "player": "D Myers",
+                "team": "Zimbabwe",
+                "runs": 28,
+                "balls": 16,
+                "sr": 175.0,
+                "fours": 3,
+                "sixes": 2,
+                "win_contribution_percent": 19.0,
+                "score": 56.54
+            },
+            {
+                "player": "Sikandar Raza",
+                "team": "Zimbabwe",
+                "runs": 27,
+                "balls": 20,
+                "sr": 135.0,
+                "fours": 2,
+                "sixes": 2,
+                "win_contribution_percent": 18.4,
+                "score": 49.01
+            }
+        ],
+        "Career_vs_Match_Bowling": [],
+        "Bowling_Standouts": {
+            "Economical_Spells": [],
+            "Expensive_Spells": [],
+            "High_Economy_No_Baseline": [
+                {
+                    "player": "D Myers",
+                    "team": "Zimbabwe",
+                    "overs": 1.0,
+                    "runs": 19,
+                    "wickets": 0,
+                    "econ": 19.0,
+                    "score": 10.47,
+                    "bowling_baseline": {
+                        "career_wickets": 0,
+                        "career_economy": 0.0,
+                        "career_sr": 0.0,
+                        "career_avg": 0.0,
+                        "best_bowling": "N/A",
+                        "matches": 0,
+                        "source": "none",
+                        "baseline_available": false
+                    }
+                },
+                {
+                    "player": "Sikandar Raza",
+                    "team": "Zimbabwe",
+                    "overs": 3.0,
+                    "runs": 52,
+                    "wickets": 0,
+                    "econ": 17.33,
+                    "score": 11.47,
+                    "bowling_baseline": {
+                        "career_wickets": 0,
+                        "career_economy": 0.0,
+                        "career_sr": 0.0,
+                        "career_avg": 0.0,
+                        "best_bowling": "N/A",
+                        "matches": 0,
+                        "source": "none",
+                        "baseline_available": false
+                    }
+                }
+            ]
+        },
+        "Significant_Collapses": []
+    },
+    "Innings_Metrics": [
+        {
+            "innings": 1,
+            "team": "West Indies",
+            "total_runs": 254,
+            "total_wickets": 6,
+            "balls_faced": 120,
+            "overs_faced": 20.0,
+            "phase_analysis": {
+                "Powerplay": {
+                    "runs": 55,
+                    "wkts": 2,
+                    "rr": 9.17
+                },
+                "Middle": {
+                    "runs": 124,
+                    "wkts": 1,
+                    "rr": 13.78
+                },
+                "Death": {
+                    "runs": 75,
+                    "wkts": 3,
+                    "rr": 15.0
+                }
+            }
+        },
+        {
+            "innings": 2,
+            "team": "Zimbabwe",
+            "total_runs": 147,
+            "total_wickets": 10,
+            "balls_faced": 106,
+            "overs_faced": 17.4,
+            "phase_analysis": {
+                "Powerplay": {
+                    "runs": 47,
+                    "wkts": 3,
+                    "rr": 7.83
+                },
+                "Middle": {
+                    "runs": 62,
+                    "wkts": 6,
+                    "rr": 6.89
+                },
+                "Death": {
+                    "runs": 38,
+                    "wkts": 1,
+                    "rr": 14.25
+                }
+            },
+            "pressure_index": 89.0,
+            "target": 255
+        }
+    ],
+    "Detailed_Impact_Analysis": [
+        {
+            "player": "G Motie",
+            "team": "West Indies",
+            "overs": 4.0,
+            "runs": 28,
+            "wickets": 4,
+            "econ": 7.0,
+            "score": 148.41,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-28r-4w"
+        },
+        {
+            "player": "SO Hetmyer",
+            "team": "West Indies",
+            "runs": 85,
+            "balls": 38,
+            "sr": 223.68,
+            "fours": 7,
+            "sixes": 7,
+            "win_contribution_percent": 33.5,
+            "score": 121.48,
+            "role": "batting",
+            "match_stats": "85(38)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "AJ Hosein",
+            "team": "West Indies",
+            "overs": 4.0,
+            "runs": 28,
+            "wickets": 3,
+            "econ": 7.0,
+            "score": 118.41,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-28r-3w"
+        },
+        {
+            "player": "MW Forde",
+            "team": "West Indies",
+            "overs": 3.4,
+            "runs": 28,
+            "wickets": 2,
+            "econ": 7.64,
+            "score": 86.03,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "3.4o-28r-2w"
+        },
+        {
+            "player": "R Powell",
+            "team": "West Indies",
+            "runs": 59,
+            "balls": 37,
+            "sr": 159.46,
+            "fours": 4,
+            "sixes": 4,
+            "win_contribution_percent": 23.2,
+            "score": 85.0,
+            "role": "batting",
+            "match_stats": "59(37)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "B Muzarabani",
+            "team": "Zimbabwe",
+            "overs": 4.0,
+            "runs": 42,
+            "wickets": 2,
+            "econ": 10.5,
+            "score": 78.94,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-42r-2w"
+        },
+        {
+            "player": "B Evans",
+            "team": "Zimbabwe",
+            "runs": 43,
+            "balls": 22,
+            "sr": 195.45,
+            "fours": 2,
+            "sixes": 5,
+            "win_contribution_percent": 29.3,
+            "score": 74.87,
+            "role": "batting",
+            "match_stats": "43(22)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "R Ngarava",
+            "team": "Zimbabwe",
+            "overs": 4.0,
+            "runs": 56,
+            "wickets": 2,
+            "econ": 14.0,
+            "score": 74.2,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-56r-2w"
+        },
+        {
+            "player": "SE Rutherford",
+            "team": "West Indies",
+            "runs": 31,
+            "balls": 14,
+            "sr": 221.43,
+            "fours": 3,
+            "sixes": 2,
+            "win_contribution_percent": 12.2,
+            "score": 67.11,
+            "role": "batting",
+            "match_stats": "31(14)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "JO Holder",
+            "team": "West Indies",
+            "runs": 13,
+            "balls": 4,
+            "sr": 325.0,
+            "fours": 0,
+            "sixes": 2,
+            "win_contribution_percent": 5.1,
+            "score": 66.0,
+            "role": "batting",
+            "match_stats": "13(4)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        }
+    ],
+    "Tactical_Post_Match_Analysis": [
+        "West Indies's victory was anchored by SO Hetmyer, who contributed 33.5% of the team's runs.",
+        "Defensive pressure was sustained by G Motie, finishing with an impact score of 148.41.",
+        "Zimbabwe struggled under extreme chase pressure (Index: 89.0), leading to a late-innings collapse.",
+        "High-scoring finish by West Indies in Death Overs (RR: 15.0) shifted match momentum.",
+        "Zimbabwe lost 3 wickets in Powerplay, failing to build a stable foundation.",
+        "High-scoring finish by Zimbabwe in Death Overs (RR: 14.25) shifted match momentum."
+    ]
+}

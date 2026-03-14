@@ -1,0 +1,95 @@
+{
+    "match_id": "1512745",
+    "winner": "India",
+    "loser": "Pakistan",
+    "awards": {
+        "player_of_the_match": {
+            "name": "Saim Ayub",
+            "team": "Pakistan",
+            "impact_score": 183.6,
+            "breakdown": {
+                "batting": 37.0,
+                "bowling": 100,
+                "fielding": 16,
+                "pressure_multiplier": 1.2
+            },
+            "key_stats": {
+                "batting": "6(2) SR:300.0",
+                "bowling": "4.0ov-3wkt econ:6.25"
+            }
+        },
+        "best_batter": {
+            "name": "Ishan Kishan",
+            "team": "India",
+            "batting_impact": 130.0,
+            "stats": {
+                "runs": 77,
+                "balls": 40,
+                "sr": 192.5,
+                "fours": 10,
+                "sixes": 3
+            }
+        },
+        "best_bowler": {
+            "name": "Saim Ayub",
+            "team": "Pakistan",
+            "bowling_impact": 100,
+            "stats": {
+                "overs": 4.0,
+                "wickets": 3,
+                "econ": 6.25
+            }
+        },
+        "game_changer": {
+            "name": "Ishan Kishan",
+            "team": "India",
+            "reason": "SR 192.5 with 3 sixes",
+            "key_stats": {
+                "batting": "77(40) SR:192.5"
+            }
+        },
+        "pressure_performer": {
+            "name": "Saim Ayub",
+            "team": "Pakistan",
+            "pressure_multiplier": 1.2,
+            "reason": "Chasing team contributor | Economy 6.25 while defending chase",
+            "key_stats": {
+                "batting": "6(2) SR:300.0",
+                "bowling": "4.0ov-3wkt econ:6.25"
+            }
+        },
+        "emerging_player": {
+            "name": "Saim Ayub",
+            "team": "Pakistan",
+            "reason": "Outperformed team average by 3.39x",
+            "key_stats": {
+                "batting": "6(2) SR:300.0",
+                "bowling": "4.0ov-3wkt econ:6.25"
+            }
+        },
+        "fielding_impact": {
+            "name": "Saim Ayub",
+            "team": "Pakistan",
+            "fielding_proxy_score": 16,
+            "methodology": "Proxy-based: catch attribution (65% T20 wickets are catches) + dot ball pressure bonus + economy-implied fielding support",
+            "reason": "Estimated 2 caught dismissals from 3 wickets",
+            "stats": {
+                "overs": 4.0,
+                "wickets": 3,
+                "econ": 6.25
+            }
+        },
+        "all_rounder_impact": {
+            "name": "Tilak Varma",
+            "team": "India",
+            "all_rounder_score": 95.0,
+            "stats": {
+                "runs": 25,
+                "sr": 104.17,
+                "overs": 2.0,
+                "wickets": 1,
+                "econ": 5.5
+            }
+        }
+    }
+}

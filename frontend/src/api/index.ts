@@ -10,6 +10,9 @@ const api = axios.create({
 });
 
 export const matchApi = {
+    getMatches: () =>
+        api.get('/matches'),
+
     chat: (matchId: string, query: string) =>
         api.post('/chat', { match_id: matchId, query }),
 

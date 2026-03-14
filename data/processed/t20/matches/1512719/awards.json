@@ -1,0 +1,93 @@
+{
+    "match_id": "1512719",
+    "winner": "Pakistan",
+    "loser": "Netherlands",
+    "awards": {
+        "player_of_the_match": {
+            "name": "Saim Ayub",
+            "team": "Pakistan",
+            "impact_score": 157.2,
+            "breakdown": {
+                "batting": 63.0,
+                "bowling": 60,
+                "fielding": 8,
+                "pressure_multiplier": 1.2
+            },
+            "key_stats": {
+                "batting": "24(13) SR:184.62",
+                "bowling": "1.0ov-2wkt econ:7.0"
+            }
+        },
+        "best_batter": {
+            "name": "Sahibzada Farhan",
+            "team": "Pakistan",
+            "batting_impact": 82.0,
+            "stats": {
+                "runs": 47,
+                "balls": 32,
+                "sr": 146.88,
+                "fours": 4,
+                "sixes": 2
+            }
+        },
+        "best_bowler": {
+            "name": "Salman Mirza",
+            "team": "Pakistan",
+            "bowling_impact": 100,
+            "stats": {
+                "overs": 3.5,
+                "wickets": 3,
+                "econ": 6.52
+            }
+        },
+        "game_changer": {
+            "name": "Salman Mirza",
+            "team": "Pakistan",
+            "reason": "3-wicket haul",
+            "key_stats": {
+                "bowling": "3.5ov-3wkt econ:6.52"
+            }
+        },
+        "pressure_performer": {
+            "name": "Salman Mirza",
+            "team": "Pakistan",
+            "pressure_multiplier": 1.2,
+            "reason": "Chasing team contributor | Economy 6.52 while defending chase",
+            "key_stats": {
+                "bowling": "3.5ov-3wkt econ:6.52"
+            }
+        },
+        "emerging_player": {
+            "name": "PA van Meekeren",
+            "team": "Netherlands",
+            "reason": "Outperformed team average by 2.42x",
+            "key_stats": {
+                "bowling": "4.0ov-2wkt econ:5.0"
+            }
+        },
+        "fielding_impact": {
+            "name": "Salman Mirza",
+            "team": "Pakistan",
+            "fielding_proxy_score": 16,
+            "methodology": "Proxy-based: catch attribution (65% T20 wickets are catches) + dot ball pressure bonus + economy-implied fielding support",
+            "reason": "Estimated 2 caught dismissals from 3 wickets",
+            "stats": {
+                "overs": 3.5,
+                "wickets": 3,
+                "econ": 6.52
+            }
+        },
+        "all_rounder_impact": {
+            "name": "Saim Ayub",
+            "team": "Pakistan",
+            "all_rounder_score": 123.0,
+            "stats": {
+                "runs": 24,
+                "sr": 184.62,
+                "overs": 1.0,
+                "wickets": 2,
+                "econ": 7.0
+            }
+        }
+    }
+}

@@ -1,0 +1,1459 @@
+{
+  "match_id": "1512726",
+  "team_a": "Oman",
+  "team_b": "Zimbabwe",
+  "matchups": [
+    {
+      "bat": "Sufyan Mehmood",
+      "bat_t": "Oman",
+      "bowl": "B Evans",
+      "bowl_t": "Zimbabwe",
+      "v": "neutral",
+      "h2h": {
+        "balls": 7,
+        "runs": 2,
+        "dismissals": 1,
+        "strike_rate": 28.57
+      },
+      "vs_t": {
+        "runs": 25,
+        "balls": 39,
+        "dismissals": 1,
+        "average": 25.0,
+        "strike_rate": 64.1
+      },
+      "b_f": [
+        10,
+        1,
+        25
+      ],
+      "w_f": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "bat": "Nadeem Khan",
+      "bat_t": "Oman",
+      "bowl": "B Evans",
+      "bowl_t": "Zimbabwe",
+      "v": "batsman",
+      "h2h": {
+        "balls": 6,
+        "runs": 8,
+        "dismissals": 1,
+        "strike_rate": 133.33
+      },
+      "vs_t": {
+        "runs": 20,
+        "balls": 19,
+        "dismissals": 1,
+        "average": 20.0,
+        "strike_rate": 105.26
+      },
+      "b_f": [
+        0,
+        2,
+        20
+      ],
+      "w_f": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "bat": "Aamir Kaleem",
+      "bat_t": "Oman",
+      "bowl": "B Muzarabani",
+      "bowl_t": "Zimbabwe",
+      "v": "neutral",
+      "h2h": {
+        "balls": 5,
+        "runs": 4,
+        "dismissals": 1,
+        "strike_rate": 80.0
+      },
+      "vs_t": {
+        "runs": 5,
+        "balls": 8,
+        "dismissals": 1,
+        "average": 5.0,
+        "strike_rate": 62.5
+      },
+      "b_f": [
+        0,
+        50,
+        6
+      ],
+      "w_f": [
+        2,
+        2,
+        4
+      ]
+    },
+    {
+      "bat": "Wasim Ali",
+      "bat_t": "Oman",
+      "bowl": "Sikandar Raza",
+      "bowl_t": "Zimbabwe",
+      "v": "neutral",
+      "h2h": {
+        "balls": 3,
+        "runs": 1,
+        "dismissals": 1,
+        "strike_rate": 33.33
+      },
+      "vs_t": {
+        "runs": 3,
+        "balls": 8,
+        "dismissals": 1,
+        "average": 3.0,
+        "strike_rate": 37.5
+      },
+      "b_f": [
+        32,
+        27,
+        3
+      ],
+      "w_f": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "J Ramanandi",
+      "bat_t": "Oman",
+      "bowl": "R Ngarava",
+      "bowl_t": "Zimbabwe",
+      "v": "neutral",
+      "h2h": {
+        "balls": 3,
+        "runs": 1,
+        "dismissals": 1,
+        "strike_rate": 33.33
+      },
+      "vs_t": {
+        "runs": 1,
+        "balls": 3,
+        "dismissals": 1,
+        "average": 1.0,
+        "strike_rate": 33.33
+      },
+      "b_f": [
+        1,
+        3,
+        0
+      ],
+      "w_f": [
+        2,
+        3
+      ]
+    },
+    {
+      "bat": "Hammad Mirza",
+      "bat_t": "Oman",
+      "bowl": "R Ngarava",
+      "bowl_t": "Zimbabwe",
+      "v": "neutral",
+      "h2h": {
+        "balls": 2,
+        "runs": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 0,
+        "balls": 5,
+        "dismissals": 1,
+        "average": 0.0,
+        "strike_rate": 0.0
+      },
+      "b_f": [
+        16,
+        46,
+        9
+      ],
+      "w_f": [
+        2,
+        3
+      ]
+    },
+    {
+      "bat": "K Sonavale",
+      "bat_t": "Oman",
+      "bowl": "B Muzarabani",
+      "bowl_t": "Zimbabwe",
+      "v": "neutral",
+      "h2h": {
+        "balls": 2,
+        "runs": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 0,
+        "balls": 6,
+        "dismissals": 1,
+        "average": 0.0,
+        "strike_rate": 0.0
+      },
+      "b_f": [
+        12,
+        0
+      ],
+      "w_f": [
+        2,
+        2,
+        4
+      ]
+    },
+    {
+      "bat": "Shakeel Ahmed",
+      "bat_t": "Oman",
+      "bowl": "B Evans",
+      "bowl_t": "Zimbabwe",
+      "v": "neutral",
+      "h2h": {
+        "balls": 2,
+        "runs": 1,
+        "dismissals": 1,
+        "strike_rate": 50.0
+      },
+      "vs_t": {
+        "runs": 4,
+        "balls": 5,
+        "dismissals": 1,
+        "average": 4.0,
+        "strike_rate": 80.0
+      },
+      "b_f": [
+        3,
+        4,
+        4
+      ],
+      "w_f": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "bat": "D Myers",
+      "bat_t": "Zimbabwe",
+      "bowl": "Sufyan Mehmood",
+      "bowl_t": "Oman",
+      "v": "neutral",
+      "h2h": {
+        "balls": 2,
+        "runs": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 0,
+        "balls": 2,
+        "dismissals": 1,
+        "average": 0.0,
+        "strike_rate": 0.0
+      },
+      "b_f": [
+        28,
+        0
+      ],
+      "w_f": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "Jatinder Singh",
+      "bat_t": "Oman",
+      "bowl": "B Muzarabani",
+      "bowl_t": "Zimbabwe",
+      "v": "neutral",
+      "h2h": {
+        "balls": 1,
+        "runs": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 5,
+        "balls": 5,
+        "dismissals": 1,
+        "average": 5.0,
+        "strike_rate": 100.0
+      },
+      "b_f": [
+        17,
+        7,
+        1
+      ],
+      "w_f": [
+        2,
+        2,
+        4
+      ]
+    },
+    {
+      "bat": "V Shukla",
+      "bat_t": "Oman",
+      "bowl": "R Ngarava",
+      "bowl_t": "Zimbabwe",
+      "v": "neutral",
+      "h2h": {
+        "balls": 1,
+        "runs": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 28,
+        "balls": 21,
+        "dismissals": 1,
+        "average": 28.0,
+        "strike_rate": 133.33
+      },
+      "b_f": [
+        9,
+        0,
+        1
+      ],
+      "w_f": [
+        2,
+        3
+      ]
+    },
+    {
+      "bat": "T Marumani",
+      "bat_t": "Zimbabwe",
+      "bowl": "Sufyan Mehmood",
+      "bowl_t": "Oman",
+      "v": "neutral",
+      "h2h": {
+        "balls": 1,
+        "runs": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 21,
+        "balls": 11,
+        "dismissals": 1,
+        "average": 21.0,
+        "strike_rate": 190.91
+      },
+      "b_f": [
+        14,
+        34,
+        35
+      ],
+      "w_f": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "Sufyan Mehmood",
+      "bat_t": "Oman",
+      "bowl": "Sikandar Raza",
+      "bowl_t": "Zimbabwe",
+      "v": "neutral",
+      "h2h": {
+        "balls": 12,
+        "runs": 9,
+        "dismissals": 0,
+        "strike_rate": 75.0
+      },
+      "vs_t": {
+        "runs": 25,
+        "balls": 39,
+        "dismissals": 1,
+        "average": 25.0,
+        "strike_rate": 64.1
+      },
+      "b_f": [
+        10,
+        1,
+        25
+      ],
+      "w_f": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "BRM Taylor",
+      "bat_t": "Zimbabwe",
+      "bowl": "Sufyan Mehmood",
+      "bowl_t": "Oman",
+      "v": "neutral",
+      "h2h": {
+        "balls": 10,
+        "runs": 5,
+        "dismissals": 0,
+        "strike_rate": 50.0
+      },
+      "vs_t": {
+        "runs": 31,
+        "balls": 30,
+        "dismissals": 0,
+        "average": 31.0,
+        "strike_rate": 103.33
+      },
+      "b_f": [
+        31
+      ],
+      "w_f": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "BJ Bennett",
+      "bat_t": "Zimbabwe",
+      "bowl": "Nadeem Khan",
+      "bowl_t": "Oman",
+      "v": "batsman",
+      "h2h": {
+        "balls": 9,
+        "runs": 16,
+        "dismissals": 0,
+        "strike_rate": 177.78
+      },
+      "vs_t": {
+        "runs": 48,
+        "balls": 36,
+        "dismissals": 0,
+        "average": 48.0,
+        "strike_rate": 133.33
+      },
+      "b_f": [
+        5,
+        63,
+        64
+      ],
+      "w_f": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "BRM Taylor",
+      "bat_t": "Zimbabwe",
+      "bowl": "Nadeem Khan",
+      "bowl_t": "Oman",
+      "v": "batsman",
+      "h2h": {
+        "balls": 9,
+        "runs": 12,
+        "dismissals": 0,
+        "strike_rate": 133.33
+      },
+      "vs_t": {
+        "runs": 31,
+        "balls": 30,
+        "dismissals": 0,
+        "average": 31.0,
+        "strike_rate": 103.33
+      },
+      "b_f": [
+        31
+      ],
+      "w_f": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "Sufyan Mehmood",
+      "bat_t": "Oman",
+      "bowl": "BJ Bennett",
+      "bowl_t": "Zimbabwe",
+      "v": "neutral",
+      "h2h": {
+        "balls": 8,
+        "runs": 6,
+        "dismissals": 0,
+        "strike_rate": 75.0
+      },
+      "vs_t": {
+        "runs": 25,
+        "balls": 39,
+        "dismissals": 1,
+        "average": 25.0,
+        "strike_rate": 64.1
+      },
+      "b_f": [
+        10,
+        1,
+        25
+      ],
+      "w_f": [
+        0
+      ]
+    },
+    {
+      "bat": "V Shukla",
+      "bat_t": "Oman",
+      "bowl": "WP Masakadza",
+      "bowl_t": "Zimbabwe",
+      "v": "neutral",
+      "h2h": {
+        "balls": 8,
+        "runs": 10,
+        "dismissals": 0,
+        "strike_rate": 125.0
+      },
+      "vs_t": {
+        "runs": 28,
+        "balls": 21,
+        "dismissals": 1,
+        "average": 28.0,
+        "strike_rate": 133.33
+      },
+      "b_f": [
+        9,
+        0,
+        1
+      ],
+      "w_f": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "BJ Bennett",
+      "bat_t": "Zimbabwe",
+      "bowl": "Shah Faisal",
+      "bowl_t": "Oman",
+      "v": "batsman",
+      "h2h": {
+        "balls": 8,
+        "runs": 8,
+        "dismissals": 0,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 48,
+        "balls": 36,
+        "dismissals": 0,
+        "average": 48.0,
+        "strike_rate": 133.33
+      },
+      "b_f": [
+        5,
+        63,
+        64
+      ],
+      "w_f": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "BJ Bennett",
+      "bat_t": "Zimbabwe",
+      "bowl": "Wasim Ali",
+      "bowl_t": "Oman",
+      "v": "batsman",
+      "h2h": {
+        "balls": 7,
+        "runs": 6,
+        "dismissals": 0,
+        "strike_rate": 85.71
+      },
+      "vs_t": {
+        "runs": 48,
+        "balls": 36,
+        "dismissals": 0,
+        "average": 48.0,
+        "strike_rate": 133.33
+      },
+      "b_f": [
+        5,
+        63,
+        64
+      ],
+      "w_f": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "Sufyan Mehmood",
+      "bat_t": "Oman",
+      "bowl": "B Muzarabani",
+      "bowl_t": "Zimbabwe",
+      "v": "neutral",
+      "h2h": {
+        "balls": 6,
+        "runs": 5,
+        "dismissals": 0,
+        "strike_rate": 83.33
+      },
+      "vs_t": {
+        "runs": 25,
+        "balls": 39,
+        "dismissals": 1,
+        "average": 25.0,
+        "strike_rate": 64.1
+      },
+      "b_f": [
+        10,
+        1,
+        25
+      ],
+      "w_f": [
+        2,
+        2,
+        4
+      ]
+    },
+    {
+      "bat": "V Shukla",
+      "bat_t": "Oman",
+      "bowl": "Sikandar Raza",
+      "bowl_t": "Zimbabwe",
+      "v": "neutral",
+      "h2h": {
+        "balls": 6,
+        "runs": 5,
+        "dismissals": 0,
+        "strike_rate": 83.33
+      },
+      "vs_t": {
+        "runs": 28,
+        "balls": 21,
+        "dismissals": 1,
+        "average": 28.0,
+        "strike_rate": 133.33
+      },
+      "b_f": [
+        9,
+        0,
+        1
+      ],
+      "w_f": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "T Marumani",
+      "bat_t": "Zimbabwe",
+      "bowl": "Shakeel Ahmed",
+      "bowl_t": "Oman",
+      "v": "batsman",
+      "h2h": {
+        "balls": 6,
+        "runs": 16,
+        "dismissals": 0,
+        "strike_rate": 266.67
+      },
+      "vs_t": {
+        "runs": 21,
+        "balls": 11,
+        "dismissals": 1,
+        "average": 21.0,
+        "strike_rate": 190.91
+      },
+      "b_f": [
+        14,
+        34,
+        35
+      ],
+      "w_f": [
+        1,
+        3,
+        0
+      ]
+    },
+    {
+      "bat": "Nadeem Khan",
+      "bat_t": "Oman",
+      "bowl": "R Ngarava",
+      "bowl_t": "Zimbabwe",
+      "v": "neutral",
+      "h2h": {
+        "balls": 5,
+        "runs": 7,
+        "dismissals": 0,
+        "strike_rate": 140.0
+      },
+      "vs_t": {
+        "runs": 20,
+        "balls": 19,
+        "dismissals": 1,
+        "average": 20.0,
+        "strike_rate": 105.26
+      },
+      "b_f": [
+        0,
+        2,
+        20
+      ],
+      "w_f": [
+        2,
+        3
+      ]
+    },
+    {
+      "bat": "Nadeem Khan",
+      "bat_t": "Oman",
+      "bowl": "B Muzarabani",
+      "bowl_t": "Zimbabwe",
+      "v": "neutral",
+      "h2h": {
+        "balls": 5,
+        "runs": 3,
+        "dismissals": 0,
+        "strike_rate": 60.0
+      },
+      "vs_t": {
+        "runs": 20,
+        "balls": 19,
+        "dismissals": 1,
+        "average": 20.0,
+        "strike_rate": 105.26
+      },
+      "b_f": [
+        0,
+        2,
+        20
+      ],
+      "w_f": [
+        2,
+        2,
+        4
+      ]
+    },
+    {
+      "bat": "BJ Bennett",
+      "bat_t": "Zimbabwe",
+      "bowl": "Sufyan Mehmood",
+      "bowl_t": "Oman",
+      "v": "batsman",
+      "h2h": {
+        "balls": 5,
+        "runs": 7,
+        "dismissals": 0,
+        "strike_rate": 140.0
+      },
+      "vs_t": {
+        "runs": 48,
+        "balls": 36,
+        "dismissals": 0,
+        "average": 48.0,
+        "strike_rate": 133.33
+      },
+      "b_f": [
+        5,
+        63,
+        64
+      ],
+      "w_f": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "BRM Taylor",
+      "bat_t": "Zimbabwe",
+      "bowl": "Wasim Ali",
+      "bowl_t": "Oman",
+      "v": "neutral",
+      "h2h": {
+        "balls": 5,
+        "runs": 4,
+        "dismissals": 0,
+        "strike_rate": 80.0
+      },
+      "vs_t": {
+        "runs": 31,
+        "balls": 30,
+        "dismissals": 0,
+        "average": 31.0,
+        "strike_rate": 103.33
+      },
+      "b_f": [
+        31
+      ],
+      "w_f": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "Wasim Ali",
+      "bat_t": "Oman",
+      "bowl": "B Evans",
+      "bowl_t": "Zimbabwe",
+      "v": "neutral",
+      "h2h": {
+        "balls": 4,
+        "runs": 1,
+        "dismissals": 0,
+        "strike_rate": 25.0
+      },
+      "vs_t": {
+        "runs": 3,
+        "balls": 8,
+        "dismissals": 1,
+        "average": 3.0,
+        "strike_rate": 37.5
+      },
+      "b_f": [
+        32,
+        27,
+        3
+      ],
+      "w_f": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "bat": "Jatinder Singh",
+      "bat_t": "Oman",
+      "bowl": "R Ngarava",
+      "bowl_t": "Zimbabwe",
+      "v": "neutral",
+      "h2h": {
+        "balls": 4,
+        "runs": 5,
+        "dismissals": 0,
+        "strike_rate": 125.0
+      },
+      "vs_t": {
+        "runs": 5,
+        "balls": 5,
+        "dismissals": 1,
+        "average": 5.0,
+        "strike_rate": 100.0
+      },
+      "b_f": [
+        17,
+        7,
+        1
+      ],
+      "w_f": [
+        2,
+        3
+      ]
+    },
+    {
+      "bat": "K Sonavale",
+      "bat_t": "Oman",
+      "bowl": "R Ngarava",
+      "bowl_t": "Zimbabwe",
+      "v": "neutral",
+      "h2h": {
+        "balls": 4,
+        "runs": 0,
+        "dismissals": 0,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 0,
+        "balls": 6,
+        "dismissals": 1,
+        "average": 0.0,
+        "strike_rate": 0.0
+      },
+      "b_f": [
+        12,
+        0
+      ],
+      "w_f": [
+        2,
+        3
+      ]
+    },
+    {
+      "bat": "Sufyan Mehmood",
+      "bat_t": "Oman",
+      "bowl": "WP Masakadza",
+      "bowl_t": "Zimbabwe",
+      "v": "neutral",
+      "h2h": {
+        "balls": 4,
+        "runs": 2,
+        "dismissals": 0,
+        "strike_rate": 50.0
+      },
+      "vs_t": {
+        "runs": 25,
+        "balls": 39,
+        "dismissals": 1,
+        "average": 25.0,
+        "strike_rate": 64.1
+      },
+      "b_f": [
+        10,
+        1,
+        25
+      ],
+      "w_f": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "V Shukla",
+      "bat_t": "Oman",
+      "bowl": "BJ Bennett",
+      "bowl_t": "Zimbabwe",
+      "v": "neutral",
+      "h2h": {
+        "balls": 4,
+        "runs": 12,
+        "dismissals": 0,
+        "strike_rate": 300.0
+      },
+      "vs_t": {
+        "runs": 28,
+        "balls": 21,
+        "dismissals": 1,
+        "average": 28.0,
+        "strike_rate": 133.33
+      },
+      "b_f": [
+        9,
+        0,
+        1
+      ],
+      "w_f": [
+        0
+      ]
+    },
+    {
+      "bat": "T Marumani",
+      "bat_t": "Zimbabwe",
+      "bowl": "Shah Faisal",
+      "bowl_t": "Oman",
+      "v": "neutral",
+      "h2h": {
+        "balls": 4,
+        "runs": 5,
+        "dismissals": 0,
+        "strike_rate": 125.0
+      },
+      "vs_t": {
+        "runs": 21,
+        "balls": 11,
+        "dismissals": 1,
+        "average": 21.0,
+        "strike_rate": 190.91
+      },
+      "b_f": [
+        14,
+        34,
+        35
+      ],
+      "w_f": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "Nadeem Khan",
+      "bat_t": "Oman",
+      "bowl": "Sikandar Raza",
+      "bowl_t": "Zimbabwe",
+      "v": "neutral",
+      "h2h": {
+        "balls": 3,
+        "runs": 2,
+        "dismissals": 0,
+        "strike_rate": 66.67
+      },
+      "vs_t": {
+        "runs": 20,
+        "balls": 19,
+        "dismissals": 1,
+        "average": 20.0,
+        "strike_rate": 105.26
+      },
+      "b_f": [
+        0,
+        2,
+        20
+      ],
+      "w_f": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "Hammad Mirza",
+      "bat_t": "Oman",
+      "bowl": "B Muzarabani",
+      "bowl_t": "Zimbabwe",
+      "v": "neutral",
+      "h2h": {
+        "balls": 3,
+        "runs": 0,
+        "dismissals": 0,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 0,
+        "balls": 5,
+        "dismissals": 1,
+        "average": 0.0,
+        "strike_rate": 0.0
+      },
+      "b_f": [
+        16,
+        46,
+        9
+      ],
+      "w_f": [
+        2,
+        2,
+        4
+      ]
+    },
+    {
+      "bat": "Aamir Kaleem",
+      "bat_t": "Oman",
+      "bowl": "R Ngarava",
+      "bowl_t": "Zimbabwe",
+      "v": "neutral",
+      "h2h": {
+        "balls": 3,
+        "runs": 1,
+        "dismissals": 0,
+        "strike_rate": 33.33
+      },
+      "vs_t": {
+        "runs": 5,
+        "balls": 8,
+        "dismissals": 1,
+        "average": 5.0,
+        "strike_rate": 62.5
+      },
+      "b_f": [
+        0,
+        50,
+        6
+      ],
+      "w_f": [
+        2,
+        3
+      ]
+    },
+    {
+      "bat": "BJ Bennett",
+      "bat_t": "Zimbabwe",
+      "bowl": "J Ramanandi",
+      "bowl_t": "Oman",
+      "v": "batsman",
+      "h2h": {
+        "balls": 3,
+        "runs": 3,
+        "dismissals": 0,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 48,
+        "balls": 36,
+        "dismissals": 0,
+        "average": 48.0,
+        "strike_rate": 133.33
+      },
+      "b_f": [
+        5,
+        63,
+        64
+      ],
+      "w_f": [
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "bat": "BJ Bennett",
+      "bat_t": "Zimbabwe",
+      "bowl": "Shakeel Ahmed",
+      "bowl_t": "Oman",
+      "v": "batsman",
+      "h2h": {
+        "balls": 3,
+        "runs": 7,
+        "dismissals": 0,
+        "strike_rate": 233.33
+      },
+      "vs_t": {
+        "runs": 48,
+        "balls": 36,
+        "dismissals": 0,
+        "average": 48.0,
+        "strike_rate": 133.33
+      },
+      "b_f": [
+        5,
+        63,
+        64
+      ],
+      "w_f": [
+        1,
+        3,
+        0
+      ]
+    },
+    {
+      "bat": "BRM Taylor",
+      "bat_t": "Zimbabwe",
+      "bowl": "J Ramanandi",
+      "bowl_t": "Oman",
+      "v": "neutral",
+      "h2h": {
+        "balls": 3,
+        "runs": 6,
+        "dismissals": 0,
+        "strike_rate": 200.0
+      },
+      "vs_t": {
+        "runs": 31,
+        "balls": 30,
+        "dismissals": 0,
+        "average": 31.0,
+        "strike_rate": 103.33
+      },
+      "b_f": [
+        31
+      ],
+      "w_f": [
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "bat": "BRM Taylor",
+      "bat_t": "Zimbabwe",
+      "bowl": "Shakeel Ahmed",
+      "bowl_t": "Oman",
+      "v": "neutral",
+      "h2h": {
+        "balls": 3,
+        "runs": 4,
+        "dismissals": 0,
+        "strike_rate": 133.33
+      },
+      "vs_t": {
+        "runs": 31,
+        "balls": 30,
+        "dismissals": 0,
+        "average": 31.0,
+        "strike_rate": 103.33
+      },
+      "b_f": [
+        31
+      ],
+      "w_f": [
+        1,
+        3,
+        0
+      ]
+    },
+    {
+      "bat": "Shah Faisal",
+      "bat_t": "Oman",
+      "bowl": "B Evans",
+      "bowl_t": "Zimbabwe",
+      "v": "neutral",
+      "h2h": {
+        "balls": 2,
+        "runs": 5,
+        "dismissals": 0,
+        "strike_rate": 250.0
+      },
+      "vs_t": {
+        "runs": 5,
+        "balls": 2,
+        "dismissals": 0,
+        "average": 5.0,
+        "strike_rate": 250.0
+      },
+      "b_f": [
+        9,
+        1,
+        5
+      ],
+      "w_f": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "bat": "Shakeel Ahmed",
+      "bat_t": "Oman",
+      "bowl": "B Muzarabani",
+      "bowl_t": "Zimbabwe",
+      "v": "neutral",
+      "h2h": {
+        "balls": 2,
+        "runs": 2,
+        "dismissals": 0,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 4,
+        "balls": 5,
+        "dismissals": 1,
+        "average": 4.0,
+        "strike_rate": 80.0
+      },
+      "b_f": [
+        3,
+        4,
+        4
+      ],
+      "w_f": [
+        2,
+        2,
+        4
+      ]
+    },
+    {
+      "bat": "Sufyan Mehmood",
+      "bat_t": "Oman",
+      "bowl": "R Ngarava",
+      "bowl_t": "Zimbabwe",
+      "v": "neutral",
+      "h2h": {
+        "balls": 2,
+        "runs": 1,
+        "dismissals": 0,
+        "strike_rate": 50.0
+      },
+      "vs_t": {
+        "runs": 25,
+        "balls": 39,
+        "dismissals": 1,
+        "average": 25.0,
+        "strike_rate": 64.1
+      },
+      "b_f": [
+        10,
+        1,
+        25
+      ],
+      "w_f": [
+        2,
+        3
+      ]
+    },
+    {
+      "bat": "V Shukla",
+      "bat_t": "Oman",
+      "bowl": "B Evans",
+      "bowl_t": "Zimbabwe",
+      "v": "neutral",
+      "h2h": {
+        "balls": 2,
+        "runs": 1,
+        "dismissals": 0,
+        "strike_rate": 50.0
+      },
+      "vs_t": {
+        "runs": 28,
+        "balls": 21,
+        "dismissals": 1,
+        "average": 28.0,
+        "strike_rate": 133.33
+      },
+      "b_f": [
+        9,
+        0,
+        1
+      ],
+      "w_f": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "bat": "Sikandar Raza",
+      "bat_t": "Zimbabwe",
+      "bowl": "K Sonavale",
+      "bowl_t": "Oman",
+      "v": "neutral",
+      "h2h": {
+        "balls": 2,
+        "runs": 5,
+        "dismissals": 0,
+        "strike_rate": 250.0
+      },
+      "vs_t": {
+        "runs": 5,
+        "balls": 2,
+        "dismissals": 0,
+        "average": 5.0,
+        "strike_rate": 250.0
+      },
+      "b_f": [
+        27,
+        45,
+        25
+      ],
+      "w_f": [
+        0
+      ]
+    },
+    {
+      "bat": "Wasim Ali",
+      "bat_t": "Oman",
+      "bowl": "B Muzarabani",
+      "bowl_t": "Zimbabwe",
+      "v": "neutral",
+      "h2h": {
+        "balls": 1,
+        "runs": 1,
+        "dismissals": 0,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 3,
+        "balls": 8,
+        "dismissals": 1,
+        "average": 3.0,
+        "strike_rate": 37.5
+      },
+      "b_f": [
+        32,
+        27,
+        3
+      ],
+      "w_f": [
+        2,
+        2,
+        4
+      ]
+    },
+    {
+      "bat": "Shakeel Ahmed",
+      "bat_t": "Oman",
+      "bowl": "R Ngarava",
+      "bowl_t": "Zimbabwe",
+      "v": "neutral",
+      "h2h": {
+        "balls": 1,
+        "runs": 1,
+        "dismissals": 0,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 4,
+        "balls": 5,
+        "dismissals": 1,
+        "average": 4.0,
+        "strike_rate": 80.0
+      },
+      "b_f": [
+        3,
+        4,
+        4
+      ],
+      "w_f": [
+        2,
+        3
+      ]
+    },
+    {
+      "bat": "BJ Bennett",
+      "bat_t": "Zimbabwe",
+      "bowl": "K Sonavale",
+      "bowl_t": "Oman",
+      "v": "batsman",
+      "h2h": {
+        "balls": 1,
+        "runs": 1,
+        "dismissals": 0,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 48,
+        "balls": 36,
+        "dismissals": 0,
+        "average": 48.0,
+        "strike_rate": 133.33
+      },
+      "b_f": [
+        5,
+        63,
+        64
+      ],
+      "w_f": [
+        0
+      ]
+    },
+    {
+      "bat": "Wasim Ali",
+      "bat_t": "Oman",
+      "bowl": "T Marumani",
+      "bowl_t": "Zimbabwe",
+      "v": "neutral",
+      "vs_t": {
+        "runs": 3,
+        "balls": 8,
+        "dismissals": 1,
+        "average": 3.0,
+        "strike_rate": 37.5
+      },
+      "b_f": [
+        32,
+        27,
+        3
+      ]
+    },
+    {
+      "bat": "Wasim Ali",
+      "bat_t": "Oman",
+      "bowl": "R Ngarava",
+      "bowl_t": "Zimbabwe",
+      "v": "neutral",
+      "vs_t": {
+        "runs": 3,
+        "balls": 8,
+        "dismissals": 1,
+        "average": 3.0,
+        "strike_rate": 37.5
+      },
+      "b_f": [
+        32,
+        27,
+        3
+      ],
+      "w_f": [
+        2,
+        3
+      ]
+    }
+  ]
+}

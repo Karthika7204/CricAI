@@ -1,0 +1,544 @@
+{
+    "match_context": {
+        "match_id": "1512754",
+        "date": "2026-02-18",
+        "tournament": "2025/26",
+        "venue": "Narendra Modi Stadium, Ahmedabad",
+        "stage": "ICC Men's T20 World Cup",
+        "Teams": {
+            "India": {
+                "captain": "SA Yadav",
+                "playing_xi_count": 11
+            },
+            "Netherlands": {
+                "captain": "SA Edwards",
+                "playing_xi_count": 11
+            }
+        }
+    },
+    "Match_Result": {
+        "summary": "India won by 17 runs",
+        "winner": "India",
+        "margin": 17,
+        "margin_type": "runs"
+    },
+    "Scorecard_Highlights": {
+        "Key_Support_Performers": [
+            {
+                "player": "SA Yadav",
+                "team": "India",
+                "runs": 34,
+                "balls": 30,
+                "sr": 113.33,
+                "fours": 2,
+                "sixes": 1,
+                "win_contribution_percent": 17.6,
+                "score": 54.03
+            },
+            {
+                "player": "Tilak Varma",
+                "team": "India",
+                "runs": 31,
+                "balls": 27,
+                "sr": 114.81,
+                "fours": 3,
+                "sixes": 1,
+                "win_contribution_percent": 16.1,
+                "score": 51.29
+            },
+            {
+                "player": "ZB Lion-Cachet",
+                "team": "Netherlands",
+                "runs": 26,
+                "balls": 16,
+                "sr": 162.5,
+                "fours": 1,
+                "sixes": 1,
+                "win_contribution_percent": 14.8,
+                "score": 54.72
+            },
+            {
+                "player": "M Levitt",
+                "team": "Netherlands",
+                "runs": 24,
+                "balls": 23,
+                "sr": 104.35,
+                "fours": 4,
+                "sixes": 0,
+                "win_contribution_percent": 13.6,
+                "score": 42.44
+            },
+            {
+                "player": "CN Ackermann",
+                "team": "Netherlands",
+                "runs": 23,
+                "balls": 16,
+                "sr": 143.75,
+                "fours": 1,
+                "sixes": 2,
+                "win_contribution_percent": 13.1,
+                "score": 48.41
+            },
+            {
+                "player": "MP O'Dowd",
+                "team": "Netherlands",
+                "runs": 20,
+                "balls": 19,
+                "sr": 105.26,
+                "fours": 2,
+                "sixes": 1,
+                "win_contribution_percent": 11.4,
+                "score": 38.61
+            }
+        ],
+        "Career_vs_Match_Bowling": [
+            {
+                "player": "CV Varun",
+                "team": "India",
+                "match_figures": "3.0-14-3",
+                "match_economy": 4.67,
+                "career_economy": 7.36,
+                "economy_delta": -2.69,
+                "match_sr": 6.0,
+                "career_sr": 12.97,
+                "career_wickets": 71,
+                "career_best": "5/24",
+                "verdict": "Exceptional - 2.69 below career economy (7.36)"
+            },
+            {
+                "player": "JJ Bumrah",
+                "team": "India",
+                "match_figures": "3.0-17-1",
+                "match_economy": 5.67,
+                "career_economy": 6.85,
+                "economy_delta": -1.18,
+                "match_sr": 18.0,
+                "career_sr": 17.08,
+                "career_wickets": 113,
+                "career_best": "3/23",
+                "verdict": "On par with career economy (6.85)"
+            },
+            {
+                "player": "Arshdeep Singh",
+                "team": "India",
+                "match_figures": "3.0-24-0",
+                "match_economy": 8.0,
+                "career_economy": 8.75,
+                "economy_delta": -0.75,
+                "match_sr": null,
+                "career_sr": 13.46,
+                "career_wickets": 120,
+                "career_best": "5/51",
+                "verdict": "On par with career economy (8.75)"
+            },
+            {
+                "player": "Abhishek Sharma",
+                "team": "India",
+                "match_figures": "1.0-10-0",
+                "match_economy": 10.0,
+                "career_economy": 8.87,
+                "economy_delta": 1.13,
+                "match_sr": null,
+                "career_sr": 26.5,
+                "career_wickets": 6,
+                "career_best": "2/3",
+                "verdict": "On par with career economy (8.87)"
+            },
+            {
+                "player": "S Dube",
+                "team": "India",
+                "match_figures": "3.0-35-2",
+                "match_economy": 11.67,
+                "career_economy": 9.74,
+                "economy_delta": 1.93,
+                "match_sr": 9.0,
+                "career_sr": 16.79,
+                "career_wickets": 28,
+                "career_best": "3/31",
+                "verdict": "On par with career economy (9.74)"
+            },
+            {
+                "player": "Washington Sundar",
+                "team": "India",
+                "match_figures": "4.0-36-0",
+                "match_economy": 9.0,
+                "career_economy": 6.99,
+                "economy_delta": 2.01,
+                "match_sr": null,
+                "career_sr": 19.48,
+                "career_wickets": 50,
+                "career_best": "4/26",
+                "verdict": "Expensive - 2.01 above career economy (6.99)"
+            },
+            {
+                "player": "HH Pandya",
+                "team": "India",
+                "match_figures": "3.0-40-1",
+                "match_economy": 13.33,
+                "career_economy": 8.49,
+                "economy_delta": 4.84,
+                "match_sr": 18.0,
+                "career_sr": 19.4,
+                "career_wickets": 111,
+                "career_best": "4/38",
+                "verdict": "Expensive - 4.84 above career economy (8.49)"
+            }
+        ],
+        "Bowling_Standouts": {
+            "Economical_Spells": [
+                {
+                    "player": "CV Varun",
+                    "team": "India",
+                    "match_figures": "3.0-14-3",
+                    "match_economy": 4.67,
+                    "career_economy": 7.36,
+                    "economy_delta": -2.69,
+                    "match_sr": 6.0,
+                    "career_sr": 12.97,
+                    "career_wickets": 71,
+                    "career_best": "5/24",
+                    "verdict": "Exceptional - 2.69 below career economy (7.36)"
+                }
+            ],
+            "Expensive_Spells": [
+                {
+                    "player": "Washington Sundar",
+                    "team": "India",
+                    "match_figures": "4.0-36-0",
+                    "match_economy": 9.0,
+                    "career_economy": 6.99,
+                    "economy_delta": 2.01,
+                    "match_sr": null,
+                    "career_sr": 19.48,
+                    "career_wickets": 50,
+                    "career_best": "4/26",
+                    "verdict": "Expensive - 2.01 above career economy (6.99)"
+                },
+                {
+                    "player": "HH Pandya",
+                    "team": "India",
+                    "match_figures": "3.0-40-1",
+                    "match_economy": 13.33,
+                    "career_economy": 8.49,
+                    "economy_delta": 4.84,
+                    "match_sr": 18.0,
+                    "career_sr": 19.4,
+                    "career_wickets": 111,
+                    "career_best": "4/38",
+                    "verdict": "Expensive - 4.84 above career economy (8.49)"
+                }
+            ],
+            "High_Economy_No_Baseline": [
+                {
+                    "player": "RE van der Merwe",
+                    "team": "Netherlands",
+                    "overs": 1.0,
+                    "runs": 15,
+                    "wickets": 0,
+                    "econ": 15.0,
+                    "score": 11.76,
+                    "bowling_baseline": {
+                        "career_wickets": 0,
+                        "career_economy": 0.0,
+                        "career_sr": 0.0,
+                        "career_avg": 0.0,
+                        "best_bowling": "N/A",
+                        "matches": 0,
+                        "source": "none",
+                        "baseline_available": false
+                    }
+                },
+                {
+                    "player": "LV van Beek",
+                    "team": "Netherlands",
+                    "overs": 4.0,
+                    "runs": 57,
+                    "wickets": 3,
+                    "econ": 14.25,
+                    "score": 102.38,
+                    "bowling_baseline": {
+                        "career_wickets": 0,
+                        "career_economy": 0.0,
+                        "career_sr": 0.0,
+                        "career_avg": 0.0,
+                        "best_bowling": "N/A",
+                        "matches": 0,
+                        "source": "none",
+                        "baseline_available": false
+                    }
+                }
+            ]
+        },
+        "Significant_Collapses": []
+    },
+    "Innings_Metrics": [
+        {
+            "innings": 1,
+            "team": "India",
+            "total_runs": 193,
+            "total_wickets": 6,
+            "balls_faced": 120,
+            "overs_faced": 20.0,
+            "phase_analysis": {
+                "Powerplay": {
+                    "runs": 51,
+                    "wkts": 2,
+                    "rr": 8.5
+                },
+                "Middle": {
+                    "runs": 67,
+                    "wkts": 2,
+                    "rr": 7.44
+                },
+                "Death": {
+                    "runs": 75,
+                    "wkts": 2,
+                    "rr": 15.0
+                }
+            }
+        },
+        {
+            "innings": 2,
+            "team": "Netherlands",
+            "total_runs": 176,
+            "total_wickets": 7,
+            "balls_faced": 120,
+            "overs_faced": 20.0,
+            "phase_analysis": {
+                "Powerplay": {
+                    "runs": 36,
+                    "wkts": 1,
+                    "rr": 6.0
+                },
+                "Middle": {
+                    "runs": 82,
+                    "wkts": 4,
+                    "rr": 9.11
+                },
+                "Death": {
+                    "runs": 58,
+                    "wkts": 2,
+                    "rr": 11.6
+                }
+            },
+            "pressure_index": 81.0,
+            "target": 194
+        }
+    ],
+    "Detailed_Impact_Analysis": [
+        {
+            "player": "CV Varun",
+            "team": "India",
+            "overs": 3.0,
+            "runs": 14,
+            "wickets": 3,
+            "econ": 4.67,
+            "score": 127.78,
+            "bowling_baseline": {
+                "career_wickets": 71,
+                "career_economy": 7.36,
+                "career_sr": 12.97,
+                "career_avg": 15.9,
+                "best_bowling": "5/24",
+                "matches": 41,
+                "source": "t20_bowling_master",
+                "baseline_available": true
+            },
+            "role": "bowling",
+            "match_stats": "3.0o-14r-3w"
+        },
+        {
+            "player": "LV van Beek",
+            "team": "Netherlands",
+            "overs": 4.0,
+            "runs": 57,
+            "wickets": 3,
+            "econ": 14.25,
+            "score": 102.38,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-57r-3w"
+        },
+        {
+            "player": "S Dube",
+            "team": "India",
+            "runs": 66,
+            "balls": 36,
+            "sr": 183.33,
+            "fours": 4,
+            "sixes": 6,
+            "win_contribution_percent": 34.2,
+            "score": 98.41,
+            "role": "batting",
+            "match_stats": "66(36)",
+            "baseline": {
+                "avg": 31.2,
+                "sr": 141.3,
+                "matches": 40,
+                "source": "t20_master",
+                "baseline_available": true
+            }
+        },
+        {
+            "player": "A Dutt",
+            "team": "Netherlands",
+            "overs": 4.0,
+            "runs": 19,
+            "wickets": 2,
+            "econ": 4.75,
+            "score": 97.14,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-19r-2w"
+        },
+        {
+            "player": "S Dube",
+            "team": "India",
+            "overs": 3.0,
+            "runs": 35,
+            "wickets": 2,
+            "econ": 11.67,
+            "score": 75.12,
+            "bowling_baseline": {
+                "career_wickets": 28,
+                "career_economy": 9.74,
+                "career_sr": 16.79,
+                "career_avg": 27.25,
+                "best_bowling": "3/31",
+                "matches": 37,
+                "source": "t20_bowling_master",
+                "baseline_available": true
+            },
+            "role": "bowling",
+            "match_stats": "3.0o-35r-2w"
+        },
+        {
+            "player": "Ishan Kishan",
+            "team": "India",
+            "runs": 18,
+            "balls": 7,
+            "sr": 257.14,
+            "fours": 2,
+            "sixes": 1,
+            "win_contribution_percent": 9.3,
+            "score": 63.45,
+            "role": "batting",
+            "match_stats": "18(7)",
+            "baseline": {
+                "avg": 29.68,
+                "sr": 138.02,
+                "matches": 41,
+                "source": "t20_master",
+                "baseline_available": true
+            }
+        },
+        {
+            "player": "NRJ Croes",
+            "team": "Netherlands",
+            "runs": 25,
+            "balls": 12,
+            "sr": 208.33,
+            "fours": 5,
+            "sixes": 0,
+            "win_contribution_percent": 14.2,
+            "score": 61.82,
+            "role": "batting",
+            "match_stats": "25(12)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "JJ Bumrah",
+            "team": "India",
+            "overs": 3.0,
+            "runs": 17,
+            "wickets": 1,
+            "econ": 5.67,
+            "score": 61.11,
+            "bowling_baseline": {
+                "career_wickets": 113,
+                "career_economy": 6.85,
+                "career_sr": 17.08,
+                "career_avg": 19.51,
+                "best_bowling": "3/23",
+                "matches": 88,
+                "source": "t20_bowling_master",
+                "baseline_available": true
+            },
+            "role": "bowling",
+            "match_stats": "3.0o-17r-1w"
+        },
+        {
+            "player": "BFW de Leede",
+            "team": "Netherlands",
+            "runs": 33,
+            "balls": 25,
+            "sr": 132.0,
+            "fours": 3,
+            "sixes": 1,
+            "win_contribution_percent": 18.8,
+            "score": 56.33,
+            "role": "batting",
+            "match_stats": "33(25)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "HH Pandya",
+            "team": "India",
+            "runs": 30,
+            "balls": 21,
+            "sr": 142.86,
+            "fours": 0,
+            "sixes": 3,
+            "win_contribution_percent": 15.5,
+            "score": 55.25,
+            "role": "batting",
+            "match_stats": "30(21)",
+            "baseline": {
+                "avg": 28.12,
+                "sr": 138.02,
+                "matches": 103,
+                "source": "t20_master",
+                "baseline_available": true
+            }
+        }
+    ],
+    "Tactical_Post_Match_Analysis": [
+        "India's victory was anchored by S Dube, who contributed 34.2% of the team's runs.",
+        "Defensive pressure was sustained by CV Varun, finishing with an impact score of 127.78.",
+        "CV Varun was outstanding with the ball — economy 4.67 vs career avg 7.36 (delta: -2.69). A match-defining spell.",
+        "Washington Sundar struggled with economy 9.0 vs career avg 6.99 (+2.01) — an expensive outing.",
+        "HH Pandya struggled with economy 13.33 vs career avg 8.49 (+4.84) — an expensive outing.",
+        "Netherlands struggled under extreme chase pressure (Index: 81.0), leading to a late-innings collapse.",
+        "High-scoring finish by India in Death Overs (RR: 15.0) shifted match momentum."
+    ]
+}

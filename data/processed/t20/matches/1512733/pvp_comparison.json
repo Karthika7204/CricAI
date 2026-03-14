@@ -1,0 +1,1466 @@
+{
+  "match_id": "1512733",
+  "team_a": "West Indies",
+  "team_b": "England",
+  "matchups": [
+    {
+      "bat": "JC Buttler",
+      "bat_t": "England",
+      "bowl": "AJ Hosein",
+      "bowl_t": "West Indies",
+      "v": "bowler",
+      "h2h": {
+        "balls": 89,
+        "runs": 115,
+        "dismissals": 4,
+        "strike_rate": 129.21
+      },
+      "vs_t": {
+        "runs": 701,
+        "balls": 496,
+        "dismissals": 20,
+        "average": 35.05,
+        "strike_rate": 141.33
+      },
+      "b_f": [
+        2,
+        7,
+        3
+      ],
+      "w_f": [
+        3,
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "R Powell",
+      "bat_t": "West Indies",
+      "bowl": "AU Rashid",
+      "bowl_t": "England",
+      "v": "bowler",
+      "h2h": {
+        "balls": 87,
+        "runs": 91,
+        "dismissals": 4,
+        "strike_rate": 104.6
+      },
+      "vs_t": {
+        "runs": 636,
+        "balls": 402,
+        "dismissals": 15,
+        "average": 42.4,
+        "strike_rate": 158.21
+      },
+      "b_f": [
+        59,
+        9,
+        14
+      ],
+      "w_f": [
+        1,
+        2,
+        1
+      ]
+    },
+    {
+      "bat": "PD Salt",
+      "bat_t": "England",
+      "bowl": "AJ Hosein",
+      "bowl_t": "West Indies",
+      "v": "bowler",
+      "h2h": {
+        "balls": 97,
+        "runs": 119,
+        "dismissals": 3,
+        "strike_rate": 122.68
+      },
+      "vs_t": {
+        "runs": 670,
+        "balls": 381,
+        "dismissals": 11,
+        "average": 60.91,
+        "strike_rate": 175.85
+      },
+      "b_f": [
+        0,
+        62,
+        28
+      ],
+      "w_f": [
+        3,
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "SE Rutherford",
+      "bat_t": "West Indies",
+      "bowl": "AU Rashid",
+      "bowl_t": "England",
+      "v": "bowler",
+      "h2h": {
+        "balls": 41,
+        "runs": 29,
+        "dismissals": 3,
+        "strike_rate": 70.73
+      },
+      "vs_t": {
+        "runs": 240,
+        "balls": 162,
+        "dismissals": 8,
+        "average": 30.0,
+        "strike_rate": 148.15
+      },
+      "b_f": [
+        31,
+        24,
+        76
+      ],
+      "w_f": [
+        1,
+        2,
+        1
+      ]
+    },
+    {
+      "bat": "SD Hope",
+      "bat_t": "West Indies",
+      "bowl": "AU Rashid",
+      "bowl_t": "England",
+      "v": "bowler",
+      "h2h": {
+        "balls": 28,
+        "runs": 19,
+        "dismissals": 3,
+        "strike_rate": 67.86
+      },
+      "vs_t": {
+        "runs": 330,
+        "balls": 274,
+        "dismissals": 13,
+        "average": 25.38,
+        "strike_rate": 120.44
+      },
+      "b_f": [
+        14,
+        75,
+        61
+      ],
+      "w_f": [
+        1,
+        2,
+        1
+      ]
+    },
+    {
+      "bat": "WG Jacks",
+      "bat_t": "England",
+      "bowl": "G Motie",
+      "bowl_t": "West Indies",
+      "v": "bowler",
+      "h2h": {
+        "balls": 23,
+        "runs": 14,
+        "dismissals": 3,
+        "strike_rate": 60.87
+      },
+      "vs_t": {
+        "runs": 203,
+        "balls": 157,
+        "dismissals": 11,
+        "average": 18.45,
+        "strike_rate": 129.3
+      },
+      "b_f": [
+        28,
+        21,
+        53
+      ],
+      "w_f": [
+        4,
+        2,
+        0
+      ]
+    },
+    {
+      "bat": "WG Jacks",
+      "bat_t": "England",
+      "bowl": "AJ Hosein",
+      "bowl_t": "West Indies",
+      "v": "bowler",
+      "h2h": {
+        "balls": 40,
+        "runs": 66,
+        "dismissals": 2,
+        "strike_rate": 165.0
+      },
+      "vs_t": {
+        "runs": 203,
+        "balls": 157,
+        "dismissals": 11,
+        "average": 18.45,
+        "strike_rate": 129.3
+      },
+      "b_f": [
+        28,
+        21,
+        53
+      ],
+      "w_f": [
+        3,
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "JC Buttler",
+      "bat_t": "England",
+      "bowl": "R Shepherd",
+      "bowl_t": "West Indies",
+      "v": "bowler",
+      "h2h": {
+        "balls": 35,
+        "runs": 56,
+        "dismissals": 2,
+        "strike_rate": 160.0
+      },
+      "vs_t": {
+        "runs": 701,
+        "balls": 496,
+        "dismissals": 20,
+        "average": 35.05,
+        "strike_rate": 141.33
+      },
+      "b_f": [
+        2,
+        7,
+        3
+      ],
+      "w_f": [
+        1,
+        5
+      ]
+    },
+    {
+      "bat": "PD Salt",
+      "bat_t": "England",
+      "bowl": "R Shepherd",
+      "bowl_t": "West Indies",
+      "v": "bowler",
+      "h2h": {
+        "balls": 34,
+        "runs": 72,
+        "dismissals": 2,
+        "strike_rate": 211.76
+      },
+      "vs_t": {
+        "runs": 670,
+        "balls": 381,
+        "dismissals": 11,
+        "average": 60.91,
+        "strike_rate": 175.85
+      },
+      "b_f": [
+        0,
+        62,
+        28
+      ],
+      "w_f": [
+        1,
+        5
+      ]
+    },
+    {
+      "bat": "JC Buttler",
+      "bat_t": "England",
+      "bowl": "G Motie",
+      "bowl_t": "West Indies",
+      "v": "batsman",
+      "h2h": {
+        "balls": 63,
+        "runs": 84,
+        "dismissals": 1,
+        "strike_rate": 133.33
+      },
+      "vs_t": {
+        "runs": 701,
+        "balls": 496,
+        "dismissals": 20,
+        "average": 35.05,
+        "strike_rate": 141.33
+      },
+      "b_f": [
+        2,
+        7,
+        3
+      ],
+      "w_f": [
+        4,
+        2,
+        0
+      ]
+    },
+    {
+      "bat": "PD Salt",
+      "bat_t": "England",
+      "bowl": "JO Holder",
+      "bowl_t": "West Indies",
+      "v": "batsman",
+      "h2h": {
+        "balls": 61,
+        "runs": 125,
+        "dismissals": 1,
+        "strike_rate": 204.92
+      },
+      "vs_t": {
+        "runs": 670,
+        "balls": 381,
+        "dismissals": 11,
+        "average": 60.91,
+        "strike_rate": 175.85
+      },
+      "b_f": [
+        0,
+        62,
+        28
+      ],
+      "w_f": [
+        1,
+        0,
+        4
+      ]
+    },
+    {
+      "bat": "JC Buttler",
+      "bat_t": "England",
+      "bowl": "JO Holder",
+      "bowl_t": "West Indies",
+      "v": "bowler",
+      "h2h": {
+        "balls": 31,
+        "runs": 33,
+        "dismissals": 2,
+        "strike_rate": 106.45
+      },
+      "vs_t": {
+        "runs": 701,
+        "balls": 496,
+        "dismissals": 20,
+        "average": 35.05,
+        "strike_rate": 141.33
+      },
+      "b_f": [
+        2,
+        7,
+        3
+      ],
+      "w_f": [
+        1,
+        0,
+        4
+      ]
+    },
+    {
+      "bat": "R Powell",
+      "bat_t": "West Indies",
+      "bowl": "SM Curran",
+      "bowl_t": "England",
+      "v": "bowler",
+      "h2h": {
+        "balls": 30,
+        "runs": 48,
+        "dismissals": 2,
+        "strike_rate": 160.0
+      },
+      "vs_t": {
+        "runs": 636,
+        "balls": 402,
+        "dismissals": 15,
+        "average": 42.4,
+        "strike_rate": 158.21
+      },
+      "b_f": [
+        59,
+        9,
+        14
+      ],
+      "w_f": [
+        0,
+        3,
+        1
+      ]
+    },
+    {
+      "bat": "JC Buttler",
+      "bat_t": "England",
+      "bowl": "RL Chase",
+      "bowl_t": "West Indies",
+      "v": "bowler",
+      "h2h": {
+        "balls": 26,
+        "runs": 57,
+        "dismissals": 2,
+        "strike_rate": 219.23
+      },
+      "vs_t": {
+        "runs": 701,
+        "balls": 496,
+        "dismissals": 20,
+        "average": 35.05,
+        "strike_rate": 141.33
+      },
+      "b_f": [
+        2,
+        7,
+        3
+      ],
+      "w_f": [
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "HC Brook",
+      "bat_t": "England",
+      "bowl": "G Motie",
+      "bowl_t": "West Indies",
+      "v": "bowler",
+      "h2h": {
+        "balls": 25,
+        "runs": 21,
+        "dismissals": 2,
+        "strike_rate": 84.0
+      },
+      "vs_t": {
+        "runs": 152,
+        "balls": 110,
+        "dismissals": 7,
+        "average": 21.71,
+        "strike_rate": 138.18
+      },
+      "b_f": [
+        100,
+        14,
+        14
+      ],
+      "w_f": [
+        4,
+        2,
+        0
+      ]
+    },
+    {
+      "bat": "T Banton",
+      "bat_t": "England",
+      "bowl": "JO Holder",
+      "bowl_t": "West Indies",
+      "v": "bowler",
+      "h2h": {
+        "balls": 21,
+        "runs": 31,
+        "dismissals": 2,
+        "strike_rate": 147.62
+      },
+      "vs_t": {
+        "runs": 157,
+        "balls": 102,
+        "dismissals": 7,
+        "average": 22.43,
+        "strike_rate": 153.92
+      },
+      "b_f": [
+        2,
+        6,
+        30
+      ],
+      "w_f": [
+        1,
+        0,
+        4
+      ]
+    },
+    {
+      "bat": "PD Salt",
+      "bat_t": "England",
+      "bowl": "G Motie",
+      "bowl_t": "West Indies",
+      "v": "batsman",
+      "h2h": {
+        "balls": 50,
+        "runs": 99,
+        "dismissals": 1,
+        "strike_rate": 198.0
+      },
+      "vs_t": {
+        "runs": 670,
+        "balls": 381,
+        "dismissals": 11,
+        "average": 60.91,
+        "strike_rate": 175.85
+      },
+      "b_f": [
+        0,
+        62,
+        28
+      ],
+      "w_f": [
+        4,
+        2,
+        0
+      ]
+    },
+    {
+      "bat": "HC Brook",
+      "bat_t": "England",
+      "bowl": "JO Holder",
+      "bowl_t": "West Indies",
+      "v": "bowler",
+      "h2h": {
+        "balls": 17,
+        "runs": 24,
+        "dismissals": 2,
+        "strike_rate": 141.18
+      },
+      "vs_t": {
+        "runs": 152,
+        "balls": 110,
+        "dismissals": 7,
+        "average": 21.71,
+        "strike_rate": 138.18
+      },
+      "b_f": [
+        100,
+        14,
+        14
+      ],
+      "w_f": [
+        1,
+        0,
+        4
+      ]
+    },
+    {
+      "bat": "HC Brook",
+      "bat_t": "England",
+      "bowl": "RL Chase",
+      "bowl_t": "West Indies",
+      "v": "bowler",
+      "h2h": {
+        "balls": 13,
+        "runs": 15,
+        "dismissals": 2,
+        "strike_rate": 115.38
+      },
+      "vs_t": {
+        "runs": 152,
+        "balls": 110,
+        "dismissals": 7,
+        "average": 21.71,
+        "strike_rate": 138.18
+      },
+      "b_f": [
+        100,
+        14,
+        14
+      ],
+      "w_f": [
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "G Motie",
+      "bat_t": "West Indies",
+      "bowl": "AU Rashid",
+      "bowl_t": "England",
+      "v": "bowler",
+      "h2h": {
+        "balls": 9,
+        "runs": 12,
+        "dismissals": 2,
+        "strike_rate": 133.33
+      },
+      "vs_t": {
+        "runs": 46,
+        "balls": 39,
+        "dismissals": 5,
+        "average": 9.2,
+        "strike_rate": 117.95
+      },
+      "w_f": [
+        1,
+        2,
+        1
+      ]
+    },
+    {
+      "bat": "SO Hetmyer",
+      "bat_t": "West Indies",
+      "bowl": "AU Rashid",
+      "bowl_t": "England",
+      "v": "bowler",
+      "h2h": {
+        "balls": 7,
+        "runs": 1,
+        "dismissals": 2,
+        "strike_rate": 14.29
+      },
+      "vs_t": {
+        "runs": 102,
+        "balls": 82,
+        "dismissals": 11,
+        "average": 9.27,
+        "strike_rate": 124.39
+      },
+      "b_f": [
+        85,
+        1,
+        46
+      ],
+      "w_f": [
+        1,
+        2,
+        1
+      ]
+    },
+    {
+      "bat": "AU Rashid",
+      "bat_t": "England",
+      "bowl": "JO Holder",
+      "bowl_t": "West Indies",
+      "v": "bowler",
+      "h2h": {
+        "balls": 4,
+        "runs": 2,
+        "dismissals": 2,
+        "strike_rate": 50.0
+      },
+      "vs_t": {
+        "runs": 31,
+        "balls": 33,
+        "dismissals": 5,
+        "average": 6.2,
+        "strike_rate": 93.94
+      },
+      "b_f": [
+        1,
+        0
+      ],
+      "w_f": [
+        1,
+        0,
+        4
+      ]
+    },
+    {
+      "bat": "JG Bethell",
+      "bat_t": "England",
+      "bowl": "G Motie",
+      "bowl_t": "West Indies",
+      "v": "batsman",
+      "h2h": {
+        "balls": 31,
+        "runs": 63,
+        "dismissals": 1,
+        "strike_rate": 203.23
+      },
+      "vs_t": {
+        "runs": 245,
+        "balls": 150,
+        "dismissals": 3,
+        "average": 81.67,
+        "strike_rate": 163.33
+      },
+      "b_f": [
+        8,
+        3,
+        23
+      ],
+      "w_f": [
+        4,
+        2,
+        0
+      ]
+    },
+    {
+      "bat": "SE Rutherford",
+      "bat_t": "West Indies",
+      "bowl": "SM Curran",
+      "bowl_t": "England",
+      "v": "batsman",
+      "h2h": {
+        "balls": 25,
+        "runs": 42,
+        "dismissals": 1,
+        "strike_rate": 168.0
+      },
+      "vs_t": {
+        "runs": 240,
+        "balls": 162,
+        "dismissals": 8,
+        "average": 30.0,
+        "strike_rate": 148.15
+      },
+      "b_f": [
+        31,
+        24,
+        76
+      ],
+      "w_f": [
+        0,
+        3,
+        1
+      ]
+    },
+    {
+      "bat": "R Powell",
+      "bat_t": "West Indies",
+      "bowl": "LA Dawson",
+      "bowl_t": "England",
+      "v": "batsman",
+      "h2h": {
+        "balls": 24,
+        "runs": 35,
+        "dismissals": 1,
+        "strike_rate": 145.83
+      },
+      "vs_t": {
+        "runs": 636,
+        "balls": 402,
+        "dismissals": 15,
+        "average": 42.4,
+        "strike_rate": 158.21
+      },
+      "b_f": [
+        59,
+        9,
+        14
+      ],
+      "w_f": [
+        3,
+        2,
+        0
+      ]
+    },
+    {
+      "bat": "R Shepherd",
+      "bat_t": "West Indies",
+      "bowl": "AU Rashid",
+      "bowl_t": "England",
+      "v": "batsman",
+      "h2h": {
+        "balls": 22,
+        "runs": 29,
+        "dismissals": 1,
+        "strike_rate": 131.82
+      },
+      "vs_t": {
+        "runs": 189,
+        "balls": 145,
+        "dismissals": 6,
+        "average": 31.5,
+        "strike_rate": 130.34
+      },
+      "b_f": [
+        21,
+        1,
+        6
+      ],
+      "w_f": [
+        1,
+        2,
+        1
+      ]
+    },
+    {
+      "bat": "AJ Hosein",
+      "bat_t": "West Indies",
+      "bowl": "AU Rashid",
+      "bowl_t": "England",
+      "v": "batsman",
+      "h2h": {
+        "balls": 18,
+        "runs": 11,
+        "dismissals": 1,
+        "strike_rate": 61.11
+      },
+      "vs_t": {
+        "runs": 76,
+        "balls": 55,
+        "dismissals": 2,
+        "average": 38.0,
+        "strike_rate": 138.18
+      },
+      "w_f": [
+        1,
+        2,
+        1
+      ]
+    },
+    {
+      "bat": "SM Curran",
+      "bat_t": "England",
+      "bowl": "JO Holder",
+      "bowl_t": "West Indies",
+      "v": "batsman",
+      "h2h": {
+        "balls": 17,
+        "runs": 21,
+        "dismissals": 1,
+        "strike_rate": 123.53
+      },
+      "vs_t": {
+        "runs": 183,
+        "balls": 134,
+        "dismissals": 4,
+        "average": 45.75,
+        "strike_rate": 136.57
+      },
+      "b_f": [
+        16,
+        11,
+        25
+      ],
+      "w_f": [
+        1,
+        0,
+        4
+      ]
+    },
+    {
+      "bat": "R Shepherd",
+      "bat_t": "West Indies",
+      "bowl": "J Overton",
+      "bowl_t": "England",
+      "v": "bowler",
+      "h2h": {
+        "balls": 15,
+        "runs": 15,
+        "dismissals": 1,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 189,
+        "balls": 145,
+        "dismissals": 6,
+        "average": 31.5,
+        "strike_rate": 130.34
+      },
+      "b_f": [
+        21,
+        1,
+        6
+      ],
+      "w_f": [
+        2,
+        1,
+        3
+      ]
+    },
+    {
+      "bat": "BA King",
+      "bat_t": "West Indies",
+      "bowl": "SM Curran",
+      "bowl_t": "England",
+      "v": "batsman",
+      "h2h": {
+        "balls": 15,
+        "runs": 28,
+        "dismissals": 1,
+        "strike_rate": 186.67
+      },
+      "vs_t": {
+        "runs": 265,
+        "balls": 225,
+        "dismissals": 11,
+        "average": 24.09,
+        "strike_rate": 117.78
+      },
+      "b_f": [
+        9,
+        4,
+        22
+      ],
+      "w_f": [
+        0,
+        3,
+        1
+      ]
+    },
+    {
+      "bat": "WG Jacks",
+      "bat_t": "England",
+      "bowl": "R Shepherd",
+      "bowl_t": "West Indies",
+      "v": "bowler",
+      "h2h": {
+        "balls": 15,
+        "runs": 15,
+        "dismissals": 1,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 203,
+        "balls": 157,
+        "dismissals": 11,
+        "average": 18.45,
+        "strike_rate": 129.3
+      },
+      "b_f": [
+        28,
+        21,
+        53
+      ],
+      "w_f": [
+        1,
+        5
+      ]
+    },
+    {
+      "bat": "SE Rutherford",
+      "bat_t": "West Indies",
+      "bowl": "LA Dawson",
+      "bowl_t": "England",
+      "v": "bowler",
+      "h2h": {
+        "balls": 14,
+        "runs": 18,
+        "dismissals": 1,
+        "strike_rate": 128.57
+      },
+      "vs_t": {
+        "runs": 240,
+        "balls": 162,
+        "dismissals": 8,
+        "average": 30.0,
+        "strike_rate": 148.15
+      },
+      "b_f": [
+        31,
+        24,
+        76
+      ],
+      "w_f": [
+        3,
+        2,
+        0
+      ]
+    },
+    {
+      "bat": "WG Jacks",
+      "bat_t": "England",
+      "bowl": "RL Chase",
+      "bowl_t": "West Indies",
+      "v": "bowler",
+      "h2h": {
+        "balls": 13,
+        "runs": 10,
+        "dismissals": 1,
+        "strike_rate": 76.92
+      },
+      "vs_t": {
+        "runs": 203,
+        "balls": 157,
+        "dismissals": 11,
+        "average": 18.45,
+        "strike_rate": 129.3
+      },
+      "b_f": [
+        28,
+        21,
+        53
+      ],
+      "w_f": [
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "RL Chase",
+      "bat_t": "West Indies",
+      "bowl": "AU Rashid",
+      "bowl_t": "England",
+      "v": "bowler",
+      "h2h": {
+        "balls": 11,
+        "runs": 8,
+        "dismissals": 1,
+        "strike_rate": 72.73
+      },
+      "vs_t": {
+        "runs": 93,
+        "balls": 79,
+        "dismissals": 4,
+        "average": 23.25,
+        "strike_rate": 117.72
+      },
+      "b_f": [
+        24,
+        34
+      ],
+      "w_f": [
+        1,
+        2,
+        1
+      ]
+    },
+    {
+      "bat": "SD Hope",
+      "bat_t": "West Indies",
+      "bowl": "JC Archer",
+      "bowl_t": "England",
+      "v": "bowler",
+      "h2h": {
+        "balls": 11,
+        "runs": 8,
+        "dismissals": 1,
+        "strike_rate": 72.73
+      },
+      "vs_t": {
+        "runs": 330,
+        "balls": 274,
+        "dismissals": 13,
+        "average": 25.38,
+        "strike_rate": 120.44
+      },
+      "b_f": [
+        14,
+        75,
+        61
+      ],
+      "w_f": [
+        2,
+        2,
+        2
+      ]
+    },
+    {
+      "bat": "HC Brook",
+      "bat_t": "England",
+      "bowl": "AJ Hosein",
+      "bowl_t": "West Indies",
+      "v": "bowler",
+      "h2h": {
+        "balls": 11,
+        "runs": 12,
+        "dismissals": 1,
+        "strike_rate": 109.09
+      },
+      "vs_t": {
+        "runs": 152,
+        "balls": 110,
+        "dismissals": 7,
+        "average": 21.71,
+        "strike_rate": 138.18
+      },
+      "b_f": [
+        100,
+        14,
+        14
+      ],
+      "w_f": [
+        3,
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "PD Salt",
+      "bat_t": "England",
+      "bowl": "RL Chase",
+      "bowl_t": "West Indies",
+      "v": "batsman",
+      "h2h": {
+        "balls": 10,
+        "runs": 5,
+        "dismissals": 1,
+        "strike_rate": 50.0
+      },
+      "vs_t": {
+        "runs": 670,
+        "balls": 381,
+        "dismissals": 11,
+        "average": 60.91,
+        "strike_rate": 175.85
+      },
+      "b_f": [
+        0,
+        62,
+        28
+      ],
+      "w_f": [
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "R Powell",
+      "bat_t": "West Indies",
+      "bowl": "J Overton",
+      "bowl_t": "England",
+      "v": "batsman",
+      "h2h": {
+        "balls": 9,
+        "runs": 6,
+        "dismissals": 1,
+        "strike_rate": 66.67
+      },
+      "vs_t": {
+        "runs": 636,
+        "balls": 402,
+        "dismissals": 15,
+        "average": 42.4,
+        "strike_rate": 158.21
+      },
+      "b_f": [
+        59,
+        9,
+        14
+      ],
+      "w_f": [
+        2,
+        1,
+        3
+      ]
+    },
+    {
+      "bat": "SM Curran",
+      "bat_t": "England",
+      "bowl": "R Shepherd",
+      "bowl_t": "West Indies",
+      "v": "batsman",
+      "h2h": {
+        "balls": 8,
+        "runs": 7,
+        "dismissals": 1,
+        "strike_rate": 87.5
+      },
+      "vs_t": {
+        "runs": 183,
+        "balls": 134,
+        "dismissals": 4,
+        "average": 45.75,
+        "strike_rate": 136.57
+      },
+      "b_f": [
+        16,
+        11,
+        25
+      ],
+      "w_f": [
+        1,
+        5
+      ]
+    },
+    {
+      "bat": "T Banton",
+      "bat_t": "England",
+      "bowl": "G Motie",
+      "bowl_t": "West Indies",
+      "v": "batsman",
+      "h2h": {
+        "balls": 8,
+        "runs": 14,
+        "dismissals": 1,
+        "strike_rate": 175.0
+      },
+      "vs_t": {
+        "runs": 157,
+        "balls": 102,
+        "dismissals": 7,
+        "average": 22.43,
+        "strike_rate": 153.92
+      },
+      "b_f": [
+        2,
+        6,
+        30
+      ],
+      "w_f": [
+        4,
+        2,
+        0
+      ]
+    },
+    {
+      "bat": "J Overton",
+      "bat_t": "England",
+      "bowl": "AJ Hosein",
+      "bowl_t": "West Indies",
+      "v": "neutral",
+      "h2h": {
+        "balls": 7,
+        "runs": 7,
+        "dismissals": 1,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 9,
+        "balls": 10,
+        "dismissals": 1,
+        "average": 9.0,
+        "strike_rate": 90.0
+      },
+      "b_f": [
+        0,
+        10,
+        15
+      ],
+      "w_f": [
+        3,
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "SE Rutherford",
+      "bat_t": "West Indies",
+      "bowl": "JG Bethell",
+      "bowl_t": "England",
+      "v": "bowler",
+      "h2h": {
+        "balls": 6,
+        "runs": 5,
+        "dismissals": 1,
+        "strike_rate": 83.33
+      },
+      "vs_t": {
+        "runs": 240,
+        "balls": 162,
+        "dismissals": 8,
+        "average": 30.0,
+        "strike_rate": 148.15
+      },
+      "b_f": [
+        31,
+        24,
+        76
+      ]
+    },
+    {
+      "bat": "G Motie",
+      "bat_t": "West Indies",
+      "bowl": "J Overton",
+      "bowl_t": "England",
+      "v": "bowler",
+      "h2h": {
+        "balls": 5,
+        "runs": 5,
+        "dismissals": 1,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 46,
+        "balls": 39,
+        "dismissals": 5,
+        "average": 9.2,
+        "strike_rate": 117.95
+      },
+      "w_f": [
+        2,
+        1,
+        3
+      ]
+    },
+    {
+      "bat": "AJ Hosein",
+      "bat_t": "West Indies",
+      "bowl": "SM Curran",
+      "bowl_t": "England",
+      "v": "batsman",
+      "h2h": {
+        "balls": 5,
+        "runs": 11,
+        "dismissals": 1,
+        "strike_rate": 220.0
+      },
+      "vs_t": {
+        "runs": 76,
+        "balls": 55,
+        "dismissals": 2,
+        "average": 38.0,
+        "strike_rate": 138.18
+      },
+      "w_f": [
+        0,
+        3,
+        1
+      ]
+    },
+    {
+      "bat": "BA King",
+      "bat_t": "West Indies",
+      "bowl": "AU Rashid",
+      "bowl_t": "England",
+      "v": "bowler",
+      "h2h": {
+        "balls": 35,
+        "runs": 26,
+        "dismissals": 0,
+        "strike_rate": 74.29
+      },
+      "vs_t": {
+        "runs": 265,
+        "balls": 225,
+        "dismissals": 11,
+        "average": 24.09,
+        "strike_rate": 117.78
+      },
+      "b_f": [
+        9,
+        4,
+        22
+      ],
+      "w_f": [
+        1,
+        2,
+        1
+      ]
+    },
+    {
+      "bat": "JO Holder",
+      "bat_t": "West Indies",
+      "bowl": "J Overton",
+      "bowl_t": "England",
+      "v": "bowler",
+      "h2h": {
+        "balls": 4,
+        "runs": 7,
+        "dismissals": 1,
+        "strike_rate": 175.0
+      },
+      "vs_t": {
+        "runs": 180,
+        "balls": 114,
+        "dismissals": 9,
+        "average": 20.0,
+        "strike_rate": 157.89
+      },
+      "b_f": [
+        13,
+        9,
+        33
+      ],
+      "w_f": [
+        2,
+        1,
+        3
+      ]
+    },
+    {
+      "bat": "LA Dawson",
+      "bat_t": "England",
+      "bowl": "JO Holder",
+      "bowl_t": "West Indies",
+      "v": "neutral",
+      "h2h": {
+        "balls": 4,
+        "runs": 5,
+        "dismissals": 1,
+        "strike_rate": 125.0
+      },
+      "vs_t": {
+        "runs": 7,
+        "balls": 13,
+        "dismissals": 1,
+        "average": 7.0,
+        "strike_rate": 53.85
+      },
+      "b_f": [
+        1,
+        6,
+        1
+      ],
+      "w_f": [
+        1,
+        0,
+        4
+      ]
+    },
+    {
+      "bat": "JC Buttler",
+      "bat_t": "England",
+      "bowl": "SE Rutherford",
+      "bowl_t": "West Indies",
+      "v": "batsman",
+      "h2h": {
+        "balls": 4,
+        "runs": 2,
+        "dismissals": 1,
+        "strike_rate": 50.0
+      },
+      "vs_t": {
+        "runs": 701,
+        "balls": 496,
+        "dismissals": 20,
+        "average": 35.05,
+        "strike_rate": 141.33
+      },
+      "b_f": [
+        2,
+        7,
+        3
+      ]
+    },
+    {
+      "bat": "RL Chase",
+      "bat_t": "West Indies",
+      "bowl": "LA Dawson",
+      "bowl_t": "England",
+      "v": "bowler",
+      "h2h": {
+        "balls": 3,
+        "runs": 5,
+        "dismissals": 1,
+        "strike_rate": 166.67
+      },
+      "vs_t": {
+        "runs": 93,
+        "balls": 79,
+        "dismissals": 4,
+        "average": 23.25,
+        "strike_rate": 117.72
+      },
+      "b_f": [
+        24,
+        34
+      ],
+      "w_f": [
+        3,
+        2,
+        0
+      ]
+    },
+    {
+      "bat": "SO Hetmyer",
+      "bat_t": "West Indies",
+      "bowl": "J Overton",
+      "bowl_t": "England",
+      "v": "bowler",
+      "h2h": {
+        "balls": 3,
+        "runs": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 102,
+        "balls": 82,
+        "dismissals": 11,
+        "average": 9.27,
+        "strike_rate": 124.39
+      },
+      "b_f": [
+        85,
+        1,
+        46
+      ],
+      "w_f": [
+        2,
+        1,
+        3
+      ]
+    }
+  ]
+}

@@ -1,0 +1,362 @@
+{
+    "match_context": {
+        "match_id": "1512728",
+        "date": "2026-02-10",
+        "tournament": "2025/26",
+        "venue": "Arun Jaitley Stadium, Delhi",
+        "stage": "ICC Men's T20 World Cup",
+        "Teams": {
+            "Namibia": {
+                "captain": "MG Erasmus",
+                "playing_xi_count": 11
+            },
+            "Netherlands": {
+                "captain": "SA Edwards",
+                "playing_xi_count": 11
+            }
+        }
+    },
+    "Match_Result": {
+        "summary": "Netherlands won by 7 wickets",
+        "winner": "Netherlands",
+        "margin": 7,
+        "margin_type": "wickets"
+    },
+    "Scorecard_Highlights": {
+        "Key_Support_Performers": [
+            {
+                "player": "JN Frylinck",
+                "team": "Namibia",
+                "runs": 30,
+                "balls": 27,
+                "sr": 111.11,
+                "fours": 3,
+                "sixes": 1,
+                "win_contribution_percent": 19.2,
+                "score": 51.64
+            },
+            {
+                "player": "JJ Smit",
+                "team": "Namibia",
+                "runs": 22,
+                "balls": 16,
+                "sr": 137.5,
+                "fours": 1,
+                "sixes": 2,
+                "win_contribution_percent": 14.1,
+                "score": 48.77
+            }
+        ],
+        "Career_vs_Match_Bowling": [],
+        "Bowling_Standouts": {
+            "Economical_Spells": [],
+            "Expensive_Spells": [],
+            "High_Economy_No_Baseline": [
+                {
+                    "player": "JN Loftie-Eaton",
+                    "team": "Namibia",
+                    "overs": 2.0,
+                    "runs": 31,
+                    "wickets": 1,
+                    "econ": 15.5,
+                    "score": 40.33,
+                    "bowling_baseline": {
+                        "career_wickets": 0,
+                        "career_economy": 0.0,
+                        "career_sr": 0.0,
+                        "career_avg": 0.0,
+                        "best_bowling": "N/A",
+                        "matches": 0,
+                        "source": "none",
+                        "baseline_available": false
+                    }
+                },
+                {
+                    "player": "CN Ackermann",
+                    "team": "Netherlands",
+                    "overs": 3.0,
+                    "runs": 33,
+                    "wickets": 0,
+                    "econ": 11.0,
+                    "score": 14.56,
+                    "bowling_baseline": {
+                        "career_wickets": 0,
+                        "career_economy": 0.0,
+                        "career_sr": 0.0,
+                        "career_avg": 0.0,
+                        "best_bowling": "N/A",
+                        "matches": 0,
+                        "source": "none",
+                        "baseline_available": false
+                    }
+                }
+            ]
+        },
+        "Significant_Collapses": []
+    },
+    "Innings_Metrics": [
+        {
+            "innings": 1,
+            "team": "Namibia",
+            "total_runs": 156,
+            "total_wickets": 8,
+            "balls_faced": 120,
+            "overs_faced": 20.0,
+            "phase_analysis": {
+                "Powerplay": {
+                    "runs": 40,
+                    "wkts": 1,
+                    "rr": 6.67
+                },
+                "Middle": {
+                    "runs": 69,
+                    "wkts": 3,
+                    "rr": 7.67
+                },
+                "Death": {
+                    "runs": 47,
+                    "wkts": 4,
+                    "rr": 9.4
+                }
+            }
+        },
+        {
+            "innings": 2,
+            "team": "Netherlands",
+            "total_runs": 159,
+            "total_wickets": 3,
+            "balls_faced": 108,
+            "overs_faced": 18.0,
+            "phase_analysis": {
+                "Powerplay": {
+                    "runs": 50,
+                    "wkts": 2,
+                    "rr": 8.33
+                },
+                "Middle": {
+                    "runs": 69,
+                    "wkts": 1,
+                    "rr": 7.67
+                },
+                "Death": {
+                    "runs": 40,
+                    "wkts": 0,
+                    "rr": 13.33
+                }
+            },
+            "pressure_index": 28.0,
+            "target": 157
+        }
+    ],
+    "Detailed_Impact_Analysis": [
+        {
+            "player": "BFW de Leede",
+            "team": "Netherlands",
+            "runs": 72,
+            "balls": 48,
+            "sr": 150.0,
+            "fours": 5,
+            "sixes": 4,
+            "win_contribution_percent": 45.3,
+            "score": 101.21,
+            "role": "batting",
+            "match_stats": "72(48)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "LV van Beek",
+            "team": "Netherlands",
+            "overs": 3.0,
+            "runs": 14,
+            "wickets": 2,
+            "econ": 4.67,
+            "score": 94.3,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "3.0o-14r-2w"
+        },
+        {
+            "player": "BFW de Leede",
+            "team": "Netherlands",
+            "overs": 3.0,
+            "runs": 21,
+            "wickets": 2,
+            "econ": 7.0,
+            "score": 82.88,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "3.0o-21r-2w"
+        },
+        {
+            "player": "A Dutt",
+            "team": "Netherlands",
+            "overs": 3.0,
+            "runs": 13,
+            "wickets": 1,
+            "econ": 4.33,
+            "score": 66.99,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "3.0o-13r-1w"
+        },
+        {
+            "player": "M Levitt",
+            "team": "Netherlands",
+            "runs": 28,
+            "balls": 15,
+            "sr": 186.67,
+            "fours": 1,
+            "sixes": 3,
+            "win_contribution_percent": 17.6,
+            "score": 64.35,
+            "role": "batting",
+            "match_stats": "28(15)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "JN Loftie-Eaton",
+            "team": "Namibia",
+            "runs": 42,
+            "balls": 38,
+            "sr": 110.53,
+            "fours": 1,
+            "sixes": 2,
+            "win_contribution_percent": 26.9,
+            "score": 63.52,
+            "role": "batting",
+            "match_stats": "42(38)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "MG Erasmus",
+            "team": "Namibia",
+            "runs": 18,
+            "balls": 9,
+            "sr": 200.0,
+            "fours": 2,
+            "sixes": 1,
+            "win_contribution_percent": 11.5,
+            "score": 56.94,
+            "role": "batting",
+            "match_stats": "18(9)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "SA Edwards",
+            "team": "Netherlands",
+            "runs": 18,
+            "balls": 9,
+            "sr": 200.0,
+            "fours": 1,
+            "sixes": 1,
+            "win_contribution_percent": 11.3,
+            "score": 56.94,
+            "role": "batting",
+            "match_stats": "18(9)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "CN Ackermann",
+            "team": "Netherlands",
+            "runs": 32,
+            "balls": 28,
+            "sr": 114.29,
+            "fours": 0,
+            "sixes": 1,
+            "win_contribution_percent": 20.1,
+            "score": 54.25,
+            "role": "batting",
+            "match_stats": "32(28)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "BM Scholtz",
+            "team": "Namibia",
+            "overs": 4.0,
+            "runs": 27,
+            "wickets": 1,
+            "econ": 6.75,
+            "score": 53.73,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-27r-1w"
+        }
+    ],
+    "Tactical_Post_Match_Analysis": [
+        "Netherlands's victory was anchored by BFW de Leede, who contributed 45.3% of the team's runs.",
+        "Defensive pressure was sustained by LV van Beek, finishing with an impact score of 94.3.",
+        "High-scoring finish by Netherlands in Death Overs (RR: 13.33) shifted match momentum."
+    ]
+}

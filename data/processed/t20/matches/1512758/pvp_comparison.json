@@ -1,0 +1,1414 @@
+{
+  "match_id": "1512758",
+  "team_a": "Oman",
+  "team_b": "Australia",
+  "matchups": [
+    {
+      "bat": "Jatinder Singh",
+      "bat_t": "Oman",
+      "bowl": "XC Bartlett",
+      "bowl_t": "Australia",
+      "v": "neutral",
+      "h2h": {
+        "balls": 10,
+        "runs": 10,
+        "dismissals": 1,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 17,
+        "balls": 16,
+        "dismissals": 1,
+        "average": 17.0,
+        "strike_rate": 106.25
+      },
+      "b_f": [
+        17,
+        7,
+        1
+      ],
+      "w_f": [
+        2,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "TM Head",
+      "bat_t": "Australia",
+      "bowl": "Shakeel Ahmed",
+      "bowl_t": "Oman",
+      "v": "bowler",
+      "h2h": {
+        "balls": 9,
+        "runs": 11,
+        "dismissals": 1,
+        "strike_rate": 122.22
+      },
+      "vs_t": {
+        "runs": 44,
+        "balls": 29,
+        "dismissals": 2,
+        "average": 22.0,
+        "strike_rate": 151.72
+      },
+      "b_f": [
+        32,
+        56,
+        17
+      ],
+      "w_f": [
+        1,
+        3,
+        0
+      ]
+    },
+    {
+      "bat": "Wasim Ali",
+      "bat_t": "Oman",
+      "bowl": "GJ Maxwell",
+      "bowl_t": "Australia",
+      "v": "neutral",
+      "h2h": {
+        "balls": 6,
+        "runs": 4,
+        "dismissals": 1,
+        "strike_rate": 66.67
+      },
+      "vs_t": {
+        "runs": 32,
+        "balls": 33,
+        "dismissals": 1,
+        "average": 32.0,
+        "strike_rate": 96.97
+      },
+      "b_f": [
+        32,
+        27,
+        3
+      ],
+      "w_f": [
+        2,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "Hammad Mirza",
+      "bat_t": "Oman",
+      "bowl": "A Zampa",
+      "bowl_t": "Australia",
+      "v": "neutral",
+      "h2h": {
+        "balls": 5,
+        "runs": 1,
+        "dismissals": 1,
+        "strike_rate": 20.0
+      },
+      "vs_t": {
+        "runs": 16,
+        "balls": 14,
+        "dismissals": 1,
+        "average": 16.0,
+        "strike_rate": 114.29
+      },
+      "b_f": [
+        16,
+        46,
+        9
+      ],
+      "w_f": [
+        4,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "Shakeel Ahmed",
+      "bat_t": "Oman",
+      "bowl": "NT Ellis",
+      "bowl_t": "Australia",
+      "v": "bowler",
+      "h2h": {
+        "balls": 4,
+        "runs": 3,
+        "dismissals": 1,
+        "strike_rate": 75.0
+      },
+      "vs_t": {
+        "runs": 14,
+        "balls": 18,
+        "dismissals": 2,
+        "average": 7.0,
+        "strike_rate": 77.78
+      },
+      "b_f": [
+        3,
+        4,
+        4
+      ],
+      "w_f": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "Shakeel Ahmed",
+      "bat_t": "Oman",
+      "bowl": "A Zampa",
+      "bowl_t": "Australia",
+      "v": "bowler",
+      "h2h": {
+        "balls": 4,
+        "runs": 2,
+        "dismissals": 1,
+        "strike_rate": 50.0
+      },
+      "vs_t": {
+        "runs": 14,
+        "balls": 18,
+        "dismissals": 2,
+        "average": 7.0,
+        "strike_rate": 77.78
+      },
+      "b_f": [
+        3,
+        4,
+        4
+      ],
+      "w_f": [
+        4,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "J Ramanandi",
+      "bat_t": "Oman",
+      "bowl": "GJ Maxwell",
+      "bowl_t": "Australia",
+      "v": "neutral",
+      "h2h": {
+        "balls": 2,
+        "runs": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 1,
+        "balls": 3,
+        "dismissals": 1,
+        "average": 1.0,
+        "strike_rate": 33.33
+      },
+      "b_f": [
+        1,
+        3,
+        0
+      ],
+      "w_f": [
+        2,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "K Sonavale",
+      "bat_t": "Oman",
+      "bowl": "NT Ellis",
+      "bowl_t": "Australia",
+      "v": "neutral",
+      "h2h": {
+        "balls": 2,
+        "runs": 4,
+        "dismissals": 1,
+        "strike_rate": 200.0
+      },
+      "vs_t": {
+        "runs": 12,
+        "balls": 11,
+        "dismissals": 1,
+        "average": 12.0,
+        "strike_rate": 109.09
+      },
+      "b_f": [
+        12,
+        0
+      ],
+      "w_f": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "Mohammad Nadeem",
+      "bat_t": "Oman",
+      "bowl": "A Zampa",
+      "bowl_t": "Australia",
+      "v": "neutral",
+      "h2h": {
+        "balls": 2,
+        "runs": 1,
+        "dismissals": 1,
+        "strike_rate": 50.0
+      },
+      "vs_t": {
+        "runs": 2,
+        "balls": 3,
+        "dismissals": 1,
+        "average": 2.0,
+        "strike_rate": 66.67
+      },
+      "b_f": [
+        2,
+        1,
+        53
+      ],
+      "w_f": [
+        4,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "Shafiq Jan",
+      "bat_t": "Oman",
+      "bowl": "A Zampa",
+      "bowl_t": "Australia",
+      "v": "neutral",
+      "h2h": {
+        "balls": 1,
+        "runs": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 0,
+        "balls": 1,
+        "dismissals": 1,
+        "average": 0.0,
+        "strike_rate": 0.0
+      },
+      "b_f": [
+        0
+      ],
+      "w_f": [
+        4,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "Aamir Kaleem",
+      "bat_t": "Oman",
+      "bowl": "XC Bartlett",
+      "bowl_t": "Australia",
+      "v": "neutral",
+      "h2h": {
+        "balls": 1,
+        "runs": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 0,
+        "balls": 1,
+        "dismissals": 1,
+        "average": 0.0,
+        "strike_rate": 0.0
+      },
+      "b_f": [
+        0,
+        50,
+        6
+      ],
+      "w_f": [
+        2,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "V Shukla",
+      "bat_t": "Oman",
+      "bowl": "MP Stoinis",
+      "bowl_t": "Australia",
+      "v": "neutral",
+      "h2h": {
+        "balls": 1,
+        "runs": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 9,
+        "balls": 8,
+        "dismissals": 1,
+        "average": 9.0,
+        "strike_rate": 112.5
+      },
+      "b_f": [
+        9,
+        0,
+        1
+      ],
+      "w_f": [
+        1,
+        2,
+        1
+      ]
+    },
+    {
+      "bat": "MR Marsh",
+      "bat_t": "Australia",
+      "bowl": "Shakeel Ahmed",
+      "bowl_t": "Oman",
+      "v": "batsman",
+      "h2h": {
+        "balls": 17,
+        "runs": 21,
+        "dismissals": 0,
+        "strike_rate": 123.53
+      },
+      "vs_t": {
+        "runs": 78,
+        "balls": 54,
+        "dismissals": 1,
+        "average": 78.0,
+        "strike_rate": 144.44
+      },
+      "b_f": [
+        64,
+        54
+      ],
+      "w_f": [
+        1,
+        3,
+        0
+      ]
+    },
+    {
+      "bat": "MR Marsh",
+      "bat_t": "Australia",
+      "bowl": "Shafiq Jan",
+      "bowl_t": "Oman",
+      "v": "batsman",
+      "h2h": {
+        "balls": 9,
+        "runs": 21,
+        "dismissals": 0,
+        "strike_rate": 233.33
+      },
+      "vs_t": {
+        "runs": 78,
+        "balls": 54,
+        "dismissals": 1,
+        "average": 78.0,
+        "strike_rate": 144.44
+      },
+      "b_f": [
+        64,
+        54
+      ],
+      "w_f": [
+        0
+      ]
+    },
+    {
+      "bat": "Wasim Ali",
+      "bat_t": "Oman",
+      "bowl": "A Zampa",
+      "bowl_t": "Australia",
+      "v": "batsman",
+      "h2h": {
+        "balls": 8,
+        "runs": 13,
+        "dismissals": 0,
+        "strike_rate": 162.5
+      },
+      "vs_t": {
+        "runs": 32,
+        "balls": 33,
+        "dismissals": 1,
+        "average": 32.0,
+        "strike_rate": 96.97
+      },
+      "b_f": [
+        32,
+        27,
+        3
+      ],
+      "w_f": [
+        4,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "Wasim Ali",
+      "bat_t": "Oman",
+      "bowl": "C Green",
+      "bowl_t": "Australia",
+      "v": "neutral",
+      "h2h": {
+        "balls": 8,
+        "runs": 3,
+        "dismissals": 0,
+        "strike_rate": 37.5
+      },
+      "vs_t": {
+        "runs": 32,
+        "balls": 33,
+        "dismissals": 1,
+        "average": 32.0,
+        "strike_rate": 96.97
+      },
+      "b_f": [
+        32,
+        27,
+        3
+      ],
+      "w_f": [
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "K Sonavale",
+      "bat_t": "Oman",
+      "bowl": "XC Bartlett",
+      "bowl_t": "Australia",
+      "v": "neutral",
+      "h2h": {
+        "balls": 7,
+        "runs": 5,
+        "dismissals": 0,
+        "strike_rate": 71.43
+      },
+      "vs_t": {
+        "runs": 12,
+        "balls": 11,
+        "dismissals": 1,
+        "average": 12.0,
+        "strike_rate": 109.09
+      },
+      "b_f": [
+        12,
+        0
+      ],
+      "w_f": [
+        2,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "TM Head",
+      "bat_t": "Australia",
+      "bowl": "Jay Odedra",
+      "bowl_t": "Oman",
+      "v": "batsman",
+      "h2h": {
+        "balls": 7,
+        "runs": 12,
+        "dismissals": 0,
+        "strike_rate": 171.43
+      },
+      "vs_t": {
+        "runs": 44,
+        "balls": 29,
+        "dismissals": 2,
+        "average": 22.0,
+        "strike_rate": 151.72
+      },
+      "b_f": [
+        32,
+        56,
+        17
+      ],
+      "w_f": [
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "MR Marsh",
+      "bat_t": "Australia",
+      "bowl": "Wasim Ali",
+      "bowl_t": "Oman",
+      "v": "batsman",
+      "h2h": {
+        "balls": 6,
+        "runs": 18,
+        "dismissals": 0,
+        "strike_rate": 300.0
+      },
+      "vs_t": {
+        "runs": 78,
+        "balls": 54,
+        "dismissals": 1,
+        "average": 78.0,
+        "strike_rate": 144.44
+      },
+      "b_f": [
+        64,
+        54
+      ],
+      "w_f": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "MP Stoinis",
+      "bat_t": "Australia",
+      "bowl": "Shakeel Ahmed",
+      "bowl_t": "Oman",
+      "v": "batsman",
+      "h2h": {
+        "balls": 6,
+        "runs": 6,
+        "dismissals": 0,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 67,
+        "balls": 36,
+        "dismissals": 0,
+        "average": 67.0,
+        "strike_rate": 186.11
+      },
+      "b_f": [
+        4,
+        6,
+        45
+      ],
+      "w_f": [
+        1,
+        3,
+        0
+      ]
+    },
+    {
+      "bat": "MR Marsh",
+      "bat_t": "Australia",
+      "bowl": "Jay Odedra",
+      "bowl_t": "Oman",
+      "v": "batsman",
+      "h2h": {
+        "balls": 5,
+        "runs": 9,
+        "dismissals": 0,
+        "strike_rate": 180.0
+      },
+      "vs_t": {
+        "runs": 78,
+        "balls": 54,
+        "dismissals": 1,
+        "average": 78.0,
+        "strike_rate": 144.44
+      },
+      "b_f": [
+        64,
+        54
+      ],
+      "w_f": [
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "Wasim Ali",
+      "bat_t": "Oman",
+      "bowl": "XC Bartlett",
+      "bowl_t": "Australia",
+      "v": "neutral",
+      "h2h": {
+        "balls": 4,
+        "runs": 5,
+        "dismissals": 0,
+        "strike_rate": 125.0
+      },
+      "vs_t": {
+        "runs": 32,
+        "balls": 33,
+        "dismissals": 1,
+        "average": 32.0,
+        "strike_rate": 96.97
+      },
+      "b_f": [
+        32,
+        27,
+        3
+      ],
+      "w_f": [
+        2,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "Wasim Ali",
+      "bat_t": "Oman",
+      "bowl": "MP Stoinis",
+      "bowl_t": "Australia",
+      "v": "neutral",
+      "h2h": {
+        "balls": 4,
+        "runs": 6,
+        "dismissals": 0,
+        "strike_rate": 150.0
+      },
+      "vs_t": {
+        "runs": 32,
+        "balls": 33,
+        "dismissals": 1,
+        "average": 32.0,
+        "strike_rate": 96.97
+      },
+      "b_f": [
+        32,
+        27,
+        3
+      ],
+      "w_f": [
+        1,
+        2,
+        1
+      ]
+    },
+    {
+      "bat": "Jatinder Singh",
+      "bat_t": "Oman",
+      "bowl": "MP Stoinis",
+      "bowl_t": "Australia",
+      "v": "neutral",
+      "h2h": {
+        "balls": 4,
+        "runs": 6,
+        "dismissals": 0,
+        "strike_rate": 150.0
+      },
+      "vs_t": {
+        "runs": 17,
+        "balls": 16,
+        "dismissals": 1,
+        "average": 17.0,
+        "strike_rate": 106.25
+      },
+      "b_f": [
+        17,
+        7,
+        1
+      ],
+      "w_f": [
+        1,
+        2,
+        1
+      ]
+    },
+    {
+      "bat": "Shakeel Ahmed",
+      "bat_t": "Oman",
+      "bowl": "GJ Maxwell",
+      "bowl_t": "Australia",
+      "v": "bowler",
+      "h2h": {
+        "balls": 4,
+        "runs": 1,
+        "dismissals": 0,
+        "strike_rate": 25.0
+      },
+      "vs_t": {
+        "runs": 14,
+        "balls": 18,
+        "dismissals": 2,
+        "average": 7.0,
+        "strike_rate": 77.78
+      },
+      "b_f": [
+        3,
+        4,
+        4
+      ],
+      "w_f": [
+        2,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "Shakeel Ahmed",
+      "bat_t": "Oman",
+      "bowl": "MP Stoinis",
+      "bowl_t": "Australia",
+      "v": "bowler",
+      "h2h": {
+        "balls": 4,
+        "runs": 7,
+        "dismissals": 0,
+        "strike_rate": 175.0
+      },
+      "vs_t": {
+        "runs": 14,
+        "balls": 18,
+        "dismissals": 2,
+        "average": 7.0,
+        "strike_rate": 77.78
+      },
+      "b_f": [
+        3,
+        4,
+        4
+      ],
+      "w_f": [
+        1,
+        2,
+        1
+      ]
+    },
+    {
+      "bat": "Wasim Ali",
+      "bat_t": "Oman",
+      "bowl": "NT Ellis",
+      "bowl_t": "Australia",
+      "v": "neutral",
+      "h2h": {
+        "balls": 3,
+        "runs": 1,
+        "dismissals": 0,
+        "strike_rate": 33.33
+      },
+      "vs_t": {
+        "runs": 32,
+        "balls": 33,
+        "dismissals": 1,
+        "average": 32.0,
+        "strike_rate": 96.97
+      },
+      "b_f": [
+        32,
+        27,
+        3
+      ],
+      "w_f": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "Jay Odedra",
+      "bat_t": "Oman",
+      "bowl": "GJ Maxwell",
+      "bowl_t": "Australia",
+      "v": "neutral",
+      "h2h": {
+        "balls": 3,
+        "runs": 4,
+        "dismissals": 0,
+        "strike_rate": 133.33
+      },
+      "vs_t": {
+        "runs": 4,
+        "balls": 3,
+        "dismissals": 0,
+        "average": 4.0,
+        "strike_rate": 133.33
+      },
+      "b_f": [
+        4,
+        4
+      ],
+      "w_f": [
+        2,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "Hammad Mirza",
+      "bat_t": "Oman",
+      "bowl": "NT Ellis",
+      "bowl_t": "Australia",
+      "v": "neutral",
+      "h2h": {
+        "balls": 3,
+        "runs": 2,
+        "dismissals": 0,
+        "strike_rate": 66.67
+      },
+      "vs_t": {
+        "runs": 16,
+        "balls": 14,
+        "dismissals": 1,
+        "average": 16.0,
+        "strike_rate": 114.29
+      },
+      "b_f": [
+        16,
+        46,
+        9
+      ],
+      "w_f": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "Hammad Mirza",
+      "bat_t": "Oman",
+      "bowl": "XC Bartlett",
+      "bowl_t": "Australia",
+      "v": "neutral",
+      "h2h": {
+        "balls": 3,
+        "runs": 6,
+        "dismissals": 0,
+        "strike_rate": 200.0
+      },
+      "vs_t": {
+        "runs": 16,
+        "balls": 14,
+        "dismissals": 1,
+        "average": 16.0,
+        "strike_rate": 114.29
+      },
+      "b_f": [
+        16,
+        46,
+        9
+      ],
+      "w_f": [
+        2,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "Hammad Mirza",
+      "bat_t": "Oman",
+      "bowl": "C Green",
+      "bowl_t": "Australia",
+      "v": "neutral",
+      "h2h": {
+        "balls": 3,
+        "runs": 7,
+        "dismissals": 0,
+        "strike_rate": 233.33
+      },
+      "vs_t": {
+        "runs": 16,
+        "balls": 14,
+        "dismissals": 1,
+        "average": 16.0,
+        "strike_rate": 114.29
+      },
+      "b_f": [
+        16,
+        46,
+        9
+      ],
+      "w_f": [
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "V Shukla",
+      "bat_t": "Oman",
+      "bowl": "GJ Maxwell",
+      "bowl_t": "Australia",
+      "v": "neutral",
+      "h2h": {
+        "balls": 3,
+        "runs": 4,
+        "dismissals": 0,
+        "strike_rate": 133.33
+      },
+      "vs_t": {
+        "runs": 9,
+        "balls": 8,
+        "dismissals": 1,
+        "average": 9.0,
+        "strike_rate": 112.5
+      },
+      "b_f": [
+        9,
+        0,
+        1
+      ],
+      "w_f": [
+        2,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "V Shukla",
+      "bat_t": "Oman",
+      "bowl": "NT Ellis",
+      "bowl_t": "Australia",
+      "v": "neutral",
+      "h2h": {
+        "balls": 3,
+        "runs": 1,
+        "dismissals": 0,
+        "strike_rate": 33.33
+      },
+      "vs_t": {
+        "runs": 9,
+        "balls": 8,
+        "dismissals": 1,
+        "average": 9.0,
+        "strike_rate": 112.5
+      },
+      "b_f": [
+        9,
+        0,
+        1
+      ],
+      "w_f": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "JP Inglis",
+      "bat_t": "Australia",
+      "bowl": "J Ramanandi",
+      "bowl_t": "Oman",
+      "v": "neutral",
+      "h2h": {
+        "balls": 3,
+        "runs": 9,
+        "dismissals": 0,
+        "strike_rate": 300.0
+      },
+      "vs_t": {
+        "runs": 12,
+        "balls": 6,
+        "dismissals": 0,
+        "average": 12.0,
+        "strike_rate": 200.0
+      },
+      "b_f": [
+        12,
+        27,
+        8
+      ],
+      "w_f": [
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "bat": "JP Inglis",
+      "bat_t": "Australia",
+      "bowl": "Shakeel Ahmed",
+      "bowl_t": "Oman",
+      "v": "neutral",
+      "h2h": {
+        "balls": 3,
+        "runs": 3,
+        "dismissals": 0,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 12,
+        "balls": 6,
+        "dismissals": 0,
+        "average": 12.0,
+        "strike_rate": 200.0
+      },
+      "b_f": [
+        12,
+        27,
+        8
+      ],
+      "w_f": [
+        1,
+        3,
+        0
+      ]
+    },
+    {
+      "bat": "TM Head",
+      "bat_t": "Australia",
+      "bowl": "Shafiq Jan",
+      "bowl_t": "Oman",
+      "v": "bowler",
+      "h2h": {
+        "balls": 3,
+        "runs": 9,
+        "dismissals": 0,
+        "strike_rate": 300.0
+      },
+      "vs_t": {
+        "runs": 44,
+        "balls": 29,
+        "dismissals": 2,
+        "average": 22.0,
+        "strike_rate": 151.72
+      },
+      "b_f": [
+        32,
+        56,
+        17
+      ],
+      "w_f": [
+        0
+      ]
+    },
+    {
+      "bat": "Jatinder Singh",
+      "bat_t": "Oman",
+      "bowl": "NT Ellis",
+      "bowl_t": "Australia",
+      "v": "neutral",
+      "h2h": {
+        "balls": 2,
+        "runs": 1,
+        "dismissals": 0,
+        "strike_rate": 50.0
+      },
+      "vs_t": {
+        "runs": 17,
+        "balls": 16,
+        "dismissals": 1,
+        "average": 17.0,
+        "strike_rate": 106.25
+      },
+      "b_f": [
+        17,
+        7,
+        1
+      ],
+      "w_f": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "K Sonavale",
+      "bat_t": "Oman",
+      "bowl": "MP Stoinis",
+      "bowl_t": "Australia",
+      "v": "neutral",
+      "h2h": {
+        "balls": 2,
+        "runs": 3,
+        "dismissals": 0,
+        "strike_rate": 150.0
+      },
+      "vs_t": {
+        "runs": 12,
+        "balls": 11,
+        "dismissals": 1,
+        "average": 12.0,
+        "strike_rate": 109.09
+      },
+      "b_f": [
+        12,
+        0
+      ],
+      "w_f": [
+        1,
+        2,
+        1
+      ]
+    },
+    {
+      "bat": "J Ramanandi",
+      "bat_t": "Oman",
+      "bowl": "MP Stoinis",
+      "bowl_t": "Australia",
+      "v": "neutral",
+      "h2h": {
+        "balls": 1,
+        "runs": 1,
+        "dismissals": 0,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 1,
+        "balls": 3,
+        "dismissals": 1,
+        "average": 1.0,
+        "strike_rate": 33.33
+      },
+      "b_f": [
+        1,
+        3,
+        0
+      ],
+      "w_f": [
+        1,
+        2,
+        1
+      ]
+    },
+    {
+      "bat": "Mohammad Nadeem",
+      "bat_t": "Oman",
+      "bowl": "C Green",
+      "bowl_t": "Australia",
+      "v": "neutral",
+      "h2h": {
+        "balls": 1,
+        "runs": 1,
+        "dismissals": 0,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 2,
+        "balls": 3,
+        "dismissals": 1,
+        "average": 2.0,
+        "strike_rate": 66.67
+      },
+      "b_f": [
+        2,
+        1,
+        53
+      ],
+      "w_f": [
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "V Shukla",
+      "bat_t": "Oman",
+      "bowl": "A Zampa",
+      "bowl_t": "Australia",
+      "v": "neutral",
+      "h2h": {
+        "balls": 1,
+        "runs": 4,
+        "dismissals": 0,
+        "strike_rate": 400.0
+      },
+      "vs_t": {
+        "runs": 9,
+        "balls": 8,
+        "dismissals": 1,
+        "average": 9.0,
+        "strike_rate": 112.5
+      },
+      "b_f": [
+        9,
+        0,
+        1
+      ],
+      "w_f": [
+        4,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "MR Marsh",
+      "bat_t": "Australia",
+      "bowl": "J Ramanandi",
+      "bowl_t": "Oman",
+      "v": "batsman",
+      "h2h": {
+        "balls": 1,
+        "runs": 1,
+        "dismissals": 0,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 78,
+        "balls": 54,
+        "dismissals": 1,
+        "average": 78.0,
+        "strike_rate": 144.44
+      },
+      "b_f": [
+        64,
+        54
+      ],
+      "w_f": [
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "bat": "Wasim Ali",
+      "bat_t": "Oman",
+      "bowl": "MR Marsh",
+      "bowl_t": "Australia",
+      "v": "neutral",
+      "vs_t": {
+        "runs": 32,
+        "balls": 33,
+        "dismissals": 1,
+        "average": 32.0,
+        "strike_rate": 96.97
+      },
+      "b_f": [
+        32,
+        27,
+        3
+      ]
+    },
+    {
+      "bat": "Wasim Ali",
+      "bat_t": "Oman",
+      "bowl": "JP Inglis",
+      "bowl_t": "Australia",
+      "v": "neutral",
+      "vs_t": {
+        "runs": 32,
+        "balls": 33,
+        "dismissals": 1,
+        "average": 32.0,
+        "strike_rate": 96.97
+      },
+      "b_f": [
+        32,
+        27,
+        3
+      ]
+    },
+    {
+      "bat": "Wasim Ali",
+      "bat_t": "Oman",
+      "bowl": "TM Head",
+      "bowl_t": "Australia",
+      "v": "neutral",
+      "vs_t": {
+        "runs": 32,
+        "balls": 33,
+        "dismissals": 1,
+        "average": 32.0,
+        "strike_rate": 96.97
+      },
+      "b_f": [
+        32,
+        27,
+        3
+      ]
+    },
+    {
+      "bat": "J Ramanandi",
+      "bat_t": "Oman",
+      "bowl": "MR Marsh",
+      "bowl_t": "Australia",
+      "v": "neutral",
+      "vs_t": {
+        "runs": 1,
+        "balls": 3,
+        "dismissals": 1,
+        "average": 1.0,
+        "strike_rate": 33.33
+      },
+      "b_f": [
+        1,
+        3,
+        0
+      ]
+    },
+    {
+      "bat": "J Ramanandi",
+      "bat_t": "Oman",
+      "bowl": "NT Ellis",
+      "bowl_t": "Australia",
+      "v": "neutral",
+      "vs_t": {
+        "runs": 1,
+        "balls": 3,
+        "dismissals": 1,
+        "average": 1.0,
+        "strike_rate": 33.33
+      },
+      "b_f": [
+        1,
+        3,
+        0
+      ],
+      "w_f": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "J Ramanandi",
+      "bat_t": "Oman",
+      "bowl": "A Zampa",
+      "bowl_t": "Australia",
+      "v": "neutral",
+      "vs_t": {
+        "runs": 1,
+        "balls": 3,
+        "dismissals": 1,
+        "average": 1.0,
+        "strike_rate": 33.33
+      },
+      "b_f": [
+        1,
+        3,
+        0
+      ],
+      "w_f": [
+        4,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "J Ramanandi",
+      "bat_t": "Oman",
+      "bowl": "JP Inglis",
+      "bowl_t": "Australia",
+      "v": "neutral",
+      "vs_t": {
+        "runs": 1,
+        "balls": 3,
+        "dismissals": 1,
+        "average": 1.0,
+        "strike_rate": 33.33
+      },
+      "b_f": [
+        1,
+        3,
+        0
+      ]
+    },
+    {
+      "bat": "J Ramanandi",
+      "bat_t": "Oman",
+      "bowl": "XC Bartlett",
+      "bowl_t": "Australia",
+      "v": "neutral",
+      "vs_t": {
+        "runs": 1,
+        "balls": 3,
+        "dismissals": 1,
+        "average": 1.0,
+        "strike_rate": 33.33
+      },
+      "b_f": [
+        1,
+        3,
+        0
+      ],
+      "w_f": [
+        2,
+        0,
+        0
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1141 @@
+{
+    "match_id": "1512737",
+    "metadata": {
+        "tournament": "2025/26",
+        "venue": "R Premadasa Stadium, Colombo",
+        "date": "2026-02-13",
+        "stage": "ICC Men's T20 World Cup",
+        "winner": "Zimbabwe",
+        "loser": "Australia",
+        "win_classification": "Moderate",
+        "margin_runs": 23,
+        "margin_wickets": null,
+        "competitiveness_index": 85.0,
+        "teams": {
+            "Zimbabwe": {
+                "captain": "BJ Bennett",
+                "playing_xi_count": 9
+            },
+            "Australia": {
+                "captain": "MT Renshaw",
+                "playing_xi_count": 11
+            }
+        },
+        "team_summary": {
+            "Zimbabwe": {
+                "run_rate": 8.45,
+                "fours": 20,
+                "sixes": 1,
+                "boundary_runs": 86,
+                "dot_balls": 42,
+                "total_runs": 169,
+                "total_wickets": 2
+            },
+            "Australia": {
+                "run_rate": 7.49,
+                "fours": 11,
+                "sixes": 3,
+                "boundary_runs": 62,
+                "dot_balls": 36,
+                "total_runs": 146,
+                "total_wickets": 10
+            }
+        },
+        "formulas": {
+            "competitiveness": "Base(Margin) + Pressure_Bonus(L5 Overs)",
+            "pressure": "((RR_Gap / Start_RR) * 40) + ((Wickets / 10) * 60)",
+            "batting_impact": "Runs + (SR/Match_SR * 25)",
+            "bowling_impact": "(Wickets * 30) + (Match_RR/Econ * 20)"
+        }
+    },
+    "scorecards": {
+        "batting": [
+            {
+                "player": "BJ Bennett",
+                "team": "Zimbabwe",
+                "runs": 64,
+                "balls": 58,
+                "sr": 110.34,
+                "fours": 7,
+                "sixes": 0,
+                "win_contribution_percent": 37.9,
+                "score": 86.36
+            },
+            {
+                "player": "RP Burl",
+                "team": "Zimbabwe",
+                "runs": 35,
+                "balls": 32,
+                "sr": 109.38,
+                "fours": 4,
+                "sixes": 0,
+                "win_contribution_percent": 20.7,
+                "score": 57.17
+            },
+            {
+                "player": "T Marumani",
+                "team": "Zimbabwe",
+                "runs": 35,
+                "balls": 22,
+                "sr": 159.09,
+                "fours": 7,
+                "sixes": 0,
+                "win_contribution_percent": 20.7,
+                "score": 67.24
+            },
+            {
+                "player": "Sikandar Raza",
+                "team": "Zimbabwe",
+                "runs": 25,
+                "balls": 13,
+                "sr": 192.31,
+                "fours": 2,
+                "sixes": 1,
+                "win_contribution_percent": 14.8,
+                "score": 63.97
+            },
+            {
+                "player": "MT Renshaw",
+                "team": "Australia",
+                "runs": 65,
+                "balls": 46,
+                "sr": 141.3,
+                "fours": 5,
+                "sixes": 1,
+                "win_contribution_percent": 44.5,
+                "score": 93.64
+            },
+            {
+                "player": "GJ Maxwell",
+                "team": "Australia",
+                "runs": 31,
+                "balls": 32,
+                "sr": 96.88,
+                "fours": 1,
+                "sixes": 1,
+                "win_contribution_percent": 21.2,
+                "score": 50.63
+            },
+            {
+                "player": "TM Head",
+                "team": "Australia",
+                "runs": 17,
+                "balls": 15,
+                "sr": 113.33,
+                "fours": 3,
+                "sixes": 0,
+                "win_contribution_percent": 11.6,
+                "score": 39.97
+            },
+            {
+                "player": "JP Inglis",
+                "team": "Australia",
+                "runs": 8,
+                "balls": 4,
+                "sr": 200.0,
+                "fours": 0,
+                "sixes": 1,
+                "win_contribution_percent": 5.5,
+                "score": 48.53
+            },
+            {
+                "player": "NT Ellis",
+                "team": "Australia",
+                "runs": 7,
+                "balls": 4,
+                "sr": 175.0,
+                "fours": 1,
+                "sixes": 0,
+                "win_contribution_percent": 4.8,
+                "score": 42.47
+            },
+            {
+                "player": "BJ Dwarshuis",
+                "team": "Australia",
+                "runs": 6,
+                "balls": 7,
+                "sr": 85.71,
+                "fours": 0,
+                "sixes": 0,
+                "win_contribution_percent": 4.1,
+                "score": 23.37
+            },
+            {
+                "player": "MP Stoinis",
+                "team": "Australia",
+                "runs": 6,
+                "balls": 4,
+                "sr": 150.0,
+                "fours": 1,
+                "sixes": 0,
+                "win_contribution_percent": 4.1,
+                "score": 36.4
+            },
+            {
+                "player": "A Zampa",
+                "team": "Australia",
+                "runs": 2,
+                "balls": 2,
+                "sr": 100.0,
+                "fours": 0,
+                "sixes": 0,
+                "win_contribution_percent": 1.4,
+                "score": 22.27
+            },
+            {
+                "player": "C Green",
+                "team": "Australia",
+                "runs": 0,
+                "balls": 2,
+                "sr": 0.0,
+                "fours": 0,
+                "sixes": 0,
+                "win_contribution_percent": 0.0,
+                "score": 0.0
+            },
+            {
+                "player": "MP Kuhnemann",
+                "team": "Australia",
+                "runs": 0,
+                "balls": 1,
+                "sr": 0.0,
+                "fours": 0,
+                "sixes": 0,
+                "win_contribution_percent": 0.0,
+                "score": 0.0
+            },
+            {
+                "player": "TH David",
+                "team": "Australia",
+                "runs": 0,
+                "balls": 2,
+                "sr": 0.0,
+                "fours": 0,
+                "sixes": 0,
+                "win_contribution_percent": 0.0,
+                "score": 0.0
+            }
+        ],
+        "bowling": [
+            {
+                "player": "C Green",
+                "team": "Australia",
+                "overs": 1.1,
+                "runs": 7,
+                "wickets": 1,
+                "econ": 6.0,
+                "score": 55.82,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "MP Stoinis",
+                "team": "Australia",
+                "overs": 2.5,
+                "runs": 19,
+                "wickets": 1,
+                "econ": 6.71,
+                "score": 53.09,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "A Zampa",
+                "team": "Australia",
+                "overs": 4.0,
+                "runs": 31,
+                "wickets": 0,
+                "econ": 7.75,
+                "score": 19.99,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "MP Kuhnemann",
+                "team": "Australia",
+                "overs": 3.0,
+                "runs": 24,
+                "wickets": 0,
+                "econ": 8.0,
+                "score": 19.36,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "NT Ellis",
+                "team": "Australia",
+                "overs": 4.0,
+                "runs": 34,
+                "wickets": 0,
+                "econ": 8.5,
+                "score": 18.23,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "BJ Dwarshuis",
+                "team": "Australia",
+                "overs": 4.0,
+                "runs": 40,
+                "wickets": 0,
+                "econ": 10.0,
+                "score": 15.49,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "GJ Maxwell",
+                "team": "Australia",
+                "overs": 1.0,
+                "runs": 14,
+                "wickets": 0,
+                "econ": 14.0,
+                "score": 11.07,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "B Muzarabani",
+                "team": "Zimbabwe",
+                "overs": 4.0,
+                "runs": 19,
+                "wickets": 4,
+                "econ": 4.75,
+                "score": 150.0,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "B Evans",
+                "team": "Zimbabwe",
+                "overs": 3.3,
+                "runs": 23,
+                "wickets": 3,
+                "econ": 6.57,
+                "score": 113.58,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "RP Burl",
+                "team": "Zimbabwe",
+                "overs": 1.0,
+                "runs": 9,
+                "wickets": 1,
+                "econ": 9.0,
+                "score": 47.21,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "WP Masakadza",
+                "team": "Zimbabwe",
+                "overs": 4.0,
+                "runs": 36,
+                "wickets": 1,
+                "econ": 9.0,
+                "score": 47.21,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "AG Cremer",
+                "team": "Zimbabwe",
+                "overs": 4.0,
+                "runs": 33,
+                "wickets": 0,
+                "econ": 8.25,
+                "score": 18.78,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "Sikandar Raza",
+                "team": "Zimbabwe",
+                "overs": 2.0,
+                "runs": 17,
+                "wickets": 0,
+                "econ": 8.5,
+                "score": 18.23,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "D Myers",
+                "team": "Zimbabwe",
+                "overs": 1.0,
+                "runs": 9,
+                "wickets": 0,
+                "econ": 9.0,
+                "score": 17.21,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            }
+        ]
+    },
+    "innings": [
+        {
+            "innings": 1,
+            "team": "Zimbabwe",
+            "total_runs": 169,
+            "total_wickets": 2,
+            "balls_faced": 120,
+            "overs_faced": 20.0,
+            "phase_analysis": {
+                "Powerplay": {
+                    "runs": 47,
+                    "wkts": 0,
+                    "rr": 7.83
+                },
+                "Middle": {
+                    "runs": 78,
+                    "wkts": 1,
+                    "rr": 8.67
+                },
+                "Death": {
+                    "runs": 44,
+                    "wkts": 1,
+                    "rr": 8.8
+                }
+            }
+        },
+        {
+            "innings": 2,
+            "team": "Australia",
+            "total_runs": 146,
+            "total_wickets": 10,
+            "balls_faced": 117,
+            "overs_faced": 19.3,
+            "phase_analysis": {
+                "Powerplay": {
+                    "runs": 38,
+                    "wkts": 4,
+                    "rr": 6.33
+                },
+                "Middle": {
+                    "runs": 76,
+                    "wkts": 1,
+                    "rr": 8.44
+                },
+                "Death": {
+                    "runs": 32,
+                    "wkts": 5,
+                    "rr": 7.11
+                }
+            },
+            "pressure_index": 100.0,
+            "target": 170
+        }
+    ],
+    "players": [
+        {
+            "player": "B Muzarabani",
+            "team": "Zimbabwe",
+            "overs": 4.0,
+            "runs": 19,
+            "wickets": 4,
+            "econ": 4.75,
+            "score": 150.0,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-19r-4w"
+        },
+        {
+            "player": "B Evans",
+            "team": "Zimbabwe",
+            "overs": 3.3,
+            "runs": 23,
+            "wickets": 3,
+            "econ": 6.57,
+            "score": 113.58,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "3.3o-23r-3w"
+        },
+        {
+            "player": "MT Renshaw",
+            "team": "Australia",
+            "runs": 65,
+            "balls": 46,
+            "sr": 141.3,
+            "fours": 5,
+            "sixes": 1,
+            "win_contribution_percent": 44.5,
+            "score": 93.64,
+            "role": "batting",
+            "match_stats": "65(46)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "BJ Bennett",
+            "team": "Zimbabwe",
+            "runs": 64,
+            "balls": 58,
+            "sr": 110.34,
+            "fours": 7,
+            "sixes": 0,
+            "win_contribution_percent": 37.9,
+            "score": 86.36,
+            "role": "batting",
+            "match_stats": "64(58)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "T Marumani",
+            "team": "Zimbabwe",
+            "runs": 35,
+            "balls": 22,
+            "sr": 159.09,
+            "fours": 7,
+            "sixes": 0,
+            "win_contribution_percent": 20.7,
+            "score": 67.24,
+            "role": "batting",
+            "match_stats": "35(22)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "Sikandar Raza",
+            "team": "Zimbabwe",
+            "runs": 25,
+            "balls": 13,
+            "sr": 192.31,
+            "fours": 2,
+            "sixes": 1,
+            "win_contribution_percent": 14.8,
+            "score": 63.97,
+            "role": "batting",
+            "match_stats": "25(13)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "RP Burl",
+            "team": "Zimbabwe",
+            "runs": 35,
+            "balls": 32,
+            "sr": 109.38,
+            "fours": 4,
+            "sixes": 0,
+            "win_contribution_percent": 20.7,
+            "score": 57.17,
+            "role": "batting",
+            "match_stats": "35(32)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "C Green",
+            "team": "Australia",
+            "overs": 1.1,
+            "runs": 7,
+            "wickets": 1,
+            "econ": 6.0,
+            "score": 55.82,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "1.1o-7r-1w"
+        },
+        {
+            "player": "MP Stoinis",
+            "team": "Australia",
+            "overs": 2.5,
+            "runs": 19,
+            "wickets": 1,
+            "econ": 6.71,
+            "score": 53.09,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "2.5o-19r-1w"
+        },
+        {
+            "player": "GJ Maxwell",
+            "team": "Australia",
+            "runs": 31,
+            "balls": 32,
+            "sr": 96.88,
+            "fours": 1,
+            "sixes": 1,
+            "win_contribution_percent": 21.2,
+            "score": 50.63,
+            "role": "batting",
+            "match_stats": "31(32)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "JP Inglis",
+            "team": "Australia",
+            "runs": 8,
+            "balls": 4,
+            "sr": 200.0,
+            "fours": 0,
+            "sixes": 1,
+            "win_contribution_percent": 5.5,
+            "score": 48.53,
+            "role": "batting",
+            "match_stats": "8(4)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "RP Burl",
+            "team": "Zimbabwe",
+            "overs": 1.0,
+            "runs": 9,
+            "wickets": 1,
+            "econ": 9.0,
+            "score": 47.21,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "1.0o-9r-1w"
+        },
+        {
+            "player": "WP Masakadza",
+            "team": "Zimbabwe",
+            "overs": 4.0,
+            "runs": 36,
+            "wickets": 1,
+            "econ": 9.0,
+            "score": 47.21,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-36r-1w"
+        },
+        {
+            "player": "NT Ellis",
+            "team": "Australia",
+            "runs": 7,
+            "balls": 4,
+            "sr": 175.0,
+            "fours": 1,
+            "sixes": 0,
+            "win_contribution_percent": 4.8,
+            "score": 42.47,
+            "role": "batting",
+            "match_stats": "7(4)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "TM Head",
+            "team": "Australia",
+            "runs": 17,
+            "balls": 15,
+            "sr": 113.33,
+            "fours": 3,
+            "sixes": 0,
+            "win_contribution_percent": 11.6,
+            "score": 39.97,
+            "role": "batting",
+            "match_stats": "17(15)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "MP Stoinis",
+            "team": "Australia",
+            "runs": 6,
+            "balls": 4,
+            "sr": 150.0,
+            "fours": 1,
+            "sixes": 0,
+            "win_contribution_percent": 4.1,
+            "score": 36.4,
+            "role": "batting",
+            "match_stats": "6(4)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "BJ Dwarshuis",
+            "team": "Australia",
+            "runs": 6,
+            "balls": 7,
+            "sr": 85.71,
+            "fours": 0,
+            "sixes": 0,
+            "win_contribution_percent": 4.1,
+            "score": 23.37,
+            "role": "batting",
+            "match_stats": "6(7)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "A Zampa",
+            "team": "Australia",
+            "runs": 2,
+            "balls": 2,
+            "sr": 100.0,
+            "fours": 0,
+            "sixes": 0,
+            "win_contribution_percent": 1.4,
+            "score": 22.27,
+            "role": "batting",
+            "match_stats": "2(2)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "A Zampa",
+            "team": "Australia",
+            "overs": 4.0,
+            "runs": 31,
+            "wickets": 0,
+            "econ": 7.75,
+            "score": 19.99,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-31r-0w"
+        },
+        {
+            "player": "MP Kuhnemann",
+            "team": "Australia",
+            "overs": 3.0,
+            "runs": 24,
+            "wickets": 0,
+            "econ": 8.0,
+            "score": 19.36,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "3.0o-24r-0w"
+        },
+        {
+            "player": "AG Cremer",
+            "team": "Zimbabwe",
+            "overs": 4.0,
+            "runs": 33,
+            "wickets": 0,
+            "econ": 8.25,
+            "score": 18.78,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-33r-0w"
+        },
+        {
+            "player": "NT Ellis",
+            "team": "Australia",
+            "overs": 4.0,
+            "runs": 34,
+            "wickets": 0,
+            "econ": 8.5,
+            "score": 18.23,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-34r-0w"
+        },
+        {
+            "player": "Sikandar Raza",
+            "team": "Zimbabwe",
+            "overs": 2.0,
+            "runs": 17,
+            "wickets": 0,
+            "econ": 8.5,
+            "score": 18.23,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "2.0o-17r-0w"
+        },
+        {
+            "player": "D Myers",
+            "team": "Zimbabwe",
+            "overs": 1.0,
+            "runs": 9,
+            "wickets": 0,
+            "econ": 9.0,
+            "score": 17.21,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "1.0o-9r-0w"
+        },
+        {
+            "player": "BJ Dwarshuis",
+            "team": "Australia",
+            "overs": 4.0,
+            "runs": 40,
+            "wickets": 0,
+            "econ": 10.0,
+            "score": 15.49,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-40r-0w"
+        },
+        {
+            "player": "GJ Maxwell",
+            "team": "Australia",
+            "overs": 1.0,
+            "runs": 14,
+            "wickets": 0,
+            "econ": 14.0,
+            "score": 11.07,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "1.0o-14r-0w"
+        },
+        {
+            "player": "C Green",
+            "team": "Australia",
+            "runs": 0,
+            "balls": 2,
+            "sr": 0.0,
+            "fours": 0,
+            "sixes": 0,
+            "win_contribution_percent": 0.0,
+            "score": 0.0,
+            "role": "batting",
+            "match_stats": "0(2)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "MP Kuhnemann",
+            "team": "Australia",
+            "runs": 0,
+            "balls": 1,
+            "sr": 0.0,
+            "fours": 0,
+            "sixes": 0,
+            "win_contribution_percent": 0.0,
+            "score": 0.0,
+            "role": "batting",
+            "match_stats": "0(1)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "TH David",
+            "team": "Australia",
+            "runs": 0,
+            "balls": 2,
+            "sr": 0.0,
+            "fours": 0,
+            "sixes": 0,
+            "win_contribution_percent": 0.0,
+            "score": 0.0,
+            "role": "batting",
+            "match_stats": "0(2)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        }
+    ],
+    "validation": {
+        "logical_stability": true
+    }
+}

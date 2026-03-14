@@ -1,0 +1,363 @@
+{
+    "match_context": {
+        "match_id": "1512748",
+        "date": "2026-02-16",
+        "tournament": "2025/26",
+        "venue": "Pallekele International Cricket Stadium",
+        "stage": "ICC Men's T20 World Cup",
+        "Teams": {
+            "Australia": {
+                "captain": "MR Marsh",
+                "playing_xi_count": 11
+            },
+            "Sri Lanka": {
+                "captain": "P Nissanka",
+                "playing_xi_count": 11
+            }
+        }
+    },
+    "Match_Result": {
+        "summary": "Sri Lanka won by 8 wickets",
+        "winner": "Sri Lanka",
+        "margin": 8,
+        "margin_type": "wickets"
+    },
+    "Scorecard_Highlights": {
+        "Key_Support_Performers": [
+            {
+                "player": "JP Inglis",
+                "team": "Australia",
+                "runs": 27,
+                "balls": 22,
+                "sr": 122.73,
+                "fours": 3,
+                "sixes": 0,
+                "win_contribution_percent": 14.9,
+                "score": 47.34
+            },
+            {
+                "player": "GJ Maxwell",
+                "team": "Australia",
+                "runs": 22,
+                "balls": 15,
+                "sr": 146.67,
+                "fours": 1,
+                "sixes": 1,
+                "win_contribution_percent": 12.2,
+                "score": 46.31
+            }
+        ],
+        "Career_vs_Match_Bowling": [],
+        "Bowling_Standouts": {
+            "Economical_Spells": [],
+            "Expensive_Spells": [],
+            "High_Economy_No_Baseline": [
+                {
+                    "player": "MD Shanaka",
+                    "team": "Sri Lanka",
+                    "overs": 1.2,
+                    "runs": 16,
+                    "wickets": 0,
+                    "econ": 12.0,
+                    "score": 15.47,
+                    "bowling_baseline": {
+                        "career_wickets": 0,
+                        "career_economy": 0.0,
+                        "career_sr": 0.0,
+                        "career_avg": 0.0,
+                        "best_bowling": "N/A",
+                        "matches": 0,
+                        "source": "none",
+                        "baseline_available": false
+                    }
+                },
+                {
+                    "player": "MP Stoinis",
+                    "team": "Australia",
+                    "overs": 4.0,
+                    "runs": 46,
+                    "wickets": 2,
+                    "econ": 11.5,
+                    "score": 76.14,
+                    "bowling_baseline": {
+                        "career_wickets": 0,
+                        "career_economy": 0.0,
+                        "career_sr": 0.0,
+                        "career_avg": 0.0,
+                        "best_bowling": "N/A",
+                        "matches": 0,
+                        "source": "none",
+                        "baseline_available": false
+                    }
+                }
+            ]
+        },
+        "Significant_Collapses": []
+    },
+    "Innings_Metrics": [
+        {
+            "innings": 1,
+            "team": "Australia",
+            "total_runs": 181,
+            "total_wickets": 10,
+            "balls_faced": 120,
+            "overs_faced": 20.0,
+            "phase_analysis": {
+                "Powerplay": {
+                    "runs": 70,
+                    "wkts": 0,
+                    "rr": 11.67
+                },
+                "Middle": {
+                    "runs": 81,
+                    "wkts": 4,
+                    "rr": 9.0
+                },
+                "Death": {
+                    "runs": 30,
+                    "wkts": 6,
+                    "rr": 6.0
+                }
+            }
+        },
+        {
+            "innings": 2,
+            "team": "Sri Lanka",
+            "total_runs": 184,
+            "total_wickets": 2,
+            "balls_faced": 108,
+            "overs_faced": 18.0,
+            "phase_analysis": {
+                "Powerplay": {
+                    "runs": 61,
+                    "wkts": 1,
+                    "rr": 10.17
+                },
+                "Middle": {
+                    "runs": 80,
+                    "wkts": 1,
+                    "rr": 8.89
+                },
+                "Death": {
+                    "runs": 43,
+                    "wkts": 0,
+                    "rr": 14.33
+                }
+            },
+            "pressure_index": 25.0,
+            "target": 182
+        }
+    ],
+    "Detailed_Impact_Analysis": [
+        {
+            "player": "P Nissanka",
+            "team": "Sri Lanka",
+            "runs": 100,
+            "balls": 55,
+            "sr": 181.82,
+            "fours": 10,
+            "sixes": 5,
+            "win_contribution_percent": 54.3,
+            "score": 130.13,
+            "role": "batting",
+            "match_stats": "100(55)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "MADI Hemantha",
+            "team": "Sri Lanka",
+            "overs": 4.0,
+            "runs": 37,
+            "wickets": 3,
+            "econ": 9.25,
+            "score": 110.06,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-37r-3w"
+        },
+        {
+            "player": "TM Head",
+            "team": "Australia",
+            "runs": 56,
+            "balls": 30,
+            "sr": 186.67,
+            "fours": 7,
+            "sixes": 3,
+            "win_contribution_percent": 30.9,
+            "score": 86.94,
+            "role": "batting",
+            "match_stats": "56(30)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "MR Marsh",
+            "team": "Australia",
+            "runs": 54,
+            "balls": 28,
+            "sr": 192.86,
+            "fours": 8,
+            "sixes": 2,
+            "win_contribution_percent": 29.8,
+            "score": 85.96,
+            "role": "batting",
+            "match_stats": "54(28)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "PVD Chameera",
+            "team": "Sri Lanka",
+            "overs": 4.0,
+            "runs": 36,
+            "wickets": 2,
+            "econ": 9.0,
+            "score": 80.62,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-36r-2w"
+        },
+        {
+            "player": "MP Stoinis",
+            "team": "Australia",
+            "overs": 4.0,
+            "runs": 46,
+            "wickets": 2,
+            "econ": 11.5,
+            "score": 76.14,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-46r-2w"
+        },
+        {
+            "player": "BKG Mendis",
+            "team": "Sri Lanka",
+            "runs": 51,
+            "balls": 39,
+            "sr": 130.77,
+            "fours": 6,
+            "sixes": 1,
+            "win_contribution_percent": 27.7,
+            "score": 72.67,
+            "role": "batting",
+            "match_stats": "51(39)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "P Rathnayake",
+            "team": "Sri Lanka",
+            "runs": 28,
+            "balls": 15,
+            "sr": 186.67,
+            "fours": 6,
+            "sixes": 0,
+            "win_contribution_percent": 15.2,
+            "score": 58.94,
+            "role": "batting",
+            "match_stats": "28(15)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "DN Wellalage",
+            "team": "Sri Lanka",
+            "overs": 4.0,
+            "runs": 33,
+            "wickets": 1,
+            "econ": 8.25,
+            "score": 52.5,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-33r-1w"
+        },
+        {
+            "player": "M Theekshana",
+            "team": "Sri Lanka",
+            "overs": 4.0,
+            "runs": 37,
+            "wickets": 1,
+            "econ": 9.25,
+            "score": 50.06,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-37r-1w"
+        }
+    ],
+    "Tactical_Post_Match_Analysis": [
+        "Sri Lanka's victory was anchored by P Nissanka, who contributed 54.3% of the team's runs.",
+        "Defensive pressure was sustained by MADI Hemantha, finishing with an impact score of 110.06.",
+        "High-scoring finish by Sri Lanka in Death Overs (RR: 14.33) shifted match momentum."
+    ]
+}

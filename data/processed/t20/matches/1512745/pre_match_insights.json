@@ -1,0 +1,129 @@
+{
+  "match_id": "1512745",
+  "ranking_races": [
+    {
+      "player": "Sahibzada Farhan",
+      "category": "batting",
+      "current_pos": 2,
+      "target_pos": 1,
+      "points_away": 26,
+      "effort_needed": "39 runs"
+    },
+    {
+      "player": "Tilak Varma",
+      "category": "batting",
+      "current_pos": 6,
+      "target_pos": 3,
+      "points_away": 54,
+      "effort_needed": "81 runs"
+    },
+    {
+      "player": "Arshdeep Singh",
+      "category": "bowling",
+      "current_pos": 13,
+      "target_pos": 10,
+      "points_away": 10,
+      "effort_needed": "1 wickets"
+    },
+    {
+      "player": "Mohammad Nawaz",
+      "category": "bowling",
+      "current_pos": 12,
+      "target_pos": 10,
+      "points_away": 5,
+      "effort_needed": "1 wickets"
+    },
+    {
+      "player": "Mohammad Nawaz",
+      "category": "all_rounder",
+      "current_pos": 8,
+      "target_pos": 5,
+      "points_away": 38,
+      "effort_needed": "57 runs or 2 wickets"
+    },
+    {
+      "player": "Saim Ayub",
+      "category": "all_rounder",
+      "current_pos": 3,
+      "target_pos": 1,
+      "points_away": 53,
+      "effort_needed": "79 runs or 4 wickets"
+    },
+    {
+      "player": "Shadab Khan",
+      "category": "all_rounder",
+      "current_pos": 22,
+      "target_pos": 10,
+      "points_away": 48,
+      "effort_needed": "72 runs or 3 wickets"
+    },
+    {
+      "player": "Abrar Ahmed",
+      "category": "bowling",
+      "current_pos": 3,
+      "target_pos": 1,
+      "points_away": 35,
+      "effort_needed": "2 wickets"
+    },
+    {
+      "player": "Ishan Kishan",
+      "category": "batting",
+      "current_pos": 4,
+      "target_pos": 3,
+      "points_away": 20,
+      "effort_needed": "30 runs"
+    }
+  ],
+  "milestone_watch": [
+    {
+      "player": "SA Yadav",
+      "type": "fours",
+      "current": 293,
+      "target": 300,
+      "needed": 7
+    },
+    {
+      "player": "SV Samson",
+      "type": "runs",
+      "current": 1399,
+      "target": 1400,
+      "needed": 1
+    },
+    {
+      "player": "RK Singh",
+      "type": "runs",
+      "current": 590,
+      "target": 600,
+      "needed": 10
+    },
+    {
+      "player": "Arshdeep Singh",
+      "type": "runs",
+      "current": 87,
+      "target": 100,
+      "needed": 13
+    },
+    {
+      "player": "Shadab Khan",
+      "type": "sixes",
+      "current": 47,
+      "target": 50,
+      "needed": 3
+    },
+    {
+      "player": "AR Patel",
+      "type": "runs",
+      "current": 690,
+      "target": 700,
+      "needed": 10
+    },
+    {
+      "player": "AR Patel",
+      "type": "fours",
+      "current": 48,
+      "target": 50,
+      "needed": 2
+    }
+  ],
+  "personal_best_watch": []
+}

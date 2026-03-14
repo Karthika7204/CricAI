@@ -1,9 +1,9 @@
 "player_name","full_name","country","format","matches","innings","total_runs","highest_score","not_outs","average","total_balls","strike_rate","fifties","hundreds","fours","sixes"
 "Abdul Samad","Abdul Samad Farooq","India","t20s",8,8,84,44,4,21,88,95.45,0,0,5,3
-"Abhishek Sharma","Abhishek Sharma","India","t20s",41,41,1312,135,4,35.46,712,184.27,8,2,125,89
+"Abhishek Sharma","Abhishek Sharma","India","t20s",45,45,1438,135,4,35.07,790,182.03,10,2,139,96
 "AM Rahane","Ajinkya Madhukar Rahane","India","t20s",20,20,375,61,2,20.83,347,108.07,1,0,32,6
 "AB Agarkar","Ajit Bhalchandra Agarkar","India","t20s",2,2,15,14,1,15,11,136.36,0,0,2,0
-"AP Yadav","Akash Yadav","India","t20s",38,38,962,79,8,32.07,949,101.37,6,0,98,19
+"AP Yadav","Akash Yadav","India","t20s",41,41,1024,79,8,31.03,1019,100.49,6,0,105,19
 "AT Rayudu","Ambati Thirupathi Rayudu","India","t20s",5,5,42,20,1,10.5,51,82.35,0,0,5,0
 "A Sharma","Amita Sharma","India","t20s",18,18,439,74,1,25.82,387,113.44,4,0,50,12
 "A Chaudhary","Anil Chaudhary","India","t20s",4,4,42,37,0,10.5,45,93.33,0,0,5,0
@@ -13,7 +13,7 @@
 "A Nehra","Ashish Nehra","India","t20s",5,5,28,22,0,5.6,42,66.67,0,0,1,2
 "AB Dinda","Ashok Bhimchandra Dinda","India","t20s",2,2,22,19,1,22,24,91.67,0,0,1,0
 "Avesh Khan","Avesh Khan","India","t20s",5,5,27,16,3,13.5,20,135,0,0,3,1
-"AR Patel","Axar Rajeshbhai Patel","India","t20s",55,55,688,65,20,19.66,548,125.55,1,0,48,28
+"AR Patel","Axar Rajeshbhai Patel","India","t20s",56,56,690,65,21,19.71,550,125.45,1,0,48,28
 "A Awasthi","Ayush Awasthi","India","t20s",5,5,11,4,1,2.75,55,20,0,0,0,0
 "BS Sandhu","Balwinder Singh Sandhu","India","t20s",1,1,2,2,0,2,5,40,0,0,0,0
 "B Kumar","Bhuvneshwar Kumar Singh","India","t20s",19,19,67,16,11,8.38,95,70.53,0,0,0,0
@@ -29,12 +29,12 @@
 "G Gambhir","Gautam Gambhir","India","t20s",34,34,918,75,3,29.61,803,114.32,7,0,108,10
 "Harbhajan Singh","Harbhajan Singh","India","t20s",12,12,108,21,4,13.5,94,114.89,0,0,11,4
 "Hardeep Singh","Hardeep Singh","India","t20s",1,1,4,4,1,4,1,400,0,0,1,0
-"HH Pandya","Hardik Himanshu Pandya","India","t20s",103,103,2109,71,28,28.12,1528,138.02,8,0,153,115
+"HH Pandya","Hardik Himanshu Pandya","India","t20s",107,107,2221,71,29,28.47,1596,139.16,9,0,161,122
 "Harmeet Singh","Harmeet Singh Bansal","India","t20s",21,21,242,38,6,16.13,173,139.88,0,0,13,15
 "HV Patel","Harshal Vikram Patel","India","t20s",10,10,77,18,4,12.83,61,126.23,0,0,9,3
 "Harshit Rana","Harshit Pradeep Rana","India","t20s",3,3,57,35,1,28.5,57,100,0,0,4,2
 "IK Pathan","Irfan Khan Pathan","India","t20s",13,13,172,33,6,24.57,146,117.81,0,0,9,7
-"Ishan Kishan","Ishan Pranav Kumar Pandey Kishan","India","t20s",41,41,1187,103,1,29.68,860,138.02,9,1,120,63
+"Ishan Kishan","Ishan Pranav Kumar Pandey Kishan","India","t20s",45,45,1328,103,1,30.18,935,142.03,10,1,134,70
 "I Sharma","Ishant Sharma","India","t20s",3,3,8,5,2,8,9,88.89,0,0,1,0
 "Jaskaran Singh","Jaskaran Singh Buttar","India","t20s",9,9,113,60,4,22.6,67,168.66,1,0,7,8
 "JJ Bumrah","Jasprit Jasbirsingh Bumrah","India","t20s",7,7,12,7,3,3,19,63.16,0,0,2,0
@@ -61,7 +61,7 @@
 "MM Patel","Munaf Musa Patel","India","t20s",1,1,0,0,0,0,1,0,0,0,0,0
 "M Vijay","Murali Vijay","India","t20s",8,8,121,46,0,15.12,119,101.68,0,0,11,5
 "NV Ojha","Naman Vinaykumar Ojha","India","t20s",2,2,12,10,0,6,28,42.86,0,0,2,0
-"Tilak Varma","Namboori Thakur Tilak Varma","India","t20s",41,41,1264,120,14,46.81,925,136.65,6,2,101,63
+"Tilak Varma","Namboori Thakur Tilak Varma","India","t20s",45,45,1364,120,16,47.03,971,140.47,6,2,108,71
 "NA Saini","Navdeep Amarjeet Saini","India","t20s",2,2,11,11,2,11,10,110,0,0,2,0
 "N Rana","Nitish Rana","India","t20s",2,2,15,9,0,7.5,30,50,0,0,0,0
 "PA Patel","Parthiv Ajay Patel","India","t20s",2,2,36,26,0,18,33,109.09,0,0,4,1
@@ -90,17 +90,18 @@
 "RD Gaikwad","Ruturaj Dashrat Gaikwad","India","t20s",19,19,633,123,4,42.2,462,137.01,4,1,65,24
 "SR Tendulkar","Sachin Ramesh Tendulkar","India","t20s",1,1,10,10,0,10,13,76.92,0,0,2,0
 "Sandeep Sharma","Sandeep Sharma","India","t20s",1,1,1,1,1,1,1,100,0,0,0,0
-"SV Samson","Sanju Viswanath Samson","India","t20s",49,49,1100,111,5,25,764,143.98,3,3,89,63
+"SV Samson","Sanju Viswanath Samson","India","t20s",53,53,1399,111,6,29.77,924,151.41,6,3,115,84
 "Saurabh Kumar","Saurabh Kumar","India","t20s",4,4,5,2,0,1.25,26,19.23,0,0,0,0
 "S Sreesanth","Shanthakumaran Sreesanth","India","t20s",3,3,20,19,2,20,14,142.86,0,0,4,0
 "SN Thakur","Shardul Narendra Thakur","India","t20s",6,6,69,22,3,23,40,172.5,0,0,5,4
 "S Dhawan","Shikhar Dhawan","India","t20s",66,66,1759,92,5,28.84,1439,122.24,11,0,191,50
-"S Dube","Shivam Dube","India","t20s",40,40,780,66,15,31.2,552,141.3,4,0,48,50
+"S Dube","Shivam Dube","India","t20s",43,43,857,66,18,34.28,592,144.76,4,0,54,56
 "Shivam Mavi","Shivam Pankaj Mavi","India","t20s",2,2,28,26,0,14,18,155.56,0,0,2,2
 "Shivam Sharma","Shivam Sharma","India","t20s",2,2,24,15,0,12,13,184.62,0,0,0,3
 "SS Iyer","Shreyas Santosh Iyer","India","t20s",46,46,1104,74,11,31.54,829,133.17,8,0,90,44
 "SB Wagh","Shrikant Bhaskar Wagh","India","t20s",7,7,133,51,0,19,170,78.24,1,0,10,1
 "Shubham Ranjane","Shubham Subhash Ranjane","India","t20s",4,4,141,51,2,70.5,82,171.95,1,0,9,8
+"S Sharma","Shubhlakshmi Rajendra Sharma","India","t20s",1,1,0,0,0,0,1,0,0,0,0,0
 "Shubman Gill","Shubman Gill","India","t20s",35,35,846,126,5,28.2,634,133.44,3,1,93,26
 "SK Patel","Smit Kamleshbhai Patel","India","t20s",2,2,35,24,0,17.5,39,89.74,0,0,2,0
 "STR Binny","Stuart Terence Roger Binny","India","t20s",2,2,35,24,0,17.5,30,116.67,0,0,2,1
@@ -108,11 +109,11 @@
 "SL Verma","Sumeet Verma","India","t20s",5,5,206,88,1,51.5,137,150.36,1,0,7,16
 "Sumit Singh","Sumit Singh","India","t20s",1,1,2,2,0,2,8,25,0,0,0,0
 "SK Raina","Suresh Kumar Raina","India","t20s",63,63,1549,101,11,29.79,1208,128.23,5,1,138,57
-"SA Yadav","Suryakumar Ashok Yadav","India","t20s",101,101,3158,117,19,38.51,2014,156.8,24,4,289,171
+"SA Yadav","Suryakumar Ashok Yadav","India","t20s",105,105,3220,117,19,37.44,2052,156.92,24,4,293,175
 "T Mishra","Tanmay Mishra","India","t20s",12,12,206,38,0,17.17,239,86.19,0,0,15,4
 "UT Yadav","Umeshkumar Tilak Yadav","India","t20s",2,2,22,20,1,22,28,78.57,0,0,2,0
 "Umran Malik","Umran Malik","India","t20s",2,2,5,4,2,5,2,250,0,0,1,0
-"CV Varun","Varun Chakravarthy Vinod","India","t20s",8,8,3,1,5,1,14,21.43,0,0,0,0
+"CV Varun","Varun Chakravarthy Vinod","India","t20s",9,9,3,1,6,1,15,20,0,0,0,0
 "VR Iyer","Venkatesh Rajasekaran Iyer","India","t20s",7,7,133,35,3,33.25,88,151.14,0,0,15,5
 "V Shankar","Vijay Shankar","India","t20s",4,4,101,43,0,25.25,77,131.17,0,0,11,5
 "V Kohli","Virat Kohli","India","t20s",112,112,3969,94,31,49,3007,131.99,37,0,349,115

@@ -1,0 +1,1799 @@
+{
+  "match_id": "1512761",
+  "team_a": "South Africa",
+  "team_b": "India",
+  "matchups": [
+    {
+      "bat": "DA Miller",
+      "bat_t": "South Africa",
+      "bowl": "HH Pandya",
+      "bowl_t": "India",
+      "v": "bowler",
+      "h2h": {
+        "balls": 60,
+        "runs": 72,
+        "dismissals": 6,
+        "strike_rate": 120.0
+      },
+      "vs_t": {
+        "runs": 626,
+        "balls": 435,
+        "dismissals": 18,
+        "average": 34.78,
+        "strike_rate": 143.91
+      },
+      "b_car": {
+        "avg": 34.81,
+        "sr": 136.68
+      },
+      "w_car": {
+        "avg": 27.46,
+        "eco": 8.49
+      },
+      "b_f": [
+        63,
+        24,
+        39
+      ],
+      "w_f": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "AK Markram",
+      "bat_t": "South Africa",
+      "bowl": "Arshdeep Singh",
+      "bowl_t": "India",
+      "v": "bowler",
+      "h2h": {
+        "balls": 77,
+        "runs": 81,
+        "dismissals": 5,
+        "strike_rate": 105.19
+      },
+      "vs_t": {
+        "runs": 331,
+        "balls": 261,
+        "dismissals": 15,
+        "average": 22.07,
+        "strike_rate": 126.82
+      },
+      "b_car": {
+        "avg": 31.08,
+        "sr": 143.73
+      },
+      "w_car": {
+        "avg": 19.63,
+        "eco": 8.75
+      },
+      "b_f": [
+        4,
+        28,
+        86
+      ],
+      "w_f": [
+        2,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "Q de Kock",
+      "bat_t": "South Africa",
+      "bowl": "Arshdeep Singh",
+      "bowl_t": "India",
+      "v": "bowler",
+      "h2h": {
+        "balls": 63,
+        "runs": 80,
+        "dismissals": 4,
+        "strike_rate": 126.98
+      },
+      "vs_t": {
+        "runs": 513,
+        "balls": 373,
+        "dismissals": 10,
+        "average": 51.3,
+        "strike_rate": 137.53
+      },
+      "b_car": {
+        "avg": 31.84,
+        "sr": 136.42
+      },
+      "w_car": {
+        "avg": 19.63,
+        "eco": 8.75
+      },
+      "b_f": [
+        6,
+        14,
+        20
+      ],
+      "w_f": [
+        2,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "DA Miller",
+      "bat_t": "South Africa",
+      "bowl": "CV Varun",
+      "bowl_t": "India",
+      "v": "bowler",
+      "h2h": {
+        "balls": 40,
+        "runs": 63,
+        "dismissals": 4,
+        "strike_rate": 157.5
+      },
+      "vs_t": {
+        "runs": 626,
+        "balls": 435,
+        "dismissals": 18,
+        "average": 34.78,
+        "strike_rate": 143.91
+      },
+      "b_car": {
+        "avg": 34.81,
+        "sr": 136.68
+      },
+      "w_car": {
+        "avg": 15.9,
+        "eco": 7.36
+      },
+      "b_f": [
+        63,
+        24,
+        39
+      ],
+      "w_f": [
+        1,
+        3,
+        2
+      ]
+    },
+    {
+      "bat": "AK Markram",
+      "bat_t": "South Africa",
+      "bowl": "CV Varun",
+      "bowl_t": "India",
+      "v": "bowler",
+      "h2h": {
+        "balls": 35,
+        "runs": 45,
+        "dismissals": 4,
+        "strike_rate": 128.57
+      },
+      "vs_t": {
+        "runs": 331,
+        "balls": 261,
+        "dismissals": 15,
+        "average": 22.07,
+        "strike_rate": 126.82
+      },
+      "b_car": {
+        "avg": 31.08,
+        "sr": 143.73
+      },
+      "w_car": {
+        "avg": 15.9,
+        "eco": 7.36
+      },
+      "b_f": [
+        4,
+        28,
+        86
+      ],
+      "w_f": [
+        1,
+        3,
+        2
+      ]
+    },
+    {
+      "bat": "M Jansen",
+      "bat_t": "South Africa",
+      "bowl": "CV Varun",
+      "bowl_t": "India",
+      "v": "bowler",
+      "h2h": {
+        "balls": 23,
+        "runs": 22,
+        "dismissals": 3,
+        "strike_rate": 95.65
+      },
+      "vs_t": {
+        "runs": 146,
+        "balls": 99,
+        "dismissals": 9,
+        "average": 16.22,
+        "strike_rate": 147.47
+      },
+      "b_car": {
+        "avg": 14.07,
+        "sr": 134.93
+      },
+      "w_car": {
+        "avg": 15.9,
+        "eco": 7.36
+      },
+      "b_f": [
+        2
+      ],
+      "w_f": [
+        1,
+        3,
+        2
+      ]
+    },
+    {
+      "bat": "DA Miller",
+      "bat_t": "South Africa",
+      "bowl": "Arshdeep Singh",
+      "bowl_t": "India",
+      "v": "bowler",
+      "h2h": {
+        "balls": 38,
+        "runs": 59,
+        "dismissals": 2,
+        "strike_rate": 155.26
+      },
+      "vs_t": {
+        "runs": 626,
+        "balls": 435,
+        "dismissals": 18,
+        "average": 34.78,
+        "strike_rate": 143.91
+      },
+      "b_car": {
+        "avg": 34.81,
+        "sr": 136.68
+      },
+      "w_car": {
+        "avg": 19.63,
+        "eco": 8.75
+      },
+      "b_f": [
+        63,
+        24,
+        39
+      ],
+      "w_f": [
+        2,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "HH Pandya",
+      "bat_t": "India",
+      "bowl": "KA Maharaj",
+      "bowl_t": "South Africa",
+      "v": "bowler",
+      "h2h": {
+        "balls": 43,
+        "runs": 45,
+        "dismissals": 2,
+        "strike_rate": 104.65
+      },
+      "vs_t": {
+        "runs": 391,
+        "balls": 297,
+        "dismissals": 10,
+        "average": 39.1,
+        "strike_rate": 131.65
+      },
+      "b_car": {
+        "avg": 28.12,
+        "sr": 138.02
+      },
+      "b_f": [
+        18,
+        30,
+        0
+      ],
+      "w_f": [
+        3,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "Abhishek Sharma",
+      "bat_t": "India",
+      "bowl": "M Jansen",
+      "bowl_t": "South Africa",
+      "v": "bowler",
+      "h2h": {
+        "balls": 38,
+        "runs": 60,
+        "dismissals": 2,
+        "strike_rate": 157.89
+      },
+      "vs_t": {
+        "runs": 215,
+        "balls": 136,
+        "dismissals": 9,
+        "average": 23.89,
+        "strike_rate": 158.09
+      },
+      "b_car": {
+        "avg": 35.46,
+        "sr": 184.27
+      },
+      "b_f": [
+        15,
+        0,
+        0
+      ],
+      "w_f": [
+        4,
+        4,
+        2
+      ]
+    },
+    {
+      "bat": "RD Rickelton",
+      "bat_t": "South Africa",
+      "bowl": "Arshdeep Singh",
+      "bowl_t": "India",
+      "v": "bowler",
+      "h2h": {
+        "balls": 25,
+        "runs": 33,
+        "dismissals": 2,
+        "strike_rate": 132.0
+      },
+      "vs_t": {
+        "runs": 62,
+        "balls": 52,
+        "dismissals": 5,
+        "average": 12.4,
+        "strike_rate": 119.23
+      },
+      "b_car": {
+        "avg": 26.26,
+        "sr": 141.78
+      },
+      "w_car": {
+        "avg": 19.63,
+        "eco": 8.75
+      },
+      "b_f": [
+        7,
+        30,
+        21
+      ],
+      "w_f": [
+        2,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "SA Yadav",
+      "bat_t": "India",
+      "bowl": "L Ngidi",
+      "bowl_t": "South Africa",
+      "v": "bowler",
+      "h2h": {
+        "balls": 34,
+        "runs": 60,
+        "dismissals": 2,
+        "strike_rate": 176.47
+      },
+      "vs_t": {
+        "runs": 424,
+        "balls": 292,
+        "dismissals": 13,
+        "average": 32.62,
+        "strike_rate": 145.21
+      },
+      "b_car": {
+        "avg": 38.51,
+        "sr": 156.8
+      },
+      "b_f": [
+        18,
+        34,
+        32
+      ],
+      "w_f": [
+        0,
+        1,
+        4
+      ]
+    },
+    {
+      "bat": "Tilak Varma",
+      "bat_t": "India",
+      "bowl": "M Jansen",
+      "bowl_t": "South Africa",
+      "v": "batsman",
+      "h2h": {
+        "balls": 61,
+        "runs": 74,
+        "dismissals": 1,
+        "strike_rate": 121.31
+      },
+      "vs_t": {
+        "runs": 497,
+        "balls": 320,
+        "dismissals": 7,
+        "average": 71.0,
+        "strike_rate": 155.31
+      },
+      "b_car": {
+        "avg": 46.81,
+        "sr": 136.65
+      },
+      "b_f": [
+        1,
+        31,
+        25
+      ],
+      "w_f": [
+        4,
+        4,
+        2
+      ]
+    },
+    {
+      "bat": "Q de Kock",
+      "bat_t": "South Africa",
+      "bowl": "JJ Bumrah",
+      "bowl_t": "India",
+      "v": "bowler",
+      "h2h": {
+        "balls": 20,
+        "runs": 21,
+        "dismissals": 2,
+        "strike_rate": 105.0
+      },
+      "vs_t": {
+        "runs": 513,
+        "balls": 373,
+        "dismissals": 10,
+        "average": 51.3,
+        "strike_rate": 137.53
+      },
+      "b_car": {
+        "avg": 31.84,
+        "sr": 136.42
+      },
+      "w_car": {
+        "avg": 19.51,
+        "eco": 6.85
+      },
+      "b_f": [
+        6,
+        14,
+        20
+      ],
+      "w_f": [
+        3,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "Tilak Varma",
+      "bat_t": "India",
+      "bowl": "KA Maharaj",
+      "bowl_t": "South Africa",
+      "v": "bowler",
+      "h2h": {
+        "balls": 29,
+        "runs": 56,
+        "dismissals": 2,
+        "strike_rate": 193.1
+      },
+      "vs_t": {
+        "runs": 497,
+        "balls": 320,
+        "dismissals": 7,
+        "average": 71.0,
+        "strike_rate": 155.31
+      },
+      "b_car": {
+        "avg": 46.81,
+        "sr": 136.65
+      },
+      "b_f": [
+        1,
+        31,
+        25
+      ],
+      "w_f": [
+        3,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "Tilak Varma",
+      "bat_t": "India",
+      "bowl": "L Ngidi",
+      "bowl_t": "South Africa",
+      "v": "bowler",
+      "h2h": {
+        "balls": 22,
+        "runs": 28,
+        "dismissals": 2,
+        "strike_rate": 127.27
+      },
+      "vs_t": {
+        "runs": 497,
+        "balls": 320,
+        "dismissals": 7,
+        "average": 71.0,
+        "strike_rate": 155.31
+      },
+      "b_car": {
+        "avg": 46.81,
+        "sr": 136.65
+      },
+      "b_f": [
+        1,
+        31,
+        25
+      ],
+      "w_f": [
+        0,
+        1,
+        4
+      ]
+    },
+    {
+      "bat": "M Jansen",
+      "bat_t": "South Africa",
+      "bowl": "Arshdeep Singh",
+      "bowl_t": "India",
+      "v": "bowler",
+      "h2h": {
+        "balls": 7,
+        "runs": 13,
+        "dismissals": 2,
+        "strike_rate": 185.71
+      },
+      "vs_t": {
+        "runs": 146,
+        "balls": 99,
+        "dismissals": 9,
+        "average": 16.22,
+        "strike_rate": 147.47
+      },
+      "b_car": {
+        "avg": 14.07,
+        "sr": 134.93
+      },
+      "w_car": {
+        "avg": 19.63,
+        "eco": 8.75
+      },
+      "b_f": [
+        2
+      ],
+      "w_f": [
+        2,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "HH Pandya",
+      "bat_t": "India",
+      "bowl": "L Ngidi",
+      "bowl_t": "South Africa",
+      "v": "bowler",
+      "h2h": {
+        "balls": 17,
+        "runs": 20,
+        "dismissals": 2,
+        "strike_rate": 117.65
+      },
+      "vs_t": {
+        "runs": 391,
+        "balls": 297,
+        "dismissals": 10,
+        "average": 39.1,
+        "strike_rate": 131.65
+      },
+      "b_car": {
+        "avg": 28.12,
+        "sr": 138.02
+      },
+      "b_f": [
+        18,
+        30,
+        0
+      ],
+      "w_f": [
+        0,
+        1,
+        4
+      ]
+    },
+    {
+      "bat": "AK Markram",
+      "bat_t": "South Africa",
+      "bowl": "HH Pandya",
+      "bowl_t": "India",
+      "v": "bowler",
+      "h2h": {
+        "balls": 36,
+        "runs": 39,
+        "dismissals": 1,
+        "strike_rate": 108.33
+      },
+      "vs_t": {
+        "runs": 331,
+        "balls": 261,
+        "dismissals": 15,
+        "average": 22.07,
+        "strike_rate": 126.82
+      },
+      "b_car": {
+        "avg": 31.08,
+        "sr": 143.73
+      },
+      "w_car": {
+        "avg": 27.46,
+        "eco": 8.49
+      },
+      "b_f": [
+        4,
+        28,
+        86
+      ],
+      "w_f": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "T Stubbs",
+      "bat_t": "South Africa",
+      "bowl": "Arshdeep Singh",
+      "bowl_t": "India",
+      "v": "batsman",
+      "h2h": {
+        "balls": 35,
+        "runs": 59,
+        "dismissals": 1,
+        "strike_rate": 168.57
+      },
+      "vs_t": {
+        "runs": 254,
+        "balls": 205,
+        "dismissals": 9,
+        "average": 28.22,
+        "strike_rate": 123.9
+      },
+      "b_car": {
+        "avg": 30.53,
+        "sr": 131.99
+      },
+      "w_car": {
+        "avg": 19.63,
+        "eco": 8.75
+      },
+      "b_f": [
+        44,
+        6,
+        34
+      ],
+      "w_f": [
+        2,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "M Jansen",
+      "bat_t": "South Africa",
+      "bowl": "JJ Bumrah",
+      "bowl_t": "India",
+      "v": "bowler",
+      "h2h": {
+        "balls": 5,
+        "runs": 2,
+        "dismissals": 2,
+        "strike_rate": 40.0
+      },
+      "vs_t": {
+        "runs": 146,
+        "balls": 99,
+        "dismissals": 9,
+        "average": 16.22,
+        "strike_rate": 147.47
+      },
+      "b_car": {
+        "avg": 14.07,
+        "sr": 134.93
+      },
+      "w_car": {
+        "avg": 19.51,
+        "eco": 6.85
+      },
+      "b_f": [
+        2
+      ],
+      "w_f": [
+        3,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "T Stubbs",
+      "bat_t": "South Africa",
+      "bowl": "HH Pandya",
+      "bowl_t": "India",
+      "v": "batsman",
+      "h2h": {
+        "balls": 30,
+        "runs": 39,
+        "dismissals": 1,
+        "strike_rate": 130.0
+      },
+      "vs_t": {
+        "runs": 254,
+        "balls": 205,
+        "dismissals": 9,
+        "average": 28.22,
+        "strike_rate": 123.9
+      },
+      "b_car": {
+        "avg": 30.53,
+        "sr": 131.99
+      },
+      "w_car": {
+        "avg": 27.46,
+        "eco": 8.49
+      },
+      "b_f": [
+        44,
+        6,
+        34
+      ],
+      "w_f": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "SA Yadav",
+      "bat_t": "India",
+      "bowl": "C Bosch",
+      "bowl_t": "South Africa",
+      "v": "bowler",
+      "h2h": {
+        "balls": 8,
+        "runs": 3,
+        "dismissals": 2,
+        "strike_rate": 37.5
+      },
+      "vs_t": {
+        "runs": 424,
+        "balls": 292,
+        "dismissals": 13,
+        "average": 32.62,
+        "strike_rate": 145.21
+      },
+      "b_car": {
+        "avg": 38.51,
+        "sr": 156.8
+      },
+      "b_f": [
+        18,
+        34,
+        32
+      ],
+      "w_f": [
+        2,
+        3,
+        1
+      ]
+    },
+    {
+      "bat": "Abhishek Sharma",
+      "bat_t": "India",
+      "bowl": "C Bosch",
+      "bowl_t": "South Africa",
+      "v": "bowler",
+      "h2h": {
+        "balls": 7,
+        "runs": 6,
+        "dismissals": 2,
+        "strike_rate": 85.71
+      },
+      "vs_t": {
+        "runs": 215,
+        "balls": 136,
+        "dismissals": 9,
+        "average": 23.89,
+        "strike_rate": 158.09
+      },
+      "b_car": {
+        "avg": 35.46,
+        "sr": 184.27
+      },
+      "b_f": [
+        15,
+        0,
+        0
+      ],
+      "w_f": [
+        2,
+        3,
+        1
+      ]
+    },
+    {
+      "bat": "D Brevis",
+      "bat_t": "South Africa",
+      "bowl": "S Dube",
+      "bowl_t": "India",
+      "v": "batsman",
+      "h2h": {
+        "balls": 19,
+        "runs": 32,
+        "dismissals": 1,
+        "strike_rate": 168.42
+      },
+      "vs_t": {
+        "runs": 114,
+        "balls": 85,
+        "dismissals": 5,
+        "average": 22.8,
+        "strike_rate": 134.12
+      },
+      "b_car": {
+        "avg": 26.0,
+        "sr": 154.92
+      },
+      "w_car": {
+        "avg": 27.25,
+        "eco": 9.74
+      },
+      "b_f": [
+        45,
+        36,
+        21
+      ],
+      "w_f": [
+        1,
+        2,
+        1
+      ]
+    },
+    {
+      "bat": "SA Yadav",
+      "bat_t": "India",
+      "bowl": "M Jansen",
+      "bowl_t": "South Africa",
+      "v": "bowler",
+      "h2h": {
+        "balls": 28,
+        "runs": 26,
+        "dismissals": 1,
+        "strike_rate": 92.86
+      },
+      "vs_t": {
+        "runs": 424,
+        "balls": 292,
+        "dismissals": 13,
+        "average": 32.62,
+        "strike_rate": 145.21
+      },
+      "b_car": {
+        "avg": 38.51,
+        "sr": 156.8
+      },
+      "b_f": [
+        18,
+        34,
+        32
+      ],
+      "w_f": [
+        4,
+        4,
+        2
+      ]
+    },
+    {
+      "bat": "D Brevis",
+      "bat_t": "South Africa",
+      "bowl": "HH Pandya",
+      "bowl_t": "India",
+      "v": "batsman",
+      "h2h": {
+        "balls": 16,
+        "runs": 25,
+        "dismissals": 1,
+        "strike_rate": 156.25
+      },
+      "vs_t": {
+        "runs": 114,
+        "balls": 85,
+        "dismissals": 5,
+        "average": 22.8,
+        "strike_rate": 134.12
+      },
+      "b_car": {
+        "avg": 26.0,
+        "sr": 154.92
+      },
+      "w_car": {
+        "avg": 27.46,
+        "eco": 8.49
+      },
+      "b_f": [
+        45,
+        36,
+        21
+      ],
+      "w_f": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "Ishan Kishan",
+      "bat_t": "India",
+      "bowl": "KA Maharaj",
+      "bowl_t": "South Africa",
+      "v": "batsman",
+      "h2h": {
+        "balls": 26,
+        "runs": 67,
+        "dismissals": 1,
+        "strike_rate": 257.69
+      },
+      "vs_t": {
+        "runs": 206,
+        "balls": 145,
+        "dismissals": 6,
+        "average": 34.33,
+        "strike_rate": 142.07
+      },
+      "b_car": {
+        "avg": 29.68,
+        "sr": 138.02
+      },
+      "b_f": [
+        0,
+        18,
+        77
+      ],
+      "w_f": [
+        3,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "RD Rickelton",
+      "bat_t": "South Africa",
+      "bowl": "HH Pandya",
+      "bowl_t": "India",
+      "v": "bowler",
+      "h2h": {
+        "balls": 13,
+        "runs": 9,
+        "dismissals": 1,
+        "strike_rate": 69.23
+      },
+      "vs_t": {
+        "runs": 62,
+        "balls": 52,
+        "dismissals": 5,
+        "average": 12.4,
+        "strike_rate": 119.23
+      },
+      "b_car": {
+        "avg": 26.26,
+        "sr": 141.78
+      },
+      "w_car": {
+        "avg": 27.46,
+        "eco": 8.49
+      },
+      "b_f": [
+        7,
+        30,
+        21
+      ],
+      "w_f": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "SA Yadav",
+      "bat_t": "India",
+      "bowl": "KA Maharaj",
+      "bowl_t": "South Africa",
+      "v": "batsman",
+      "h2h": {
+        "balls": 50,
+        "runs": 74,
+        "dismissals": 0,
+        "strike_rate": 148.0
+      },
+      "vs_t": {
+        "runs": 424,
+        "balls": 292,
+        "dismissals": 13,
+        "average": 32.62,
+        "strike_rate": 145.21
+      },
+      "b_car": {
+        "avg": 38.51,
+        "sr": 156.8
+      },
+      "b_f": [
+        18,
+        34,
+        32
+      ],
+      "w_f": [
+        3,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "C Bosch",
+      "bat_t": "South Africa",
+      "bowl": "JJ Bumrah",
+      "bowl_t": "India",
+      "v": "bowler",
+      "h2h": {
+        "balls": 9,
+        "runs": 4,
+        "dismissals": 1,
+        "strike_rate": 44.44
+      },
+      "vs_t": {
+        "runs": 26,
+        "balls": 31,
+        "dismissals": 2,
+        "average": 13.0,
+        "strike_rate": 83.87
+      },
+      "b_car": {
+        "avg": 14.12,
+        "sr": 104.63
+      },
+      "w_car": {
+        "avg": 19.51,
+        "eco": 6.85
+      },
+      "b_f": [
+        5
+      ],
+      "w_f": [
+        3,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "SA Yadav",
+      "bat_t": "India",
+      "bowl": "K Rabada",
+      "bowl_t": "South Africa",
+      "v": "batsman",
+      "h2h": {
+        "balls": 18,
+        "runs": 43,
+        "dismissals": 1,
+        "strike_rate": 238.89
+      },
+      "vs_t": {
+        "runs": 424,
+        "balls": 292,
+        "dismissals": 13,
+        "average": 32.62,
+        "strike_rate": 145.21
+      },
+      "b_car": {
+        "avg": 38.51,
+        "sr": 156.8
+      },
+      "b_f": [
+        18,
+        34,
+        32
+      ],
+      "w_f": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "Tilak Varma",
+      "bat_t": "India",
+      "bowl": "AK Markram",
+      "bowl_t": "South Africa",
+      "v": "batsman",
+      "h2h": {
+        "balls": 17,
+        "runs": 38,
+        "dismissals": 1,
+        "strike_rate": 223.53
+      },
+      "vs_t": {
+        "runs": 497,
+        "balls": 320,
+        "dismissals": 7,
+        "average": 71.0,
+        "strike_rate": 155.31
+      },
+      "b_car": {
+        "avg": 46.81,
+        "sr": 136.65
+      },
+      "b_f": [
+        1,
+        31,
+        25
+      ],
+      "w_f": [
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "Q de Kock",
+      "bat_t": "South Africa",
+      "bowl": "Washington Sundar",
+      "bowl_t": "India",
+      "v": "batsman",
+      "h2h": {
+        "balls": 36,
+        "runs": 41,
+        "dismissals": 0,
+        "strike_rate": 113.89
+      },
+      "vs_t": {
+        "runs": 513,
+        "balls": 373,
+        "dismissals": 10,
+        "average": 51.3,
+        "strike_rate": 137.53
+      },
+      "b_car": {
+        "avg": 31.84,
+        "sr": 136.42
+      },
+      "w_car": {
+        "avg": 22.7,
+        "eco": 6.99
+      },
+      "b_f": [
+        6,
+        14,
+        20
+      ],
+      "w_f": [
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "D Brevis",
+      "bat_t": "South Africa",
+      "bowl": "JJ Bumrah",
+      "bowl_t": "India",
+      "v": "bowler",
+      "h2h": {
+        "balls": 6,
+        "runs": 3,
+        "dismissals": 1,
+        "strike_rate": 50.0
+      },
+      "vs_t": {
+        "runs": 114,
+        "balls": 85,
+        "dismissals": 5,
+        "average": 22.8,
+        "strike_rate": 134.12
+      },
+      "b_car": {
+        "avg": 26.0,
+        "sr": 154.92
+      },
+      "w_car": {
+        "avg": 19.51,
+        "eco": 6.85
+      },
+      "b_f": [
+        45,
+        36,
+        21
+      ],
+      "w_f": [
+        3,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "HH Pandya",
+      "bat_t": "India",
+      "bowl": "K Rabada",
+      "bowl_t": "South Africa",
+      "v": "batsman",
+      "h2h": {
+        "balls": 16,
+        "runs": 21,
+        "dismissals": 1,
+        "strike_rate": 131.25
+      },
+      "vs_t": {
+        "runs": 391,
+        "balls": 297,
+        "dismissals": 10,
+        "average": 39.1,
+        "strike_rate": 131.65
+      },
+      "b_car": {
+        "avg": 28.12,
+        "sr": 138.02
+      },
+      "b_f": [
+        18,
+        30,
+        0
+      ],
+      "w_f": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "RD Rickelton",
+      "bat_t": "South Africa",
+      "bowl": "JJ Bumrah",
+      "bowl_t": "India",
+      "v": "bowler",
+      "h2h": {
+        "balls": 5,
+        "runs": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 62,
+        "balls": 52,
+        "dismissals": 5,
+        "average": 12.4,
+        "strike_rate": 119.23
+      },
+      "b_car": {
+        "avg": 26.26,
+        "sr": 141.78
+      },
+      "w_car": {
+        "avg": 19.51,
+        "eco": 6.85
+      },
+      "b_f": [
+        7,
+        30,
+        21
+      ],
+      "w_f": [
+        3,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "Q de Kock",
+      "bat_t": "South Africa",
+      "bowl": "HH Pandya",
+      "bowl_t": "India",
+      "v": "batsman",
+      "h2h": {
+        "balls": 34,
+        "runs": 65,
+        "dismissals": 0,
+        "strike_rate": 191.18
+      },
+      "vs_t": {
+        "runs": 513,
+        "balls": 373,
+        "dismissals": 10,
+        "average": 51.3,
+        "strike_rate": 137.53
+      },
+      "b_car": {
+        "avg": 31.84,
+        "sr": 136.42
+      },
+      "w_car": {
+        "avg": 27.46,
+        "eco": 8.49
+      },
+      "b_f": [
+        6,
+        14,
+        20
+      ],
+      "w_f": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "K Rabada",
+      "bat_t": "South Africa",
+      "bowl": "HH Pandya",
+      "bowl_t": "India",
+      "v": "bowler",
+      "h2h": {
+        "balls": 4,
+        "runs": 4,
+        "dismissals": 1,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 20,
+        "balls": 26,
+        "dismissals": 2,
+        "average": 10.0,
+        "strike_rate": 76.92
+      },
+      "b_car": {
+        "avg": 16.73,
+        "sr": 110.84
+      },
+      "w_car": {
+        "avg": 27.46,
+        "eco": 8.49
+      },
+      "b_f": [
+        0
+      ],
+      "w_f": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "KA Maharaj",
+      "bat_t": "South Africa",
+      "bowl": "JJ Bumrah",
+      "bowl_t": "India",
+      "v": "bowler",
+      "h2h": {
+        "balls": 3,
+        "runs": 1,
+        "dismissals": 1,
+        "strike_rate": 33.33
+      },
+      "vs_t": {
+        "runs": 66,
+        "balls": 75,
+        "dismissals": 7,
+        "average": 9.43,
+        "strike_rate": 88.0
+      },
+      "b_car": {
+        "avg": 10.3,
+        "sr": 86.55
+      },
+      "w_car": {
+        "avg": 19.51,
+        "eco": 6.85
+      },
+      "w_f": [
+        3,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "RD Rickelton",
+      "bat_t": "South Africa",
+      "bowl": "CV Varun",
+      "bowl_t": "India",
+      "v": "bowler",
+      "h2h": {
+        "balls": 2,
+        "runs": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 62,
+        "balls": 52,
+        "dismissals": 5,
+        "average": 12.4,
+        "strike_rate": 119.23
+      },
+      "b_car": {
+        "avg": 26.26,
+        "sr": 141.78
+      },
+      "w_car": {
+        "avg": 15.9,
+        "eco": 7.36
+      },
+      "b_f": [
+        7,
+        30,
+        21
+      ],
+      "w_f": [
+        1,
+        3,
+        2
+      ]
+    },
+    {
+      "bat": "S Dube",
+      "bat_t": "India",
+      "bowl": "M Jansen",
+      "bowl_t": "South Africa",
+      "v": "batsman",
+      "h2h": {
+        "balls": 12,
+        "runs": 17,
+        "dismissals": 1,
+        "strike_rate": 141.67
+      },
+      "vs_t": {
+        "runs": 101,
+        "balls": 74,
+        "dismissals": 4,
+        "average": 25.25,
+        "strike_rate": 136.49
+      },
+      "b_car": {
+        "avg": 31.2,
+        "sr": 141.3
+      },
+      "b_f": [
+        42,
+        66,
+        27
+      ],
+      "w_f": [
+        4,
+        4,
+        2
+      ]
+    },
+    {
+      "bat": "C Bosch",
+      "bat_t": "South Africa",
+      "bowl": "S Dube",
+      "bowl_t": "India",
+      "v": "bowler",
+      "h2h": {
+        "balls": 1,
+        "runs": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 26,
+        "balls": 31,
+        "dismissals": 2,
+        "average": 13.0,
+        "strike_rate": 83.87
+      },
+      "b_car": {
+        "avg": 14.12,
+        "sr": 104.63
+      },
+      "w_car": {
+        "avg": 27.25,
+        "eco": 9.74
+      },
+      "b_f": [
+        5
+      ],
+      "w_f": [
+        1,
+        2,
+        1
+      ]
+    },
+    {
+      "bat": "RK Singh",
+      "bat_t": "India",
+      "bowl": "KA Maharaj",
+      "bowl_t": "South Africa",
+      "v": "bowler",
+      "h2h": {
+        "balls": 10,
+        "runs": 4,
+        "dismissals": 1,
+        "strike_rate": 40.0
+      },
+      "vs_t": {
+        "runs": 110,
+        "balls": 88,
+        "dismissals": 5,
+        "average": 22.0,
+        "strike_rate": 125.0
+      },
+      "b_car": {
+        "avg": 28.1,
+        "sr": 136.57
+      },
+      "b_f": [
+        0,
+        6,
+        11
+      ],
+      "w_f": [
+        3,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "Ishan Kishan",
+      "bat_t": "India",
+      "bowl": "L Ngidi",
+      "bowl_t": "South Africa",
+      "v": "bowler",
+      "h2h": {
+        "balls": 9,
+        "runs": 3,
+        "dismissals": 1,
+        "strike_rate": 33.33
+      },
+      "vs_t": {
+        "runs": 206,
+        "balls": 145,
+        "dismissals": 6,
+        "average": 34.33,
+        "strike_rate": 142.07
+      },
+      "b_car": {
+        "avg": 29.68,
+        "sr": 138.02
+      },
+      "b_f": [
+        0,
+        18,
+        77
+      ],
+      "w_f": [
+        0,
+        1,
+        4
+      ]
+    },
+    {
+      "bat": "T Stubbs",
+      "bat_t": "South Africa",
+      "bowl": "CV Varun",
+      "bowl_t": "India",
+      "v": "bowler",
+      "h2h": {
+        "balls": 25,
+        "runs": 30,
+        "dismissals": 0,
+        "strike_rate": 120.0
+      },
+      "vs_t": {
+        "runs": 254,
+        "balls": 205,
+        "dismissals": 9,
+        "average": 28.22,
+        "strike_rate": 123.9
+      },
+      "b_car": {
+        "avg": 30.53,
+        "sr": 131.99
+      },
+      "w_car": {
+        "avg": 15.9,
+        "eco": 7.36
+      },
+      "b_f": [
+        44,
+        6,
+        34
+      ],
+      "w_f": [
+        1,
+        3,
+        2
+      ]
+    },
+    {
+      "bat": "Abhishek Sharma",
+      "bat_t": "India",
+      "bowl": "KA Maharaj",
+      "bowl_t": "South Africa",
+      "v": "bowler",
+      "h2h": {
+        "balls": 4,
+        "runs": 8,
+        "dismissals": 1,
+        "strike_rate": 200.0
+      },
+      "vs_t": {
+        "runs": 215,
+        "balls": 136,
+        "dismissals": 9,
+        "average": 23.89,
+        "strike_rate": 158.09
+      },
+      "b_car": {
+        "avg": 35.46,
+        "sr": 184.27
+      },
+      "b_f": [
+        15,
+        0,
+        0
+      ],
+      "w_f": [
+        3,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "Ishan Kishan",
+      "bat_t": "India",
+      "bowl": "AK Markram",
+      "bowl_t": "South Africa",
+      "v": "bowler",
+      "h2h": {
+        "balls": 4,
+        "runs": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 206,
+        "balls": 145,
+        "dismissals": 6,
+        "average": 34.33,
+        "strike_rate": 142.07
+      },
+      "b_car": {
+        "avg": 29.68,
+        "sr": 138.02
+      },
+      "b_f": [
+        0,
+        18,
+        77
+      ],
+      "w_f": [
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "HH Pandya",
+      "bat_t": "India",
+      "bowl": "M Jansen",
+      "bowl_t": "South Africa",
+      "v": "batsman",
+      "h2h": {
+        "balls": 32,
+        "runs": 49,
+        "dismissals": 0,
+        "strike_rate": 153.12
+      },
+      "vs_t": {
+        "runs": 391,
+        "balls": 297,
+        "dismissals": 10,
+        "average": 39.1,
+        "strike_rate": 131.65
+      },
+      "b_car": {
+        "avg": 28.12,
+        "sr": 138.02
+      },
+      "b_f": [
+        18,
+        30,
+        0
+      ],
+      "w_f": [
+        4,
+        4,
+        2
+      ]
+    },
+    {
+      "bat": "Arshdeep Singh",
+      "bat_t": "India",
+      "bowl": "KA Maharaj",
+      "bowl_t": "South Africa",
+      "v": "bowler",
+      "h2h": {
+        "balls": 2,
+        "runs": 1,
+        "dismissals": 1,
+        "strike_rate": 50.0
+      },
+      "vs_t": {
+        "runs": 19,
+        "balls": 17,
+        "dismissals": 3,
+        "average": 6.33,
+        "strike_rate": 111.76
+      },
+      "b_car": {
+        "avg": 7.25,
+        "sr": 98.86
+      },
+      "b_f": [
+        1,
+        2,
+        4
+      ],
+      "w_f": [
+        3,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "D Brevis",
+      "bat_t": "South Africa",
+      "bowl": "CV Varun",
+      "bowl_t": "India",
+      "v": "batsman",
+      "h2h": {
+        "balls": 21,
+        "runs": 37,
+        "dismissals": 0,
+        "strike_rate": 176.19
+      },
+      "vs_t": {
+        "runs": 114,
+        "balls": 85,
+        "dismissals": 5,
+        "average": 22.8,
+        "strike_rate": 134.12
+      },
+      "b_car": {
+        "avg": 26.0,
+        "sr": 154.92
+      },
+      "w_car": {
+        "avg": 15.9,
+        "eco": 7.36
+      },
+      "b_f": [
+        45,
+        36,
+        21
+      ],
+      "w_f": [
+        1,
+        3,
+        2
+      ]
+    }
+  ]
+}

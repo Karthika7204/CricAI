@@ -1,0 +1,464 @@
+{
+    "match_context": {
+        "match_id": "1512761",
+        "date": "2026-02-22",
+        "tournament": "2025/26",
+        "venue": "Narendra Modi Stadium, Ahmedabad",
+        "stage": "ICC Men's T20 World Cup",
+        "Teams": {
+            "South Africa": {
+                "captain": "AK Markram",
+                "playing_xi_count": 11
+            },
+            "India": {
+                "captain": "SA Yadav",
+                "playing_xi_count": 11
+            }
+        }
+    },
+    "Match_Result": {
+        "summary": "South Africa won by 76 runs",
+        "winner": "South Africa",
+        "margin": 76,
+        "margin_type": "runs"
+    },
+    "Scorecard_Highlights": {
+        "Key_Support_Performers": [
+            {
+                "player": "HH Pandya",
+                "team": "India",
+                "runs": 18,
+                "balls": 19,
+                "sr": 94.74,
+                "fours": 0,
+                "sixes": 1,
+                "win_contribution_percent": 16.2,
+                "score": 38.58
+            },
+            {
+                "player": "SA Yadav",
+                "team": "India",
+                "runs": 18,
+                "balls": 23,
+                "sr": 78.26,
+                "fours": 2,
+                "sixes": 0,
+                "win_contribution_percent": 16.2,
+                "score": 35.0
+            }
+        ],
+        "Career_vs_Match_Bowling": [
+            {
+                "player": "JJ Bumrah",
+                "team": "India",
+                "match_figures": "4.0-15-3",
+                "match_economy": 3.75,
+                "career_economy": 6.85,
+                "economy_delta": -3.1,
+                "match_sr": 8.0,
+                "career_sr": 17.08,
+                "career_wickets": 113,
+                "career_best": "3/23",
+                "verdict": "Exceptional - 3.1 below career economy (6.85)"
+            },
+            {
+                "player": "Arshdeep Singh",
+                "team": "India",
+                "match_figures": "4.0-30-2",
+                "match_economy": 7.5,
+                "career_economy": 8.75,
+                "economy_delta": -1.25,
+                "match_sr": 12.0,
+                "career_sr": 13.46,
+                "career_wickets": 120,
+                "career_best": "5/51",
+                "verdict": "On par with career economy (8.75)"
+            },
+            {
+                "player": "Washington Sundar",
+                "team": "India",
+                "match_figures": "2.0-17-0",
+                "match_economy": 8.5,
+                "career_economy": 6.99,
+                "economy_delta": 1.51,
+                "match_sr": null,
+                "career_sr": 19.48,
+                "career_wickets": 50,
+                "career_best": "4/26",
+                "verdict": "On par with career economy (6.99)"
+            },
+            {
+                "player": "HH Pandya",
+                "team": "India",
+                "match_figures": "4.0-45-0",
+                "match_economy": 11.25,
+                "career_economy": 8.49,
+                "economy_delta": 2.76,
+                "match_sr": null,
+                "career_sr": 19.4,
+                "career_wickets": 111,
+                "career_best": "4/38",
+                "verdict": "Expensive - 2.76 above career economy (8.49)"
+            },
+            {
+                "player": "CV Varun",
+                "team": "India",
+                "match_figures": "4.0-48-1",
+                "match_economy": 12.0,
+                "career_economy": 7.36,
+                "economy_delta": 4.64,
+                "match_sr": 24.0,
+                "career_sr": 12.97,
+                "career_wickets": 71,
+                "career_best": "5/24",
+                "verdict": "Expensive - 4.64 above career economy (7.36)"
+            },
+            {
+                "player": "S Dube",
+                "team": "India",
+                "match_figures": "2.0-32-1",
+                "match_economy": 16.0,
+                "career_economy": 9.74,
+                "economy_delta": 6.26,
+                "match_sr": 12.0,
+                "career_sr": 16.79,
+                "career_wickets": 28,
+                "career_best": "3/31",
+                "verdict": "Expensive - 6.26 above career economy (9.74)"
+            }
+        ],
+        "Bowling_Standouts": {
+            "Economical_Spells": [
+                {
+                    "player": "JJ Bumrah",
+                    "team": "India",
+                    "match_figures": "4.0-15-3",
+                    "match_economy": 3.75,
+                    "career_economy": 6.85,
+                    "economy_delta": -3.1,
+                    "match_sr": 8.0,
+                    "career_sr": 17.08,
+                    "career_wickets": 113,
+                    "career_best": "3/23",
+                    "verdict": "Exceptional - 3.1 below career economy (6.85)"
+                }
+            ],
+            "Expensive_Spells": [
+                {
+                    "player": "HH Pandya",
+                    "team": "India",
+                    "match_figures": "4.0-45-0",
+                    "match_economy": 11.25,
+                    "career_economy": 8.49,
+                    "economy_delta": 2.76,
+                    "match_sr": null,
+                    "career_sr": 19.4,
+                    "career_wickets": 111,
+                    "career_best": "4/38",
+                    "verdict": "Expensive - 2.76 above career economy (8.49)"
+                },
+                {
+                    "player": "CV Varun",
+                    "team": "India",
+                    "match_figures": "4.0-48-1",
+                    "match_economy": 12.0,
+                    "career_economy": 7.36,
+                    "economy_delta": 4.64,
+                    "match_sr": 24.0,
+                    "career_sr": 12.97,
+                    "career_wickets": 71,
+                    "career_best": "5/24",
+                    "verdict": "Expensive - 4.64 above career economy (7.36)"
+                },
+                {
+                    "player": "S Dube",
+                    "team": "India",
+                    "match_figures": "2.0-32-1",
+                    "match_economy": 16.0,
+                    "career_economy": 9.74,
+                    "economy_delta": 6.26,
+                    "match_sr": 12.0,
+                    "career_sr": 16.79,
+                    "career_wickets": 28,
+                    "career_best": "3/31",
+                    "verdict": "Expensive - 6.26 above career economy (9.74)"
+                }
+            ],
+            "High_Economy_No_Baseline": []
+        },
+        "Significant_Collapses": []
+    },
+    "Innings_Metrics": [
+        {
+            "innings": 1,
+            "team": "South Africa",
+            "total_runs": 187,
+            "total_wickets": 7,
+            "balls_faced": 120,
+            "overs_faced": 20.0,
+            "phase_analysis": {
+                "Powerplay": {
+                    "runs": 41,
+                    "wkts": 3,
+                    "rr": 6.83
+                },
+                "Middle": {
+                    "runs": 103,
+                    "wkts": 1,
+                    "rr": 11.44
+                },
+                "Death": {
+                    "runs": 43,
+                    "wkts": 3,
+                    "rr": 8.6
+                }
+            }
+        },
+        {
+            "innings": 2,
+            "team": "India",
+            "total_runs": 111,
+            "total_wickets": 10,
+            "balls_faced": 113,
+            "overs_faced": 18.5,
+            "phase_analysis": {
+                "Powerplay": {
+                    "runs": 31,
+                    "wkts": 3,
+                    "rr": 5.17
+                },
+                "Middle": {
+                    "runs": 57,
+                    "wkts": 5,
+                    "rr": 6.33
+                },
+                "Death": {
+                    "runs": 23,
+                    "wkts": 2,
+                    "rr": 6.0
+                }
+            },
+            "pressure_index": 90.0,
+            "target": 188
+        }
+    ],
+    "Detailed_Impact_Analysis": [
+        {
+            "player": "M Jansen",
+            "team": "South Africa",
+            "overs": 3.5,
+            "runs": 23,
+            "wickets": 4,
+            "econ": 6.0,
+            "score": 144.33,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "3.5o-23r-4w"
+        },
+        {
+            "player": "JJ Bumrah",
+            "team": "India",
+            "overs": 4.0,
+            "runs": 15,
+            "wickets": 3,
+            "econ": 3.75,
+            "score": 128.92,
+            "bowling_baseline": {
+                "career_wickets": 113,
+                "career_economy": 6.85,
+                "career_sr": 17.08,
+                "career_avg": 19.51,
+                "best_bowling": "3/23",
+                "matches": 88,
+                "source": "t20_bowling_master",
+                "baseline_available": true
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-15r-3w"
+        },
+        {
+            "player": "KA Maharaj",
+            "team": "South Africa",
+            "overs": 3.0,
+            "runs": 24,
+            "wickets": 3,
+            "econ": 8.0,
+            "score": 108.24,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "3.0o-24r-3w"
+        },
+        {
+            "player": "DA Miller",
+            "team": "South Africa",
+            "runs": 63,
+            "balls": 37,
+            "sr": 170.27,
+            "fours": 7,
+            "sixes": 3,
+            "win_contribution_percent": 33.7,
+            "score": 99.98,
+            "role": "batting",
+            "match_stats": "63(37)",
+            "baseline": {
+                "avg": 34.81,
+                "sr": 136.68,
+                "matches": 119,
+                "source": "t20_master",
+                "baseline_available": true
+            }
+        },
+        {
+            "player": "C Bosch",
+            "team": "South Africa",
+            "overs": 3.0,
+            "runs": 12,
+            "wickets": 2,
+            "econ": 4.0,
+            "score": 96.49,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "3.0o-12r-2w"
+        },
+        {
+            "player": "T Stubbs",
+            "team": "South Africa",
+            "runs": 44,
+            "balls": 24,
+            "sr": 183.33,
+            "fours": 1,
+            "sixes": 3,
+            "win_contribution_percent": 23.5,
+            "score": 83.82,
+            "role": "batting",
+            "match_stats": "44(24)",
+            "baseline": {
+                "avg": 30.53,
+                "sr": 131.99,
+                "matches": 40,
+                "source": "t20_master",
+                "baseline_available": true
+            }
+        },
+        {
+            "player": "Arshdeep Singh",
+            "team": "India",
+            "overs": 4.0,
+            "runs": 30,
+            "wickets": 2,
+            "econ": 7.5,
+            "score": 79.46,
+            "bowling_baseline": {
+                "career_wickets": 120,
+                "career_economy": 8.75,
+                "career_sr": 13.46,
+                "career_avg": 19.63,
+                "best_bowling": "5/51",
+                "matches": 76,
+                "source": "t20_bowling_master",
+                "baseline_available": true
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-30r-2w"
+        },
+        {
+            "player": "D Brevis",
+            "team": "South Africa",
+            "runs": 45,
+            "balls": 33,
+            "sr": 136.36,
+            "fours": 3,
+            "sixes": 3,
+            "win_contribution_percent": 24.1,
+            "score": 74.62,
+            "role": "batting",
+            "match_stats": "45(33)",
+            "baseline": {
+                "avg": 26.0,
+                "sr": 154.92,
+                "matches": 25,
+                "source": "t20_master",
+                "baseline_available": true
+            }
+        },
+        {
+            "player": "S Dube",
+            "team": "India",
+            "runs": 42,
+            "balls": 37,
+            "sr": 113.51,
+            "fours": 1,
+            "sixes": 3,
+            "win_contribution_percent": 37.8,
+            "score": 66.65,
+            "role": "batting",
+            "match_stats": "42(37)",
+            "baseline": {
+                "avg": 31.2,
+                "sr": 141.3,
+                "matches": 40,
+                "source": "t20_master",
+                "baseline_available": true
+            }
+        },
+        {
+            "player": "AK Markram",
+            "team": "South Africa",
+            "overs": 1.0,
+            "runs": 5,
+            "wickets": 1,
+            "econ": 5.0,
+            "score": 59.19,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "1.0o-5r-1w"
+        }
+    ],
+    "Tactical_Post_Match_Analysis": [
+        "South Africa's victory was anchored by DA Miller, who contributed 33.7% of the team's runs.",
+        "Defensive pressure was sustained by M Jansen, finishing with an impact score of 144.33.",
+        "JJ Bumrah was outstanding with the ball — economy 3.75 vs career avg 6.85 (delta: -3.1). A match-defining spell.",
+        "HH Pandya struggled with economy 11.25 vs career avg 8.49 (+2.76) — an expensive outing.",
+        "CV Varun struggled with economy 12.0 vs career avg 7.36 (+4.64) — an expensive outing.",
+        "S Dube struggled with economy 16.0 vs career avg 9.74 (+6.26) — an expensive outing.",
+        "India struggled under extreme chase pressure (Index: 90.0), leading to a late-innings collapse.",
+        "South Africa lost 3 wickets in Powerplay, failing to build a stable foundation.",
+        "India lost 3 wickets in Powerplay, failing to build a stable foundation."
+    ]
+}

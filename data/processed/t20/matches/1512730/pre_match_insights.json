@@ -2,12 +2,12 @@
   "match_id": "1512730",
   "ranking_races": [
     {
-      "player": "Saim Ayub",
-      "category": "all_rounder",
-      "current_pos": 3,
+      "player": "Sahibzada Farhan",
+      "category": "batting",
+      "current_pos": 2,
       "target_pos": 1,
-      "points_away": 53,
-      "effort_needed": "79 runs or 4 wickets"
+      "points_away": 26,
+      "effort_needed": "39 runs"
     },
     {
       "player": "Mohammad Nawaz",
@@ -26,12 +26,12 @@
       "effort_needed": "57 runs or 2 wickets"
     },
     {
-      "player": "Salman Mirza",
-      "category": "bowling",
-      "current_pos": 21,
-      "target_pos": 10,
-      "points_away": 27,
-      "effort_needed": "2 wickets"
+      "player": "Saim Ayub",
+      "category": "all_rounder",
+      "current_pos": 3,
+      "target_pos": 1,
+      "points_away": 53,
+      "effort_needed": "79 runs or 4 wickets"
     },
     {
       "player": "Shadab Khan",
@@ -42,12 +42,12 @@
       "effort_needed": "72 runs or 3 wickets"
     },
     {
-      "player": "Sahibzada Farhan",
-      "category": "batting",
-      "current_pos": 2,
-      "target_pos": 1,
-      "points_away": 26,
-      "effort_needed": "39 runs"
+      "player": "Salman Mirza",
+      "category": "bowling",
+      "current_pos": 21,
+      "target_pos": 10,
+      "points_away": 27,
+      "effort_needed": "2 wickets"
     },
     {
       "player": "Abrar Ahmed",
@@ -60,6 +60,13 @@
   ],
   "milestone_watch": [
     {
+      "player": "SP Krishnamurthi",
+      "type": "runs",
+      "current": 196,
+      "target": 200,
+      "needed": 4
+    },
+    {
       "player": "SR Mukkamalla",
       "type": "runs",
       "current": 737,
@@ -67,11 +74,11 @@
       "needed": 13
     },
     {
-      "player": "SP Krishnamurthi",
-      "type": "runs",
-      "current": 196,
-      "target": 200,
-      "needed": 4
+      "player": "Shadab Khan",
+      "type": "sixes",
+      "current": 47,
+      "target": 50,
+      "needed": 3
     }
   ],
   "personal_best_watch": []

@@ -1,0 +1,1481 @@
+{
+  "match_id": "1512760",
+  "team_a": "England",
+  "team_b": "Sri Lanka",
+  "matchups": [
+    {
+      "bat": "MD Shanaka",
+      "bat_t": "Sri Lanka",
+      "bowl": "AU Rashid",
+      "bowl_t": "England",
+      "v": "bowler",
+      "h2h": {
+        "balls": 42,
+        "runs": 25,
+        "dismissals": 2,
+        "strike_rate": 59.52
+      },
+      "vs_t": {
+        "runs": 175,
+        "balls": 184,
+        "dismissals": 9,
+        "average": 19.44,
+        "strike_rate": 95.11
+      },
+      "b_f": [
+        3,
+        30,
+        6
+      ],
+      "w_f": [
+        1,
+        2,
+        1
+      ]
+    },
+    {
+      "bat": "MD Shanaka",
+      "bat_t": "Sri Lanka",
+      "bowl": "SM Curran",
+      "bowl_t": "England",
+      "v": "bowler",
+      "h2h": {
+        "balls": 22,
+        "runs": 20,
+        "dismissals": 2,
+        "strike_rate": 90.91
+      },
+      "vs_t": {
+        "runs": 175,
+        "balls": 184,
+        "dismissals": 9,
+        "average": 19.44,
+        "strike_rate": 95.11
+      },
+      "b_f": [
+        3,
+        30,
+        6
+      ],
+      "w_f": [
+        0,
+        3,
+        1
+      ]
+    },
+    {
+      "bat": "P Nissanka",
+      "bat_t": "Sri Lanka",
+      "bowl": "JC Archer",
+      "bowl_t": "England",
+      "v": "bowler",
+      "h2h": {
+        "balls": 21,
+        "runs": 25,
+        "dismissals": 2,
+        "strike_rate": 119.05
+      },
+      "vs_t": {
+        "runs": 157,
+        "balls": 112,
+        "dismissals": 5,
+        "average": 31.4,
+        "strike_rate": 140.18
+      },
+      "b_f": [
+        0,
+        9,
+        62
+      ],
+      "w_f": [
+        2,
+        2,
+        2
+      ]
+    },
+    {
+      "bat": "JC Buttler",
+      "bat_t": "England",
+      "bowl": "DN Wellalage",
+      "bowl_t": "Sri Lanka",
+      "v": "bowler",
+      "h2h": {
+        "balls": 17,
+        "runs": 20,
+        "dismissals": 2,
+        "strike_rate": 117.65
+      },
+      "vs_t": {
+        "runs": 473,
+        "balls": 349,
+        "dismissals": 9,
+        "average": 52.56,
+        "strike_rate": 135.53
+      },
+      "b_f": [
+        2,
+        7,
+        3
+      ],
+      "w_f": [
+        1,
+        3,
+        1
+      ]
+    },
+    {
+      "bat": "P Nissanka",
+      "bat_t": "Sri Lanka",
+      "bowl": "AU Rashid",
+      "bowl_t": "England",
+      "v": "bowler",
+      "h2h": {
+        "balls": 16,
+        "runs": 8,
+        "dismissals": 2,
+        "strike_rate": 50.0
+      },
+      "vs_t": {
+        "runs": 157,
+        "balls": 112,
+        "dismissals": 5,
+        "average": 31.4,
+        "strike_rate": 140.18
+      },
+      "b_f": [
+        0,
+        9,
+        62
+      ],
+      "w_f": [
+        1,
+        2,
+        1
+      ]
+    },
+    {
+      "bat": "BKG Mendis",
+      "bat_t": "Sri Lanka",
+      "bowl": "LA Dawson",
+      "bowl_t": "England",
+      "v": "bowler",
+      "h2h": {
+        "balls": 14,
+        "runs": 14,
+        "dismissals": 2,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 193,
+        "balls": 160,
+        "dismissals": 10,
+        "average": 19.3,
+        "strike_rate": 120.62
+      },
+      "b_f": [
+        11,
+        4,
+        14
+      ],
+      "w_f": [
+        3,
+        2,
+        0
+      ]
+    },
+    {
+      "bat": "SM Curran",
+      "bat_t": "England",
+      "bowl": "PVD Chameera",
+      "bowl_t": "Sri Lanka",
+      "v": "bowler",
+      "h2h": {
+        "balls": 10,
+        "runs": 10,
+        "dismissals": 2,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 121,
+        "balls": 99,
+        "dismissals": 3,
+        "average": 40.33,
+        "strike_rate": 122.22
+      },
+      "b_f": [
+        16,
+        11,
+        25
+      ],
+      "w_f": [
+        3,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "BKG Mendis",
+      "bat_t": "Sri Lanka",
+      "bowl": "WG Jacks",
+      "bowl_t": "England",
+      "v": "bowler",
+      "h2h": {
+        "balls": 5,
+        "runs": 2,
+        "dismissals": 2,
+        "strike_rate": 40.0
+      },
+      "vs_t": {
+        "runs": 193,
+        "balls": 160,
+        "dismissals": 10,
+        "average": 19.3,
+        "strike_rate": 120.62
+      },
+      "b_f": [
+        11,
+        4,
+        14
+      ],
+      "w_f": [
+        0,
+        3,
+        1
+      ]
+    },
+    {
+      "bat": "BKG Mendis",
+      "bat_t": "Sri Lanka",
+      "bowl": "AU Rashid",
+      "bowl_t": "England",
+      "v": "batsman",
+      "h2h": {
+        "balls": 30,
+        "runs": 45,
+        "dismissals": 1,
+        "strike_rate": 150.0
+      },
+      "vs_t": {
+        "runs": 193,
+        "balls": 160,
+        "dismissals": 10,
+        "average": 19.3,
+        "strike_rate": 120.62
+      },
+      "b_f": [
+        11,
+        4,
+        14
+      ],
+      "w_f": [
+        1,
+        2,
+        1
+      ]
+    },
+    {
+      "bat": "JC Buttler",
+      "bat_t": "England",
+      "bowl": "M Theekshana",
+      "bowl_t": "Sri Lanka",
+      "v": "batsman",
+      "h2h": {
+        "balls": 26,
+        "runs": 19,
+        "dismissals": 1,
+        "strike_rate": 73.08
+      },
+      "vs_t": {
+        "runs": 473,
+        "balls": 349,
+        "dismissals": 9,
+        "average": 52.56,
+        "strike_rate": 135.53
+      },
+      "b_f": [
+        2,
+        7,
+        3
+      ],
+      "w_f": [
+        3,
+        2,
+        0
+      ]
+    },
+    {
+      "bat": "P Nissanka",
+      "bat_t": "Sri Lanka",
+      "bowl": "LA Dawson",
+      "bowl_t": "England",
+      "v": "bowler",
+      "h2h": {
+        "balls": 15,
+        "runs": 18,
+        "dismissals": 1,
+        "strike_rate": 120.0
+      },
+      "vs_t": {
+        "runs": 157,
+        "balls": 112,
+        "dismissals": 5,
+        "average": 31.4,
+        "strike_rate": 140.18
+      },
+      "b_f": [
+        0,
+        9,
+        62
+      ],
+      "w_f": [
+        3,
+        2,
+        0
+      ]
+    },
+    {
+      "bat": "K Mishara",
+      "bat_t": "Sri Lanka",
+      "bowl": "WG Jacks",
+      "bowl_t": "England",
+      "v": "bowler",
+      "h2h": {
+        "balls": 15,
+        "runs": 9,
+        "dismissals": 1,
+        "strike_rate": 60.0
+      },
+      "vs_t": {
+        "runs": 58,
+        "balls": 55,
+        "dismissals": 4,
+        "average": 14.5,
+        "strike_rate": 105.45
+      },
+      "b_f": [
+        6,
+        8,
+        14
+      ],
+      "w_f": [
+        0,
+        3,
+        1
+      ]
+    },
+    {
+      "bat": "DN Wellalage",
+      "bat_t": "Sri Lanka",
+      "bowl": "WG Jacks",
+      "bowl_t": "England",
+      "v": "bowler",
+      "h2h": {
+        "balls": 14,
+        "runs": 15,
+        "dismissals": 1,
+        "strike_rate": 107.14
+      },
+      "vs_t": {
+        "runs": 19,
+        "balls": 24,
+        "dismissals": 2,
+        "average": 9.5,
+        "strike_rate": 79.17
+      },
+      "b_f": [
+        29,
+        10,
+        15
+      ],
+      "w_f": [
+        0,
+        3,
+        1
+      ]
+    },
+    {
+      "bat": "K Mishara",
+      "bat_t": "Sri Lanka",
+      "bowl": "JC Archer",
+      "bowl_t": "England",
+      "v": "bowler",
+      "h2h": {
+        "balls": 14,
+        "runs": 10,
+        "dismissals": 1,
+        "strike_rate": 71.43
+      },
+      "vs_t": {
+        "runs": 58,
+        "balls": 55,
+        "dismissals": 4,
+        "average": 14.5,
+        "strike_rate": 105.45
+      },
+      "b_f": [
+        6,
+        8,
+        14
+      ],
+      "w_f": [
+        2,
+        2,
+        2
+      ]
+    },
+    {
+      "bat": "T Banton",
+      "bat_t": "England",
+      "bowl": "DN Wellalage",
+      "bowl_t": "Sri Lanka",
+      "v": "batsman",
+      "h2h": {
+        "balls": 11,
+        "runs": 16,
+        "dismissals": 1,
+        "strike_rate": 145.45
+      },
+      "vs_t": {
+        "runs": 96,
+        "balls": 65,
+        "dismissals": 2,
+        "average": 48.0,
+        "strike_rate": 147.69
+      },
+      "b_f": [
+        2,
+        6,
+        30
+      ],
+      "w_f": [
+        1,
+        3,
+        1
+      ]
+    },
+    {
+      "bat": "PD Salt",
+      "bat_t": "England",
+      "bowl": "DN Wellalage",
+      "bowl_t": "Sri Lanka",
+      "v": "batsman",
+      "h2h": {
+        "balls": 10,
+        "runs": 15,
+        "dismissals": 1,
+        "strike_rate": 150.0
+      },
+      "vs_t": {
+        "runs": 109,
+        "balls": 80,
+        "dismissals": 3,
+        "average": 36.33,
+        "strike_rate": 136.25
+      },
+      "b_f": [
+        0,
+        62,
+        28
+      ],
+      "w_f": [
+        1,
+        3,
+        1
+      ]
+    },
+    {
+      "bat": "JC Buttler",
+      "bat_t": "England",
+      "bowl": "PVD Chameera",
+      "bowl_t": "Sri Lanka",
+      "v": "batsman",
+      "h2h": {
+        "balls": 40,
+        "runs": 66,
+        "dismissals": 0,
+        "strike_rate": 165.0
+      },
+      "vs_t": {
+        "runs": 473,
+        "balls": 349,
+        "dismissals": 9,
+        "average": 52.56,
+        "strike_rate": 135.53
+      },
+      "b_f": [
+        2,
+        7,
+        3
+      ],
+      "w_f": [
+        3,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "PHKD Mendis",
+      "bat_t": "Sri Lanka",
+      "bowl": "LA Dawson",
+      "bowl_t": "England",
+      "v": "batsman",
+      "h2h": {
+        "balls": 10,
+        "runs": 16,
+        "dismissals": 1,
+        "strike_rate": 160.0
+      },
+      "vs_t": {
+        "runs": 51,
+        "balls": 36,
+        "dismissals": 3,
+        "average": 17.0,
+        "strike_rate": 141.67
+      },
+      "b_f": [
+        31,
+        13,
+        7
+      ],
+      "w_f": [
+        3,
+        2,
+        0
+      ]
+    },
+    {
+      "bat": "LA Dawson",
+      "bat_t": "England",
+      "bowl": "M Theekshana",
+      "bowl_t": "Sri Lanka",
+      "v": "bowler",
+      "h2h": {
+        "balls": 9,
+        "runs": 8,
+        "dismissals": 1,
+        "strike_rate": 88.89
+      },
+      "vs_t": {
+        "runs": 20,
+        "balls": 31,
+        "dismissals": 2,
+        "average": 10.0,
+        "strike_rate": 64.52
+      },
+      "b_f": [
+        1,
+        6,
+        1
+      ],
+      "w_f": [
+        3,
+        2,
+        0
+      ]
+    },
+    {
+      "bat": "J Overton",
+      "bat_t": "England",
+      "bowl": "PVD Chameera",
+      "bowl_t": "Sri Lanka",
+      "v": "neutral",
+      "h2h": {
+        "balls": 8,
+        "runs": 10,
+        "dismissals": 1,
+        "strike_rate": 125.0
+      },
+      "vs_t": {
+        "runs": 12,
+        "balls": 14,
+        "dismissals": 1,
+        "average": 12.0,
+        "strike_rate": 85.71
+      },
+      "b_f": [
+        0,
+        10,
+        15
+      ],
+      "w_f": [
+        3,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "PHKD Mendis",
+      "bat_t": "Sri Lanka",
+      "bowl": "WG Jacks",
+      "bowl_t": "England",
+      "v": "bowler",
+      "h2h": {
+        "balls": 8,
+        "runs": 5,
+        "dismissals": 1,
+        "strike_rate": 62.5
+      },
+      "vs_t": {
+        "runs": 51,
+        "balls": 36,
+        "dismissals": 3,
+        "average": 17.0,
+        "strike_rate": 141.67
+      },
+      "b_f": [
+        31,
+        13,
+        7
+      ],
+      "w_f": [
+        0,
+        3,
+        1
+      ]
+    },
+    {
+      "bat": "K Mishara",
+      "bat_t": "Sri Lanka",
+      "bowl": "J Overton",
+      "bowl_t": "England",
+      "v": "batsman",
+      "h2h": {
+        "balls": 8,
+        "runs": 14,
+        "dismissals": 1,
+        "strike_rate": 175.0
+      },
+      "vs_t": {
+        "runs": 58,
+        "balls": 55,
+        "dismissals": 4,
+        "average": 14.5,
+        "strike_rate": 105.45
+      },
+      "b_f": [
+        6,
+        8,
+        14
+      ],
+      "w_f": [
+        2,
+        1,
+        3
+      ]
+    },
+    {
+      "bat": "LA Dawson",
+      "bat_t": "England",
+      "bowl": "PVD Chameera",
+      "bowl_t": "Sri Lanka",
+      "v": "bowler",
+      "h2h": {
+        "balls": 7,
+        "runs": 5,
+        "dismissals": 1,
+        "strike_rate": 71.43
+      },
+      "vs_t": {
+        "runs": 20,
+        "balls": 31,
+        "dismissals": 2,
+        "average": 10.0,
+        "strike_rate": 64.52
+      },
+      "b_f": [
+        1,
+        6,
+        1
+      ],
+      "w_f": [
+        3,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "JG Bethell",
+      "bat_t": "England",
+      "bowl": "MD Shanaka",
+      "bowl_t": "Sri Lanka",
+      "v": "bowler",
+      "h2h": {
+        "balls": 7,
+        "runs": 9,
+        "dismissals": 1,
+        "strike_rate": 128.57
+      },
+      "vs_t": {
+        "runs": 28,
+        "balls": 33,
+        "dismissals": 4,
+        "average": 7.0,
+        "strike_rate": 84.85
+      },
+      "b_f": [
+        8,
+        3,
+        23
+      ],
+      "w_f": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "PHKD Mendis",
+      "bat_t": "Sri Lanka",
+      "bowl": "AU Rashid",
+      "bowl_t": "England",
+      "v": "bowler",
+      "h2h": {
+        "balls": 7,
+        "runs": 5,
+        "dismissals": 1,
+        "strike_rate": 71.43
+      },
+      "vs_t": {
+        "runs": 51,
+        "balls": 36,
+        "dismissals": 3,
+        "average": 17.0,
+        "strike_rate": 141.67
+      },
+      "b_f": [
+        31,
+        13,
+        7
+      ],
+      "w_f": [
+        1,
+        2,
+        1
+      ]
+    },
+    {
+      "bat": "P Rathnayake",
+      "bat_t": "Sri Lanka",
+      "bowl": "AU Rashid",
+      "bowl_t": "England",
+      "v": "bowler",
+      "h2h": {
+        "balls": 7,
+        "runs": 6,
+        "dismissals": 1,
+        "strike_rate": 85.71
+      },
+      "vs_t": {
+        "runs": 53,
+        "balls": 39,
+        "dismissals": 3,
+        "average": 17.67,
+        "strike_rate": 135.9
+      },
+      "b_f": [
+        10,
+        0,
+        44
+      ],
+      "w_f": [
+        1,
+        2,
+        1
+      ]
+    },
+    {
+      "bat": "WG Jacks",
+      "bat_t": "England",
+      "bowl": "PVD Chameera",
+      "bowl_t": "Sri Lanka",
+      "v": "bowler",
+      "h2h": {
+        "balls": 6,
+        "runs": 6,
+        "dismissals": 1,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 24,
+        "balls": 19,
+        "dismissals": 2,
+        "average": 12.0,
+        "strike_rate": 126.32
+      },
+      "b_f": [
+        28,
+        21,
+        53
+      ],
+      "w_f": [
+        3,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "HC Brook",
+      "bat_t": "England",
+      "bowl": "DN Wellalage",
+      "bowl_t": "Sri Lanka",
+      "v": "bowler",
+      "h2h": {
+        "balls": 5,
+        "runs": 11,
+        "dismissals": 1,
+        "strike_rate": 220.0
+      },
+      "vs_t": {
+        "runs": 74,
+        "balls": 47,
+        "dismissals": 4,
+        "average": 18.5,
+        "strike_rate": 157.45
+      },
+      "b_f": [
+        100,
+        14,
+        14
+      ],
+      "w_f": [
+        1,
+        3,
+        1
+      ]
+    },
+    {
+      "bat": "WG Jacks",
+      "bat_t": "England",
+      "bowl": "D Madushanka",
+      "bowl_t": "Sri Lanka",
+      "v": "bowler",
+      "h2h": {
+        "balls": 4,
+        "runs": 8,
+        "dismissals": 1,
+        "strike_rate": 200.0
+      },
+      "vs_t": {
+        "runs": 24,
+        "balls": 19,
+        "dismissals": 2,
+        "average": 12.0,
+        "strike_rate": 126.32
+      },
+      "b_f": [
+        28,
+        21,
+        53
+      ],
+      "w_f": [
+        0,
+        2,
+        0
+      ]
+    },
+    {
+      "bat": "DN Wellalage",
+      "bat_t": "Sri Lanka",
+      "bowl": "JG Bethell",
+      "bowl_t": "England",
+      "v": "bowler",
+      "h2h": {
+        "balls": 4,
+        "runs": 1,
+        "dismissals": 1,
+        "strike_rate": 25.0
+      },
+      "vs_t": {
+        "runs": 19,
+        "balls": 24,
+        "dismissals": 2,
+        "average": 9.5,
+        "strike_rate": 79.17
+      },
+      "b_f": [
+        29,
+        10,
+        15
+      ]
+    },
+    {
+      "bat": "P Rathnayake",
+      "bat_t": "Sri Lanka",
+      "bowl": "WG Jacks",
+      "bowl_t": "England",
+      "v": "bowler",
+      "h2h": {
+        "balls": 4,
+        "runs": 5,
+        "dismissals": 1,
+        "strike_rate": 125.0
+      },
+      "vs_t": {
+        "runs": 53,
+        "balls": 39,
+        "dismissals": 3,
+        "average": 17.67,
+        "strike_rate": 135.9
+      },
+      "b_f": [
+        10,
+        0,
+        44
+      ],
+      "w_f": [
+        0,
+        3,
+        1
+      ]
+    },
+    {
+      "bat": "PVD Chameera",
+      "bat_t": "Sri Lanka",
+      "bowl": "LA Dawson",
+      "bowl_t": "England",
+      "v": "bowler",
+      "h2h": {
+        "balls": 4,
+        "runs": 3,
+        "dismissals": 1,
+        "strike_rate": 75.0
+      },
+      "vs_t": {
+        "runs": 11,
+        "balls": 24,
+        "dismissals": 4,
+        "average": 2.75,
+        "strike_rate": 45.83
+      },
+      "b_f": [
+        7,
+        6
+      ],
+      "w_f": [
+        3,
+        2,
+        0
+      ]
+    },
+    {
+      "bat": "PD Salt",
+      "bat_t": "England",
+      "bowl": "MD Shanaka",
+      "bowl_t": "Sri Lanka",
+      "v": "batsman",
+      "h2h": {
+        "balls": 3,
+        "runs": 2,
+        "dismissals": 1,
+        "strike_rate": 66.67
+      },
+      "vs_t": {
+        "runs": 109,
+        "balls": 80,
+        "dismissals": 3,
+        "average": 36.33,
+        "strike_rate": 136.25
+      },
+      "b_f": [
+        0,
+        62,
+        28
+      ],
+      "w_f": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "MADI Hemantha",
+      "bat_t": "Sri Lanka",
+      "bowl": "J Overton",
+      "bowl_t": "England",
+      "v": "neutral",
+      "h2h": {
+        "balls": 3,
+        "runs": 1,
+        "dismissals": 1,
+        "strike_rate": 33.33
+      },
+      "vs_t": {
+        "runs": 5,
+        "balls": 8,
+        "dismissals": 1,
+        "average": 5.0,
+        "strike_rate": 62.5
+      },
+      "b_f": [
+        3,
+        5,
+        0
+      ],
+      "w_f": [
+        2,
+        1,
+        3
+      ]
+    },
+    {
+      "bat": "P Rathnayake",
+      "bat_t": "Sri Lanka",
+      "bowl": "JC Archer",
+      "bowl_t": "England",
+      "v": "bowler",
+      "h2h": {
+        "balls": 3,
+        "runs": 1,
+        "dismissals": 1,
+        "strike_rate": 33.33
+      },
+      "vs_t": {
+        "runs": 53,
+        "balls": 39,
+        "dismissals": 3,
+        "average": 17.67,
+        "strike_rate": 135.9
+      },
+      "b_f": [
+        10,
+        0,
+        44
+      ],
+      "w_f": [
+        2,
+        2,
+        2
+      ]
+    },
+    {
+      "bat": "D Madushanka",
+      "bat_t": "Sri Lanka",
+      "bowl": "AU Rashid",
+      "bowl_t": "England",
+      "v": "neutral",
+      "h2h": {
+        "balls": 2,
+        "runs": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 0,
+        "balls": 2,
+        "dismissals": 1,
+        "average": 0.0,
+        "strike_rate": 0.0
+      },
+      "b_f": [
+        0
+      ],
+      "w_f": [
+        1,
+        2,
+        1
+      ]
+    },
+    {
+      "bat": "M Theekshana",
+      "bat_t": "Sri Lanka",
+      "bowl": "JG Bethell",
+      "bowl_t": "England",
+      "v": "bowler",
+      "h2h": {
+        "balls": 2,
+        "runs": 1,
+        "dismissals": 1,
+        "strike_rate": 50.0
+      },
+      "vs_t": {
+        "runs": 14,
+        "balls": 17,
+        "dismissals": 3,
+        "average": 4.67,
+        "strike_rate": 82.35
+      },
+      "b_f": [
+        1,
+        10
+      ]
+    },
+    {
+      "bat": "PVD Chameera",
+      "bat_t": "Sri Lanka",
+      "bowl": "JG Bethell",
+      "bowl_t": "England",
+      "v": "bowler",
+      "h2h": {
+        "balls": 2,
+        "runs": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 11,
+        "balls": 24,
+        "dismissals": 4,
+        "average": 2.75,
+        "strike_rate": 45.83
+      },
+      "b_f": [
+        7,
+        6
+      ]
+    },
+    {
+      "bat": "JC Archer",
+      "bat_t": "England",
+      "bowl": "D Madushanka",
+      "bowl_t": "Sri Lanka",
+      "v": "neutral",
+      "h2h": {
+        "balls": 1,
+        "runs": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 0,
+        "balls": 1,
+        "dismissals": 1,
+        "average": 0.0,
+        "strike_rate": 0.0
+      },
+      "b_f": [
+        5,
+        0,
+        1
+      ],
+      "w_f": [
+        0,
+        2,
+        0
+      ]
+    },
+    {
+      "bat": "JG Bethell",
+      "bat_t": "England",
+      "bowl": "M Theekshana",
+      "bowl_t": "Sri Lanka",
+      "v": "bowler",
+      "h2h": {
+        "balls": 1,
+        "runs": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 28,
+        "balls": 33,
+        "dismissals": 4,
+        "average": 7.0,
+        "strike_rate": 84.85
+      },
+      "b_f": [
+        8,
+        3,
+        23
+      ],
+      "w_f": [
+        3,
+        2,
+        0
+      ]
+    },
+    {
+      "bat": "MD Shanaka",
+      "bat_t": "Sri Lanka",
+      "bowl": "JG Bethell",
+      "bowl_t": "England",
+      "v": "bowler",
+      "h2h": {
+        "balls": 1,
+        "runs": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 175,
+        "balls": 184,
+        "dismissals": 9,
+        "average": 19.44,
+        "strike_rate": 95.11
+      },
+      "b_f": [
+        3,
+        30,
+        6
+      ]
+    },
+    {
+      "bat": "M Theekshana",
+      "bat_t": "Sri Lanka",
+      "bowl": "SM Curran",
+      "bowl_t": "England",
+      "v": "bowler",
+      "h2h": {
+        "balls": 1,
+        "runs": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 14,
+        "balls": 17,
+        "dismissals": 3,
+        "average": 4.67,
+        "strike_rate": 82.35
+      },
+      "b_f": [
+        1,
+        10
+      ],
+      "w_f": [
+        0,
+        3,
+        1
+      ]
+    },
+    {
+      "bat": "JC Buttler",
+      "bat_t": "England",
+      "bowl": "MD Shanaka",
+      "bowl_t": "Sri Lanka",
+      "v": "batsman",
+      "h2h": {
+        "balls": 24,
+        "runs": 48,
+        "dismissals": 0,
+        "strike_rate": 200.0
+      },
+      "vs_t": {
+        "runs": 473,
+        "balls": 349,
+        "dismissals": 9,
+        "average": 52.56,
+        "strike_rate": 135.53
+      },
+      "b_f": [
+        2,
+        7,
+        3
+      ],
+      "w_f": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "SM Curran",
+      "bat_t": "England",
+      "bowl": "M Theekshana",
+      "bowl_t": "Sri Lanka",
+      "v": "bowler",
+      "h2h": {
+        "balls": 20,
+        "runs": 12,
+        "dismissals": 0,
+        "strike_rate": 60.0
+      },
+      "vs_t": {
+        "runs": 121,
+        "balls": 99,
+        "dismissals": 3,
+        "average": 40.33,
+        "strike_rate": 122.22
+      },
+      "b_f": [
+        16,
+        11,
+        25
+      ],
+      "w_f": [
+        3,
+        2,
+        0
+      ]
+    },
+    {
+      "bat": "PD Salt",
+      "bat_t": "England",
+      "bowl": "M Theekshana",
+      "bowl_t": "Sri Lanka",
+      "v": "batsman",
+      "h2h": {
+        "balls": 19,
+        "runs": 30,
+        "dismissals": 0,
+        "strike_rate": 157.89
+      },
+      "vs_t": {
+        "runs": 109,
+        "balls": 80,
+        "dismissals": 3,
+        "average": 36.33,
+        "strike_rate": 136.25
+      },
+      "b_f": [
+        0,
+        62,
+        28
+      ],
+      "w_f": [
+        3,
+        2,
+        0
+      ]
+    },
+    {
+      "bat": "MD Shanaka",
+      "bat_t": "Sri Lanka",
+      "bowl": "LA Dawson",
+      "bowl_t": "England",
+      "v": "bowler",
+      "h2h": {
+        "balls": 18,
+        "runs": 18,
+        "dismissals": 0,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 175,
+        "balls": 184,
+        "dismissals": 9,
+        "average": 19.44,
+        "strike_rate": 95.11
+      },
+      "b_f": [
+        3,
+        30,
+        6
+      ],
+      "w_f": [
+        3,
+        2,
+        0
+      ]
+    },
+    {
+      "bat": "P Nissanka",
+      "bat_t": "Sri Lanka",
+      "bowl": "SM Curran",
+      "bowl_t": "England",
+      "v": "batsman",
+      "h2h": {
+        "balls": 17,
+        "runs": 32,
+        "dismissals": 0,
+        "strike_rate": 188.24
+      },
+      "vs_t": {
+        "runs": 157,
+        "balls": 112,
+        "dismissals": 5,
+        "average": 31.4,
+        "strike_rate": 140.18
+      },
+      "b_f": [
+        0,
+        9,
+        62
+      ],
+      "w_f": [
+        0,
+        3,
+        1
+      ]
+    },
+    {
+      "bat": "SM Curran",
+      "bat_t": "England",
+      "bowl": "DN Wellalage",
+      "bowl_t": "Sri Lanka",
+      "v": "batsman",
+      "h2h": {
+        "balls": 12,
+        "runs": 16,
+        "dismissals": 0,
+        "strike_rate": 133.33
+      },
+      "vs_t": {
+        "runs": 121,
+        "balls": 99,
+        "dismissals": 3,
+        "average": 40.33,
+        "strike_rate": 122.22
+      },
+      "b_f": [
+        16,
+        11,
+        25
+      ],
+      "w_f": [
+        1,
+        3,
+        1
+      ]
+    },
+    {
+      "bat": "T Banton",
+      "bat_t": "England",
+      "bowl": "MD Shanaka",
+      "bowl_t": "Sri Lanka",
+      "v": "batsman",
+      "h2h": {
+        "balls": 12,
+        "runs": 16,
+        "dismissals": 0,
+        "strike_rate": 133.33
+      },
+      "vs_t": {
+        "runs": 96,
+        "balls": 65,
+        "dismissals": 2,
+        "average": 48.0,
+        "strike_rate": 147.69
+      },
+      "b_f": [
+        2,
+        6,
+        30
+      ],
+      "w_f": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "PD Salt",
+      "bat_t": "England",
+      "bowl": "MADI Hemantha",
+      "bowl_t": "Sri Lanka",
+      "v": "batsman",
+      "h2h": {
+        "balls": 12,
+        "runs": 19,
+        "dismissals": 0,
+        "strike_rate": 158.33
+      },
+      "vs_t": {
+        "runs": 109,
+        "balls": 80,
+        "dismissals": 3,
+        "average": 36.33,
+        "strike_rate": 136.25
+      },
+      "b_f": [
+        0,
+        62,
+        28
+      ],
+      "w_f": [
+        0,
+        0,
+        2
+      ]
+    }
+  ]
+}

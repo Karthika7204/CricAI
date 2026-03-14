@@ -1,0 +1,93 @@
+{
+    "match_id": "1512738",
+    "winner": "United Arab Emirates",
+    "loser": "Canada",
+    "awards": {
+        "player_of_the_match": {
+            "name": "Junaid Siddique",
+            "team": "United Arab Emirates",
+            "impact_score": 163.9,
+            "breakdown": {
+                "batting": 0.0,
+                "bowling": 125,
+                "fielding": 24,
+                "pressure_multiplier": 1.1
+            },
+            "key_stats": {
+                "bowling": "4.0ov-5wkt econ:8.75"
+            }
+        },
+        "best_batter": {
+            "name": "Shoaib Khan",
+            "team": "United Arab Emirates",
+            "batting_impact": 108.0,
+            "stats": {
+                "runs": 51,
+                "balls": 30,
+                "sr": 170.0,
+                "fours": 4,
+                "sixes": 4
+            }
+        },
+        "best_bowler": {
+            "name": "Junaid Siddique",
+            "team": "United Arab Emirates",
+            "bowling_impact": 125,
+            "stats": {
+                "overs": 4.0,
+                "wickets": 5,
+                "econ": 8.75
+            }
+        },
+        "game_changer": {
+            "name": "Junaid Siddique",
+            "team": "United Arab Emirates",
+            "reason": "5-wicket haul",
+            "key_stats": {
+                "bowling": "4.0ov-5wkt econ:8.75"
+            }
+        },
+        "pressure_performer": {
+            "name": "Shoaib Khan",
+            "team": "United Arab Emirates",
+            "pressure_multiplier": 1.1,
+            "reason": "Chasing team batter under pressure | Attacking SR 170.0 under pressure",
+            "key_stats": {
+                "batting": "51(30) SR:170.0"
+            }
+        },
+        "emerging_player": {
+            "name": "Saad Bin Zafar",
+            "team": "Canada",
+            "reason": "Outperformed team average by 4.34x",
+            "key_stats": {
+                "batting": "5(4) SR:125.0",
+                "bowling": "4.0ov-3wkt econ:3.5"
+            }
+        },
+        "fielding_impact": {
+            "name": "Junaid Siddique",
+            "team": "United Arab Emirates",
+            "fielding_proxy_score": 24,
+            "methodology": "Proxy-based: catch attribution (65% T20 wickets are catches) + dot ball pressure bonus + economy-implied fielding support",
+            "reason": "Estimated 3 caught dismissals from 5 wickets",
+            "stats": {
+                "overs": 4.0,
+                "wickets": 5,
+                "econ": 8.75
+            }
+        },
+        "all_rounder_impact": {
+            "name": "Saad Bin Zafar",
+            "team": "Canada",
+            "all_rounder_score": 127.0,
+            "stats": {
+                "runs": 5,
+                "sr": 125.0,
+                "overs": 4.0,
+                "wickets": 3,
+                "econ": 3.5
+            }
+        }
+    }
+}

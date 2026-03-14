@@ -1,0 +1,1461 @@
+{
+  "match_id": "1512743",
+  "team_a": "Nepal",
+  "team_b": "West Indies",
+  "matchups": [
+    {
+      "bat": "K Bhurtel",
+      "bat_t": "Nepal",
+      "bowl": "AJ Hosein",
+      "bowl_t": "West Indies",
+      "v": "bowler",
+      "h2h": {
+        "balls": 18,
+        "runs": 18,
+        "dismissals": 4,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 48,
+        "balls": 48,
+        "dismissals": 4,
+        "average": 12.0,
+        "strike_rate": 100.0
+      },
+      "b_f": [
+        43,
+        1,
+        5
+      ],
+      "w_f": [
+        3,
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "Aasif Sheikh",
+      "bat_t": "Nepal",
+      "bowl": "JO Holder",
+      "bowl_t": "West Indies",
+      "v": "bowler",
+      "h2h": {
+        "balls": 15,
+        "runs": 17,
+        "dismissals": 2,
+        "strike_rate": 113.33
+      },
+      "vs_t": {
+        "runs": 82,
+        "balls": 65,
+        "dismissals": 2,
+        "average": 41.0,
+        "strike_rate": 126.15
+      },
+      "b_f": [
+        33,
+        11,
+        20
+      ],
+      "w_f": [
+        1,
+        0,
+        4
+      ]
+    },
+    {
+      "bat": "DS Airee",
+      "bat_t": "Nepal",
+      "bowl": "JO Holder",
+      "bowl_t": "West Indies",
+      "v": "bowler",
+      "h2h": {
+        "balls": 11,
+        "runs": 10,
+        "dismissals": 2,
+        "strike_rate": 90.91
+      },
+      "vs_t": {
+        "runs": 75,
+        "balls": 69,
+        "dismissals": 2,
+        "average": 37.5,
+        "strike_rate": 108.7
+      },
+      "b_f": [
+        50,
+        58,
+        17
+      ],
+      "w_f": [
+        1,
+        0,
+        4
+      ]
+    },
+    {
+      "bat": "Karan KC",
+      "bat_t": "Nepal",
+      "bowl": "JO Holder",
+      "bowl_t": "West Indies",
+      "v": "neutral",
+      "h2h": {
+        "balls": 4,
+        "runs": 1,
+        "dismissals": 2,
+        "strike_rate": 25.0
+      },
+      "vs_t": {
+        "runs": 1,
+        "balls": 5,
+        "dismissals": 3,
+        "average": 0.33,
+        "strike_rate": 20.0
+      },
+      "b_f": [
+        1,
+        18,
+        1
+      ],
+      "w_f": [
+        1,
+        0,
+        4
+      ]
+    },
+    {
+      "bat": "RK Paudel",
+      "bat_t": "Nepal",
+      "bowl": "AJ Hosein",
+      "bowl_t": "West Indies",
+      "v": "bowler",
+      "h2h": {
+        "balls": 26,
+        "runs": 13,
+        "dismissals": 1,
+        "strike_rate": 50.0
+      },
+      "vs_t": {
+        "runs": 63,
+        "balls": 72,
+        "dismissals": 4,
+        "average": 15.75,
+        "strike_rate": 87.5
+      },
+      "b_f": [
+        16,
+        5,
+        23
+      ],
+      "w_f": [
+        3,
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "JO Holder",
+      "bat_t": "West Indies",
+      "bowl": "K Bhurtel",
+      "bowl_t": "Nepal",
+      "v": "batsman",
+      "h2h": {
+        "balls": 8,
+        "runs": 16,
+        "dismissals": 1,
+        "strike_rate": 200.0
+      },
+      "vs_t": {
+        "runs": 26,
+        "balls": 22,
+        "dismissals": 2,
+        "average": 13.0,
+        "strike_rate": 118.18
+      },
+      "b_f": [
+        13,
+        9,
+        33
+      ],
+      "w_f": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "Gulsan Jha",
+      "bat_t": "Nepal",
+      "bowl": "RL Chase",
+      "bowl_t": "West Indies",
+      "v": "bowler",
+      "h2h": {
+        "balls": 7,
+        "runs": 3,
+        "dismissals": 1,
+        "strike_rate": 42.86
+      },
+      "vs_t": {
+        "runs": 49,
+        "balls": 51,
+        "dismissals": 3,
+        "average": 16.33,
+        "strike_rate": 96.08
+      },
+      "b_f": [
+        24,
+        11,
+        3
+      ],
+      "w_f": [
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "Aarif Sheikh",
+      "bat_t": "Nepal",
+      "bowl": "JO Holder",
+      "bowl_t": "West Indies",
+      "v": "neutral",
+      "h2h": {
+        "balls": 6,
+        "runs": 1,
+        "dismissals": 1,
+        "strike_rate": 16.67
+      },
+      "vs_t": {
+        "runs": 8,
+        "balls": 11,
+        "dismissals": 2,
+        "average": 4.0,
+        "strike_rate": 72.73
+      },
+      "b_f": [
+        2,
+        27,
+        10
+      ],
+      "w_f": [
+        1,
+        0,
+        4
+      ]
+    },
+    {
+      "bat": "AJ Hosein",
+      "bat_t": "West Indies",
+      "bowl": "K Bhurtel",
+      "bowl_t": "Nepal",
+      "v": "bowler",
+      "h2h": {
+        "balls": 6,
+        "runs": 6,
+        "dismissals": 1,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 18,
+        "balls": 12,
+        "dismissals": 2,
+        "average": 9.0,
+        "strike_rate": 150.0
+      },
+      "w_f": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "BA King",
+      "bat_t": "West Indies",
+      "bowl": "NK Yadav",
+      "bowl_t": "Nepal",
+      "v": "neutral",
+      "h2h": {
+        "balls": 6,
+        "runs": 1,
+        "dismissals": 1,
+        "strike_rate": 16.67
+      },
+      "vs_t": {
+        "runs": 22,
+        "balls": 20,
+        "dismissals": 1,
+        "average": 22.0,
+        "strike_rate": 110.0
+      },
+      "b_f": [
+        9,
+        4,
+        22
+      ],
+      "w_f": [
+        2,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "Lokesh Bam",
+      "bat_t": "Nepal",
+      "bowl": "S Joseph",
+      "bowl_t": "West Indies",
+      "v": "bowler",
+      "h2h": {
+        "balls": 5,
+        "runs": 5,
+        "dismissals": 1,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 22,
+        "balls": 26,
+        "dismissals": 2,
+        "average": 11.0,
+        "strike_rate": 84.62
+      },
+      "b_f": [
+        13,
+        3,
+        39
+      ],
+      "w_f": [
+        0,
+        4,
+        1
+      ]
+    },
+    {
+      "bat": "RK Paudel",
+      "bat_t": "Nepal",
+      "bowl": "MW Forde",
+      "bowl_t": "West Indies",
+      "v": "bowler",
+      "h2h": {
+        "balls": 3,
+        "runs": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 63,
+        "balls": 72,
+        "dismissals": 4,
+        "average": 15.75,
+        "strike_rate": 87.5
+      },
+      "b_f": [
+        16,
+        5,
+        23
+      ],
+      "w_f": [
+        2,
+        3,
+        1
+      ]
+    },
+    {
+      "bat": "AJ Hosein",
+      "bat_t": "West Indies",
+      "bowl": "Karan KC",
+      "bowl_t": "Nepal",
+      "v": "bowler",
+      "h2h": {
+        "balls": 2,
+        "runs": 1,
+        "dismissals": 1,
+        "strike_rate": 50.0
+      },
+      "vs_t": {
+        "runs": 18,
+        "balls": 12,
+        "dismissals": 2,
+        "average": 9.0,
+        "strike_rate": 150.0
+      },
+      "w_f": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "Aasif Sheikh",
+      "bat_t": "Nepal",
+      "bowl": "AJ Hosein",
+      "bowl_t": "West Indies",
+      "v": "batsman",
+      "h2h": {
+        "balls": 15,
+        "runs": 24,
+        "dismissals": 0,
+        "strike_rate": 160.0
+      },
+      "vs_t": {
+        "runs": 82,
+        "balls": 65,
+        "dismissals": 2,
+        "average": 41.0,
+        "strike_rate": 126.15
+      },
+      "b_f": [
+        33,
+        11,
+        20
+      ],
+      "w_f": [
+        3,
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "DS Airee",
+      "bat_t": "Nepal",
+      "bowl": "S Joseph",
+      "bowl_t": "West Indies",
+      "v": "batsman",
+      "h2h": {
+        "balls": 13,
+        "runs": 27,
+        "dismissals": 0,
+        "strike_rate": 207.69
+      },
+      "vs_t": {
+        "runs": 75,
+        "balls": 69,
+        "dismissals": 2,
+        "average": 37.5,
+        "strike_rate": 108.7
+      },
+      "b_f": [
+        50,
+        58,
+        17
+      ],
+      "w_f": [
+        0,
+        4,
+        1
+      ]
+    },
+    {
+      "bat": "SO Hetmyer",
+      "bat_t": "West Indies",
+      "bowl": "DS Airee",
+      "bowl_t": "Nepal",
+      "v": "batsman",
+      "h2h": {
+        "balls": 12,
+        "runs": 10,
+        "dismissals": 0,
+        "strike_rate": 83.33
+      },
+      "vs_t": {
+        "runs": 46,
+        "balls": 33,
+        "dismissals": 0,
+        "average": 46.0,
+        "strike_rate": 139.39
+      },
+      "b_f": [
+        85,
+        1,
+        46
+      ],
+      "w_f": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "K Bhurtel",
+      "bat_t": "Nepal",
+      "bowl": "JO Holder",
+      "bowl_t": "West Indies",
+      "v": "batsman",
+      "h2h": {
+        "balls": 10,
+        "runs": 13,
+        "dismissals": 0,
+        "strike_rate": 130.0
+      },
+      "vs_t": {
+        "runs": 48,
+        "balls": 48,
+        "dismissals": 4,
+        "average": 12.0,
+        "strike_rate": 100.0
+      },
+      "b_f": [
+        43,
+        1,
+        5
+      ],
+      "w_f": [
+        1,
+        0,
+        4
+      ]
+    },
+    {
+      "bat": "Sompal Kami",
+      "bat_t": "Nepal",
+      "bowl": "JO Holder",
+      "bowl_t": "West Indies",
+      "v": "batsman",
+      "h2h": {
+        "balls": 10,
+        "runs": 20,
+        "dismissals": 0,
+        "strike_rate": 200.0
+      },
+      "vs_t": {
+        "runs": 36,
+        "balls": 24,
+        "dismissals": 1,
+        "average": 36.0,
+        "strike_rate": 150.0
+      },
+      "b_f": [
+        26
+      ],
+      "w_f": [
+        1,
+        0,
+        4
+      ]
+    },
+    {
+      "bat": "DS Airee",
+      "bat_t": "Nepal",
+      "bowl": "MW Forde",
+      "bowl_t": "West Indies",
+      "v": "bowler",
+      "h2h": {
+        "balls": 10,
+        "runs": 3,
+        "dismissals": 0,
+        "strike_rate": 30.0
+      },
+      "vs_t": {
+        "runs": 75,
+        "balls": 69,
+        "dismissals": 2,
+        "average": 37.5,
+        "strike_rate": 108.7
+      },
+      "b_f": [
+        50,
+        58,
+        17
+      ],
+      "w_f": [
+        2,
+        3,
+        1
+      ]
+    },
+    {
+      "bat": "DS Airee",
+      "bat_t": "Nepal",
+      "bowl": "AJ Hosein",
+      "bowl_t": "West Indies",
+      "v": "bowler",
+      "h2h": {
+        "balls": 10,
+        "runs": 11,
+        "dismissals": 0,
+        "strike_rate": 110.0
+      },
+      "vs_t": {
+        "runs": 75,
+        "balls": 69,
+        "dismissals": 2,
+        "average": 37.5,
+        "strike_rate": 108.7
+      },
+      "b_f": [
+        50,
+        58,
+        17
+      ],
+      "w_f": [
+        3,
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "SD Hope",
+      "bat_t": "West Indies",
+      "bowl": "S Lamichhane",
+      "bowl_t": "Nepal",
+      "v": "batsman",
+      "h2h": {
+        "balls": 9,
+        "runs": 19,
+        "dismissals": 0,
+        "strike_rate": 211.11
+      },
+      "vs_t": {
+        "runs": 61,
+        "balls": 44,
+        "dismissals": 0,
+        "average": 61.0,
+        "strike_rate": 138.64
+      },
+      "b_f": [
+        14,
+        75,
+        61
+      ],
+      "w_f": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "BA King",
+      "bat_t": "West Indies",
+      "bowl": "Sompal Kami",
+      "bowl_t": "Nepal",
+      "v": "batsman",
+      "h2h": {
+        "balls": 9,
+        "runs": 15,
+        "dismissals": 0,
+        "strike_rate": 166.67
+      },
+      "vs_t": {
+        "runs": 22,
+        "balls": 20,
+        "dismissals": 1,
+        "average": 22.0,
+        "strike_rate": 110.0
+      },
+      "b_f": [
+        9,
+        4,
+        22
+      ],
+      "w_f": [
+        3,
+        0
+      ]
+    },
+    {
+      "bat": "SO Hetmyer",
+      "bat_t": "West Indies",
+      "bowl": "S Lamichhane",
+      "bowl_t": "Nepal",
+      "v": "batsman",
+      "h2h": {
+        "balls": 9,
+        "runs": 19,
+        "dismissals": 0,
+        "strike_rate": 211.11
+      },
+      "vs_t": {
+        "runs": 46,
+        "balls": 33,
+        "dismissals": 0,
+        "average": 46.0,
+        "strike_rate": 139.39
+      },
+      "b_f": [
+        85,
+        1,
+        46
+      ],
+      "w_f": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "Gulsan Jha",
+      "bat_t": "Nepal",
+      "bowl": "JO Holder",
+      "bowl_t": "West Indies",
+      "v": "bowler",
+      "h2h": {
+        "balls": 8,
+        "runs": 7,
+        "dismissals": 0,
+        "strike_rate": 87.5
+      },
+      "vs_t": {
+        "runs": 49,
+        "balls": 51,
+        "dismissals": 3,
+        "average": 16.33,
+        "strike_rate": 96.08
+      },
+      "b_f": [
+        24,
+        11,
+        3
+      ],
+      "w_f": [
+        1,
+        0,
+        4
+      ]
+    },
+    {
+      "bat": "SD Hope",
+      "bat_t": "West Indies",
+      "bowl": "K Bhurtel",
+      "bowl_t": "Nepal",
+      "v": "batsman",
+      "h2h": {
+        "balls": 8,
+        "runs": 14,
+        "dismissals": 0,
+        "strike_rate": 175.0
+      },
+      "vs_t": {
+        "runs": 61,
+        "balls": 44,
+        "dismissals": 0,
+        "average": 61.0,
+        "strike_rate": 138.64
+      },
+      "b_f": [
+        14,
+        75,
+        61
+      ],
+      "w_f": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "SD Hope",
+      "bat_t": "West Indies",
+      "bowl": "DS Airee",
+      "bowl_t": "Nepal",
+      "v": "batsman",
+      "h2h": {
+        "balls": 8,
+        "runs": 9,
+        "dismissals": 0,
+        "strike_rate": 112.5
+      },
+      "vs_t": {
+        "runs": 61,
+        "balls": 44,
+        "dismissals": 0,
+        "average": 61.0,
+        "strike_rate": 138.64
+      },
+      "b_f": [
+        14,
+        75,
+        61
+      ],
+      "w_f": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "Gulsan Jha",
+      "bat_t": "Nepal",
+      "bowl": "AJ Hosein",
+      "bowl_t": "West Indies",
+      "v": "batsman",
+      "h2h": {
+        "balls": 7,
+        "runs": 16,
+        "dismissals": 0,
+        "strike_rate": 228.57
+      },
+      "vs_t": {
+        "runs": 49,
+        "balls": 51,
+        "dismissals": 3,
+        "average": 16.33,
+        "strike_rate": 96.08
+      },
+      "b_f": [
+        24,
+        11,
+        3
+      ],
+      "w_f": [
+        3,
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "SD Hope",
+      "bat_t": "West Indies",
+      "bowl": "Karan KC",
+      "bowl_t": "Nepal",
+      "v": "batsman",
+      "h2h": {
+        "balls": 7,
+        "runs": 6,
+        "dismissals": 0,
+        "strike_rate": 85.71
+      },
+      "vs_t": {
+        "runs": 61,
+        "balls": 44,
+        "dismissals": 0,
+        "average": 61.0,
+        "strike_rate": 138.64
+      },
+      "b_f": [
+        14,
+        75,
+        61
+      ],
+      "w_f": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "SD Hope",
+      "bat_t": "West Indies",
+      "bowl": "NK Yadav",
+      "bowl_t": "Nepal",
+      "v": "batsman",
+      "h2h": {
+        "balls": 7,
+        "runs": 7,
+        "dismissals": 0,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 61,
+        "balls": 44,
+        "dismissals": 0,
+        "average": 61.0,
+        "strike_rate": 138.64
+      },
+      "b_f": [
+        14,
+        75,
+        61
+      ],
+      "w_f": [
+        2,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "SO Hetmyer",
+      "bat_t": "West Indies",
+      "bowl": "NK Yadav",
+      "bowl_t": "Nepal",
+      "v": "batsman",
+      "h2h": {
+        "balls": 7,
+        "runs": 14,
+        "dismissals": 0,
+        "strike_rate": 200.0
+      },
+      "vs_t": {
+        "runs": 46,
+        "balls": 33,
+        "dismissals": 0,
+        "average": 46.0,
+        "strike_rate": 139.39
+      },
+      "b_f": [
+        85,
+        1,
+        46
+      ],
+      "w_f": [
+        2,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "DS Airee",
+      "bat_t": "Nepal",
+      "bowl": "RL Chase",
+      "bowl_t": "West Indies",
+      "v": "bowler",
+      "h2h": {
+        "balls": 6,
+        "runs": 6,
+        "dismissals": 0,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 75,
+        "balls": 69,
+        "dismissals": 2,
+        "average": 37.5,
+        "strike_rate": 108.7
+      },
+      "b_f": [
+        50,
+        58,
+        17
+      ],
+      "w_f": [
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "DS Airee",
+      "bat_t": "Nepal",
+      "bowl": "G Motie",
+      "bowl_t": "West Indies",
+      "v": "batsman",
+      "h2h": {
+        "balls": 6,
+        "runs": 8,
+        "dismissals": 0,
+        "strike_rate": 133.33
+      },
+      "vs_t": {
+        "runs": 75,
+        "balls": 69,
+        "dismissals": 2,
+        "average": 37.5,
+        "strike_rate": 108.7
+      },
+      "b_f": [
+        50,
+        58,
+        17
+      ],
+      "w_f": [
+        4,
+        2,
+        0
+      ]
+    },
+    {
+      "bat": "Lokesh Bam",
+      "bat_t": "Nepal",
+      "bowl": "MW Forde",
+      "bowl_t": "West Indies",
+      "v": "bowler",
+      "h2h": {
+        "balls": 6,
+        "runs": 0,
+        "dismissals": 0,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 22,
+        "balls": 26,
+        "dismissals": 2,
+        "average": 11.0,
+        "strike_rate": 84.62
+      },
+      "b_f": [
+        13,
+        3,
+        39
+      ],
+      "w_f": [
+        2,
+        3,
+        1
+      ]
+    },
+    {
+      "bat": "SD Hope",
+      "bat_t": "West Indies",
+      "bowl": "Sompal Kami",
+      "bowl_t": "Nepal",
+      "v": "batsman",
+      "h2h": {
+        "balls": 5,
+        "runs": 6,
+        "dismissals": 0,
+        "strike_rate": 120.0
+      },
+      "vs_t": {
+        "runs": 61,
+        "balls": 44,
+        "dismissals": 0,
+        "average": 61.0,
+        "strike_rate": 138.64
+      },
+      "b_f": [
+        14,
+        75,
+        61
+      ],
+      "w_f": [
+        3,
+        0
+      ]
+    },
+    {
+      "bat": "BA King",
+      "bat_t": "West Indies",
+      "bowl": "Karan KC",
+      "bowl_t": "Nepal",
+      "v": "neutral",
+      "h2h": {
+        "balls": 5,
+        "runs": 6,
+        "dismissals": 0,
+        "strike_rate": 120.0
+      },
+      "vs_t": {
+        "runs": 22,
+        "balls": 20,
+        "dismissals": 1,
+        "average": 22.0,
+        "strike_rate": 110.0
+      },
+      "b_f": [
+        9,
+        4,
+        22
+      ],
+      "w_f": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "SO Hetmyer",
+      "bat_t": "West Indies",
+      "bowl": "K Bhurtel",
+      "bowl_t": "Nepal",
+      "v": "batsman",
+      "h2h": {
+        "balls": 5,
+        "runs": 3,
+        "dismissals": 0,
+        "strike_rate": 60.0
+      },
+      "vs_t": {
+        "runs": 46,
+        "balls": 33,
+        "dismissals": 0,
+        "average": 46.0,
+        "strike_rate": 139.39
+      },
+      "b_f": [
+        85,
+        1,
+        46
+      ],
+      "w_f": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "Sompal Kami",
+      "bat_t": "Nepal",
+      "bowl": "S Joseph",
+      "bowl_t": "West Indies",
+      "v": "batsman",
+      "h2h": {
+        "balls": 4,
+        "runs": 6,
+        "dismissals": 0,
+        "strike_rate": 150.0
+      },
+      "vs_t": {
+        "runs": 36,
+        "balls": 24,
+        "dismissals": 1,
+        "average": 36.0,
+        "strike_rate": 150.0
+      },
+      "b_f": [
+        26
+      ],
+      "w_f": [
+        0,
+        4,
+        1
+      ]
+    },
+    {
+      "bat": "Aasif Sheikh",
+      "bat_t": "Nepal",
+      "bowl": "MW Forde",
+      "bowl_t": "West Indies",
+      "v": "bowler",
+      "h2h": {
+        "balls": 4,
+        "runs": 5,
+        "dismissals": 0,
+        "strike_rate": 125.0
+      },
+      "vs_t": {
+        "runs": 82,
+        "balls": 65,
+        "dismissals": 2,
+        "average": 41.0,
+        "strike_rate": 126.15
+      },
+      "b_f": [
+        33,
+        11,
+        20
+      ],
+      "w_f": [
+        2,
+        3,
+        1
+      ]
+    },
+    {
+      "bat": "Lokesh Bam",
+      "bat_t": "Nepal",
+      "bowl": "G Motie",
+      "bowl_t": "West Indies",
+      "v": "bowler",
+      "h2h": {
+        "balls": 4,
+        "runs": 8,
+        "dismissals": 0,
+        "strike_rate": 200.0
+      },
+      "vs_t": {
+        "runs": 22,
+        "balls": 26,
+        "dismissals": 2,
+        "average": 11.0,
+        "strike_rate": 84.62
+      },
+      "b_f": [
+        13,
+        3,
+        39
+      ],
+      "w_f": [
+        4,
+        2,
+        0
+      ]
+    },
+    {
+      "bat": "AJ Hosein",
+      "bat_t": "West Indies",
+      "bowl": "Sompal Kami",
+      "bowl_t": "Nepal",
+      "v": "bowler",
+      "h2h": {
+        "balls": 4,
+        "runs": 11,
+        "dismissals": 0,
+        "strike_rate": 275.0
+      },
+      "vs_t": {
+        "runs": 18,
+        "balls": 12,
+        "dismissals": 2,
+        "average": 9.0,
+        "strike_rate": 150.0
+      },
+      "w_f": [
+        3,
+        0
+      ]
+    },
+    {
+      "bat": "JO Holder",
+      "bat_t": "West Indies",
+      "bowl": "Sompal Kami",
+      "bowl_t": "Nepal",
+      "v": "bowler",
+      "h2h": {
+        "balls": 3,
+        "runs": 3,
+        "dismissals": 0,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 26,
+        "balls": 22,
+        "dismissals": 2,
+        "average": 13.0,
+        "strike_rate": 118.18
+      },
+      "b_f": [
+        13,
+        9,
+        33
+      ],
+      "w_f": [
+        3,
+        0
+      ]
+    },
+    {
+      "bat": "Gulsan Jha",
+      "bat_t": "Nepal",
+      "bowl": "S Joseph",
+      "bowl_t": "West Indies",
+      "v": "bowler",
+      "h2h": {
+        "balls": 2,
+        "runs": 0,
+        "dismissals": 0,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 49,
+        "balls": 51,
+        "dismissals": 3,
+        "average": 16.33,
+        "strike_rate": 96.08
+      },
+      "b_f": [
+        24,
+        11,
+        3
+      ],
+      "w_f": [
+        0,
+        4,
+        1
+      ]
+    },
+    {
+      "bat": "Gulsan Jha",
+      "bat_t": "Nepal",
+      "bowl": "G Motie",
+      "bowl_t": "West Indies",
+      "v": "bowler",
+      "h2h": {
+        "balls": 2,
+        "runs": 1,
+        "dismissals": 0,
+        "strike_rate": 50.0
+      },
+      "vs_t": {
+        "runs": 49,
+        "balls": 51,
+        "dismissals": 3,
+        "average": 16.33,
+        "strike_rate": 96.08
+      },
+      "b_f": [
+        24,
+        11,
+        3
+      ],
+      "w_f": [
+        4,
+        2,
+        0
+      ]
+    },
+    {
+      "bat": "Aarif Sheikh",
+      "bat_t": "Nepal",
+      "bowl": "MW Forde",
+      "bowl_t": "West Indies",
+      "v": "neutral",
+      "h2h": {
+        "balls": 2,
+        "runs": 1,
+        "dismissals": 0,
+        "strike_rate": 50.0
+      },
+      "vs_t": {
+        "runs": 8,
+        "balls": 11,
+        "dismissals": 2,
+        "average": 4.0,
+        "strike_rate": 72.73
+      },
+      "b_f": [
+        2,
+        27,
+        10
+      ],
+      "w_f": [
+        2,
+        3,
+        1
+      ]
+    },
+    {
+      "bat": "Sompal Kami",
+      "bat_t": "Nepal",
+      "bowl": "AJ Hosein",
+      "bowl_t": "West Indies",
+      "v": "batsman",
+      "h2h": {
+        "balls": 2,
+        "runs": 1,
+        "dismissals": 0,
+        "strike_rate": 50.0
+      },
+      "vs_t": {
+        "runs": 36,
+        "balls": 24,
+        "dismissals": 1,
+        "average": 36.0,
+        "strike_rate": 150.0
+      },
+      "b_f": [
+        26
+      ],
+      "w_f": [
+        3,
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "RK Paudel",
+      "bat_t": "Nepal",
+      "bowl": "JO Holder",
+      "bowl_t": "West Indies",
+      "v": "bowler",
+      "h2h": {
+        "balls": 2,
+        "runs": 1,
+        "dismissals": 0,
+        "strike_rate": 50.0
+      },
+      "vs_t": {
+        "runs": 63,
+        "balls": 72,
+        "dismissals": 4,
+        "average": 15.75,
+        "strike_rate": 87.5
+      },
+      "b_f": [
+        16,
+        5,
+        23
+      ],
+      "w_f": [
+        1,
+        0,
+        4
+      ]
+    },
+    {
+      "bat": "Lokesh Bam",
+      "bat_t": "Nepal",
+      "bowl": "JO Holder",
+      "bowl_t": "West Indies",
+      "v": "bowler",
+      "h2h": {
+        "balls": 1,
+        "runs": 0,
+        "dismissals": 0,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 22,
+        "balls": 26,
+        "dismissals": 2,
+        "average": 11.0,
+        "strike_rate": 84.62
+      },
+      "b_f": [
+        13,
+        3,
+        39
+      ],
+      "w_f": [
+        1,
+        0,
+        4
+      ]
+    },
+    {
+      "bat": "K Bhurtel",
+      "bat_t": "Nepal",
+      "bowl": "MW Forde",
+      "bowl_t": "West Indies",
+      "v": "bowler",
+      "vs_t": {
+        "runs": 48,
+        "balls": 48,
+        "dismissals": 4,
+        "average": 12.0,
+        "strike_rate": 100.0
+      },
+      "b_f": [
+        43,
+        1,
+        5
+      ],
+      "w_f": [
+        2,
+        3,
+        1
+      ]
+    },
+    {
+      "bat": "K Bhurtel",
+      "bat_t": "Nepal",
+      "bowl": "S Joseph",
+      "bowl_t": "West Indies",
+      "v": "bowler",
+      "vs_t": {
+        "runs": 48,
+        "balls": 48,
+        "dismissals": 4,
+        "average": 12.0,
+        "strike_rate": 100.0
+      },
+      "b_f": [
+        43,
+        1,
+        5
+      ],
+      "w_f": [
+        0,
+        4,
+        1
+      ]
+    },
+    {
+      "bat": "K Bhurtel",
+      "bat_t": "Nepal",
+      "bowl": "RL Chase",
+      "bowl_t": "West Indies",
+      "v": "bowler",
+      "vs_t": {
+        "runs": 48,
+        "balls": 48,
+        "dismissals": 4,
+        "average": 12.0,
+        "strike_rate": 100.0
+      },
+      "b_f": [
+        43,
+        1,
+        5
+      ],
+      "w_f": [
+        1,
+        2
+      ]
+    }
+  ]
+}

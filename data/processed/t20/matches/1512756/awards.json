@@ -1,0 +1,96 @@
+{
+    "match_id": "1512756",
+    "winner": "Zimbabwe",
+    "loser": "Sri Lanka",
+    "awards": {
+        "player_of_the_match": {
+            "name": "Sikandar Raza",
+            "team": "Zimbabwe",
+            "impact_score": 102.3,
+            "breakdown": {
+                "batting": 93.0,
+                "bowling": 0.0,
+                "fielding": 0.0,
+                "pressure_multiplier": 1.1
+            },
+            "key_stats": {
+                "batting": "45(27) SR:166.67",
+                "bowling": "4.0ov-0wkt econ:9.0"
+            }
+        },
+        "best_batter": {
+            "name": "Sikandar Raza",
+            "team": "Zimbabwe",
+            "batting_impact": 93.0,
+            "stats": {
+                "runs": 45,
+                "balls": 27,
+                "sr": 166.67,
+                "fours": 2,
+                "sixes": 4
+            }
+        },
+        "best_bowler": {
+            "name": "AG Cremer",
+            "team": "Zimbabwe",
+            "bowling_impact": 75,
+            "stats": {
+                "overs": 4.0,
+                "wickets": 2,
+                "econ": 6.75
+            }
+        },
+        "game_changer": {
+            "name": "Sikandar Raza",
+            "team": "Zimbabwe",
+            "reason": "SR 166.67 with 4 sixes",
+            "key_stats": {
+                "batting": "45(27) SR:166.67",
+                "bowling": "4.0ov-0wkt econ:9.0"
+            }
+        },
+        "pressure_performer": {
+            "name": "Sikandar Raza",
+            "team": "Zimbabwe",
+            "pressure_multiplier": 1.1,
+            "reason": "Chasing team batter under pressure | Attacking SR 166.67 under pressure",
+            "key_stats": {
+                "batting": "45(27) SR:166.67",
+                "bowling": "4.0ov-0wkt econ:9.0"
+            }
+        },
+        "emerging_player": {
+            "name": "DN Wellalage",
+            "team": "Sri Lanka",
+            "reason": "Outperformed team average by 2.53x",
+            "key_stats": {
+                "batting": "15(8) SR:187.5",
+                "bowling": "4.0ov-1wkt econ:6.75"
+            }
+        },
+        "fielding_impact": {
+            "name": "RP Burl",
+            "team": "Zimbabwe",
+            "fielding_proxy_score": 8,
+            "methodology": "Proxy-based: catch attribution (65% T20 wickets are catches) + dot ball pressure bonus + economy-implied fielding support",
+            "reason": "Best fielding contribution proxy",
+            "stats": {
+                "overs": 2.0,
+                "wickets": 1,
+                "econ": 8.0
+            }
+        },
+        "all_rounder_impact": {
+            "name": "RP Burl",
+            "team": "Zimbabwe",
+            "all_rounder_score": 83.0,
+            "stats": {
+                "runs": 23,
+                "sr": 191.67,
+                "overs": 2.0,
+                "wickets": 1,
+                "econ": 8.0
+            }
+        }
+    }
+}

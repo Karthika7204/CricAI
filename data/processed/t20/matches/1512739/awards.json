@@ -1,0 +1,95 @@
+{
+    "match_id": "1512739",
+    "winner": "United States of America",
+    "loser": "Netherlands",
+    "awards": {
+        "player_of_the_match": {
+            "name": "Harmeet Singh",
+            "team": "United States of America",
+            "impact_score": 175.0,
+            "breakdown": {
+                "batting": 1.0,
+                "bowling": 145,
+                "fielding": 29,
+                "pressure_multiplier": 1.0
+            },
+            "key_stats": {
+                "batting": "1(2) SR:50.0",
+                "bowling": "4.0ov-4wkt econ:5.25"
+            }
+        },
+        "best_batter": {
+            "name": "SR Mukkamalla",
+            "team": "United States of America",
+            "batting_impact": 118.0,
+            "stats": {
+                "runs": 79,
+                "balls": 53,
+                "sr": 149.06,
+                "fours": 5,
+                "sixes": 4
+            }
+        },
+        "best_bowler": {
+            "name": "Harmeet Singh",
+            "team": "United States of America",
+            "bowling_impact": 145,
+            "stats": {
+                "overs": 4.0,
+                "wickets": 4,
+                "econ": 5.25
+            }
+        },
+        "game_changer": {
+            "name": "Harmeet Singh",
+            "team": "United States of America",
+            "reason": "4-wicket haul",
+            "key_stats": {
+                "batting": "1(2) SR:50.0",
+                "bowling": "4.0ov-4wkt econ:5.25"
+            }
+        },
+        "pressure_performer": {
+            "name": "SA Edwards",
+            "team": "Netherlands",
+            "pressure_multiplier": 1.2,
+            "reason": "Chasing team batter under pressure | Attacking SR 142.86 under pressure",
+            "key_stats": {
+                "batting": "20(14) SR:142.86"
+            }
+        },
+        "emerging_player": {
+            "name": "BFW de Leede",
+            "team": "Netherlands",
+            "reason": "Outperformed team average by 4.23x",
+            "key_stats": {
+                "batting": "23(18) SR:127.78",
+                "bowling": "4.0ov-3wkt econ:9.25"
+            }
+        },
+        "fielding_impact": {
+            "name": "Harmeet Singh",
+            "team": "United States of America",
+            "fielding_proxy_score": 29,
+            "methodology": "Proxy-based: catch attribution (65% T20 wickets are catches) + dot ball pressure bonus + economy-implied fielding support",
+            "reason": "Estimated 3 caught dismissals from 4 wickets | Economy 5.25 — tight fielding support implied",
+            "stats": {
+                "overs": 4.0,
+                "wickets": 4,
+                "econ": 5.25
+            }
+        },
+        "all_rounder_impact": {
+            "name": "BFW de Leede",
+            "team": "Netherlands",
+            "all_rounder_score": 106.0,
+            "stats": {
+                "runs": 23,
+                "sr": 127.78,
+                "overs": 4.0,
+                "wickets": 3,
+                "econ": 9.25
+            }
+        }
+    }
+}

@@ -1,0 +1,1688 @@
+{
+  "match_id": "1512754",
+  "team_a": "India",
+  "team_b": "Netherlands",
+  "matchups": [
+    {
+      "bat": "SA Yadav",
+      "bat_t": "India",
+      "bowl": "K Klein",
+      "bowl_t": "Netherlands",
+      "v": "batsman",
+      "h2h": {
+        "balls": 11,
+        "runs": 11,
+        "dismissals": 1,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 85,
+        "balls": 55,
+        "dismissals": 1,
+        "average": 85.0,
+        "strike_rate": 154.55
+      },
+      "b_car": {
+        "avg": 38.51,
+        "sr": 156.8
+      },
+      "b_f": [
+        18,
+        34,
+        32
+      ],
+      "w_f": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "S Dube",
+      "bat_t": "India",
+      "bowl": "LV van Beek",
+      "bowl_t": "Netherlands",
+      "v": "batsman",
+      "h2h": {
+        "balls": 7,
+        "runs": 23,
+        "dismissals": 1,
+        "strike_rate": 328.57
+      },
+      "vs_t": {
+        "runs": 66,
+        "balls": 36,
+        "dismissals": 1,
+        "average": 66.0,
+        "strike_rate": 183.33
+      },
+      "b_car": {
+        "avg": 31.2,
+        "sr": 141.3
+      },
+      "b_f": [
+        42,
+        66,
+        27
+      ],
+      "w_f": [
+        3,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "Tilak Varma",
+      "bat_t": "India",
+      "bowl": "LV van Beek",
+      "bowl_t": "Netherlands",
+      "v": "batsman",
+      "h2h": {
+        "balls": 7,
+        "runs": 10,
+        "dismissals": 1,
+        "strike_rate": 142.86
+      },
+      "vs_t": {
+        "runs": 31,
+        "balls": 27,
+        "dismissals": 1,
+        "average": 31.0,
+        "strike_rate": 114.81
+      },
+      "b_car": {
+        "avg": 46.81,
+        "sr": 136.65
+      },
+      "b_f": [
+        1,
+        31,
+        25
+      ],
+      "w_f": [
+        3,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "BFW de Leede",
+      "bat_t": "Netherlands",
+      "bowl": "S Dube",
+      "bowl_t": "India",
+      "v": "batsman",
+      "h2h": {
+        "balls": 6,
+        "runs": 13,
+        "dismissals": 1,
+        "strike_rate": 216.67
+      },
+      "vs_t": {
+        "runs": 49,
+        "balls": 49,
+        "dismissals": 2,
+        "average": 24.5,
+        "strike_rate": 100.0
+      },
+      "w_car": {
+        "avg": 27.25,
+        "eco": 9.74
+      },
+      "b_f": [
+        33,
+        23,
+        72
+      ],
+      "w_f": [
+        1,
+        2,
+        1
+      ]
+    },
+    {
+      "bat": "ZB Lion-Cachet",
+      "bat_t": "Netherlands",
+      "bowl": "S Dube",
+      "bowl_t": "India",
+      "v": "neutral",
+      "h2h": {
+        "balls": 4,
+        "runs": 6,
+        "dismissals": 1,
+        "strike_rate": 150.0
+      },
+      "vs_t": {
+        "runs": 26,
+        "balls": 16,
+        "dismissals": 1,
+        "average": 26.0,
+        "strike_rate": 162.5
+      },
+      "w_car": {
+        "avg": 27.25,
+        "eco": 9.74
+      },
+      "b_f": [
+        26,
+        6,
+        9
+      ],
+      "w_f": [
+        1,
+        2,
+        1
+      ]
+    },
+    {
+      "bat": "CN Ackermann",
+      "bat_t": "Netherlands",
+      "bowl": "CV Varun",
+      "bowl_t": "India",
+      "v": "bowler",
+      "h2h": {
+        "balls": 4,
+        "runs": 1,
+        "dismissals": 1,
+        "strike_rate": 25.0
+      },
+      "vs_t": {
+        "runs": 40,
+        "balls": 38,
+        "dismissals": 2,
+        "average": 20.0,
+        "strike_rate": 105.26
+      },
+      "w_car": {
+        "avg": 15.9,
+        "eco": 7.36
+      },
+      "b_f": [
+        23,
+        0,
+        32
+      ],
+      "w_f": [
+        1,
+        3,
+        2
+      ]
+    },
+    {
+      "bat": "HH Pandya",
+      "bat_t": "India",
+      "bowl": "LV van Beek",
+      "bowl_t": "Netherlands",
+      "v": "neutral",
+      "h2h": {
+        "balls": 3,
+        "runs": 2,
+        "dismissals": 1,
+        "strike_rate": 66.67
+      },
+      "vs_t": {
+        "runs": 30,
+        "balls": 21,
+        "dismissals": 1,
+        "average": 30.0,
+        "strike_rate": 142.86
+      },
+      "b_car": {
+        "avg": 28.12,
+        "sr": 138.02
+      },
+      "b_f": [
+        18,
+        30,
+        0
+      ],
+      "w_f": [
+        3,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "Abhishek Sharma",
+      "bat_t": "India",
+      "bowl": "A Dutt",
+      "bowl_t": "Netherlands",
+      "v": "batsman",
+      "h2h": {
+        "balls": 3,
+        "runs": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 0,
+        "balls": 3,
+        "dismissals": 1,
+        "average": 0.0,
+        "strike_rate": 0.0
+      },
+      "b_car": {
+        "avg": 35.46,
+        "sr": 184.27
+      },
+      "b_f": [
+        15,
+        0,
+        0
+      ],
+      "w_f": [
+        2,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "Ishan Kishan",
+      "bat_t": "India",
+      "bowl": "A Dutt",
+      "bowl_t": "Netherlands",
+      "v": "neutral",
+      "h2h": {
+        "balls": 3,
+        "runs": 4,
+        "dismissals": 1,
+        "strike_rate": 133.33
+      },
+      "vs_t": {
+        "runs": 18,
+        "balls": 7,
+        "dismissals": 1,
+        "average": 18.0,
+        "strike_rate": 257.14
+      },
+      "b_car": {
+        "avg": 29.68,
+        "sr": 138.02
+      },
+      "b_f": [
+        0,
+        18,
+        77
+      ],
+      "w_f": [
+        2,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "SA Edwards",
+      "bat_t": "Netherlands",
+      "bowl": "JJ Bumrah",
+      "bowl_t": "India",
+      "v": "bowler",
+      "h2h": {
+        "balls": 3,
+        "runs": 5,
+        "dismissals": 1,
+        "strike_rate": 166.67
+      },
+      "vs_t": {
+        "runs": 20,
+        "balls": 18,
+        "dismissals": 2,
+        "average": 10.0,
+        "strike_rate": 111.11
+      },
+      "w_car": {
+        "avg": 19.51,
+        "eco": 6.85
+      },
+      "b_f": [
+        15,
+        20,
+        18
+      ],
+      "w_f": [
+        3,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "LV van Beek",
+      "bat_t": "Netherlands",
+      "bowl": "Arshdeep Singh",
+      "bowl_t": "India",
+      "v": "neutral",
+      "h2h": {
+        "balls": 3,
+        "runs": 3,
+        "dismissals": 1,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 7,
+        "balls": 7,
+        "dismissals": 1,
+        "average": 7.0,
+        "strike_rate": 100.0
+      },
+      "w_car": {
+        "avg": 19.63,
+        "eco": 8.75
+      },
+      "b_f": [
+        4,
+        2,
+        0
+      ],
+      "w_f": [
+        2,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "M Levitt",
+      "bat_t": "Netherlands",
+      "bowl": "HH Pandya",
+      "bowl_t": "India",
+      "v": "neutral",
+      "h2h": {
+        "balls": 3,
+        "runs": 5,
+        "dismissals": 1,
+        "strike_rate": 166.67
+      },
+      "vs_t": {
+        "runs": 24,
+        "balls": 23,
+        "dismissals": 1,
+        "average": 24.0,
+        "strike_rate": 104.35
+      },
+      "w_car": {
+        "avg": 27.46,
+        "eco": 8.49
+      },
+      "b_f": [
+        24,
+        3,
+        28
+      ],
+      "w_f": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "MP O'Dowd",
+      "bat_t": "Netherlands",
+      "bowl": "CV Varun",
+      "bowl_t": "India",
+      "v": "bowler",
+      "h2h": {
+        "balls": 3,
+        "runs": 1,
+        "dismissals": 1,
+        "strike_rate": 33.33
+      },
+      "vs_t": {
+        "runs": 36,
+        "balls": 30,
+        "dismissals": 2,
+        "average": 18.0,
+        "strike_rate": 120.0
+      },
+      "w_car": {
+        "avg": 15.9,
+        "eco": 7.36
+      },
+      "b_f": [
+        20,
+        13,
+        7
+      ],
+      "w_f": [
+        1,
+        3,
+        2
+      ]
+    },
+    {
+      "bat": "A Dutt",
+      "bat_t": "Netherlands",
+      "bowl": "CV Varun",
+      "bowl_t": "India",
+      "v": "bowler",
+      "h2h": {
+        "balls": 1,
+        "runs": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 0,
+        "balls": 1,
+        "dismissals": 1,
+        "average": 0.0,
+        "strike_rate": 0.0
+      },
+      "w_car": {
+        "avg": 15.9,
+        "eco": 7.36
+      },
+      "b_f": [
+        0,
+        9,
+        13
+      ],
+      "w_f": [
+        1,
+        3,
+        2
+      ]
+    },
+    {
+      "bat": "SA Yadav",
+      "bat_t": "India",
+      "bowl": "LV van Beek",
+      "bowl_t": "Netherlands",
+      "v": "batsman",
+      "h2h": {
+        "balls": 14,
+        "runs": 28,
+        "dismissals": 0,
+        "strike_rate": 200.0
+      },
+      "vs_t": {
+        "runs": 85,
+        "balls": 55,
+        "dismissals": 1,
+        "average": 85.0,
+        "strike_rate": 154.55
+      },
+      "b_car": {
+        "avg": 38.51,
+        "sr": 156.8
+      },
+      "b_f": [
+        18,
+        34,
+        32
+      ],
+      "w_f": [
+        3,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "Tilak Varma",
+      "bat_t": "India",
+      "bowl": "A Dutt",
+      "bowl_t": "Netherlands",
+      "v": "batsman",
+      "h2h": {
+        "balls": 11,
+        "runs": 12,
+        "dismissals": 0,
+        "strike_rate": 109.09
+      },
+      "vs_t": {
+        "runs": 31,
+        "balls": 27,
+        "dismissals": 1,
+        "average": 31.0,
+        "strike_rate": 114.81
+      },
+      "b_car": {
+        "avg": 46.81,
+        "sr": 136.65
+      },
+      "b_f": [
+        1,
+        31,
+        25
+      ],
+      "w_f": [
+        2,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "M Levitt",
+      "bat_t": "Netherlands",
+      "bowl": "Arshdeep Singh",
+      "bowl_t": "India",
+      "v": "neutral",
+      "h2h": {
+        "balls": 11,
+        "runs": 11,
+        "dismissals": 0,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 24,
+        "balls": 23,
+        "dismissals": 1,
+        "average": 24.0,
+        "strike_rate": 104.35
+      },
+      "w_car": {
+        "avg": 19.63,
+        "eco": 8.75
+      },
+      "b_f": [
+        24,
+        3,
+        28
+      ],
+      "w_f": [
+        2,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "MP O'Dowd",
+      "bat_t": "Netherlands",
+      "bowl": "JJ Bumrah",
+      "bowl_t": "India",
+      "v": "bowler",
+      "h2h": {
+        "balls": 11,
+        "runs": 9,
+        "dismissals": 0,
+        "strike_rate": 81.82
+      },
+      "vs_t": {
+        "runs": 36,
+        "balls": 30,
+        "dismissals": 2,
+        "average": 18.0,
+        "strike_rate": 120.0
+      },
+      "w_car": {
+        "avg": 19.51,
+        "eco": 6.85
+      },
+      "b_f": [
+        20,
+        13,
+        7
+      ],
+      "w_f": [
+        3,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "SA Yadav",
+      "bat_t": "India",
+      "bowl": "BFW de Leede",
+      "bowl_t": "Netherlands",
+      "v": "batsman",
+      "h2h": {
+        "balls": 10,
+        "runs": 19,
+        "dismissals": 0,
+        "strike_rate": 190.0
+      },
+      "vs_t": {
+        "runs": 85,
+        "balls": 55,
+        "dismissals": 1,
+        "average": 85.0,
+        "strike_rate": 154.55
+      },
+      "b_car": {
+        "avg": 38.51,
+        "sr": 156.8
+      },
+      "b_f": [
+        18,
+        34,
+        32
+      ],
+      "w_f": [
+        0,
+        3,
+        2
+      ]
+    },
+    {
+      "bat": "BFW de Leede",
+      "bat_t": "Netherlands",
+      "bowl": "HH Pandya",
+      "bowl_t": "India",
+      "v": "batsman",
+      "h2h": {
+        "balls": 10,
+        "runs": 13,
+        "dismissals": 0,
+        "strike_rate": 130.0
+      },
+      "vs_t": {
+        "runs": 49,
+        "balls": 49,
+        "dismissals": 2,
+        "average": 24.5,
+        "strike_rate": 100.0
+      },
+      "w_car": {
+        "avg": 27.46,
+        "eco": 8.49
+      },
+      "b_f": [
+        33,
+        23,
+        72
+      ],
+      "w_f": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "HH Pandya",
+      "bat_t": "India",
+      "bowl": "BFW de Leede",
+      "bowl_t": "Netherlands",
+      "v": "neutral",
+      "h2h": {
+        "balls": 8,
+        "runs": 4,
+        "dismissals": 0,
+        "strike_rate": 50.0
+      },
+      "vs_t": {
+        "runs": 30,
+        "balls": 21,
+        "dismissals": 1,
+        "average": 30.0,
+        "strike_rate": 142.86
+      },
+      "b_car": {
+        "avg": 28.12,
+        "sr": 138.02
+      },
+      "b_f": [
+        18,
+        30,
+        0
+      ],
+      "w_f": [
+        0,
+        3,
+        2
+      ]
+    },
+    {
+      "bat": "S Dube",
+      "bat_t": "India",
+      "bowl": "BFW de Leede",
+      "bowl_t": "Netherlands",
+      "v": "batsman",
+      "h2h": {
+        "balls": 8,
+        "runs": 10,
+        "dismissals": 0,
+        "strike_rate": 125.0
+      },
+      "vs_t": {
+        "runs": 66,
+        "balls": 36,
+        "dismissals": 1,
+        "average": 66.0,
+        "strike_rate": 183.33
+      },
+      "b_car": {
+        "avg": 31.2,
+        "sr": 141.3
+      },
+      "b_f": [
+        42,
+        66,
+        27
+      ],
+      "w_f": [
+        0,
+        3,
+        2
+      ]
+    },
+    {
+      "bat": "S Dube",
+      "bat_t": "India",
+      "bowl": "K Klein",
+      "bowl_t": "Netherlands",
+      "v": "batsman",
+      "h2h": {
+        "balls": 8,
+        "runs": 8,
+        "dismissals": 0,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 66,
+        "balls": 36,
+        "dismissals": 1,
+        "average": 66.0,
+        "strike_rate": 183.33
+      },
+      "b_car": {
+        "avg": 31.2,
+        "sr": 141.3
+      },
+      "b_f": [
+        42,
+        66,
+        27
+      ],
+      "w_f": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "BFW de Leede",
+      "bat_t": "Netherlands",
+      "bowl": "CV Varun",
+      "bowl_t": "India",
+      "v": "bowler",
+      "h2h": {
+        "balls": 8,
+        "runs": 8,
+        "dismissals": 0,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 49,
+        "balls": 49,
+        "dismissals": 2,
+        "average": 24.5,
+        "strike_rate": 100.0
+      },
+      "w_car": {
+        "avg": 15.9,
+        "eco": 7.36
+      },
+      "b_f": [
+        33,
+        23,
+        72
+      ],
+      "w_f": [
+        1,
+        3,
+        2
+      ]
+    },
+    {
+      "bat": "CN Ackermann",
+      "bat_t": "Netherlands",
+      "bowl": "HH Pandya",
+      "bowl_t": "India",
+      "v": "batsman",
+      "h2h": {
+        "balls": 7,
+        "runs": 11,
+        "dismissals": 0,
+        "strike_rate": 157.14
+      },
+      "vs_t": {
+        "runs": 40,
+        "balls": 38,
+        "dismissals": 2,
+        "average": 20.0,
+        "strike_rate": 105.26
+      },
+      "w_car": {
+        "avg": 27.46,
+        "eco": 8.49
+      },
+      "b_f": [
+        23,
+        0,
+        32
+      ],
+      "w_f": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "MP O'Dowd",
+      "bat_t": "Netherlands",
+      "bowl": "Arshdeep Singh",
+      "bowl_t": "India",
+      "v": "bowler",
+      "h2h": {
+        "balls": 7,
+        "runs": 9,
+        "dismissals": 0,
+        "strike_rate": 128.57
+      },
+      "vs_t": {
+        "runs": 36,
+        "balls": 30,
+        "dismissals": 2,
+        "average": 18.0,
+        "strike_rate": 120.0
+      },
+      "w_car": {
+        "avg": 19.63,
+        "eco": 8.75
+      },
+      "b_f": [
+        20,
+        13,
+        7
+      ],
+      "w_f": [
+        2,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "HH Pandya",
+      "bat_t": "India",
+      "bowl": "K Klein",
+      "bowl_t": "Netherlands",
+      "v": "batsman",
+      "h2h": {
+        "balls": 6,
+        "runs": 16,
+        "dismissals": 0,
+        "strike_rate": 266.67
+      },
+      "vs_t": {
+        "runs": 30,
+        "balls": 21,
+        "dismissals": 1,
+        "average": 30.0,
+        "strike_rate": 142.86
+      },
+      "b_car": {
+        "avg": 28.12,
+        "sr": 138.02
+      },
+      "b_f": [
+        18,
+        30,
+        0
+      ],
+      "w_f": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "SA Yadav",
+      "bat_t": "India",
+      "bowl": "CN Ackermann",
+      "bowl_t": "Netherlands",
+      "v": "batsman",
+      "h2h": {
+        "balls": 6,
+        "runs": 5,
+        "dismissals": 0,
+        "strike_rate": 83.33
+      },
+      "vs_t": {
+        "runs": 85,
+        "balls": 55,
+        "dismissals": 1,
+        "average": 85.0,
+        "strike_rate": 154.55
+      },
+      "b_car": {
+        "avg": 38.51,
+        "sr": 156.8
+      },
+      "b_f": [
+        18,
+        34,
+        32
+      ],
+      "w_f": [
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "S Dube",
+      "bat_t": "India",
+      "bowl": "CN Ackermann",
+      "bowl_t": "Netherlands",
+      "v": "batsman",
+      "h2h": {
+        "balls": 6,
+        "runs": 17,
+        "dismissals": 0,
+        "strike_rate": 283.33
+      },
+      "vs_t": {
+        "runs": 66,
+        "balls": 36,
+        "dismissals": 1,
+        "average": 66.0,
+        "strike_rate": 183.33
+      },
+      "b_car": {
+        "avg": 31.2,
+        "sr": 141.3
+      },
+      "b_f": [
+        42,
+        66,
+        27
+      ],
+      "w_f": [
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "M Levitt",
+      "bat_t": "Netherlands",
+      "bowl": "Washington Sundar",
+      "bowl_t": "India",
+      "v": "bowler",
+      "h2h": {
+        "balls": 6,
+        "runs": 7,
+        "dismissals": 0,
+        "strike_rate": 116.67
+      },
+      "vs_t": {
+        "runs": 24,
+        "balls": 23,
+        "dismissals": 1,
+        "average": 24.0,
+        "strike_rate": 104.35
+      },
+      "w_car": {
+        "avg": 22.7,
+        "eco": 6.99
+      },
+      "b_f": [
+        24,
+        3,
+        28
+      ],
+      "w_f": [
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "S Dube",
+      "bat_t": "India",
+      "bowl": "A Dutt",
+      "bowl_t": "Netherlands",
+      "v": "batsman",
+      "h2h": {
+        "balls": 5,
+        "runs": 1,
+        "dismissals": 0,
+        "strike_rate": 20.0
+      },
+      "vs_t": {
+        "runs": 66,
+        "balls": 36,
+        "dismissals": 1,
+        "average": 66.0,
+        "strike_rate": 183.33
+      },
+      "b_car": {
+        "avg": 31.2,
+        "sr": 141.3
+      },
+      "b_f": [
+        42,
+        66,
+        27
+      ],
+      "w_f": [
+        2,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "Tilak Varma",
+      "bat_t": "India",
+      "bowl": "CN Ackermann",
+      "bowl_t": "Netherlands",
+      "v": "batsman",
+      "h2h": {
+        "balls": 5,
+        "runs": 6,
+        "dismissals": 0,
+        "strike_rate": 120.0
+      },
+      "vs_t": {
+        "runs": 31,
+        "balls": 27,
+        "dismissals": 1,
+        "average": 31.0,
+        "strike_rate": 114.81
+      },
+      "b_car": {
+        "avg": 46.81,
+        "sr": 136.65
+      },
+      "b_f": [
+        1,
+        31,
+        25
+      ],
+      "w_f": [
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "ZB Lion-Cachet",
+      "bat_t": "Netherlands",
+      "bowl": "Washington Sundar",
+      "bowl_t": "India",
+      "v": "bowler",
+      "h2h": {
+        "balls": 5,
+        "runs": 5,
+        "dismissals": 0,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 26,
+        "balls": 16,
+        "dismissals": 1,
+        "average": 26.0,
+        "strike_rate": 162.5
+      },
+      "w_car": {
+        "avg": 22.7,
+        "eco": 6.99
+      },
+      "b_f": [
+        26,
+        6,
+        9
+      ],
+      "w_f": [
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "CN Ackermann",
+      "bat_t": "Netherlands",
+      "bowl": "S Dube",
+      "bowl_t": "India",
+      "v": "bowler",
+      "h2h": {
+        "balls": 5,
+        "runs": 6,
+        "dismissals": 0,
+        "strike_rate": 120.0
+      },
+      "vs_t": {
+        "runs": 40,
+        "balls": 38,
+        "dismissals": 2,
+        "average": 20.0,
+        "strike_rate": 105.26
+      },
+      "w_car": {
+        "avg": 27.25,
+        "eco": 9.74
+      },
+      "b_f": [
+        23,
+        0,
+        32
+      ],
+      "w_f": [
+        1,
+        2,
+        1
+      ]
+    },
+    {
+      "bat": "HH Pandya",
+      "bat_t": "India",
+      "bowl": "RE van der Merwe",
+      "bowl_t": "Netherlands",
+      "v": "neutral",
+      "h2h": {
+        "balls": 4,
+        "runs": 8,
+        "dismissals": 0,
+        "strike_rate": 200.0
+      },
+      "vs_t": {
+        "runs": 30,
+        "balls": 21,
+        "dismissals": 1,
+        "average": 30.0,
+        "strike_rate": 142.86
+      },
+      "b_car": {
+        "avg": 28.12,
+        "sr": 138.02
+      },
+      "b_f": [
+        18,
+        30,
+        0
+      ],
+      "w_f": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "NRJ Croes",
+      "bat_t": "Netherlands",
+      "bowl": "HH Pandya",
+      "bowl_t": "India",
+      "v": "neutral",
+      "h2h": {
+        "balls": 4,
+        "runs": 11,
+        "dismissals": 0,
+        "strike_rate": 275.0
+      },
+      "vs_t": {
+        "runs": 25,
+        "balls": 12,
+        "dismissals": 0,
+        "average": 25.0,
+        "strike_rate": 208.33
+      },
+      "w_car": {
+        "avg": 27.46,
+        "eco": 8.49
+      },
+      "b_f": [
+        25
+      ],
+      "w_f": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "NRJ Croes",
+      "bat_t": "Netherlands",
+      "bowl": "Washington Sundar",
+      "bowl_t": "India",
+      "v": "bowler",
+      "h2h": {
+        "balls": 4,
+        "runs": 9,
+        "dismissals": 0,
+        "strike_rate": 225.0
+      },
+      "vs_t": {
+        "runs": 25,
+        "balls": 12,
+        "dismissals": 0,
+        "average": 25.0,
+        "strike_rate": 208.33
+      },
+      "w_car": {
+        "avg": 22.7,
+        "eco": 6.99
+      },
+      "b_f": [
+        25
+      ],
+      "w_f": [
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "MP O'Dowd",
+      "bat_t": "Netherlands",
+      "bowl": "Washington Sundar",
+      "bowl_t": "India",
+      "v": "bowler",
+      "h2h": {
+        "balls": 4,
+        "runs": 10,
+        "dismissals": 0,
+        "strike_rate": 250.0
+      },
+      "vs_t": {
+        "runs": 36,
+        "balls": 30,
+        "dismissals": 2,
+        "average": 18.0,
+        "strike_rate": 120.0
+      },
+      "w_car": {
+        "avg": 22.7,
+        "eco": 6.99
+      },
+      "b_f": [
+        20,
+        13,
+        7
+      ],
+      "w_f": [
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "RK Singh",
+      "bat_t": "India",
+      "bowl": "LV van Beek",
+      "bowl_t": "Netherlands",
+      "v": "neutral",
+      "h2h": {
+        "balls": 3,
+        "runs": 6,
+        "dismissals": 0,
+        "strike_rate": 200.0
+      },
+      "vs_t": {
+        "runs": 6,
+        "balls": 3,
+        "dismissals": 0,
+        "average": 6.0,
+        "strike_rate": 200.0
+      },
+      "b_car": {
+        "avg": 28.1,
+        "sr": 136.57
+      },
+      "b_f": [
+        0,
+        6,
+        11
+      ],
+      "w_f": [
+        3,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "Tilak Varma",
+      "bat_t": "India",
+      "bowl": "BFW de Leede",
+      "bowl_t": "Netherlands",
+      "v": "batsman",
+      "h2h": {
+        "balls": 3,
+        "runs": 2,
+        "dismissals": 0,
+        "strike_rate": 66.67
+      },
+      "vs_t": {
+        "runs": 31,
+        "balls": 27,
+        "dismissals": 1,
+        "average": 31.0,
+        "strike_rate": 114.81
+      },
+      "b_car": {
+        "avg": 46.81,
+        "sr": 136.65
+      },
+      "b_f": [
+        1,
+        31,
+        25
+      ],
+      "w_f": [
+        0,
+        3,
+        2
+      ]
+    },
+    {
+      "bat": "SA Edwards",
+      "bat_t": "Netherlands",
+      "bowl": "Washington Sundar",
+      "bowl_t": "India",
+      "v": "bowler",
+      "h2h": {
+        "balls": 3,
+        "runs": 3,
+        "dismissals": 0,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 20,
+        "balls": 18,
+        "dismissals": 2,
+        "average": 10.0,
+        "strike_rate": 111.11
+      },
+      "w_car": {
+        "avg": 22.7,
+        "eco": 6.99
+      },
+      "b_f": [
+        15,
+        20,
+        18
+      ],
+      "w_f": [
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "BFW de Leede",
+      "bat_t": "Netherlands",
+      "bowl": "Abhishek Sharma",
+      "bowl_t": "India",
+      "v": "bowler",
+      "h2h": {
+        "balls": 3,
+        "runs": 2,
+        "dismissals": 0,
+        "strike_rate": 66.67
+      },
+      "vs_t": {
+        "runs": 49,
+        "balls": 49,
+        "dismissals": 2,
+        "average": 24.5,
+        "strike_rate": 100.0
+      },
+      "w_car": {
+        "avg": 39.17,
+        "eco": 8.87
+      },
+      "b_f": [
+        33,
+        23,
+        72
+      ],
+      "w_f": [
+        0
+      ]
+    },
+    {
+      "bat": "ZB Lion-Cachet",
+      "bat_t": "Netherlands",
+      "bowl": "Arshdeep Singh",
+      "bowl_t": "India",
+      "v": "neutral",
+      "h2h": {
+        "balls": 3,
+        "runs": 6,
+        "dismissals": 0,
+        "strike_rate": 200.0
+      },
+      "vs_t": {
+        "runs": 26,
+        "balls": 16,
+        "dismissals": 1,
+        "average": 26.0,
+        "strike_rate": 162.5
+      },
+      "w_car": {
+        "avg": 19.63,
+        "eco": 8.75
+      },
+      "b_f": [
+        26,
+        6,
+        9
+      ],
+      "w_f": [
+        2,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "NRJ Croes",
+      "bat_t": "Netherlands",
+      "bowl": "Arshdeep Singh",
+      "bowl_t": "India",
+      "v": "neutral",
+      "h2h": {
+        "balls": 3,
+        "runs": 5,
+        "dismissals": 0,
+        "strike_rate": 166.67
+      },
+      "vs_t": {
+        "runs": 25,
+        "balls": 12,
+        "dismissals": 0,
+        "average": 25.0,
+        "strike_rate": 208.33
+      },
+      "w_car": {
+        "avg": 19.63,
+        "eco": 8.75
+      },
+      "b_f": [
+        25
+      ],
+      "w_f": [
+        2,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "CN Ackermann",
+      "bat_t": "Netherlands",
+      "bowl": "Abhishek Sharma",
+      "bowl_t": "India",
+      "v": "bowler",
+      "h2h": {
+        "balls": 3,
+        "runs": 8,
+        "dismissals": 0,
+        "strike_rate": 266.67
+      },
+      "vs_t": {
+        "runs": 40,
+        "balls": 38,
+        "dismissals": 2,
+        "average": 20.0,
+        "strike_rate": 105.26
+      },
+      "w_car": {
+        "avg": 39.17,
+        "eco": 8.87
+      },
+      "b_f": [
+        23,
+        0,
+        32
+      ],
+      "w_f": [
+        0
+      ]
+    },
+    {
+      "bat": "SA Yadav",
+      "bat_t": "India",
+      "bowl": "A Dutt",
+      "bowl_t": "Netherlands",
+      "v": "batsman",
+      "h2h": {
+        "balls": 2,
+        "runs": 2,
+        "dismissals": 0,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 85,
+        "balls": 55,
+        "dismissals": 1,
+        "average": 85.0,
+        "strike_rate": 154.55
+      },
+      "b_car": {
+        "avg": 38.51,
+        "sr": 156.8
+      },
+      "b_f": [
+        18,
+        34,
+        32
+      ],
+      "w_f": [
+        2,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "S Dube",
+      "bat_t": "India",
+      "bowl": "RE van der Merwe",
+      "bowl_t": "Netherlands",
+      "v": "batsman",
+      "h2h": {
+        "balls": 2,
+        "runs": 7,
+        "dismissals": 0,
+        "strike_rate": 350.0
+      },
+      "vs_t": {
+        "runs": 66,
+        "balls": 36,
+        "dismissals": 1,
+        "average": 66.0,
+        "strike_rate": 183.33
+      },
+      "b_car": {
+        "avg": 31.2,
+        "sr": 141.3
+      },
+      "b_f": [
+        42,
+        66,
+        27
+      ],
+      "w_f": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "Ishan Kishan",
+      "bat_t": "India",
+      "bowl": "CN Ackermann",
+      "bowl_t": "Netherlands",
+      "v": "neutral",
+      "h2h": {
+        "balls": 2,
+        "runs": 7,
+        "dismissals": 0,
+        "strike_rate": 350.0
+      },
+      "vs_t": {
+        "runs": 18,
+        "balls": 7,
+        "dismissals": 1,
+        "average": 18.0,
+        "strike_rate": 257.14
+      },
+      "b_car": {
+        "avg": 29.68,
+        "sr": 138.02
+      },
+      "b_f": [
+        0,
+        18,
+        77
+      ],
+      "w_f": [
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "Ishan Kishan",
+      "bat_t": "India",
+      "bowl": "LV van Beek",
+      "bowl_t": "Netherlands",
+      "v": "neutral",
+      "h2h": {
+        "balls": 2,
+        "runs": 7,
+        "dismissals": 0,
+        "strike_rate": 350.0
+      },
+      "vs_t": {
+        "runs": 18,
+        "balls": 7,
+        "dismissals": 1,
+        "average": 18.0,
+        "strike_rate": 257.14
+      },
+      "b_car": {
+        "avg": 29.68,
+        "sr": 138.02
+      },
+      "b_f": [
+        0,
+        18,
+        77
+      ],
+      "w_f": [
+        3,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "SA Edwards",
+      "bat_t": "Netherlands",
+      "bowl": "CV Varun",
+      "bowl_t": "India",
+      "v": "bowler",
+      "h2h": {
+        "balls": 2,
+        "runs": 2,
+        "dismissals": 0,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 20,
+        "balls": 18,
+        "dismissals": 2,
+        "average": 10.0,
+        "strike_rate": 111.11
+      },
+      "w_car": {
+        "avg": 15.9,
+        "eco": 7.36
+      },
+      "b_f": [
+        15,
+        20,
+        18
+      ],
+      "w_f": [
+        1,
+        3,
+        2
+      ]
+    }
+  ]
+}

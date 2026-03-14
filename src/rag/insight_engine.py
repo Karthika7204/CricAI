@@ -35,15 +35,22 @@ class PreMatchInsightEngine:
         return rankings
 
     def _get_player_career(self, player_name, country, activity="batting"):
-        suffix = "t20" if activity == "batting" else "bowling"
         # Normalize country names for file mapping
         c_norm = country.replace(' ', '_')
         possible_countries = [c_norm]
         if "United_States" in c_norm:
             possible_countries.extend(["United_States", "United_States_of_America"])
+            
+        # Possible file name formats depending on how the scraper saved them
+        possible_filenames = [
+            f"{c}_all_players_career.csv" for c in possible_countries
+        ] + [
+            f"{c}_all_players_career_{activity}.csv" for c in possible_countries
+        ] + [
+            f"{c}_all_players_career_t20.csv" for c in possible_countries
+        ]
         
-        for c in possible_countries:
-            file_name = f"{c}_all_players_career_{suffix}.csv"
+        for file_name in possible_filenames:
             path = self.career_dir / activity / file_name
             if path.exists():
                 df = pd.read_csv(path)
@@ -144,6 +151,8 @@ class PreMatchInsightEngine:
             "milestone_watch": [],
             "personal_best_watch": []
         }
+        
+        all_possible_milestones = []
 
         for player_name in match_players:
             # 1. Ranking Races
@@ -207,14 +216,20 @@ class PreMatchInsightEngine:
                             needed = next_ms - runs
                             # Threshold depends on milestone size
                             threshold = 50 if step >= 500 else 20
-                            if 0 < needed <= threshold:
-                                insights["milestone_watch"].append({
-                                    "player": player_name,
-                                    "type": "runs",
-                                    "current": int(runs),
-                                    "target": int(next_ms),
-                                    "needed": int(needed)
-                                })
+                            
+                            ms_obj = {
+                                "player": player_name,
+                                "type": "runs",
+                                "current": int(runs),
+                                "target": int(next_ms),
+                                "needed": int(needed)
+                            }
+                            
+                            if step == 50:
+                                if 0 < needed <= 15: # Generous threshold for backup
+                                    all_possible_milestones.append(ms_obj)
+                            elif 0 < needed <= threshold:
+                                insights["milestone_watch"].append(ms_obj)
                                 break
 
                     # 2. Sixes and Fours (Major Proximity to 50, 100, 250, 500)
@@ -222,17 +237,23 @@ class PreMatchInsightEngine:
                         val = bat_stats.get(col, 0)
                         if val > 0:
                             # Use major milestone steps as requested
-                            for step in [500, 250, 100, 50]:
+                            for step in [500, 250, 100, 50, 25]:
                                 next_ms = ((val // step) + 1) * step
                                 needed = next_ms - val
-                                if 0 < needed <= 10: # Increased threshold to 10 for shots
-                                    insights["milestone_watch"].append({
-                                        "player": player_name,
-                                        "type": label,
-                                        "current": int(val),
-                                        "target": int(next_ms),
-                                        "needed": int(needed)
-                                    })
+                                
+                                ms_obj = {
+                                    "player": player_name,
+                                    "type": label,
+                                    "current": int(val),
+                                    "target": int(next_ms),
+                                    "needed": int(needed)
+                                }
+                                
+                                if step == 25:
+                                    if 0 < needed <= 10:
+                                        all_possible_milestones.append(ms_obj)
+                                elif 0 < needed <= 10: # Increased threshold to 10 for shots
+                                    insights["milestone_watch"].append(ms_obj)
                                     break
 
                 bowl_stats = self._get_player_career(player_name, team, "bowling")
@@ -240,17 +261,41 @@ class PreMatchInsightEngine:
                     # Major Wicket Milestones (Multiples of 50)
                     wickets = bowl_stats.get("wickets", 0)
                     if wickets > 0:
-                        step = 50
-                        next_ms = ((wickets // step) + 1) * step
-                        needed = next_ms - wickets
-                        if 0 < needed <= 5: # Increased threshold for wickets
-                            insights["milestone_watch"].append({
+                        for step in [100, 50, 25]:
+                            next_ms = ((wickets // step) + 1) * step
+                            needed = next_ms - wickets
+                            
+                            ms_obj = {
                                 "player": player_name,
                                 "type": "wickets",
                                 "current": int(wickets),
                                 "target": int(next_ms),
                                 "needed": int(needed)
-                            })
+                            }
+                            
+                            if step == 25:
+                                if 0 < needed <= 5:
+                                    all_possible_milestones.append(ms_obj)
+                            elif 0 < needed <= 5: # Threshold for wickets
+                                insights["milestone_watch"].append(ms_obj)
+                                break
+
+        # Check if milestone watch is empty
+        if len(insights["milestone_watch"]) == 0 and len(all_possible_milestones) > 0:
+            # Sort by least needed effort
+            all_possible_milestones.sort(key=lambda x: x["needed"])
+            
+            # Avoid duplicate players in fallback if possible
+            fallback_chosen = []
+            seen_players = set()
+            for ms in all_possible_milestones:
+                if ms["player"] not in seen_players:
+                    fallback_chosen.append(ms)
+                    seen_players.add(ms["player"])
+                if len(fallback_chosen) >= 3:
+                    break
+                    
+            insights["milestone_watch"] = fallback_chosen
 
         # Save to processed folder
         output_path = self.data_dir / "processed" / "t20" / "matches" / match_id / "pre_match_insights.json"

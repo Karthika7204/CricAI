@@ -1,0 +1,1030 @@
+{
+    "match_id": "1512751",
+    "metadata": {
+        "tournament": "2025/26",
+        "venue": "Wankhede Stadium, Mumbai",
+        "date": "2026-02-17",
+        "stage": "ICC Men's T20 World Cup",
+        "winner": "Nepal",
+        "loser": "Scotland",
+        "win_classification": "Moderate",
+        "margin_runs": null,
+        "margin_wickets": 7,
+        "competitiveness_index": 85.0,
+        "teams": {
+            "Scotland": {
+                "captain": "RD Berrington",
+                "playing_xi_count": 11
+            },
+            "Nepal": {
+                "captain": "RK Paudel",
+                "playing_xi_count": 8
+            }
+        },
+        "team_summary": {
+            "Scotland": {
+                "run_rate": 8.5,
+                "fours": 14,
+                "sixes": 6,
+                "boundary_runs": 92,
+                "dot_balls": 42,
+                "total_runs": 170,
+                "total_wickets": 7
+            },
+            "Nepal": {
+                "run_rate": 8.84,
+                "fours": 7,
+                "sixes": 11,
+                "boundary_runs": 94,
+                "dot_balls": 37,
+                "total_runs": 171,
+                "total_wickets": 3
+            }
+        },
+        "formulas": {
+            "competitiveness": "Base(Margin) + Pressure_Bonus(L5 Overs)",
+            "pressure": "((RR_Gap / Start_RR) * 40) + ((Wickets / 10) * 60)",
+            "batting_impact": "Runs + (SR/Match_SR * 25)",
+            "bowling_impact": "(Wickets * 30) + (Match_RR/Econ * 20)"
+        }
+    },
+    "scorecards": {
+        "batting": [
+            {
+                "player": "MA Jones",
+                "team": "Scotland",
+                "runs": 71,
+                "balls": 46,
+                "sr": 154.35,
+                "fours": 8,
+                "sixes": 3,
+                "win_contribution_percent": 41.8,
+                "score": 99.79
+            },
+            {
+                "player": "HG Munsey",
+                "team": "Scotland",
+                "runs": 27,
+                "balls": 29,
+                "sr": 93.1,
+                "fours": 4,
+                "sixes": 0,
+                "win_contribution_percent": 15.9,
+                "score": 44.37
+            },
+            {
+                "player": "BJ McMullen",
+                "team": "Scotland",
+                "runs": 25,
+                "balls": 20,
+                "sr": 125.0,
+                "fours": 1,
+                "sixes": 1,
+                "win_contribution_percent": 14.7,
+                "score": 48.32
+            },
+            {
+                "player": "MRJ Watt",
+                "team": "Scotland",
+                "runs": 10,
+                "balls": 4,
+                "sr": 250.0,
+                "fours": 0,
+                "sixes": 1,
+                "win_contribution_percent": 5.9,
+                "score": 56.63
+            },
+            {
+                "player": "RD Berrington",
+                "team": "Scotland",
+                "runs": 10,
+                "balls": 6,
+                "sr": 166.67,
+                "fours": 0,
+                "sixes": 1,
+                "win_contribution_percent": 5.9,
+                "score": 41.09
+            },
+            {
+                "player": "TC Bruce",
+                "team": "Scotland",
+                "runs": 5,
+                "balls": 6,
+                "sr": 83.33,
+                "fours": 0,
+                "sixes": 0,
+                "win_contribution_percent": 2.9,
+                "score": 20.54
+            },
+            {
+                "player": "MA Leask",
+                "team": "Scotland",
+                "runs": 4,
+                "balls": 8,
+                "sr": 50.0,
+                "fours": 0,
+                "sixes": 0,
+                "win_contribution_percent": 2.4,
+                "score": 13.33
+            },
+            {
+                "player": "MH Cross",
+                "team": "Scotland",
+                "runs": 4,
+                "balls": 2,
+                "sr": 200.0,
+                "fours": 1,
+                "sixes": 0,
+                "win_contribution_percent": 2.4,
+                "score": 41.31
+            },
+            {
+                "player": "O Davidson",
+                "team": "Scotland",
+                "runs": 1,
+                "balls": 2,
+                "sr": 50.0,
+                "fours": 0,
+                "sixes": 0,
+                "win_contribution_percent": 0.6,
+                "score": 10.33
+            },
+            {
+                "player": "DS Airee",
+                "team": "Nepal",
+                "runs": 50,
+                "balls": 23,
+                "sr": 217.39,
+                "fours": 4,
+                "sixes": 3,
+                "win_contribution_percent": 29.2,
+                "score": 90.55
+            },
+            {
+                "player": "K Bhurtel",
+                "team": "Nepal",
+                "runs": 43,
+                "balls": 35,
+                "sr": 122.86,
+                "fours": 1,
+                "sixes": 4,
+                "win_contribution_percent": 25.1,
+                "score": 65.92
+            },
+            {
+                "player": "Aasif Sheikh",
+                "team": "Nepal",
+                "runs": 33,
+                "balls": 28,
+                "sr": 117.86,
+                "fours": 0,
+                "sixes": 2,
+                "win_contribution_percent": 19.3,
+                "score": 54.98
+            },
+            {
+                "player": "Gulsan Jha",
+                "team": "Nepal",
+                "runs": 24,
+                "balls": 18,
+                "sr": 133.33,
+                "fours": 1,
+                "sixes": 2,
+                "win_contribution_percent": 14.0,
+                "score": 48.87
+            },
+            {
+                "player": "RK Paudel",
+                "team": "Nepal",
+                "runs": 16,
+                "balls": 14,
+                "sr": 114.29,
+                "fours": 1,
+                "sixes": 0,
+                "win_contribution_percent": 9.4,
+                "score": 37.32
+            }
+        ],
+        "bowling": [
+            {
+                "player": "Sompal Kami",
+                "team": "Nepal",
+                "overs": 4.0,
+                "runs": 26,
+                "wickets": 3,
+                "econ": 6.5,
+                "score": 116.12,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "NK Yadav",
+                "team": "Nepal",
+                "overs": 4.0,
+                "runs": 39,
+                "wickets": 2,
+                "econ": 9.75,
+                "score": 77.41,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "RK Paudel",
+                "team": "Nepal",
+                "overs": 2.0,
+                "runs": 12,
+                "wickets": 1,
+                "econ": 6.0,
+                "score": 58.3,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "K Bhurtel",
+                "team": "Nepal",
+                "overs": 4.0,
+                "runs": 37,
+                "wickets": 1,
+                "econ": 9.25,
+                "score": 48.36,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "DS Airee",
+                "team": "Nepal",
+                "overs": 3.0,
+                "runs": 23,
+                "wickets": 0,
+                "econ": 7.67,
+                "score": 22.14,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "S Lamichhane",
+                "team": "Nepal",
+                "overs": 3.0,
+                "runs": 33,
+                "wickets": 0,
+                "econ": 11.0,
+                "score": 15.44,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "MA Leask",
+                "team": "Scotland",
+                "overs": 4.0,
+                "runs": 30,
+                "wickets": 3,
+                "econ": 7.5,
+                "score": 112.64,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "BJ McMullen",
+                "team": "Scotland",
+                "overs": 1.0,
+                "runs": 5,
+                "wickets": 0,
+                "econ": 5.0,
+                "score": 33.96,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "O Davidson",
+                "team": "Scotland",
+                "overs": 4.0,
+                "runs": 31,
+                "wickets": 0,
+                "econ": 7.75,
+                "score": 21.91,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "BJ Currie",
+                "team": "Scotland",
+                "overs": 4.0,
+                "runs": 35,
+                "wickets": 0,
+                "econ": 8.75,
+                "score": 19.4,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "BTJ Wheal",
+                "team": "Scotland",
+                "overs": 3.2,
+                "runs": 35,
+                "wickets": 0,
+                "econ": 10.5,
+                "score": 16.17,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "MRJ Watt",
+                "team": "Scotland",
+                "overs": 3.0,
+                "runs": 35,
+                "wickets": 0,
+                "econ": 11.67,
+                "score": 14.55,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            }
+        ]
+    },
+    "innings": [
+        {
+            "innings": 1,
+            "team": "Scotland",
+            "total_runs": 170,
+            "total_wickets": 7,
+            "balls_faced": 120,
+            "overs_faced": 20.0,
+            "phase_analysis": {
+                "Powerplay": {
+                    "runs": 52,
+                    "wkts": 0,
+                    "rr": 8.67
+                },
+                "Middle": {
+                    "runs": 79,
+                    "wkts": 1,
+                    "rr": 8.78
+                },
+                "Death": {
+                    "runs": 39,
+                    "wkts": 6,
+                    "rr": 7.8
+                }
+            }
+        },
+        {
+            "innings": 2,
+            "team": "Nepal",
+            "total_runs": 171,
+            "total_wickets": 3,
+            "balls_faced": 116,
+            "overs_faced": 19.2,
+            "phase_analysis": {
+                "Powerplay": {
+                    "runs": 56,
+                    "wkts": 0,
+                    "rr": 9.33
+                },
+                "Middle": {
+                    "runs": 56,
+                    "wkts": 3,
+                    "rr": 6.22
+                },
+                "Death": {
+                    "runs": 59,
+                    "wkts": 0,
+                    "rr": 13.62
+                }
+            },
+            "pressure_index": 69.0,
+            "target": 171
+        }
+    ],
+    "players": [
+        {
+            "player": "Sompal Kami",
+            "team": "Nepal",
+            "overs": 4.0,
+            "runs": 26,
+            "wickets": 3,
+            "econ": 6.5,
+            "score": 116.12,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-26r-3w"
+        },
+        {
+            "player": "MA Leask",
+            "team": "Scotland",
+            "overs": 4.0,
+            "runs": 30,
+            "wickets": 3,
+            "econ": 7.5,
+            "score": 112.64,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-30r-3w"
+        },
+        {
+            "player": "MA Jones",
+            "team": "Scotland",
+            "runs": 71,
+            "balls": 46,
+            "sr": 154.35,
+            "fours": 8,
+            "sixes": 3,
+            "win_contribution_percent": 41.8,
+            "score": 99.79,
+            "role": "batting",
+            "match_stats": "71(46)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "DS Airee",
+            "team": "Nepal",
+            "runs": 50,
+            "balls": 23,
+            "sr": 217.39,
+            "fours": 4,
+            "sixes": 3,
+            "win_contribution_percent": 29.2,
+            "score": 90.55,
+            "role": "batting",
+            "match_stats": "50(23)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "NK Yadav",
+            "team": "Nepal",
+            "overs": 4.0,
+            "runs": 39,
+            "wickets": 2,
+            "econ": 9.75,
+            "score": 77.41,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-39r-2w"
+        },
+        {
+            "player": "K Bhurtel",
+            "team": "Nepal",
+            "runs": 43,
+            "balls": 35,
+            "sr": 122.86,
+            "fours": 1,
+            "sixes": 4,
+            "win_contribution_percent": 25.1,
+            "score": 65.92,
+            "role": "batting",
+            "match_stats": "43(35)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "RK Paudel",
+            "team": "Nepal",
+            "overs": 2.0,
+            "runs": 12,
+            "wickets": 1,
+            "econ": 6.0,
+            "score": 58.3,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "2.0o-12r-1w"
+        },
+        {
+            "player": "MRJ Watt",
+            "team": "Scotland",
+            "runs": 10,
+            "balls": 4,
+            "sr": 250.0,
+            "fours": 0,
+            "sixes": 1,
+            "win_contribution_percent": 5.9,
+            "score": 56.63,
+            "role": "batting",
+            "match_stats": "10(4)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "Aasif Sheikh",
+            "team": "Nepal",
+            "runs": 33,
+            "balls": 28,
+            "sr": 117.86,
+            "fours": 0,
+            "sixes": 2,
+            "win_contribution_percent": 19.3,
+            "score": 54.98,
+            "role": "batting",
+            "match_stats": "33(28)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "Gulsan Jha",
+            "team": "Nepal",
+            "runs": 24,
+            "balls": 18,
+            "sr": 133.33,
+            "fours": 1,
+            "sixes": 2,
+            "win_contribution_percent": 14.0,
+            "score": 48.87,
+            "role": "batting",
+            "match_stats": "24(18)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "K Bhurtel",
+            "team": "Nepal",
+            "overs": 4.0,
+            "runs": 37,
+            "wickets": 1,
+            "econ": 9.25,
+            "score": 48.36,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-37r-1w"
+        },
+        {
+            "player": "BJ McMullen",
+            "team": "Scotland",
+            "runs": 25,
+            "balls": 20,
+            "sr": 125.0,
+            "fours": 1,
+            "sixes": 1,
+            "win_contribution_percent": 14.7,
+            "score": 48.32,
+            "role": "batting",
+            "match_stats": "25(20)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "HG Munsey",
+            "team": "Scotland",
+            "runs": 27,
+            "balls": 29,
+            "sr": 93.1,
+            "fours": 4,
+            "sixes": 0,
+            "win_contribution_percent": 15.9,
+            "score": 44.37,
+            "role": "batting",
+            "match_stats": "27(29)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "MH Cross",
+            "team": "Scotland",
+            "runs": 4,
+            "balls": 2,
+            "sr": 200.0,
+            "fours": 1,
+            "sixes": 0,
+            "win_contribution_percent": 2.4,
+            "score": 41.31,
+            "role": "batting",
+            "match_stats": "4(2)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "RD Berrington",
+            "team": "Scotland",
+            "runs": 10,
+            "balls": 6,
+            "sr": 166.67,
+            "fours": 0,
+            "sixes": 1,
+            "win_contribution_percent": 5.9,
+            "score": 41.09,
+            "role": "batting",
+            "match_stats": "10(6)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "RK Paudel",
+            "team": "Nepal",
+            "runs": 16,
+            "balls": 14,
+            "sr": 114.29,
+            "fours": 1,
+            "sixes": 0,
+            "win_contribution_percent": 9.4,
+            "score": 37.32,
+            "role": "batting",
+            "match_stats": "16(14)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "BJ McMullen",
+            "team": "Scotland",
+            "overs": 1.0,
+            "runs": 5,
+            "wickets": 0,
+            "econ": 5.0,
+            "score": 33.96,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "1.0o-5r-0w"
+        },
+        {
+            "player": "DS Airee",
+            "team": "Nepal",
+            "overs": 3.0,
+            "runs": 23,
+            "wickets": 0,
+            "econ": 7.67,
+            "score": 22.14,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "3.0o-23r-0w"
+        },
+        {
+            "player": "O Davidson",
+            "team": "Scotland",
+            "overs": 4.0,
+            "runs": 31,
+            "wickets": 0,
+            "econ": 7.75,
+            "score": 21.91,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-31r-0w"
+        },
+        {
+            "player": "TC Bruce",
+            "team": "Scotland",
+            "runs": 5,
+            "balls": 6,
+            "sr": 83.33,
+            "fours": 0,
+            "sixes": 0,
+            "win_contribution_percent": 2.9,
+            "score": 20.54,
+            "role": "batting",
+            "match_stats": "5(6)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "BJ Currie",
+            "team": "Scotland",
+            "overs": 4.0,
+            "runs": 35,
+            "wickets": 0,
+            "econ": 8.75,
+            "score": 19.4,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-35r-0w"
+        },
+        {
+            "player": "BTJ Wheal",
+            "team": "Scotland",
+            "overs": 3.2,
+            "runs": 35,
+            "wickets": 0,
+            "econ": 10.5,
+            "score": 16.17,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "3.2o-35r-0w"
+        },
+        {
+            "player": "S Lamichhane",
+            "team": "Nepal",
+            "overs": 3.0,
+            "runs": 33,
+            "wickets": 0,
+            "econ": 11.0,
+            "score": 15.44,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "3.0o-33r-0w"
+        },
+        {
+            "player": "MRJ Watt",
+            "team": "Scotland",
+            "overs": 3.0,
+            "runs": 35,
+            "wickets": 0,
+            "econ": 11.67,
+            "score": 14.55,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "3.0o-35r-0w"
+        },
+        {
+            "player": "MA Leask",
+            "team": "Scotland",
+            "runs": 4,
+            "balls": 8,
+            "sr": 50.0,
+            "fours": 0,
+            "sixes": 0,
+            "win_contribution_percent": 2.4,
+            "score": 13.33,
+            "role": "batting",
+            "match_stats": "4(8)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "O Davidson",
+            "team": "Scotland",
+            "runs": 1,
+            "balls": 2,
+            "sr": 50.0,
+            "fours": 0,
+            "sixes": 0,
+            "win_contribution_percent": 0.6,
+            "score": 10.33,
+            "role": "batting",
+            "match_stats": "1(2)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        }
+    ],
+    "validation": {
+        "logical_stability": true
+    }
+}

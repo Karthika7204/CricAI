@@ -1,0 +1,1457 @@
+{
+  "match_id": "1512764",
+  "team_a": "New Zealand",
+  "team_b": "Sri Lanka",
+  "matchups": [
+    {
+      "bat": "BKG Mendis",
+      "bat_t": "Sri Lanka",
+      "bowl": "MJ Santner",
+      "bowl_t": "New Zealand",
+      "v": "bowler",
+      "h2h": {
+        "balls": 47,
+        "runs": 40,
+        "dismissals": 4,
+        "strike_rate": 85.11
+      },
+      "vs_t": {
+        "runs": 326,
+        "balls": 273,
+        "dismissals": 13,
+        "average": 25.08,
+        "strike_rate": 119.41
+      },
+      "b_f": [
+        11,
+        4,
+        14
+      ],
+      "w_f": [
+        1,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "P Nissanka",
+      "bat_t": "Sri Lanka",
+      "bowl": "MJ Henry",
+      "bowl_t": "New Zealand",
+      "v": "bowler",
+      "h2h": {
+        "balls": 37,
+        "runs": 48,
+        "dismissals": 3,
+        "strike_rate": 129.73
+      },
+      "vs_t": {
+        "runs": 246,
+        "balls": 216,
+        "dismissals": 10,
+        "average": 24.6,
+        "strike_rate": 113.89
+      },
+      "b_f": [
+        0,
+        9,
+        62
+      ],
+      "w_f": [
+        2,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "MS Chapman",
+      "bat_t": "New Zealand",
+      "bowl": "M Theekshana",
+      "bowl_t": "Sri Lanka",
+      "v": "bowler",
+      "h2h": {
+        "balls": 22,
+        "runs": 23,
+        "dismissals": 2,
+        "strike_rate": 104.55
+      },
+      "vs_t": {
+        "runs": 124,
+        "balls": 106,
+        "dismissals": 9,
+        "average": 13.78,
+        "strike_rate": 116.98
+      },
+      "b_f": [
+        0,
+        48
+      ],
+      "w_f": [
+        3,
+        2,
+        0
+      ]
+    },
+    {
+      "bat": "FH Allen",
+      "bat_t": "New Zealand",
+      "bowl": "M Theekshana",
+      "bowl_t": "Sri Lanka",
+      "v": "bowler",
+      "h2h": {
+        "balls": 4,
+        "runs": 1,
+        "dismissals": 2,
+        "strike_rate": 25.0
+      },
+      "vs_t": {
+        "runs": 24,
+        "balls": 16,
+        "dismissals": 2,
+        "average": 12.0,
+        "strike_rate": 150.0
+      },
+      "b_f": [
+        23,
+        21,
+        31
+      ],
+      "w_f": [
+        3,
+        2,
+        0
+      ]
+    },
+    {
+      "bat": "DJ Mitchell",
+      "bat_t": "New Zealand",
+      "bowl": "M Theekshana",
+      "bowl_t": "Sri Lanka",
+      "v": "bowler",
+      "h2h": {
+        "balls": 32,
+        "runs": 26,
+        "dismissals": 1,
+        "strike_rate": 81.25
+      },
+      "vs_t": {
+        "runs": 254,
+        "balls": 199,
+        "dismissals": 7,
+        "average": 36.29,
+        "strike_rate": 127.64
+      },
+      "b_f": [
+        3,
+        32
+      ],
+      "w_f": [
+        3,
+        2,
+        0
+      ]
+    },
+    {
+      "bat": "TL Seifert",
+      "bat_t": "New Zealand",
+      "bowl": "M Theekshana",
+      "bowl_t": "Sri Lanka",
+      "v": "bowler",
+      "h2h": {
+        "balls": 21,
+        "runs": 13,
+        "dismissals": 1,
+        "strike_rate": 61.9
+      },
+      "vs_t": {
+        "runs": 215,
+        "balls": 155,
+        "dismissals": 7,
+        "average": 30.71,
+        "strike_rate": 138.71
+      },
+      "b_f": [
+        8,
+        6,
+        13
+      ],
+      "w_f": [
+        3,
+        2,
+        0
+      ]
+    },
+    {
+      "bat": "R Ravindra",
+      "bat_t": "New Zealand",
+      "bowl": "M Theekshana",
+      "bowl_t": "Sri Lanka",
+      "v": "batsman",
+      "h2h": {
+        "balls": 19,
+        "runs": 30,
+        "dismissals": 1,
+        "strike_rate": 157.89
+      },
+      "vs_t": {
+        "runs": 138,
+        "balls": 95,
+        "dismissals": 5,
+        "average": 27.6,
+        "strike_rate": 145.26
+      },
+      "b_f": [
+        32,
+        59,
+        13
+      ],
+      "w_f": [
+        3,
+        2,
+        0
+      ]
+    },
+    {
+      "bat": "P Nissanka",
+      "bat_t": "Sri Lanka",
+      "bowl": "IS Sodhi",
+      "bowl_t": "New Zealand",
+      "v": "bowler",
+      "h2h": {
+        "balls": 18,
+        "runs": 16,
+        "dismissals": 1,
+        "strike_rate": 88.89
+      },
+      "vs_t": {
+        "runs": 246,
+        "balls": 216,
+        "dismissals": 10,
+        "average": 24.6,
+        "strike_rate": 113.89
+      },
+      "b_f": [
+        0,
+        9,
+        62
+      ],
+      "w_f": [
+        0
+      ]
+    },
+    {
+      "bat": "KIC Asalanka",
+      "bat_t": "Sri Lanka",
+      "bowl": "MJ Henry",
+      "bowl_t": "New Zealand",
+      "v": "bowler",
+      "h2h": {
+        "balls": 14,
+        "runs": 12,
+        "dismissals": 1,
+        "strike_rate": 85.71
+      },
+      "vs_t": {
+        "runs": 217,
+        "balls": 167,
+        "dismissals": 8,
+        "average": 27.12,
+        "strike_rate": 129.94
+      },
+      "b_f": [
+        5
+      ],
+      "w_f": [
+        2,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "BKG Mendis",
+      "bat_t": "Sri Lanka",
+      "bowl": "R Ravindra",
+      "bowl_t": "New Zealand",
+      "v": "batsman",
+      "h2h": {
+        "balls": 13,
+        "runs": 24,
+        "dismissals": 1,
+        "strike_rate": 184.62
+      },
+      "vs_t": {
+        "runs": 326,
+        "balls": 273,
+        "dismissals": 13,
+        "average": 25.08,
+        "strike_rate": 119.41
+      },
+      "b_f": [
+        11,
+        4,
+        14
+      ],
+      "w_f": [
+        4,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "DN Wellalage",
+      "bat_t": "Sri Lanka",
+      "bowl": "GD Phillips",
+      "bowl_t": "New Zealand",
+      "v": "bowler",
+      "h2h": {
+        "balls": 13,
+        "runs": 14,
+        "dismissals": 1,
+        "strike_rate": 107.69
+      },
+      "vs_t": {
+        "runs": 41,
+        "balls": 40,
+        "dismissals": 2,
+        "average": 20.5,
+        "strike_rate": 102.5
+      },
+      "b_f": [
+        29,
+        10,
+        15
+      ],
+      "w_f": [
+        1,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "MD Shanaka",
+      "bat_t": "Sri Lanka",
+      "bowl": "IS Sodhi",
+      "bowl_t": "New Zealand",
+      "v": "bowler",
+      "h2h": {
+        "balls": 11,
+        "runs": 6,
+        "dismissals": 1,
+        "strike_rate": 54.55
+      },
+      "vs_t": {
+        "runs": 92,
+        "balls": 81,
+        "dismissals": 8,
+        "average": 11.5,
+        "strike_rate": 113.58
+      },
+      "b_f": [
+        3,
+        30,
+        6
+      ],
+      "w_f": [
+        0
+      ]
+    },
+    {
+      "bat": "R Ravindra",
+      "bat_t": "New Zealand",
+      "bowl": "KIC Asalanka",
+      "bowl_t": "Sri Lanka",
+      "v": "bowler",
+      "h2h": {
+        "balls": 10,
+        "runs": 7,
+        "dismissals": 1,
+        "strike_rate": 70.0
+      },
+      "vs_t": {
+        "runs": 138,
+        "balls": 95,
+        "dismissals": 5,
+        "average": 27.6,
+        "strike_rate": 145.26
+      },
+      "b_f": [
+        32,
+        59,
+        13
+      ],
+      "w_f": [
+        0
+      ]
+    },
+    {
+      "bat": "PHKD Mendis",
+      "bat_t": "Sri Lanka",
+      "bowl": "GD Phillips",
+      "bowl_t": "New Zealand",
+      "v": "bowler",
+      "h2h": {
+        "balls": 10,
+        "runs": 12,
+        "dismissals": 1,
+        "strike_rate": 120.0
+      },
+      "vs_t": {
+        "runs": 62,
+        "balls": 55,
+        "dismissals": 5,
+        "average": 12.4,
+        "strike_rate": 112.73
+      },
+      "b_f": [
+        31,
+        13,
+        7
+      ],
+      "w_f": [
+        1,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "GD Phillips",
+      "bat_t": "New Zealand",
+      "bowl": "KIC Asalanka",
+      "bowl_t": "Sri Lanka",
+      "v": "bowler",
+      "h2h": {
+        "balls": 9,
+        "runs": 9,
+        "dismissals": 1,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 176,
+        "balls": 139,
+        "dismissals": 7,
+        "average": 25.14,
+        "strike_rate": 126.62
+      },
+      "b_f": [
+        18,
+        76,
+        1
+      ],
+      "w_f": [
+        0
+      ]
+    },
+    {
+      "bat": "KIC Asalanka",
+      "bat_t": "Sri Lanka",
+      "bowl": "MJ Santner",
+      "bowl_t": "New Zealand",
+      "v": "batsman",
+      "h2h": {
+        "balls": 9,
+        "runs": 21,
+        "dismissals": 1,
+        "strike_rate": 233.33
+      },
+      "vs_t": {
+        "runs": 217,
+        "balls": 167,
+        "dismissals": 8,
+        "average": 27.12,
+        "strike_rate": 129.94
+      },
+      "b_f": [
+        5
+      ],
+      "w_f": [
+        1,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "M Theekshana",
+      "bat_t": "Sri Lanka",
+      "bowl": "GD Phillips",
+      "bowl_t": "New Zealand",
+      "v": "bowler",
+      "h2h": {
+        "balls": 8,
+        "runs": 5,
+        "dismissals": 1,
+        "strike_rate": 62.5
+      },
+      "vs_t": {
+        "runs": 16,
+        "balls": 30,
+        "dismissals": 5,
+        "average": 3.2,
+        "strike_rate": 53.33
+      },
+      "b_f": [
+        1,
+        10
+      ],
+      "w_f": [
+        1,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "MJ Santner",
+      "bat_t": "New Zealand",
+      "bowl": "PVD Chameera",
+      "bowl_t": "Sri Lanka",
+      "v": "batsman",
+      "h2h": {
+        "balls": 7,
+        "runs": 13,
+        "dismissals": 1,
+        "strike_rate": 185.71
+      },
+      "vs_t": {
+        "runs": 161,
+        "balls": 131,
+        "dismissals": 5,
+        "average": 32.2,
+        "strike_rate": 122.9
+      },
+      "b_f": [
+        47,
+        4
+      ],
+      "w_f": [
+        3,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "PHKD Mendis",
+      "bat_t": "Sri Lanka",
+      "bowl": "MJ Santner",
+      "bowl_t": "New Zealand",
+      "v": "bowler",
+      "h2h": {
+        "balls": 6,
+        "runs": 6,
+        "dismissals": 1,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 62,
+        "balls": 55,
+        "dismissals": 5,
+        "average": 12.4,
+        "strike_rate": 112.73
+      },
+      "b_f": [
+        31,
+        13,
+        7
+      ],
+      "w_f": [
+        1,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "MD Shanaka",
+      "bat_t": "Sri Lanka",
+      "bowl": "R Ravindra",
+      "bowl_t": "New Zealand",
+      "v": "bowler",
+      "h2h": {
+        "balls": 6,
+        "runs": 2,
+        "dismissals": 1,
+        "strike_rate": 33.33
+      },
+      "vs_t": {
+        "runs": 92,
+        "balls": 81,
+        "dismissals": 8,
+        "average": 11.5,
+        "strike_rate": 113.58
+      },
+      "b_f": [
+        3,
+        30,
+        6
+      ],
+      "w_f": [
+        4,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "IS Sodhi",
+      "bat_t": "New Zealand",
+      "bowl": "M Theekshana",
+      "bowl_t": "Sri Lanka",
+      "v": "bowler",
+      "h2h": {
+        "balls": 5,
+        "runs": 2,
+        "dismissals": 1,
+        "strike_rate": 40.0
+      },
+      "vs_t": {
+        "runs": 22,
+        "balls": 20,
+        "dismissals": 2,
+        "average": 11.0,
+        "strike_rate": 110.0
+      },
+      "w_f": [
+        3,
+        2,
+        0
+      ]
+    },
+    {
+      "bat": "GD Phillips",
+      "bat_t": "New Zealand",
+      "bowl": "PVD Chameera",
+      "bowl_t": "Sri Lanka",
+      "v": "bowler",
+      "h2h": {
+        "balls": 4,
+        "runs": 2,
+        "dismissals": 1,
+        "strike_rate": 50.0
+      },
+      "vs_t": {
+        "runs": 176,
+        "balls": 139,
+        "dismissals": 7,
+        "average": 25.14,
+        "strike_rate": 126.62
+      },
+      "b_f": [
+        18,
+        76,
+        1
+      ],
+      "w_f": [
+        3,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "MADI Hemantha",
+      "bat_t": "Sri Lanka",
+      "bowl": "R Ravindra",
+      "bowl_t": "New Zealand",
+      "v": "neutral",
+      "h2h": {
+        "balls": 4,
+        "runs": 1,
+        "dismissals": 1,
+        "strike_rate": 25.0
+      },
+      "vs_t": {
+        "runs": 3,
+        "balls": 6,
+        "dismissals": 1,
+        "average": 3.0,
+        "strike_rate": 50.0
+      },
+      "b_f": [
+        3,
+        5,
+        0
+      ],
+      "w_f": [
+        4,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "DJ Mitchell",
+      "bat_t": "New Zealand",
+      "bowl": "DN Wellalage",
+      "bowl_t": "Sri Lanka",
+      "v": "bowler",
+      "h2h": {
+        "balls": 3,
+        "runs": 2,
+        "dismissals": 1,
+        "strike_rate": 66.67
+      },
+      "vs_t": {
+        "runs": 254,
+        "balls": 199,
+        "dismissals": 7,
+        "average": 36.29,
+        "strike_rate": 127.64
+      },
+      "b_f": [
+        3,
+        32
+      ],
+      "w_f": [
+        1,
+        3,
+        1
+      ]
+    },
+    {
+      "bat": "IS Sodhi",
+      "bat_t": "New Zealand",
+      "bowl": "DN Wellalage",
+      "bowl_t": "Sri Lanka",
+      "v": "bowler",
+      "h2h": {
+        "balls": 3,
+        "runs": 3,
+        "dismissals": 1,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 22,
+        "balls": 20,
+        "dismissals": 2,
+        "average": 11.0,
+        "strike_rate": 110.0
+      },
+      "w_f": [
+        1,
+        3,
+        1
+      ]
+    },
+    {
+      "bat": "MS Chapman",
+      "bat_t": "New Zealand",
+      "bowl": "KIC Asalanka",
+      "bowl_t": "Sri Lanka",
+      "v": "bowler",
+      "h2h": {
+        "balls": 3,
+        "runs": 8,
+        "dismissals": 1,
+        "strike_rate": 266.67
+      },
+      "vs_t": {
+        "runs": 124,
+        "balls": 106,
+        "dismissals": 9,
+        "average": 13.78,
+        "strike_rate": 116.98
+      },
+      "b_f": [
+        0,
+        48
+      ],
+      "w_f": [
+        0
+      ]
+    },
+    {
+      "bat": "DJ Mitchell",
+      "bat_t": "New Zealand",
+      "bowl": "MD Shanaka",
+      "bowl_t": "Sri Lanka",
+      "v": "bowler",
+      "h2h": {
+        "balls": 2,
+        "runs": 1,
+        "dismissals": 1,
+        "strike_rate": 50.0
+      },
+      "vs_t": {
+        "runs": 254,
+        "balls": 199,
+        "dismissals": 7,
+        "average": 36.29,
+        "strike_rate": 127.64
+      },
+      "b_f": [
+        3,
+        32
+      ],
+      "w_f": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "R Ravindra",
+      "bat_t": "New Zealand",
+      "bowl": "MD Shanaka",
+      "bowl_t": "Sri Lanka",
+      "v": "bowler",
+      "h2h": {
+        "balls": 2,
+        "runs": 1,
+        "dismissals": 1,
+        "strike_rate": 50.0
+      },
+      "vs_t": {
+        "runs": 138,
+        "balls": 95,
+        "dismissals": 5,
+        "average": 27.6,
+        "strike_rate": 145.26
+      },
+      "b_f": [
+        32,
+        59,
+        13
+      ],
+      "w_f": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "P Nissanka",
+      "bat_t": "Sri Lanka",
+      "bowl": "MJ Santner",
+      "bowl_t": "New Zealand",
+      "v": "bowler",
+      "h2h": {
+        "balls": 32,
+        "runs": 30,
+        "dismissals": 0,
+        "strike_rate": 93.75
+      },
+      "vs_t": {
+        "runs": 246,
+        "balls": 216,
+        "dismissals": 10,
+        "average": 24.6,
+        "strike_rate": 113.89
+      },
+      "b_f": [
+        0,
+        9,
+        62
+      ],
+      "w_f": [
+        1,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "P Nissanka",
+      "bat_t": "Sri Lanka",
+      "bowl": "GD Phillips",
+      "bowl_t": "New Zealand",
+      "v": "bowler",
+      "h2h": {
+        "balls": 2,
+        "runs": 1,
+        "dismissals": 1,
+        "strike_rate": 50.0
+      },
+      "vs_t": {
+        "runs": 246,
+        "balls": 216,
+        "dismissals": 10,
+        "average": 24.6,
+        "strike_rate": 113.89
+      },
+      "b_f": [
+        0,
+        9,
+        62
+      ],
+      "w_f": [
+        1,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "TL Seifert",
+      "bat_t": "New Zealand",
+      "bowl": "PVD Chameera",
+      "bowl_t": "Sri Lanka",
+      "v": "bowler",
+      "h2h": {
+        "balls": 1,
+        "runs": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 215,
+        "balls": 155,
+        "dismissals": 7,
+        "average": 30.71,
+        "strike_rate": 138.71
+      },
+      "b_f": [
+        8,
+        6,
+        13
+      ],
+      "w_f": [
+        3,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "PHKD Mendis",
+      "bat_t": "Sri Lanka",
+      "bowl": "LH Ferguson",
+      "bowl_t": "New Zealand",
+      "v": "bowler",
+      "h2h": {
+        "balls": 1,
+        "runs": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 62,
+        "balls": 55,
+        "dismissals": 5,
+        "average": 12.4,
+        "strike_rate": 112.73
+      },
+      "b_f": [
+        31,
+        13,
+        7
+      ],
+      "w_f": [
+        0,
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "M Theekshana",
+      "bat_t": "Sri Lanka",
+      "bowl": "MJ Santner",
+      "bowl_t": "New Zealand",
+      "v": "bowler",
+      "h2h": {
+        "balls": 1,
+        "runs": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 16,
+        "balls": 30,
+        "dismissals": 5,
+        "average": 3.2,
+        "strike_rate": 53.33
+      },
+      "b_f": [
+        1,
+        10
+      ],
+      "w_f": [
+        1,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "P Rathnayake",
+      "bat_t": "Sri Lanka",
+      "bowl": "R Ravindra",
+      "bowl_t": "New Zealand",
+      "v": "neutral",
+      "h2h": {
+        "balls": 1,
+        "runs": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 10,
+        "balls": 18,
+        "dismissals": 1,
+        "average": 10.0,
+        "strike_rate": 55.56
+      },
+      "b_f": [
+        10,
+        0,
+        44
+      ],
+      "w_f": [
+        4,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "KIC Asalanka",
+      "bat_t": "Sri Lanka",
+      "bowl": "LH Ferguson",
+      "bowl_t": "New Zealand",
+      "v": "bowler",
+      "h2h": {
+        "balls": 1,
+        "runs": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 217,
+        "balls": 167,
+        "dismissals": 8,
+        "average": 27.12,
+        "strike_rate": 129.94
+      },
+      "b_f": [
+        5
+      ],
+      "w_f": [
+        0,
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "BKG Mendis",
+      "bat_t": "Sri Lanka",
+      "bowl": "IS Sodhi",
+      "bowl_t": "New Zealand",
+      "v": "bowler",
+      "h2h": {
+        "balls": 26,
+        "runs": 19,
+        "dismissals": 0,
+        "strike_rate": 73.08
+      },
+      "vs_t": {
+        "runs": 326,
+        "balls": 273,
+        "dismissals": 13,
+        "average": 25.08,
+        "strike_rate": 119.41
+      },
+      "b_f": [
+        11,
+        4,
+        14
+      ],
+      "w_f": [
+        0
+      ]
+    },
+    {
+      "bat": "BKG Mendis",
+      "bat_t": "Sri Lanka",
+      "bowl": "MJ Henry",
+      "bowl_t": "New Zealand",
+      "v": "bowler",
+      "h2h": {
+        "balls": 21,
+        "runs": 26,
+        "dismissals": 0,
+        "strike_rate": 123.81
+      },
+      "vs_t": {
+        "runs": 326,
+        "balls": 273,
+        "dismissals": 13,
+        "average": 25.08,
+        "strike_rate": 119.41
+      },
+      "b_f": [
+        11,
+        4,
+        14
+      ],
+      "w_f": [
+        2,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "KIC Asalanka",
+      "bat_t": "Sri Lanka",
+      "bowl": "IS Sodhi",
+      "bowl_t": "New Zealand",
+      "v": "bowler",
+      "h2h": {
+        "balls": 21,
+        "runs": 25,
+        "dismissals": 0,
+        "strike_rate": 119.05
+      },
+      "vs_t": {
+        "runs": 217,
+        "balls": 167,
+        "dismissals": 8,
+        "average": 27.12,
+        "strike_rate": 129.94
+      },
+      "b_f": [
+        5
+      ],
+      "w_f": [
+        0
+      ]
+    },
+    {
+      "bat": "MJ Santner",
+      "bat_t": "New Zealand",
+      "bowl": "M Theekshana",
+      "bowl_t": "Sri Lanka",
+      "v": "batsman",
+      "h2h": {
+        "balls": 20,
+        "runs": 27,
+        "dismissals": 0,
+        "strike_rate": 135.0
+      },
+      "vs_t": {
+        "runs": 161,
+        "balls": 131,
+        "dismissals": 5,
+        "average": 32.2,
+        "strike_rate": 122.9
+      },
+      "b_f": [
+        47,
+        4
+      ],
+      "w_f": [
+        3,
+        2,
+        0
+      ]
+    },
+    {
+      "bat": "GD Phillips",
+      "bat_t": "New Zealand",
+      "bowl": "M Theekshana",
+      "bowl_t": "Sri Lanka",
+      "v": "batsman",
+      "h2h": {
+        "balls": 20,
+        "runs": 36,
+        "dismissals": 0,
+        "strike_rate": 180.0
+      },
+      "vs_t": {
+        "runs": 176,
+        "balls": 139,
+        "dismissals": 7,
+        "average": 25.14,
+        "strike_rate": 126.62
+      },
+      "b_f": [
+        18,
+        76,
+        1
+      ],
+      "w_f": [
+        3,
+        2,
+        0
+      ]
+    },
+    {
+      "bat": "MD Shanaka",
+      "bat_t": "Sri Lanka",
+      "bowl": "MJ Santner",
+      "bowl_t": "New Zealand",
+      "v": "batsman",
+      "h2h": {
+        "balls": 15,
+        "runs": 20,
+        "dismissals": 0,
+        "strike_rate": 133.33
+      },
+      "vs_t": {
+        "runs": 92,
+        "balls": 81,
+        "dismissals": 8,
+        "average": 11.5,
+        "strike_rate": 113.58
+      },
+      "b_f": [
+        3,
+        30,
+        6
+      ],
+      "w_f": [
+        1,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "PHKD Mendis",
+      "bat_t": "Sri Lanka",
+      "bowl": "IS Sodhi",
+      "bowl_t": "New Zealand",
+      "v": "bowler",
+      "h2h": {
+        "balls": 14,
+        "runs": 17,
+        "dismissals": 0,
+        "strike_rate": 121.43
+      },
+      "vs_t": {
+        "runs": 62,
+        "balls": 55,
+        "dismissals": 5,
+        "average": 12.4,
+        "strike_rate": 112.73
+      },
+      "b_f": [
+        31,
+        13,
+        7
+      ],
+      "w_f": [
+        0
+      ]
+    },
+    {
+      "bat": "DJ Mitchell",
+      "bat_t": "New Zealand",
+      "bowl": "D Madushanka",
+      "bowl_t": "Sri Lanka",
+      "v": "batsman",
+      "h2h": {
+        "balls": 12,
+        "runs": 31,
+        "dismissals": 0,
+        "strike_rate": 258.33
+      },
+      "vs_t": {
+        "runs": 254,
+        "balls": 199,
+        "dismissals": 7,
+        "average": 36.29,
+        "strike_rate": 127.64
+      },
+      "b_f": [
+        3,
+        32
+      ],
+      "w_f": [
+        0,
+        2,
+        0
+      ]
+    },
+    {
+      "bat": "DJ Mitchell",
+      "bat_t": "New Zealand",
+      "bowl": "KIC Asalanka",
+      "bowl_t": "Sri Lanka",
+      "v": "batsman",
+      "h2h": {
+        "balls": 9,
+        "runs": 31,
+        "dismissals": 0,
+        "strike_rate": 344.44
+      },
+      "vs_t": {
+        "runs": 254,
+        "balls": 199,
+        "dismissals": 7,
+        "average": 36.29,
+        "strike_rate": 127.64
+      },
+      "b_f": [
+        3,
+        32
+      ],
+      "w_f": [
+        0
+      ]
+    },
+    {
+      "bat": "MD Shanaka",
+      "bat_t": "Sri Lanka",
+      "bowl": "LH Ferguson",
+      "bowl_t": "New Zealand",
+      "v": "batsman",
+      "h2h": {
+        "balls": 9,
+        "runs": 13,
+        "dismissals": 0,
+        "strike_rate": 144.44
+      },
+      "vs_t": {
+        "runs": 92,
+        "balls": 81,
+        "dismissals": 8,
+        "average": 11.5,
+        "strike_rate": 113.58
+      },
+      "b_f": [
+        3,
+        30,
+        6
+      ],
+      "w_f": [
+        0,
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "MJ Santner",
+      "bat_t": "New Zealand",
+      "bowl": "KIC Asalanka",
+      "bowl_t": "Sri Lanka",
+      "v": "bowler",
+      "h2h": {
+        "balls": 8,
+        "runs": 9,
+        "dismissals": 0,
+        "strike_rate": 112.5
+      },
+      "vs_t": {
+        "runs": 161,
+        "balls": 131,
+        "dismissals": 5,
+        "average": 32.2,
+        "strike_rate": 122.9
+      },
+      "b_f": [
+        47,
+        4
+      ],
+      "w_f": [
+        0
+      ]
+    },
+    {
+      "bat": "FH Allen",
+      "bat_t": "New Zealand",
+      "bowl": "D Madushanka",
+      "bowl_t": "Sri Lanka",
+      "v": "batsman",
+      "h2h": {
+        "balls": 8,
+        "runs": 13,
+        "dismissals": 0,
+        "strike_rate": 162.5
+      },
+      "vs_t": {
+        "runs": 24,
+        "balls": 16,
+        "dismissals": 2,
+        "average": 12.0,
+        "strike_rate": 150.0
+      },
+      "b_f": [
+        23,
+        21,
+        31
+      ],
+      "w_f": [
+        0,
+        2,
+        0
+      ]
+    },
+    {
+      "bat": "PHKD Mendis",
+      "bat_t": "Sri Lanka",
+      "bowl": "R Ravindra",
+      "bowl_t": "New Zealand",
+      "v": "bowler",
+      "h2h": {
+        "balls": 8,
+        "runs": 7,
+        "dismissals": 0,
+        "strike_rate": 87.5
+      },
+      "vs_t": {
+        "runs": 62,
+        "balls": 55,
+        "dismissals": 5,
+        "average": 12.4,
+        "strike_rate": 112.73
+      },
+      "b_f": [
+        31,
+        13,
+        7
+      ],
+      "w_f": [
+        4,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "DN Wellalage",
+      "bat_t": "Sri Lanka",
+      "bowl": "R Ravindra",
+      "bowl_t": "New Zealand",
+      "v": "batsman",
+      "h2h": {
+        "balls": 8,
+        "runs": 13,
+        "dismissals": 0,
+        "strike_rate": 162.5
+      },
+      "vs_t": {
+        "runs": 41,
+        "balls": 40,
+        "dismissals": 2,
+        "average": 20.5,
+        "strike_rate": 102.5
+      },
+      "b_f": [
+        29,
+        10,
+        15
+      ],
+      "w_f": [
+        4,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "P Nissanka",
+      "bat_t": "Sri Lanka",
+      "bowl": "LH Ferguson",
+      "bowl_t": "New Zealand",
+      "v": "bowler",
+      "h2h": {
+        "balls": 8,
+        "runs": 2,
+        "dismissals": 0,
+        "strike_rate": 25.0
+      },
+      "vs_t": {
+        "runs": 246,
+        "balls": 216,
+        "dismissals": 10,
+        "average": 24.6,
+        "strike_rate": 113.89
+      },
+      "b_f": [
+        0,
+        9,
+        62
+      ],
+      "w_f": [
+        0,
+        1,
+        1
+      ]
+    }
+  ]
+}

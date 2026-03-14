@@ -1,0 +1,365 @@
+{
+    "match_context": {
+        "match_id": "1512753",
+        "date": "2026-02-18",
+        "tournament": "2025/26",
+        "venue": "Sinhalese Sports Club Ground, Colombo",
+        "stage": "ICC Men's T20 World Cup",
+        "Teams": {
+            "Pakistan": {
+                "captain": "Sahibzada Farhan",
+                "playing_xi_count": 9
+            },
+            "Namibia": {
+                "captain": "MG Erasmus",
+                "playing_xi_count": 11
+            }
+        }
+    },
+    "Match_Result": {
+        "summary": "Pakistan won by 102 runs",
+        "winner": "Pakistan",
+        "margin": 102,
+        "margin_type": "runs"
+    },
+    "Scorecard_Highlights": {
+        "Key_Support_Performers": [
+            {
+                "player": "A Busing-Volschenk",
+                "team": "Namibia",
+                "runs": 20,
+                "balls": 22,
+                "sr": 90.91,
+                "fours": 1,
+                "sixes": 1,
+                "win_contribution_percent": 20.6,
+                "score": 38.71
+            }
+        ],
+        "Career_vs_Match_Bowling": [],
+        "Bowling_Standouts": {
+            "Economical_Spells": [],
+            "Expensive_Spells": [],
+            "High_Economy_No_Baseline": [
+                {
+                    "player": "WP Myburgh",
+                    "team": "Namibia",
+                    "overs": 2.0,
+                    "runs": 27,
+                    "wickets": 0,
+                    "econ": 13.5,
+                    "score": 11.29,
+                    "bowling_baseline": {
+                        "career_wickets": 0,
+                        "career_economy": 0.0,
+                        "career_sr": 0.0,
+                        "career_avg": 0.0,
+                        "best_bowling": "N/A",
+                        "matches": 0,
+                        "source": "none",
+                        "baseline_available": false
+                    }
+                },
+                {
+                    "player": "JT Brassell",
+                    "team": "Namibia",
+                    "overs": 4.0,
+                    "runs": 48,
+                    "wickets": 2,
+                    "econ": 12.0,
+                    "score": 72.7,
+                    "bowling_baseline": {
+                        "career_wickets": 0,
+                        "career_economy": 0.0,
+                        "career_sr": 0.0,
+                        "career_avg": 0.0,
+                        "best_bowling": "N/A",
+                        "matches": 0,
+                        "source": "none",
+                        "baseline_available": false
+                    }
+                }
+            ]
+        },
+        "Significant_Collapses": [
+            {
+                "player": "JJ Smit",
+                "runs": 9,
+                "balls": 13
+            },
+            {
+                "player": "WP Myburgh",
+                "runs": 8,
+                "balls": 14
+            }
+        ]
+    },
+    "Innings_Metrics": [
+        {
+            "innings": 1,
+            "team": "Pakistan",
+            "total_runs": 199,
+            "total_wickets": 3,
+            "balls_faced": 120,
+            "overs_faced": 20.0,
+            "phase_analysis": {
+                "Powerplay": {
+                    "runs": 47,
+                    "wkts": 1,
+                    "rr": 7.83
+                },
+                "Middle": {
+                    "runs": 84,
+                    "wkts": 2,
+                    "rr": 9.33
+                },
+                "Death": {
+                    "runs": 68,
+                    "wkts": 0,
+                    "rr": 13.6
+                }
+            }
+        },
+        {
+            "innings": 2,
+            "team": "Namibia",
+            "total_runs": 97,
+            "total_wickets": 10,
+            "balls_faced": 105,
+            "overs_faced": 17.3,
+            "phase_analysis": {
+                "Powerplay": {
+                    "runs": 40,
+                    "wkts": 2,
+                    "rr": 6.67
+                },
+                "Middle": {
+                    "runs": 43,
+                    "wkts": 5,
+                    "rr": 4.78
+                },
+                "Death": {
+                    "runs": 14,
+                    "wkts": 3,
+                    "rr": 5.6
+                }
+            },
+            "pressure_index": 99.0,
+            "target": 200
+        }
+    ],
+    "Detailed_Impact_Analysis": [
+        {
+            "player": "Usman Tariq",
+            "team": "Pakistan",
+            "overs": 3.3,
+            "runs": 16,
+            "wickets": 4,
+            "econ": 4.57,
+            "score": 150.0,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "3.3o-16r-4w"
+        },
+        {
+            "player": "Sahibzada Farhan",
+            "team": "Pakistan",
+            "runs": 100,
+            "balls": 59,
+            "sr": 169.49,
+            "fours": 11,
+            "sixes": 4,
+            "win_contribution_percent": 50.3,
+            "score": 134.89,
+            "role": "batting",
+            "match_stats": "100(59)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "Shadab Khan",
+            "team": "Pakistan",
+            "overs": 4.0,
+            "runs": 19,
+            "wickets": 3,
+            "econ": 4.75,
+            "score": 122.09,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-19r-3w"
+        },
+        {
+            "player": "JT Brassell",
+            "team": "Namibia",
+            "overs": 4.0,
+            "runs": 48,
+            "wickets": 2,
+            "econ": 12.0,
+            "score": 72.7,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-48r-2w"
+        },
+        {
+            "player": "Agha Salman",
+            "team": "Pakistan",
+            "runs": 38,
+            "balls": 24,
+            "sr": 158.33,
+            "fours": 3,
+            "sixes": 2,
+            "win_contribution_percent": 19.1,
+            "score": 70.59,
+            "role": "batting",
+            "match_stats": "38(24)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "Shadab Khan",
+            "team": "Pakistan",
+            "runs": 36,
+            "balls": 24,
+            "sr": 150.0,
+            "fours": 1,
+            "sixes": 3,
+            "win_contribution_percent": 18.1,
+            "score": 66.87,
+            "role": "batting",
+            "match_stats": "36(24)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "Mohammad Nawaz",
+            "team": "Pakistan",
+            "overs": 4.0,
+            "runs": 22,
+            "wickets": 1,
+            "econ": 5.5,
+            "score": 57.72,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-22r-1w"
+        },
+        {
+            "player": "Salman Mirza",
+            "team": "Pakistan",
+            "overs": 2.0,
+            "runs": 12,
+            "wickets": 1,
+            "econ": 6.0,
+            "score": 55.41,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "2.0o-12r-1w"
+        },
+        {
+            "player": "MG Erasmus",
+            "team": "Namibia",
+            "overs": 3.0,
+            "runs": 25,
+            "wickets": 1,
+            "econ": 8.33,
+            "score": 48.3,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "3.0o-25r-1w"
+        },
+        {
+            "player": "L Steenkamp",
+            "team": "Namibia",
+            "runs": 23,
+            "balls": 22,
+            "sr": 104.55,
+            "fours": 3,
+            "sixes": 1,
+            "win_contribution_percent": 23.7,
+            "score": 44.52,
+            "role": "batting",
+            "match_stats": "23(22)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        }
+    ],
+    "Tactical_Post_Match_Analysis": [
+        "Pakistan's victory was anchored by Sahibzada Farhan, who contributed 50.3% of the team's runs.",
+        "Defensive pressure was sustained by Usman Tariq, finishing with an impact score of 150.0.",
+        "Namibia struggled under extreme chase pressure (Index: 99.0), leading to a late-innings collapse.",
+        "High-scoring finish by Pakistan in Death Overs (RR: 13.6) shifted match momentum."
+    ]
+}

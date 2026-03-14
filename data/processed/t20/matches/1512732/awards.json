@@ -1,0 +1,94 @@
+{
+    "match_id": "1512732",
+    "winner": "Australia",
+    "loser": "Ireland",
+    "awards": {
+        "player_of_the_match": {
+            "name": "NT Ellis",
+            "team": "Australia",
+            "impact_score": 174.0,
+            "breakdown": {
+                "batting": 0.0,
+                "bowling": 145,
+                "fielding": 29,
+                "pressure_multiplier": 1.0
+            },
+            "key_stats": {
+                "bowling": "3.5ov-4wkt econ:3.39"
+            }
+        },
+        "best_batter": {
+            "name": "GH Dockrell",
+            "team": "Ireland",
+            "batting_impact": 74.0,
+            "stats": {
+                "runs": 41,
+                "balls": 29,
+                "sr": 141.38,
+                "fours": 3,
+                "sixes": 2
+            }
+        },
+        "best_bowler": {
+            "name": "NT Ellis",
+            "team": "Australia",
+            "bowling_impact": 145,
+            "stats": {
+                "overs": 3.5,
+                "wickets": 4,
+                "econ": 3.39
+            }
+        },
+        "game_changer": {
+            "name": "NT Ellis",
+            "team": "Australia",
+            "reason": "4-wicket haul | Exceptional economy 3.39",
+            "key_stats": {
+                "bowling": "3.5ov-4wkt econ:3.39"
+            }
+        },
+        "pressure_performer": {
+            "name": "GH Dockrell",
+            "team": "Ireland",
+            "pressure_multiplier": 1.2,
+            "reason": "Chasing team batter under pressure | Attacking SR 141.38 under pressure | Economy 7.75 while defending chase",
+            "key_stats": {
+                "batting": "41(29) SR:141.38",
+                "bowling": "4.0ov-1wkt econ:7.75"
+            }
+        },
+        "emerging_player": {
+            "name": "GH Dockrell",
+            "team": "Ireland",
+            "reason": "Outperformed team average by 3.11x",
+            "key_stats": {
+                "batting": "41(29) SR:141.38",
+                "bowling": "4.0ov-1wkt econ:7.75"
+            }
+        },
+        "fielding_impact": {
+            "name": "NT Ellis",
+            "team": "Australia",
+            "fielding_proxy_score": 29,
+            "methodology": "Proxy-based: catch attribution (65% T20 wickets are catches) + dot ball pressure bonus + economy-implied fielding support",
+            "reason": "Estimated 3 caught dismissals from 4 wickets | Economy 3.39 — tight fielding support implied",
+            "stats": {
+                "overs": 3.5,
+                "wickets": 4,
+                "econ": 3.39
+            }
+        },
+        "all_rounder_impact": {
+            "name": "GH Dockrell",
+            "team": "Ireland",
+            "all_rounder_score": 114.0,
+            "stats": {
+                "runs": 41,
+                "sr": 141.38,
+                "overs": 4.0,
+                "wickets": 1,
+                "econ": 7.75
+            }
+        }
+    }
+}

@@ -1,0 +1,1691 @@
+{
+  "match_id": "1512736",
+  "team_a": "India",
+  "team_b": "Namibia",
+  "matchups": [
+    {
+      "bat": "MB Kruger",
+      "bat_t": "Namibia",
+      "bowl": "AR Patel",
+      "bowl_t": "India",
+      "v": "bowler",
+      "h2h": {
+        "balls": 8,
+        "runs": 4,
+        "dismissals": 1,
+        "strike_rate": 50.0
+      },
+      "vs_t": {
+        "runs": 5,
+        "balls": 10,
+        "dismissals": 1,
+        "average": 5.0,
+        "strike_rate": 50.0
+      },
+      "w_car": {
+        "avg": 22.41,
+        "eco": 7.59
+      },
+      "b_f": [
+        5
+      ],
+      "w_f": [
+        2,
+        2,
+        2
+      ]
+    },
+    {
+      "bat": "Tilak Varma",
+      "bat_t": "India",
+      "bowl": "MG Erasmus",
+      "bowl_t": "Namibia",
+      "v": "batsman",
+      "h2h": {
+        "balls": 7,
+        "runs": 2,
+        "dismissals": 1,
+        "strike_rate": 28.57
+      },
+      "vs_t": {
+        "runs": 25,
+        "balls": 21,
+        "dismissals": 1,
+        "average": 25.0,
+        "strike_rate": 119.05
+      },
+      "b_car": {
+        "avg": 46.81,
+        "sr": 136.65
+      },
+      "b_f": [
+        1,
+        31,
+        25
+      ],
+      "w_f": [
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "bat": "JN Frylinck",
+      "bat_t": "Namibia",
+      "bowl": "Arshdeep Singh",
+      "bowl_t": "India",
+      "v": "batsman",
+      "h2h": {
+        "balls": 7,
+        "runs": 10,
+        "dismissals": 1,
+        "strike_rate": 142.86
+      },
+      "vs_t": {
+        "runs": 37,
+        "balls": 32,
+        "dismissals": 1,
+        "average": 37.0,
+        "strike_rate": 115.62
+      },
+      "w_car": {
+        "avg": 19.63,
+        "eco": 8.75
+      },
+      "b_f": [
+        9,
+        19,
+        22
+      ],
+      "w_f": [
+        2,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "MG Erasmus",
+      "bat_t": "Namibia",
+      "bowl": "AR Patel",
+      "bowl_t": "India",
+      "v": "batsman",
+      "h2h": {
+        "balls": 6,
+        "runs": 13,
+        "dismissals": 1,
+        "strike_rate": 216.67
+      },
+      "vs_t": {
+        "runs": 30,
+        "balls": 32,
+        "dismissals": 2,
+        "average": 15.0,
+        "strike_rate": 93.75
+      },
+      "w_car": {
+        "avg": 22.41,
+        "eco": 7.59
+      },
+      "b_f": [
+        7,
+        6,
+        18
+      ],
+      "w_f": [
+        2,
+        2,
+        2
+      ]
+    },
+    {
+      "bat": "SA Yadav",
+      "bat_t": "India",
+      "bowl": "BM Scholtz",
+      "bowl_t": "Namibia",
+      "v": "batsman",
+      "h2h": {
+        "balls": 5,
+        "runs": 3,
+        "dismissals": 1,
+        "strike_rate": 60.0
+      },
+      "vs_t": {
+        "runs": 37,
+        "balls": 33,
+        "dismissals": 1,
+        "average": 37.0,
+        "strike_rate": 112.12
+      },
+      "b_car": {
+        "avg": 38.51,
+        "sr": 156.8
+      },
+      "b_f": [
+        18,
+        34,
+        32
+      ],
+      "w_f": [
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "SV Samson",
+      "bat_t": "India",
+      "bowl": "B Shikongo",
+      "bowl_t": "Namibia",
+      "v": "neutral",
+      "h2h": {
+        "balls": 4,
+        "runs": 16,
+        "dismissals": 1,
+        "strike_rate": 400.0
+      },
+      "vs_t": {
+        "runs": 22,
+        "balls": 8,
+        "dismissals": 1,
+        "average": 22.0,
+        "strike_rate": 275.0
+      },
+      "b_car": {
+        "avg": 25.0,
+        "sr": 143.98
+      },
+      "b_f": [
+        22
+      ],
+      "w_f": [
+        1
+      ]
+    },
+    {
+      "bat": "R Trumpelmann",
+      "bat_t": "Namibia",
+      "bowl": "JJ Bumrah",
+      "bowl_t": "India",
+      "v": "bowler",
+      "h2h": {
+        "balls": 4,
+        "runs": 2,
+        "dismissals": 1,
+        "strike_rate": 50.0
+      },
+      "vs_t": {
+        "runs": 19,
+        "balls": 23,
+        "dismissals": 1,
+        "average": 19.0,
+        "strike_rate": 82.61
+      },
+      "w_car": {
+        "avg": 19.51,
+        "eco": 6.85
+      },
+      "b_f": [
+        0,
+        3,
+        6
+      ],
+      "w_f": [
+        3,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "HH Pandya",
+      "bat_t": "India",
+      "bowl": "MG Erasmus",
+      "bowl_t": "Namibia",
+      "v": "batsman",
+      "h2h": {
+        "balls": 3,
+        "runs": 7,
+        "dismissals": 1,
+        "strike_rate": 233.33
+      },
+      "vs_t": {
+        "runs": 52,
+        "balls": 29,
+        "dismissals": 1,
+        "average": 52.0,
+        "strike_rate": 179.31
+      },
+      "b_car": {
+        "avg": 28.12,
+        "sr": 138.02
+      },
+      "b_f": [
+        18,
+        30,
+        0
+      ],
+      "w_f": [
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "bat": "RK Singh",
+      "bat_t": "India",
+      "bowl": "JJ Smit",
+      "bowl_t": "Namibia",
+      "v": "neutral",
+      "h2h": {
+        "balls": 3,
+        "runs": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 1,
+        "balls": 6,
+        "dismissals": 1,
+        "average": 1.0,
+        "strike_rate": 16.67
+      },
+      "b_car": {
+        "avg": 28.1,
+        "sr": 136.57
+      },
+      "b_f": [
+        0,
+        6,
+        11
+      ],
+      "w_f": [
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "ZE Green",
+      "bat_t": "Namibia",
+      "bowl": "S Dube",
+      "bowl_t": "India",
+      "v": "bowler",
+      "h2h": {
+        "balls": 3,
+        "runs": 1,
+        "dismissals": 1,
+        "strike_rate": 33.33
+      },
+      "vs_t": {
+        "runs": 11,
+        "balls": 20,
+        "dismissals": 2,
+        "average": 5.5,
+        "strike_rate": 55.0
+      },
+      "w_car": {
+        "avg": 27.25,
+        "eco": 9.74
+      },
+      "b_f": [
+        7,
+        18,
+        11
+      ],
+      "w_f": [
+        1,
+        2,
+        1
+      ]
+    },
+    {
+      "bat": "JN Loftie-Eaton",
+      "bat_t": "Namibia",
+      "bowl": "CV Varun",
+      "bowl_t": "India",
+      "v": "bowler",
+      "h2h": {
+        "balls": 3,
+        "runs": 1,
+        "dismissals": 1,
+        "strike_rate": 33.33
+      },
+      "vs_t": {
+        "runs": 18,
+        "balls": 19,
+        "dismissals": 2,
+        "average": 9.0,
+        "strike_rate": 94.74
+      },
+      "w_car": {
+        "avg": 15.9,
+        "eco": 7.36
+      },
+      "b_f": [
+        5,
+        28,
+        13
+      ],
+      "w_f": [
+        1,
+        3,
+        2
+      ]
+    },
+    {
+      "bat": "BM Scholtz",
+      "bat_t": "Namibia",
+      "bowl": "HH Pandya",
+      "bowl_t": "India",
+      "v": "neutral",
+      "h2h": {
+        "balls": 2,
+        "runs": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 4,
+        "balls": 4,
+        "dismissals": 1,
+        "average": 4.0,
+        "strike_rate": 100.0
+      },
+      "w_car": {
+        "avg": 27.46,
+        "eco": 8.49
+      },
+      "b_f": [
+        1,
+        4
+      ],
+      "w_f": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "JJ Smit",
+      "bat_t": "Namibia",
+      "bowl": "CV Varun",
+      "bowl_t": "India",
+      "v": "bowler",
+      "h2h": {
+        "balls": 2,
+        "runs": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 9,
+        "balls": 11,
+        "dismissals": 2,
+        "average": 4.5,
+        "strike_rate": 81.82
+      },
+      "w_car": {
+        "avg": 15.9,
+        "eco": 7.36
+      },
+      "b_f": [
+        9,
+        31,
+        0
+      ],
+      "w_f": [
+        1,
+        3,
+        2
+      ]
+    },
+    {
+      "bat": "AR Patel",
+      "bat_t": "India",
+      "bowl": "MG Erasmus",
+      "bowl_t": "Namibia",
+      "v": "neutral",
+      "h2h": {
+        "balls": 1,
+        "runs": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 0,
+        "balls": 1,
+        "dismissals": 1,
+        "average": 0.0,
+        "strike_rate": 0.0
+      },
+      "b_car": {
+        "avg": 19.66,
+        "sr": 125.55
+      },
+      "b_f": [
+        0,
+        0,
+        14
+      ],
+      "w_f": [
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "bat": "Ishan Kishan",
+      "bat_t": "India",
+      "bowl": "MG Erasmus",
+      "bowl_t": "Namibia",
+      "v": "batsman",
+      "h2h": {
+        "balls": 1,
+        "runs": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 61,
+        "balls": 25,
+        "dismissals": 1,
+        "average": 61.0,
+        "strike_rate": 244.0
+      },
+      "b_car": {
+        "avg": 29.68,
+        "sr": 138.02
+      },
+      "b_f": [
+        0,
+        18,
+        77
+      ],
+      "w_f": [
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "bat": "B Shikongo",
+      "bat_t": "Namibia",
+      "bowl": "HH Pandya",
+      "bowl_t": "India",
+      "v": "neutral",
+      "h2h": {
+        "balls": 1,
+        "runs": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 0,
+        "balls": 1,
+        "dismissals": 1,
+        "average": 0.0,
+        "strike_rate": 0.0
+      },
+      "w_car": {
+        "avg": 27.46,
+        "eco": 8.49
+      },
+      "b_f": [
+        0
+      ],
+      "w_f": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "L Steenkamp",
+      "bat_t": "Namibia",
+      "bowl": "CV Varun",
+      "bowl_t": "India",
+      "v": "bowler",
+      "h2h": {
+        "balls": 1,
+        "runs": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 29,
+        "balls": 21,
+        "dismissals": 1,
+        "average": 29.0,
+        "strike_rate": 138.1
+      },
+      "w_car": {
+        "avg": 15.9,
+        "eco": 7.36
+      },
+      "b_f": [
+        23,
+        58,
+        29
+      ],
+      "w_f": [
+        1,
+        3,
+        2
+      ]
+    },
+    {
+      "bat": "HH Pandya",
+      "bat_t": "India",
+      "bowl": "BM Scholtz",
+      "bowl_t": "Namibia",
+      "v": "batsman",
+      "h2h": {
+        "balls": 12,
+        "runs": 20,
+        "dismissals": 0,
+        "strike_rate": 166.67
+      },
+      "vs_t": {
+        "runs": 52,
+        "balls": 29,
+        "dismissals": 1,
+        "average": 52.0,
+        "strike_rate": 179.31
+      },
+      "b_car": {
+        "avg": 28.12,
+        "sr": 138.02
+      },
+      "b_f": [
+        18,
+        30,
+        0
+      ],
+      "w_f": [
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "SA Yadav",
+      "bat_t": "India",
+      "bowl": "JN Loftie-Eaton",
+      "bowl_t": "Namibia",
+      "v": "batsman",
+      "h2h": {
+        "balls": 12,
+        "runs": 18,
+        "dismissals": 0,
+        "strike_rate": 150.0
+      },
+      "vs_t": {
+        "runs": 37,
+        "balls": 33,
+        "dismissals": 1,
+        "average": 37.0,
+        "strike_rate": 112.12
+      },
+      "b_car": {
+        "avg": 38.51,
+        "sr": 156.8
+      },
+      "b_f": [
+        18,
+        34,
+        32
+      ],
+      "w_f": [
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "JN Frylinck",
+      "bat_t": "Namibia",
+      "bowl": "JJ Bumrah",
+      "bowl_t": "India",
+      "v": "bowler",
+      "h2h": {
+        "balls": 11,
+        "runs": 6,
+        "dismissals": 0,
+        "strike_rate": 54.55
+      },
+      "vs_t": {
+        "runs": 37,
+        "balls": 32,
+        "dismissals": 1,
+        "average": 37.0,
+        "strike_rate": 115.62
+      },
+      "w_car": {
+        "avg": 19.51,
+        "eco": 6.85
+      },
+      "b_f": [
+        9,
+        19,
+        22
+      ],
+      "w_f": [
+        3,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "Ishan Kishan",
+      "bat_t": "India",
+      "bowl": "JJ Smit",
+      "bowl_t": "Namibia",
+      "v": "batsman",
+      "h2h": {
+        "balls": 10,
+        "runs": 37,
+        "dismissals": 0,
+        "strike_rate": 370.0
+      },
+      "vs_t": {
+        "runs": 61,
+        "balls": 25,
+        "dismissals": 1,
+        "average": 61.0,
+        "strike_rate": 244.0
+      },
+      "b_car": {
+        "avg": 29.68,
+        "sr": 138.02
+      },
+      "b_f": [
+        0,
+        18,
+        77
+      ],
+      "w_f": [
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "L Steenkamp",
+      "bat_t": "Namibia",
+      "bowl": "Arshdeep Singh",
+      "bowl_t": "India",
+      "v": "batsman",
+      "h2h": {
+        "balls": 10,
+        "runs": 22,
+        "dismissals": 0,
+        "strike_rate": 220.0
+      },
+      "vs_t": {
+        "runs": 29,
+        "balls": 21,
+        "dismissals": 1,
+        "average": 29.0,
+        "strike_rate": 138.1
+      },
+      "w_car": {
+        "avg": 19.63,
+        "eco": 8.75
+      },
+      "b_f": [
+        23,
+        58,
+        29
+      ],
+      "w_f": [
+        2,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "ZE Green",
+      "bat_t": "Namibia",
+      "bowl": "JJ Bumrah",
+      "bowl_t": "India",
+      "v": "bowler",
+      "h2h": {
+        "balls": 10,
+        "runs": 4,
+        "dismissals": 0,
+        "strike_rate": 40.0
+      },
+      "vs_t": {
+        "runs": 11,
+        "balls": 20,
+        "dismissals": 2,
+        "average": 5.5,
+        "strike_rate": 55.0
+      },
+      "w_car": {
+        "avg": 19.51,
+        "eco": 6.85
+      },
+      "b_f": [
+        7,
+        18,
+        11
+      ],
+      "w_f": [
+        3,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "SA Yadav",
+      "bat_t": "India",
+      "bowl": "MG Erasmus",
+      "bowl_t": "Namibia",
+      "v": "batsman",
+      "h2h": {
+        "balls": 9,
+        "runs": 9,
+        "dismissals": 0,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 37,
+        "balls": 33,
+        "dismissals": 1,
+        "average": 37.0,
+        "strike_rate": 112.12
+      },
+      "b_car": {
+        "avg": 38.51,
+        "sr": 156.8
+      },
+      "b_f": [
+        18,
+        34,
+        32
+      ],
+      "w_f": [
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "bat": "JN Frylinck",
+      "bat_t": "Namibia",
+      "bowl": "HH Pandya",
+      "bowl_t": "India",
+      "v": "batsman",
+      "h2h": {
+        "balls": 9,
+        "runs": 12,
+        "dismissals": 0,
+        "strike_rate": 133.33
+      },
+      "vs_t": {
+        "runs": 37,
+        "balls": 32,
+        "dismissals": 1,
+        "average": 37.0,
+        "strike_rate": 115.62
+      },
+      "w_car": {
+        "avg": 27.46,
+        "eco": 8.49
+      },
+      "b_f": [
+        9,
+        19,
+        22
+      ],
+      "w_f": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "R Trumpelmann",
+      "bat_t": "Namibia",
+      "bowl": "S Dube",
+      "bowl_t": "India",
+      "v": "neutral",
+      "h2h": {
+        "balls": 8,
+        "runs": 1,
+        "dismissals": 0,
+        "strike_rate": 12.5
+      },
+      "vs_t": {
+        "runs": 19,
+        "balls": 23,
+        "dismissals": 1,
+        "average": 19.0,
+        "strike_rate": 82.61
+      },
+      "w_car": {
+        "avg": 27.25,
+        "eco": 9.74
+      },
+      "b_f": [
+        0,
+        3,
+        6
+      ],
+      "w_f": [
+        1,
+        2,
+        1
+      ]
+    },
+    {
+      "bat": "S Dube",
+      "bat_t": "India",
+      "bowl": "R Trumpelmann",
+      "bowl_t": "Namibia",
+      "v": "batsman",
+      "h2h": {
+        "balls": 7,
+        "runs": 7,
+        "dismissals": 0,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 23,
+        "balls": 18,
+        "dismissals": 0,
+        "average": 23.0,
+        "strike_rate": 127.78
+      },
+      "b_car": {
+        "avg": 31.2,
+        "sr": 141.3
+      },
+      "b_f": [
+        42,
+        66,
+        27
+      ],
+      "w_f": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "HH Pandya",
+      "bat_t": "India",
+      "bowl": "R Trumpelmann",
+      "bowl_t": "Namibia",
+      "v": "batsman",
+      "h2h": {
+        "balls": 6,
+        "runs": 7,
+        "dismissals": 0,
+        "strike_rate": 116.67
+      },
+      "vs_t": {
+        "runs": 52,
+        "balls": 29,
+        "dismissals": 1,
+        "average": 52.0,
+        "strike_rate": 179.31
+      },
+      "b_car": {
+        "avg": 28.12,
+        "sr": 138.02
+      },
+      "b_f": [
+        18,
+        30,
+        0
+      ],
+      "w_f": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "S Dube",
+      "bat_t": "India",
+      "bowl": "BM Scholtz",
+      "bowl_t": "Namibia",
+      "v": "batsman",
+      "h2h": {
+        "balls": 6,
+        "runs": 9,
+        "dismissals": 0,
+        "strike_rate": 150.0
+      },
+      "vs_t": {
+        "runs": 23,
+        "balls": 18,
+        "dismissals": 0,
+        "average": 23.0,
+        "strike_rate": 127.78
+      },
+      "b_car": {
+        "avg": 31.2,
+        "sr": 141.3
+      },
+      "b_f": [
+        42,
+        66,
+        27
+      ],
+      "w_f": [
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "Ishan Kishan",
+      "bat_t": "India",
+      "bowl": "B Shikongo",
+      "bowl_t": "Namibia",
+      "v": "batsman",
+      "h2h": {
+        "balls": 6,
+        "runs": 7,
+        "dismissals": 0,
+        "strike_rate": 116.67
+      },
+      "vs_t": {
+        "runs": 61,
+        "balls": 25,
+        "dismissals": 1,
+        "average": 61.0,
+        "strike_rate": 244.0
+      },
+      "b_car": {
+        "avg": 29.68,
+        "sr": 138.02
+      },
+      "b_f": [
+        0,
+        18,
+        77
+      ],
+      "w_f": [
+        1
+      ]
+    },
+    {
+      "bat": "HH Pandya",
+      "bat_t": "India",
+      "bowl": "B Shikongo",
+      "bowl_t": "Namibia",
+      "v": "batsman",
+      "h2h": {
+        "balls": 5,
+        "runs": 15,
+        "dismissals": 0,
+        "strike_rate": 300.0
+      },
+      "vs_t": {
+        "runs": 52,
+        "balls": 29,
+        "dismissals": 1,
+        "average": 52.0,
+        "strike_rate": 179.31
+      },
+      "b_car": {
+        "avg": 28.12,
+        "sr": 138.02
+      },
+      "b_f": [
+        18,
+        30,
+        0
+      ],
+      "w_f": [
+        1
+      ]
+    },
+    {
+      "bat": "Ishan Kishan",
+      "bat_t": "India",
+      "bowl": "R Trumpelmann",
+      "bowl_t": "Namibia",
+      "v": "batsman",
+      "h2h": {
+        "balls": 5,
+        "runs": 6,
+        "dismissals": 0,
+        "strike_rate": 120.0
+      },
+      "vs_t": {
+        "runs": 61,
+        "balls": 25,
+        "dismissals": 1,
+        "average": 61.0,
+        "strike_rate": 244.0
+      },
+      "b_car": {
+        "avg": 29.68,
+        "sr": 138.02
+      },
+      "b_f": [
+        0,
+        18,
+        77
+      ],
+      "w_f": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "MG Erasmus",
+      "bat_t": "Namibia",
+      "bowl": "CV Varun",
+      "bowl_t": "India",
+      "v": "bowler",
+      "h2h": {
+        "balls": 5,
+        "runs": 5,
+        "dismissals": 0,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 30,
+        "balls": 32,
+        "dismissals": 2,
+        "average": 15.0,
+        "strike_rate": 93.75
+      },
+      "w_car": {
+        "avg": 15.9,
+        "eco": 7.36
+      },
+      "b_f": [
+        7,
+        6,
+        18
+      ],
+      "w_f": [
+        1,
+        3,
+        2
+      ]
+    },
+    {
+      "bat": "JN Loftie-Eaton",
+      "bat_t": "Namibia",
+      "bowl": "JJ Bumrah",
+      "bowl_t": "India",
+      "v": "bowler",
+      "h2h": {
+        "balls": 5,
+        "runs": 7,
+        "dismissals": 0,
+        "strike_rate": 140.0
+      },
+      "vs_t": {
+        "runs": 18,
+        "balls": 19,
+        "dismissals": 2,
+        "average": 9.0,
+        "strike_rate": 94.74
+      },
+      "w_car": {
+        "avg": 19.51,
+        "eco": 6.85
+      },
+      "b_f": [
+        5,
+        28,
+        13
+      ],
+      "w_f": [
+        3,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "SA Yadav",
+      "bat_t": "India",
+      "bowl": "R Trumpelmann",
+      "bowl_t": "Namibia",
+      "v": "batsman",
+      "h2h": {
+        "balls": 4,
+        "runs": 6,
+        "dismissals": 0,
+        "strike_rate": 150.0
+      },
+      "vs_t": {
+        "runs": 37,
+        "balls": 33,
+        "dismissals": 1,
+        "average": 37.0,
+        "strike_rate": 112.12
+      },
+      "b_car": {
+        "avg": 38.51,
+        "sr": 156.8
+      },
+      "b_f": [
+        18,
+        34,
+        32
+      ],
+      "w_f": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "Tilak Varma",
+      "bat_t": "India",
+      "bowl": "R Trumpelmann",
+      "bowl_t": "Namibia",
+      "v": "batsman",
+      "h2h": {
+        "balls": 4,
+        "runs": 10,
+        "dismissals": 0,
+        "strike_rate": 250.0
+      },
+      "vs_t": {
+        "runs": 25,
+        "balls": 21,
+        "dismissals": 1,
+        "average": 25.0,
+        "strike_rate": 119.05
+      },
+      "b_car": {
+        "avg": 46.81,
+        "sr": 136.65
+      },
+      "b_f": [
+        1,
+        31,
+        25
+      ],
+      "w_f": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "SV Samson",
+      "bat_t": "India",
+      "bowl": "R Trumpelmann",
+      "bowl_t": "Namibia",
+      "v": "neutral",
+      "h2h": {
+        "balls": 4,
+        "runs": 6,
+        "dismissals": 0,
+        "strike_rate": 150.0
+      },
+      "vs_t": {
+        "runs": 22,
+        "balls": 8,
+        "dismissals": 1,
+        "average": 22.0,
+        "strike_rate": 275.0
+      },
+      "b_car": {
+        "avg": 25.0,
+        "sr": 143.98
+      },
+      "b_f": [
+        22
+      ],
+      "w_f": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "L Steenkamp",
+      "bat_t": "Namibia",
+      "bowl": "S Dube",
+      "bowl_t": "India",
+      "v": "neutral",
+      "h2h": {
+        "balls": 4,
+        "runs": 4,
+        "dismissals": 0,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 29,
+        "balls": 21,
+        "dismissals": 1,
+        "average": 29.0,
+        "strike_rate": 138.1
+      },
+      "w_car": {
+        "avg": 27.25,
+        "eco": 9.74
+      },
+      "b_f": [
+        23,
+        58,
+        29
+      ],
+      "w_f": [
+        1,
+        2,
+        1
+      ]
+    },
+    {
+      "bat": "ZE Green",
+      "bat_t": "Namibia",
+      "bowl": "HH Pandya",
+      "bowl_t": "India",
+      "v": "bowler",
+      "h2h": {
+        "balls": 4,
+        "runs": 4,
+        "dismissals": 0,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 11,
+        "balls": 20,
+        "dismissals": 2,
+        "average": 5.5,
+        "strike_rate": 55.0
+      },
+      "w_car": {
+        "avg": 27.46,
+        "eco": 8.49
+      },
+      "b_f": [
+        7,
+        18,
+        11
+      ],
+      "w_f": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "HH Pandya",
+      "bat_t": "India",
+      "bowl": "JJ Smit",
+      "bowl_t": "Namibia",
+      "v": "batsman",
+      "h2h": {
+        "balls": 3,
+        "runs": 3,
+        "dismissals": 0,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 52,
+        "balls": 29,
+        "dismissals": 1,
+        "average": 52.0,
+        "strike_rate": 179.31
+      },
+      "b_car": {
+        "avg": 28.12,
+        "sr": 138.02
+      },
+      "b_f": [
+        18,
+        30,
+        0
+      ],
+      "w_f": [
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "RK Singh",
+      "bat_t": "India",
+      "bowl": "MG Erasmus",
+      "bowl_t": "Namibia",
+      "v": "neutral",
+      "h2h": {
+        "balls": 3,
+        "runs": 1,
+        "dismissals": 0,
+        "strike_rate": 33.33
+      },
+      "vs_t": {
+        "runs": 1,
+        "balls": 6,
+        "dismissals": 1,
+        "average": 1.0,
+        "strike_rate": 16.67
+      },
+      "b_car": {
+        "avg": 28.1,
+        "sr": 136.57
+      },
+      "b_f": [
+        0,
+        6,
+        11
+      ],
+      "w_f": [
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "bat": "S Dube",
+      "bat_t": "India",
+      "bowl": "JJ Smit",
+      "bowl_t": "Namibia",
+      "v": "batsman",
+      "h2h": {
+        "balls": 3,
+        "runs": 6,
+        "dismissals": 0,
+        "strike_rate": 200.0
+      },
+      "vs_t": {
+        "runs": 23,
+        "balls": 18,
+        "dismissals": 0,
+        "average": 23.0,
+        "strike_rate": 127.78
+      },
+      "b_car": {
+        "avg": 31.2,
+        "sr": 141.3
+      },
+      "b_f": [
+        42,
+        66,
+        27
+      ],
+      "w_f": [
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "Tilak Varma",
+      "bat_t": "India",
+      "bowl": "BM Scholtz",
+      "bowl_t": "Namibia",
+      "v": "batsman",
+      "h2h": {
+        "balls": 3,
+        "runs": 3,
+        "dismissals": 0,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 25,
+        "balls": 21,
+        "dismissals": 1,
+        "average": 25.0,
+        "strike_rate": 119.05
+      },
+      "b_car": {
+        "avg": 46.81,
+        "sr": 136.65
+      },
+      "b_f": [
+        1,
+        31,
+        25
+      ],
+      "w_f": [
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "Tilak Varma",
+      "bat_t": "India",
+      "bowl": "M Heingo",
+      "bowl_t": "Namibia",
+      "v": "batsman",
+      "h2h": {
+        "balls": 3,
+        "runs": 7,
+        "dismissals": 0,
+        "strike_rate": 233.33
+      },
+      "vs_t": {
+        "runs": 25,
+        "balls": 21,
+        "dismissals": 1,
+        "average": 25.0,
+        "strike_rate": 119.05
+      },
+      "b_car": {
+        "avg": 46.81,
+        "sr": 136.65
+      },
+      "b_f": [
+        1,
+        31,
+        25
+      ],
+      "w_f": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "Ishan Kishan",
+      "bat_t": "India",
+      "bowl": "M Heingo",
+      "bowl_t": "Namibia",
+      "v": "batsman",
+      "h2h": {
+        "balls": 3,
+        "runs": 11,
+        "dismissals": 0,
+        "strike_rate": 366.67
+      },
+      "vs_t": {
+        "runs": 61,
+        "balls": 25,
+        "dismissals": 1,
+        "average": 61.0,
+        "strike_rate": 244.0
+      },
+      "b_car": {
+        "avg": 29.68,
+        "sr": 138.02
+      },
+      "b_f": [
+        0,
+        18,
+        77
+      ],
+      "w_f": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "L Steenkamp",
+      "bat_t": "Namibia",
+      "bowl": "HH Pandya",
+      "bowl_t": "India",
+      "v": "neutral",
+      "h2h": {
+        "balls": 3,
+        "runs": 3,
+        "dismissals": 0,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 29,
+        "balls": 21,
+        "dismissals": 1,
+        "average": 29.0,
+        "strike_rate": 138.1
+      },
+      "w_car": {
+        "avg": 27.46,
+        "eco": 8.49
+      },
+      "b_f": [
+        23,
+        58,
+        29
+      ],
+      "w_f": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "L Steenkamp",
+      "bat_t": "Namibia",
+      "bowl": "JJ Bumrah",
+      "bowl_t": "India",
+      "v": "bowler",
+      "h2h": {
+        "balls": 3,
+        "runs": 0,
+        "dismissals": 0,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 29,
+        "balls": 21,
+        "dismissals": 1,
+        "average": 29.0,
+        "strike_rate": 138.1
+      },
+      "w_car": {
+        "avg": 19.51,
+        "eco": 6.85
+      },
+      "b_f": [
+        23,
+        58,
+        29
+      ],
+      "w_f": [
+        3,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "R Trumpelmann",
+      "bat_t": "Namibia",
+      "bowl": "HH Pandya",
+      "bowl_t": "India",
+      "v": "neutral",
+      "h2h": {
+        "balls": 3,
+        "runs": 2,
+        "dismissals": 0,
+        "strike_rate": 66.67
+      },
+      "vs_t": {
+        "runs": 19,
+        "balls": 23,
+        "dismissals": 1,
+        "average": 19.0,
+        "strike_rate": 82.61
+      },
+      "w_car": {
+        "avg": 27.46,
+        "eco": 8.49
+      },
+      "b_f": [
+        0,
+        3,
+        6
+      ],
+      "w_f": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "JN Loftie-Eaton",
+      "bat_t": "Namibia",
+      "bowl": "Arshdeep Singh",
+      "bowl_t": "India",
+      "v": "bowler",
+      "h2h": {
+        "balls": 3,
+        "runs": 2,
+        "dismissals": 0,
+        "strike_rate": 66.67
+      },
+      "vs_t": {
+        "runs": 18,
+        "balls": 19,
+        "dismissals": 2,
+        "average": 9.0,
+        "strike_rate": 94.74
+      },
+      "w_car": {
+        "avg": 19.63,
+        "eco": 8.75
+      },
+      "b_f": [
+        5,
+        28,
+        13
+      ],
+      "w_f": [
+        2,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "Arshdeep Singh",
+      "bat_t": "India",
+      "bowl": "JJ Smit",
+      "bowl_t": "Namibia",
+      "v": "neutral",
+      "h2h": {
+        "balls": 2,
+        "runs": 2,
+        "dismissals": 0,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 2,
+        "balls": 2,
+        "dismissals": 0,
+        "average": 2.0,
+        "strike_rate": 100.0
+      },
+      "b_car": {
+        "avg": 7.25,
+        "sr": 98.86
+      },
+      "b_f": [
+        1,
+        2,
+        4
+      ],
+      "w_f": [
+        0,
+        0,
+        1
+      ]
+    }
+  ]
+}

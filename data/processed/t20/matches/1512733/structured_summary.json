@@ -1,0 +1,364 @@
+{
+    "match_context": {
+        "match_id": "1512733",
+        "date": "2026-02-11",
+        "tournament": "2025/26",
+        "venue": "Wankhede Stadium, Mumbai",
+        "stage": "ICC Men's T20 World Cup",
+        "Teams": {
+            "West Indies": {
+                "captain": "SD Hope",
+                "playing_xi_count": 11
+            },
+            "England": {
+                "captain": "JC Buttler",
+                "playing_xi_count": 11
+            }
+        }
+    },
+    "Match_Result": {
+        "summary": "West Indies won by 30 runs",
+        "winner": "West Indies",
+        "margin": 30,
+        "margin_type": "runs"
+    },
+    "Scorecard_Highlights": {
+        "Key_Support_Performers": [
+            {
+                "player": "JC Buttler",
+                "team": "England",
+                "runs": 21,
+                "balls": 14,
+                "sr": 150.0,
+                "fours": 2,
+                "sixes": 1,
+                "win_contribution_percent": 12.7,
+                "score": 47.64
+            },
+            {
+                "player": "HC Brook",
+                "team": "England",
+                "runs": 17,
+                "balls": 16,
+                "sr": 106.25,
+                "fours": 1,
+                "sixes": 0,
+                "win_contribution_percent": 10.2,
+                "score": 35.87
+            }
+        ],
+        "Career_vs_Match_Bowling": [],
+        "Bowling_Standouts": {
+            "Economical_Spells": [],
+            "Expensive_Spells": [],
+            "High_Economy_No_Baseline": [
+                {
+                    "player": "JO Holder",
+                    "team": "West Indies",
+                    "overs": 2.0,
+                    "runs": 34,
+                    "wickets": 0,
+                    "econ": 17.0,
+                    "score": 10.52,
+                    "bowling_baseline": {
+                        "career_wickets": 0,
+                        "career_economy": 0.0,
+                        "career_sr": 0.0,
+                        "career_avg": 0.0,
+                        "best_bowling": "N/A",
+                        "matches": 0,
+                        "source": "none",
+                        "baseline_available": false
+                    }
+                },
+                {
+                    "player": "WG Jacks",
+                    "team": "England",
+                    "overs": 2.0,
+                    "runs": 33,
+                    "wickets": 0,
+                    "econ": 16.5,
+                    "score": 10.83,
+                    "bowling_baseline": {
+                        "career_wickets": 0,
+                        "career_economy": 0.0,
+                        "career_sr": 0.0,
+                        "career_avg": 0.0,
+                        "best_bowling": "N/A",
+                        "matches": 0,
+                        "source": "none",
+                        "baseline_available": false
+                    }
+                }
+            ]
+        },
+        "Significant_Collapses": []
+    },
+    "Innings_Metrics": [
+        {
+            "innings": 1,
+            "team": "West Indies",
+            "total_runs": 196,
+            "total_wickets": 6,
+            "balls_faced": 120,
+            "overs_faced": 20.0,
+            "phase_analysis": {
+                "Powerplay": {
+                    "runs": 55,
+                    "wkts": 3,
+                    "rr": 9.17
+                },
+                "Middle": {
+                    "runs": 75,
+                    "wkts": 2,
+                    "rr": 8.33
+                },
+                "Death": {
+                    "runs": 66,
+                    "wkts": 1,
+                    "rr": 13.2
+                }
+            }
+        },
+        {
+            "innings": 2,
+            "team": "England",
+            "total_runs": 166,
+            "total_wickets": 10,
+            "balls_faced": 114,
+            "overs_faced": 19.0,
+            "phase_analysis": {
+                "Powerplay": {
+                    "runs": 67,
+                    "wkts": 1,
+                    "rr": 11.17
+                },
+                "Middle": {
+                    "runs": 68,
+                    "wkts": 5,
+                    "rr": 7.56
+                },
+                "Death": {
+                    "runs": 31,
+                    "wkts": 4,
+                    "rr": 7.75
+                }
+            },
+            "pressure_index": 100.0,
+            "target": 197
+        }
+    ],
+    "Detailed_Impact_Analysis": [
+        {
+            "player": "G Motie",
+            "team": "West Indies",
+            "overs": 4.0,
+            "runs": 33,
+            "wickets": 3,
+            "econ": 8.25,
+            "score": 111.67,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-33r-3w"
+        },
+        {
+            "player": "SE Rutherford",
+            "team": "West Indies",
+            "runs": 76,
+            "balls": 45,
+            "sr": 168.89,
+            "fours": 2,
+            "sixes": 7,
+            "win_contribution_percent": 38.8,
+            "score": 106.0,
+            "role": "batting",
+            "match_stats": "76(45)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "AU Rashid",
+            "team": "England",
+            "overs": 4.0,
+            "runs": 16,
+            "wickets": 2,
+            "econ": 4.0,
+            "score": 104.69,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-16r-2w"
+        },
+        {
+            "player": "RL Chase",
+            "team": "West Indies",
+            "overs": 4.0,
+            "runs": 29,
+            "wickets": 2,
+            "econ": 7.25,
+            "score": 84.66,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-29r-2w"
+        },
+        {
+            "player": "J Overton",
+            "team": "England",
+            "overs": 4.0,
+            "runs": 35,
+            "wickets": 2,
+            "econ": 8.75,
+            "score": 80.43,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-35r-2w"
+        },
+        {
+            "player": "SM Curran",
+            "team": "England",
+            "runs": 43,
+            "balls": 30,
+            "sr": 143.33,
+            "fours": 3,
+            "sixes": 2,
+            "win_contribution_percent": 25.9,
+            "score": 68.46,
+            "role": "batting",
+            "match_stats": "43(30)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "JO Holder",
+            "team": "West Indies",
+            "runs": 33,
+            "balls": 17,
+            "sr": 194.12,
+            "fours": 1,
+            "sixes": 4,
+            "win_contribution_percent": 16.8,
+            "score": 67.48,
+            "role": "batting",
+            "match_stats": "33(17)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "PD Salt",
+            "team": "England",
+            "runs": 30,
+            "balls": 15,
+            "sr": 200.0,
+            "fours": 4,
+            "sixes": 2,
+            "win_contribution_percent": 18.1,
+            "score": 65.53,
+            "role": "batting",
+            "match_stats": "30(15)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "JG Bethell",
+            "team": "England",
+            "runs": 33,
+            "balls": 23,
+            "sr": 143.48,
+            "fours": 4,
+            "sixes": 1,
+            "win_contribution_percent": 19.9,
+            "score": 58.49,
+            "role": "batting",
+            "match_stats": "33(23)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "SO Hetmyer",
+            "team": "West Indies",
+            "runs": 23,
+            "balls": 12,
+            "sr": 191.67,
+            "fours": 2,
+            "sixes": 2,
+            "win_contribution_percent": 11.7,
+            "score": 57.05,
+            "role": "batting",
+            "match_stats": "23(12)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        }
+    ],
+    "Tactical_Post_Match_Analysis": [
+        "West Indies's victory was anchored by SE Rutherford, who contributed 38.8% of the team's runs.",
+        "Defensive pressure was sustained by G Motie, finishing with an impact score of 111.67.",
+        "England struggled under extreme chase pressure (Index: 100.0), leading to a late-innings collapse.",
+        "West Indies lost 3 wickets in Powerplay, failing to build a stable foundation.",
+        "High-scoring finish by West Indies in Death Overs (RR: 13.2) shifted match momentum."
+    ]
+}

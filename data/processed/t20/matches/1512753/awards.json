@@ -1,0 +1,95 @@
+{
+    "match_id": "1512753",
+    "winner": "Pakistan",
+    "loser": "Namibia",
+    "awards": {
+        "player_of_the_match": {
+            "name": "Shadab Khan",
+            "team": "Pakistan",
+            "impact_score": 207.0,
+            "breakdown": {
+                "batting": 66.0,
+                "bowling": 120,
+                "fielding": 21,
+                "pressure_multiplier": 1.0
+            },
+            "key_stats": {
+                "batting": "36(24) SR:150.0",
+                "bowling": "4.0ov-3wkt econ:4.75"
+            }
+        },
+        "best_batter": {
+            "name": "Sahibzada Farhan",
+            "team": "Pakistan",
+            "batting_impact": 156.0,
+            "stats": {
+                "runs": 100,
+                "balls": 59,
+                "sr": 169.49,
+                "fours": 11,
+                "sixes": 4
+            }
+        },
+        "best_bowler": {
+            "name": "Usman Tariq",
+            "team": "Pakistan",
+            "bowling_impact": 145,
+            "stats": {
+                "overs": 3.3,
+                "wickets": 4,
+                "econ": 4.57
+            }
+        },
+        "game_changer": {
+            "name": "Shadab Khan",
+            "team": "Pakistan",
+            "reason": "3-wicket haul | SR 150.0 with 3 sixes | Exceptional economy 4.75",
+            "key_stats": {
+                "batting": "36(24) SR:150.0",
+                "bowling": "4.0ov-3wkt econ:4.75"
+            }
+        },
+        "pressure_performer": {
+            "name": "L Steenkamp",
+            "team": "Namibia",
+            "pressure_multiplier": 1.2,
+            "reason": "Chasing team batter under pressure",
+            "key_stats": {
+                "batting": "23(22) SR:104.55"
+            }
+        },
+        "emerging_player": {
+            "name": "JT Brassell",
+            "team": "Namibia",
+            "reason": "Outperformed team average by 2.68x",
+            "key_stats": {
+                "batting": "1(1) SR:100.0",
+                "bowling": "4.0ov-2wkt econ:12.0"
+            }
+        },
+        "fielding_impact": {
+            "name": "Usman Tariq",
+            "team": "Pakistan",
+            "fielding_proxy_score": 29,
+            "methodology": "Proxy-based: catch attribution (65% T20 wickets are catches) + dot ball pressure bonus + economy-implied fielding support",
+            "reason": "Estimated 3 caught dismissals from 4 wickets | Economy 4.57 — tight fielding support implied",
+            "stats": {
+                "overs": 3.3,
+                "wickets": 4,
+                "econ": 4.57
+            }
+        },
+        "all_rounder_impact": {
+            "name": "Shadab Khan",
+            "team": "Pakistan",
+            "all_rounder_score": 186.0,
+            "stats": {
+                "runs": 36,
+                "sr": 150.0,
+                "overs": 4.0,
+                "wickets": 3,
+                "econ": 4.75
+            }
+        }
+    }
+}

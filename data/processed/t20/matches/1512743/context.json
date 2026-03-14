@@ -1,0 +1,968 @@
+{
+    "match_id": "1512743",
+    "metadata": {
+        "tournament": "2025/26",
+        "venue": "Wankhede Stadium, Mumbai",
+        "date": "2026-02-15",
+        "stage": "ICC Men's T20 World Cup",
+        "winner": "West Indies",
+        "loser": "Nepal",
+        "win_classification": "Moderate",
+        "margin_runs": null,
+        "margin_wickets": 9,
+        "competitiveness_index": 85.0,
+        "teams": {
+            "Nepal": {
+                "captain": "RK Paudel",
+                "playing_xi_count": 11
+            },
+            "West Indies": {
+                "captain": "SD Hope",
+                "playing_xi_count": 9
+            }
+        },
+        "team_summary": {
+            "Nepal": {
+                "run_rate": 6.65,
+                "fours": 12,
+                "sixes": 4,
+                "boundary_runs": 72,
+                "dot_balls": 56,
+                "total_runs": 133,
+                "total_wickets": 8
+            },
+            "West Indies": {
+                "run_rate": 8.74,
+                "fours": 13,
+                "sixes": 5,
+                "boundary_runs": 82,
+                "dot_balls": 34,
+                "total_runs": 134,
+                "total_wickets": 1
+            }
+        },
+        "formulas": {
+            "competitiveness": "Base(Margin) + Pressure_Bonus(L5 Overs)",
+            "pressure": "((RR_Gap / Start_RR) * 40) + ((Wickets / 10) * 60)",
+            "batting_impact": "Runs + (SR/Match_SR * 25)",
+            "bowling_impact": "(Wickets * 30) + (Match_RR/Econ * 20)"
+        }
+    },
+    "scorecards": {
+        "batting": [
+            {
+                "player": "DS Airee",
+                "team": "Nepal",
+                "runs": 58,
+                "balls": 48,
+                "sr": 120.83,
+                "fours": 3,
+                "sixes": 3,
+                "win_contribution_percent": 43.6,
+                "score": 83.98
+            },
+            {
+                "player": "Sompal Kami",
+                "team": "Nepal",
+                "runs": 26,
+                "balls": 15,
+                "sr": 173.33,
+                "fours": 4,
+                "sixes": 0,
+                "win_contribution_percent": 19.5,
+                "score": 63.26
+            },
+            {
+                "player": "Lokesh Bam",
+                "team": "Nepal",
+                "runs": 13,
+                "balls": 16,
+                "sr": 81.25,
+                "fours": 2,
+                "sixes": 0,
+                "win_contribution_percent": 9.8,
+                "score": 30.47
+            },
+            {
+                "player": "Aasif Sheikh",
+                "team": "Nepal",
+                "runs": 11,
+                "balls": 10,
+                "sr": 110.0,
+                "fours": 2,
+                "sixes": 0,
+                "win_contribution_percent": 8.3,
+                "score": 34.65
+            },
+            {
+                "player": "Gulsan Jha",
+                "team": "Nepal",
+                "runs": 11,
+                "balls": 14,
+                "sr": 78.57,
+                "fours": 0,
+                "sixes": 1,
+                "win_contribution_percent": 8.3,
+                "score": 27.89
+            },
+            {
+                "player": "RK Paudel",
+                "team": "Nepal",
+                "runs": 5,
+                "balls": 7,
+                "sr": 71.43,
+                "fours": 1,
+                "sixes": 0,
+                "win_contribution_percent": 3.8,
+                "score": 20.36
+            },
+            {
+                "player": "Aarif Sheikh",
+                "team": "Nepal",
+                "runs": 2,
+                "balls": 8,
+                "sr": 25.0,
+                "fours": 0,
+                "sixes": 0,
+                "win_contribution_percent": 1.5,
+                "score": 7.37
+            },
+            {
+                "player": "K Bhurtel",
+                "team": "Nepal",
+                "runs": 1,
+                "balls": 3,
+                "sr": 33.33,
+                "fours": 0,
+                "sixes": 0,
+                "win_contribution_percent": 0.8,
+                "score": 8.17
+            },
+            {
+                "player": "Karan KC",
+                "team": "Nepal",
+                "runs": 1,
+                "balls": 3,
+                "sr": 33.33,
+                "fours": 0,
+                "sixes": 0,
+                "win_contribution_percent": 0.8,
+                "score": 8.17
+            },
+            {
+                "player": "SD Hope",
+                "team": "West Indies",
+                "runs": 61,
+                "balls": 44,
+                "sr": 138.64,
+                "fours": 5,
+                "sixes": 3,
+                "win_contribution_percent": 45.5,
+                "score": 90.8
+            },
+            {
+                "player": "SO Hetmyer",
+                "team": "West Indies",
+                "runs": 46,
+                "balls": 33,
+                "sr": 139.39,
+                "fours": 4,
+                "sixes": 2,
+                "win_contribution_percent": 34.3,
+                "score": 75.97
+            },
+            {
+                "player": "BA King",
+                "team": "West Indies",
+                "runs": 22,
+                "balls": 20,
+                "sr": 110.0,
+                "fours": 4,
+                "sixes": 0,
+                "win_contribution_percent": 16.4,
+                "score": 45.65
+            }
+        ],
+        "bowling": [
+            {
+                "player": "JO Holder",
+                "team": "West Indies",
+                "overs": 4.0,
+                "runs": 28,
+                "wickets": 4,
+                "econ": 7.0,
+                "score": 140.71,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "MW Forde",
+                "team": "West Indies",
+                "overs": 4.0,
+                "runs": 10,
+                "wickets": 1,
+                "econ": 2.5,
+                "score": 87.99,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "RL Chase",
+                "team": "West Indies",
+                "overs": 2.0,
+                "runs": 10,
+                "wickets": 1,
+                "econ": 5.0,
+                "score": 59.0,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "AJ Hosein",
+                "team": "West Indies",
+                "overs": 4.0,
+                "runs": 30,
+                "wickets": 1,
+                "econ": 7.5,
+                "score": 49.33,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "S Joseph",
+                "team": "West Indies",
+                "overs": 4.0,
+                "runs": 38,
+                "wickets": 1,
+                "econ": 9.5,
+                "score": 45.26,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "G Motie",
+                "team": "West Indies",
+                "overs": 2.0,
+                "runs": 17,
+                "wickets": 0,
+                "econ": 8.5,
+                "score": 17.06,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "NK Yadav",
+                "team": "Nepal",
+                "overs": 3.0,
+                "runs": 24,
+                "wickets": 1,
+                "econ": 8.0,
+                "score": 48.12,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "DS Airee",
+                "team": "Nepal",
+                "overs": 3.2,
+                "runs": 19,
+                "wickets": 0,
+                "econ": 5.7,
+                "score": 25.43,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "Karan KC",
+                "team": "Nepal",
+                "overs": 2.0,
+                "runs": 12,
+                "wickets": 0,
+                "econ": 6.0,
+                "score": 24.16,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "K Bhurtel",
+                "team": "Nepal",
+                "overs": 2.0,
+                "runs": 18,
+                "wickets": 0,
+                "econ": 9.0,
+                "score": 16.11,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "Sompal Kami",
+                "team": "Nepal",
+                "overs": 2.0,
+                "runs": 23,
+                "wickets": 0,
+                "econ": 11.5,
+                "score": 12.61,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "S Lamichhane",
+                "team": "Nepal",
+                "overs": 3.0,
+                "runs": 38,
+                "wickets": 0,
+                "econ": 12.67,
+                "score": 11.44,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            }
+        ]
+    },
+    "innings": [
+        {
+            "innings": 1,
+            "team": "Nepal",
+            "total_runs": 133,
+            "total_wickets": 8,
+            "balls_faced": 120,
+            "overs_faced": 20.0,
+            "phase_analysis": {
+                "Powerplay": {
+                    "runs": 22,
+                    "wkts": 3,
+                    "rr": 3.67
+                },
+                "Middle": {
+                    "runs": 51,
+                    "wkts": 3,
+                    "rr": 5.67
+                },
+                "Death": {
+                    "runs": 60,
+                    "wkts": 2,
+                    "rr": 12.0
+                }
+            }
+        },
+        {
+            "innings": 2,
+            "team": "West Indies",
+            "total_runs": 134,
+            "total_wickets": 1,
+            "balls_faced": 92,
+            "overs_faced": 15.2,
+            "phase_analysis": {
+                "Powerplay": {
+                    "runs": 44,
+                    "wkts": 1,
+                    "rr": 7.33
+                },
+                "Middle": {
+                    "runs": 89,
+                    "wkts": 0,
+                    "rr": 9.89
+                },
+                "Death": {
+                    "runs": 1,
+                    "wkts": 0,
+                    "rr": 3.0
+                }
+            },
+            "pressure_index": 20.0,
+            "target": 134
+        }
+    ],
+    "players": [
+        {
+            "player": "JO Holder",
+            "team": "West Indies",
+            "overs": 4.0,
+            "runs": 28,
+            "wickets": 4,
+            "econ": 7.0,
+            "score": 140.71,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-28r-4w"
+        },
+        {
+            "player": "SD Hope",
+            "team": "West Indies",
+            "runs": 61,
+            "balls": 44,
+            "sr": 138.64,
+            "fours": 5,
+            "sixes": 3,
+            "win_contribution_percent": 45.5,
+            "score": 90.8,
+            "role": "batting",
+            "match_stats": "61(44)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "MW Forde",
+            "team": "West Indies",
+            "overs": 4.0,
+            "runs": 10,
+            "wickets": 1,
+            "econ": 2.5,
+            "score": 87.99,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-10r-1w"
+        },
+        {
+            "player": "DS Airee",
+            "team": "Nepal",
+            "runs": 58,
+            "balls": 48,
+            "sr": 120.83,
+            "fours": 3,
+            "sixes": 3,
+            "win_contribution_percent": 43.6,
+            "score": 83.98,
+            "role": "batting",
+            "match_stats": "58(48)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "SO Hetmyer",
+            "team": "West Indies",
+            "runs": 46,
+            "balls": 33,
+            "sr": 139.39,
+            "fours": 4,
+            "sixes": 2,
+            "win_contribution_percent": 34.3,
+            "score": 75.97,
+            "role": "batting",
+            "match_stats": "46(33)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "Sompal Kami",
+            "team": "Nepal",
+            "runs": 26,
+            "balls": 15,
+            "sr": 173.33,
+            "fours": 4,
+            "sixes": 0,
+            "win_contribution_percent": 19.5,
+            "score": 63.26,
+            "role": "batting",
+            "match_stats": "26(15)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "RL Chase",
+            "team": "West Indies",
+            "overs": 2.0,
+            "runs": 10,
+            "wickets": 1,
+            "econ": 5.0,
+            "score": 59.0,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "2.0o-10r-1w"
+        },
+        {
+            "player": "AJ Hosein",
+            "team": "West Indies",
+            "overs": 4.0,
+            "runs": 30,
+            "wickets": 1,
+            "econ": 7.5,
+            "score": 49.33,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-30r-1w"
+        },
+        {
+            "player": "NK Yadav",
+            "team": "Nepal",
+            "overs": 3.0,
+            "runs": 24,
+            "wickets": 1,
+            "econ": 8.0,
+            "score": 48.12,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "3.0o-24r-1w"
+        },
+        {
+            "player": "BA King",
+            "team": "West Indies",
+            "runs": 22,
+            "balls": 20,
+            "sr": 110.0,
+            "fours": 4,
+            "sixes": 0,
+            "win_contribution_percent": 16.4,
+            "score": 45.65,
+            "role": "batting",
+            "match_stats": "22(20)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "S Joseph",
+            "team": "West Indies",
+            "overs": 4.0,
+            "runs": 38,
+            "wickets": 1,
+            "econ": 9.5,
+            "score": 45.26,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-38r-1w"
+        },
+        {
+            "player": "Aasif Sheikh",
+            "team": "Nepal",
+            "runs": 11,
+            "balls": 10,
+            "sr": 110.0,
+            "fours": 2,
+            "sixes": 0,
+            "win_contribution_percent": 8.3,
+            "score": 34.65,
+            "role": "batting",
+            "match_stats": "11(10)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "Lokesh Bam",
+            "team": "Nepal",
+            "runs": 13,
+            "balls": 16,
+            "sr": 81.25,
+            "fours": 2,
+            "sixes": 0,
+            "win_contribution_percent": 9.8,
+            "score": 30.47,
+            "role": "batting",
+            "match_stats": "13(16)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "Gulsan Jha",
+            "team": "Nepal",
+            "runs": 11,
+            "balls": 14,
+            "sr": 78.57,
+            "fours": 0,
+            "sixes": 1,
+            "win_contribution_percent": 8.3,
+            "score": 27.89,
+            "role": "batting",
+            "match_stats": "11(14)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "DS Airee",
+            "team": "Nepal",
+            "overs": 3.2,
+            "runs": 19,
+            "wickets": 0,
+            "econ": 5.7,
+            "score": 25.43,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "3.2o-19r-0w"
+        },
+        {
+            "player": "Karan KC",
+            "team": "Nepal",
+            "overs": 2.0,
+            "runs": 12,
+            "wickets": 0,
+            "econ": 6.0,
+            "score": 24.16,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "2.0o-12r-0w"
+        },
+        {
+            "player": "RK Paudel",
+            "team": "Nepal",
+            "runs": 5,
+            "balls": 7,
+            "sr": 71.43,
+            "fours": 1,
+            "sixes": 0,
+            "win_contribution_percent": 3.8,
+            "score": 20.36,
+            "role": "batting",
+            "match_stats": "5(7)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "G Motie",
+            "team": "West Indies",
+            "overs": 2.0,
+            "runs": 17,
+            "wickets": 0,
+            "econ": 8.5,
+            "score": 17.06,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "2.0o-17r-0w"
+        },
+        {
+            "player": "K Bhurtel",
+            "team": "Nepal",
+            "overs": 2.0,
+            "runs": 18,
+            "wickets": 0,
+            "econ": 9.0,
+            "score": 16.11,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "2.0o-18r-0w"
+        },
+        {
+            "player": "Sompal Kami",
+            "team": "Nepal",
+            "overs": 2.0,
+            "runs": 23,
+            "wickets": 0,
+            "econ": 11.5,
+            "score": 12.61,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "2.0o-23r-0w"
+        },
+        {
+            "player": "S Lamichhane",
+            "team": "Nepal",
+            "overs": 3.0,
+            "runs": 38,
+            "wickets": 0,
+            "econ": 12.67,
+            "score": 11.44,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "3.0o-38r-0w"
+        },
+        {
+            "player": "K Bhurtel",
+            "team": "Nepal",
+            "runs": 1,
+            "balls": 3,
+            "sr": 33.33,
+            "fours": 0,
+            "sixes": 0,
+            "win_contribution_percent": 0.8,
+            "score": 8.17,
+            "role": "batting",
+            "match_stats": "1(3)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "Karan KC",
+            "team": "Nepal",
+            "runs": 1,
+            "balls": 3,
+            "sr": 33.33,
+            "fours": 0,
+            "sixes": 0,
+            "win_contribution_percent": 0.8,
+            "score": 8.17,
+            "role": "batting",
+            "match_stats": "1(3)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "Aarif Sheikh",
+            "team": "Nepal",
+            "runs": 2,
+            "balls": 8,
+            "sr": 25.0,
+            "fours": 0,
+            "sixes": 0,
+            "win_contribution_percent": 1.5,
+            "score": 7.37,
+            "role": "batting",
+            "match_stats": "2(8)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        }
+    ],
+    "validation": {
+        "logical_stability": true
+    }
+}

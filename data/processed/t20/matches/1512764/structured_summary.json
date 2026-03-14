@@ -1,0 +1,365 @@
+{
+    "match_context": {
+        "match_id": "1512764",
+        "date": "2026-02-25",
+        "tournament": "2025/26",
+        "venue": "R Premadasa Stadium, Colombo",
+        "stage": "ICC Men's T20 World Cup",
+        "Teams": {
+            "New Zealand": {
+                "captain": "MJ Santner",
+                "playing_xi_count": 11
+            },
+            "Sri Lanka": {
+                "captain": "KIC Asalanka",
+                "playing_xi_count": 11
+            }
+        }
+    },
+    "Match_Result": {
+        "summary": "New Zealand won by 61 runs",
+        "winner": "New Zealand",
+        "margin": 61,
+        "margin_type": "runs"
+    },
+    "Scorecard_Highlights": {
+        "Key_Support_Performers": [
+            {
+                "player": "GD Phillips",
+                "team": "New Zealand",
+                "runs": 18,
+                "balls": 18,
+                "sr": 100.0,
+                "fours": 1,
+                "sixes": 0,
+                "win_contribution_percent": 10.7,
+                "score": 41.66
+            },
+            {
+                "player": "DN Wellalage",
+                "team": "Sri Lanka",
+                "runs": 29,
+                "balls": 24,
+                "sr": 120.83,
+                "fours": 2,
+                "sixes": 1,
+                "win_contribution_percent": 27.1,
+                "score": 57.59
+            }
+        ],
+        "Career_vs_Match_Bowling": [],
+        "Bowling_Standouts": {
+            "Economical_Spells": [],
+            "Expensive_Spells": [],
+            "High_Economy_No_Baseline": [
+                {
+                    "player": "D Madushanka",
+                    "team": "Sri Lanka",
+                    "overs": 3.0,
+                    "runs": 34,
+                    "wickets": 0,
+                    "econ": 11.33,
+                    "score": 11.74,
+                    "bowling_baseline": {
+                        "career_wickets": 0,
+                        "career_economy": 0.0,
+                        "career_sr": 0.0,
+                        "career_avg": 0.0,
+                        "best_bowling": "N/A",
+                        "matches": 0,
+                        "source": "none",
+                        "baseline_available": false
+                    }
+                },
+                {
+                    "player": "MADI Hemantha",
+                    "team": "Sri Lanka",
+                    "overs": 2.0,
+                    "runs": 22,
+                    "wickets": 0,
+                    "econ": 11.0,
+                    "score": 12.1,
+                    "bowling_baseline": {
+                        "career_wickets": 0,
+                        "career_economy": 0.0,
+                        "career_sr": 0.0,
+                        "career_avg": 0.0,
+                        "best_bowling": "N/A",
+                        "matches": 0,
+                        "source": "none",
+                        "baseline_available": false
+                    }
+                }
+            ]
+        },
+        "Significant_Collapses": []
+    },
+    "Innings_Metrics": [
+        {
+            "innings": 1,
+            "team": "New Zealand",
+            "total_runs": 168,
+            "total_wickets": 7,
+            "balls_faced": 120,
+            "overs_faced": 20.0,
+            "phase_analysis": {
+                "Powerplay": {
+                    "runs": 44,
+                    "wkts": 2,
+                    "rr": 7.33
+                },
+                "Middle": {
+                    "runs": 46,
+                    "wkts": 4,
+                    "rr": 5.11
+                },
+                "Death": {
+                    "runs": 78,
+                    "wkts": 1,
+                    "rr": 15.6
+                }
+            }
+        },
+        {
+            "innings": 2,
+            "team": "Sri Lanka",
+            "total_runs": 107,
+            "total_wickets": 8,
+            "balls_faced": 120,
+            "overs_faced": 20.0,
+            "phase_analysis": {
+                "Powerplay": {
+                    "runs": 20,
+                    "wkts": 2,
+                    "rr": 3.33
+                },
+                "Middle": {
+                    "runs": 57,
+                    "wkts": 5,
+                    "rr": 6.33
+                },
+                "Death": {
+                    "runs": 30,
+                    "wkts": 1,
+                    "rr": 6.0
+                }
+            },
+            "pressure_index": 84.0,
+            "target": 169
+        }
+    ],
+    "Detailed_Impact_Analysis": [
+        {
+            "player": "MJ Henry",
+            "team": "New Zealand",
+            "overs": 2.0,
+            "runs": 3,
+            "wickets": 2,
+            "econ": 1.5,
+            "score": 148.71,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "2.0o-3r-2w"
+        },
+        {
+            "player": "R Ravindra",
+            "team": "New Zealand",
+            "overs": 4.0,
+            "runs": 27,
+            "wickets": 4,
+            "econ": 6.75,
+            "score": 139.71,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-27r-4w"
+        },
+        {
+            "player": "M Theekshana",
+            "team": "Sri Lanka",
+            "overs": 4.0,
+            "runs": 30,
+            "wickets": 3,
+            "econ": 7.5,
+            "score": 107.74,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-30r-3w"
+        },
+        {
+            "player": "PVD Chameera",
+            "team": "Sri Lanka",
+            "overs": 4.0,
+            "runs": 38,
+            "wickets": 3,
+            "econ": 9.5,
+            "score": 104.01,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-38r-3w"
+        },
+        {
+            "player": "MJ Santner",
+            "team": "New Zealand",
+            "runs": 47,
+            "balls": 29,
+            "sr": 162.07,
+            "fours": 2,
+            "sixes": 4,
+            "win_contribution_percent": 28.0,
+            "score": 85.35,
+            "role": "batting",
+            "match_stats": "47(29)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "R Ravindra",
+            "team": "New Zealand",
+            "runs": 32,
+            "balls": 22,
+            "sr": 145.45,
+            "fours": 3,
+            "sixes": 1,
+            "win_contribution_percent": 19.0,
+            "score": 66.42,
+            "role": "batting",
+            "match_stats": "32(22)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "FH Allen",
+            "team": "New Zealand",
+            "runs": 23,
+            "balls": 13,
+            "sr": 176.92,
+            "fours": 3,
+            "sixes": 1,
+            "win_contribution_percent": 13.7,
+            "score": 64.87,
+            "role": "batting",
+            "match_stats": "23(13)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "CE McConchie",
+            "team": "New Zealand",
+            "runs": 31,
+            "balls": 24,
+            "sr": 129.17,
+            "fours": 3,
+            "sixes": 2,
+            "win_contribution_percent": 18.5,
+            "score": 61.57,
+            "role": "batting",
+            "match_stats": "31(24)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "PHKD Mendis",
+            "team": "Sri Lanka",
+            "runs": 31,
+            "balls": 26,
+            "sr": 119.23,
+            "fours": 4,
+            "sixes": 0,
+            "win_contribution_percent": 29.0,
+            "score": 59.21,
+            "role": "batting",
+            "match_stats": "31(26)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "MJ Santner",
+            "team": "New Zealand",
+            "overs": 4.0,
+            "runs": 19,
+            "wickets": 1,
+            "econ": 4.75,
+            "score": 58.01,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-19r-1w"
+        }
+    ],
+    "Tactical_Post_Match_Analysis": [
+        "New Zealand's victory was anchored by MJ Santner, who contributed 28.0% of the team's runs.",
+        "Defensive pressure was sustained by MJ Henry, finishing with an impact score of 148.71.",
+        "Sri Lanka struggled under extreme chase pressure (Index: 84.0), leading to a late-innings collapse.",
+        "High-scoring finish by New Zealand in Death Overs (RR: 15.6) shifted match momentum.",
+        "Sri Lanka suffered from a lack of boundary frequency (one every 13.3 balls), increasing pressure."
+    ]
+}

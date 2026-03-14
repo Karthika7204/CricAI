@@ -1,0 +1,1154 @@
+{
+    "match_id": "1512724",
+    "metadata": {
+        "tournament": "2025/26",
+        "venue": "R Premadasa Stadium, Colombo",
+        "date": "2026-02-08",
+        "stage": "ICC Men's T20 World Cup",
+        "winner": "Sri Lanka",
+        "loser": "Ireland",
+        "win_classification": "Moderate",
+        "margin_runs": 20,
+        "margin_wickets": null,
+        "competitiveness_index": 85.0,
+        "teams": {
+            "Sri Lanka": {
+                "captain": "BKG Mendis",
+                "playing_xi_count": 11
+            },
+            "Ireland": {
+                "captain": "PR Stirling",
+                "playing_xi_count": 11
+            }
+        },
+        "team_summary": {
+            "Sri Lanka": {
+                "run_rate": 8.15,
+                "fours": 12,
+                "sixes": 3,
+                "boundary_runs": 66,
+                "dot_balls": 37,
+                "total_runs": 163,
+                "total_wickets": 6
+            },
+            "Ireland": {
+                "run_rate": 7.21,
+                "fours": 12,
+                "sixes": 1,
+                "boundary_runs": 54,
+                "dot_balls": 43,
+                "total_runs": 143,
+                "total_wickets": 10
+            }
+        },
+        "formulas": {
+            "competitiveness": "Base(Margin) + Pressure_Bonus(L5 Overs)",
+            "pressure": "((RR_Gap / Start_RR) * 40) + ((Wickets / 10) * 60)",
+            "batting_impact": "Runs + (SR/Match_SR * 25)",
+            "bowling_impact": "(Wickets * 30) + (Match_RR/Econ * 20)"
+        }
+    },
+    "scorecards": {
+        "batting": [
+            {
+                "player": "BKG Mendis",
+                "team": "Sri Lanka",
+                "runs": 56,
+                "balls": 44,
+                "sr": 127.27,
+                "fours": 5,
+                "sixes": 0,
+                "win_contribution_percent": 34.4,
+                "score": 83.33
+            },
+            {
+                "player": "PHKD Mendis",
+                "team": "Sri Lanka",
+                "runs": 44,
+                "balls": 22,
+                "sr": 200.0,
+                "fours": 4,
+                "sixes": 2,
+                "win_contribution_percent": 27.0,
+                "score": 86.96
+            },
+            {
+                "player": "P Nissanka",
+                "team": "Sri Lanka",
+                "runs": 24,
+                "balls": 23,
+                "sr": 104.35,
+                "fours": 1,
+                "sixes": 1,
+                "win_contribution_percent": 14.7,
+                "score": 46.41
+            },
+            {
+                "player": "K Mishara",
+                "team": "Sri Lanka",
+                "runs": 14,
+                "balls": 13,
+                "sr": 107.69,
+                "fours": 2,
+                "sixes": 0,
+                "win_contribution_percent": 8.6,
+                "score": 37.13
+            },
+            {
+                "player": "DN Wellalage",
+                "team": "Sri Lanka",
+                "runs": 10,
+                "balls": 14,
+                "sr": 71.43,
+                "fours": 0,
+                "sixes": 0,
+                "win_contribution_percent": 6.1,
+                "score": 25.34
+            },
+            {
+                "player": "P Rathnayake",
+                "team": "Sri Lanka",
+                "runs": 5,
+                "balls": 9,
+                "sr": 55.56,
+                "fours": 0,
+                "sixes": 0,
+                "win_contribution_percent": 3.1,
+                "score": 16.93
+            },
+            {
+                "player": "PWH de Silva",
+                "team": "Sri Lanka",
+                "runs": 1,
+                "balls": 3,
+                "sr": 33.33,
+                "fours": 0,
+                "sixes": 0,
+                "win_contribution_percent": 0.6,
+                "score": 8.16
+            },
+            {
+                "player": "MD Shanaka",
+                "team": "Sri Lanka",
+                "runs": 0,
+                "balls": 1,
+                "sr": 0.0,
+                "fours": 0,
+                "sixes": 0,
+                "win_contribution_percent": 0.0,
+                "score": 0.0
+            },
+            {
+                "player": "HT Tector",
+                "team": "Ireland",
+                "runs": 40,
+                "balls": 34,
+                "sr": 117.65,
+                "fours": 1,
+                "sixes": 0,
+                "win_contribution_percent": 28.0,
+                "score": 65.27
+            },
+            {
+                "player": "GR Adair",
+                "team": "Ireland",
+                "runs": 34,
+                "balls": 24,
+                "sr": 141.67,
+                "fours": 5,
+                "sixes": 1,
+                "win_contribution_percent": 23.8,
+                "score": 64.43
+            },
+            {
+                "player": "L Tucker",
+                "team": "Ireland",
+                "runs": 21,
+                "balls": 18,
+                "sr": 116.67,
+                "fours": 2,
+                "sixes": 0,
+                "win_contribution_percent": 14.7,
+                "score": 46.06
+            },
+            {
+                "player": "C Campher",
+                "team": "Ireland",
+                "runs": 13,
+                "balls": 11,
+                "sr": 118.18,
+                "fours": 1,
+                "sixes": 0,
+                "win_contribution_percent": 9.1,
+                "score": 38.38
+            },
+            {
+                "player": "MR Adair",
+                "team": "Ireland",
+                "runs": 10,
+                "balls": 6,
+                "sr": 166.67,
+                "fours": 1,
+                "sixes": 0,
+                "win_contribution_percent": 7.0,
+                "score": 45.8
+            },
+            {
+                "player": "GH Dockrell",
+                "team": "Ireland",
+                "runs": 9,
+                "balls": 7,
+                "sr": 128.57,
+                "fours": 1,
+                "sixes": 0,
+                "win_contribution_percent": 6.3,
+                "score": 36.61
+            },
+            {
+                "player": "PR Stirling",
+                "team": "Ireland",
+                "runs": 6,
+                "balls": 14,
+                "sr": 42.86,
+                "fours": 1,
+                "sixes": 0,
+                "win_contribution_percent": 4.2,
+                "score": 15.21
+            },
+            {
+                "player": "BF Calitz",
+                "team": "Ireland",
+                "runs": 4,
+                "balls": 4,
+                "sr": 100.0,
+                "fours": 0,
+                "sixes": 0,
+                "win_contribution_percent": 2.8,
+                "score": 25.48
+            },
+            {
+                "player": "GJ Delany",
+                "team": "Ireland",
+                "runs": 0,
+                "balls": 1,
+                "sr": 0.0,
+                "fours": 0,
+                "sixes": 0,
+                "win_contribution_percent": 0.0,
+                "score": 0.0
+            },
+            {
+                "player": "MJ Humphreys",
+                "team": "Ireland",
+                "runs": 0,
+                "balls": 2,
+                "sr": 0.0,
+                "fours": 0,
+                "sixes": 0,
+                "win_contribution_percent": 0.0,
+                "score": 0.0
+            }
+        ],
+        "bowling": [
+            {
+                "player": "GH Dockrell",
+                "team": "Ireland",
+                "overs": 4.0,
+                "runs": 17,
+                "wickets": 2,
+                "econ": 4.25,
+                "score": 94.56,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "BJ McCarthy",
+                "team": "Ireland",
+                "overs": 3.0,
+                "runs": 40,
+                "wickets": 2,
+                "econ": 13.33,
+                "score": 71.02,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "GJ Delany",
+                "team": "Ireland",
+                "overs": 4.0,
+                "runs": 24,
+                "wickets": 1,
+                "econ": 6.0,
+                "score": 54.48,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "MR Adair",
+                "team": "Ireland",
+                "overs": 4.0,
+                "runs": 33,
+                "wickets": 1,
+                "econ": 8.25,
+                "score": 47.8,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "HT Tector",
+                "team": "Ireland",
+                "overs": 1.0,
+                "runs": 5,
+                "wickets": 0,
+                "econ": 5.0,
+                "score": 29.38,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "MJ Humphreys",
+                "team": "Ireland",
+                "overs": 4.0,
+                "runs": 44,
+                "wickets": 0,
+                "econ": 11.0,
+                "score": 13.35,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "M Theekshana",
+                "team": "Sri Lanka",
+                "overs": 4.0,
+                "runs": 24,
+                "wickets": 3,
+                "econ": 6.0,
+                "score": 114.48,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "PWH de Silva",
+                "team": "Sri Lanka",
+                "overs": 4.0,
+                "runs": 25,
+                "wickets": 3,
+                "econ": 6.25,
+                "score": 113.5,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "M Pathirana",
+                "team": "Sri Lanka",
+                "overs": 2.5,
+                "runs": 28,
+                "wickets": 2,
+                "econ": 9.88,
+                "score": 74.87,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "DN Wellalage",
+                "team": "Sri Lanka",
+                "overs": 4.0,
+                "runs": 29,
+                "wickets": 1,
+                "econ": 7.25,
+                "score": 50.26,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "PVD Chameera",
+                "team": "Sri Lanka",
+                "overs": 3.0,
+                "runs": 25,
+                "wickets": 1,
+                "econ": 8.33,
+                "score": 47.63,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "MD Shanaka",
+                "team": "Sri Lanka",
+                "overs": 2.0,
+                "runs": 12,
+                "wickets": 0,
+                "econ": 6.0,
+                "score": 24.48,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            }
+        ]
+    },
+    "innings": [
+        {
+            "innings": 1,
+            "team": "Sri Lanka",
+            "total_runs": 163,
+            "total_wickets": 6,
+            "balls_faced": 120,
+            "overs_faced": 20.0,
+            "phase_analysis": {
+                "Powerplay": {
+                    "runs": 50,
+                    "wkts": 1,
+                    "rr": 8.33
+                },
+                "Middle": {
+                    "runs": 45,
+                    "wkts": 3,
+                    "rr": 5.0
+                },
+                "Death": {
+                    "runs": 68,
+                    "wkts": 2,
+                    "rr": 13.6
+                }
+            }
+        },
+        {
+            "innings": 2,
+            "team": "Ireland",
+            "total_runs": 143,
+            "total_wickets": 10,
+            "balls_faced": 119,
+            "overs_faced": 19.5,
+            "phase_analysis": {
+                "Powerplay": {
+                    "runs": 45,
+                    "wkts": 1,
+                    "rr": 7.5
+                },
+                "Middle": {
+                    "runs": 68,
+                    "wkts": 2,
+                    "rr": 7.56
+                },
+                "Death": {
+                    "runs": 30,
+                    "wkts": 7,
+                    "rr": 6.21
+                }
+            },
+            "pressure_index": 100.0,
+            "target": 164
+        }
+    ],
+    "players": [
+        {
+            "player": "M Theekshana",
+            "team": "Sri Lanka",
+            "overs": 4.0,
+            "runs": 24,
+            "wickets": 3,
+            "econ": 6.0,
+            "score": 114.48,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-24r-3w"
+        },
+        {
+            "player": "PWH de Silva",
+            "team": "Sri Lanka",
+            "overs": 4.0,
+            "runs": 25,
+            "wickets": 3,
+            "econ": 6.25,
+            "score": 113.5,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-25r-3w"
+        },
+        {
+            "player": "GH Dockrell",
+            "team": "Ireland",
+            "overs": 4.0,
+            "runs": 17,
+            "wickets": 2,
+            "econ": 4.25,
+            "score": 94.56,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-17r-2w"
+        },
+        {
+            "player": "PHKD Mendis",
+            "team": "Sri Lanka",
+            "runs": 44,
+            "balls": 22,
+            "sr": 200.0,
+            "fours": 4,
+            "sixes": 2,
+            "win_contribution_percent": 27.0,
+            "score": 86.96,
+            "role": "batting",
+            "match_stats": "44(22)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "BKG Mendis",
+            "team": "Sri Lanka",
+            "runs": 56,
+            "balls": 44,
+            "sr": 127.27,
+            "fours": 5,
+            "sixes": 0,
+            "win_contribution_percent": 34.4,
+            "score": 83.33,
+            "role": "batting",
+            "match_stats": "56(44)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "M Pathirana",
+            "team": "Sri Lanka",
+            "overs": 2.5,
+            "runs": 28,
+            "wickets": 2,
+            "econ": 9.88,
+            "score": 74.87,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "2.5o-28r-2w"
+        },
+        {
+            "player": "BJ McCarthy",
+            "team": "Ireland",
+            "overs": 3.0,
+            "runs": 40,
+            "wickets": 2,
+            "econ": 13.33,
+            "score": 71.02,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "3.0o-40r-2w"
+        },
+        {
+            "player": "HT Tector",
+            "team": "Ireland",
+            "runs": 40,
+            "balls": 34,
+            "sr": 117.65,
+            "fours": 1,
+            "sixes": 0,
+            "win_contribution_percent": 28.0,
+            "score": 65.27,
+            "role": "batting",
+            "match_stats": "40(34)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "GR Adair",
+            "team": "Ireland",
+            "runs": 34,
+            "balls": 24,
+            "sr": 141.67,
+            "fours": 5,
+            "sixes": 1,
+            "win_contribution_percent": 23.8,
+            "score": 64.43,
+            "role": "batting",
+            "match_stats": "34(24)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "GJ Delany",
+            "team": "Ireland",
+            "overs": 4.0,
+            "runs": 24,
+            "wickets": 1,
+            "econ": 6.0,
+            "score": 54.48,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-24r-1w"
+        },
+        {
+            "player": "DN Wellalage",
+            "team": "Sri Lanka",
+            "overs": 4.0,
+            "runs": 29,
+            "wickets": 1,
+            "econ": 7.25,
+            "score": 50.26,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-29r-1w"
+        },
+        {
+            "player": "MR Adair",
+            "team": "Ireland",
+            "overs": 4.0,
+            "runs": 33,
+            "wickets": 1,
+            "econ": 8.25,
+            "score": 47.8,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-33r-1w"
+        },
+        {
+            "player": "PVD Chameera",
+            "team": "Sri Lanka",
+            "overs": 3.0,
+            "runs": 25,
+            "wickets": 1,
+            "econ": 8.33,
+            "score": 47.63,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "3.0o-25r-1w"
+        },
+        {
+            "player": "P Nissanka",
+            "team": "Sri Lanka",
+            "runs": 24,
+            "balls": 23,
+            "sr": 104.35,
+            "fours": 1,
+            "sixes": 1,
+            "win_contribution_percent": 14.7,
+            "score": 46.41,
+            "role": "batting",
+            "match_stats": "24(23)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "L Tucker",
+            "team": "Ireland",
+            "runs": 21,
+            "balls": 18,
+            "sr": 116.67,
+            "fours": 2,
+            "sixes": 0,
+            "win_contribution_percent": 14.7,
+            "score": 46.06,
+            "role": "batting",
+            "match_stats": "21(18)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "MR Adair",
+            "team": "Ireland",
+            "runs": 10,
+            "balls": 6,
+            "sr": 166.67,
+            "fours": 1,
+            "sixes": 0,
+            "win_contribution_percent": 7.0,
+            "score": 45.8,
+            "role": "batting",
+            "match_stats": "10(6)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "C Campher",
+            "team": "Ireland",
+            "runs": 13,
+            "balls": 11,
+            "sr": 118.18,
+            "fours": 1,
+            "sixes": 0,
+            "win_contribution_percent": 9.1,
+            "score": 38.38,
+            "role": "batting",
+            "match_stats": "13(11)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "K Mishara",
+            "team": "Sri Lanka",
+            "runs": 14,
+            "balls": 13,
+            "sr": 107.69,
+            "fours": 2,
+            "sixes": 0,
+            "win_contribution_percent": 8.6,
+            "score": 37.13,
+            "role": "batting",
+            "match_stats": "14(13)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "GH Dockrell",
+            "team": "Ireland",
+            "runs": 9,
+            "balls": 7,
+            "sr": 128.57,
+            "fours": 1,
+            "sixes": 0,
+            "win_contribution_percent": 6.3,
+            "score": 36.61,
+            "role": "batting",
+            "match_stats": "9(7)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "HT Tector",
+            "team": "Ireland",
+            "overs": 1.0,
+            "runs": 5,
+            "wickets": 0,
+            "econ": 5.0,
+            "score": 29.38,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "1.0o-5r-0w"
+        },
+        {
+            "player": "BF Calitz",
+            "team": "Ireland",
+            "runs": 4,
+            "balls": 4,
+            "sr": 100.0,
+            "fours": 0,
+            "sixes": 0,
+            "win_contribution_percent": 2.8,
+            "score": 25.48,
+            "role": "batting",
+            "match_stats": "4(4)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "DN Wellalage",
+            "team": "Sri Lanka",
+            "runs": 10,
+            "balls": 14,
+            "sr": 71.43,
+            "fours": 0,
+            "sixes": 0,
+            "win_contribution_percent": 6.1,
+            "score": 25.34,
+            "role": "batting",
+            "match_stats": "10(14)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "MD Shanaka",
+            "team": "Sri Lanka",
+            "overs": 2.0,
+            "runs": 12,
+            "wickets": 0,
+            "econ": 6.0,
+            "score": 24.48,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "2.0o-12r-0w"
+        },
+        {
+            "player": "P Rathnayake",
+            "team": "Sri Lanka",
+            "runs": 5,
+            "balls": 9,
+            "sr": 55.56,
+            "fours": 0,
+            "sixes": 0,
+            "win_contribution_percent": 3.1,
+            "score": 16.93,
+            "role": "batting",
+            "match_stats": "5(9)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "PR Stirling",
+            "team": "Ireland",
+            "runs": 6,
+            "balls": 14,
+            "sr": 42.86,
+            "fours": 1,
+            "sixes": 0,
+            "win_contribution_percent": 4.2,
+            "score": 15.21,
+            "role": "batting",
+            "match_stats": "6(14)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "MJ Humphreys",
+            "team": "Ireland",
+            "overs": 4.0,
+            "runs": 44,
+            "wickets": 0,
+            "econ": 11.0,
+            "score": 13.35,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-44r-0w"
+        },
+        {
+            "player": "PWH de Silva",
+            "team": "Sri Lanka",
+            "runs": 1,
+            "balls": 3,
+            "sr": 33.33,
+            "fours": 0,
+            "sixes": 0,
+            "win_contribution_percent": 0.6,
+            "score": 8.16,
+            "role": "batting",
+            "match_stats": "1(3)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "MD Shanaka",
+            "team": "Sri Lanka",
+            "runs": 0,
+            "balls": 1,
+            "sr": 0.0,
+            "fours": 0,
+            "sixes": 0,
+            "win_contribution_percent": 0.0,
+            "score": 0.0,
+            "role": "batting",
+            "match_stats": "0(1)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "GJ Delany",
+            "team": "Ireland",
+            "runs": 0,
+            "balls": 1,
+            "sr": 0.0,
+            "fours": 0,
+            "sixes": 0,
+            "win_contribution_percent": 0.0,
+            "score": 0.0,
+            "role": "batting",
+            "match_stats": "0(1)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "MJ Humphreys",
+            "team": "Ireland",
+            "runs": 0,
+            "balls": 2,
+            "sr": 0.0,
+            "fours": 0,
+            "sixes": 0,
+            "win_contribution_percent": 0.0,
+            "score": 0.0,
+            "role": "batting",
+            "match_stats": "0(2)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        }
+    ],
+    "validation": {
+        "logical_stability": true
+    }
+}

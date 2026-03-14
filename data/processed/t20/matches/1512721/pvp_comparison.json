@@ -229,41 +229,6 @@
       ]
     },
     {
-      "bat": "AGS Gous",
-      "bat_t": "United States of America",
-      "bowl": "Mohammed Siraj",
-      "bowl_t": "India",
-      "v": "bowler",
-      "h2h": {
-        "balls": 4,
-        "runs": 6,
-        "dismissals": 1,
-        "strike_rate": 150.0
-      },
-      "vs_t": {
-        "runs": 8,
-        "balls": 16,
-        "dismissals": 2,
-        "average": 4.0,
-        "strike_rate": 50.0
-      },
-      "b_car": {
-        "avg": 30.84,
-        "sr": 137.43
-      },
-      "w_car": {
-        "avg": 28.88,
-        "eco": 7.92
-      },
-      "b_f": [
-        13,
-        6
-      ],
-      "w_f": [
-        3
-      ]
-    },
-    {
       "bat": "Harmeet Singh",
       "bat_t": "United States of America",
       "bowl": "Arshdeep Singh",
@@ -299,6 +264,41 @@
         2,
         0,
         1
+      ]
+    },
+    {
+      "bat": "AGS Gous",
+      "bat_t": "United States of America",
+      "bowl": "Mohammed Siraj",
+      "bowl_t": "India",
+      "v": "bowler",
+      "h2h": {
+        "balls": 4,
+        "runs": 6,
+        "dismissals": 1,
+        "strike_rate": 150.0
+      },
+      "vs_t": {
+        "runs": 8,
+        "balls": 16,
+        "dismissals": 2,
+        "average": 4.0,
+        "strike_rate": 50.0
+      },
+      "b_car": {
+        "avg": 30.84,
+        "sr": 137.43
+      },
+      "w_car": {
+        "avg": 28.88,
+        "eco": 7.92
+      },
+      "b_f": [
+        13,
+        6
+      ],
+      "w_f": [
+        3
       ]
     },
     {
@@ -766,40 +766,40 @@
       ]
     },
     {
-      "bat": "S Dube",
+      "bat": "SA Yadav",
       "bat_t": "India",
-      "bowl": "Ali Khan",
+      "bowl": "Harmeet Singh",
       "bowl_t": "United States of America",
       "v": "batsman",
       "h2h": {
         "balls": 9,
-        "runs": 4,
+        "runs": 12,
         "dismissals": 0,
-        "strike_rate": 44.44
+        "strike_rate": 133.33
       },
       "vs_t": {
-        "runs": 31,
-        "balls": 38,
-        "dismissals": 1,
-        "average": 31.0,
-        "strike_rate": 81.58
+        "runs": 134,
+        "balls": 99,
+        "dismissals": 0,
+        "average": 134.0,
+        "strike_rate": 135.35
       },
       "b_car": {
-        "avg": 31.2,
-        "sr": 141.3
+        "avg": 38.51,
+        "sr": 156.8
       },
       "w_car": {
-        "avg": 37.76,
-        "eco": 9.15
+        "avg": 23.35,
+        "eco": 7.05
       },
       "b_f": [
-        42,
-        66,
-        27
+        18,
+        34,
+        32
       ],
       "w_f": [
-        1,
         0,
+        4,
         1
       ]
     },
@@ -842,40 +842,40 @@
       ]
     },
     {
-      "bat": "SA Yadav",
+      "bat": "S Dube",
       "bat_t": "India",
-      "bowl": "Harmeet Singh",
+      "bowl": "Ali Khan",
       "bowl_t": "United States of America",
       "v": "batsman",
       "h2h": {
         "balls": 9,
-        "runs": 12,
+        "runs": 4,
         "dismissals": 0,
-        "strike_rate": 133.33
+        "strike_rate": 44.44
       },
       "vs_t": {
-        "runs": 134,
-        "balls": 99,
-        "dismissals": 0,
-        "average": 134.0,
-        "strike_rate": 135.35
+        "runs": 31,
+        "balls": 38,
+        "dismissals": 1,
+        "average": 31.0,
+        "strike_rate": 81.58
       },
       "b_car": {
-        "avg": 38.51,
-        "sr": 156.8
+        "avg": 31.2,
+        "sr": 141.3
       },
       "w_car": {
-        "avg": 23.35,
-        "eco": 7.05
+        "avg": 37.76,
+        "eco": 9.15
       },
       "b_f": [
-        18,
-        34,
-        32
+        42,
+        66,
+        27
       ],
       "w_f": [
+        1,
         0,
-        4,
         1
       ]
     },
@@ -1108,44 +1108,6 @@
     {
       "bat": "Tilak Varma",
       "bat_t": "India",
-      "bowl": "SN Netravalkar",
-      "bowl_t": "United States of America",
-      "v": "batsman",
-      "h2h": {
-        "balls": 5,
-        "runs": 15,
-        "dismissals": 0,
-        "strike_rate": 300.0
-      },
-      "vs_t": {
-        "runs": 25,
-        "balls": 16,
-        "dismissals": 1,
-        "average": 25.0,
-        "strike_rate": 156.25
-      },
-      "b_car": {
-        "avg": 46.81,
-        "sr": 136.65
-      },
-      "w_car": {
-        "avg": 25.79,
-        "eco": 7.44
-      },
-      "b_f": [
-        1,
-        31,
-        25
-      ],
-      "w_f": [
-        1,
-        1,
-        0
-      ]
-    },
-    {
-      "bat": "Tilak Varma",
-      "bat_t": "India",
       "bowl": "Ali Khan",
       "bowl_t": "United States of America",
       "v": "batsman",
@@ -1182,41 +1144,41 @@
       ]
     },
     {
-      "bat": "Milind Kumar",
-      "bat_t": "United States of America",
-      "bowl": "Arshdeep Singh",
-      "bowl_t": "India",
-      "v": "neutral",
+      "bat": "Tilak Varma",
+      "bat_t": "India",
+      "bowl": "SN Netravalkar",
+      "bowl_t": "United States of America",
+      "v": "batsman",
       "h2h": {
         "balls": 5,
-        "runs": 8,
+        "runs": 15,
         "dismissals": 0,
-        "strike_rate": 160.0
+        "strike_rate": 300.0
       },
       "vs_t": {
-        "runs": 34,
-        "balls": 34,
+        "runs": 25,
+        "balls": 16,
         "dismissals": 1,
-        "average": 34.0,
-        "strike_rate": 100.0
+        "average": 25.0,
+        "strike_rate": 156.25
       },
       "b_car": {
-        "avg": 32.0,
-        "sr": 103.74
+        "avg": 46.81,
+        "sr": 136.65
       },
       "w_car": {
-        "avg": 19.63,
-        "eco": 8.75
+        "avg": 25.79,
+        "eco": 7.44
       },
       "b_f": [
-        28,
-        3,
-        29
+        1,
+        31,
+        25
       ],
       "w_f": [
-        2,
-        0,
-        1
+        1,
+        1,
+        0
       ]
     },
     {
@@ -1293,41 +1255,41 @@
       ]
     },
     {
-      "bat": "AR Patel",
-      "bat_t": "India",
-      "bowl": "SN Netravalkar",
-      "bowl_t": "United States of America",
+      "bat": "Milind Kumar",
+      "bat_t": "United States of America",
+      "bowl": "Arshdeep Singh",
+      "bowl_t": "India",
       "v": "neutral",
       "h2h": {
-        "balls": 4,
-        "runs": 11,
+        "balls": 5,
+        "runs": 8,
         "dismissals": 0,
-        "strike_rate": 275.0
+        "strike_rate": 160.0
       },
       "vs_t": {
-        "runs": 14,
-        "balls": 12,
+        "runs": 34,
+        "balls": 34,
         "dismissals": 1,
-        "average": 14.0,
-        "strike_rate": 116.67
+        "average": 34.0,
+        "strike_rate": 100.0
       },
       "b_car": {
-        "avg": 19.66,
-        "sr": 125.55
+        "avg": 32.0,
+        "sr": 103.74
       },
       "w_car": {
-        "avg": 25.79,
-        "eco": 7.44
+        "avg": 19.63,
+        "eco": 8.75
       },
       "b_f": [
-        0,
-        0,
-        14
+        28,
+        3,
+        29
       ],
       "w_f": [
-        1,
-        1,
-        0
+        2,
+        0,
+        1
       ]
     },
     {
@@ -1369,41 +1331,41 @@
       ]
     },
     {
-      "bat": "Shubham Ranjane",
-      "bat_t": "United States of America",
-      "bowl": "CV Varun",
-      "bowl_t": "India",
-      "v": "batsman",
+      "bat": "AR Patel",
+      "bat_t": "India",
+      "bowl": "SN Netravalkar",
+      "bowl_t": "United States of America",
+      "v": "neutral",
       "h2h": {
         "balls": 4,
-        "runs": 7,
+        "runs": 11,
         "dismissals": 0,
-        "strike_rate": 175.0
+        "strike_rate": 275.0
       },
       "vs_t": {
-        "runs": 37,
-        "balls": 23,
+        "runs": 14,
+        "balls": 12,
         "dismissals": 1,
-        "average": 37.0,
-        "strike_rate": 160.87
+        "average": 14.0,
+        "strike_rate": 116.67
       },
       "b_car": {
-        "avg": 70.5,
-        "sr": 171.95
+        "avg": 19.66,
+        "sr": 125.55
       },
       "w_car": {
-        "avg": 15.9,
-        "eco": 7.36
+        "avg": 25.79,
+        "eco": 7.44
       },
       "b_f": [
-        5,
-        48,
-        51
+        0,
+        0,
+        14
       ],
       "w_f": [
         1,
-        3,
-        2
+        1,
+        0
       ]
     },
     {
@@ -1443,36 +1405,73 @@
       ]
     },
     {
-      "bat": "Milind Kumar",
+      "bat": "Harmeet Singh",
       "bat_t": "United States of America",
       "bowl": "HH Pandya",
       "bowl_t": "India",
       "v": "neutral",
       "h2h": {
         "balls": 4,
-        "runs": 5,
+        "runs": 0,
         "dismissals": 0,
-        "strike_rate": 125.0
+        "strike_rate": 0.0
       },
       "vs_t": {
-        "runs": 34,
-        "balls": 34,
-        "dismissals": 1,
-        "average": 34.0,
-        "strike_rate": 100.0
+        "runs": 10,
+        "balls": 11,
+        "dismissals": 2,
+        "average": 5.0,
+        "strike_rate": 90.91
       },
       "b_car": {
-        "avg": 32.0,
-        "sr": 103.74
+        "avg": 16.13,
+        "sr": 139.88
       },
       "w_car": {
         "avg": 27.46,
         "eco": 8.49
       },
       "b_f": [
-        28,
-        3,
-        29
+        1,
+        6,
+        0
+      ],
+      "w_f": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "SC van Schalkwyk",
+      "bat_t": "United States of America",
+      "bowl": "HH Pandya",
+      "bowl_t": "India",
+      "v": "neutral",
+      "h2h": {
+        "balls": 4,
+        "runs": 1,
+        "dismissals": 0,
+        "strike_rate": 25.0
+      },
+      "vs_t": {
+        "runs": 13,
+        "balls": 15,
+        "dismissals": 0,
+        "average": 13.0,
+        "strike_rate": 86.67
+      },
+      "b_car": {
+        "avg": 21.4,
+        "sr": 109.18
+      },
+      "w_car": {
+        "avg": 27.46,
+        "eco": 8.49
+      },
+      "b_f": [
+        1,
+        2
       ],
       "w_f": [
         0,
@@ -1518,35 +1517,36 @@
       ]
     },
     {
-      "bat": "SC van Schalkwyk",
+      "bat": "Milind Kumar",
       "bat_t": "United States of America",
       "bowl": "HH Pandya",
       "bowl_t": "India",
       "v": "neutral",
       "h2h": {
         "balls": 4,
-        "runs": 1,
+        "runs": 5,
         "dismissals": 0,
-        "strike_rate": 25.0
+        "strike_rate": 125.0
       },
       "vs_t": {
-        "runs": 13,
-        "balls": 15,
-        "dismissals": 0,
-        "average": 13.0,
-        "strike_rate": 86.67
+        "runs": 34,
+        "balls": 34,
+        "dismissals": 1,
+        "average": 34.0,
+        "strike_rate": 100.0
       },
       "b_car": {
-        "avg": 21.4,
-        "sr": 109.18
+        "avg": 32.0,
+        "sr": 103.74
       },
       "w_car": {
         "avg": 27.46,
         "eco": 8.49
       },
       "b_f": [
-        1,
-        2
+        28,
+        3,
+        29
       ],
       "w_f": [
         0,
@@ -1555,40 +1555,40 @@
       ]
     },
     {
-      "bat": "Harmeet Singh",
+      "bat": "Shubham Ranjane",
       "bat_t": "United States of America",
-      "bowl": "HH Pandya",
+      "bowl": "CV Varun",
       "bowl_t": "India",
-      "v": "neutral",
+      "v": "batsman",
       "h2h": {
         "balls": 4,
-        "runs": 0,
+        "runs": 7,
         "dismissals": 0,
-        "strike_rate": 0.0
+        "strike_rate": 175.0
       },
       "vs_t": {
-        "runs": 10,
-        "balls": 11,
-        "dismissals": 2,
-        "average": 5.0,
-        "strike_rate": 90.91
+        "runs": 37,
+        "balls": 23,
+        "dismissals": 1,
+        "average": 37.0,
+        "strike_rate": 160.87
       },
       "b_car": {
-        "avg": 16.13,
-        "sr": 139.88
+        "avg": 70.5,
+        "sr": 171.95
       },
       "w_car": {
-        "avg": 27.46,
-        "eco": 8.49
+        "avg": 15.9,
+        "eco": 7.36
       },
       "b_f": [
-        1,
-        6,
-        0
+        5,
+        48,
+        51
       ],
       "w_f": [
-        0,
         1,
+        3,
         2
       ]
     },
@@ -1669,6 +1669,40 @@
       ]
     },
     {
+      "bat": "SA Yadav",
+      "bat_t": "India",
+      "bowl": "Mohammad Mohsin",
+      "bowl_t": "United States of America",
+      "v": "batsman",
+      "h2h": {
+        "balls": 12,
+        "runs": 13,
+        "dismissals": 0,
+        "strike_rate": 108.33
+      },
+      "vs_t": {
+        "runs": 134,
+        "balls": 99,
+        "dismissals": 0,
+        "average": 134.0,
+        "strike_rate": 135.35
+      },
+      "b_car": {
+        "avg": 38.51,
+        "sr": 156.8
+      },
+      "b_f": [
+        18,
+        34,
+        32
+      ],
+      "w_f": [
+        0,
+        2,
+        1
+      ]
+    },
+    {
       "bat": "RK Singh",
       "bat_t": "India",
       "bowl": "Harmeet Singh",
@@ -1703,40 +1737,6 @@
       "w_f": [
         0,
         4,
-        1
-      ]
-    },
-    {
-      "bat": "SA Yadav",
-      "bat_t": "India",
-      "bowl": "Mohammad Mohsin",
-      "bowl_t": "United States of America",
-      "v": "batsman",
-      "h2h": {
-        "balls": 12,
-        "runs": 13,
-        "dismissals": 0,
-        "strike_rate": 108.33
-      },
-      "vs_t": {
-        "runs": 134,
-        "balls": 99,
-        "dismissals": 0,
-        "average": 134.0,
-        "strike_rate": 135.35
-      },
-      "b_car": {
-        "avg": 38.51,
-        "sr": 156.8
-      },
-      "b_f": [
-        18,
-        34,
-        32
-      ],
-      "w_f": [
-        0,
-        2,
         1
       ]
     },

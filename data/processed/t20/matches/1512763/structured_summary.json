@@ -1,0 +1,375 @@
+{
+    "match_context": {
+        "match_id": "1512763",
+        "date": "2026-02-24",
+        "tournament": "2025/26",
+        "venue": "Pallekele International Cricket Stadium",
+        "stage": "ICC Men's T20 World Cup",
+        "Teams": {
+            "Pakistan": {
+                "captain": "Babar Azam",
+                "playing_xi_count": 11
+            },
+            "England": {
+                "captain": "JC Buttler",
+                "playing_xi_count": 11
+            }
+        }
+    },
+    "Match_Result": {
+        "summary": "England won by 2 wickets",
+        "winner": "England",
+        "margin": 2,
+        "margin_type": "wickets"
+    },
+    "Scorecard_Highlights": {
+        "Key_Support_Performers": [
+            {
+                "player": "Babar Azam",
+                "team": "Pakistan",
+                "runs": 25,
+                "balls": 25,
+                "sr": 100.0,
+                "fours": 2,
+                "sixes": 0,
+                "win_contribution_percent": 15.2,
+                "score": 43.79
+            },
+            {
+                "player": "WG Jacks",
+                "team": "England",
+                "runs": 28,
+                "balls": 25,
+                "sr": 112.0,
+                "fours": 1,
+                "sixes": 2,
+                "win_contribution_percent": 16.9,
+                "score": 49.04
+            },
+            {
+                "player": "SM Curran",
+                "team": "England",
+                "runs": 16,
+                "balls": 15,
+                "sr": 106.67,
+                "fours": 1,
+                "sixes": 0,
+                "win_contribution_percent": 9.6,
+                "score": 36.04
+            }
+        ],
+        "Career_vs_Match_Bowling": [],
+        "Bowling_Standouts": {
+            "Economical_Spells": [],
+            "Expensive_Spells": [],
+            "High_Economy_No_Baseline": [
+                {
+                    "player": "WG Jacks",
+                    "team": "England",
+                    "overs": 2.0,
+                    "runs": 27,
+                    "wickets": 0,
+                    "econ": 13.5,
+                    "score": 12.12,
+                    "bowling_baseline": {
+                        "career_wickets": 0,
+                        "career_economy": 0.0,
+                        "career_sr": 0.0,
+                        "career_avg": 0.0,
+                        "best_bowling": "N/A",
+                        "matches": 0,
+                        "source": "none",
+                        "baseline_available": false
+                    }
+                },
+                {
+                    "player": "Saim Ayub",
+                    "team": "Pakistan",
+                    "overs": 2.0,
+                    "runs": 21,
+                    "wickets": 0,
+                    "econ": 10.5,
+                    "score": 15.58,
+                    "bowling_baseline": {
+                        "career_wickets": 0,
+                        "career_economy": 0.0,
+                        "career_sr": 0.0,
+                        "career_avg": 0.0,
+                        "best_bowling": "N/A",
+                        "matches": 0,
+                        "source": "none",
+                        "baseline_available": false
+                    }
+                }
+            ]
+        },
+        "Significant_Collapses": []
+    },
+    "Innings_Metrics": [
+        {
+            "innings": 1,
+            "team": "Pakistan",
+            "total_runs": 164,
+            "total_wickets": 9,
+            "balls_faced": 120,
+            "overs_faced": 20.0,
+            "phase_analysis": {
+                "Powerplay": {
+                    "runs": 46,
+                    "wkts": 2,
+                    "rr": 7.67
+                },
+                "Middle": {
+                    "runs": 66,
+                    "wkts": 1,
+                    "rr": 7.33
+                },
+                "Death": {
+                    "runs": 52,
+                    "wkts": 6,
+                    "rr": 10.4
+                }
+            }
+        },
+        {
+            "innings": 2,
+            "team": "England",
+            "total_runs": 166,
+            "total_wickets": 8,
+            "balls_faced": 115,
+            "overs_faced": 19.1,
+            "phase_analysis": {
+                "Powerplay": {
+                    "runs": 53,
+                    "wkts": 3,
+                    "rr": 8.83
+                },
+                "Middle": {
+                    "runs": 71,
+                    "wkts": 2,
+                    "rr": 7.89
+                },
+                "Death": {
+                    "runs": 42,
+                    "wkts": 3,
+                    "rr": 10.08
+                }
+            },
+            "pressure_index": 84.0,
+            "target": 165
+        }
+    ],
+    "Detailed_Impact_Analysis": [
+        {
+            "player": "Shaheen Shah Afridi",
+            "team": "Pakistan",
+            "overs": 4.0,
+            "runs": 31,
+            "wickets": 4,
+            "econ": 7.75,
+            "score": 141.11,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-31r-4w"
+        },
+        {
+            "player": "HC Brook",
+            "team": "England",
+            "runs": 100,
+            "balls": 52,
+            "sr": 192.31,
+            "fours": 10,
+            "sixes": 4,
+            "win_contribution_percent": 60.2,
+            "score": 136.13,
+            "role": "batting",
+            "match_stats": "100(52)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "LA Dawson",
+            "team": "England",
+            "overs": 4.0,
+            "runs": 24,
+            "wickets": 3,
+            "econ": 6.0,
+            "score": 117.27,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-24r-3w"
+        },
+        {
+            "player": "Sahibzada Farhan",
+            "team": "Pakistan",
+            "runs": 63,
+            "balls": 45,
+            "sr": 140.0,
+            "fours": 7,
+            "sixes": 2,
+            "win_contribution_percent": 38.4,
+            "score": 89.3,
+            "role": "batting",
+            "match_stats": "63(45)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "Usman Tariq",
+            "team": "Pakistan",
+            "overs": 4.0,
+            "runs": 31,
+            "wickets": 2,
+            "econ": 7.75,
+            "score": 81.11,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-31r-2w"
+        },
+        {
+            "player": "JC Archer",
+            "team": "England",
+            "overs": 4.0,
+            "runs": 32,
+            "wickets": 2,
+            "econ": 8.0,
+            "score": 80.45,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-32r-2w"
+        },
+        {
+            "player": "J Overton",
+            "team": "England",
+            "overs": 3.0,
+            "runs": 26,
+            "wickets": 2,
+            "econ": 8.67,
+            "score": 78.87,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "3.0o-26r-2w"
+        },
+        {
+            "player": "Mohammad Nawaz",
+            "team": "Pakistan",
+            "overs": 3.0,
+            "runs": 26,
+            "wickets": 2,
+            "econ": 8.67,
+            "score": 78.87,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "3.0o-26r-2w"
+        },
+        {
+            "player": "Shadab Khan",
+            "team": "Pakistan",
+            "runs": 23,
+            "balls": 12,
+            "sr": 191.67,
+            "fours": 4,
+            "sixes": 0,
+            "win_contribution_percent": 14.0,
+            "score": 59.01,
+            "role": "batting",
+            "match_stats": "23(12)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "Fakhar Zaman",
+            "team": "Pakistan",
+            "runs": 25,
+            "balls": 16,
+            "sr": 156.25,
+            "fours": 2,
+            "sixes": 2,
+            "win_contribution_percent": 15.2,
+            "score": 54.36,
+            "role": "batting",
+            "match_stats": "25(16)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        }
+    ],
+    "Tactical_Post_Match_Analysis": [
+        "England's victory was anchored by HC Brook, who contributed 60.2% of the team's runs.",
+        "Defensive pressure was sustained by LA Dawson, finishing with an impact score of 117.27.",
+        "England lost 3 wickets in Powerplay, failing to build a stable foundation."
+    ]
+}

@@ -1,0 +1,1052 @@
+{
+    "match_id": "1512727",
+    "metadata": {
+        "tournament": "2025/26",
+        "venue": "Narendra Modi Stadium, Ahmedabad",
+        "date": "2026-02-09",
+        "stage": "ICC Men's T20 World Cup",
+        "winner": "South Africa",
+        "loser": "Canada",
+        "win_classification": "Moderate",
+        "margin_runs": 57,
+        "margin_wickets": null,
+        "competitiveness_index": 85.0,
+        "teams": {
+            "South Africa": {
+                "captain": "AK Markram",
+                "playing_xi_count": 11
+            },
+            "Canada": {
+                "captain": "Saad Bin Zafar",
+                "playing_xi_count": 11
+            }
+        },
+        "team_summary": {
+            "South Africa": {
+                "run_rate": 10.65,
+                "fours": 19,
+                "sixes": 7,
+                "boundary_runs": 118,
+                "dot_balls": 32,
+                "total_runs": 213,
+                "total_wickets": 4
+            },
+            "Canada": {
+                "run_rate": 7.8,
+                "fours": 17,
+                "sixes": 3,
+                "boundary_runs": 86,
+                "dot_balls": 49,
+                "total_runs": 156,
+                "total_wickets": 8
+            }
+        },
+        "formulas": {
+            "competitiveness": "Base(Margin) + Pressure_Bonus(L5 Overs)",
+            "pressure": "((RR_Gap / Start_RR) * 40) + ((Wickets / 10) * 60)",
+            "batting_impact": "Runs + (SR/Match_SR * 25)",
+            "bowling_impact": "(Wickets * 30) + (Match_RR/Econ * 20)"
+        }
+    },
+    "scorecards": {
+        "batting": [
+            {
+                "player": "AK Markram",
+                "team": "South Africa",
+                "runs": 59,
+                "balls": 36,
+                "sr": 163.89,
+                "fours": 10,
+                "sixes": 1,
+                "win_contribution_percent": 27.7,
+                "score": 90.64
+            },
+            {
+                "player": "DA Miller",
+                "team": "South Africa",
+                "runs": 39,
+                "balls": 24,
+                "sr": 162.5,
+                "fours": 1,
+                "sixes": 3,
+                "win_contribution_percent": 18.3,
+                "score": 70.37
+            },
+            {
+                "player": "T Stubbs",
+                "team": "South Africa",
+                "runs": 34,
+                "balls": 19,
+                "sr": 178.95,
+                "fours": 2,
+                "sixes": 2,
+                "win_contribution_percent": 16.0,
+                "score": 68.55
+            },
+            {
+                "player": "RD Rickelton",
+                "team": "South Africa",
+                "runs": 33,
+                "balls": 22,
+                "sr": 150.0,
+                "fours": 3,
+                "sixes": 1,
+                "win_contribution_percent": 15.5,
+                "score": 61.96
+            },
+            {
+                "player": "Q de Kock",
+                "team": "South Africa",
+                "runs": 25,
+                "balls": 24,
+                "sr": 104.17,
+                "fours": 2,
+                "sixes": 0,
+                "win_contribution_percent": 11.7,
+                "score": 45.11
+            },
+            {
+                "player": "D Brevis",
+                "team": "South Africa",
+                "runs": 6,
+                "balls": 7,
+                "sr": 85.71,
+                "fours": 1,
+                "sixes": 0,
+                "win_contribution_percent": 2.8,
+                "score": 22.55
+            },
+            {
+                "player": "NS Dhaliwal",
+                "team": "Canada",
+                "runs": 64,
+                "balls": 52,
+                "sr": 123.08,
+                "fours": 7,
+                "sixes": 1,
+                "win_contribution_percent": 41.0,
+                "score": 87.76
+            },
+            {
+                "player": "H Thaker",
+                "team": "Canada",
+                "runs": 33,
+                "balls": 30,
+                "sr": 110.0,
+                "fours": 2,
+                "sixes": 2,
+                "win_contribution_percent": 21.2,
+                "score": 54.24
+            },
+            {
+                "player": "YS Samra",
+                "team": "Canada",
+                "runs": 12,
+                "balls": 9,
+                "sr": 133.33,
+                "fours": 3,
+                "sixes": 0,
+                "win_contribution_percent": 7.7,
+                "score": 37.74
+            },
+            {
+                "player": "Saad Bin Zafar",
+                "team": "Canada",
+                "runs": 11,
+                "balls": 13,
+                "sr": 84.62,
+                "fours": 1,
+                "sixes": 0,
+                "win_contribution_percent": 7.1,
+                "score": 27.34
+            },
+            {
+                "player": "S Movva",
+                "team": "Canada",
+                "runs": 9,
+                "balls": 11,
+                "sr": 81.82,
+                "fours": 2,
+                "sixes": 0,
+                "win_contribution_percent": 5.8,
+                "score": 24.8
+            },
+            {
+                "player": "Kaleem Sana",
+                "team": "Canada",
+                "runs": 5,
+                "balls": 3,
+                "sr": 166.67,
+                "fours": 1,
+                "sixes": 0,
+                "win_contribution_percent": 3.2,
+                "score": 37.18
+            },
+            {
+                "player": "D Heyliger",
+                "team": "Canada",
+                "runs": 4,
+                "balls": 6,
+                "sr": 66.67,
+                "fours": 0,
+                "sixes": 0,
+                "win_contribution_percent": 2.6,
+                "score": 16.87
+            },
+            {
+                "player": "NR Kirton",
+                "team": "Canada",
+                "runs": 4,
+                "balls": 3,
+                "sr": 133.33,
+                "fours": 1,
+                "sixes": 0,
+                "win_contribution_percent": 2.6,
+                "score": 29.74
+            },
+            {
+                "player": "DS Bajwa",
+                "team": "Canada",
+                "runs": 0,
+                "balls": 1,
+                "sr": 0.0,
+                "fours": 0,
+                "sixes": 0,
+                "win_contribution_percent": 0.0,
+                "score": 0.0
+            },
+            {
+                "player": "Jaskaran Singh",
+                "team": "Canada",
+                "runs": 0,
+                "balls": 1,
+                "sr": 0.0,
+                "fours": 0,
+                "sixes": 0,
+                "win_contribution_percent": 0.0,
+                "score": 0.0
+            }
+        ],
+        "bowling": [
+            {
+                "player": "Ansh Patel",
+                "team": "Canada",
+                "overs": 4.0,
+                "runs": 31,
+                "wickets": 3,
+                "econ": 7.75,
+                "score": 111.89,
+                "bowling_baseline": {
+                    "career_wickets": 8,
+                    "career_economy": 5.75,
+                    "career_sr": 15.0,
+                    "career_avg": 14.38,
+                    "best_bowling": "3/31",
+                    "matches": 7,
+                    "source": "t20_bowling_master",
+                    "baseline_available": true
+                }
+            },
+            {
+                "player": "DS Bajwa",
+                "team": "Canada",
+                "overs": 4.0,
+                "runs": 40,
+                "wickets": 1,
+                "econ": 10.0,
+                "score": 46.97,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "Kaleem Sana",
+                "team": "Canada",
+                "overs": 4.0,
+                "runs": 42,
+                "wickets": 0,
+                "econ": 10.5,
+                "score": 16.16,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "Jaskaran Singh",
+                "team": "Canada",
+                "overs": 4.0,
+                "runs": 49,
+                "wickets": 0,
+                "econ": 12.25,
+                "score": 13.85,
+                "bowling_baseline": {
+                    "career_wickets": 12,
+                    "career_economy": 9.01,
+                    "career_sr": 18.08,
+                    "career_avg": 27.17,
+                    "best_bowling": "3/13",
+                    "matches": 12,
+                    "source": "t20_bowling_master",
+                    "baseline_available": true
+                }
+            },
+            {
+                "player": "Saad Bin Zafar",
+                "team": "Canada",
+                "overs": 3.0,
+                "runs": 38,
+                "wickets": 0,
+                "econ": 12.67,
+                "score": 13.39,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "D Heyliger",
+                "team": "Canada",
+                "overs": 1.0,
+                "runs": 13,
+                "wickets": 0,
+                "econ": 13.0,
+                "score": 13.05,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "L Ngidi",
+                "team": "South Africa",
+                "overs": 4.0,
+                "runs": 31,
+                "wickets": 4,
+                "econ": 7.75,
+                "score": 141.89,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "M Jansen",
+                "team": "South Africa",
+                "overs": 4.0,
+                "runs": 30,
+                "wickets": 2,
+                "econ": 7.5,
+                "score": 82.62,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "C Bosch",
+                "team": "South Africa",
+                "overs": 4.0,
+                "runs": 27,
+                "wickets": 1,
+                "econ": 6.75,
+                "score": 55.13,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "K Rabada",
+                "team": "South Africa",
+                "overs": 4.0,
+                "runs": 40,
+                "wickets": 1,
+                "econ": 10.0,
+                "score": 46.97,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "KA Maharaj",
+                "team": "South Africa",
+                "overs": 4.0,
+                "runs": 28,
+                "wickets": 0,
+                "econ": 7.0,
+                "score": 24.24,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            }
+        ]
+    },
+    "innings": [
+        {
+            "innings": 1,
+            "team": "South Africa",
+            "total_runs": 213,
+            "total_wickets": 4,
+            "balls_faced": 120,
+            "overs_faced": 20.0,
+            "phase_analysis": {
+                "Powerplay": {
+                    "runs": 66,
+                    "wkts": 0,
+                    "rr": 11.0
+                },
+                "Middle": {
+                    "runs": 85,
+                    "wkts": 4,
+                    "rr": 9.44
+                },
+                "Death": {
+                    "runs": 62,
+                    "wkts": 0,
+                    "rr": 12.4
+                }
+            }
+        },
+        {
+            "innings": 2,
+            "team": "Canada",
+            "total_runs": 156,
+            "total_wickets": 8,
+            "balls_faced": 120,
+            "overs_faced": 20.0,
+            "phase_analysis": {
+                "Powerplay": {
+                    "runs": 50,
+                    "wkts": 4,
+                    "rr": 8.33
+                },
+                "Middle": {
+                    "runs": 70,
+                    "wkts": 1,
+                    "rr": 7.78
+                },
+                "Death": {
+                    "runs": 36,
+                    "wkts": 3,
+                    "rr": 7.2
+                }
+            },
+            "pressure_index": 84.0,
+            "target": 214
+        }
+    ],
+    "players": [
+        {
+            "player": "L Ngidi",
+            "team": "South Africa",
+            "overs": 4.0,
+            "runs": 31,
+            "wickets": 4,
+            "econ": 7.75,
+            "score": 141.89,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-31r-4w"
+        },
+        {
+            "player": "Ansh Patel",
+            "team": "Canada",
+            "overs": 4.0,
+            "runs": 31,
+            "wickets": 3,
+            "econ": 7.75,
+            "score": 111.89,
+            "bowling_baseline": {
+                "career_wickets": 8,
+                "career_economy": 5.75,
+                "career_sr": 15.0,
+                "career_avg": 14.38,
+                "best_bowling": "3/31",
+                "matches": 7,
+                "source": "t20_bowling_master",
+                "baseline_available": true
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-31r-3w"
+        },
+        {
+            "player": "AK Markram",
+            "team": "South Africa",
+            "runs": 59,
+            "balls": 36,
+            "sr": 163.89,
+            "fours": 10,
+            "sixes": 1,
+            "win_contribution_percent": 27.7,
+            "score": 90.64,
+            "role": "batting",
+            "match_stats": "59(36)",
+            "baseline": {
+                "avg": 31.08,
+                "sr": 143.73,
+                "matches": 68,
+                "source": "t20_master",
+                "baseline_available": true
+            }
+        },
+        {
+            "player": "NS Dhaliwal",
+            "team": "Canada",
+            "runs": 64,
+            "balls": 52,
+            "sr": 123.08,
+            "fours": 7,
+            "sixes": 1,
+            "win_contribution_percent": 41.0,
+            "score": 87.76,
+            "role": "batting",
+            "match_stats": "64(52)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "M Jansen",
+            "team": "South Africa",
+            "overs": 4.0,
+            "runs": 30,
+            "wickets": 2,
+            "econ": 7.5,
+            "score": 82.62,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-30r-2w"
+        },
+        {
+            "player": "DA Miller",
+            "team": "South Africa",
+            "runs": 39,
+            "balls": 24,
+            "sr": 162.5,
+            "fours": 1,
+            "sixes": 3,
+            "win_contribution_percent": 18.3,
+            "score": 70.37,
+            "role": "batting",
+            "match_stats": "39(24)",
+            "baseline": {
+                "avg": 34.81,
+                "sr": 136.68,
+                "matches": 119,
+                "source": "t20_master",
+                "baseline_available": true
+            }
+        },
+        {
+            "player": "T Stubbs",
+            "team": "South Africa",
+            "runs": 34,
+            "balls": 19,
+            "sr": 178.95,
+            "fours": 2,
+            "sixes": 2,
+            "win_contribution_percent": 16.0,
+            "score": 68.55,
+            "role": "batting",
+            "match_stats": "34(19)",
+            "baseline": {
+                "avg": 30.53,
+                "sr": 131.99,
+                "matches": 40,
+                "source": "t20_master",
+                "baseline_available": true
+            }
+        },
+        {
+            "player": "RD Rickelton",
+            "team": "South Africa",
+            "runs": 33,
+            "balls": 22,
+            "sr": 150.0,
+            "fours": 3,
+            "sixes": 1,
+            "win_contribution_percent": 15.5,
+            "score": 61.96,
+            "role": "batting",
+            "match_stats": "33(22)",
+            "baseline": {
+                "avg": 26.26,
+                "sr": 141.78,
+                "matches": 25,
+                "source": "t20_master",
+                "baseline_available": true
+            }
+        },
+        {
+            "player": "C Bosch",
+            "team": "South Africa",
+            "overs": 4.0,
+            "runs": 27,
+            "wickets": 1,
+            "econ": 6.75,
+            "score": 55.13,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-27r-1w"
+        },
+        {
+            "player": "H Thaker",
+            "team": "Canada",
+            "runs": 33,
+            "balls": 30,
+            "sr": 110.0,
+            "fours": 2,
+            "sixes": 2,
+            "win_contribution_percent": 21.2,
+            "score": 54.24,
+            "role": "batting",
+            "match_stats": "33(30)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "DS Bajwa",
+            "team": "Canada",
+            "overs": 4.0,
+            "runs": 40,
+            "wickets": 1,
+            "econ": 10.0,
+            "score": 46.97,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-40r-1w"
+        },
+        {
+            "player": "K Rabada",
+            "team": "South Africa",
+            "overs": 4.0,
+            "runs": 40,
+            "wickets": 1,
+            "econ": 10.0,
+            "score": 46.97,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-40r-1w"
+        },
+        {
+            "player": "Q de Kock",
+            "team": "South Africa",
+            "runs": 25,
+            "balls": 24,
+            "sr": 104.17,
+            "fours": 2,
+            "sixes": 0,
+            "win_contribution_percent": 11.7,
+            "score": 45.11,
+            "role": "batting",
+            "match_stats": "25(24)",
+            "baseline": {
+                "avg": 31.84,
+                "sr": 136.42,
+                "matches": 101,
+                "source": "t20_master",
+                "baseline_available": true
+            }
+        },
+        {
+            "player": "YS Samra",
+            "team": "Canada",
+            "runs": 12,
+            "balls": 9,
+            "sr": 133.33,
+            "fours": 3,
+            "sixes": 0,
+            "win_contribution_percent": 7.7,
+            "score": 37.74,
+            "role": "batting",
+            "match_stats": "12(9)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "Kaleem Sana",
+            "team": "Canada",
+            "runs": 5,
+            "balls": 3,
+            "sr": 166.67,
+            "fours": 1,
+            "sixes": 0,
+            "win_contribution_percent": 3.2,
+            "score": 37.18,
+            "role": "batting",
+            "match_stats": "5(3)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "NR Kirton",
+            "team": "Canada",
+            "runs": 4,
+            "balls": 3,
+            "sr": 133.33,
+            "fours": 1,
+            "sixes": 0,
+            "win_contribution_percent": 2.6,
+            "score": 29.74,
+            "role": "batting",
+            "match_stats": "4(3)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "Saad Bin Zafar",
+            "team": "Canada",
+            "runs": 11,
+            "balls": 13,
+            "sr": 84.62,
+            "fours": 1,
+            "sixes": 0,
+            "win_contribution_percent": 7.1,
+            "score": 27.34,
+            "role": "batting",
+            "match_stats": "11(13)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "S Movva",
+            "team": "Canada",
+            "runs": 9,
+            "balls": 11,
+            "sr": 81.82,
+            "fours": 2,
+            "sixes": 0,
+            "win_contribution_percent": 5.8,
+            "score": 24.8,
+            "role": "batting",
+            "match_stats": "9(11)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "KA Maharaj",
+            "team": "South Africa",
+            "overs": 4.0,
+            "runs": 28,
+            "wickets": 0,
+            "econ": 7.0,
+            "score": 24.24,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-28r-0w"
+        },
+        {
+            "player": "D Brevis",
+            "team": "South Africa",
+            "runs": 6,
+            "balls": 7,
+            "sr": 85.71,
+            "fours": 1,
+            "sixes": 0,
+            "win_contribution_percent": 2.8,
+            "score": 22.55,
+            "role": "batting",
+            "match_stats": "6(7)",
+            "baseline": {
+                "avg": 26.0,
+                "sr": 154.92,
+                "matches": 25,
+                "source": "t20_master",
+                "baseline_available": true
+            }
+        },
+        {
+            "player": "D Heyliger",
+            "team": "Canada",
+            "runs": 4,
+            "balls": 6,
+            "sr": 66.67,
+            "fours": 0,
+            "sixes": 0,
+            "win_contribution_percent": 2.6,
+            "score": 16.87,
+            "role": "batting",
+            "match_stats": "4(6)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "Kaleem Sana",
+            "team": "Canada",
+            "overs": 4.0,
+            "runs": 42,
+            "wickets": 0,
+            "econ": 10.5,
+            "score": 16.16,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-42r-0w"
+        },
+        {
+            "player": "Jaskaran Singh",
+            "team": "Canada",
+            "overs": 4.0,
+            "runs": 49,
+            "wickets": 0,
+            "econ": 12.25,
+            "score": 13.85,
+            "bowling_baseline": {
+                "career_wickets": 12,
+                "career_economy": 9.01,
+                "career_sr": 18.08,
+                "career_avg": 27.17,
+                "best_bowling": "3/13",
+                "matches": 12,
+                "source": "t20_bowling_master",
+                "baseline_available": true
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-49r-0w"
+        },
+        {
+            "player": "Saad Bin Zafar",
+            "team": "Canada",
+            "overs": 3.0,
+            "runs": 38,
+            "wickets": 0,
+            "econ": 12.67,
+            "score": 13.39,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "3.0o-38r-0w"
+        },
+        {
+            "player": "D Heyliger",
+            "team": "Canada",
+            "overs": 1.0,
+            "runs": 13,
+            "wickets": 0,
+            "econ": 13.0,
+            "score": 13.05,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "1.0o-13r-0w"
+        },
+        {
+            "player": "DS Bajwa",
+            "team": "Canada",
+            "runs": 0,
+            "balls": 1,
+            "sr": 0.0,
+            "fours": 0,
+            "sixes": 0,
+            "win_contribution_percent": 0.0,
+            "score": 0.0,
+            "role": "batting",
+            "match_stats": "0(1)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "Jaskaran Singh",
+            "team": "Canada",
+            "runs": 0,
+            "balls": 1,
+            "sr": 0.0,
+            "fours": 0,
+            "sixes": 0,
+            "win_contribution_percent": 0.0,
+            "score": 0.0,
+            "role": "batting",
+            "match_stats": "0(1)",
+            "baseline": {
+                "avg": 22.6,
+                "sr": 168.66,
+                "matches": 9,
+                "source": "t20_master",
+                "baseline_available": true
+            }
+        }
+    ],
+    "validation": {
+        "logical_stability": true
+    }
+}

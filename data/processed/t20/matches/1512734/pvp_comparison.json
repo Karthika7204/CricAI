@@ -1,0 +1,1498 @@
+{
+  "match_id": "1512734",
+  "team_a": "Sri Lanka",
+  "team_b": "Oman",
+  "matchups": [
+    {
+      "bat": "MD Shanaka",
+      "bat_t": "Sri Lanka",
+      "bowl": "J Ramanandi",
+      "bowl_t": "Oman",
+      "v": "batsman",
+      "h2h": {
+        "balls": 8,
+        "runs": 15,
+        "dismissals": 1,
+        "strike_rate": 187.5
+      },
+      "vs_t": {
+        "runs": 50,
+        "balls": 20,
+        "dismissals": 1,
+        "average": 50.0,
+        "strike_rate": 250.0
+      },
+      "b_f": [
+        3,
+        30,
+        6
+      ],
+      "w_f": [
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "bat": "P Rathnayake",
+      "bat_t": "Sri Lanka",
+      "bowl": "J Ramanandi",
+      "bowl_t": "Oman",
+      "v": "batsman",
+      "h2h": {
+        "balls": 5,
+        "runs": 10,
+        "dismissals": 1,
+        "strike_rate": 200.0
+      },
+      "vs_t": {
+        "runs": 60,
+        "balls": 28,
+        "dismissals": 1,
+        "average": 60.0,
+        "strike_rate": 214.29
+      },
+      "b_f": [
+        10,
+        0,
+        44
+      ],
+      "w_f": [
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "bat": "K Mishara",
+      "bat_t": "Sri Lanka",
+      "bowl": "Jay Odedra",
+      "bowl_t": "Oman",
+      "v": "neutral",
+      "h2h": {
+        "balls": 3,
+        "runs": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 8,
+        "balls": 8,
+        "dismissals": 1,
+        "average": 8.0,
+        "strike_rate": 100.0
+      },
+      "b_f": [
+        6,
+        8,
+        14
+      ],
+      "w_f": [
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "Wasim Ali",
+      "bat_t": "Oman",
+      "bowl": "M Theekshana",
+      "bowl_t": "Sri Lanka",
+      "v": "neutral",
+      "h2h": {
+        "balls": 3,
+        "runs": 1,
+        "dismissals": 1,
+        "strike_rate": 33.33
+      },
+      "vs_t": {
+        "runs": 27,
+        "balls": 20,
+        "dismissals": 1,
+        "average": 27.0,
+        "strike_rate": 135.0
+      },
+      "b_f": [
+        32,
+        27,
+        3
+      ],
+      "w_f": [
+        3,
+        2,
+        0
+      ]
+    },
+    {
+      "bat": "Hammad Mirza",
+      "bat_t": "Oman",
+      "bowl": "PVD Chameera",
+      "bowl_t": "Sri Lanka",
+      "v": "neutral",
+      "h2h": {
+        "balls": 2,
+        "runs": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 9,
+        "balls": 12,
+        "dismissals": 1,
+        "average": 9.0,
+        "strike_rate": 75.0
+      },
+      "b_f": [
+        16,
+        46,
+        9
+      ],
+      "w_f": [
+        3,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "Jatinder Singh",
+      "bat_t": "Oman",
+      "bowl": "PVD Chameera",
+      "bowl_t": "Sri Lanka",
+      "v": "neutral",
+      "h2h": {
+        "balls": 2,
+        "runs": 1,
+        "dismissals": 1,
+        "strike_rate": 50.0
+      },
+      "vs_t": {
+        "runs": 1,
+        "balls": 2,
+        "dismissals": 1,
+        "average": 1.0,
+        "strike_rate": 50.0
+      },
+      "b_f": [
+        17,
+        7,
+        1
+      ],
+      "w_f": [
+        3,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "P Nissanka",
+      "bat_t": "Sri Lanka",
+      "bowl": "Sufyan Mehmood",
+      "bowl_t": "Oman",
+      "v": "neutral",
+      "h2h": {
+        "balls": 1,
+        "runs": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 13,
+        "balls": 11,
+        "dismissals": 1,
+        "average": 13.0,
+        "strike_rate": 118.18
+      },
+      "b_f": [
+        0,
+        9,
+        62
+      ],
+      "w_f": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "J Ramanandi",
+      "bat_t": "Oman",
+      "bowl": "MADI Hemantha",
+      "bowl_t": "Sri Lanka",
+      "v": "neutral",
+      "h2h": {
+        "balls": 1,
+        "runs": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 0,
+        "balls": 1,
+        "dismissals": 1,
+        "average": 0.0,
+        "strike_rate": 0.0
+      },
+      "b_f": [
+        1,
+        3,
+        0
+      ],
+      "w_f": [
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "bat": "Shah Faisal",
+      "bat_t": "Oman",
+      "bowl": "DN Wellalage",
+      "bowl_t": "Sri Lanka",
+      "v": "neutral",
+      "h2h": {
+        "balls": 1,
+        "runs": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 1,
+        "balls": 8,
+        "dismissals": 1,
+        "average": 1.0,
+        "strike_rate": 12.5
+      },
+      "b_f": [
+        9,
+        1,
+        5
+      ],
+      "w_f": [
+        1,
+        3,
+        1
+      ]
+    },
+    {
+      "bat": "Nadeem Khan",
+      "bat_t": "Oman",
+      "bowl": "PHKD Mendis",
+      "bowl_t": "Sri Lanka",
+      "v": "neutral",
+      "h2h": {
+        "balls": 1,
+        "runs": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 2,
+        "balls": 3,
+        "dismissals": 1,
+        "average": 2.0,
+        "strike_rate": 66.67
+      },
+      "b_f": [
+        0,
+        2,
+        20
+      ],
+      "w_f": [
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "Aamir Kaleem",
+      "bat_t": "Oman",
+      "bowl": "M Theekshana",
+      "bowl_t": "Sri Lanka",
+      "v": "neutral",
+      "h2h": {
+        "balls": 1,
+        "runs": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 6,
+        "balls": 6,
+        "dismissals": 1,
+        "average": 6.0,
+        "strike_rate": 100.0
+      },
+      "b_f": [
+        0,
+        50,
+        6
+      ],
+      "w_f": [
+        3,
+        2,
+        0
+      ]
+    },
+    {
+      "bat": "Mohammad Nadeem",
+      "bat_t": "Oman",
+      "bowl": "M Pathirana",
+      "bowl_t": "Sri Lanka",
+      "v": "neutral",
+      "h2h": {
+        "balls": 13,
+        "runs": 6,
+        "dismissals": 0,
+        "strike_rate": 46.15
+      },
+      "vs_t": {
+        "runs": 53,
+        "balls": 60,
+        "dismissals": 0,
+        "average": 53.0,
+        "strike_rate": 88.33
+      },
+      "b_f": [
+        2,
+        1,
+        53
+      ],
+      "w_f": [
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "bat": "Mohammad Nadeem",
+      "bat_t": "Oman",
+      "bowl": "MADI Hemantha",
+      "bowl_t": "Sri Lanka",
+      "v": "batsman",
+      "h2h": {
+        "balls": 12,
+        "runs": 16,
+        "dismissals": 0,
+        "strike_rate": 133.33
+      },
+      "vs_t": {
+        "runs": 53,
+        "balls": 60,
+        "dismissals": 0,
+        "average": 53.0,
+        "strike_rate": 88.33
+      },
+      "b_f": [
+        2,
+        1,
+        53
+      ],
+      "w_f": [
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "bat": "BKG Mendis",
+      "bat_t": "Sri Lanka",
+      "bowl": "Nadeem Khan",
+      "bowl_t": "Oman",
+      "v": "batsman",
+      "h2h": {
+        "balls": 11,
+        "runs": 14,
+        "dismissals": 0,
+        "strike_rate": 127.27
+      },
+      "vs_t": {
+        "runs": 61,
+        "balls": 45,
+        "dismissals": 0,
+        "average": 61.0,
+        "strike_rate": 135.56
+      },
+      "b_f": [
+        11,
+        4,
+        14
+      ],
+      "w_f": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "P Rathnayake",
+      "bat_t": "Sri Lanka",
+      "bowl": "Sufyan Mehmood",
+      "bowl_t": "Oman",
+      "v": "batsman",
+      "h2h": {
+        "balls": 11,
+        "runs": 31,
+        "dismissals": 0,
+        "strike_rate": 281.82
+      },
+      "vs_t": {
+        "runs": 60,
+        "balls": 28,
+        "dismissals": 1,
+        "average": 60.0,
+        "strike_rate": 214.29
+      },
+      "b_f": [
+        10,
+        0,
+        44
+      ],
+      "w_f": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "Mohammad Nadeem",
+      "bat_t": "Oman",
+      "bowl": "DN Wellalage",
+      "bowl_t": "Sri Lanka",
+      "v": "neutral",
+      "h2h": {
+        "balls": 11,
+        "runs": 7,
+        "dismissals": 0,
+        "strike_rate": 63.64
+      },
+      "vs_t": {
+        "runs": 53,
+        "balls": 60,
+        "dismissals": 0,
+        "average": 53.0,
+        "strike_rate": 88.33
+      },
+      "b_f": [
+        2,
+        1,
+        53
+      ],
+      "w_f": [
+        1,
+        3,
+        1
+      ]
+    },
+    {
+      "bat": "Mohammad Nadeem",
+      "bat_t": "Oman",
+      "bowl": "M Theekshana",
+      "bowl_t": "Sri Lanka",
+      "v": "neutral",
+      "h2h": {
+        "balls": 10,
+        "runs": 6,
+        "dismissals": 0,
+        "strike_rate": 60.0
+      },
+      "vs_t": {
+        "runs": 53,
+        "balls": 60,
+        "dismissals": 0,
+        "average": 53.0,
+        "strike_rate": 88.33
+      },
+      "b_f": [
+        2,
+        1,
+        53
+      ],
+      "w_f": [
+        3,
+        2,
+        0
+      ]
+    },
+    {
+      "bat": "BKG Mendis",
+      "bat_t": "Sri Lanka",
+      "bowl": "Wasim Ali",
+      "bowl_t": "Oman",
+      "v": "batsman",
+      "h2h": {
+        "balls": 9,
+        "runs": 17,
+        "dismissals": 0,
+        "strike_rate": 188.89
+      },
+      "vs_t": {
+        "runs": 61,
+        "balls": 45,
+        "dismissals": 0,
+        "average": 61.0,
+        "strike_rate": 135.56
+      },
+      "b_f": [
+        11,
+        4,
+        14
+      ],
+      "w_f": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "BKG Mendis",
+      "bat_t": "Sri Lanka",
+      "bowl": "Shah Faisal",
+      "bowl_t": "Oman",
+      "v": "batsman",
+      "h2h": {
+        "balls": 9,
+        "runs": 0,
+        "dismissals": 0,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 61,
+        "balls": 45,
+        "dismissals": 0,
+        "average": 61.0,
+        "strike_rate": 135.56
+      },
+      "b_f": [
+        11,
+        4,
+        14
+      ],
+      "w_f": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "Mohammad Nadeem",
+      "bat_t": "Oman",
+      "bowl": "PHKD Mendis",
+      "bowl_t": "Sri Lanka",
+      "v": "neutral",
+      "h2h": {
+        "balls": 9,
+        "runs": 6,
+        "dismissals": 0,
+        "strike_rate": 66.67
+      },
+      "vs_t": {
+        "runs": 53,
+        "balls": 60,
+        "dismissals": 0,
+        "average": 53.0,
+        "strike_rate": 88.33
+      },
+      "b_f": [
+        2,
+        1,
+        53
+      ],
+      "w_f": [
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "BKG Mendis",
+      "bat_t": "Sri Lanka",
+      "bowl": "Sufyan Mehmood",
+      "bowl_t": "Oman",
+      "v": "batsman",
+      "h2h": {
+        "balls": 8,
+        "runs": 15,
+        "dismissals": 0,
+        "strike_rate": 187.5
+      },
+      "vs_t": {
+        "runs": 61,
+        "balls": 45,
+        "dismissals": 0,
+        "average": 61.0,
+        "strike_rate": 135.56
+      },
+      "b_f": [
+        11,
+        4,
+        14
+      ],
+      "w_f": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "MD Shanaka",
+      "bat_t": "Sri Lanka",
+      "bowl": "Nadeem Khan",
+      "bowl_t": "Oman",
+      "v": "batsman",
+      "h2h": {
+        "balls": 8,
+        "runs": 21,
+        "dismissals": 0,
+        "strike_rate": 262.5
+      },
+      "vs_t": {
+        "runs": 50,
+        "balls": 20,
+        "dismissals": 1,
+        "average": 50.0,
+        "strike_rate": 250.0
+      },
+      "b_f": [
+        3,
+        30,
+        6
+      ],
+      "w_f": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "Wasim Ali",
+      "bat_t": "Oman",
+      "bowl": "MADI Hemantha",
+      "bowl_t": "Sri Lanka",
+      "v": "batsman",
+      "h2h": {
+        "balls": 8,
+        "runs": 21,
+        "dismissals": 0,
+        "strike_rate": 262.5
+      },
+      "vs_t": {
+        "runs": 27,
+        "balls": 20,
+        "dismissals": 1,
+        "average": 27.0,
+        "strike_rate": 135.0
+      },
+      "b_f": [
+        32,
+        27,
+        3
+      ],
+      "w_f": [
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "bat": "P Rathnayake",
+      "bat_t": "Sri Lanka",
+      "bowl": "Wasim Ali",
+      "bowl_t": "Oman",
+      "v": "batsman",
+      "h2h": {
+        "balls": 7,
+        "runs": 14,
+        "dismissals": 0,
+        "strike_rate": 200.0
+      },
+      "vs_t": {
+        "runs": 60,
+        "balls": 28,
+        "dismissals": 1,
+        "average": 60.0,
+        "strike_rate": 214.29
+      },
+      "b_f": [
+        10,
+        0,
+        44
+      ],
+      "w_f": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "BKG Mendis",
+      "bat_t": "Sri Lanka",
+      "bowl": "J Ramanandi",
+      "bowl_t": "Oman",
+      "v": "batsman",
+      "h2h": {
+        "balls": 6,
+        "runs": 7,
+        "dismissals": 0,
+        "strike_rate": 116.67
+      },
+      "vs_t": {
+        "runs": 61,
+        "balls": 45,
+        "dismissals": 0,
+        "average": 61.0,
+        "strike_rate": 135.56
+      },
+      "b_f": [
+        11,
+        4,
+        14
+      ],
+      "w_f": [
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "bat": "Jay Odedra",
+      "bat_t": "Oman",
+      "bowl": "DN Wellalage",
+      "bowl_t": "Sri Lanka",
+      "v": "neutral",
+      "h2h": {
+        "balls": 6,
+        "runs": 1,
+        "dismissals": 0,
+        "strike_rate": 16.67
+      },
+      "vs_t": {
+        "runs": 4,
+        "balls": 12,
+        "dismissals": 0,
+        "average": 4.0,
+        "strike_rate": 33.33
+      },
+      "b_f": [
+        4,
+        4
+      ],
+      "w_f": [
+        1,
+        3,
+        1
+      ]
+    },
+    {
+      "bat": "PHKD Mendis",
+      "bat_t": "Sri Lanka",
+      "bowl": "J Ramanandi",
+      "bowl_t": "Oman",
+      "v": "neutral",
+      "h2h": {
+        "balls": 5,
+        "runs": 7,
+        "dismissals": 0,
+        "strike_rate": 140.0
+      },
+      "vs_t": {
+        "runs": 19,
+        "balls": 8,
+        "dismissals": 0,
+        "average": 19.0,
+        "strike_rate": 237.5
+      },
+      "b_f": [
+        31,
+        13,
+        7
+      ],
+      "w_f": [
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "bat": "P Rathnayake",
+      "bat_t": "Sri Lanka",
+      "bowl": "Nadeem Khan",
+      "bowl_t": "Oman",
+      "v": "batsman",
+      "h2h": {
+        "balls": 5,
+        "runs": 5,
+        "dismissals": 0,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 60,
+        "balls": 28,
+        "dismissals": 1,
+        "average": 60.0,
+        "strike_rate": 214.29
+      },
+      "b_f": [
+        10,
+        0,
+        44
+      ],
+      "w_f": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "K Mishara",
+      "bat_t": "Sri Lanka",
+      "bowl": "Shah Faisal",
+      "bowl_t": "Oman",
+      "v": "neutral",
+      "h2h": {
+        "balls": 5,
+        "runs": 8,
+        "dismissals": 0,
+        "strike_rate": 160.0
+      },
+      "vs_t": {
+        "runs": 8,
+        "balls": 8,
+        "dismissals": 1,
+        "average": 8.0,
+        "strike_rate": 100.0
+      },
+      "b_f": [
+        6,
+        8,
+        14
+      ],
+      "w_f": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "Shah Faisal",
+      "bat_t": "Oman",
+      "bowl": "M Theekshana",
+      "bowl_t": "Sri Lanka",
+      "v": "neutral",
+      "h2h": {
+        "balls": 5,
+        "runs": 0,
+        "dismissals": 0,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 1,
+        "balls": 8,
+        "dismissals": 1,
+        "average": 1.0,
+        "strike_rate": 12.5
+      },
+      "b_f": [
+        9,
+        1,
+        5
+      ],
+      "w_f": [
+        3,
+        2,
+        0
+      ]
+    },
+    {
+      "bat": "Aamir Kaleem",
+      "bat_t": "Oman",
+      "bowl": "PVD Chameera",
+      "bowl_t": "Sri Lanka",
+      "v": "neutral",
+      "h2h": {
+        "balls": 5,
+        "runs": 6,
+        "dismissals": 0,
+        "strike_rate": 120.0
+      },
+      "vs_t": {
+        "runs": 6,
+        "balls": 6,
+        "dismissals": 1,
+        "average": 6.0,
+        "strike_rate": 100.0
+      },
+      "b_f": [
+        0,
+        50,
+        6
+      ],
+      "w_f": [
+        3,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "MD Shanaka",
+      "bat_t": "Sri Lanka",
+      "bowl": "Sufyan Mehmood",
+      "bowl_t": "Oman",
+      "v": "batsman",
+      "h2h": {
+        "balls": 4,
+        "runs": 14,
+        "dismissals": 0,
+        "strike_rate": 350.0
+      },
+      "vs_t": {
+        "runs": 50,
+        "balls": 20,
+        "dismissals": 1,
+        "average": 50.0,
+        "strike_rate": 250.0
+      },
+      "b_f": [
+        3,
+        30,
+        6
+      ],
+      "w_f": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "P Nissanka",
+      "bat_t": "Sri Lanka",
+      "bowl": "Wasim Ali",
+      "bowl_t": "Oman",
+      "v": "neutral",
+      "h2h": {
+        "balls": 4,
+        "runs": 5,
+        "dismissals": 0,
+        "strike_rate": 125.0
+      },
+      "vs_t": {
+        "runs": 13,
+        "balls": 11,
+        "dismissals": 1,
+        "average": 13.0,
+        "strike_rate": 118.18
+      },
+      "b_f": [
+        0,
+        9,
+        62
+      ],
+      "w_f": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "P Nissanka",
+      "bat_t": "Sri Lanka",
+      "bowl": "Shah Faisal",
+      "bowl_t": "Oman",
+      "v": "neutral",
+      "h2h": {
+        "balls": 4,
+        "runs": 3,
+        "dismissals": 0,
+        "strike_rate": 75.0
+      },
+      "vs_t": {
+        "runs": 13,
+        "balls": 11,
+        "dismissals": 1,
+        "average": 13.0,
+        "strike_rate": 118.18
+      },
+      "b_f": [
+        0,
+        9,
+        62
+      ],
+      "w_f": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "Wasim Ali",
+      "bat_t": "Oman",
+      "bowl": "MD Shanaka",
+      "bowl_t": "Sri Lanka",
+      "v": "neutral",
+      "h2h": {
+        "balls": 4,
+        "runs": 1,
+        "dismissals": 0,
+        "strike_rate": 25.0
+      },
+      "vs_t": {
+        "runs": 27,
+        "balls": 20,
+        "dismissals": 1,
+        "average": 27.0,
+        "strike_rate": 135.0
+      },
+      "b_f": [
+        32,
+        27,
+        3
+      ],
+      "w_f": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "Hammad Mirza",
+      "bat_t": "Oman",
+      "bowl": "M Theekshana",
+      "bowl_t": "Sri Lanka",
+      "v": "neutral",
+      "h2h": {
+        "balls": 4,
+        "runs": 3,
+        "dismissals": 0,
+        "strike_rate": 75.0
+      },
+      "vs_t": {
+        "runs": 9,
+        "balls": 12,
+        "dismissals": 1,
+        "average": 9.0,
+        "strike_rate": 75.0
+      },
+      "b_f": [
+        16,
+        46,
+        9
+      ],
+      "w_f": [
+        3,
+        2,
+        0
+      ]
+    },
+    {
+      "bat": "PHKD Mendis",
+      "bat_t": "Sri Lanka",
+      "bowl": "Shah Faisal",
+      "bowl_t": "Oman",
+      "v": "neutral",
+      "h2h": {
+        "balls": 3,
+        "runs": 12,
+        "dismissals": 0,
+        "strike_rate": 400.0
+      },
+      "vs_t": {
+        "runs": 19,
+        "balls": 8,
+        "dismissals": 0,
+        "average": 19.0,
+        "strike_rate": 237.5
+      },
+      "b_f": [
+        31,
+        13,
+        7
+      ],
+      "w_f": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "DN Wellalage",
+      "bat_t": "Sri Lanka",
+      "bowl": "Shah Faisal",
+      "bowl_t": "Oman",
+      "v": "neutral",
+      "h2h": {
+        "balls": 3,
+        "runs": 5,
+        "dismissals": 0,
+        "strike_rate": 166.67
+      },
+      "vs_t": {
+        "runs": 6,
+        "balls": 4,
+        "dismissals": 0,
+        "average": 6.0,
+        "strike_rate": 150.0
+      },
+      "b_f": [
+        29,
+        10,
+        15
+      ],
+      "w_f": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "Wasim Ali",
+      "bat_t": "Oman",
+      "bowl": "DN Wellalage",
+      "bowl_t": "Sri Lanka",
+      "v": "neutral",
+      "h2h": {
+        "balls": 3,
+        "runs": 3,
+        "dismissals": 0,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 27,
+        "balls": 20,
+        "dismissals": 1,
+        "average": 27.0,
+        "strike_rate": 135.0
+      },
+      "b_f": [
+        32,
+        27,
+        3
+      ],
+      "w_f": [
+        1,
+        3,
+        1
+      ]
+    },
+    {
+      "bat": "Jay Odedra",
+      "bat_t": "Oman",
+      "bowl": "PHKD Mendis",
+      "bowl_t": "Sri Lanka",
+      "v": "neutral",
+      "h2h": {
+        "balls": 3,
+        "runs": 1,
+        "dismissals": 0,
+        "strike_rate": 33.33
+      },
+      "vs_t": {
+        "runs": 4,
+        "balls": 12,
+        "dismissals": 0,
+        "average": 4.0,
+        "strike_rate": 33.33
+      },
+      "b_f": [
+        4,
+        4
+      ],
+      "w_f": [
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "Jay Odedra",
+      "bat_t": "Oman",
+      "bowl": "M Pathirana",
+      "bowl_t": "Sri Lanka",
+      "v": "neutral",
+      "h2h": {
+        "balls": 3,
+        "runs": 2,
+        "dismissals": 0,
+        "strike_rate": 66.67
+      },
+      "vs_t": {
+        "runs": 4,
+        "balls": 12,
+        "dismissals": 0,
+        "average": 4.0,
+        "strike_rate": 33.33
+      },
+      "b_f": [
+        4,
+        4
+      ],
+      "w_f": [
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "bat": "Hammad Mirza",
+      "bat_t": "Oman",
+      "bowl": "DN Wellalage",
+      "bowl_t": "Sri Lanka",
+      "v": "neutral",
+      "h2h": {
+        "balls": 3,
+        "runs": 6,
+        "dismissals": 0,
+        "strike_rate": 200.0
+      },
+      "vs_t": {
+        "runs": 9,
+        "balls": 12,
+        "dismissals": 1,
+        "average": 9.0,
+        "strike_rate": 75.0
+      },
+      "b_f": [
+        16,
+        46,
+        9
+      ],
+      "w_f": [
+        1,
+        3,
+        1
+      ]
+    },
+    {
+      "bat": "Hammad Mirza",
+      "bat_t": "Oman",
+      "bowl": "M Pathirana",
+      "bowl_t": "Sri Lanka",
+      "v": "neutral",
+      "h2h": {
+        "balls": 3,
+        "runs": 0,
+        "dismissals": 0,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 9,
+        "balls": 12,
+        "dismissals": 1,
+        "average": 9.0,
+        "strike_rate": 75.0
+      },
+      "b_f": [
+        16,
+        46,
+        9
+      ],
+      "w_f": [
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "bat": "Mohammad Nadeem",
+      "bat_t": "Oman",
+      "bowl": "PVD Chameera",
+      "bowl_t": "Sri Lanka",
+      "v": "neutral",
+      "h2h": {
+        "balls": 3,
+        "runs": 7,
+        "dismissals": 0,
+        "strike_rate": 233.33
+      },
+      "vs_t": {
+        "runs": 53,
+        "balls": 60,
+        "dismissals": 0,
+        "average": 53.0,
+        "strike_rate": 88.33
+      },
+      "b_f": [
+        2,
+        1,
+        53
+      ],
+      "w_f": [
+        3,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "BKG Mendis",
+      "bat_t": "Sri Lanka",
+      "bowl": "Jay Odedra",
+      "bowl_t": "Oman",
+      "v": "batsman",
+      "h2h": {
+        "balls": 2,
+        "runs": 8,
+        "dismissals": 0,
+        "strike_rate": 400.0
+      },
+      "vs_t": {
+        "runs": 61,
+        "balls": 45,
+        "dismissals": 0,
+        "average": 61.0,
+        "strike_rate": 135.56
+      },
+      "b_f": [
+        11,
+        4,
+        14
+      ],
+      "w_f": [
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "P Nissanka",
+      "bat_t": "Sri Lanka",
+      "bowl": "Jay Odedra",
+      "bowl_t": "Oman",
+      "v": "neutral",
+      "h2h": {
+        "balls": 2,
+        "runs": 5,
+        "dismissals": 0,
+        "strike_rate": 250.0
+      },
+      "vs_t": {
+        "runs": 13,
+        "balls": 11,
+        "dismissals": 1,
+        "average": 13.0,
+        "strike_rate": 118.18
+      },
+      "b_f": [
+        0,
+        9,
+        62
+      ],
+      "w_f": [
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "Shah Faisal",
+      "bat_t": "Oman",
+      "bowl": "MADI Hemantha",
+      "bowl_t": "Sri Lanka",
+      "v": "neutral",
+      "h2h": {
+        "balls": 2,
+        "runs": 1,
+        "dismissals": 0,
+        "strike_rate": 50.0
+      },
+      "vs_t": {
+        "runs": 1,
+        "balls": 8,
+        "dismissals": 1,
+        "average": 1.0,
+        "strike_rate": 12.5
+      },
+      "b_f": [
+        9,
+        1,
+        5
+      ],
+      "w_f": [
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "bat": "Nadeem Khan",
+      "bat_t": "Oman",
+      "bowl": "MADI Hemantha",
+      "bowl_t": "Sri Lanka",
+      "v": "neutral",
+      "h2h": {
+        "balls": 2,
+        "runs": 2,
+        "dismissals": 0,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 2,
+        "balls": 3,
+        "dismissals": 1,
+        "average": 2.0,
+        "strike_rate": 66.67
+      },
+      "b_f": [
+        0,
+        2,
+        20
+      ],
+      "w_f": [
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "bat": "Mohammad Nadeem",
+      "bat_t": "Oman",
+      "bowl": "MD Shanaka",
+      "bowl_t": "Sri Lanka",
+      "v": "neutral",
+      "h2h": {
+        "balls": 2,
+        "runs": 5,
+        "dismissals": 0,
+        "strike_rate": 250.0
+      },
+      "vs_t": {
+        "runs": 53,
+        "balls": 60,
+        "dismissals": 0,
+        "average": 53.0,
+        "strike_rate": 88.33
+      },
+      "b_f": [
+        2,
+        1,
+        53
+      ],
+      "w_f": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "DN Wellalage",
+      "bat_t": "Sri Lanka",
+      "bowl": "J Ramanandi",
+      "bowl_t": "Oman",
+      "v": "neutral",
+      "h2h": {
+        "balls": 1,
+        "runs": 1,
+        "dismissals": 0,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 6,
+        "balls": 4,
+        "dismissals": 0,
+        "average": 6.0,
+        "strike_rate": 150.0
+      },
+      "b_f": [
+        29,
+        10,
+        15
+      ],
+      "w_f": [
+        0,
+        0,
+        2
+      ]
+    }
+  ]
+}

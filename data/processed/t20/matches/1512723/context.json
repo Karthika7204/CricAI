@@ -1,0 +1,1092 @@
+{
+    "match_id": "1512723",
+    "metadata": {
+        "tournament": "2025/26",
+        "venue": "Wankhede Stadium, Mumbai",
+        "date": "2026-02-08",
+        "stage": "ICC Men's T20 World Cup",
+        "winner": "England",
+        "loser": "Nepal",
+        "win_classification": "Moderate",
+        "margin_runs": 4,
+        "margin_wickets": null,
+        "competitiveness_index": 85.0,
+        "teams": {
+            "England": {
+                "captain": "JC Buttler",
+                "playing_xi_count": 11
+            },
+            "Nepal": {
+                "captain": "RK Paudel",
+                "playing_xi_count": 11
+            }
+        },
+        "team_summary": {
+            "England": {
+                "run_rate": 9.2,
+                "fours": 14,
+                "sixes": 11,
+                "boundary_runs": 122,
+                "dot_balls": 46,
+                "total_runs": 184,
+                "total_wickets": 7
+            },
+            "Nepal": {
+                "run_rate": 9.0,
+                "fours": 17,
+                "sixes": 7,
+                "boundary_runs": 110,
+                "dot_balls": 41,
+                "total_runs": 180,
+                "total_wickets": 6
+            }
+        },
+        "formulas": {
+            "competitiveness": "Base(Margin) + Pressure_Bonus(L5 Overs)",
+            "pressure": "((RR_Gap / Start_RR) * 40) + ((Wickets / 10) * 60)",
+            "batting_impact": "Runs + (SR/Match_SR * 25)",
+            "bowling_impact": "(Wickets * 30) + (Match_RR/Econ * 20)"
+        }
+    },
+    "scorecards": {
+        "batting": [
+            {
+                "player": "JG Bethell",
+                "team": "England",
+                "runs": 55,
+                "balls": 38,
+                "sr": 144.74,
+                "fours": 4,
+                "sixes": 4,
+                "win_contribution_percent": 29.9,
+                "score": 81.23
+            },
+            {
+                "player": "HC Brook",
+                "team": "England",
+                "runs": 53,
+                "balls": 33,
+                "sr": 160.61,
+                "fours": 4,
+                "sixes": 3,
+                "win_contribution_percent": 28.8,
+                "score": 82.11
+            },
+            {
+                "player": "WG Jacks",
+                "team": "England",
+                "runs": 39,
+                "balls": 18,
+                "sr": 216.67,
+                "fours": 1,
+                "sixes": 4,
+                "win_contribution_percent": 21.2,
+                "score": 78.27
+            },
+            {
+                "player": "JC Buttler",
+                "team": "England",
+                "runs": 26,
+                "balls": 17,
+                "sr": 152.94,
+                "fours": 5,
+                "sixes": 0,
+                "win_contribution_percent": 14.1,
+                "score": 53.72
+            },
+            {
+                "player": "SM Curran",
+                "team": "England",
+                "runs": 2,
+                "balls": 8,
+                "sr": 25.0,
+                "fours": 0,
+                "sixes": 0,
+                "win_contribution_percent": 1.1,
+                "score": 6.53
+            },
+            {
+                "player": "T Banton",
+                "team": "England",
+                "runs": 2,
+                "balls": 5,
+                "sr": 40.0,
+                "fours": 0,
+                "sixes": 0,
+                "win_contribution_percent": 1.1,
+                "score": 9.25
+            },
+            {
+                "player": "JC Archer",
+                "team": "England",
+                "runs": 1,
+                "balls": 3,
+                "sr": 33.33,
+                "fours": 0,
+                "sixes": 0,
+                "win_contribution_percent": 0.5,
+                "score": 7.04
+            },
+            {
+                "player": "PD Salt",
+                "team": "England",
+                "runs": 1,
+                "balls": 2,
+                "sr": 50.0,
+                "fours": 0,
+                "sixes": 0,
+                "win_contribution_percent": 0.5,
+                "score": 10.06
+            },
+            {
+                "player": "DS Airee",
+                "team": "Nepal",
+                "runs": 44,
+                "balls": 29,
+                "sr": 151.72,
+                "fours": 6,
+                "sixes": 1,
+                "win_contribution_percent": 24.4,
+                "score": 71.5
+            },
+            {
+                "player": "Lokesh Bam",
+                "team": "Nepal",
+                "runs": 39,
+                "balls": 24,
+                "sr": 162.5,
+                "fours": 4,
+                "sixes": 2,
+                "win_contribution_percent": 21.7,
+                "score": 68.45
+            },
+            {
+                "player": "RK Paudel",
+                "team": "Nepal",
+                "runs": 39,
+                "balls": 37,
+                "sr": 105.41,
+                "fours": 2,
+                "sixes": 2,
+                "win_contribution_percent": 21.7,
+                "score": 58.1
+            },
+            {
+                "player": "K Bhurtel",
+                "team": "Nepal",
+                "runs": 29,
+                "balls": 18,
+                "sr": 161.11,
+                "fours": 4,
+                "sixes": 1,
+                "win_contribution_percent": 16.1,
+                "score": 58.2
+            },
+            {
+                "player": "Aarif Sheikh",
+                "team": "Nepal",
+                "runs": 10,
+                "balls": 9,
+                "sr": 111.11,
+                "fours": 0,
+                "sixes": 1,
+                "win_contribution_percent": 5.6,
+                "score": 30.14
+            },
+            {
+                "player": "Aasif Sheikh",
+                "team": "Nepal",
+                "runs": 7,
+                "balls": 9,
+                "sr": 77.78,
+                "fours": 1,
+                "sixes": 0,
+                "win_contribution_percent": 3.9,
+                "score": 21.1
+            },
+            {
+                "player": "Gulsan Jha",
+                "team": "Nepal",
+                "runs": 1,
+                "balls": 2,
+                "sr": 50.0,
+                "fours": 0,
+                "sixes": 0,
+                "win_contribution_percent": 0.6,
+                "score": 10.06
+            },
+            {
+                "player": "Karan KC",
+                "team": "Nepal",
+                "runs": 1,
+                "balls": 1,
+                "sr": 100.0,
+                "fours": 0,
+                "sixes": 0,
+                "win_contribution_percent": 0.6,
+                "score": 19.12
+            }
+        ],
+        "bowling": [
+            {
+                "player": "DS Airee",
+                "team": "Nepal",
+                "overs": 3.0,
+                "runs": 23,
+                "wickets": 2,
+                "econ": 7.67,
+                "score": 82.51,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "NK Yadav",
+                "team": "Nepal",
+                "overs": 3.0,
+                "runs": 26,
+                "wickets": 2,
+                "econ": 8.67,
+                "score": 79.91,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "S Lamichhane",
+                "team": "Nepal",
+                "overs": 4.0,
+                "runs": 25,
+                "wickets": 1,
+                "econ": 6.25,
+                "score": 57.62,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "S Malla",
+                "team": "Nepal",
+                "overs": 3.0,
+                "runs": 35,
+                "wickets": 1,
+                "econ": 11.67,
+                "score": 44.79,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "K Bhurtel",
+                "team": "Nepal",
+                "overs": 4.0,
+                "runs": 40,
+                "wickets": 0,
+                "econ": 10.0,
+                "score": 17.26,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "Karan KC",
+                "team": "Nepal",
+                "overs": 3.0,
+                "runs": 35,
+                "wickets": 0,
+                "econ": 11.67,
+                "score": 14.79,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "LA Dawson",
+                "team": "England",
+                "overs": 4.0,
+                "runs": 21,
+                "wickets": 2,
+                "econ": 5.25,
+                "score": 92.89,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "SM Curran",
+                "team": "England",
+                "overs": 4.0,
+                "runs": 27,
+                "wickets": 1,
+                "econ": 6.75,
+                "score": 55.58,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "WG Jacks",
+                "team": "England",
+                "overs": 2.0,
+                "runs": 17,
+                "wickets": 1,
+                "econ": 8.5,
+                "score": 50.31,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "L Wood",
+                "team": "England",
+                "overs": 3.0,
+                "runs": 31,
+                "wickets": 1,
+                "econ": 10.33,
+                "score": 46.71,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "JC Archer",
+                "team": "England",
+                "overs": 4.0,
+                "runs": 42,
+                "wickets": 1,
+                "econ": 10.5,
+                "score": 46.44,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "AU Rashid",
+                "team": "England",
+                "overs": 3.0,
+                "runs": 42,
+                "wickets": 0,
+                "econ": 14.0,
+                "score": 12.33,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            }
+        ]
+    },
+    "innings": [
+        {
+            "innings": 1,
+            "team": "England",
+            "total_runs": 184,
+            "total_wickets": 7,
+            "balls_faced": 120,
+            "overs_faced": 20.0,
+            "phase_analysis": {
+                "Powerplay": {
+                    "runs": 57,
+                    "wkts": 2,
+                    "rr": 9.5
+                },
+                "Middle": {
+                    "runs": 77,
+                    "wkts": 2,
+                    "rr": 8.56
+                },
+                "Death": {
+                    "runs": 50,
+                    "wkts": 3,
+                    "rr": 10.0
+                }
+            }
+        },
+        {
+            "innings": 2,
+            "team": "Nepal",
+            "total_runs": 180,
+            "total_wickets": 6,
+            "balls_faced": 120,
+            "overs_faced": 20.0,
+            "phase_analysis": {
+                "Powerplay": {
+                    "runs": 47,
+                    "wkts": 2,
+                    "rr": 7.83
+                },
+                "Middle": {
+                    "runs": 78,
+                    "wkts": 1,
+                    "rr": 8.67
+                },
+                "Death": {
+                    "runs": 55,
+                    "wkts": 3,
+                    "rr": 11.0
+                }
+            },
+            "pressure_index": 78.0,
+            "target": 185
+        }
+    ],
+    "players": [
+        {
+            "player": "LA Dawson",
+            "team": "England",
+            "overs": 4.0,
+            "runs": 21,
+            "wickets": 2,
+            "econ": 5.25,
+            "score": 92.89,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-21r-2w"
+        },
+        {
+            "player": "DS Airee",
+            "team": "Nepal",
+            "overs": 3.0,
+            "runs": 23,
+            "wickets": 2,
+            "econ": 7.67,
+            "score": 82.51,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "3.0o-23r-2w"
+        },
+        {
+            "player": "HC Brook",
+            "team": "England",
+            "runs": 53,
+            "balls": 33,
+            "sr": 160.61,
+            "fours": 4,
+            "sixes": 3,
+            "win_contribution_percent": 28.8,
+            "score": 82.11,
+            "role": "batting",
+            "match_stats": "53(33)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "JG Bethell",
+            "team": "England",
+            "runs": 55,
+            "balls": 38,
+            "sr": 144.74,
+            "fours": 4,
+            "sixes": 4,
+            "win_contribution_percent": 29.9,
+            "score": 81.23,
+            "role": "batting",
+            "match_stats": "55(38)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "NK Yadav",
+            "team": "Nepal",
+            "overs": 3.0,
+            "runs": 26,
+            "wickets": 2,
+            "econ": 8.67,
+            "score": 79.91,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "3.0o-26r-2w"
+        },
+        {
+            "player": "WG Jacks",
+            "team": "England",
+            "runs": 39,
+            "balls": 18,
+            "sr": 216.67,
+            "fours": 1,
+            "sixes": 4,
+            "win_contribution_percent": 21.2,
+            "score": 78.27,
+            "role": "batting",
+            "match_stats": "39(18)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "DS Airee",
+            "team": "Nepal",
+            "runs": 44,
+            "balls": 29,
+            "sr": 151.72,
+            "fours": 6,
+            "sixes": 1,
+            "win_contribution_percent": 24.4,
+            "score": 71.5,
+            "role": "batting",
+            "match_stats": "44(29)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "Lokesh Bam",
+            "team": "Nepal",
+            "runs": 39,
+            "balls": 24,
+            "sr": 162.5,
+            "fours": 4,
+            "sixes": 2,
+            "win_contribution_percent": 21.7,
+            "score": 68.45,
+            "role": "batting",
+            "match_stats": "39(24)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "K Bhurtel",
+            "team": "Nepal",
+            "runs": 29,
+            "balls": 18,
+            "sr": 161.11,
+            "fours": 4,
+            "sixes": 1,
+            "win_contribution_percent": 16.1,
+            "score": 58.2,
+            "role": "batting",
+            "match_stats": "29(18)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "RK Paudel",
+            "team": "Nepal",
+            "runs": 39,
+            "balls": 37,
+            "sr": 105.41,
+            "fours": 2,
+            "sixes": 2,
+            "win_contribution_percent": 21.7,
+            "score": 58.1,
+            "role": "batting",
+            "match_stats": "39(37)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "S Lamichhane",
+            "team": "Nepal",
+            "overs": 4.0,
+            "runs": 25,
+            "wickets": 1,
+            "econ": 6.25,
+            "score": 57.62,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-25r-1w"
+        },
+        {
+            "player": "SM Curran",
+            "team": "England",
+            "overs": 4.0,
+            "runs": 27,
+            "wickets": 1,
+            "econ": 6.75,
+            "score": 55.58,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-27r-1w"
+        },
+        {
+            "player": "JC Buttler",
+            "team": "England",
+            "runs": 26,
+            "balls": 17,
+            "sr": 152.94,
+            "fours": 5,
+            "sixes": 0,
+            "win_contribution_percent": 14.1,
+            "score": 53.72,
+            "role": "batting",
+            "match_stats": "26(17)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "WG Jacks",
+            "team": "England",
+            "overs": 2.0,
+            "runs": 17,
+            "wickets": 1,
+            "econ": 8.5,
+            "score": 50.31,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "2.0o-17r-1w"
+        },
+        {
+            "player": "L Wood",
+            "team": "England",
+            "overs": 3.0,
+            "runs": 31,
+            "wickets": 1,
+            "econ": 10.33,
+            "score": 46.71,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "3.0o-31r-1w"
+        },
+        {
+            "player": "JC Archer",
+            "team": "England",
+            "overs": 4.0,
+            "runs": 42,
+            "wickets": 1,
+            "econ": 10.5,
+            "score": 46.44,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-42r-1w"
+        },
+        {
+            "player": "S Malla",
+            "team": "Nepal",
+            "overs": 3.0,
+            "runs": 35,
+            "wickets": 1,
+            "econ": 11.67,
+            "score": 44.79,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "3.0o-35r-1w"
+        },
+        {
+            "player": "Aarif Sheikh",
+            "team": "Nepal",
+            "runs": 10,
+            "balls": 9,
+            "sr": 111.11,
+            "fours": 0,
+            "sixes": 1,
+            "win_contribution_percent": 5.6,
+            "score": 30.14,
+            "role": "batting",
+            "match_stats": "10(9)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "Aasif Sheikh",
+            "team": "Nepal",
+            "runs": 7,
+            "balls": 9,
+            "sr": 77.78,
+            "fours": 1,
+            "sixes": 0,
+            "win_contribution_percent": 3.9,
+            "score": 21.1,
+            "role": "batting",
+            "match_stats": "7(9)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "Karan KC",
+            "team": "Nepal",
+            "runs": 1,
+            "balls": 1,
+            "sr": 100.0,
+            "fours": 0,
+            "sixes": 0,
+            "win_contribution_percent": 0.6,
+            "score": 19.12,
+            "role": "batting",
+            "match_stats": "1(1)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "K Bhurtel",
+            "team": "Nepal",
+            "overs": 4.0,
+            "runs": 40,
+            "wickets": 0,
+            "econ": 10.0,
+            "score": 17.26,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-40r-0w"
+        },
+        {
+            "player": "Karan KC",
+            "team": "Nepal",
+            "overs": 3.0,
+            "runs": 35,
+            "wickets": 0,
+            "econ": 11.67,
+            "score": 14.79,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "3.0o-35r-0w"
+        },
+        {
+            "player": "AU Rashid",
+            "team": "England",
+            "overs": 3.0,
+            "runs": 42,
+            "wickets": 0,
+            "econ": 14.0,
+            "score": 12.33,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "3.0o-42r-0w"
+        },
+        {
+            "player": "PD Salt",
+            "team": "England",
+            "runs": 1,
+            "balls": 2,
+            "sr": 50.0,
+            "fours": 0,
+            "sixes": 0,
+            "win_contribution_percent": 0.5,
+            "score": 10.06,
+            "role": "batting",
+            "match_stats": "1(2)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "Gulsan Jha",
+            "team": "Nepal",
+            "runs": 1,
+            "balls": 2,
+            "sr": 50.0,
+            "fours": 0,
+            "sixes": 0,
+            "win_contribution_percent": 0.6,
+            "score": 10.06,
+            "role": "batting",
+            "match_stats": "1(2)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "T Banton",
+            "team": "England",
+            "runs": 2,
+            "balls": 5,
+            "sr": 40.0,
+            "fours": 0,
+            "sixes": 0,
+            "win_contribution_percent": 1.1,
+            "score": 9.25,
+            "role": "batting",
+            "match_stats": "2(5)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "JC Archer",
+            "team": "England",
+            "runs": 1,
+            "balls": 3,
+            "sr": 33.33,
+            "fours": 0,
+            "sixes": 0,
+            "win_contribution_percent": 0.5,
+            "score": 7.04,
+            "role": "batting",
+            "match_stats": "1(3)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "SM Curran",
+            "team": "England",
+            "runs": 2,
+            "balls": 8,
+            "sr": 25.0,
+            "fours": 0,
+            "sixes": 0,
+            "win_contribution_percent": 1.1,
+            "score": 6.53,
+            "role": "batting",
+            "match_stats": "2(8)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        }
+    ],
+    "validation": {
+        "logical_stability": true
+    }
+}

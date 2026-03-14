@@ -1,0 +1,340 @@
+{
+    "match_context": {
+        "match_id": "1512743",
+        "date": "2026-02-15",
+        "tournament": "2025/26",
+        "venue": "Wankhede Stadium, Mumbai",
+        "stage": "ICC Men's T20 World Cup",
+        "Teams": {
+            "Nepal": {
+                "captain": "RK Paudel",
+                "playing_xi_count": 11
+            },
+            "West Indies": {
+                "captain": "SD Hope",
+                "playing_xi_count": 9
+            }
+        }
+    },
+    "Match_Result": {
+        "summary": "West Indies won by 9 wickets",
+        "winner": "West Indies",
+        "margin": 9,
+        "margin_type": "wickets"
+    },
+    "Scorecard_Highlights": {
+        "Key_Support_Performers": [],
+        "Career_vs_Match_Bowling": [],
+        "Bowling_Standouts": {
+            "Economical_Spells": [],
+            "Expensive_Spells": [],
+            "High_Economy_No_Baseline": [
+                {
+                    "player": "S Lamichhane",
+                    "team": "Nepal",
+                    "overs": 3.0,
+                    "runs": 38,
+                    "wickets": 0,
+                    "econ": 12.67,
+                    "score": 11.44,
+                    "bowling_baseline": {
+                        "career_wickets": 0,
+                        "career_economy": 0.0,
+                        "career_sr": 0.0,
+                        "career_avg": 0.0,
+                        "best_bowling": "N/A",
+                        "matches": 0,
+                        "source": "none",
+                        "baseline_available": false
+                    }
+                },
+                {
+                    "player": "Sompal Kami",
+                    "team": "Nepal",
+                    "overs": 2.0,
+                    "runs": 23,
+                    "wickets": 0,
+                    "econ": 11.5,
+                    "score": 12.61,
+                    "bowling_baseline": {
+                        "career_wickets": 0,
+                        "career_economy": 0.0,
+                        "career_sr": 0.0,
+                        "career_avg": 0.0,
+                        "best_bowling": "N/A",
+                        "matches": 0,
+                        "source": "none",
+                        "baseline_available": false
+                    }
+                }
+            ]
+        },
+        "Significant_Collapses": []
+    },
+    "Innings_Metrics": [
+        {
+            "innings": 1,
+            "team": "Nepal",
+            "total_runs": 133,
+            "total_wickets": 8,
+            "balls_faced": 120,
+            "overs_faced": 20.0,
+            "phase_analysis": {
+                "Powerplay": {
+                    "runs": 22,
+                    "wkts": 3,
+                    "rr": 3.67
+                },
+                "Middle": {
+                    "runs": 51,
+                    "wkts": 3,
+                    "rr": 5.67
+                },
+                "Death": {
+                    "runs": 60,
+                    "wkts": 2,
+                    "rr": 12.0
+                }
+            }
+        },
+        {
+            "innings": 2,
+            "team": "West Indies",
+            "total_runs": 134,
+            "total_wickets": 1,
+            "balls_faced": 92,
+            "overs_faced": 15.2,
+            "phase_analysis": {
+                "Powerplay": {
+                    "runs": 44,
+                    "wkts": 1,
+                    "rr": 7.33
+                },
+                "Middle": {
+                    "runs": 89,
+                    "wkts": 0,
+                    "rr": 9.89
+                },
+                "Death": {
+                    "runs": 1,
+                    "wkts": 0,
+                    "rr": 3.0
+                }
+            },
+            "pressure_index": 20.0,
+            "target": 134
+        }
+    ],
+    "Detailed_Impact_Analysis": [
+        {
+            "player": "JO Holder",
+            "team": "West Indies",
+            "overs": 4.0,
+            "runs": 28,
+            "wickets": 4,
+            "econ": 7.0,
+            "score": 140.71,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-28r-4w"
+        },
+        {
+            "player": "SD Hope",
+            "team": "West Indies",
+            "runs": 61,
+            "balls": 44,
+            "sr": 138.64,
+            "fours": 5,
+            "sixes": 3,
+            "win_contribution_percent": 45.5,
+            "score": 90.8,
+            "role": "batting",
+            "match_stats": "61(44)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "MW Forde",
+            "team": "West Indies",
+            "overs": 4.0,
+            "runs": 10,
+            "wickets": 1,
+            "econ": 2.5,
+            "score": 87.99,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-10r-1w"
+        },
+        {
+            "player": "DS Airee",
+            "team": "Nepal",
+            "runs": 58,
+            "balls": 48,
+            "sr": 120.83,
+            "fours": 3,
+            "sixes": 3,
+            "win_contribution_percent": 43.6,
+            "score": 83.98,
+            "role": "batting",
+            "match_stats": "58(48)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "SO Hetmyer",
+            "team": "West Indies",
+            "runs": 46,
+            "balls": 33,
+            "sr": 139.39,
+            "fours": 4,
+            "sixes": 2,
+            "win_contribution_percent": 34.3,
+            "score": 75.97,
+            "role": "batting",
+            "match_stats": "46(33)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "Sompal Kami",
+            "team": "Nepal",
+            "runs": 26,
+            "balls": 15,
+            "sr": 173.33,
+            "fours": 4,
+            "sixes": 0,
+            "win_contribution_percent": 19.5,
+            "score": 63.26,
+            "role": "batting",
+            "match_stats": "26(15)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "RL Chase",
+            "team": "West Indies",
+            "overs": 2.0,
+            "runs": 10,
+            "wickets": 1,
+            "econ": 5.0,
+            "score": 59.0,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "2.0o-10r-1w"
+        },
+        {
+            "player": "AJ Hosein",
+            "team": "West Indies",
+            "overs": 4.0,
+            "runs": 30,
+            "wickets": 1,
+            "econ": 7.5,
+            "score": 49.33,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-30r-1w"
+        },
+        {
+            "player": "NK Yadav",
+            "team": "Nepal",
+            "overs": 3.0,
+            "runs": 24,
+            "wickets": 1,
+            "econ": 8.0,
+            "score": 48.12,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "3.0o-24r-1w"
+        },
+        {
+            "player": "BA King",
+            "team": "West Indies",
+            "runs": 22,
+            "balls": 20,
+            "sr": 110.0,
+            "fours": 4,
+            "sixes": 0,
+            "win_contribution_percent": 16.4,
+            "score": 45.65,
+            "role": "batting",
+            "match_stats": "22(20)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        }
+    ],
+    "Tactical_Post_Match_Analysis": [
+        "West Indies's victory was anchored by SD Hope, who contributed 45.5% of the team's runs.",
+        "Defensive pressure was sustained by JO Holder, finishing with an impact score of 140.71.",
+        "Nepal lost 3 wickets in Powerplay, failing to build a stable foundation."
+    ]
+}

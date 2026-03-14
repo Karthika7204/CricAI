@@ -1,0 +1,1501 @@
+{
+  "match_id": "1512763",
+  "team_a": "Pakistan",
+  "team_b": "England",
+  "matchups": [
+    {
+      "bat": "Babar Azam",
+      "bat_t": "Pakistan",
+      "bowl": "AU Rashid",
+      "bowl_t": "England",
+      "v": "bowler",
+      "h2h": {
+        "balls": 81,
+        "runs": 90,
+        "dismissals": 4,
+        "strike_rate": 111.11
+      },
+      "vs_t": {
+        "runs": 685,
+        "balls": 506,
+        "dismissals": 14,
+        "average": 48.93,
+        "strike_rate": 135.38
+      },
+      "b_f": [
+        25,
+        5,
+        46
+      ],
+      "w_f": [
+        1,
+        2,
+        1
+      ]
+    },
+    {
+      "bat": "Shadab Khan",
+      "bat_t": "Pakistan",
+      "bowl": "AU Rashid",
+      "bowl_t": "England",
+      "v": "bowler",
+      "h2h": {
+        "balls": 16,
+        "runs": 25,
+        "dismissals": 3,
+        "strike_rate": 156.25
+      },
+      "vs_t": {
+        "runs": 106,
+        "balls": 73,
+        "dismissals": 5,
+        "average": 21.2,
+        "strike_rate": 145.21
+      },
+      "b_f": [
+        23,
+        36,
+        14
+      ],
+      "w_f": [
+        1,
+        2,
+        1
+      ]
+    },
+    {
+      "bat": "HC Brook",
+      "bat_t": "England",
+      "bowl": "Shadab Khan",
+      "bowl_t": "Pakistan",
+      "v": "bowler",
+      "h2h": {
+        "balls": 32,
+        "runs": 41,
+        "dismissals": 2,
+        "strike_rate": 128.12
+      },
+      "vs_t": {
+        "runs": 376,
+        "balls": 244,
+        "dismissals": 6,
+        "average": 62.67,
+        "strike_rate": 154.1
+      },
+      "b_f": [
+        100,
+        14,
+        14
+      ],
+      "w_f": [
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "bat": "Fakhar Zaman",
+      "bat_t": "Pakistan",
+      "bowl": "AU Rashid",
+      "bowl_t": "England",
+      "v": "bowler",
+      "h2h": {
+        "balls": 28,
+        "runs": 34,
+        "dismissals": 2,
+        "strike_rate": 121.43
+      },
+      "vs_t": {
+        "runs": 181,
+        "balls": 116,
+        "dismissals": 9,
+        "average": 20.11,
+        "strike_rate": 156.03
+      },
+      "b_f": [
+        25
+      ],
+      "w_f": [
+        1,
+        2,
+        1
+      ]
+    },
+    {
+      "bat": "T Banton",
+      "bat_t": "England",
+      "bowl": "Shadab Khan",
+      "bowl_t": "Pakistan",
+      "v": "bowler",
+      "h2h": {
+        "balls": 19,
+        "runs": 27,
+        "dismissals": 2,
+        "strike_rate": 142.11
+      },
+      "vs_t": {
+        "runs": 139,
+        "balls": 96,
+        "dismissals": 4,
+        "average": 34.75,
+        "strike_rate": 144.79
+      },
+      "b_f": [
+        2,
+        6,
+        30
+      ],
+      "w_f": [
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "bat": "Mohammad Nawaz",
+      "bat_t": "Pakistan",
+      "bowl": "SM Curran",
+      "bowl_t": "England",
+      "v": "bowler",
+      "h2h": {
+        "balls": 14,
+        "runs": 10,
+        "dismissals": 2,
+        "strike_rate": 71.43
+      },
+      "vs_t": {
+        "runs": 50,
+        "balls": 57,
+        "dismissals": 6,
+        "average": 8.33,
+        "strike_rate": 87.72
+      },
+      "b_f": [
+        0,
+        4,
+        5
+      ],
+      "w_f": [
+        0,
+        3,
+        1
+      ]
+    },
+    {
+      "bat": "PD Salt",
+      "bat_t": "England",
+      "bowl": "Mohammad Nawaz",
+      "bowl_t": "Pakistan",
+      "v": "batsman",
+      "h2h": {
+        "balls": 43,
+        "runs": 73,
+        "dismissals": 1,
+        "strike_rate": 169.77
+      },
+      "vs_t": {
+        "runs": 235,
+        "balls": 152,
+        "dismissals": 9,
+        "average": 26.11,
+        "strike_rate": 154.61
+      },
+      "b_f": [
+        0,
+        62,
+        28
+      ],
+      "w_f": [
+        2,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "Babar Azam",
+      "bat_t": "Pakistan",
+      "bowl": "LA Dawson",
+      "bowl_t": "England",
+      "v": "batsman",
+      "h2h": {
+        "balls": 31,
+        "runs": 30,
+        "dismissals": 1,
+        "strike_rate": 96.77
+      },
+      "vs_t": {
+        "runs": 685,
+        "balls": 506,
+        "dismissals": 14,
+        "average": 48.93,
+        "strike_rate": 135.38
+      },
+      "b_f": [
+        25,
+        5,
+        46
+      ],
+      "w_f": [
+        3,
+        2,
+        0
+      ]
+    },
+    {
+      "bat": "JC Buttler",
+      "bat_t": "England",
+      "bowl": "Shadab Khan",
+      "bowl_t": "Pakistan",
+      "v": "batsman",
+      "h2h": {
+        "balls": 31,
+        "runs": 56,
+        "dismissals": 1,
+        "strike_rate": 180.65
+      },
+      "vs_t": {
+        "runs": 300,
+        "balls": 225,
+        "dismissals": 11,
+        "average": 27.27,
+        "strike_rate": 133.33
+      },
+      "b_f": [
+        2,
+        7,
+        3
+      ],
+      "w_f": [
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "bat": "JC Buttler",
+      "bat_t": "England",
+      "bowl": "Shaheen Shah Afridi",
+      "bowl_t": "Pakistan",
+      "v": "batsman",
+      "h2h": {
+        "balls": 28,
+        "runs": 39,
+        "dismissals": 1,
+        "strike_rate": 139.29
+      },
+      "vs_t": {
+        "runs": 300,
+        "balls": 225,
+        "dismissals": 11,
+        "average": 27.27,
+        "strike_rate": 133.33
+      },
+      "b_f": [
+        2,
+        7,
+        3
+      ],
+      "w_f": [
+        4,
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "Babar Azam",
+      "bat_t": "Pakistan",
+      "bowl": "JC Archer",
+      "bowl_t": "England",
+      "v": "batsman",
+      "h2h": {
+        "balls": 21,
+        "runs": 29,
+        "dismissals": 1,
+        "strike_rate": 138.1
+      },
+      "vs_t": {
+        "runs": 685,
+        "balls": 506,
+        "dismissals": 14,
+        "average": 48.93,
+        "strike_rate": 135.38
+      },
+      "b_f": [
+        25,
+        5,
+        46
+      ],
+      "w_f": [
+        2,
+        2,
+        2
+      ]
+    },
+    {
+      "bat": "PD Salt",
+      "bat_t": "England",
+      "bowl": "Shaheen Shah Afridi",
+      "bowl_t": "Pakistan",
+      "v": "bowler",
+      "h2h": {
+        "balls": 19,
+        "runs": 15,
+        "dismissals": 1,
+        "strike_rate": 78.95
+      },
+      "vs_t": {
+        "runs": 235,
+        "balls": 152,
+        "dismissals": 9,
+        "average": 26.11,
+        "strike_rate": 154.61
+      },
+      "b_f": [
+        0,
+        62,
+        28
+      ],
+      "w_f": [
+        4,
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "HC Brook",
+      "bat_t": "England",
+      "bowl": "Shaheen Shah Afridi",
+      "bowl_t": "Pakistan",
+      "v": "batsman",
+      "h2h": {
+        "balls": 14,
+        "runs": 21,
+        "dismissals": 1,
+        "strike_rate": 150.0
+      },
+      "vs_t": {
+        "runs": 376,
+        "balls": 244,
+        "dismissals": 6,
+        "average": 62.67,
+        "strike_rate": 154.1
+      },
+      "b_f": [
+        100,
+        14,
+        14
+      ],
+      "w_f": [
+        4,
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "Sahibzada Farhan",
+      "bat_t": "Pakistan",
+      "bowl": "J Overton",
+      "bowl_t": "England",
+      "v": "batsman",
+      "h2h": {
+        "balls": 10,
+        "runs": 17,
+        "dismissals": 1,
+        "strike_rate": 170.0
+      },
+      "vs_t": {
+        "runs": 63,
+        "balls": 45,
+        "dismissals": 1,
+        "average": 63.0,
+        "strike_rate": 140.0
+      },
+      "b_f": [
+        63,
+        100,
+        0
+      ],
+      "w_f": [
+        2,
+        1,
+        3
+      ]
+    },
+    {
+      "bat": "WG Jacks",
+      "bat_t": "England",
+      "bowl": "Mohammad Nawaz",
+      "bowl_t": "Pakistan",
+      "v": "bowler",
+      "h2h": {
+        "balls": 10,
+        "runs": 11,
+        "dismissals": 1,
+        "strike_rate": 110.0
+      },
+      "vs_t": {
+        "runs": 125,
+        "balls": 91,
+        "dismissals": 5,
+        "average": 25.0,
+        "strike_rate": 137.36
+      },
+      "b_f": [
+        28,
+        21,
+        53
+      ],
+      "w_f": [
+        2,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "Babar Azam",
+      "bat_t": "Pakistan",
+      "bowl": "SM Curran",
+      "bowl_t": "England",
+      "v": "batsman",
+      "h2h": {
+        "balls": 39,
+        "runs": 48,
+        "dismissals": 0,
+        "strike_rate": 123.08
+      },
+      "vs_t": {
+        "runs": 685,
+        "balls": 506,
+        "dismissals": 14,
+        "average": 48.93,
+        "strike_rate": 135.38
+      },
+      "b_f": [
+        25,
+        5,
+        46
+      ],
+      "w_f": [
+        0,
+        3,
+        1
+      ]
+    },
+    {
+      "bat": "SM Curran",
+      "bat_t": "England",
+      "bowl": "Usman Tariq",
+      "bowl_t": "Pakistan",
+      "v": "bowler",
+      "h2h": {
+        "balls": 7,
+        "runs": 6,
+        "dismissals": 1,
+        "strike_rate": 85.71
+      },
+      "vs_t": {
+        "runs": 43,
+        "balls": 34,
+        "dismissals": 2,
+        "average": 21.5,
+        "strike_rate": 126.47
+      },
+      "b_f": [
+        16,
+        11,
+        25
+      ],
+      "w_f": [
+        2,
+        4,
+        1
+      ]
+    },
+    {
+      "bat": "JG Bethell",
+      "bat_t": "England",
+      "bowl": "Shaheen Shah Afridi",
+      "bowl_t": "Pakistan",
+      "v": "neutral",
+      "h2h": {
+        "balls": 6,
+        "runs": 2,
+        "dismissals": 1,
+        "strike_rate": 33.33
+      },
+      "vs_t": {
+        "runs": 8,
+        "balls": 10,
+        "dismissals": 1,
+        "average": 8.0,
+        "strike_rate": 80.0
+      },
+      "b_f": [
+        8,
+        3,
+        23
+      ],
+      "w_f": [
+        4,
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "Shaheen Shah Afridi",
+      "bat_t": "Pakistan",
+      "bowl": "JC Archer",
+      "bowl_t": "England",
+      "v": "bowler",
+      "h2h": {
+        "balls": 5,
+        "runs": 3,
+        "dismissals": 1,
+        "strike_rate": 60.0
+      },
+      "vs_t": {
+        "runs": 18,
+        "balls": 23,
+        "dismissals": 4,
+        "average": 4.5,
+        "strike_rate": 78.26
+      },
+      "b_f": [
+        2,
+        23,
+        9
+      ],
+      "w_f": [
+        2,
+        2,
+        2
+      ]
+    },
+    {
+      "bat": "Mohammad Nawaz",
+      "bat_t": "Pakistan",
+      "bowl": "AU Rashid",
+      "bowl_t": "England",
+      "v": "bowler",
+      "h2h": {
+        "balls": 5,
+        "runs": 3,
+        "dismissals": 1,
+        "strike_rate": 60.0
+      },
+      "vs_t": {
+        "runs": 50,
+        "balls": 57,
+        "dismissals": 6,
+        "average": 8.33,
+        "strike_rate": 87.72
+      },
+      "b_f": [
+        0,
+        4,
+        5
+      ],
+      "w_f": [
+        1,
+        2,
+        1
+      ]
+    },
+    {
+      "bat": "Saim Ayub",
+      "bat_t": "Pakistan",
+      "bowl": "JC Archer",
+      "bowl_t": "England",
+      "v": "bowler",
+      "h2h": {
+        "balls": 4,
+        "runs": 4,
+        "dismissals": 1,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 9,
+        "balls": 15,
+        "dismissals": 2,
+        "average": 4.5,
+        "strike_rate": 60.0
+      },
+      "b_f": [
+        7,
+        14,
+        6
+      ],
+      "w_f": [
+        2,
+        2,
+        2
+      ]
+    },
+    {
+      "bat": "Agha Salman",
+      "bat_t": "Pakistan",
+      "bowl": "LA Dawson",
+      "bowl_t": "England",
+      "v": "neutral",
+      "h2h": {
+        "balls": 3,
+        "runs": 4,
+        "dismissals": 1,
+        "strike_rate": 133.33
+      },
+      "vs_t": {
+        "runs": 5,
+        "balls": 6,
+        "dismissals": 1,
+        "average": 5.0,
+        "strike_rate": 83.33
+      },
+      "b_f": [
+        5,
+        38,
+        4
+      ],
+      "w_f": [
+        3,
+        2,
+        0
+      ]
+    },
+    {
+      "bat": "J Overton",
+      "bat_t": "England",
+      "bowl": "Mohammad Nawaz",
+      "bowl_t": "Pakistan",
+      "v": "neutral",
+      "h2h": {
+        "balls": 3,
+        "runs": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 0,
+        "balls": 3,
+        "dismissals": 1,
+        "average": 0.0,
+        "strike_rate": 0.0
+      },
+      "b_f": [
+        0,
+        10,
+        15
+      ],
+      "w_f": [
+        2,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "Babar Azam",
+      "bat_t": "Pakistan",
+      "bowl": "J Overton",
+      "bowl_t": "England",
+      "v": "batsman",
+      "h2h": {
+        "balls": 2,
+        "runs": 1,
+        "dismissals": 1,
+        "strike_rate": 50.0
+      },
+      "vs_t": {
+        "runs": 685,
+        "balls": 506,
+        "dismissals": 14,
+        "average": 48.93,
+        "strike_rate": 135.38
+      },
+      "b_f": [
+        25,
+        5,
+        46
+      ],
+      "w_f": [
+        2,
+        1,
+        3
+      ]
+    },
+    {
+      "bat": "Usman Khan",
+      "bat_t": "Pakistan",
+      "bowl": "LA Dawson",
+      "bowl_t": "England",
+      "v": "bowler",
+      "h2h": {
+        "balls": 2,
+        "runs": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 46,
+        "balls": 27,
+        "dismissals": 2,
+        "average": 23.0,
+        "strike_rate": 170.37
+      },
+      "b_f": [
+        8,
+        44,
+        0
+      ],
+      "w_f": [
+        3,
+        2,
+        0
+      ]
+    },
+    {
+      "bat": "Mohammad Nawaz",
+      "bat_t": "Pakistan",
+      "bowl": "LA Dawson",
+      "bowl_t": "England",
+      "v": "bowler",
+      "h2h": {
+        "balls": 1,
+        "runs": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 50,
+        "balls": 57,
+        "dismissals": 6,
+        "average": 8.33,
+        "strike_rate": 87.72
+      },
+      "b_f": [
+        0,
+        4,
+        5
+      ],
+      "w_f": [
+        3,
+        2,
+        0
+      ]
+    },
+    {
+      "bat": "T Banton",
+      "bat_t": "England",
+      "bowl": "Usman Tariq",
+      "bowl_t": "Pakistan",
+      "v": "bowler",
+      "h2h": {
+        "balls": 1,
+        "runs": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 139,
+        "balls": 96,
+        "dismissals": 4,
+        "average": 34.75,
+        "strike_rate": 144.79
+      },
+      "b_f": [
+        2,
+        6,
+        30
+      ],
+      "w_f": [
+        2,
+        4,
+        1
+      ]
+    },
+    {
+      "bat": "HC Brook",
+      "bat_t": "England",
+      "bowl": "Mohammad Nawaz",
+      "bowl_t": "Pakistan",
+      "v": "batsman",
+      "h2h": {
+        "balls": 28,
+        "runs": 40,
+        "dismissals": 0,
+        "strike_rate": 142.86
+      },
+      "vs_t": {
+        "runs": 376,
+        "balls": 244,
+        "dismissals": 6,
+        "average": 62.67,
+        "strike_rate": 154.1
+      },
+      "b_f": [
+        100,
+        14,
+        14
+      ],
+      "w_f": [
+        2,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "T Banton",
+      "bat_t": "England",
+      "bowl": "Shaheen Shah Afridi",
+      "bowl_t": "Pakistan",
+      "v": "bowler",
+      "h2h": {
+        "balls": 16,
+        "runs": 11,
+        "dismissals": 0,
+        "strike_rate": 68.75
+      },
+      "vs_t": {
+        "runs": 139,
+        "balls": 96,
+        "dismissals": 4,
+        "average": 34.75,
+        "strike_rate": 144.79
+      },
+      "b_f": [
+        2,
+        6,
+        30
+      ],
+      "w_f": [
+        4,
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "WG Jacks",
+      "bat_t": "England",
+      "bowl": "Salman Mirza",
+      "bowl_t": "Pakistan",
+      "v": "bowler",
+      "h2h": {
+        "balls": 14,
+        "runs": 9,
+        "dismissals": 0,
+        "strike_rate": 64.29
+      },
+      "vs_t": {
+        "runs": 125,
+        "balls": 91,
+        "dismissals": 5,
+        "average": 25.0,
+        "strike_rate": 137.36
+      },
+      "b_f": [
+        28,
+        21,
+        53
+      ],
+      "w_f": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "bat": "HC Brook",
+      "bat_t": "England",
+      "bowl": "Usman Tariq",
+      "bowl_t": "Pakistan",
+      "v": "batsman",
+      "h2h": {
+        "balls": 11,
+        "runs": 16,
+        "dismissals": 0,
+        "strike_rate": 145.45
+      },
+      "vs_t": {
+        "runs": 376,
+        "balls": 244,
+        "dismissals": 6,
+        "average": 62.67,
+        "strike_rate": 154.1
+      },
+      "b_f": [
+        100,
+        14,
+        14
+      ],
+      "w_f": [
+        2,
+        4,
+        1
+      ]
+    },
+    {
+      "bat": "Usman Khan",
+      "bat_t": "Pakistan",
+      "bowl": "AU Rashid",
+      "bowl_t": "England",
+      "v": "batsman",
+      "h2h": {
+        "balls": 10,
+        "runs": 22,
+        "dismissals": 0,
+        "strike_rate": 220.0
+      },
+      "vs_t": {
+        "runs": 46,
+        "balls": 27,
+        "dismissals": 2,
+        "average": 23.0,
+        "strike_rate": 170.37
+      },
+      "b_f": [
+        8,
+        44,
+        0
+      ],
+      "w_f": [
+        1,
+        2,
+        1
+      ]
+    },
+    {
+      "bat": "SM Curran",
+      "bat_t": "England",
+      "bowl": "Shadab Khan",
+      "bowl_t": "Pakistan",
+      "v": "batsman",
+      "h2h": {
+        "balls": 10,
+        "runs": 18,
+        "dismissals": 0,
+        "strike_rate": 180.0
+      },
+      "vs_t": {
+        "runs": 43,
+        "balls": 34,
+        "dismissals": 2,
+        "average": 21.5,
+        "strike_rate": 126.47
+      },
+      "b_f": [
+        16,
+        11,
+        25
+      ],
+      "w_f": [
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "bat": "WG Jacks",
+      "bat_t": "England",
+      "bowl": "Shadab Khan",
+      "bowl_t": "Pakistan",
+      "v": "bowler",
+      "h2h": {
+        "balls": 10,
+        "runs": 10,
+        "dismissals": 0,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 125,
+        "balls": 91,
+        "dismissals": 5,
+        "average": 25.0,
+        "strike_rate": 137.36
+      },
+      "b_f": [
+        28,
+        21,
+        53
+      ],
+      "w_f": [
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "bat": "Sahibzada Farhan",
+      "bat_t": "Pakistan",
+      "bowl": "LA Dawson",
+      "bowl_t": "England",
+      "v": "batsman",
+      "h2h": {
+        "balls": 9,
+        "runs": 8,
+        "dismissals": 0,
+        "strike_rate": 88.89
+      },
+      "vs_t": {
+        "runs": 63,
+        "balls": 45,
+        "dismissals": 1,
+        "average": 63.0,
+        "strike_rate": 140.0
+      },
+      "b_f": [
+        63,
+        100,
+        0
+      ],
+      "w_f": [
+        3,
+        2,
+        0
+      ]
+    },
+    {
+      "bat": "Sahibzada Farhan",
+      "bat_t": "Pakistan",
+      "bowl": "JC Archer",
+      "bowl_t": "England",
+      "v": "batsman",
+      "h2h": {
+        "balls": 7,
+        "runs": 11,
+        "dismissals": 0,
+        "strike_rate": 157.14
+      },
+      "vs_t": {
+        "runs": 63,
+        "balls": 45,
+        "dismissals": 1,
+        "average": 63.0,
+        "strike_rate": 140.0
+      },
+      "b_f": [
+        63,
+        100,
+        0
+      ],
+      "w_f": [
+        2,
+        2,
+        2
+      ]
+    },
+    {
+      "bat": "Sahibzada Farhan",
+      "bat_t": "Pakistan",
+      "bowl": "WG Jacks",
+      "bowl_t": "England",
+      "v": "batsman",
+      "h2h": {
+        "balls": 7,
+        "runs": 11,
+        "dismissals": 0,
+        "strike_rate": 157.14
+      },
+      "vs_t": {
+        "runs": 63,
+        "balls": 45,
+        "dismissals": 1,
+        "average": 63.0,
+        "strike_rate": 140.0
+      },
+      "b_f": [
+        63,
+        100,
+        0
+      ],
+      "w_f": [
+        0,
+        3,
+        1
+      ]
+    },
+    {
+      "bat": "PD Salt",
+      "bat_t": "England",
+      "bowl": "Shadab Khan",
+      "bowl_t": "Pakistan",
+      "v": "bowler",
+      "h2h": {
+        "balls": 7,
+        "runs": 9,
+        "dismissals": 0,
+        "strike_rate": 128.57
+      },
+      "vs_t": {
+        "runs": 235,
+        "balls": 152,
+        "dismissals": 9,
+        "average": 26.11,
+        "strike_rate": 154.61
+      },
+      "b_f": [
+        0,
+        62,
+        28
+      ],
+      "w_f": [
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "bat": "Shadab Khan",
+      "bat_t": "Pakistan",
+      "bowl": "SM Curran",
+      "bowl_t": "England",
+      "v": "batsman",
+      "h2h": {
+        "balls": 6,
+        "runs": 9,
+        "dismissals": 0,
+        "strike_rate": 150.0
+      },
+      "vs_t": {
+        "runs": 106,
+        "balls": 73,
+        "dismissals": 5,
+        "average": 21.2,
+        "strike_rate": 145.21
+      },
+      "b_f": [
+        23,
+        36,
+        14
+      ],
+      "w_f": [
+        0,
+        3,
+        1
+      ]
+    },
+    {
+      "bat": "Sahibzada Farhan",
+      "bat_t": "Pakistan",
+      "bowl": "SM Curran",
+      "bowl_t": "England",
+      "v": "batsman",
+      "h2h": {
+        "balls": 6,
+        "runs": 8,
+        "dismissals": 0,
+        "strike_rate": 133.33
+      },
+      "vs_t": {
+        "runs": 63,
+        "balls": 45,
+        "dismissals": 1,
+        "average": 63.0,
+        "strike_rate": 140.0
+      },
+      "b_f": [
+        63,
+        100,
+        0
+      ],
+      "w_f": [
+        0,
+        3,
+        1
+      ]
+    },
+    {
+      "bat": "Sahibzada Farhan",
+      "bat_t": "Pakistan",
+      "bowl": "AU Rashid",
+      "bowl_t": "England",
+      "v": "batsman",
+      "h2h": {
+        "balls": 6,
+        "runs": 8,
+        "dismissals": 0,
+        "strike_rate": 133.33
+      },
+      "vs_t": {
+        "runs": 63,
+        "balls": 45,
+        "dismissals": 1,
+        "average": 63.0,
+        "strike_rate": 140.0
+      },
+      "b_f": [
+        63,
+        100,
+        0
+      ],
+      "w_f": [
+        1,
+        2,
+        1
+      ]
+    },
+    {
+      "bat": "HC Brook",
+      "bat_t": "England",
+      "bowl": "Saim Ayub",
+      "bowl_t": "Pakistan",
+      "v": "batsman",
+      "h2h": {
+        "balls": 6,
+        "runs": 13,
+        "dismissals": 0,
+        "strike_rate": 216.67
+      },
+      "vs_t": {
+        "runs": 376,
+        "balls": 244,
+        "dismissals": 6,
+        "average": 62.67,
+        "strike_rate": 154.1
+      },
+      "b_f": [
+        100,
+        14,
+        14
+      ],
+      "w_f": [
+        0,
+        0,
+        3
+      ]
+    },
+    {
+      "bat": "HC Brook",
+      "bat_t": "England",
+      "bowl": "Salman Mirza",
+      "bowl_t": "Pakistan",
+      "v": "batsman",
+      "h2h": {
+        "balls": 6,
+        "runs": 11,
+        "dismissals": 0,
+        "strike_rate": 183.33
+      },
+      "vs_t": {
+        "runs": 376,
+        "balls": 244,
+        "dismissals": 6,
+        "average": 62.67,
+        "strike_rate": 154.1
+      },
+      "b_f": [
+        100,
+        14,
+        14
+      ],
+      "w_f": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "bat": "Fakhar Zaman",
+      "bat_t": "Pakistan",
+      "bowl": "WG Jacks",
+      "bowl_t": "England",
+      "v": "bowler",
+      "h2h": {
+        "balls": 5,
+        "runs": 16,
+        "dismissals": 0,
+        "strike_rate": 320.0
+      },
+      "vs_t": {
+        "runs": 181,
+        "balls": 116,
+        "dismissals": 9,
+        "average": 20.11,
+        "strike_rate": 156.03
+      },
+      "b_f": [
+        25
+      ],
+      "w_f": [
+        0,
+        3,
+        1
+      ]
+    },
+    {
+      "bat": "WG Jacks",
+      "bat_t": "England",
+      "bowl": "Usman Tariq",
+      "bowl_t": "Pakistan",
+      "v": "bowler",
+      "h2h": {
+        "balls": 5,
+        "runs": 9,
+        "dismissals": 0,
+        "strike_rate": 180.0
+      },
+      "vs_t": {
+        "runs": 125,
+        "balls": 91,
+        "dismissals": 5,
+        "average": 25.0,
+        "strike_rate": 137.36
+      },
+      "b_f": [
+        28,
+        21,
+        53
+      ],
+      "w_f": [
+        2,
+        4,
+        1
+      ]
+    },
+    {
+      "bat": "Fakhar Zaman",
+      "bat_t": "Pakistan",
+      "bowl": "JC Archer",
+      "bowl_t": "England",
+      "v": "bowler",
+      "h2h": {
+        "balls": 4,
+        "runs": 10,
+        "dismissals": 0,
+        "strike_rate": 250.0
+      },
+      "vs_t": {
+        "runs": 181,
+        "balls": 116,
+        "dismissals": 9,
+        "average": 20.11,
+        "strike_rate": 156.03
+      },
+      "b_f": [
+        25
+      ],
+      "w_f": [
+        2,
+        2,
+        2
+      ]
+    },
+    {
+      "bat": "Saim Ayub",
+      "bat_t": "Pakistan",
+      "bowl": "J Overton",
+      "bowl_t": "England",
+      "v": "bowler",
+      "h2h": {
+        "balls": 4,
+        "runs": 3,
+        "dismissals": 0,
+        "strike_rate": 75.0
+      },
+      "vs_t": {
+        "runs": 9,
+        "balls": 15,
+        "dismissals": 2,
+        "average": 4.5,
+        "strike_rate": 60.0
+      },
+      "b_f": [
+        7,
+        14,
+        6
+      ],
+      "w_f": [
+        2,
+        1,
+        3
+      ]
+    },
+    {
+      "bat": "JG Bethell",
+      "bat_t": "England",
+      "bowl": "Saim Ayub",
+      "bowl_t": "Pakistan",
+      "v": "neutral",
+      "h2h": {
+        "balls": 4,
+        "runs": 6,
+        "dismissals": 0,
+        "strike_rate": 150.0
+      },
+      "vs_t": {
+        "runs": 8,
+        "balls": 10,
+        "dismissals": 1,
+        "average": 8.0,
+        "strike_rate": 80.0
+      },
+      "b_f": [
+        8,
+        3,
+        23
+      ],
+      "w_f": [
+        0,
+        0,
+        3
+      ]
+    },
+    {
+      "bat": "Shadab Khan",
+      "bat_t": "Pakistan",
+      "bowl": "LA Dawson",
+      "bowl_t": "England",
+      "v": "bowler",
+      "h2h": {
+        "balls": 3,
+        "runs": 5,
+        "dismissals": 0,
+        "strike_rate": 166.67
+      },
+      "vs_t": {
+        "runs": 106,
+        "balls": 73,
+        "dismissals": 5,
+        "average": 21.2,
+        "strike_rate": 145.21
+      },
+      "b_f": [
+        23,
+        36,
+        14
+      ],
+      "w_f": [
+        3,
+        2,
+        0
+      ]
+    },
+    {
+      "bat": "Agha Salman",
+      "bat_t": "Pakistan",
+      "bowl": "JC Archer",
+      "bowl_t": "England",
+      "v": "neutral",
+      "h2h": {
+        "balls": 3,
+        "runs": 1,
+        "dismissals": 0,
+        "strike_rate": 33.33
+      },
+      "vs_t": {
+        "runs": 5,
+        "balls": 6,
+        "dismissals": 1,
+        "average": 5.0,
+        "strike_rate": 83.33
+      },
+      "b_f": [
+        5,
+        38,
+        4
+      ],
+      "w_f": [
+        2,
+        2,
+        2
+      ]
+    }
+  ]
+}

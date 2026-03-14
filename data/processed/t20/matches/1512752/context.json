@@ -1,0 +1,990 @@
+{
+    "match_id": "1512752",
+    "metadata": {
+        "tournament": "2025/26",
+        "venue": "Arun Jaitley Stadium, Delhi",
+        "date": "2026-02-18",
+        "stage": "ICC Men's T20 World Cup",
+        "winner": "South Africa",
+        "loser": "United Arab Emirates",
+        "win_classification": "Moderate",
+        "margin_runs": null,
+        "margin_wickets": 6,
+        "competitiveness_index": 85.0,
+        "teams": {
+            "United Arab Emirates": {
+                "captain": "Waseem Muhammad",
+                "playing_xi_count": 11
+            },
+            "South Africa": {
+                "captain": "AK Markram",
+                "playing_xi_count": 11
+            }
+        },
+        "team_summary": {
+            "United Arab Emirates": {
+                "run_rate": 6.1,
+                "fours": 10,
+                "sixes": 2,
+                "boundary_runs": 52,
+                "dot_balls": 53,
+                "total_runs": 122,
+                "total_wickets": 6
+            },
+            "South Africa": {
+                "run_rate": 9.23,
+                "fours": 12,
+                "sixes": 6,
+                "boundary_runs": 84,
+                "dot_balls": 32,
+                "total_runs": 123,
+                "total_wickets": 4
+            }
+        },
+        "formulas": {
+            "competitiveness": "Base(Margin) + Pressure_Bonus(L5 Overs)",
+            "pressure": "((RR_Gap / Start_RR) * 40) + ((Wickets / 10) * 60)",
+            "batting_impact": "Runs + (SR/Match_SR * 25)",
+            "bowling_impact": "(Wickets * 30) + (Match_RR/Econ * 20)"
+        }
+    },
+    "scorecards": {
+        "batting": [
+            {
+                "player": "A Sharafu",
+                "team": "United Arab Emirates",
+                "runs": 45,
+                "balls": 38,
+                "sr": 118.42,
+                "fours": 5,
+                "sixes": 1,
+                "win_contribution_percent": 36.9,
+                "score": 71.99
+            },
+            {
+                "player": "Waseem Muhammad",
+                "team": "United Arab Emirates",
+                "runs": 22,
+                "balls": 14,
+                "sr": 157.14,
+                "fours": 4,
+                "sixes": 0,
+                "win_contribution_percent": 18.0,
+                "score": 57.81
+            },
+            {
+                "player": "A Sharma",
+                "team": "United Arab Emirates",
+                "runs": 13,
+                "balls": 18,
+                "sr": 72.22,
+                "fours": 1,
+                "sixes": 1,
+                "win_contribution_percent": 10.7,
+                "score": 29.46
+            },
+            {
+                "player": "Muhammad Arfan",
+                "team": "United Arab Emirates",
+                "runs": 11,
+                "balls": 19,
+                "sr": 57.89,
+                "fours": 0,
+                "sixes": 0,
+                "win_contribution_percent": 9.0,
+                "score": 24.19
+            },
+            {
+                "player": "Shoaib Khan",
+                "team": "United Arab Emirates",
+                "runs": 6,
+                "balls": 11,
+                "sr": 54.55,
+                "fours": 0,
+                "sixes": 0,
+                "win_contribution_percent": 4.9,
+                "score": 18.43
+            },
+            {
+                "player": "Syed Haider",
+                "team": "United Arab Emirates",
+                "runs": 6,
+                "balls": 15,
+                "sr": 40.0,
+                "fours": 0,
+                "sixes": 0,
+                "win_contribution_percent": 4.9,
+                "score": 15.12
+            },
+            {
+                "player": "D Parashar",
+                "team": "United Arab Emirates",
+                "runs": 5,
+                "balls": 7,
+                "sr": 71.43,
+                "fours": 0,
+                "sixes": 0,
+                "win_contribution_percent": 4.1,
+                "score": 21.28
+            },
+            {
+                "player": "Muhammad Farooq",
+                "team": "United Arab Emirates",
+                "runs": 1,
+                "balls": 2,
+                "sr": 50.0,
+                "fours": 0,
+                "sixes": 0,
+                "win_contribution_percent": 0.8,
+                "score": 12.39
+            },
+            {
+                "player": "D Brevis",
+                "team": "South Africa",
+                "runs": 36,
+                "balls": 27,
+                "sr": 133.33,
+                "fours": 1,
+                "sixes": 3,
+                "win_contribution_percent": 29.3,
+                "score": 66.38
+            },
+            {
+                "player": "RD Rickelton",
+                "team": "South Africa",
+                "runs": 30,
+                "balls": 16,
+                "sr": 187.5,
+                "fours": 3,
+                "sixes": 2,
+                "win_contribution_percent": 24.4,
+                "score": 72.73
+            },
+            {
+                "player": "AK Markram",
+                "team": "South Africa",
+                "runs": 28,
+                "balls": 11,
+                "sr": 254.55,
+                "fours": 5,
+                "sixes": 1,
+                "win_contribution_percent": 22.8,
+                "score": 86.01
+            },
+            {
+                "player": "Q de Kock",
+                "team": "South Africa",
+                "runs": 14,
+                "balls": 16,
+                "sr": 87.5,
+                "fours": 3,
+                "sixes": 0,
+                "win_contribution_percent": 11.4,
+                "score": 33.94
+            },
+            {
+                "player": "T Stubbs",
+                "team": "South Africa",
+                "runs": 6,
+                "balls": 7,
+                "sr": 85.71,
+                "fours": 0,
+                "sixes": 0,
+                "win_contribution_percent": 4.9,
+                "score": 25.53
+            },
+            {
+                "player": "JF Smith",
+                "team": "South Africa",
+                "runs": 3,
+                "balls": 5,
+                "sr": 60.0,
+                "fours": 0,
+                "sixes": 0,
+                "win_contribution_percent": 2.4,
+                "score": 16.67
+            }
+        ],
+        "bowling": [
+            {
+                "player": "C Bosch",
+                "team": "South Africa",
+                "overs": 4.0,
+                "runs": 13,
+                "wickets": 3,
+                "econ": 3.25,
+                "score": 133.91,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "A Nortje",
+                "team": "South Africa",
+                "overs": 4.0,
+                "runs": 28,
+                "wickets": 2,
+                "econ": 7.0,
+                "score": 80.39,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "GF Linde",
+                "team": "South Africa",
+                "overs": 4.0,
+                "runs": 17,
+                "wickets": 1,
+                "econ": 4.25,
+                "score": 63.58,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "K Rabada",
+                "team": "South Africa",
+                "overs": 4.0,
+                "runs": 30,
+                "wickets": 0,
+                "econ": 7.5,
+                "score": 19.03,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "KT Maphaka",
+                "team": "South Africa",
+                "overs": 4.0,
+                "runs": 34,
+                "wickets": 0,
+                "econ": 8.5,
+                "score": 16.79,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "Muhammad Arfan",
+                "team": "United Arab Emirates",
+                "overs": 2.0,
+                "runs": 16,
+                "wickets": 1,
+                "econ": 8.0,
+                "score": 47.84,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "Muhammad Farooq",
+                "team": "United Arab Emirates",
+                "overs": 2.0,
+                "runs": 19,
+                "wickets": 1,
+                "econ": 9.5,
+                "score": 45.02,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "Muhammad Jawadullah",
+                "team": "United Arab Emirates",
+                "overs": 2.0,
+                "runs": 20,
+                "wickets": 1,
+                "econ": 10.0,
+                "score": 44.27,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "Haider Ali",
+                "team": "United Arab Emirates",
+                "overs": 3.0,
+                "runs": 37,
+                "wickets": 1,
+                "econ": 12.33,
+                "score": 41.57,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "D Parashar",
+                "team": "United Arab Emirates",
+                "overs": 2.0,
+                "runs": 8,
+                "wickets": 0,
+                "econ": 4.0,
+                "score": 35.68,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "Junaid Siddique",
+                "team": "United Arab Emirates",
+                "overs": 2.2,
+                "runs": 23,
+                "wickets": 0,
+                "econ": 9.86,
+                "score": 14.47,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            }
+        ]
+    },
+    "innings": [
+        {
+            "innings": 1,
+            "team": "United Arab Emirates",
+            "total_runs": 122,
+            "total_wickets": 6,
+            "balls_faced": 120,
+            "overs_faced": 20.0,
+            "phase_analysis": {
+                "Powerplay": {
+                    "runs": 44,
+                    "wkts": 2,
+                    "rr": 7.33
+                },
+                "Middle": {
+                    "runs": 53,
+                    "wkts": 2,
+                    "rr": 5.89
+                },
+                "Death": {
+                    "runs": 25,
+                    "wkts": 2,
+                    "rr": 5.0
+                }
+            }
+        },
+        {
+            "innings": 2,
+            "team": "South Africa",
+            "total_runs": 123,
+            "total_wickets": 4,
+            "balls_faced": 80,
+            "overs_faced": 13.2,
+            "phase_analysis": {
+                "Powerplay": {
+                    "runs": 56,
+                    "wkts": 2,
+                    "rr": 9.33
+                },
+                "Middle": {
+                    "runs": 67,
+                    "wkts": 2,
+                    "rr": 9.14
+                },
+                "Death": {
+                    "runs": 0,
+                    "wkts": 0,
+                    "rr": 0.0
+                }
+            },
+            "pressure_index": 27.0,
+            "target": 123
+        }
+    ],
+    "players": [
+        {
+            "player": "C Bosch",
+            "team": "South Africa",
+            "overs": 4.0,
+            "runs": 13,
+            "wickets": 3,
+            "econ": 3.25,
+            "score": 133.91,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-13r-3w"
+        },
+        {
+            "player": "AK Markram",
+            "team": "South Africa",
+            "runs": 28,
+            "balls": 11,
+            "sr": 254.55,
+            "fours": 5,
+            "sixes": 1,
+            "win_contribution_percent": 22.8,
+            "score": 86.01,
+            "role": "batting",
+            "match_stats": "28(11)",
+            "baseline": {
+                "avg": 31.08,
+                "sr": 143.73,
+                "matches": 68,
+                "source": "t20_master",
+                "baseline_available": true
+            }
+        },
+        {
+            "player": "A Nortje",
+            "team": "South Africa",
+            "overs": 4.0,
+            "runs": 28,
+            "wickets": 2,
+            "econ": 7.0,
+            "score": 80.39,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-28r-2w"
+        },
+        {
+            "player": "RD Rickelton",
+            "team": "South Africa",
+            "runs": 30,
+            "balls": 16,
+            "sr": 187.5,
+            "fours": 3,
+            "sixes": 2,
+            "win_contribution_percent": 24.4,
+            "score": 72.73,
+            "role": "batting",
+            "match_stats": "30(16)",
+            "baseline": {
+                "avg": 26.26,
+                "sr": 141.78,
+                "matches": 25,
+                "source": "t20_master",
+                "baseline_available": true
+            }
+        },
+        {
+            "player": "A Sharafu",
+            "team": "United Arab Emirates",
+            "runs": 45,
+            "balls": 38,
+            "sr": 118.42,
+            "fours": 5,
+            "sixes": 1,
+            "win_contribution_percent": 36.9,
+            "score": 71.99,
+            "role": "batting",
+            "match_stats": "45(38)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "D Brevis",
+            "team": "South Africa",
+            "runs": 36,
+            "balls": 27,
+            "sr": 133.33,
+            "fours": 1,
+            "sixes": 3,
+            "win_contribution_percent": 29.3,
+            "score": 66.38,
+            "role": "batting",
+            "match_stats": "36(27)",
+            "baseline": {
+                "avg": 26.0,
+                "sr": 154.92,
+                "matches": 25,
+                "source": "t20_master",
+                "baseline_available": true
+            }
+        },
+        {
+            "player": "GF Linde",
+            "team": "South Africa",
+            "overs": 4.0,
+            "runs": 17,
+            "wickets": 1,
+            "econ": 4.25,
+            "score": 63.58,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-17r-1w"
+        },
+        {
+            "player": "Waseem Muhammad",
+            "team": "United Arab Emirates",
+            "runs": 22,
+            "balls": 14,
+            "sr": 157.14,
+            "fours": 4,
+            "sixes": 0,
+            "win_contribution_percent": 18.0,
+            "score": 57.81,
+            "role": "batting",
+            "match_stats": "22(14)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "Muhammad Arfan",
+            "team": "United Arab Emirates",
+            "overs": 2.0,
+            "runs": 16,
+            "wickets": 1,
+            "econ": 8.0,
+            "score": 47.84,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "2.0o-16r-1w"
+        },
+        {
+            "player": "Muhammad Farooq",
+            "team": "United Arab Emirates",
+            "overs": 2.0,
+            "runs": 19,
+            "wickets": 1,
+            "econ": 9.5,
+            "score": 45.02,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "2.0o-19r-1w"
+        },
+        {
+            "player": "Muhammad Jawadullah",
+            "team": "United Arab Emirates",
+            "overs": 2.0,
+            "runs": 20,
+            "wickets": 1,
+            "econ": 10.0,
+            "score": 44.27,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "2.0o-20r-1w"
+        },
+        {
+            "player": "Haider Ali",
+            "team": "United Arab Emirates",
+            "overs": 3.0,
+            "runs": 37,
+            "wickets": 1,
+            "econ": 12.33,
+            "score": 41.57,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "3.0o-37r-1w"
+        },
+        {
+            "player": "D Parashar",
+            "team": "United Arab Emirates",
+            "overs": 2.0,
+            "runs": 8,
+            "wickets": 0,
+            "econ": 4.0,
+            "score": 35.68,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "2.0o-8r-0w"
+        },
+        {
+            "player": "Q de Kock",
+            "team": "South Africa",
+            "runs": 14,
+            "balls": 16,
+            "sr": 87.5,
+            "fours": 3,
+            "sixes": 0,
+            "win_contribution_percent": 11.4,
+            "score": 33.94,
+            "role": "batting",
+            "match_stats": "14(16)",
+            "baseline": {
+                "avg": 31.84,
+                "sr": 136.42,
+                "matches": 101,
+                "source": "t20_master",
+                "baseline_available": true
+            }
+        },
+        {
+            "player": "A Sharma",
+            "team": "United Arab Emirates",
+            "runs": 13,
+            "balls": 18,
+            "sr": 72.22,
+            "fours": 1,
+            "sixes": 1,
+            "win_contribution_percent": 10.7,
+            "score": 29.46,
+            "role": "batting",
+            "match_stats": "13(18)",
+            "baseline": {
+                "avg": 25.82,
+                "sr": 113.44,
+                "matches": 18,
+                "source": "t20_master",
+                "baseline_available": true
+            }
+        },
+        {
+            "player": "T Stubbs",
+            "team": "South Africa",
+            "runs": 6,
+            "balls": 7,
+            "sr": 85.71,
+            "fours": 0,
+            "sixes": 0,
+            "win_contribution_percent": 4.9,
+            "score": 25.53,
+            "role": "batting",
+            "match_stats": "6(7)",
+            "baseline": {
+                "avg": 30.53,
+                "sr": 131.99,
+                "matches": 40,
+                "source": "t20_master",
+                "baseline_available": true
+            }
+        },
+        {
+            "player": "Muhammad Arfan",
+            "team": "United Arab Emirates",
+            "runs": 11,
+            "balls": 19,
+            "sr": 57.89,
+            "fours": 0,
+            "sixes": 0,
+            "win_contribution_percent": 9.0,
+            "score": 24.19,
+            "role": "batting",
+            "match_stats": "11(19)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "D Parashar",
+            "team": "United Arab Emirates",
+            "runs": 5,
+            "balls": 7,
+            "sr": 71.43,
+            "fours": 0,
+            "sixes": 0,
+            "win_contribution_percent": 4.1,
+            "score": 21.28,
+            "role": "batting",
+            "match_stats": "5(7)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "K Rabada",
+            "team": "South Africa",
+            "overs": 4.0,
+            "runs": 30,
+            "wickets": 0,
+            "econ": 7.5,
+            "score": 19.03,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-30r-0w"
+        },
+        {
+            "player": "Shoaib Khan",
+            "team": "United Arab Emirates",
+            "runs": 6,
+            "balls": 11,
+            "sr": 54.55,
+            "fours": 0,
+            "sixes": 0,
+            "win_contribution_percent": 4.9,
+            "score": 18.43,
+            "role": "batting",
+            "match_stats": "6(11)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "KT Maphaka",
+            "team": "South Africa",
+            "overs": 4.0,
+            "runs": 34,
+            "wickets": 0,
+            "econ": 8.5,
+            "score": 16.79,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-34r-0w"
+        },
+        {
+            "player": "JF Smith",
+            "team": "South Africa",
+            "runs": 3,
+            "balls": 5,
+            "sr": 60.0,
+            "fours": 0,
+            "sixes": 0,
+            "win_contribution_percent": 2.4,
+            "score": 16.67,
+            "role": "batting",
+            "match_stats": "3(5)",
+            "baseline": {
+                "avg": 36.0,
+                "sr": 133.33,
+                "matches": 5,
+                "source": "t20_master",
+                "baseline_available": true
+            }
+        },
+        {
+            "player": "Syed Haider",
+            "team": "United Arab Emirates",
+            "runs": 6,
+            "balls": 15,
+            "sr": 40.0,
+            "fours": 0,
+            "sixes": 0,
+            "win_contribution_percent": 4.9,
+            "score": 15.12,
+            "role": "batting",
+            "match_stats": "6(15)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "Junaid Siddique",
+            "team": "United Arab Emirates",
+            "overs": 2.2,
+            "runs": 23,
+            "wickets": 0,
+            "econ": 9.86,
+            "score": 14.47,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "2.2o-23r-0w"
+        },
+        {
+            "player": "Muhammad Farooq",
+            "team": "United Arab Emirates",
+            "runs": 1,
+            "balls": 2,
+            "sr": 50.0,
+            "fours": 0,
+            "sixes": 0,
+            "win_contribution_percent": 0.8,
+            "score": 12.39,
+            "role": "batting",
+            "match_stats": "1(2)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        }
+    ],
+    "validation": {
+        "logical_stability": true
+    }
+}

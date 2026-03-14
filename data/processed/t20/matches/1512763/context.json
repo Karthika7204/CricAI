@@ -1,0 +1,1216 @@
+{
+    "match_id": "1512763",
+    "metadata": {
+        "tournament": "2025/26",
+        "venue": "Pallekele International Cricket Stadium",
+        "date": "2026-02-24",
+        "stage": "ICC Men's T20 World Cup",
+        "winner": "England",
+        "loser": "Pakistan",
+        "win_classification": "Moderate",
+        "margin_runs": null,
+        "margin_wickets": 2,
+        "competitiveness_index": 85.0,
+        "teams": {
+            "Pakistan": {
+                "captain": "Babar Azam",
+                "playing_xi_count": 11
+            },
+            "England": {
+                "captain": "JC Buttler",
+                "playing_xi_count": 11
+            }
+        },
+        "team_summary": {
+            "Pakistan": {
+                "run_rate": 8.2,
+                "fours": 17,
+                "sixes": 5,
+                "boundary_runs": 98,
+                "dot_balls": 46,
+                "total_runs": 164,
+                "total_wickets": 9
+            },
+            "England": {
+                "run_rate": 8.66,
+                "fours": 14,
+                "sixes": 6,
+                "boundary_runs": 92,
+                "dot_balls": 39,
+                "total_runs": 166,
+                "total_wickets": 8
+            }
+        },
+        "formulas": {
+            "competitiveness": "Base(Margin) + Pressure_Bonus(L5 Overs)",
+            "pressure": "((RR_Gap / Start_RR) * 40) + ((Wickets / 10) * 60)",
+            "batting_impact": "Runs + (SR/Match_SR * 25)",
+            "bowling_impact": "(Wickets * 30) + (Match_RR/Econ * 20)"
+        }
+    },
+    "scorecards": {
+        "batting": [
+            {
+                "player": "Sahibzada Farhan",
+                "team": "Pakistan",
+                "runs": 63,
+                "balls": 45,
+                "sr": 140.0,
+                "fours": 7,
+                "sixes": 2,
+                "win_contribution_percent": 38.4,
+                "score": 89.3
+            },
+            {
+                "player": "Babar Azam",
+                "team": "Pakistan",
+                "runs": 25,
+                "balls": 25,
+                "sr": 100.0,
+                "fours": 2,
+                "sixes": 0,
+                "win_contribution_percent": 15.2,
+                "score": 43.79
+            },
+            {
+                "player": "Fakhar Zaman",
+                "team": "Pakistan",
+                "runs": 25,
+                "balls": 16,
+                "sr": 156.25,
+                "fours": 2,
+                "sixes": 2,
+                "win_contribution_percent": 15.2,
+                "score": 54.36
+            },
+            {
+                "player": "Shadab Khan",
+                "team": "Pakistan",
+                "runs": 23,
+                "balls": 12,
+                "sr": 191.67,
+                "fours": 4,
+                "sixes": 0,
+                "win_contribution_percent": 14.0,
+                "score": 59.01
+            },
+            {
+                "player": "Usman Khan",
+                "team": "Pakistan",
+                "runs": 8,
+                "balls": 5,
+                "sr": 160.0,
+                "fours": 0,
+                "sixes": 1,
+                "win_contribution_percent": 4.9,
+                "score": 38.06
+            },
+            {
+                "player": "Saim Ayub",
+                "team": "Pakistan",
+                "runs": 7,
+                "balls": 8,
+                "sr": 87.5,
+                "fours": 1,
+                "sixes": 0,
+                "win_contribution_percent": 4.3,
+                "score": 23.44
+            },
+            {
+                "player": "Agha Salman",
+                "team": "Pakistan",
+                "runs": 5,
+                "balls": 6,
+                "sr": 83.33,
+                "fours": 1,
+                "sixes": 0,
+                "win_contribution_percent": 3.0,
+                "score": 20.66
+            },
+            {
+                "player": "Salman Mirza",
+                "team": "Pakistan",
+                "runs": 2,
+                "balls": 3,
+                "sr": 66.67,
+                "fours": 0,
+                "sixes": 0,
+                "win_contribution_percent": 1.2,
+                "score": 14.53
+            },
+            {
+                "player": "Shaheen Shah Afridi",
+                "team": "Pakistan",
+                "runs": 2,
+                "balls": 3,
+                "sr": 66.67,
+                "fours": 0,
+                "sixes": 0,
+                "win_contribution_percent": 1.2,
+                "score": 14.53
+            },
+            {
+                "player": "Mohammad Nawaz",
+                "team": "Pakistan",
+                "runs": 0,
+                "balls": 1,
+                "sr": 0.0,
+                "fours": 0,
+                "sixes": 0,
+                "win_contribution_percent": 0.0,
+                "score": 0.0
+            },
+            {
+                "player": "HC Brook",
+                "team": "England",
+                "runs": 100,
+                "balls": 52,
+                "sr": 192.31,
+                "fours": 10,
+                "sixes": 4,
+                "win_contribution_percent": 60.2,
+                "score": 136.13
+            },
+            {
+                "player": "WG Jacks",
+                "team": "England",
+                "runs": 28,
+                "balls": 25,
+                "sr": 112.0,
+                "fours": 1,
+                "sixes": 2,
+                "win_contribution_percent": 16.9,
+                "score": 49.04
+            },
+            {
+                "player": "SM Curran",
+                "team": "England",
+                "runs": 16,
+                "balls": 15,
+                "sr": 106.67,
+                "fours": 1,
+                "sixes": 0,
+                "win_contribution_percent": 9.6,
+                "score": 36.04
+            },
+            {
+                "player": "JG Bethell",
+                "team": "England",
+                "runs": 8,
+                "balls": 10,
+                "sr": 80.0,
+                "fours": 1,
+                "sixes": 0,
+                "win_contribution_percent": 4.8,
+                "score": 23.03
+            },
+            {
+                "player": "JC Archer",
+                "team": "England",
+                "runs": 5,
+                "balls": 2,
+                "sr": 250.0,
+                "fours": 1,
+                "sixes": 0,
+                "win_contribution_percent": 3.0,
+                "score": 51.97
+            },
+            {
+                "player": "JC Buttler",
+                "team": "England",
+                "runs": 2,
+                "balls": 3,
+                "sr": 66.67,
+                "fours": 0,
+                "sixes": 0,
+                "win_contribution_percent": 1.2,
+                "score": 14.53
+            },
+            {
+                "player": "T Banton",
+                "team": "England",
+                "runs": 2,
+                "balls": 6,
+                "sr": 33.33,
+                "fours": 0,
+                "sixes": 0,
+                "win_contribution_percent": 1.2,
+                "score": 8.26
+            },
+            {
+                "player": "LA Dawson",
+                "team": "England",
+                "runs": 1,
+                "balls": 1,
+                "sr": 100.0,
+                "fours": 0,
+                "sixes": 0,
+                "win_contribution_percent": 0.6,
+                "score": 19.79
+            },
+            {
+                "player": "J Overton",
+                "team": "England",
+                "runs": 0,
+                "balls": 3,
+                "sr": 0.0,
+                "fours": 0,
+                "sixes": 0,
+                "win_contribution_percent": 0.0,
+                "score": 0.0
+            },
+            {
+                "player": "PD Salt",
+                "team": "England",
+                "runs": 0,
+                "balls": 1,
+                "sr": 0.0,
+                "fours": 0,
+                "sixes": 0,
+                "win_contribution_percent": 0.0,
+                "score": 0.0
+            }
+        ],
+        "bowling": [
+            {
+                "player": "LA Dawson",
+                "team": "England",
+                "overs": 4.0,
+                "runs": 24,
+                "wickets": 3,
+                "econ": 6.0,
+                "score": 117.27,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "JC Archer",
+                "team": "England",
+                "overs": 4.0,
+                "runs": 32,
+                "wickets": 2,
+                "econ": 8.0,
+                "score": 80.45,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "J Overton",
+                "team": "England",
+                "overs": 3.0,
+                "runs": 26,
+                "wickets": 2,
+                "econ": 8.67,
+                "score": 78.87,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "AU Rashid",
+                "team": "England",
+                "overs": 4.0,
+                "runs": 31,
+                "wickets": 1,
+                "econ": 7.75,
+                "score": 51.11,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "SM Curran",
+                "team": "England",
+                "overs": 3.0,
+                "runs": 24,
+                "wickets": 0,
+                "econ": 8.0,
+                "score": 20.45,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "WG Jacks",
+                "team": "England",
+                "overs": 2.0,
+                "runs": 27,
+                "wickets": 0,
+                "econ": 13.5,
+                "score": 12.12,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "Shaheen Shah Afridi",
+                "team": "Pakistan",
+                "overs": 4.0,
+                "runs": 31,
+                "wickets": 4,
+                "econ": 7.75,
+                "score": 141.11,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "Usman Tariq",
+                "team": "Pakistan",
+                "overs": 4.0,
+                "runs": 31,
+                "wickets": 2,
+                "econ": 7.75,
+                "score": 81.11,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "Mohammad Nawaz",
+                "team": "Pakistan",
+                "overs": 3.0,
+                "runs": 26,
+                "wickets": 2,
+                "econ": 8.67,
+                "score": 78.87,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "Salman Mirza",
+                "team": "Pakistan",
+                "overs": 3.1,
+                "runs": 26,
+                "wickets": 0,
+                "econ": 8.21,
+                "score": 19.93,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "Shadab Khan",
+                "team": "Pakistan",
+                "overs": 3.0,
+                "runs": 31,
+                "wickets": 0,
+                "econ": 10.33,
+                "score": 15.84,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "Saim Ayub",
+                "team": "Pakistan",
+                "overs": 2.0,
+                "runs": 21,
+                "wickets": 0,
+                "econ": 10.5,
+                "score": 15.58,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            }
+        ]
+    },
+    "innings": [
+        {
+            "innings": 1,
+            "team": "Pakistan",
+            "total_runs": 164,
+            "total_wickets": 9,
+            "balls_faced": 120,
+            "overs_faced": 20.0,
+            "phase_analysis": {
+                "Powerplay": {
+                    "runs": 46,
+                    "wkts": 2,
+                    "rr": 7.67
+                },
+                "Middle": {
+                    "runs": 66,
+                    "wkts": 1,
+                    "rr": 7.33
+                },
+                "Death": {
+                    "runs": 52,
+                    "wkts": 6,
+                    "rr": 10.4
+                }
+            }
+        },
+        {
+            "innings": 2,
+            "team": "England",
+            "total_runs": 166,
+            "total_wickets": 8,
+            "balls_faced": 115,
+            "overs_faced": 19.1,
+            "phase_analysis": {
+                "Powerplay": {
+                    "runs": 53,
+                    "wkts": 3,
+                    "rr": 8.83
+                },
+                "Middle": {
+                    "runs": 71,
+                    "wkts": 2,
+                    "rr": 7.89
+                },
+                "Death": {
+                    "runs": 42,
+                    "wkts": 3,
+                    "rr": 10.08
+                }
+            },
+            "pressure_index": 84.0,
+            "target": 165
+        }
+    ],
+    "players": [
+        {
+            "player": "Shaheen Shah Afridi",
+            "team": "Pakistan",
+            "overs": 4.0,
+            "runs": 31,
+            "wickets": 4,
+            "econ": 7.75,
+            "score": 141.11,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-31r-4w"
+        },
+        {
+            "player": "HC Brook",
+            "team": "England",
+            "runs": 100,
+            "balls": 52,
+            "sr": 192.31,
+            "fours": 10,
+            "sixes": 4,
+            "win_contribution_percent": 60.2,
+            "score": 136.13,
+            "role": "batting",
+            "match_stats": "100(52)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "LA Dawson",
+            "team": "England",
+            "overs": 4.0,
+            "runs": 24,
+            "wickets": 3,
+            "econ": 6.0,
+            "score": 117.27,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-24r-3w"
+        },
+        {
+            "player": "Sahibzada Farhan",
+            "team": "Pakistan",
+            "runs": 63,
+            "balls": 45,
+            "sr": 140.0,
+            "fours": 7,
+            "sixes": 2,
+            "win_contribution_percent": 38.4,
+            "score": 89.3,
+            "role": "batting",
+            "match_stats": "63(45)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "Usman Tariq",
+            "team": "Pakistan",
+            "overs": 4.0,
+            "runs": 31,
+            "wickets": 2,
+            "econ": 7.75,
+            "score": 81.11,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-31r-2w"
+        },
+        {
+            "player": "JC Archer",
+            "team": "England",
+            "overs": 4.0,
+            "runs": 32,
+            "wickets": 2,
+            "econ": 8.0,
+            "score": 80.45,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-32r-2w"
+        },
+        {
+            "player": "J Overton",
+            "team": "England",
+            "overs": 3.0,
+            "runs": 26,
+            "wickets": 2,
+            "econ": 8.67,
+            "score": 78.87,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "3.0o-26r-2w"
+        },
+        {
+            "player": "Mohammad Nawaz",
+            "team": "Pakistan",
+            "overs": 3.0,
+            "runs": 26,
+            "wickets": 2,
+            "econ": 8.67,
+            "score": 78.87,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "3.0o-26r-2w"
+        },
+        {
+            "player": "Shadab Khan",
+            "team": "Pakistan",
+            "runs": 23,
+            "balls": 12,
+            "sr": 191.67,
+            "fours": 4,
+            "sixes": 0,
+            "win_contribution_percent": 14.0,
+            "score": 59.01,
+            "role": "batting",
+            "match_stats": "23(12)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "Fakhar Zaman",
+            "team": "Pakistan",
+            "runs": 25,
+            "balls": 16,
+            "sr": 156.25,
+            "fours": 2,
+            "sixes": 2,
+            "win_contribution_percent": 15.2,
+            "score": 54.36,
+            "role": "batting",
+            "match_stats": "25(16)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "JC Archer",
+            "team": "England",
+            "runs": 5,
+            "balls": 2,
+            "sr": 250.0,
+            "fours": 1,
+            "sixes": 0,
+            "win_contribution_percent": 3.0,
+            "score": 51.97,
+            "role": "batting",
+            "match_stats": "5(2)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "AU Rashid",
+            "team": "England",
+            "overs": 4.0,
+            "runs": 31,
+            "wickets": 1,
+            "econ": 7.75,
+            "score": 51.11,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-31r-1w"
+        },
+        {
+            "player": "WG Jacks",
+            "team": "England",
+            "runs": 28,
+            "balls": 25,
+            "sr": 112.0,
+            "fours": 1,
+            "sixes": 2,
+            "win_contribution_percent": 16.9,
+            "score": 49.04,
+            "role": "batting",
+            "match_stats": "28(25)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "Babar Azam",
+            "team": "Pakistan",
+            "runs": 25,
+            "balls": 25,
+            "sr": 100.0,
+            "fours": 2,
+            "sixes": 0,
+            "win_contribution_percent": 15.2,
+            "score": 43.79,
+            "role": "batting",
+            "match_stats": "25(25)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "Usman Khan",
+            "team": "Pakistan",
+            "runs": 8,
+            "balls": 5,
+            "sr": 160.0,
+            "fours": 0,
+            "sixes": 1,
+            "win_contribution_percent": 4.9,
+            "score": 38.06,
+            "role": "batting",
+            "match_stats": "8(5)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "SM Curran",
+            "team": "England",
+            "runs": 16,
+            "balls": 15,
+            "sr": 106.67,
+            "fours": 1,
+            "sixes": 0,
+            "win_contribution_percent": 9.6,
+            "score": 36.04,
+            "role": "batting",
+            "match_stats": "16(15)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "Saim Ayub",
+            "team": "Pakistan",
+            "runs": 7,
+            "balls": 8,
+            "sr": 87.5,
+            "fours": 1,
+            "sixes": 0,
+            "win_contribution_percent": 4.3,
+            "score": 23.44,
+            "role": "batting",
+            "match_stats": "7(8)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "JG Bethell",
+            "team": "England",
+            "runs": 8,
+            "balls": 10,
+            "sr": 80.0,
+            "fours": 1,
+            "sixes": 0,
+            "win_contribution_percent": 4.8,
+            "score": 23.03,
+            "role": "batting",
+            "match_stats": "8(10)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "Agha Salman",
+            "team": "Pakistan",
+            "runs": 5,
+            "balls": 6,
+            "sr": 83.33,
+            "fours": 1,
+            "sixes": 0,
+            "win_contribution_percent": 3.0,
+            "score": 20.66,
+            "role": "batting",
+            "match_stats": "5(6)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "SM Curran",
+            "team": "England",
+            "overs": 3.0,
+            "runs": 24,
+            "wickets": 0,
+            "econ": 8.0,
+            "score": 20.45,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "3.0o-24r-0w"
+        },
+        {
+            "player": "Salman Mirza",
+            "team": "Pakistan",
+            "overs": 3.1,
+            "runs": 26,
+            "wickets": 0,
+            "econ": 8.21,
+            "score": 19.93,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "3.1o-26r-0w"
+        },
+        {
+            "player": "LA Dawson",
+            "team": "England",
+            "runs": 1,
+            "balls": 1,
+            "sr": 100.0,
+            "fours": 0,
+            "sixes": 0,
+            "win_contribution_percent": 0.6,
+            "score": 19.79,
+            "role": "batting",
+            "match_stats": "1(1)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "Shadab Khan",
+            "team": "Pakistan",
+            "overs": 3.0,
+            "runs": 31,
+            "wickets": 0,
+            "econ": 10.33,
+            "score": 15.84,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "3.0o-31r-0w"
+        },
+        {
+            "player": "Saim Ayub",
+            "team": "Pakistan",
+            "overs": 2.0,
+            "runs": 21,
+            "wickets": 0,
+            "econ": 10.5,
+            "score": 15.58,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "2.0o-21r-0w"
+        },
+        {
+            "player": "Salman Mirza",
+            "team": "Pakistan",
+            "runs": 2,
+            "balls": 3,
+            "sr": 66.67,
+            "fours": 0,
+            "sixes": 0,
+            "win_contribution_percent": 1.2,
+            "score": 14.53,
+            "role": "batting",
+            "match_stats": "2(3)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "Shaheen Shah Afridi",
+            "team": "Pakistan",
+            "runs": 2,
+            "balls": 3,
+            "sr": 66.67,
+            "fours": 0,
+            "sixes": 0,
+            "win_contribution_percent": 1.2,
+            "score": 14.53,
+            "role": "batting",
+            "match_stats": "2(3)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "JC Buttler",
+            "team": "England",
+            "runs": 2,
+            "balls": 3,
+            "sr": 66.67,
+            "fours": 0,
+            "sixes": 0,
+            "win_contribution_percent": 1.2,
+            "score": 14.53,
+            "role": "batting",
+            "match_stats": "2(3)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "WG Jacks",
+            "team": "England",
+            "overs": 2.0,
+            "runs": 27,
+            "wickets": 0,
+            "econ": 13.5,
+            "score": 12.12,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "2.0o-27r-0w"
+        },
+        {
+            "player": "T Banton",
+            "team": "England",
+            "runs": 2,
+            "balls": 6,
+            "sr": 33.33,
+            "fours": 0,
+            "sixes": 0,
+            "win_contribution_percent": 1.2,
+            "score": 8.26,
+            "role": "batting",
+            "match_stats": "2(6)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "Mohammad Nawaz",
+            "team": "Pakistan",
+            "runs": 0,
+            "balls": 1,
+            "sr": 0.0,
+            "fours": 0,
+            "sixes": 0,
+            "win_contribution_percent": 0.0,
+            "score": 0.0,
+            "role": "batting",
+            "match_stats": "0(1)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "J Overton",
+            "team": "England",
+            "runs": 0,
+            "balls": 3,
+            "sr": 0.0,
+            "fours": 0,
+            "sixes": 0,
+            "win_contribution_percent": 0.0,
+            "score": 0.0,
+            "role": "batting",
+            "match_stats": "0(3)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "PD Salt",
+            "team": "England",
+            "runs": 0,
+            "balls": 1,
+            "sr": 0.0,
+            "fours": 0,
+            "sixes": 0,
+            "win_contribution_percent": 0.0,
+            "score": 0.0,
+            "role": "batting",
+            "match_stats": "0(1)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        }
+    ],
+    "validation": {
+        "logical_stability": true
+    }
+}

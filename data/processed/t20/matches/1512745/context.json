@@ -1,0 +1,1265 @@
+{
+    "match_id": "1512745",
+    "metadata": {
+        "tournament": "2025/26",
+        "venue": "R Premadasa Stadium, Colombo",
+        "date": "2026-02-15",
+        "stage": "ICC Men's T20 World Cup",
+        "winner": "India",
+        "loser": "Pakistan",
+        "win_classification": "Moderate",
+        "margin_runs": 61,
+        "margin_wickets": null,
+        "competitiveness_index": 85.0,
+        "teams": {
+            "India": {
+                "captain": "Kuldeep Yadav",
+                "playing_xi_count": 11
+            },
+            "Pakistan": {
+                "captain": "Babar Azam",
+                "playing_xi_count": 11
+            }
+        },
+        "team_summary": {
+            "India": {
+                "run_rate": 8.75,
+                "fours": 19,
+                "sixes": 6,
+                "boundary_runs": 112,
+                "dot_balls": 43,
+                "total_runs": 175,
+                "total_wickets": 7
+            },
+            "Pakistan": {
+                "run_rate": 6.33,
+                "fours": 12,
+                "sixes": 3,
+                "boundary_runs": 66,
+                "dot_balls": 55,
+                "total_runs": 114,
+                "total_wickets": 10
+            }
+        },
+        "formulas": {
+            "competitiveness": "Base(Margin) + Pressure_Bonus(L5 Overs)",
+            "pressure": "((RR_Gap / Start_RR) * 40) + ((Wickets / 10) * 60)",
+            "batting_impact": "Runs + (SR/Match_SR * 25)",
+            "bowling_impact": "(Wickets * 30) + (Match_RR/Econ * 20)"
+        }
+    },
+    "scorecards": {
+        "batting": [
+            {
+                "player": "Ishan Kishan",
+                "team": "India",
+                "runs": 77,
+                "balls": 40,
+                "sr": 192.5,
+                "fours": 10,
+                "sixes": 3,
+                "win_contribution_percent": 44.0,
+                "score": 116.59
+            },
+            {
+                "player": "SA Yadav",
+                "team": "India",
+                "runs": 32,
+                "balls": 30,
+                "sr": 106.67,
+                "fours": 3,
+                "sixes": 0,
+                "win_contribution_percent": 18.3,
+                "score": 53.94
+            },
+            {
+                "player": "S Dube",
+                "team": "India",
+                "runs": 27,
+                "balls": 17,
+                "sr": 158.82,
+                "fours": 3,
+                "sixes": 1,
+                "win_contribution_percent": 15.4,
+                "score": 59.67
+            },
+            {
+                "player": "Tilak Varma",
+                "team": "India",
+                "runs": 25,
+                "balls": 24,
+                "sr": 104.17,
+                "fours": 2,
+                "sixes": 1,
+                "win_contribution_percent": 14.3,
+                "score": 46.43
+            },
+            {
+                "player": "RK Singh",
+                "team": "India",
+                "runs": 11,
+                "balls": 4,
+                "sr": 275.0,
+                "fours": 1,
+                "sixes": 1,
+                "win_contribution_percent": 6.3,
+                "score": 67.56
+            },
+            {
+                "player": "AR Patel",
+                "team": "India",
+                "runs": 0,
+                "balls": 1,
+                "sr": 0.0,
+                "fours": 0,
+                "sixes": 0,
+                "win_contribution_percent": 0.0,
+                "score": 0.0
+            },
+            {
+                "player": "Abhishek Sharma",
+                "team": "India",
+                "runs": 0,
+                "balls": 4,
+                "sr": 0.0,
+                "fours": 0,
+                "sixes": 0,
+                "win_contribution_percent": 0.0,
+                "score": 0.0
+            },
+            {
+                "player": "HH Pandya",
+                "team": "India",
+                "runs": 0,
+                "balls": 1,
+                "sr": 0.0,
+                "fours": 0,
+                "sixes": 0,
+                "win_contribution_percent": 0.0,
+                "score": 0.0
+            },
+            {
+                "player": "Usman Khan",
+                "team": "Pakistan",
+                "runs": 44,
+                "balls": 34,
+                "sr": 129.41,
+                "fours": 6,
+                "sixes": 1,
+                "win_contribution_percent": 38.6,
+                "score": 70.62
+            },
+            {
+                "player": "Shaheen Shah Afridi",
+                "team": "Pakistan",
+                "runs": 23,
+                "balls": 20,
+                "sr": 115.0,
+                "fours": 2,
+                "sixes": 1,
+                "win_contribution_percent": 20.2,
+                "score": 46.65
+            },
+            {
+                "player": "Shadab Khan",
+                "team": "Pakistan",
+                "runs": 14,
+                "balls": 15,
+                "sr": 93.33,
+                "fours": 1,
+                "sixes": 0,
+                "win_contribution_percent": 12.3,
+                "score": 33.2
+            },
+            {
+                "player": "Faheem Ashraf",
+                "team": "Pakistan",
+                "runs": 10,
+                "balls": 15,
+                "sr": 66.67,
+                "fours": 1,
+                "sixes": 0,
+                "win_contribution_percent": 8.8,
+                "score": 23.71
+            },
+            {
+                "player": "Saim Ayub",
+                "team": "Pakistan",
+                "runs": 6,
+                "balls": 2,
+                "sr": 300.0,
+                "fours": 0,
+                "sixes": 1,
+                "win_contribution_percent": 5.3,
+                "score": 67.7
+            },
+            {
+                "player": "Babar Azam",
+                "team": "Pakistan",
+                "runs": 5,
+                "balls": 8,
+                "sr": 62.5,
+                "fours": 0,
+                "sixes": 0,
+                "win_contribution_percent": 4.4,
+                "score": 17.85
+            },
+            {
+                "player": "Agha Salman",
+                "team": "Pakistan",
+                "runs": 4,
+                "balls": 4,
+                "sr": 100.0,
+                "fours": 1,
+                "sixes": 0,
+                "win_contribution_percent": 3.5,
+                "score": 24.57
+            },
+            {
+                "player": "Mohammad Nawaz",
+                "team": "Pakistan",
+                "runs": 4,
+                "balls": 5,
+                "sr": 80.0,
+                "fours": 1,
+                "sixes": 0,
+                "win_contribution_percent": 3.5,
+                "score": 20.45
+            },
+            {
+                "player": "Abrar Ahmed",
+                "team": "Pakistan",
+                "runs": 0,
+                "balls": 1,
+                "sr": 0.0,
+                "fours": 0,
+                "sixes": 0,
+                "win_contribution_percent": 0.0,
+                "score": 0.0
+            },
+            {
+                "player": "Sahibzada Farhan",
+                "team": "Pakistan",
+                "runs": 0,
+                "balls": 4,
+                "sr": 0.0,
+                "fours": 0,
+                "sixes": 0,
+                "win_contribution_percent": 0.0,
+                "score": 0.0
+            },
+            {
+                "player": "Usman Tariq",
+                "team": "Pakistan",
+                "runs": 0,
+                "balls": 3,
+                "sr": 0.0,
+                "fours": 0,
+                "sixes": 0,
+                "win_contribution_percent": 0.0,
+                "score": 0.0
+            }
+        ],
+        "bowling": [
+            {
+                "player": "Saim Ayub",
+                "team": "Pakistan",
+                "overs": 4.0,
+                "runs": 25,
+                "wickets": 3,
+                "econ": 6.25,
+                "score": 113.92,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "Agha Salman",
+                "team": "Pakistan",
+                "overs": 2.0,
+                "runs": 10,
+                "wickets": 1,
+                "econ": 5.0,
+                "score": 59.9,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "Usman Tariq",
+                "team": "Pakistan",
+                "overs": 4.0,
+                "runs": 25,
+                "wickets": 1,
+                "econ": 6.25,
+                "score": 53.92,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "Shaheen Shah Afridi",
+                "team": "Pakistan",
+                "overs": 2.0,
+                "runs": 31,
+                "wickets": 1,
+                "econ": 15.5,
+                "score": 39.64,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "Mohammad Nawaz",
+                "team": "Pakistan",
+                "overs": 4.0,
+                "runs": 29,
+                "wickets": 0,
+                "econ": 7.25,
+                "score": 20.62,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "Abrar Ahmed",
+                "team": "Pakistan",
+                "overs": 3.0,
+                "runs": 38,
+                "wickets": 0,
+                "econ": 12.67,
+                "score": 11.8,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "Shadab Khan",
+                "team": "Pakistan",
+                "overs": 1.0,
+                "runs": 17,
+                "wickets": 0,
+                "econ": 17.0,
+                "score": 8.79,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "HH Pandya",
+                "team": "India",
+                "overs": 3.0,
+                "runs": 16,
+                "wickets": 2,
+                "econ": 5.33,
+                "score": 88.05,
+                "bowling_baseline": {
+                    "career_wickets": 111,
+                    "career_economy": 8.49,
+                    "career_sr": 19.4,
+                    "career_avg": 27.46,
+                    "best_bowling": "4/38",
+                    "matches": 121,
+                    "source": "t20_bowling_master",
+                    "baseline_available": true
+                }
+            },
+            {
+                "player": "CV Varun",
+                "team": "India",
+                "overs": 3.0,
+                "runs": 17,
+                "wickets": 2,
+                "econ": 5.67,
+                "score": 86.36,
+                "bowling_baseline": {
+                    "career_wickets": 71,
+                    "career_economy": 7.36,
+                    "career_sr": 12.97,
+                    "career_avg": 15.9,
+                    "best_bowling": "5/24",
+                    "matches": 41,
+                    "source": "t20_bowling_master",
+                    "baseline_available": true
+                }
+            },
+            {
+                "player": "AR Patel",
+                "team": "India",
+                "overs": 4.0,
+                "runs": 29,
+                "wickets": 2,
+                "econ": 7.25,
+                "score": 80.62,
+                "bowling_baseline": {
+                    "career_wickets": 88,
+                    "career_economy": 7.59,
+                    "career_sr": 17.7,
+                    "career_avg": 22.41,
+                    "best_bowling": "3/18",
+                    "matches": 82,
+                    "source": "t20_bowling_master",
+                    "baseline_available": true
+                }
+            },
+            {
+                "player": "JJ Bumrah",
+                "team": "India",
+                "overs": 2.0,
+                "runs": 17,
+                "wickets": 2,
+                "econ": 8.5,
+                "score": 77.59,
+                "bowling_baseline": {
+                    "career_wickets": 113,
+                    "career_economy": 6.85,
+                    "career_sr": 17.08,
+                    "career_avg": 19.51,
+                    "best_bowling": "3/23",
+                    "matches": 88,
+                    "source": "t20_bowling_master",
+                    "baseline_available": true
+                }
+            },
+            {
+                "player": "Kuldeep Yadav",
+                "team": "India",
+                "overs": 3.0,
+                "runs": 15,
+                "wickets": 1,
+                "econ": 5.0,
+                "score": 59.9,
+                "bowling_baseline": {
+                    "career_wickets": 92,
+                    "career_economy": 7.03,
+                    "career_sr": 11.79,
+                    "career_avg": 13.82,
+                    "best_bowling": "5/24",
+                    "matches": 50,
+                    "source": "t20_bowling_master",
+                    "baseline_available": true
+                }
+            },
+            {
+                "player": "Tilak Varma",
+                "team": "India",
+                "overs": 2.0,
+                "runs": 11,
+                "wickets": 1,
+                "econ": 5.5,
+                "score": 57.18,
+                "bowling_baseline": {
+                    "career_wickets": 4,
+                    "career_economy": 5.89,
+                    "career_sr": 14.25,
+                    "career_avg": 14.0,
+                    "best_bowling": "1/17",
+                    "matches": 7,
+                    "source": "t20_bowling_master",
+                    "baseline_available": true
+                }
+            },
+            {
+                "player": "RK Singh",
+                "team": "India",
+                "overs": 1.0,
+                "runs": 9,
+                "wickets": 0,
+                "econ": 9.0,
+                "score": 16.61,
+                "bowling_baseline": {
+                    "career_wickets": 3,
+                    "career_economy": 7.12,
+                    "career_sr": 5.33,
+                    "career_avg": 6.33,
+                    "best_bowling": "2/3",
+                    "matches": 3,
+                    "source": "t20_bowling_master",
+                    "baseline_available": true
+                }
+            }
+        ]
+    },
+    "innings": [
+        {
+            "innings": 1,
+            "team": "India",
+            "total_runs": 175,
+            "total_wickets": 7,
+            "balls_faced": 120,
+            "overs_faced": 20.0,
+            "phase_analysis": {
+                "Powerplay": {
+                    "runs": 52,
+                    "wkts": 1,
+                    "rr": 8.67
+                },
+                "Middle": {
+                    "runs": 75,
+                    "wkts": 3,
+                    "rr": 8.33
+                },
+                "Death": {
+                    "runs": 48,
+                    "wkts": 3,
+                    "rr": 9.6
+                }
+            }
+        },
+        {
+            "innings": 2,
+            "team": "Pakistan",
+            "total_runs": 114,
+            "total_wickets": 10,
+            "balls_faced": 108,
+            "overs_faced": 18.0,
+            "phase_analysis": {
+                "Powerplay": {
+                    "runs": 38,
+                    "wkts": 4,
+                    "rr": 6.33
+                },
+                "Middle": {
+                    "runs": 56,
+                    "wkts": 3,
+                    "rr": 6.22
+                },
+                "Death": {
+                    "runs": 20,
+                    "wkts": 3,
+                    "rr": 6.67
+                }
+            },
+            "pressure_index": 89.0,
+            "target": 176
+        }
+    ],
+    "players": [
+        {
+            "player": "Ishan Kishan",
+            "team": "India",
+            "runs": 77,
+            "balls": 40,
+            "sr": 192.5,
+            "fours": 10,
+            "sixes": 3,
+            "win_contribution_percent": 44.0,
+            "score": 116.59,
+            "role": "batting",
+            "match_stats": "77(40)",
+            "baseline": {
+                "avg": 29.68,
+                "sr": 138.02,
+                "matches": 41,
+                "source": "t20_master",
+                "baseline_available": true
+            }
+        },
+        {
+            "player": "Saim Ayub",
+            "team": "Pakistan",
+            "overs": 4.0,
+            "runs": 25,
+            "wickets": 3,
+            "econ": 6.25,
+            "score": 113.92,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-25r-3w"
+        },
+        {
+            "player": "HH Pandya",
+            "team": "India",
+            "overs": 3.0,
+            "runs": 16,
+            "wickets": 2,
+            "econ": 5.33,
+            "score": 88.05,
+            "bowling_baseline": {
+                "career_wickets": 111,
+                "career_economy": 8.49,
+                "career_sr": 19.4,
+                "career_avg": 27.46,
+                "best_bowling": "4/38",
+                "matches": 121,
+                "source": "t20_bowling_master",
+                "baseline_available": true
+            },
+            "role": "bowling",
+            "match_stats": "3.0o-16r-2w"
+        },
+        {
+            "player": "CV Varun",
+            "team": "India",
+            "overs": 3.0,
+            "runs": 17,
+            "wickets": 2,
+            "econ": 5.67,
+            "score": 86.36,
+            "bowling_baseline": {
+                "career_wickets": 71,
+                "career_economy": 7.36,
+                "career_sr": 12.97,
+                "career_avg": 15.9,
+                "best_bowling": "5/24",
+                "matches": 41,
+                "source": "t20_bowling_master",
+                "baseline_available": true
+            },
+            "role": "bowling",
+            "match_stats": "3.0o-17r-2w"
+        },
+        {
+            "player": "AR Patel",
+            "team": "India",
+            "overs": 4.0,
+            "runs": 29,
+            "wickets": 2,
+            "econ": 7.25,
+            "score": 80.62,
+            "bowling_baseline": {
+                "career_wickets": 88,
+                "career_economy": 7.59,
+                "career_sr": 17.7,
+                "career_avg": 22.41,
+                "best_bowling": "3/18",
+                "matches": 82,
+                "source": "t20_bowling_master",
+                "baseline_available": true
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-29r-2w"
+        },
+        {
+            "player": "JJ Bumrah",
+            "team": "India",
+            "overs": 2.0,
+            "runs": 17,
+            "wickets": 2,
+            "econ": 8.5,
+            "score": 77.59,
+            "bowling_baseline": {
+                "career_wickets": 113,
+                "career_economy": 6.85,
+                "career_sr": 17.08,
+                "career_avg": 19.51,
+                "best_bowling": "3/23",
+                "matches": 88,
+                "source": "t20_bowling_master",
+                "baseline_available": true
+            },
+            "role": "bowling",
+            "match_stats": "2.0o-17r-2w"
+        },
+        {
+            "player": "Usman Khan",
+            "team": "Pakistan",
+            "runs": 44,
+            "balls": 34,
+            "sr": 129.41,
+            "fours": 6,
+            "sixes": 1,
+            "win_contribution_percent": 38.6,
+            "score": 70.62,
+            "role": "batting",
+            "match_stats": "44(34)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "Saim Ayub",
+            "team": "Pakistan",
+            "runs": 6,
+            "balls": 2,
+            "sr": 300.0,
+            "fours": 0,
+            "sixes": 1,
+            "win_contribution_percent": 5.3,
+            "score": 67.7,
+            "role": "batting",
+            "match_stats": "6(2)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "RK Singh",
+            "team": "India",
+            "runs": 11,
+            "balls": 4,
+            "sr": 275.0,
+            "fours": 1,
+            "sixes": 1,
+            "win_contribution_percent": 6.3,
+            "score": 67.56,
+            "role": "batting",
+            "match_stats": "11(4)",
+            "baseline": {
+                "avg": 28.1,
+                "sr": 136.57,
+                "matches": 34,
+                "source": "t20_master",
+                "baseline_available": true
+            }
+        },
+        {
+            "player": "Agha Salman",
+            "team": "Pakistan",
+            "overs": 2.0,
+            "runs": 10,
+            "wickets": 1,
+            "econ": 5.0,
+            "score": 59.9,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "2.0o-10r-1w"
+        },
+        {
+            "player": "Kuldeep Yadav",
+            "team": "India",
+            "overs": 3.0,
+            "runs": 15,
+            "wickets": 1,
+            "econ": 5.0,
+            "score": 59.9,
+            "bowling_baseline": {
+                "career_wickets": 92,
+                "career_economy": 7.03,
+                "career_sr": 11.79,
+                "career_avg": 13.82,
+                "best_bowling": "5/24",
+                "matches": 50,
+                "source": "t20_bowling_master",
+                "baseline_available": true
+            },
+            "role": "bowling",
+            "match_stats": "3.0o-15r-1w"
+        },
+        {
+            "player": "S Dube",
+            "team": "India",
+            "runs": 27,
+            "balls": 17,
+            "sr": 158.82,
+            "fours": 3,
+            "sixes": 1,
+            "win_contribution_percent": 15.4,
+            "score": 59.67,
+            "role": "batting",
+            "match_stats": "27(17)",
+            "baseline": {
+                "avg": 31.2,
+                "sr": 141.3,
+                "matches": 40,
+                "source": "t20_master",
+                "baseline_available": true
+            }
+        },
+        {
+            "player": "Tilak Varma",
+            "team": "India",
+            "overs": 2.0,
+            "runs": 11,
+            "wickets": 1,
+            "econ": 5.5,
+            "score": 57.18,
+            "bowling_baseline": {
+                "career_wickets": 4,
+                "career_economy": 5.89,
+                "career_sr": 14.25,
+                "career_avg": 14.0,
+                "best_bowling": "1/17",
+                "matches": 7,
+                "source": "t20_bowling_master",
+                "baseline_available": true
+            },
+            "role": "bowling",
+            "match_stats": "2.0o-11r-1w"
+        },
+        {
+            "player": "SA Yadav",
+            "team": "India",
+            "runs": 32,
+            "balls": 30,
+            "sr": 106.67,
+            "fours": 3,
+            "sixes": 0,
+            "win_contribution_percent": 18.3,
+            "score": 53.94,
+            "role": "batting",
+            "match_stats": "32(30)",
+            "baseline": {
+                "avg": 38.51,
+                "sr": 156.8,
+                "matches": 101,
+                "source": "t20_master",
+                "baseline_available": true
+            }
+        },
+        {
+            "player": "Usman Tariq",
+            "team": "Pakistan",
+            "overs": 4.0,
+            "runs": 25,
+            "wickets": 1,
+            "econ": 6.25,
+            "score": 53.92,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-25r-1w"
+        },
+        {
+            "player": "Shaheen Shah Afridi",
+            "team": "Pakistan",
+            "runs": 23,
+            "balls": 20,
+            "sr": 115.0,
+            "fours": 2,
+            "sixes": 1,
+            "win_contribution_percent": 20.2,
+            "score": 46.65,
+            "role": "batting",
+            "match_stats": "23(20)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "Tilak Varma",
+            "team": "India",
+            "runs": 25,
+            "balls": 24,
+            "sr": 104.17,
+            "fours": 2,
+            "sixes": 1,
+            "win_contribution_percent": 14.3,
+            "score": 46.43,
+            "role": "batting",
+            "match_stats": "25(24)",
+            "baseline": {
+                "avg": 46.81,
+                "sr": 136.65,
+                "matches": 41,
+                "source": "t20_master",
+                "baseline_available": true
+            }
+        },
+        {
+            "player": "Shaheen Shah Afridi",
+            "team": "Pakistan",
+            "overs": 2.0,
+            "runs": 31,
+            "wickets": 1,
+            "econ": 15.5,
+            "score": 39.64,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "2.0o-31r-1w"
+        },
+        {
+            "player": "Shadab Khan",
+            "team": "Pakistan",
+            "runs": 14,
+            "balls": 15,
+            "sr": 93.33,
+            "fours": 1,
+            "sixes": 0,
+            "win_contribution_percent": 12.3,
+            "score": 33.2,
+            "role": "batting",
+            "match_stats": "14(15)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "Agha Salman",
+            "team": "Pakistan",
+            "runs": 4,
+            "balls": 4,
+            "sr": 100.0,
+            "fours": 1,
+            "sixes": 0,
+            "win_contribution_percent": 3.5,
+            "score": 24.57,
+            "role": "batting",
+            "match_stats": "4(4)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "Faheem Ashraf",
+            "team": "Pakistan",
+            "runs": 10,
+            "balls": 15,
+            "sr": 66.67,
+            "fours": 1,
+            "sixes": 0,
+            "win_contribution_percent": 8.8,
+            "score": 23.71,
+            "role": "batting",
+            "match_stats": "10(15)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "Mohammad Nawaz",
+            "team": "Pakistan",
+            "overs": 4.0,
+            "runs": 29,
+            "wickets": 0,
+            "econ": 7.25,
+            "score": 20.62,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-29r-0w"
+        },
+        {
+            "player": "Mohammad Nawaz",
+            "team": "Pakistan",
+            "runs": 4,
+            "balls": 5,
+            "sr": 80.0,
+            "fours": 1,
+            "sixes": 0,
+            "win_contribution_percent": 3.5,
+            "score": 20.45,
+            "role": "batting",
+            "match_stats": "4(5)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "Babar Azam",
+            "team": "Pakistan",
+            "runs": 5,
+            "balls": 8,
+            "sr": 62.5,
+            "fours": 0,
+            "sixes": 0,
+            "win_contribution_percent": 4.4,
+            "score": 17.85,
+            "role": "batting",
+            "match_stats": "5(8)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "RK Singh",
+            "team": "India",
+            "overs": 1.0,
+            "runs": 9,
+            "wickets": 0,
+            "econ": 9.0,
+            "score": 16.61,
+            "bowling_baseline": {
+                "career_wickets": 3,
+                "career_economy": 7.12,
+                "career_sr": 5.33,
+                "career_avg": 6.33,
+                "best_bowling": "2/3",
+                "matches": 3,
+                "source": "t20_bowling_master",
+                "baseline_available": true
+            },
+            "role": "bowling",
+            "match_stats": "1.0o-9r-0w"
+        },
+        {
+            "player": "Abrar Ahmed",
+            "team": "Pakistan",
+            "overs": 3.0,
+            "runs": 38,
+            "wickets": 0,
+            "econ": 12.67,
+            "score": 11.8,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "3.0o-38r-0w"
+        },
+        {
+            "player": "Shadab Khan",
+            "team": "Pakistan",
+            "overs": 1.0,
+            "runs": 17,
+            "wickets": 0,
+            "econ": 17.0,
+            "score": 8.79,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "1.0o-17r-0w"
+        },
+        {
+            "player": "AR Patel",
+            "team": "India",
+            "runs": 0,
+            "balls": 1,
+            "sr": 0.0,
+            "fours": 0,
+            "sixes": 0,
+            "win_contribution_percent": 0.0,
+            "score": 0.0,
+            "role": "batting",
+            "match_stats": "0(1)",
+            "baseline": {
+                "avg": 19.66,
+                "sr": 125.55,
+                "matches": 55,
+                "source": "t20_master",
+                "baseline_available": true
+            }
+        },
+        {
+            "player": "Abhishek Sharma",
+            "team": "India",
+            "runs": 0,
+            "balls": 4,
+            "sr": 0.0,
+            "fours": 0,
+            "sixes": 0,
+            "win_contribution_percent": 0.0,
+            "score": 0.0,
+            "role": "batting",
+            "match_stats": "0(4)",
+            "baseline": {
+                "avg": 35.46,
+                "sr": 184.27,
+                "matches": 41,
+                "source": "t20_master",
+                "baseline_available": true
+            }
+        },
+        {
+            "player": "HH Pandya",
+            "team": "India",
+            "runs": 0,
+            "balls": 1,
+            "sr": 0.0,
+            "fours": 0,
+            "sixes": 0,
+            "win_contribution_percent": 0.0,
+            "score": 0.0,
+            "role": "batting",
+            "match_stats": "0(1)",
+            "baseline": {
+                "avg": 28.12,
+                "sr": 138.02,
+                "matches": 103,
+                "source": "t20_master",
+                "baseline_available": true
+            }
+        },
+        {
+            "player": "Abrar Ahmed",
+            "team": "Pakistan",
+            "runs": 0,
+            "balls": 1,
+            "sr": 0.0,
+            "fours": 0,
+            "sixes": 0,
+            "win_contribution_percent": 0.0,
+            "score": 0.0,
+            "role": "batting",
+            "match_stats": "0(1)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "Sahibzada Farhan",
+            "team": "Pakistan",
+            "runs": 0,
+            "balls": 4,
+            "sr": 0.0,
+            "fours": 0,
+            "sixes": 0,
+            "win_contribution_percent": 0.0,
+            "score": 0.0,
+            "role": "batting",
+            "match_stats": "0(4)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "Usman Tariq",
+            "team": "Pakistan",
+            "runs": 0,
+            "balls": 3,
+            "sr": 0.0,
+            "fours": 0,
+            "sixes": 0,
+            "win_contribution_percent": 0.0,
+            "score": 0.0,
+            "role": "batting",
+            "match_stats": "0(3)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        }
+    ],
+    "validation": {
+        "logical_stability": true
+    }
+}

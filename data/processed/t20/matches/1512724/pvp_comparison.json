@@ -1,0 +1,1467 @@
+{
+  "match_id": "1512724",
+  "team_a": "Sri Lanka",
+  "team_b": "Ireland",
+  "matchups": [
+    {
+      "bat": "PR Stirling",
+      "bat_t": "Ireland",
+      "bowl": "M Theekshana",
+      "bowl_t": "Sri Lanka",
+      "v": "bowler",
+      "h2h": {
+        "balls": 9,
+        "runs": 5,
+        "dismissals": 2,
+        "strike_rate": 55.56
+      },
+      "vs_t": {
+        "runs": 47,
+        "balls": 46,
+        "dismissals": 3,
+        "average": 15.67,
+        "strike_rate": 102.17
+      },
+      "b_f": [
+        1,
+        6
+      ],
+      "w_f": [
+        3,
+        2,
+        0
+      ]
+    },
+    {
+      "bat": "GJ Delany",
+      "bat_t": "Ireland",
+      "bowl": "PWH de Silva",
+      "bowl_t": "Sri Lanka",
+      "v": "neutral",
+      "h2h": {
+        "balls": 2,
+        "runs": 0,
+        "dismissals": 2,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 11,
+        "balls": 11,
+        "dismissals": 3,
+        "average": 3.67,
+        "strike_rate": 100.0
+      },
+      "b_f": [
+        56,
+        11,
+        0
+      ],
+      "w_f": [
+        3
+      ]
+    },
+    {
+      "bat": "HT Tector",
+      "bat_t": "Ireland",
+      "bowl": "PWH de Silva",
+      "bowl_t": "Sri Lanka",
+      "v": "bowler",
+      "h2h": {
+        "balls": 16,
+        "runs": 19,
+        "dismissals": 1,
+        "strike_rate": 118.75
+      },
+      "vs_t": {
+        "runs": 88,
+        "balls": 82,
+        "dismissals": 3,
+        "average": 29.33,
+        "strike_rate": 107.32
+      },
+      "b_f": [
+        14,
+        0,
+        40
+      ],
+      "w_f": [
+        3
+      ]
+    },
+    {
+      "bat": "C Campher",
+      "bat_t": "Ireland",
+      "bowl": "PWH de Silva",
+      "bowl_t": "Sri Lanka",
+      "v": "bowler",
+      "h2h": {
+        "balls": 14,
+        "runs": 11,
+        "dismissals": 1,
+        "strike_rate": 78.57
+      },
+      "vs_t": {
+        "runs": 39,
+        "balls": 44,
+        "dismissals": 3,
+        "average": 13.0,
+        "strike_rate": 88.64
+      },
+      "b_f": [
+        12,
+        4,
+        13
+      ],
+      "w_f": [
+        3
+      ]
+    },
+    {
+      "bat": "PWH de Silva",
+      "bat_t": "Sri Lanka",
+      "bowl": "MR Adair",
+      "bowl_t": "Ireland",
+      "v": "batsman",
+      "h2h": {
+        "balls": 9,
+        "runs": 6,
+        "dismissals": 1,
+        "strike_rate": 66.67
+      },
+      "vs_t": {
+        "runs": 72,
+        "balls": 51,
+        "dismissals": 1,
+        "average": 72.0,
+        "strike_rate": 141.18
+      },
+      "b_f": [
+        1
+      ],
+      "w_f": [
+        0,
+        2,
+        1
+      ]
+    },
+    {
+      "bat": "PHKD Mendis",
+      "bat_t": "Sri Lanka",
+      "bowl": "BJ McCarthy",
+      "bowl_t": "Ireland",
+      "v": "batsman",
+      "h2h": {
+        "balls": 8,
+        "runs": 14,
+        "dismissals": 1,
+        "strike_rate": 175.0
+      },
+      "vs_t": {
+        "runs": 44,
+        "balls": 22,
+        "dismissals": 1,
+        "average": 44.0,
+        "strike_rate": 200.0
+      },
+      "b_f": [
+        31,
+        13,
+        7
+      ],
+      "w_f": [
+        2,
+        0,
+        2
+      ]
+    },
+    {
+      "bat": "C Campher",
+      "bat_t": "Ireland",
+      "bowl": "M Theekshana",
+      "bowl_t": "Sri Lanka",
+      "v": "bowler",
+      "h2h": {
+        "balls": 8,
+        "runs": 3,
+        "dismissals": 1,
+        "strike_rate": 37.5
+      },
+      "vs_t": {
+        "runs": 39,
+        "balls": 44,
+        "dismissals": 3,
+        "average": 13.0,
+        "strike_rate": 88.64
+      },
+      "b_f": [
+        12,
+        4,
+        13
+      ],
+      "w_f": [
+        3,
+        2,
+        0
+      ]
+    },
+    {
+      "bat": "GH Dockrell",
+      "bat_t": "Ireland",
+      "bowl": "M Theekshana",
+      "bowl_t": "Sri Lanka",
+      "v": "bowler",
+      "h2h": {
+        "balls": 8,
+        "runs": 7,
+        "dismissals": 1,
+        "strike_rate": 87.5
+      },
+      "vs_t": {
+        "runs": 23,
+        "balls": 23,
+        "dismissals": 2,
+        "average": 11.5,
+        "strike_rate": 100.0
+      },
+      "b_f": [
+        35,
+        41,
+        9
+      ],
+      "w_f": [
+        3,
+        2,
+        0
+      ]
+    },
+    {
+      "bat": "K Mishara",
+      "bat_t": "Sri Lanka",
+      "bowl": "MR Adair",
+      "bowl_t": "Ireland",
+      "v": "neutral",
+      "h2h": {
+        "balls": 6,
+        "runs": 7,
+        "dismissals": 1,
+        "strike_rate": 116.67
+      },
+      "vs_t": {
+        "runs": 14,
+        "balls": 13,
+        "dismissals": 1,
+        "average": 14.0,
+        "strike_rate": 107.69
+      },
+      "b_f": [
+        6,
+        8,
+        14
+      ],
+      "w_f": [
+        0,
+        2,
+        1
+      ]
+    },
+    {
+      "bat": "GJ Delany",
+      "bat_t": "Ireland",
+      "bowl": "M Theekshana",
+      "bowl_t": "Sri Lanka",
+      "v": "neutral",
+      "h2h": {
+        "balls": 5,
+        "runs": 3,
+        "dismissals": 1,
+        "strike_rate": 60.0
+      },
+      "vs_t": {
+        "runs": 11,
+        "balls": 11,
+        "dismissals": 3,
+        "average": 3.67,
+        "strike_rate": 100.0
+      },
+      "b_f": [
+        56,
+        11,
+        0
+      ],
+      "w_f": [
+        3,
+        2,
+        0
+      ]
+    },
+    {
+      "bat": "GR Adair",
+      "bat_t": "Ireland",
+      "bowl": "PWH de Silva",
+      "bowl_t": "Sri Lanka",
+      "v": "neutral",
+      "h2h": {
+        "balls": 5,
+        "runs": 3,
+        "dismissals": 1,
+        "strike_rate": 60.0
+      },
+      "vs_t": {
+        "runs": 34,
+        "balls": 24,
+        "dismissals": 1,
+        "average": 34.0,
+        "strike_rate": 141.67
+      },
+      "b_f": [
+        14,
+        12,
+        34
+      ],
+      "w_f": [
+        3
+      ]
+    },
+    {
+      "bat": "L Tucker",
+      "bat_t": "Ireland",
+      "bowl": "DN Wellalage",
+      "bowl_t": "Sri Lanka",
+      "v": "bowler",
+      "h2h": {
+        "balls": 5,
+        "runs": 3,
+        "dismissals": 1,
+        "strike_rate": 60.0
+      },
+      "vs_t": {
+        "runs": 31,
+        "balls": 30,
+        "dismissals": 2,
+        "average": 15.5,
+        "strike_rate": 103.33
+      },
+      "b_f": [
+        94,
+        24,
+        21
+      ],
+      "w_f": [
+        1,
+        3,
+        1
+      ]
+    },
+    {
+      "bat": "L Tucker",
+      "bat_t": "Ireland",
+      "bowl": "M Theekshana",
+      "bowl_t": "Sri Lanka",
+      "v": "bowler",
+      "h2h": {
+        "balls": 5,
+        "runs": 6,
+        "dismissals": 1,
+        "strike_rate": 120.0
+      },
+      "vs_t": {
+        "runs": 31,
+        "balls": 30,
+        "dismissals": 2,
+        "average": 15.5,
+        "strike_rate": 103.33
+      },
+      "b_f": [
+        94,
+        24,
+        21
+      ],
+      "w_f": [
+        3,
+        2,
+        0
+      ]
+    },
+    {
+      "bat": "P Nissanka",
+      "bat_t": "Sri Lanka",
+      "bowl": "GH Dockrell",
+      "bowl_t": "Ireland",
+      "v": "bowler",
+      "h2h": {
+        "balls": 4,
+        "runs": 2,
+        "dismissals": 1,
+        "strike_rate": 50.0
+      },
+      "vs_t": {
+        "runs": 85,
+        "balls": 71,
+        "dismissals": 2,
+        "average": 42.5,
+        "strike_rate": 119.72
+      },
+      "b_f": [
+        0,
+        9,
+        62
+      ],
+      "w_f": [
+        1,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "P Rathnayake",
+      "bat_t": "Sri Lanka",
+      "bowl": "GH Dockrell",
+      "bowl_t": "Ireland",
+      "v": "neutral",
+      "h2h": {
+        "balls": 4,
+        "runs": 1,
+        "dismissals": 1,
+        "strike_rate": 25.0
+      },
+      "vs_t": {
+        "runs": 5,
+        "balls": 9,
+        "dismissals": 1,
+        "average": 5.0,
+        "strike_rate": 55.56
+      },
+      "b_f": [
+        10,
+        0,
+        44
+      ],
+      "w_f": [
+        1,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "MR Adair",
+      "bat_t": "Ireland",
+      "bowl": "PVD Chameera",
+      "bowl_t": "Sri Lanka",
+      "v": "neutral",
+      "h2h": {
+        "balls": 4,
+        "runs": 8,
+        "dismissals": 1,
+        "strike_rate": 200.0
+      },
+      "vs_t": {
+        "runs": 12,
+        "balls": 10,
+        "dismissals": 2,
+        "average": 6.0,
+        "strike_rate": 120.0
+      },
+      "b_f": [
+        12,
+        10
+      ],
+      "w_f": [
+        3,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "MR Adair",
+      "bat_t": "Ireland",
+      "bowl": "PWH de Silva",
+      "bowl_t": "Sri Lanka",
+      "v": "neutral",
+      "h2h": {
+        "balls": 3,
+        "runs": 2,
+        "dismissals": 1,
+        "strike_rate": 66.67
+      },
+      "vs_t": {
+        "runs": 12,
+        "balls": 10,
+        "dismissals": 2,
+        "average": 6.0,
+        "strike_rate": 120.0
+      },
+      "b_f": [
+        12,
+        10
+      ],
+      "w_f": [
+        3
+      ]
+    },
+    {
+      "bat": "GH Dockrell",
+      "bat_t": "Ireland",
+      "bowl": "M Pathirana",
+      "bowl_t": "Sri Lanka",
+      "v": "bowler",
+      "h2h": {
+        "balls": 3,
+        "runs": 6,
+        "dismissals": 1,
+        "strike_rate": 200.0
+      },
+      "vs_t": {
+        "runs": 23,
+        "balls": 23,
+        "dismissals": 2,
+        "average": 11.5,
+        "strike_rate": 100.0
+      },
+      "b_f": [
+        35,
+        41,
+        9
+      ],
+      "w_f": [
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "bat": "DN Wellalage",
+      "bat_t": "Sri Lanka",
+      "bowl": "GJ Delany",
+      "bowl_t": "Ireland",
+      "v": "neutral",
+      "h2h": {
+        "balls": 2,
+        "runs": 1,
+        "dismissals": 1,
+        "strike_rate": 50.0
+      },
+      "vs_t": {
+        "runs": 10,
+        "balls": 14,
+        "dismissals": 1,
+        "average": 10.0,
+        "strike_rate": 71.43
+      },
+      "b_f": [
+        29,
+        10,
+        15
+      ],
+      "w_f": [
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "BF Calitz",
+      "bat_t": "Ireland",
+      "bowl": "M Theekshana",
+      "bowl_t": "Sri Lanka",
+      "v": "neutral",
+      "h2h": {
+        "balls": 2,
+        "runs": 2,
+        "dismissals": 1,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 4,
+        "balls": 4,
+        "dismissals": 1,
+        "average": 4.0,
+        "strike_rate": 100.0
+      },
+      "b_f": [
+        2,
+        4
+      ],
+      "w_f": [
+        3,
+        2,
+        0
+      ]
+    },
+    {
+      "bat": "MJ Humphreys",
+      "bat_t": "Ireland",
+      "bowl": "M Pathirana",
+      "bowl_t": "Sri Lanka",
+      "v": "neutral",
+      "h2h": {
+        "balls": 2,
+        "runs": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 0,
+        "balls": 2,
+        "dismissals": 1,
+        "average": 0.0,
+        "strike_rate": 0.0
+      },
+      "b_f": [
+        3,
+        0
+      ],
+      "w_f": [
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "bat": "MD Shanaka",
+      "bat_t": "Sri Lanka",
+      "bowl": "BJ McCarthy",
+      "bowl_t": "Ireland",
+      "v": "neutral",
+      "h2h": {
+        "balls": 1,
+        "runs": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 21,
+        "balls": 12,
+        "dismissals": 1,
+        "average": 21.0,
+        "strike_rate": 175.0
+      },
+      "b_f": [
+        3,
+        30,
+        6
+      ],
+      "w_f": [
+        2,
+        0,
+        2
+      ]
+    },
+    {
+      "bat": "BKG Mendis",
+      "bat_t": "Sri Lanka",
+      "bowl": "GJ Delany",
+      "bowl_t": "Ireland",
+      "v": "batsman",
+      "h2h": {
+        "balls": 21,
+        "runs": 23,
+        "dismissals": 0,
+        "strike_rate": 109.52
+      },
+      "vs_t": {
+        "runs": 124,
+        "balls": 88,
+        "dismissals": 0,
+        "average": 124.0,
+        "strike_rate": 140.91
+      },
+      "b_f": [
+        11,
+        4,
+        14
+      ],
+      "w_f": [
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "HT Tector",
+      "bat_t": "Ireland",
+      "bowl": "M Theekshana",
+      "bowl_t": "Sri Lanka",
+      "v": "bowler",
+      "h2h": {
+        "balls": 20,
+        "runs": 19,
+        "dismissals": 0,
+        "strike_rate": 95.0
+      },
+      "vs_t": {
+        "runs": 88,
+        "balls": 82,
+        "dismissals": 3,
+        "average": 29.33,
+        "strike_rate": 107.32
+      },
+      "b_f": [
+        14,
+        0,
+        40
+      ],
+      "w_f": [
+        3,
+        2,
+        0
+      ]
+    },
+    {
+      "bat": "P Nissanka",
+      "bat_t": "Sri Lanka",
+      "bowl": "MR Adair",
+      "bowl_t": "Ireland",
+      "v": "batsman",
+      "h2h": {
+        "balls": 16,
+        "runs": 21,
+        "dismissals": 0,
+        "strike_rate": 131.25
+      },
+      "vs_t": {
+        "runs": 85,
+        "balls": 71,
+        "dismissals": 2,
+        "average": 42.5,
+        "strike_rate": 119.72
+      },
+      "b_f": [
+        0,
+        9,
+        62
+      ],
+      "w_f": [
+        0,
+        2,
+        1
+      ]
+    },
+    {
+      "bat": "BKG Mendis",
+      "bat_t": "Sri Lanka",
+      "bowl": "MR Adair",
+      "bowl_t": "Ireland",
+      "v": "batsman",
+      "h2h": {
+        "balls": 15,
+        "runs": 20,
+        "dismissals": 0,
+        "strike_rate": 133.33
+      },
+      "vs_t": {
+        "runs": 124,
+        "balls": 88,
+        "dismissals": 0,
+        "average": 124.0,
+        "strike_rate": 140.91
+      },
+      "b_f": [
+        11,
+        4,
+        14
+      ],
+      "w_f": [
+        0,
+        2,
+        1
+      ]
+    },
+    {
+      "bat": "PWH de Silva",
+      "bat_t": "Sri Lanka",
+      "bowl": "C Campher",
+      "bowl_t": "Ireland",
+      "v": "batsman",
+      "h2h": {
+        "balls": 12,
+        "runs": 18,
+        "dismissals": 0,
+        "strike_rate": 150.0
+      },
+      "vs_t": {
+        "runs": 72,
+        "balls": 51,
+        "dismissals": 1,
+        "average": 72.0,
+        "strike_rate": 141.18
+      },
+      "b_f": [
+        1
+      ]
+    },
+    {
+      "bat": "P Nissanka",
+      "bat_t": "Sri Lanka",
+      "bowl": "C Campher",
+      "bowl_t": "Ireland",
+      "v": "batsman",
+      "h2h": {
+        "balls": 12,
+        "runs": 20,
+        "dismissals": 0,
+        "strike_rate": 166.67
+      },
+      "vs_t": {
+        "runs": 85,
+        "balls": 71,
+        "dismissals": 2,
+        "average": 42.5,
+        "strike_rate": 119.72
+      },
+      "b_f": [
+        0,
+        9,
+        62
+      ]
+    },
+    {
+      "bat": "BKG Mendis",
+      "bat_t": "Sri Lanka",
+      "bowl": "BJ McCarthy",
+      "bowl_t": "Ireland",
+      "v": "batsman",
+      "h2h": {
+        "balls": 10,
+        "runs": 19,
+        "dismissals": 0,
+        "strike_rate": 190.0
+      },
+      "vs_t": {
+        "runs": 124,
+        "balls": 88,
+        "dismissals": 0,
+        "average": 124.0,
+        "strike_rate": 140.91
+      },
+      "b_f": [
+        11,
+        4,
+        14
+      ],
+      "w_f": [
+        2,
+        0,
+        2
+      ]
+    },
+    {
+      "bat": "HT Tector",
+      "bat_t": "Ireland",
+      "bowl": "DN Wellalage",
+      "bowl_t": "Sri Lanka",
+      "v": "bowler",
+      "h2h": {
+        "balls": 10,
+        "runs": 10,
+        "dismissals": 0,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 88,
+        "balls": 82,
+        "dismissals": 3,
+        "average": 29.33,
+        "strike_rate": 107.32
+      },
+      "b_f": [
+        14,
+        0,
+        40
+      ],
+      "w_f": [
+        1,
+        3,
+        1
+      ]
+    },
+    {
+      "bat": "DN Wellalage",
+      "bat_t": "Sri Lanka",
+      "bowl": "GH Dockrell",
+      "bowl_t": "Ireland",
+      "v": "neutral",
+      "h2h": {
+        "balls": 9,
+        "runs": 7,
+        "dismissals": 0,
+        "strike_rate": 77.78
+      },
+      "vs_t": {
+        "runs": 10,
+        "balls": 14,
+        "dismissals": 1,
+        "average": 10.0,
+        "strike_rate": 71.43
+      },
+      "b_f": [
+        29,
+        10,
+        15
+      ],
+      "w_f": [
+        1,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "BKG Mendis",
+      "bat_t": "Sri Lanka",
+      "bowl": "GH Dockrell",
+      "bowl_t": "Ireland",
+      "v": "batsman",
+      "h2h": {
+        "balls": 8,
+        "runs": 6,
+        "dismissals": 0,
+        "strike_rate": 75.0
+      },
+      "vs_t": {
+        "runs": 124,
+        "balls": 88,
+        "dismissals": 0,
+        "average": 124.0,
+        "strike_rate": 140.91
+      },
+      "b_f": [
+        11,
+        4,
+        14
+      ],
+      "w_f": [
+        1,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "P Nissanka",
+      "bat_t": "Sri Lanka",
+      "bowl": "MJ Humphreys",
+      "bowl_t": "Ireland",
+      "v": "batsman",
+      "h2h": {
+        "balls": 8,
+        "runs": 11,
+        "dismissals": 0,
+        "strike_rate": 137.5
+      },
+      "vs_t": {
+        "runs": 85,
+        "balls": 71,
+        "dismissals": 2,
+        "average": 42.5,
+        "strike_rate": 119.72
+      },
+      "b_f": [
+        0,
+        9,
+        62
+      ],
+      "w_f": [
+        2,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "BKG Mendis",
+      "bat_t": "Sri Lanka",
+      "bowl": "MJ Humphreys",
+      "bowl_t": "Ireland",
+      "v": "batsman",
+      "h2h": {
+        "balls": 7,
+        "runs": 11,
+        "dismissals": 0,
+        "strike_rate": 157.14
+      },
+      "vs_t": {
+        "runs": 124,
+        "balls": 88,
+        "dismissals": 0,
+        "average": 124.0,
+        "strike_rate": 140.91
+      },
+      "b_f": [
+        11,
+        4,
+        14
+      ],
+      "w_f": [
+        2,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "PHKD Mendis",
+      "bat_t": "Sri Lanka",
+      "bowl": "MJ Humphreys",
+      "bowl_t": "Ireland",
+      "v": "batsman",
+      "h2h": {
+        "balls": 7,
+        "runs": 20,
+        "dismissals": 0,
+        "strike_rate": 285.71
+      },
+      "vs_t": {
+        "runs": 44,
+        "balls": 22,
+        "dismissals": 1,
+        "average": 44.0,
+        "strike_rate": 200.0
+      },
+      "b_f": [
+        31,
+        13,
+        7
+      ],
+      "w_f": [
+        2,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "GR Adair",
+      "bat_t": "Ireland",
+      "bowl": "DN Wellalage",
+      "bowl_t": "Sri Lanka",
+      "v": "neutral",
+      "h2h": {
+        "balls": 7,
+        "runs": 8,
+        "dismissals": 0,
+        "strike_rate": 114.29
+      },
+      "vs_t": {
+        "runs": 34,
+        "balls": 24,
+        "dismissals": 1,
+        "average": 34.0,
+        "strike_rate": 141.67
+      },
+      "b_f": [
+        14,
+        12,
+        34
+      ],
+      "w_f": [
+        1,
+        3,
+        1
+      ]
+    },
+    {
+      "bat": "HT Tector",
+      "bat_t": "Ireland",
+      "bowl": "MD Shanaka",
+      "bowl_t": "Sri Lanka",
+      "v": "bowler",
+      "h2h": {
+        "balls": 7,
+        "runs": 9,
+        "dismissals": 0,
+        "strike_rate": 128.57
+      },
+      "vs_t": {
+        "runs": 88,
+        "balls": 82,
+        "dismissals": 3,
+        "average": 29.33,
+        "strike_rate": 107.32
+      },
+      "b_f": [
+        14,
+        0,
+        40
+      ],
+      "w_f": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "C Campher",
+      "bat_t": "Ireland",
+      "bowl": "PVD Chameera",
+      "bowl_t": "Sri Lanka",
+      "v": "batsman",
+      "h2h": {
+        "balls": 6,
+        "runs": 8,
+        "dismissals": 0,
+        "strike_rate": 133.33
+      },
+      "vs_t": {
+        "runs": 39,
+        "balls": 44,
+        "dismissals": 3,
+        "average": 13.0,
+        "strike_rate": 88.64
+      },
+      "b_f": [
+        12,
+        4,
+        13
+      ],
+      "w_f": [
+        3,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "GR Adair",
+      "bat_t": "Ireland",
+      "bowl": "PVD Chameera",
+      "bowl_t": "Sri Lanka",
+      "v": "batsman",
+      "h2h": {
+        "balls": 6,
+        "runs": 12,
+        "dismissals": 0,
+        "strike_rate": 200.0
+      },
+      "vs_t": {
+        "runs": 34,
+        "balls": 24,
+        "dismissals": 1,
+        "average": 34.0,
+        "strike_rate": 141.67
+      },
+      "b_f": [
+        14,
+        12,
+        34
+      ],
+      "w_f": [
+        3,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "BKG Mendis",
+      "bat_t": "Sri Lanka",
+      "bowl": "C Campher",
+      "bowl_t": "Ireland",
+      "v": "batsman",
+      "h2h": {
+        "balls": 5,
+        "runs": 7,
+        "dismissals": 0,
+        "strike_rate": 140.0
+      },
+      "vs_t": {
+        "runs": 124,
+        "balls": 88,
+        "dismissals": 0,
+        "average": 124.0,
+        "strike_rate": 140.91
+      },
+      "b_f": [
+        11,
+        4,
+        14
+      ]
+    },
+    {
+      "bat": "PHKD Mendis",
+      "bat_t": "Sri Lanka",
+      "bowl": "GJ Delany",
+      "bowl_t": "Ireland",
+      "v": "batsman",
+      "h2h": {
+        "balls": 5,
+        "runs": 8,
+        "dismissals": 0,
+        "strike_rate": 160.0
+      },
+      "vs_t": {
+        "runs": 44,
+        "balls": 22,
+        "dismissals": 1,
+        "average": 44.0,
+        "strike_rate": 200.0
+      },
+      "b_f": [
+        31,
+        13,
+        7
+      ],
+      "w_f": [
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "P Rathnayake",
+      "bat_t": "Sri Lanka",
+      "bowl": "GJ Delany",
+      "bowl_t": "Ireland",
+      "v": "neutral",
+      "h2h": {
+        "balls": 5,
+        "runs": 4,
+        "dismissals": 0,
+        "strike_rate": 80.0
+      },
+      "vs_t": {
+        "runs": 5,
+        "balls": 9,
+        "dismissals": 1,
+        "average": 5.0,
+        "strike_rate": 55.56
+      },
+      "b_f": [
+        10,
+        0,
+        44
+      ],
+      "w_f": [
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "K Mishara",
+      "bat_t": "Sri Lanka",
+      "bowl": "BJ McCarthy",
+      "bowl_t": "Ireland",
+      "v": "neutral",
+      "h2h": {
+        "balls": 5,
+        "runs": 5,
+        "dismissals": 0,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 14,
+        "balls": 13,
+        "dismissals": 1,
+        "average": 14.0,
+        "strike_rate": 107.69
+      },
+      "b_f": [
+        6,
+        8,
+        14
+      ],
+      "w_f": [
+        2,
+        0,
+        2
+      ]
+    },
+    {
+      "bat": "GH Dockrell",
+      "bat_t": "Ireland",
+      "bowl": "PWH de Silva",
+      "bowl_t": "Sri Lanka",
+      "v": "bowler",
+      "h2h": {
+        "balls": 5,
+        "runs": 5,
+        "dismissals": 0,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 23,
+        "balls": 23,
+        "dismissals": 2,
+        "average": 11.5,
+        "strike_rate": 100.0
+      },
+      "b_f": [
+        35,
+        41,
+        9
+      ],
+      "w_f": [
+        3
+      ]
+    },
+    {
+      "bat": "L Tucker",
+      "bat_t": "Ireland",
+      "bowl": "MD Shanaka",
+      "bowl_t": "Sri Lanka",
+      "v": "bowler",
+      "h2h": {
+        "balls": 5,
+        "runs": 3,
+        "dismissals": 0,
+        "strike_rate": 60.0
+      },
+      "vs_t": {
+        "runs": 31,
+        "balls": 30,
+        "dismissals": 2,
+        "average": 15.5,
+        "strike_rate": 103.33
+      },
+      "b_f": [
+        94,
+        24,
+        21
+      ],
+      "w_f": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "PR Stirling",
+      "bat_t": "Ireland",
+      "bowl": "M Pathirana",
+      "bowl_t": "Sri Lanka",
+      "v": "bowler",
+      "h2h": {
+        "balls": 5,
+        "runs": 4,
+        "dismissals": 0,
+        "strike_rate": 80.0
+      },
+      "vs_t": {
+        "runs": 47,
+        "balls": 46,
+        "dismissals": 3,
+        "average": 15.67,
+        "strike_rate": 102.17
+      },
+      "b_f": [
+        1,
+        6
+      ],
+      "w_f": [
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "bat": "PR Stirling",
+      "bat_t": "Ireland",
+      "bowl": "PVD Chameera",
+      "bowl_t": "Sri Lanka",
+      "v": "bowler",
+      "h2h": {
+        "balls": 5,
+        "runs": 2,
+        "dismissals": 0,
+        "strike_rate": 40.0
+      },
+      "vs_t": {
+        "runs": 47,
+        "balls": 46,
+        "dismissals": 3,
+        "average": 15.67,
+        "strike_rate": 102.17
+      },
+      "b_f": [
+        1,
+        6
+      ],
+      "w_f": [
+        3,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "GR Adair",
+      "bat_t": "Ireland",
+      "bowl": "M Theekshana",
+      "bowl_t": "Sri Lanka",
+      "v": "neutral",
+      "h2h": {
+        "balls": 4,
+        "runs": 6,
+        "dismissals": 0,
+        "strike_rate": 150.0
+      },
+      "vs_t": {
+        "runs": 34,
+        "balls": 24,
+        "dismissals": 1,
+        "average": 34.0,
+        "strike_rate": 141.67
+      },
+      "b_f": [
+        14,
+        12,
+        34
+      ],
+      "w_f": [
+        3,
+        2,
+        0
+      ]
+    },
+    {
+      "bat": "L Tucker",
+      "bat_t": "Ireland",
+      "bowl": "PWH de Silva",
+      "bowl_t": "Sri Lanka",
+      "v": "bowler",
+      "h2h": {
+        "balls": 4,
+        "runs": 8,
+        "dismissals": 0,
+        "strike_rate": 200.0
+      },
+      "vs_t": {
+        "runs": 31,
+        "balls": 30,
+        "dismissals": 2,
+        "average": 15.5,
+        "strike_rate": 103.33
+      },
+      "b_f": [
+        94,
+        24,
+        21
+      ],
+      "w_f": [
+        3
+      ]
+    },
+    {
+      "bat": "HT Tector",
+      "bat_t": "Ireland",
+      "bowl": "M Pathirana",
+      "bowl_t": "Sri Lanka",
+      "v": "bowler",
+      "h2h": {
+        "balls": 4,
+        "runs": 8,
+        "dismissals": 0,
+        "strike_rate": 200.0
+      },
+      "vs_t": {
+        "runs": 88,
+        "balls": 82,
+        "dismissals": 3,
+        "average": 29.33,
+        "strike_rate": 107.32
+      },
+      "b_f": [
+        14,
+        0,
+        40
+      ],
+      "w_f": [
+        0,
+        0,
+        2
+      ]
+    }
+  ]
+}

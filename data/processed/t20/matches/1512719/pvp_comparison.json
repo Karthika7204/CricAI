@@ -1,0 +1,1491 @@
+{
+  "match_id": "1512719",
+  "team_a": "Netherlands",
+  "team_b": "Pakistan",
+  "matchups": [
+    {
+      "bat": "CN Ackermann",
+      "bat_t": "Netherlands",
+      "bowl": "Shadab Khan",
+      "bowl_t": "Pakistan",
+      "v": "bowler",
+      "h2h": {
+        "balls": 13,
+        "runs": 16,
+        "dismissals": 1,
+        "strike_rate": 123.08
+      },
+      "vs_t": {
+        "runs": 47,
+        "balls": 42,
+        "dismissals": 2,
+        "average": 23.5,
+        "strike_rate": 111.9
+      },
+      "b_f": [
+        23,
+        0,
+        32
+      ],
+      "w_f": [
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "bat": "Babar Azam",
+      "bat_t": "Pakistan",
+      "bowl": "RE van der Merwe",
+      "bowl_t": "Netherlands",
+      "v": "neutral",
+      "h2h": {
+        "balls": 9,
+        "runs": 5,
+        "dismissals": 1,
+        "strike_rate": 55.56
+      },
+      "vs_t": {
+        "runs": 19,
+        "balls": 23,
+        "dismissals": 1,
+        "average": 19.0,
+        "strike_rate": 82.61
+      },
+      "b_f": [
+        25,
+        5,
+        46
+      ],
+      "w_f": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "BFW de Leede",
+      "bat_t": "Netherlands",
+      "bowl": "Mohammad Nawaz",
+      "bowl_t": "Pakistan",
+      "v": "batsman",
+      "h2h": {
+        "balls": 8,
+        "runs": 11,
+        "dismissals": 1,
+        "strike_rate": 137.5
+      },
+      "vs_t": {
+        "runs": 36,
+        "balls": 42,
+        "dismissals": 1,
+        "average": 36.0,
+        "strike_rate": 85.71
+      },
+      "b_f": [
+        33,
+        23,
+        72
+      ],
+      "w_f": [
+        2,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "Saim Ayub",
+      "bat_t": "Pakistan",
+      "bowl": "A Dutt",
+      "bowl_t": "Netherlands",
+      "v": "batsman",
+      "h2h": {
+        "balls": 8,
+        "runs": 12,
+        "dismissals": 1,
+        "strike_rate": 150.0
+      },
+      "vs_t": {
+        "runs": 24,
+        "balls": 13,
+        "dismissals": 1,
+        "average": 24.0,
+        "strike_rate": 184.62
+      },
+      "b_f": [
+        7,
+        14,
+        6
+      ],
+      "w_f": [
+        2,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "SA Edwards",
+      "bat_t": "Netherlands",
+      "bowl": "Abrar Ahmed",
+      "bowl_t": "Pakistan",
+      "v": "bowler",
+      "h2h": {
+        "balls": 6,
+        "runs": 4,
+        "dismissals": 1,
+        "strike_rate": 66.67
+      },
+      "vs_t": {
+        "runs": 52,
+        "balls": 49,
+        "dismissals": 2,
+        "average": 26.0,
+        "strike_rate": 106.12
+      },
+      "b_f": [
+        15,
+        20,
+        18
+      ],
+      "w_f": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "Sahibzada Farhan",
+      "bat_t": "Pakistan",
+      "bowl": "PA van Meekeren",
+      "bowl_t": "Netherlands",
+      "v": "batsman",
+      "h2h": {
+        "balls": 6,
+        "runs": 10,
+        "dismissals": 1,
+        "strike_rate": 166.67
+      },
+      "vs_t": {
+        "runs": 47,
+        "balls": 32,
+        "dismissals": 1,
+        "average": 47.0,
+        "strike_rate": 146.88
+      },
+      "b_f": [
+        63,
+        100,
+        0
+      ],
+      "w_f": [
+        2
+      ]
+    },
+    {
+      "bat": "RE van der Merwe",
+      "bat_t": "Netherlands",
+      "bowl": "Shaheen Shah Afridi",
+      "bowl_t": "Pakistan",
+      "v": "bowler",
+      "h2h": {
+        "balls": 4,
+        "runs": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 11,
+        "balls": 17,
+        "dismissals": 2,
+        "average": 5.5,
+        "strike_rate": 64.71
+      },
+      "b_f": [
+        10,
+        4
+      ],
+      "w_f": [
+        4,
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "CN Ackermann",
+      "bat_t": "Netherlands",
+      "bowl": "Abrar Ahmed",
+      "bowl_t": "Pakistan",
+      "v": "bowler",
+      "h2h": {
+        "balls": 4,
+        "runs": 5,
+        "dismissals": 1,
+        "strike_rate": 125.0
+      },
+      "vs_t": {
+        "runs": 47,
+        "balls": 42,
+        "dismissals": 2,
+        "average": 23.5,
+        "strike_rate": 111.9
+      },
+      "b_f": [
+        23,
+        0,
+        32
+      ],
+      "w_f": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "Agha Salman",
+      "bat_t": "Pakistan",
+      "bowl": "A Dutt",
+      "bowl_t": "Netherlands",
+      "v": "neutral",
+      "h2h": {
+        "balls": 4,
+        "runs": 4,
+        "dismissals": 1,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 12,
+        "balls": 8,
+        "dismissals": 1,
+        "average": 12.0,
+        "strike_rate": 150.0
+      },
+      "b_f": [
+        5,
+        38,
+        4
+      ],
+      "w_f": [
+        2,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "Mohammad Nawaz",
+      "bat_t": "Pakistan",
+      "bowl": "K Klein",
+      "bowl_t": "Netherlands",
+      "v": "neutral",
+      "h2h": {
+        "balls": 4,
+        "runs": 1,
+        "dismissals": 1,
+        "strike_rate": 25.0
+      },
+      "vs_t": {
+        "runs": 6,
+        "balls": 14,
+        "dismissals": 1,
+        "average": 6.0,
+        "strike_rate": 42.86
+      },
+      "b_f": [
+        0,
+        4,
+        5
+      ],
+      "w_f": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "A Dutt",
+      "bat_t": "Netherlands",
+      "bowl": "Salman Mirza",
+      "bowl_t": "Pakistan",
+      "v": "neutral",
+      "h2h": {
+        "balls": 3,
+        "runs": 2,
+        "dismissals": 1,
+        "strike_rate": 66.67
+      },
+      "vs_t": {
+        "runs": 13,
+        "balls": 8,
+        "dismissals": 1,
+        "average": 13.0,
+        "strike_rate": 162.5
+      },
+      "b_f": [
+        0,
+        9,
+        13
+      ],
+      "w_f": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "bat": "MP O'Dowd",
+      "bat_t": "Netherlands",
+      "bowl": "Shadab Khan",
+      "bowl_t": "Pakistan",
+      "v": "bowler",
+      "h2h": {
+        "balls": 3,
+        "runs": 1,
+        "dismissals": 1,
+        "strike_rate": 33.33
+      },
+      "vs_t": {
+        "runs": 13,
+        "balls": 21,
+        "dismissals": 2,
+        "average": 6.5,
+        "strike_rate": 61.9
+      },
+      "b_f": [
+        20,
+        13,
+        7
+      ],
+      "w_f": [
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "bat": "MP O'Dowd",
+      "bat_t": "Netherlands",
+      "bowl": "Salman Mirza",
+      "bowl_t": "Pakistan",
+      "v": "bowler",
+      "h2h": {
+        "balls": 3,
+        "runs": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 13,
+        "balls": 21,
+        "dismissals": 2,
+        "average": 6.5,
+        "strike_rate": 61.9
+      },
+      "b_f": [
+        20,
+        13,
+        7
+      ],
+      "w_f": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "bat": "ZB Lion-Cachet",
+      "bat_t": "Netherlands",
+      "bowl": "Saim Ayub",
+      "bowl_t": "Pakistan",
+      "v": "neutral",
+      "h2h": {
+        "balls": 2,
+        "runs": 1,
+        "dismissals": 1,
+        "strike_rate": 50.0
+      },
+      "vs_t": {
+        "runs": 9,
+        "balls": 8,
+        "dismissals": 1,
+        "average": 9.0,
+        "strike_rate": 112.5
+      },
+      "b_f": [
+        26,
+        6,
+        9
+      ],
+      "w_f": [
+        0,
+        0,
+        3
+      ]
+    },
+    {
+      "bat": "M Levitt",
+      "bat_t": "Netherlands",
+      "bowl": "Mohammad Nawaz",
+      "bowl_t": "Pakistan",
+      "v": "neutral",
+      "h2h": {
+        "balls": 2,
+        "runs": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 24,
+        "balls": 15,
+        "dismissals": 1,
+        "average": 24.0,
+        "strike_rate": 160.0
+      },
+      "b_f": [
+        24,
+        3,
+        28
+      ],
+      "w_f": [
+        2,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "Usman Khan",
+      "bat_t": "Pakistan",
+      "bowl": "PA van Meekeren",
+      "bowl_t": "Netherlands",
+      "v": "neutral",
+      "h2h": {
+        "balls": 2,
+        "runs": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 0,
+        "balls": 2,
+        "dismissals": 1,
+        "average": 0.0,
+        "strike_rate": 0.0
+      },
+      "b_f": [
+        8,
+        44,
+        0
+      ],
+      "w_f": [
+        2
+      ]
+    },
+    {
+      "bat": "LV van Beek",
+      "bat_t": "Netherlands",
+      "bowl": "Saim Ayub",
+      "bowl_t": "Pakistan",
+      "v": "neutral",
+      "h2h": {
+        "balls": 1,
+        "runs": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 6,
+        "balls": 10,
+        "dismissals": 1,
+        "average": 6.0,
+        "strike_rate": 60.0
+      },
+      "b_f": [
+        4,
+        2,
+        0
+      ],
+      "w_f": [
+        0,
+        0,
+        3
+      ]
+    },
+    {
+      "bat": "PA van Meekeren",
+      "bat_t": "Netherlands",
+      "bowl": "Salman Mirza",
+      "bowl_t": "Pakistan",
+      "v": "neutral",
+      "h2h": {
+        "balls": 1,
+        "runs": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 7,
+        "balls": 8,
+        "dismissals": 1,
+        "average": 7.0,
+        "strike_rate": 87.5
+      },
+      "b_f": [
+        0
+      ],
+      "w_f": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "bat": "Shadab Khan",
+      "bat_t": "Pakistan",
+      "bowl": "LV van Beek",
+      "bowl_t": "Netherlands",
+      "v": "neutral",
+      "h2h": {
+        "balls": 1,
+        "runs": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 12,
+        "balls": 14,
+        "dismissals": 1,
+        "average": 12.0,
+        "strike_rate": 85.71
+      },
+      "b_f": [
+        23,
+        36,
+        14
+      ],
+      "w_f": [
+        3,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "SA Edwards",
+      "bat_t": "Netherlands",
+      "bowl": "Shadab Khan",
+      "bowl_t": "Pakistan",
+      "v": "bowler",
+      "h2h": {
+        "balls": 22,
+        "runs": 21,
+        "dismissals": 0,
+        "strike_rate": 95.45
+      },
+      "vs_t": {
+        "runs": 52,
+        "balls": 49,
+        "dismissals": 2,
+        "average": 26.0,
+        "strike_rate": 106.12
+      },
+      "b_f": [
+        15,
+        20,
+        18
+      ],
+      "w_f": [
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "bat": "SA Edwards",
+      "bat_t": "Netherlands",
+      "bowl": "Mohammad Nawaz",
+      "bowl_t": "Pakistan",
+      "v": "batsman",
+      "h2h": {
+        "balls": 14,
+        "runs": 24,
+        "dismissals": 0,
+        "strike_rate": 171.43
+      },
+      "vs_t": {
+        "runs": 52,
+        "balls": 49,
+        "dismissals": 2,
+        "average": 26.0,
+        "strike_rate": 106.12
+      },
+      "b_f": [
+        15,
+        20,
+        18
+      ],
+      "w_f": [
+        2,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "M Levitt",
+      "bat_t": "Netherlands",
+      "bowl": "Shaheen Shah Afridi",
+      "bowl_t": "Pakistan",
+      "v": "batsman",
+      "h2h": {
+        "balls": 8,
+        "runs": 18,
+        "dismissals": 0,
+        "strike_rate": 225.0
+      },
+      "vs_t": {
+        "runs": 24,
+        "balls": 15,
+        "dismissals": 1,
+        "average": 24.0,
+        "strike_rate": 160.0
+      },
+      "b_f": [
+        24,
+        3,
+        28
+      ],
+      "w_f": [
+        4,
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "Faheem Ashraf",
+      "bat_t": "Pakistan",
+      "bowl": "LV van Beek",
+      "bowl_t": "Netherlands",
+      "v": "batsman",
+      "h2h": {
+        "balls": 8,
+        "runs": 24,
+        "dismissals": 0,
+        "strike_rate": 300.0
+      },
+      "vs_t": {
+        "runs": 29,
+        "balls": 11,
+        "dismissals": 0,
+        "average": 29.0,
+        "strike_rate": 263.64
+      },
+      "b_f": [
+        10,
+        1,
+        29
+      ],
+      "w_f": [
+        3,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "CN Ackermann",
+      "bat_t": "Netherlands",
+      "bowl": "Mohammad Nawaz",
+      "bowl_t": "Pakistan",
+      "v": "bowler",
+      "h2h": {
+        "balls": 7,
+        "runs": 6,
+        "dismissals": 0,
+        "strike_rate": 85.71
+      },
+      "vs_t": {
+        "runs": 47,
+        "balls": 42,
+        "dismissals": 2,
+        "average": 23.5,
+        "strike_rate": 111.9
+      },
+      "b_f": [
+        23,
+        0,
+        32
+      ],
+      "w_f": [
+        2,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "MP O'Dowd",
+      "bat_t": "Netherlands",
+      "bowl": "Shaheen Shah Afridi",
+      "bowl_t": "Pakistan",
+      "v": "bowler",
+      "h2h": {
+        "balls": 7,
+        "runs": 6,
+        "dismissals": 0,
+        "strike_rate": 85.71
+      },
+      "vs_t": {
+        "runs": 13,
+        "balls": 21,
+        "dismissals": 2,
+        "average": 6.5,
+        "strike_rate": 61.9
+      },
+      "b_f": [
+        20,
+        13,
+        7
+      ],
+      "w_f": [
+        4,
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "Sahibzada Farhan",
+      "bat_t": "Pakistan",
+      "bowl": "K Klein",
+      "bowl_t": "Netherlands",
+      "v": "batsman",
+      "h2h": {
+        "balls": 7,
+        "runs": 9,
+        "dismissals": 0,
+        "strike_rate": 128.57
+      },
+      "vs_t": {
+        "runs": 47,
+        "balls": 32,
+        "dismissals": 1,
+        "average": 47.0,
+        "strike_rate": 146.88
+      },
+      "b_f": [
+        63,
+        100,
+        0
+      ],
+      "w_f": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "BFW de Leede",
+      "bat_t": "Netherlands",
+      "bowl": "Shadab Khan",
+      "bowl_t": "Pakistan",
+      "v": "neutral",
+      "h2h": {
+        "balls": 6,
+        "runs": 6,
+        "dismissals": 0,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 36,
+        "balls": 42,
+        "dismissals": 1,
+        "average": 36.0,
+        "strike_rate": 85.71
+      },
+      "b_f": [
+        33,
+        23,
+        72
+      ],
+      "w_f": [
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "bat": "BFW de Leede",
+      "bat_t": "Netherlands",
+      "bowl": "Abrar Ahmed",
+      "bowl_t": "Pakistan",
+      "v": "batsman",
+      "h2h": {
+        "balls": 6,
+        "runs": 8,
+        "dismissals": 0,
+        "strike_rate": 133.33
+      },
+      "vs_t": {
+        "runs": 36,
+        "balls": 42,
+        "dismissals": 1,
+        "average": 36.0,
+        "strike_rate": 85.71
+      },
+      "b_f": [
+        33,
+        23,
+        72
+      ],
+      "w_f": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "BFW de Leede",
+      "bat_t": "Netherlands",
+      "bowl": "Salman Mirza",
+      "bowl_t": "Pakistan",
+      "v": "neutral",
+      "h2h": {
+        "balls": 6,
+        "runs": 5,
+        "dismissals": 0,
+        "strike_rate": 83.33
+      },
+      "vs_t": {
+        "runs": 36,
+        "balls": 42,
+        "dismissals": 1,
+        "average": 36.0,
+        "strike_rate": 85.71
+      },
+      "b_f": [
+        33,
+        23,
+        72
+      ],
+      "w_f": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "bat": "CN Ackermann",
+      "bat_t": "Netherlands",
+      "bowl": "Salman Mirza",
+      "bowl_t": "Pakistan",
+      "v": "batsman",
+      "h2h": {
+        "balls": 6,
+        "runs": 8,
+        "dismissals": 0,
+        "strike_rate": 133.33
+      },
+      "vs_t": {
+        "runs": 47,
+        "balls": 42,
+        "dismissals": 2,
+        "average": 23.5,
+        "strike_rate": 111.9
+      },
+      "b_f": [
+        23,
+        0,
+        32
+      ],
+      "w_f": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "bat": "Babar Azam",
+      "bat_t": "Pakistan",
+      "bowl": "PA van Meekeren",
+      "bowl_t": "Netherlands",
+      "v": "neutral",
+      "h2h": {
+        "balls": 6,
+        "runs": 5,
+        "dismissals": 0,
+        "strike_rate": 83.33
+      },
+      "vs_t": {
+        "runs": 19,
+        "balls": 23,
+        "dismissals": 1,
+        "average": 19.0,
+        "strike_rate": 82.61
+      },
+      "b_f": [
+        25,
+        5,
+        46
+      ],
+      "w_f": [
+        2
+      ]
+    },
+    {
+      "bat": "Sahibzada Farhan",
+      "bat_t": "Pakistan",
+      "bowl": "RE van der Merwe",
+      "bowl_t": "Netherlands",
+      "v": "batsman",
+      "h2h": {
+        "balls": 6,
+        "runs": 5,
+        "dismissals": 0,
+        "strike_rate": 83.33
+      },
+      "vs_t": {
+        "runs": 47,
+        "balls": 32,
+        "dismissals": 1,
+        "average": 47.0,
+        "strike_rate": 146.88
+      },
+      "b_f": [
+        63,
+        100,
+        0
+      ],
+      "w_f": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "CN Ackermann",
+      "bat_t": "Netherlands",
+      "bowl": "Shaheen Shah Afridi",
+      "bowl_t": "Pakistan",
+      "v": "bowler",
+      "h2h": {
+        "balls": 5,
+        "runs": 5,
+        "dismissals": 0,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 47,
+        "balls": 42,
+        "dismissals": 2,
+        "average": 23.5,
+        "strike_rate": 111.9
+      },
+      "b_f": [
+        23,
+        0,
+        32
+      ],
+      "w_f": [
+        4,
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "M Levitt",
+      "bat_t": "Netherlands",
+      "bowl": "Salman Mirza",
+      "bowl_t": "Pakistan",
+      "v": "neutral",
+      "h2h": {
+        "balls": 5,
+        "runs": 6,
+        "dismissals": 0,
+        "strike_rate": 120.0
+      },
+      "vs_t": {
+        "runs": 24,
+        "balls": 15,
+        "dismissals": 1,
+        "average": 24.0,
+        "strike_rate": 160.0
+      },
+      "b_f": [
+        24,
+        3,
+        28
+      ],
+      "w_f": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "bat": "Shadab Khan",
+      "bat_t": "Pakistan",
+      "bowl": "PA van Meekeren",
+      "bowl_t": "Netherlands",
+      "v": "neutral",
+      "h2h": {
+        "balls": 5,
+        "runs": 2,
+        "dismissals": 0,
+        "strike_rate": 40.0
+      },
+      "vs_t": {
+        "runs": 12,
+        "balls": 14,
+        "dismissals": 1,
+        "average": 12.0,
+        "strike_rate": 85.71
+      },
+      "b_f": [
+        23,
+        36,
+        14
+      ],
+      "w_f": [
+        2
+      ]
+    },
+    {
+      "bat": "Mohammad Nawaz",
+      "bat_t": "Pakistan",
+      "bowl": "PA van Meekeren",
+      "bowl_t": "Netherlands",
+      "v": "neutral",
+      "h2h": {
+        "balls": 5,
+        "runs": 2,
+        "dismissals": 0,
+        "strike_rate": 40.0
+      },
+      "vs_t": {
+        "runs": 6,
+        "balls": 14,
+        "dismissals": 1,
+        "average": 6.0,
+        "strike_rate": 42.86
+      },
+      "b_f": [
+        0,
+        4,
+        5
+      ],
+      "w_f": [
+        2
+      ]
+    },
+    {
+      "bat": "Shaheen Shah Afridi",
+      "bat_t": "Pakistan",
+      "bowl": "PA van Meekeren",
+      "bowl_t": "Netherlands",
+      "v": "neutral",
+      "h2h": {
+        "balls": 5,
+        "runs": 3,
+        "dismissals": 0,
+        "strike_rate": 60.0
+      },
+      "vs_t": {
+        "runs": 5,
+        "balls": 9,
+        "dismissals": 0,
+        "average": 5.0,
+        "strike_rate": 55.56
+      },
+      "b_f": [
+        2,
+        23,
+        9
+      ],
+      "w_f": [
+        2
+      ]
+    },
+    {
+      "bat": "Sahibzada Farhan",
+      "bat_t": "Pakistan",
+      "bowl": "A Dutt",
+      "bowl_t": "Netherlands",
+      "v": "batsman",
+      "h2h": {
+        "balls": 5,
+        "runs": 13,
+        "dismissals": 0,
+        "strike_rate": 260.0
+      },
+      "vs_t": {
+        "runs": 47,
+        "balls": 32,
+        "dismissals": 1,
+        "average": 47.0,
+        "strike_rate": 146.88
+      },
+      "b_f": [
+        63,
+        100,
+        0
+      ],
+      "w_f": [
+        2,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "Sahibzada Farhan",
+      "bat_t": "Pakistan",
+      "bowl": "LV van Beek",
+      "bowl_t": "Netherlands",
+      "v": "batsman",
+      "h2h": {
+        "balls": 5,
+        "runs": 8,
+        "dismissals": 0,
+        "strike_rate": 160.0
+      },
+      "vs_t": {
+        "runs": 47,
+        "balls": 32,
+        "dismissals": 1,
+        "average": 47.0,
+        "strike_rate": 146.88
+      },
+      "b_f": [
+        63,
+        100,
+        0
+      ],
+      "w_f": [
+        3,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "Saim Ayub",
+      "bat_t": "Pakistan",
+      "bowl": "LV van Beek",
+      "bowl_t": "Netherlands",
+      "v": "neutral",
+      "h2h": {
+        "balls": 5,
+        "runs": 12,
+        "dismissals": 0,
+        "strike_rate": 240.0
+      },
+      "vs_t": {
+        "runs": 24,
+        "balls": 13,
+        "dismissals": 1,
+        "average": 24.0,
+        "strike_rate": 184.62
+      },
+      "b_f": [
+        7,
+        14,
+        6
+      ],
+      "w_f": [
+        3,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "RE van der Merwe",
+      "bat_t": "Netherlands",
+      "bowl": "Abrar Ahmed",
+      "bowl_t": "Pakistan",
+      "v": "bowler",
+      "h2h": {
+        "balls": 4,
+        "runs": 3,
+        "dismissals": 0,
+        "strike_rate": 75.0
+      },
+      "vs_t": {
+        "runs": 11,
+        "balls": 17,
+        "dismissals": 2,
+        "average": 5.5,
+        "strike_rate": 64.71
+      },
+      "b_f": [
+        10,
+        4
+      ],
+      "w_f": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "Agha Salman",
+      "bat_t": "Pakistan",
+      "bowl": "K Klein",
+      "bowl_t": "Netherlands",
+      "v": "neutral",
+      "h2h": {
+        "balls": 4,
+        "runs": 8,
+        "dismissals": 0,
+        "strike_rate": 200.0
+      },
+      "vs_t": {
+        "runs": 12,
+        "balls": 8,
+        "dismissals": 1,
+        "average": 12.0,
+        "strike_rate": 150.0
+      },
+      "b_f": [
+        5,
+        38,
+        4
+      ],
+      "w_f": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "Mohammad Nawaz",
+      "bat_t": "Pakistan",
+      "bowl": "A Dutt",
+      "bowl_t": "Netherlands",
+      "v": "neutral",
+      "h2h": {
+        "balls": 4,
+        "runs": 2,
+        "dismissals": 0,
+        "strike_rate": 50.0
+      },
+      "vs_t": {
+        "runs": 6,
+        "balls": 14,
+        "dismissals": 1,
+        "average": 6.0,
+        "strike_rate": 42.86
+      },
+      "b_f": [
+        0,
+        4,
+        5
+      ],
+      "w_f": [
+        2,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "BFW de Leede",
+      "bat_t": "Netherlands",
+      "bowl": "Shaheen Shah Afridi",
+      "bowl_t": "Pakistan",
+      "v": "neutral",
+      "h2h": {
+        "balls": 3,
+        "runs": 1,
+        "dismissals": 0,
+        "strike_rate": 33.33
+      },
+      "vs_t": {
+        "runs": 36,
+        "balls": 42,
+        "dismissals": 1,
+        "average": 36.0,
+        "strike_rate": 85.71
+      },
+      "b_f": [
+        33,
+        23,
+        72
+      ],
+      "w_f": [
+        4,
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "ZB Lion-Cachet",
+      "bat_t": "Netherlands",
+      "bowl": "Mohammad Nawaz",
+      "bowl_t": "Pakistan",
+      "v": "neutral",
+      "h2h": {
+        "balls": 3,
+        "runs": 6,
+        "dismissals": 0,
+        "strike_rate": 200.0
+      },
+      "vs_t": {
+        "runs": 9,
+        "balls": 8,
+        "dismissals": 1,
+        "average": 9.0,
+        "strike_rate": 112.5
+      },
+      "b_f": [
+        26,
+        6,
+        9
+      ],
+      "w_f": [
+        2,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "LV van Beek",
+      "bat_t": "Netherlands",
+      "bowl": "Shaheen Shah Afridi",
+      "bowl_t": "Pakistan",
+      "v": "neutral",
+      "h2h": {
+        "balls": 3,
+        "runs": 3,
+        "dismissals": 0,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 6,
+        "balls": 10,
+        "dismissals": 1,
+        "average": 6.0,
+        "strike_rate": 60.0
+      },
+      "b_f": [
+        4,
+        2,
+        0
+      ],
+      "w_f": [
+        4,
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "Shaheen Shah Afridi",
+      "bat_t": "Pakistan",
+      "bowl": "LV van Beek",
+      "bowl_t": "Netherlands",
+      "v": "neutral",
+      "h2h": {
+        "balls": 3,
+        "runs": 1,
+        "dismissals": 0,
+        "strike_rate": 33.33
+      },
+      "vs_t": {
+        "runs": 5,
+        "balls": 9,
+        "dismissals": 0,
+        "average": 5.0,
+        "strike_rate": 55.56
+      },
+      "b_f": [
+        2,
+        23,
+        9
+      ],
+      "w_f": [
+        3,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "Babar Azam",
+      "bat_t": "Pakistan",
+      "bowl": "BFW de Leede",
+      "bowl_t": "Netherlands",
+      "v": "neutral",
+      "h2h": {
+        "balls": 3,
+        "runs": 6,
+        "dismissals": 0,
+        "strike_rate": 200.0
+      },
+      "vs_t": {
+        "runs": 19,
+        "balls": 23,
+        "dismissals": 1,
+        "average": 19.0,
+        "strike_rate": 82.61
+      },
+      "b_f": [
+        25,
+        5,
+        46
+      ],
+      "w_f": [
+        0,
+        3,
+        2
+      ]
+    },
+    {
+      "bat": "Sahibzada Farhan",
+      "bat_t": "Pakistan",
+      "bowl": "BFW de Leede",
+      "bowl_t": "Netherlands",
+      "v": "batsman",
+      "h2h": {
+        "balls": 3,
+        "runs": 2,
+        "dismissals": 0,
+        "strike_rate": 66.67
+      },
+      "vs_t": {
+        "runs": 47,
+        "balls": 32,
+        "dismissals": 1,
+        "average": 47.0,
+        "strike_rate": 146.88
+      },
+      "b_f": [
+        63,
+        100,
+        0
+      ],
+      "w_f": [
+        0,
+        3,
+        2
+      ]
+    },
+    {
+      "bat": "ZB Lion-Cachet",
+      "bat_t": "Netherlands",
+      "bowl": "Abrar Ahmed",
+      "bowl_t": "Pakistan",
+      "v": "neutral",
+      "h2h": {
+        "balls": 2,
+        "runs": 1,
+        "dismissals": 0,
+        "strike_rate": 50.0
+      },
+      "vs_t": {
+        "runs": 9,
+        "balls": 8,
+        "dismissals": 1,
+        "average": 9.0,
+        "strike_rate": 112.5
+      },
+      "b_f": [
+        26,
+        6,
+        9
+      ],
+      "w_f": [
+        0,
+        1,
+        2
+      ]
+    }
+  ]
+}

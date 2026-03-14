@@ -1,0 +1,1247 @@
+{
+    "match_id": "1512736",
+    "metadata": {
+        "tournament": "2025/26",
+        "venue": "Arun Jaitley Stadium, Delhi",
+        "date": "2026-02-12",
+        "stage": "ICC Men's T20 World Cup",
+        "winner": "India",
+        "loser": "Namibia",
+        "win_classification": "Moderate",
+        "margin_runs": 93,
+        "margin_wickets": null,
+        "competitiveness_index": 85.0,
+        "teams": {
+            "India": {
+                "captain": "SA Yadav",
+                "playing_xi_count": 11
+            },
+            "Namibia": {
+                "captain": "MG Erasmus",
+                "playing_xi_count": 11
+            }
+        },
+        "team_summary": {
+            "India": {
+                "run_rate": 10.45,
+                "fours": 15,
+                "sixes": 14,
+                "boundary_runs": 144,
+                "dot_balls": 39,
+                "total_runs": 209,
+                "total_wickets": 9
+            },
+            "Namibia": {
+                "run_rate": 6.33,
+                "fours": 9,
+                "sixes": 4,
+                "boundary_runs": 60,
+                "dot_balls": 53,
+                "total_runs": 116,
+                "total_wickets": 10
+            }
+        },
+        "formulas": {
+            "competitiveness": "Base(Margin) + Pressure_Bonus(L5 Overs)",
+            "pressure": "((RR_Gap / Start_RR) * 40) + ((Wickets / 10) * 60)",
+            "batting_impact": "Runs + (SR/Match_SR * 25)",
+            "bowling_impact": "(Wickets * 30) + (Match_RR/Econ * 20)"
+        }
+    },
+    "scorecards": {
+        "batting": [
+            {
+                "player": "Ishan Kishan",
+                "team": "India",
+                "runs": 61,
+                "balls": 25,
+                "sr": 244.0,
+                "fours": 6,
+                "sixes": 5,
+                "win_contribution_percent": 29.2,
+                "score": 109.08
+            },
+            {
+                "player": "HH Pandya",
+                "team": "India",
+                "runs": 52,
+                "balls": 29,
+                "sr": 179.31,
+                "fours": 4,
+                "sixes": 4,
+                "win_contribution_percent": 24.9,
+                "score": 87.34
+            },
+            {
+                "player": "Tilak Varma",
+                "team": "India",
+                "runs": 25,
+                "balls": 21,
+                "sr": 119.05,
+                "fours": 3,
+                "sixes": 0,
+                "win_contribution_percent": 12.0,
+                "score": 48.46
+            },
+            {
+                "player": "S Dube",
+                "team": "India",
+                "runs": 23,
+                "balls": 18,
+                "sr": 127.78,
+                "fours": 1,
+                "sixes": 1,
+                "win_contribution_percent": 11.0,
+                "score": 48.18
+            },
+            {
+                "player": "SV Samson",
+                "team": "India",
+                "runs": 22,
+                "balls": 8,
+                "sr": 275.0,
+                "fours": 1,
+                "sixes": 3,
+                "win_contribution_percent": 10.5,
+                "score": 76.19
+            },
+            {
+                "player": "SA Yadav",
+                "team": "India",
+                "runs": 12,
+                "balls": 14,
+                "sr": 85.71,
+                "fours": 0,
+                "sixes": 1,
+                "win_contribution_percent": 5.7,
+                "score": 28.89
+            },
+            {
+                "player": "Arshdeep Singh",
+                "team": "India",
+                "runs": 2,
+                "balls": 2,
+                "sr": 100.0,
+                "fours": 0,
+                "sixes": 0,
+                "win_contribution_percent": 1.0,
+                "score": 21.71
+            },
+            {
+                "player": "CV Varun",
+                "team": "India",
+                "runs": 1,
+                "balls": 1,
+                "sr": 100.0,
+                "fours": 0,
+                "sixes": 0,
+                "win_contribution_percent": 0.5,
+                "score": 20.71
+            },
+            {
+                "player": "RK Singh",
+                "team": "India",
+                "runs": 1,
+                "balls": 6,
+                "sr": 16.67,
+                "fours": 0,
+                "sixes": 0,
+                "win_contribution_percent": 0.5,
+                "score": 4.29
+            },
+            {
+                "player": "AR Patel",
+                "team": "India",
+                "runs": 0,
+                "balls": 1,
+                "sr": 0.0,
+                "fours": 0,
+                "sixes": 0,
+                "win_contribution_percent": 0.0,
+                "score": 0.0
+            },
+            {
+                "player": "L Steenkamp",
+                "team": "Namibia",
+                "runs": 29,
+                "balls": 21,
+                "sr": 138.1,
+                "fours": 3,
+                "sixes": 1,
+                "win_contribution_percent": 25.0,
+                "score": 56.22
+            },
+            {
+                "player": "JN Frylinck",
+                "team": "Namibia",
+                "runs": 22,
+                "balls": 16,
+                "sr": 137.5,
+                "fours": 3,
+                "sixes": 1,
+                "win_contribution_percent": 19.0,
+                "score": 49.1
+            },
+            {
+                "player": "MG Erasmus",
+                "team": "Namibia",
+                "runs": 18,
+                "balls": 11,
+                "sr": 163.64,
+                "fours": 0,
+                "sixes": 2,
+                "win_contribution_percent": 15.5,
+                "score": 50.25
+            },
+            {
+                "player": "JN Loftie-Eaton",
+                "team": "Namibia",
+                "runs": 13,
+                "balls": 14,
+                "sr": 92.86,
+                "fours": 1,
+                "sixes": 0,
+                "win_contribution_percent": 11.2,
+                "score": 31.3
+            },
+            {
+                "player": "ZE Green",
+                "team": "Namibia",
+                "runs": 11,
+                "balls": 19,
+                "sr": 57.89,
+                "fours": 0,
+                "sixes": 0,
+                "win_contribution_percent": 9.5,
+                "score": 22.41
+            },
+            {
+                "player": "R Trumpelmann",
+                "team": "Namibia",
+                "runs": 6,
+                "balls": 17,
+                "sr": 35.29,
+                "fours": 0,
+                "sixes": 0,
+                "win_contribution_percent": 5.2,
+                "score": 12.95
+            },
+            {
+                "player": "MB Kruger",
+                "team": "Namibia",
+                "runs": 5,
+                "balls": 10,
+                "sr": 50.0,
+                "fours": 1,
+                "sixes": 0,
+                "win_contribution_percent": 4.3,
+                "score": 14.85
+            },
+            {
+                "player": "BM Scholtz",
+                "team": "Namibia",
+                "runs": 4,
+                "balls": 4,
+                "sr": 100.0,
+                "fours": 1,
+                "sixes": 0,
+                "win_contribution_percent": 3.4,
+                "score": 23.71
+            },
+            {
+                "player": "B Shikongo",
+                "team": "Namibia",
+                "runs": 0,
+                "balls": 1,
+                "sr": 0.0,
+                "fours": 0,
+                "sixes": 0,
+                "win_contribution_percent": 0.0,
+                "score": 0.0
+            },
+            {
+                "player": "JJ Smit",
+                "team": "Namibia",
+                "runs": 0,
+                "balls": 2,
+                "sr": 0.0,
+                "fours": 0,
+                "sixes": 0,
+                "win_contribution_percent": 0.0,
+                "score": 0.0
+            },
+            {
+                "player": "M Heingo",
+                "team": "Namibia",
+                "runs": 0,
+                "balls": 2,
+                "sr": 0.0,
+                "fours": 0,
+                "sixes": 0,
+                "win_contribution_percent": 0.0,
+                "score": 0.0
+            }
+        ],
+        "bowling": [
+            {
+                "player": "MG Erasmus",
+                "team": "Namibia",
+                "overs": 4.0,
+                "runs": 20,
+                "wickets": 4,
+                "econ": 5.0,
+                "score": 150.0,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "BM Scholtz",
+                "team": "Namibia",
+                "overs": 4.0,
+                "runs": 41,
+                "wickets": 1,
+                "econ": 10.25,
+                "score": 45.72,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "JJ Smit",
+                "team": "Namibia",
+                "overs": 4.0,
+                "runs": 50,
+                "wickets": 1,
+                "econ": 12.5,
+                "score": 42.89,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "B Shikongo",
+                "team": "Namibia",
+                "overs": 3.0,
+                "runs": 41,
+                "wickets": 1,
+                "econ": 13.67,
+                "score": 41.79,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "R Trumpelmann",
+                "team": "Namibia",
+                "overs": 4.0,
+                "runs": 39,
+                "wickets": 0,
+                "econ": 9.75,
+                "score": 16.53,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "M Heingo",
+                "team": "Namibia",
+                "overs": 1.0,
+                "runs": 18,
+                "wickets": 0,
+                "econ": 18.0,
+                "score": 8.95,
+                "bowling_baseline": {
+                    "career_wickets": 0,
+                    "career_economy": 0.0,
+                    "career_sr": 0.0,
+                    "career_avg": 0.0,
+                    "best_bowling": "N/A",
+                    "matches": 0,
+                    "source": "none",
+                    "baseline_available": false
+                }
+            },
+            {
+                "player": "CV Varun",
+                "team": "India",
+                "overs": 2.0,
+                "runs": 7,
+                "wickets": 3,
+                "econ": 3.5,
+                "score": 136.04,
+                "bowling_baseline": {
+                    "career_wickets": 71,
+                    "career_economy": 7.36,
+                    "career_sr": 12.97,
+                    "career_avg": 15.9,
+                    "best_bowling": "5/24",
+                    "matches": 41,
+                    "source": "t20_bowling_master",
+                    "baseline_available": true
+                }
+            },
+            {
+                "player": "HH Pandya",
+                "team": "India",
+                "overs": 4.0,
+                "runs": 21,
+                "wickets": 2,
+                "econ": 5.25,
+                "score": 90.7,
+                "bowling_baseline": {
+                    "career_wickets": 111,
+                    "career_economy": 8.49,
+                    "career_sr": 19.4,
+                    "career_avg": 27.46,
+                    "best_bowling": "4/38",
+                    "matches": 121,
+                    "source": "t20_bowling_master",
+                    "baseline_available": true
+                }
+            },
+            {
+                "player": "AR Patel",
+                "team": "India",
+                "overs": 3.0,
+                "runs": 20,
+                "wickets": 2,
+                "econ": 6.67,
+                "score": 84.16,
+                "bowling_baseline": {
+                    "career_wickets": 88,
+                    "career_economy": 7.59,
+                    "career_sr": 17.7,
+                    "career_avg": 22.41,
+                    "best_bowling": "3/18",
+                    "matches": 82,
+                    "source": "t20_bowling_master",
+                    "baseline_available": true
+                }
+            },
+            {
+                "player": "S Dube",
+                "team": "India",
+                "overs": 2.2,
+                "runs": 11,
+                "wickets": 1,
+                "econ": 4.71,
+                "score": 64.22,
+                "bowling_baseline": {
+                    "career_wickets": 28,
+                    "career_economy": 9.74,
+                    "career_sr": 16.79,
+                    "career_avg": 27.25,
+                    "best_bowling": "3/31",
+                    "matches": 37,
+                    "source": "t20_bowling_master",
+                    "baseline_available": true
+                }
+            },
+            {
+                "player": "JJ Bumrah",
+                "team": "India",
+                "overs": 4.0,
+                "runs": 21,
+                "wickets": 1,
+                "econ": 5.25,
+                "score": 60.7,
+                "bowling_baseline": {
+                    "career_wickets": 113,
+                    "career_economy": 6.85,
+                    "career_sr": 17.08,
+                    "career_avg": 19.51,
+                    "best_bowling": "3/23",
+                    "matches": 88,
+                    "source": "t20_bowling_master",
+                    "baseline_available": true
+                }
+            },
+            {
+                "player": "Arshdeep Singh",
+                "team": "India",
+                "overs": 3.0,
+                "runs": 36,
+                "wickets": 1,
+                "econ": 12.0,
+                "score": 43.43,
+                "bowling_baseline": {
+                    "career_wickets": 120,
+                    "career_economy": 8.75,
+                    "career_sr": 13.46,
+                    "career_avg": 19.63,
+                    "best_bowling": "5/51",
+                    "matches": 76,
+                    "source": "t20_bowling_master",
+                    "baseline_available": true
+                }
+            }
+        ]
+    },
+    "innings": [
+        {
+            "innings": 1,
+            "team": "India",
+            "total_runs": 209,
+            "total_wickets": 9,
+            "balls_faced": 120,
+            "overs_faced": 20.0,
+            "phase_analysis": {
+                "Powerplay": {
+                    "runs": 86,
+                    "wkts": 1,
+                    "rr": 14.33
+                },
+                "Middle": {
+                    "runs": 82,
+                    "wkts": 3,
+                    "rr": 9.11
+                },
+                "Death": {
+                    "runs": 41,
+                    "wkts": 5,
+                    "rr": 8.2
+                }
+            }
+        },
+        {
+            "innings": 2,
+            "team": "Namibia",
+            "total_runs": 116,
+            "total_wickets": 10,
+            "balls_faced": 110,
+            "overs_faced": 18.2,
+            "phase_analysis": {
+                "Powerplay": {
+                    "runs": 57,
+                    "wkts": 1,
+                    "rr": 9.5
+                },
+                "Middle": {
+                    "runs": 48,
+                    "wkts": 5,
+                    "rr": 5.33
+                },
+                "Death": {
+                    "runs": 11,
+                    "wkts": 4,
+                    "rr": 3.3
+                }
+            },
+            "pressure_index": 100.0,
+            "target": 210
+        }
+    ],
+    "players": [
+        {
+            "player": "MG Erasmus",
+            "team": "Namibia",
+            "overs": 4.0,
+            "runs": 20,
+            "wickets": 4,
+            "econ": 5.0,
+            "score": 150.0,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-20r-4w"
+        },
+        {
+            "player": "CV Varun",
+            "team": "India",
+            "overs": 2.0,
+            "runs": 7,
+            "wickets": 3,
+            "econ": 3.5,
+            "score": 136.04,
+            "bowling_baseline": {
+                "career_wickets": 71,
+                "career_economy": 7.36,
+                "career_sr": 12.97,
+                "career_avg": 15.9,
+                "best_bowling": "5/24",
+                "matches": 41,
+                "source": "t20_bowling_master",
+                "baseline_available": true
+            },
+            "role": "bowling",
+            "match_stats": "2.0o-7r-3w"
+        },
+        {
+            "player": "Ishan Kishan",
+            "team": "India",
+            "runs": 61,
+            "balls": 25,
+            "sr": 244.0,
+            "fours": 6,
+            "sixes": 5,
+            "win_contribution_percent": 29.2,
+            "score": 109.08,
+            "role": "batting",
+            "match_stats": "61(25)",
+            "baseline": {
+                "avg": 29.68,
+                "sr": 138.02,
+                "matches": 41,
+                "source": "t20_master",
+                "baseline_available": true
+            }
+        },
+        {
+            "player": "HH Pandya",
+            "team": "India",
+            "overs": 4.0,
+            "runs": 21,
+            "wickets": 2,
+            "econ": 5.25,
+            "score": 90.7,
+            "bowling_baseline": {
+                "career_wickets": 111,
+                "career_economy": 8.49,
+                "career_sr": 19.4,
+                "career_avg": 27.46,
+                "best_bowling": "4/38",
+                "matches": 121,
+                "source": "t20_bowling_master",
+                "baseline_available": true
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-21r-2w"
+        },
+        {
+            "player": "HH Pandya",
+            "team": "India",
+            "runs": 52,
+            "balls": 29,
+            "sr": 179.31,
+            "fours": 4,
+            "sixes": 4,
+            "win_contribution_percent": 24.9,
+            "score": 87.34,
+            "role": "batting",
+            "match_stats": "52(29)",
+            "baseline": {
+                "avg": 28.12,
+                "sr": 138.02,
+                "matches": 103,
+                "source": "t20_master",
+                "baseline_available": true
+            }
+        },
+        {
+            "player": "AR Patel",
+            "team": "India",
+            "overs": 3.0,
+            "runs": 20,
+            "wickets": 2,
+            "econ": 6.67,
+            "score": 84.16,
+            "bowling_baseline": {
+                "career_wickets": 88,
+                "career_economy": 7.59,
+                "career_sr": 17.7,
+                "career_avg": 22.41,
+                "best_bowling": "3/18",
+                "matches": 82,
+                "source": "t20_bowling_master",
+                "baseline_available": true
+            },
+            "role": "bowling",
+            "match_stats": "3.0o-20r-2w"
+        },
+        {
+            "player": "SV Samson",
+            "team": "India",
+            "runs": 22,
+            "balls": 8,
+            "sr": 275.0,
+            "fours": 1,
+            "sixes": 3,
+            "win_contribution_percent": 10.5,
+            "score": 76.19,
+            "role": "batting",
+            "match_stats": "22(8)",
+            "baseline": {
+                "avg": 25.0,
+                "sr": 143.98,
+                "matches": 49,
+                "source": "t20_master",
+                "baseline_available": true
+            }
+        },
+        {
+            "player": "S Dube",
+            "team": "India",
+            "overs": 2.2,
+            "runs": 11,
+            "wickets": 1,
+            "econ": 4.71,
+            "score": 64.22,
+            "bowling_baseline": {
+                "career_wickets": 28,
+                "career_economy": 9.74,
+                "career_sr": 16.79,
+                "career_avg": 27.25,
+                "best_bowling": "3/31",
+                "matches": 37,
+                "source": "t20_bowling_master",
+                "baseline_available": true
+            },
+            "role": "bowling",
+            "match_stats": "2.2o-11r-1w"
+        },
+        {
+            "player": "JJ Bumrah",
+            "team": "India",
+            "overs": 4.0,
+            "runs": 21,
+            "wickets": 1,
+            "econ": 5.25,
+            "score": 60.7,
+            "bowling_baseline": {
+                "career_wickets": 113,
+                "career_economy": 6.85,
+                "career_sr": 17.08,
+                "career_avg": 19.51,
+                "best_bowling": "3/23",
+                "matches": 88,
+                "source": "t20_bowling_master",
+                "baseline_available": true
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-21r-1w"
+        },
+        {
+            "player": "L Steenkamp",
+            "team": "Namibia",
+            "runs": 29,
+            "balls": 21,
+            "sr": 138.1,
+            "fours": 3,
+            "sixes": 1,
+            "win_contribution_percent": 25.0,
+            "score": 56.22,
+            "role": "batting",
+            "match_stats": "29(21)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "MG Erasmus",
+            "team": "Namibia",
+            "runs": 18,
+            "balls": 11,
+            "sr": 163.64,
+            "fours": 0,
+            "sixes": 2,
+            "win_contribution_percent": 15.5,
+            "score": 50.25,
+            "role": "batting",
+            "match_stats": "18(11)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "JN Frylinck",
+            "team": "Namibia",
+            "runs": 22,
+            "balls": 16,
+            "sr": 137.5,
+            "fours": 3,
+            "sixes": 1,
+            "win_contribution_percent": 19.0,
+            "score": 49.1,
+            "role": "batting",
+            "match_stats": "22(16)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "Tilak Varma",
+            "team": "India",
+            "runs": 25,
+            "balls": 21,
+            "sr": 119.05,
+            "fours": 3,
+            "sixes": 0,
+            "win_contribution_percent": 12.0,
+            "score": 48.46,
+            "role": "batting",
+            "match_stats": "25(21)",
+            "baseline": {
+                "avg": 46.81,
+                "sr": 136.65,
+                "matches": 41,
+                "source": "t20_master",
+                "baseline_available": true
+            }
+        },
+        {
+            "player": "S Dube",
+            "team": "India",
+            "runs": 23,
+            "balls": 18,
+            "sr": 127.78,
+            "fours": 1,
+            "sixes": 1,
+            "win_contribution_percent": 11.0,
+            "score": 48.18,
+            "role": "batting",
+            "match_stats": "23(18)",
+            "baseline": {
+                "avg": 31.2,
+                "sr": 141.3,
+                "matches": 40,
+                "source": "t20_master",
+                "baseline_available": true
+            }
+        },
+        {
+            "player": "BM Scholtz",
+            "team": "Namibia",
+            "overs": 4.0,
+            "runs": 41,
+            "wickets": 1,
+            "econ": 10.25,
+            "score": 45.72,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-41r-1w"
+        },
+        {
+            "player": "Arshdeep Singh",
+            "team": "India",
+            "overs": 3.0,
+            "runs": 36,
+            "wickets": 1,
+            "econ": 12.0,
+            "score": 43.43,
+            "bowling_baseline": {
+                "career_wickets": 120,
+                "career_economy": 8.75,
+                "career_sr": 13.46,
+                "career_avg": 19.63,
+                "best_bowling": "5/51",
+                "matches": 76,
+                "source": "t20_bowling_master",
+                "baseline_available": true
+            },
+            "role": "bowling",
+            "match_stats": "3.0o-36r-1w"
+        },
+        {
+            "player": "JJ Smit",
+            "team": "Namibia",
+            "overs": 4.0,
+            "runs": 50,
+            "wickets": 1,
+            "econ": 12.5,
+            "score": 42.89,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-50r-1w"
+        },
+        {
+            "player": "B Shikongo",
+            "team": "Namibia",
+            "overs": 3.0,
+            "runs": 41,
+            "wickets": 1,
+            "econ": 13.67,
+            "score": 41.79,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "3.0o-41r-1w"
+        },
+        {
+            "player": "JN Loftie-Eaton",
+            "team": "Namibia",
+            "runs": 13,
+            "balls": 14,
+            "sr": 92.86,
+            "fours": 1,
+            "sixes": 0,
+            "win_contribution_percent": 11.2,
+            "score": 31.3,
+            "role": "batting",
+            "match_stats": "13(14)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "SA Yadav",
+            "team": "India",
+            "runs": 12,
+            "balls": 14,
+            "sr": 85.71,
+            "fours": 0,
+            "sixes": 1,
+            "win_contribution_percent": 5.7,
+            "score": 28.89,
+            "role": "batting",
+            "match_stats": "12(14)",
+            "baseline": {
+                "avg": 38.51,
+                "sr": 156.8,
+                "matches": 101,
+                "source": "t20_master",
+                "baseline_available": true
+            }
+        },
+        {
+            "player": "BM Scholtz",
+            "team": "Namibia",
+            "runs": 4,
+            "balls": 4,
+            "sr": 100.0,
+            "fours": 1,
+            "sixes": 0,
+            "win_contribution_percent": 3.4,
+            "score": 23.71,
+            "role": "batting",
+            "match_stats": "4(4)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "ZE Green",
+            "team": "Namibia",
+            "runs": 11,
+            "balls": 19,
+            "sr": 57.89,
+            "fours": 0,
+            "sixes": 0,
+            "win_contribution_percent": 9.5,
+            "score": 22.41,
+            "role": "batting",
+            "match_stats": "11(19)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "Arshdeep Singh",
+            "team": "India",
+            "runs": 2,
+            "balls": 2,
+            "sr": 100.0,
+            "fours": 0,
+            "sixes": 0,
+            "win_contribution_percent": 1.0,
+            "score": 21.71,
+            "role": "batting",
+            "match_stats": "2(2)",
+            "baseline": {
+                "avg": 7.25,
+                "sr": 98.86,
+                "matches": 26,
+                "source": "t20_master",
+                "baseline_available": true
+            }
+        },
+        {
+            "player": "CV Varun",
+            "team": "India",
+            "runs": 1,
+            "balls": 1,
+            "sr": 100.0,
+            "fours": 0,
+            "sixes": 0,
+            "win_contribution_percent": 0.5,
+            "score": 20.71,
+            "role": "batting",
+            "match_stats": "1(1)",
+            "baseline": {
+                "avg": 1.0,
+                "sr": 21.43,
+                "matches": 8,
+                "source": "t20_master",
+                "baseline_available": true
+            }
+        },
+        {
+            "player": "R Trumpelmann",
+            "team": "Namibia",
+            "overs": 4.0,
+            "runs": 39,
+            "wickets": 0,
+            "econ": 9.75,
+            "score": 16.53,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-39r-0w"
+        },
+        {
+            "player": "MB Kruger",
+            "team": "Namibia",
+            "runs": 5,
+            "balls": 10,
+            "sr": 50.0,
+            "fours": 1,
+            "sixes": 0,
+            "win_contribution_percent": 4.3,
+            "score": 14.85,
+            "role": "batting",
+            "match_stats": "5(10)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "R Trumpelmann",
+            "team": "Namibia",
+            "runs": 6,
+            "balls": 17,
+            "sr": 35.29,
+            "fours": 0,
+            "sixes": 0,
+            "win_contribution_percent": 5.2,
+            "score": 12.95,
+            "role": "batting",
+            "match_stats": "6(17)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "M Heingo",
+            "team": "Namibia",
+            "overs": 1.0,
+            "runs": 18,
+            "wickets": 0,
+            "econ": 18.0,
+            "score": 8.95,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "1.0o-18r-0w"
+        },
+        {
+            "player": "RK Singh",
+            "team": "India",
+            "runs": 1,
+            "balls": 6,
+            "sr": 16.67,
+            "fours": 0,
+            "sixes": 0,
+            "win_contribution_percent": 0.5,
+            "score": 4.29,
+            "role": "batting",
+            "match_stats": "1(6)",
+            "baseline": {
+                "avg": 28.1,
+                "sr": 136.57,
+                "matches": 34,
+                "source": "t20_master",
+                "baseline_available": true
+            }
+        },
+        {
+            "player": "AR Patel",
+            "team": "India",
+            "runs": 0,
+            "balls": 1,
+            "sr": 0.0,
+            "fours": 0,
+            "sixes": 0,
+            "win_contribution_percent": 0.0,
+            "score": 0.0,
+            "role": "batting",
+            "match_stats": "0(1)",
+            "baseline": {
+                "avg": 19.66,
+                "sr": 125.55,
+                "matches": 55,
+                "source": "t20_master",
+                "baseline_available": true
+            }
+        },
+        {
+            "player": "B Shikongo",
+            "team": "Namibia",
+            "runs": 0,
+            "balls": 1,
+            "sr": 0.0,
+            "fours": 0,
+            "sixes": 0,
+            "win_contribution_percent": 0.0,
+            "score": 0.0,
+            "role": "batting",
+            "match_stats": "0(1)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "JJ Smit",
+            "team": "Namibia",
+            "runs": 0,
+            "balls": 2,
+            "sr": 0.0,
+            "fours": 0,
+            "sixes": 0,
+            "win_contribution_percent": 0.0,
+            "score": 0.0,
+            "role": "batting",
+            "match_stats": "0(2)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "M Heingo",
+            "team": "Namibia",
+            "runs": 0,
+            "balls": 2,
+            "sr": 0.0,
+            "fours": 0,
+            "sixes": 0,
+            "win_contribution_percent": 0.0,
+            "score": 0.0,
+            "role": "batting",
+            "match_stats": "0(2)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        }
+    ],
+    "validation": {
+        "logical_stability": true
+    }
+}

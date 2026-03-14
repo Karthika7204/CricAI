@@ -1,0 +1,1472 @@
+{
+  "match_id": "1512755",
+  "team_a": "West Indies",
+  "team_b": "Italy",
+  "matchups": [
+    {
+      "bat": "JT Smuts",
+      "bat_t": "Italy",
+      "bowl": "G Motie",
+      "bowl_t": "West Indies",
+      "v": "neutral",
+      "h2h": {
+        "balls": 10,
+        "runs": 7,
+        "dismissals": 1,
+        "strike_rate": 70.0
+      },
+      "vs_t": {
+        "runs": 24,
+        "balls": 27,
+        "dismissals": 1,
+        "average": 24.0,
+        "strike_rate": 88.89
+      },
+      "b_car": {
+        "avg": 13.53,
+        "sr": 104.05
+      },
+      "b_f": [
+        24,
+        0,
+        22
+      ],
+      "w_f": [
+        4,
+        2,
+        0
+      ]
+    },
+    {
+      "bat": "AJ Mosca",
+      "bat_t": "Italy",
+      "bowl": "AJ Hosein",
+      "bowl_t": "West Indies",
+      "v": "batsman",
+      "h2h": {
+        "balls": 10,
+        "runs": 18,
+        "dismissals": 1,
+        "strike_rate": 180.0
+      },
+      "vs_t": {
+        "runs": 19,
+        "balls": 12,
+        "dismissals": 1,
+        "average": 19.0,
+        "strike_rate": 158.33
+      },
+      "b_f": [
+        19,
+        0,
+        62
+      ],
+      "w_f": [
+        3,
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "BAD Manenti",
+      "bat_t": "Italy",
+      "bowl": "G Motie",
+      "bowl_t": "West Indies",
+      "v": "neutral",
+      "h2h": {
+        "balls": 9,
+        "runs": 11,
+        "dismissals": 1,
+        "strike_rate": 122.22
+      },
+      "vs_t": {
+        "runs": 26,
+        "balls": 22,
+        "dismissals": 1,
+        "average": 26.0,
+        "strike_rate": 118.18
+      },
+      "b_f": [
+        26,
+        60,
+        52
+      ],
+      "w_f": [
+        4,
+        2,
+        0
+      ]
+    },
+    {
+      "bat": "Syed Naqvi",
+      "bat_t": "Italy",
+      "bowl": "MW Forde",
+      "bowl_t": "West Indies",
+      "v": "neutral",
+      "h2h": {
+        "balls": 8,
+        "runs": 5,
+        "dismissals": 1,
+        "strike_rate": 62.5
+      },
+      "vs_t": {
+        "runs": 6,
+        "balls": 11,
+        "dismissals": 1,
+        "average": 6.0,
+        "strike_rate": 54.55
+      },
+      "b_f": [
+        6
+      ],
+      "w_f": [
+        2,
+        3,
+        1
+      ]
+    },
+    {
+      "bat": "SD Hope",
+      "bat_t": "West Indies",
+      "bowl": "CJPF Kalugamage",
+      "bowl_t": "Italy",
+      "v": "batsman",
+      "h2h": {
+        "balls": 7,
+        "runs": 10,
+        "dismissals": 1,
+        "strike_rate": 142.86
+      },
+      "vs_t": {
+        "runs": 75,
+        "balls": 46,
+        "dismissals": 1,
+        "average": 75.0,
+        "strike_rate": 163.04
+      },
+      "b_f": [
+        14,
+        75,
+        61
+      ],
+      "w_f": [
+        2,
+        2,
+        3
+      ]
+    },
+    {
+      "bat": "JO Holder",
+      "bat_t": "West Indies",
+      "bowl": "CJPF Kalugamage",
+      "bowl_t": "Italy",
+      "v": "batsman",
+      "h2h": {
+        "balls": 6,
+        "runs": 8,
+        "dismissals": 1,
+        "strike_rate": 133.33
+      },
+      "vs_t": {
+        "runs": 9,
+        "balls": 7,
+        "dismissals": 1,
+        "average": 9.0,
+        "strike_rate": 128.57
+      },
+      "b_f": [
+        13,
+        9,
+        33
+      ],
+      "w_f": [
+        2,
+        2,
+        3
+      ]
+    },
+    {
+      "bat": "R Powell",
+      "bat_t": "West Indies",
+      "bowl": "BAD Manenti",
+      "bowl_t": "Italy",
+      "v": "neutral",
+      "h2h": {
+        "balls": 6,
+        "runs": 7,
+        "dismissals": 1,
+        "strike_rate": 116.67
+      },
+      "vs_t": {
+        "runs": 9,
+        "balls": 9,
+        "dismissals": 1,
+        "average": 9.0,
+        "strike_rate": 100.0
+      },
+      "b_f": [
+        59,
+        9,
+        14
+      ],
+      "w_f": [
+        2,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "RL Chase",
+      "bat_t": "West Indies",
+      "bowl": "BAD Manenti",
+      "bowl_t": "Italy",
+      "v": "neutral",
+      "h2h": {
+        "balls": 4,
+        "runs": 5,
+        "dismissals": 1,
+        "strike_rate": 125.0
+      },
+      "vs_t": {
+        "runs": 24,
+        "balls": 25,
+        "dismissals": 1,
+        "average": 24.0,
+        "strike_rate": 96.0
+      },
+      "b_f": [
+        24,
+        34
+      ],
+      "w_f": [
+        2,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "J Mosca",
+      "bat_t": "Italy",
+      "bowl": "MW Forde",
+      "bowl_t": "West Indies",
+      "v": "neutral",
+      "h2h": {
+        "balls": 4,
+        "runs": 1,
+        "dismissals": 1,
+        "strike_rate": 25.0
+      },
+      "vs_t": {
+        "runs": 2,
+        "balls": 6,
+        "dismissals": 1,
+        "average": 2.0,
+        "strike_rate": 33.33
+      },
+      "b_f": [
+        2,
+        43,
+        60
+      ],
+      "w_f": [
+        2,
+        3,
+        1
+      ]
+    },
+    {
+      "bat": "GP Meade",
+      "bat_t": "Italy",
+      "bowl": "MW Forde",
+      "bowl_t": "West Indies",
+      "v": "neutral",
+      "h2h": {
+        "balls": 4,
+        "runs": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 4,
+        "balls": 8,
+        "dismissals": 1,
+        "average": 4.0,
+        "strike_rate": 50.0
+      },
+      "b_f": [
+        4,
+        0,
+        0
+      ],
+      "w_f": [
+        2,
+        3,
+        1
+      ]
+    },
+    {
+      "bat": "SO Hetmyer",
+      "bat_t": "West Indies",
+      "bowl": "TJ Draca",
+      "bowl_t": "Italy",
+      "v": "neutral",
+      "h2h": {
+        "balls": 3,
+        "runs": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 1,
+        "balls": 5,
+        "dismissals": 1,
+        "average": 1.0,
+        "strike_rate": 20.0
+      },
+      "b_f": [
+        85,
+        1,
+        46
+      ],
+      "w_f": [
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "Ali Hasan",
+      "bat_t": "Italy",
+      "bowl": "S Joseph",
+      "bowl_t": "West Indies",
+      "v": "neutral",
+      "h2h": {
+        "balls": 2,
+        "runs": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 0,
+        "balls": 2,
+        "dismissals": 1,
+        "average": 0.0,
+        "strike_rate": 0.0
+      },
+      "b_f": [
+        0,
+        0,
+        0
+      ],
+      "w_f": [
+        0,
+        4,
+        1
+      ]
+    },
+    {
+      "bat": "TJ Draca",
+      "bat_t": "Italy",
+      "bowl": "S Joseph",
+      "bowl_t": "West Indies",
+      "v": "neutral",
+      "h2h": {
+        "balls": 2,
+        "runs": 4,
+        "dismissals": 1,
+        "strike_rate": 200.0
+      },
+      "vs_t": {
+        "runs": 5,
+        "balls": 3,
+        "dismissals": 1,
+        "average": 5.0,
+        "strike_rate": 166.67
+      },
+      "b_f": [
+        5,
+        2
+      ],
+      "w_f": [
+        0,
+        4,
+        1
+      ]
+    },
+    {
+      "bat": "BA King",
+      "bat_t": "West Indies",
+      "bowl": "Ali Hasan",
+      "bowl_t": "Italy",
+      "v": "neutral",
+      "h2h": {
+        "balls": 1,
+        "runs": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 4,
+        "balls": 6,
+        "dismissals": 1,
+        "average": 4.0,
+        "strike_rate": 66.67
+      },
+      "b_f": [
+        9,
+        4,
+        22
+      ],
+      "w_f": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "G Stewart",
+      "bat_t": "Italy",
+      "bowl": "S Joseph",
+      "bowl_t": "West Indies",
+      "v": "neutral",
+      "h2h": {
+        "balls": 1,
+        "runs": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 12,
+        "balls": 7,
+        "dismissals": 1,
+        "average": 12.0,
+        "strike_rate": 171.43
+      },
+      "b_f": [
+        12,
+        45,
+        2
+      ],
+      "w_f": [
+        0,
+        4,
+        1
+      ]
+    },
+    {
+      "bat": "HJ Manenti",
+      "bat_t": "Italy",
+      "bowl": "S Joseph",
+      "bowl_t": "West Indies",
+      "v": "neutral",
+      "h2h": {
+        "balls": 1,
+        "runs": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 8,
+        "balls": 11,
+        "dismissals": 1,
+        "average": 8.0,
+        "strike_rate": 72.73
+      },
+      "b_f": [
+        8,
+        12,
+        37
+      ],
+      "w_f": [
+        0,
+        4,
+        1
+      ]
+    },
+    {
+      "bat": "JT Smuts",
+      "bat_t": "Italy",
+      "bowl": "S Joseph",
+      "bowl_t": "West Indies",
+      "v": "batsman",
+      "h2h": {
+        "balls": 8,
+        "runs": 12,
+        "dismissals": 0,
+        "strike_rate": 150.0
+      },
+      "vs_t": {
+        "runs": 24,
+        "balls": 27,
+        "dismissals": 1,
+        "average": 24.0,
+        "strike_rate": 88.89
+      },
+      "b_car": {
+        "avg": 13.53,
+        "sr": 104.05
+      },
+      "b_f": [
+        24,
+        0,
+        22
+      ],
+      "w_f": [
+        0,
+        4,
+        1
+      ]
+    },
+    {
+      "bat": "JT Smuts",
+      "bat_t": "Italy",
+      "bowl": "MW Forde",
+      "bowl_t": "West Indies",
+      "v": "neutral",
+      "h2h": {
+        "balls": 5,
+        "runs": 4,
+        "dismissals": 0,
+        "strike_rate": 80.0
+      },
+      "vs_t": {
+        "runs": 24,
+        "balls": 27,
+        "dismissals": 1,
+        "average": 24.0,
+        "strike_rate": 88.89
+      },
+      "b_car": {
+        "avg": 13.53,
+        "sr": 104.05
+      },
+      "b_f": [
+        24,
+        0,
+        22
+      ],
+      "w_f": [
+        2,
+        3,
+        1
+      ]
+    },
+    {
+      "bat": "JT Smuts",
+      "bat_t": "Italy",
+      "bowl": "JO Holder",
+      "bowl_t": "West Indies",
+      "v": "neutral",
+      "h2h": {
+        "balls": 4,
+        "runs": 1,
+        "dismissals": 0,
+        "strike_rate": 25.0
+      },
+      "vs_t": {
+        "runs": 24,
+        "balls": 27,
+        "dismissals": 1,
+        "average": 24.0,
+        "strike_rate": 88.89
+      },
+      "b_car": {
+        "avg": 13.53,
+        "sr": 104.05
+      },
+      "b_f": [
+        24,
+        0,
+        22
+      ],
+      "w_f": [
+        1,
+        0,
+        4
+      ]
+    },
+    {
+      "bat": "JT Smuts",
+      "bat_t": "Italy",
+      "bowl": "RL Chase",
+      "bowl_t": "West Indies",
+      "v": "neutral",
+      "vs_t": {
+        "runs": 24,
+        "balls": 27,
+        "dismissals": 1,
+        "average": 24.0,
+        "strike_rate": 88.89
+      },
+      "b_car": {
+        "avg": 13.53,
+        "sr": 104.05
+      },
+      "b_f": [
+        24,
+        0,
+        22
+      ],
+      "w_f": [
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "JT Smuts",
+      "bat_t": "Italy",
+      "bowl": "R Powell",
+      "bowl_t": "West Indies",
+      "v": "neutral",
+      "vs_t": {
+        "runs": 24,
+        "balls": 27,
+        "dismissals": 1,
+        "average": 24.0,
+        "strike_rate": 88.89
+      },
+      "b_car": {
+        "avg": 13.53,
+        "sr": 104.05
+      },
+      "b_f": [
+        24,
+        0,
+        22
+      ]
+    },
+    {
+      "bat": "JT Smuts",
+      "bat_t": "Italy",
+      "bowl": "SD Hope",
+      "bowl_t": "West Indies",
+      "v": "neutral",
+      "vs_t": {
+        "runs": 24,
+        "balls": 27,
+        "dismissals": 1,
+        "average": 24.0,
+        "strike_rate": 88.89
+      },
+      "b_car": {
+        "avg": 13.53,
+        "sr": 104.05
+      },
+      "b_f": [
+        24,
+        0,
+        22
+      ]
+    },
+    {
+      "bat": "JT Smuts",
+      "bat_t": "Italy",
+      "bowl": "AJ Hosein",
+      "bowl_t": "West Indies",
+      "v": "neutral",
+      "vs_t": {
+        "runs": 24,
+        "balls": 27,
+        "dismissals": 1,
+        "average": 24.0,
+        "strike_rate": 88.89
+      },
+      "b_car": {
+        "avg": 13.53,
+        "sr": 104.05
+      },
+      "b_f": [
+        24,
+        0,
+        22
+      ],
+      "w_f": [
+        3,
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "JT Smuts",
+      "bat_t": "Italy",
+      "bowl": "BA King",
+      "bowl_t": "West Indies",
+      "v": "neutral",
+      "vs_t": {
+        "runs": 24,
+        "balls": 27,
+        "dismissals": 1,
+        "average": 24.0,
+        "strike_rate": 88.89
+      },
+      "b_car": {
+        "avg": 13.53,
+        "sr": 104.05
+      },
+      "b_f": [
+        24,
+        0,
+        22
+      ]
+    },
+    {
+      "bat": "JT Smuts",
+      "bat_t": "Italy",
+      "bowl": "SO Hetmyer",
+      "bowl_t": "West Indies",
+      "v": "neutral",
+      "vs_t": {
+        "runs": 24,
+        "balls": 27,
+        "dismissals": 1,
+        "average": 24.0,
+        "strike_rate": 88.89
+      },
+      "b_car": {
+        "avg": 13.53,
+        "sr": 104.05
+      },
+      "b_f": [
+        24,
+        0,
+        22
+      ]
+    },
+    {
+      "bat": "JT Smuts",
+      "bat_t": "Italy",
+      "bowl": "SE Rutherford",
+      "bowl_t": "West Indies",
+      "v": "neutral",
+      "vs_t": {
+        "runs": 24,
+        "balls": 27,
+        "dismissals": 1,
+        "average": 24.0,
+        "strike_rate": 88.89
+      },
+      "b_car": {
+        "avg": 13.53,
+        "sr": 104.05
+      },
+      "b_f": [
+        24,
+        0,
+        22
+      ]
+    },
+    {
+      "bat": "SD Hope",
+      "bat_t": "West Indies",
+      "bowl": "Ali Hasan",
+      "bowl_t": "Italy",
+      "v": "batsman",
+      "h2h": {
+        "balls": 9,
+        "runs": 15,
+        "dismissals": 0,
+        "strike_rate": 166.67
+      },
+      "vs_t": {
+        "runs": 75,
+        "balls": 46,
+        "dismissals": 1,
+        "average": 75.0,
+        "strike_rate": 163.04
+      },
+      "b_f": [
+        14,
+        75,
+        61
+      ],
+      "w_f": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "SD Hope",
+      "bat_t": "West Indies",
+      "bowl": "JT Smuts",
+      "bowl_t": "Italy",
+      "v": "batsman",
+      "h2h": {
+        "balls": 9,
+        "runs": 13,
+        "dismissals": 0,
+        "strike_rate": 144.44
+      },
+      "vs_t": {
+        "runs": 75,
+        "balls": 46,
+        "dismissals": 1,
+        "average": 75.0,
+        "strike_rate": 163.04
+      },
+      "b_f": [
+        14,
+        75,
+        61
+      ],
+      "w_f": [
+        0,
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "SD Hope",
+      "bat_t": "West Indies",
+      "bowl": "TJ Draca",
+      "bowl_t": "Italy",
+      "v": "batsman",
+      "h2h": {
+        "balls": 9,
+        "runs": 20,
+        "dismissals": 0,
+        "strike_rate": 222.22
+      },
+      "vs_t": {
+        "runs": 75,
+        "balls": 46,
+        "dismissals": 1,
+        "average": 75.0,
+        "strike_rate": 163.04
+      },
+      "b_f": [
+        14,
+        75,
+        61
+      ],
+      "w_f": [
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "RL Chase",
+      "bat_t": "West Indies",
+      "bowl": "G Stewart",
+      "bowl_t": "Italy",
+      "v": "neutral",
+      "h2h": {
+        "balls": 7,
+        "runs": 6,
+        "dismissals": 0,
+        "strike_rate": 85.71
+      },
+      "vs_t": {
+        "runs": 24,
+        "balls": 25,
+        "dismissals": 1,
+        "average": 24.0,
+        "strike_rate": 96.0
+      },
+      "b_f": [
+        24,
+        34
+      ],
+      "w_f": [
+        0,
+        2,
+        0
+      ]
+    },
+    {
+      "bat": "RL Chase",
+      "bat_t": "West Indies",
+      "bowl": "JT Smuts",
+      "bowl_t": "Italy",
+      "v": "neutral",
+      "h2h": {
+        "balls": 7,
+        "runs": 8,
+        "dismissals": 0,
+        "strike_rate": 114.29
+      },
+      "vs_t": {
+        "runs": 24,
+        "balls": 25,
+        "dismissals": 1,
+        "average": 24.0,
+        "strike_rate": 96.0
+      },
+      "b_f": [
+        24,
+        34
+      ],
+      "w_f": [
+        0,
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "SD Hope",
+      "bat_t": "West Indies",
+      "bowl": "BAD Manenti",
+      "bowl_t": "Italy",
+      "v": "batsman",
+      "h2h": {
+        "balls": 7,
+        "runs": 12,
+        "dismissals": 0,
+        "strike_rate": 171.43
+      },
+      "vs_t": {
+        "runs": 75,
+        "balls": 46,
+        "dismissals": 1,
+        "average": 75.0,
+        "strike_rate": 163.04
+      },
+      "b_f": [
+        14,
+        75,
+        61
+      ],
+      "w_f": [
+        2,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "BAD Manenti",
+      "bat_t": "Italy",
+      "bowl": "S Joseph",
+      "bowl_t": "West Indies",
+      "v": "batsman",
+      "h2h": {
+        "balls": 7,
+        "runs": 11,
+        "dismissals": 0,
+        "strike_rate": 157.14
+      },
+      "vs_t": {
+        "runs": 26,
+        "balls": 22,
+        "dismissals": 1,
+        "average": 26.0,
+        "strike_rate": 118.18
+      },
+      "b_f": [
+        26,
+        60,
+        52
+      ],
+      "w_f": [
+        0,
+        4,
+        1
+      ]
+    },
+    {
+      "bat": "RL Chase",
+      "bat_t": "West Indies",
+      "bowl": "CJPF Kalugamage",
+      "bowl_t": "Italy",
+      "v": "neutral",
+      "h2h": {
+        "balls": 6,
+        "runs": 4,
+        "dismissals": 0,
+        "strike_rate": 66.67
+      },
+      "vs_t": {
+        "runs": 24,
+        "balls": 25,
+        "dismissals": 1,
+        "average": 24.0,
+        "strike_rate": 96.0
+      },
+      "b_f": [
+        24,
+        34
+      ],
+      "w_f": [
+        2,
+        2,
+        3
+      ]
+    },
+    {
+      "bat": "SE Rutherford",
+      "bat_t": "West Indies",
+      "bowl": "BAD Manenti",
+      "bowl_t": "Italy",
+      "v": "batsman",
+      "h2h": {
+        "balls": 6,
+        "runs": 12,
+        "dismissals": 0,
+        "strike_rate": 200.0
+      },
+      "vs_t": {
+        "runs": 24,
+        "balls": 17,
+        "dismissals": 0,
+        "average": 24.0,
+        "strike_rate": 141.18
+      },
+      "b_f": [
+        31,
+        24,
+        76
+      ],
+      "w_f": [
+        2,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "HJ Manenti",
+      "bat_t": "Italy",
+      "bowl": "JO Holder",
+      "bowl_t": "West Indies",
+      "v": "neutral",
+      "h2h": {
+        "balls": 6,
+        "runs": 6,
+        "dismissals": 0,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 8,
+        "balls": 11,
+        "dismissals": 1,
+        "average": 8.0,
+        "strike_rate": 72.73
+      },
+      "b_f": [
+        8,
+        12,
+        37
+      ],
+      "w_f": [
+        1,
+        0,
+        4
+      ]
+    },
+    {
+      "bat": "SD Hope",
+      "bat_t": "West Indies",
+      "bowl": "G Stewart",
+      "bowl_t": "Italy",
+      "v": "batsman",
+      "h2h": {
+        "balls": 5,
+        "runs": 5,
+        "dismissals": 0,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 75,
+        "balls": 46,
+        "dismissals": 1,
+        "average": 75.0,
+        "strike_rate": 163.04
+      },
+      "b_f": [
+        14,
+        75,
+        61
+      ],
+      "w_f": [
+        0,
+        2,
+        0
+      ]
+    },
+    {
+      "bat": "BA King",
+      "bat_t": "West Indies",
+      "bowl": "JT Smuts",
+      "bowl_t": "Italy",
+      "v": "neutral",
+      "h2h": {
+        "balls": 5,
+        "runs": 4,
+        "dismissals": 0,
+        "strike_rate": 80.0
+      },
+      "vs_t": {
+        "runs": 4,
+        "balls": 6,
+        "dismissals": 1,
+        "average": 4.0,
+        "strike_rate": 66.67
+      },
+      "b_f": [
+        9,
+        4,
+        22
+      ],
+      "w_f": [
+        0,
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "MW Forde",
+      "bat_t": "West Indies",
+      "bowl": "G Stewart",
+      "bowl_t": "Italy",
+      "v": "neutral",
+      "h2h": {
+        "balls": 4,
+        "runs": 13,
+        "dismissals": 0,
+        "strike_rate": 325.0
+      },
+      "vs_t": {
+        "runs": 16,
+        "balls": 8,
+        "dismissals": 0,
+        "average": 16.0,
+        "strike_rate": 200.0
+      },
+      "b_f": [
+        1,
+        16,
+        1
+      ],
+      "w_f": [
+        0,
+        2,
+        0
+      ]
+    },
+    {
+      "bat": "SE Rutherford",
+      "bat_t": "West Indies",
+      "bowl": "CJPF Kalugamage",
+      "bowl_t": "Italy",
+      "v": "neutral",
+      "h2h": {
+        "balls": 4,
+        "runs": 2,
+        "dismissals": 0,
+        "strike_rate": 50.0
+      },
+      "vs_t": {
+        "runs": 24,
+        "balls": 17,
+        "dismissals": 0,
+        "average": 24.0,
+        "strike_rate": 141.18
+      },
+      "b_f": [
+        31,
+        24,
+        76
+      ],
+      "w_f": [
+        2,
+        2,
+        3
+      ]
+    },
+    {
+      "bat": "SE Rutherford",
+      "bat_t": "West Indies",
+      "bowl": "Ali Hasan",
+      "bowl_t": "Italy",
+      "v": "neutral",
+      "h2h": {
+        "balls": 4,
+        "runs": 5,
+        "dismissals": 0,
+        "strike_rate": 125.0
+      },
+      "vs_t": {
+        "runs": 24,
+        "balls": 17,
+        "dismissals": 0,
+        "average": 24.0,
+        "strike_rate": 141.18
+      },
+      "b_f": [
+        31,
+        24,
+        76
+      ],
+      "w_f": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "MW Forde",
+      "bat_t": "West Indies",
+      "bowl": "Ali Hasan",
+      "bowl_t": "Italy",
+      "v": "neutral",
+      "h2h": {
+        "balls": 3,
+        "runs": 2,
+        "dismissals": 0,
+        "strike_rate": 66.67
+      },
+      "vs_t": {
+        "runs": 16,
+        "balls": 8,
+        "dismissals": 0,
+        "average": 16.0,
+        "strike_rate": 200.0
+      },
+      "b_f": [
+        1,
+        16,
+        1
+      ],
+      "w_f": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "R Powell",
+      "bat_t": "West Indies",
+      "bowl": "JT Smuts",
+      "bowl_t": "Italy",
+      "v": "neutral",
+      "h2h": {
+        "balls": 3,
+        "runs": 2,
+        "dismissals": 0,
+        "strike_rate": 66.67
+      },
+      "vs_t": {
+        "runs": 9,
+        "balls": 9,
+        "dismissals": 1,
+        "average": 9.0,
+        "strike_rate": 100.0
+      },
+      "b_f": [
+        59,
+        9,
+        14
+      ],
+      "w_f": [
+        0,
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "SE Rutherford",
+      "bat_t": "West Indies",
+      "bowl": "G Stewart",
+      "bowl_t": "Italy",
+      "v": "neutral",
+      "h2h": {
+        "balls": 3,
+        "runs": 5,
+        "dismissals": 0,
+        "strike_rate": 166.67
+      },
+      "vs_t": {
+        "runs": 24,
+        "balls": 17,
+        "dismissals": 0,
+        "average": 24.0,
+        "strike_rate": 141.18
+      },
+      "b_f": [
+        31,
+        24,
+        76
+      ],
+      "w_f": [
+        0,
+        2,
+        0
+      ]
+    },
+    {
+      "bat": "CJPF Kalugamage",
+      "bat_t": "Italy",
+      "bowl": "S Joseph",
+      "bowl_t": "West Indies",
+      "v": "neutral",
+      "h2h": {
+        "balls": 3,
+        "runs": 1,
+        "dismissals": 0,
+        "strike_rate": 33.33
+      },
+      "vs_t": {
+        "runs": 2,
+        "balls": 4,
+        "dismissals": 0,
+        "average": 2.0,
+        "strike_rate": 50.0
+      },
+      "b_f": [
+        2,
+        0,
+        3
+      ],
+      "w_f": [
+        0,
+        4,
+        1
+      ]
+    },
+    {
+      "bat": "Syed Naqvi",
+      "bat_t": "Italy",
+      "bowl": "JO Holder",
+      "bowl_t": "West Indies",
+      "v": "neutral",
+      "h2h": {
+        "balls": 3,
+        "runs": 1,
+        "dismissals": 0,
+        "strike_rate": 33.33
+      },
+      "vs_t": {
+        "runs": 6,
+        "balls": 11,
+        "dismissals": 1,
+        "average": 6.0,
+        "strike_rate": 54.55
+      },
+      "b_f": [
+        6
+      ],
+      "w_f": [
+        1,
+        0,
+        4
+      ]
+    },
+    {
+      "bat": "BAD Manenti",
+      "bat_t": "Italy",
+      "bowl": "JO Holder",
+      "bowl_t": "West Indies",
+      "v": "neutral",
+      "h2h": {
+        "balls": 3,
+        "runs": 1,
+        "dismissals": 0,
+        "strike_rate": 33.33
+      },
+      "vs_t": {
+        "runs": 26,
+        "balls": 22,
+        "dismissals": 1,
+        "average": 26.0,
+        "strike_rate": 118.18
+      },
+      "b_f": [
+        26,
+        60,
+        52
+      ],
+      "w_f": [
+        1,
+        0,
+        4
+      ]
+    },
+    {
+      "bat": "BAD Manenti",
+      "bat_t": "Italy",
+      "bowl": "AJ Hosein",
+      "bowl_t": "West Indies",
+      "v": "neutral",
+      "h2h": {
+        "balls": 3,
+        "runs": 3,
+        "dismissals": 0,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 26,
+        "balls": 22,
+        "dismissals": 1,
+        "average": 26.0,
+        "strike_rate": 118.18
+      },
+      "b_f": [
+        26,
+        60,
+        52
+      ],
+      "w_f": [
+        3,
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "GP Meade",
+      "bat_t": "Italy",
+      "bowl": "G Motie",
+      "bowl_t": "West Indies",
+      "v": "neutral",
+      "h2h": {
+        "balls": 3,
+        "runs": 3,
+        "dismissals": 0,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 4,
+        "balls": 8,
+        "dismissals": 1,
+        "average": 4.0,
+        "strike_rate": 50.0
+      },
+      "b_f": [
+        4,
+        0,
+        0
+      ],
+      "w_f": [
+        4,
+        2,
+        0
+      ]
+    },
+    {
+      "bat": "G Stewart",
+      "bat_t": "Italy",
+      "bowl": "JO Holder",
+      "bowl_t": "West Indies",
+      "v": "neutral",
+      "h2h": {
+        "balls": 3,
+        "runs": 9,
+        "dismissals": 0,
+        "strike_rate": 300.0
+      },
+      "vs_t": {
+        "runs": 12,
+        "balls": 7,
+        "dismissals": 1,
+        "average": 12.0,
+        "strike_rate": 171.43
+      },
+      "b_f": [
+        12,
+        45,
+        2
+      ],
+      "w_f": [
+        1,
+        0,
+        4
+      ]
+    }
+  ]
+}

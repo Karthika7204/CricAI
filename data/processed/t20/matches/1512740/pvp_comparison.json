@@ -1,0 +1,1474 @@
+{
+  "match_id": "1512740",
+  "team_a": "Ireland",
+  "team_b": "Oman",
+  "matchups": [
+    {
+      "bat": "Mohammad Nadeem",
+      "bat_t": "Oman",
+      "bowl": "J Little",
+      "bowl_t": "Ireland",
+      "v": "bowler",
+      "h2h": {
+        "balls": 5,
+        "runs": 2,
+        "dismissals": 2,
+        "strike_rate": 40.0
+      },
+      "vs_t": {
+        "runs": 32,
+        "balls": 37,
+        "dismissals": 3,
+        "average": 10.67,
+        "strike_rate": 86.49
+      },
+      "b_f": [
+        2,
+        1,
+        53
+      ],
+      "w_f": [
+        3
+      ]
+    },
+    {
+      "bat": "GJ Delany",
+      "bat_t": "Ireland",
+      "bowl": "Mohammad Nadeem",
+      "bowl_t": "Oman",
+      "v": "batsman",
+      "h2h": {
+        "balls": 16,
+        "runs": 14,
+        "dismissals": 1,
+        "strike_rate": 87.5
+      },
+      "vs_t": {
+        "runs": 215,
+        "balls": 136,
+        "dismissals": 3,
+        "average": 71.67,
+        "strike_rate": 158.09
+      },
+      "b_f": [
+        56,
+        11,
+        0
+      ],
+      "w_f": [
+        0
+      ]
+    },
+    {
+      "bat": "Jatinder Singh",
+      "bat_t": "Oman",
+      "bowl": "GJ Delany",
+      "bowl_t": "Ireland",
+      "v": "bowler",
+      "h2h": {
+        "balls": 11,
+        "runs": 13,
+        "dismissals": 1,
+        "strike_rate": 118.18
+      },
+      "vs_t": {
+        "runs": 112,
+        "balls": 121,
+        "dismissals": 7,
+        "average": 16.0,
+        "strike_rate": 92.56
+      },
+      "b_f": [
+        17,
+        7,
+        1
+      ],
+      "w_f": [
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "HT Tector",
+      "bat_t": "Ireland",
+      "bowl": "Shakeel Ahmed",
+      "bowl_t": "Oman",
+      "v": "bowler",
+      "h2h": {
+        "balls": 8,
+        "runs": 8,
+        "dismissals": 1,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 89,
+        "balls": 67,
+        "dismissals": 4,
+        "average": 22.25,
+        "strike_rate": 132.84
+      },
+      "b_f": [
+        14,
+        0,
+        40
+      ],
+      "w_f": [
+        1,
+        3,
+        0
+      ]
+    },
+    {
+      "bat": "GJ Delany",
+      "bat_t": "Ireland",
+      "bowl": "Shah Faisal",
+      "bowl_t": "Oman",
+      "v": "batsman",
+      "h2h": {
+        "balls": 5,
+        "runs": 16,
+        "dismissals": 1,
+        "strike_rate": 320.0
+      },
+      "vs_t": {
+        "runs": 215,
+        "balls": 136,
+        "dismissals": 3,
+        "average": 71.67,
+        "strike_rate": 158.09
+      },
+      "b_f": [
+        56,
+        11,
+        0
+      ],
+      "w_f": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "Mohammad Nadeem",
+      "bat_t": "Oman",
+      "bowl": "MR Adair",
+      "bowl_t": "Ireland",
+      "v": "bowler",
+      "h2h": {
+        "balls": 5,
+        "runs": 4,
+        "dismissals": 1,
+        "strike_rate": 80.0
+      },
+      "vs_t": {
+        "runs": 32,
+        "balls": 37,
+        "dismissals": 3,
+        "average": 10.67,
+        "strike_rate": 86.49
+      },
+      "b_f": [
+        2,
+        1,
+        53
+      ],
+      "w_f": [
+        0,
+        2,
+        1
+      ]
+    },
+    {
+      "bat": "TH Tector",
+      "bat_t": "Ireland",
+      "bowl": "Shakeel Ahmed",
+      "bowl_t": "Oman",
+      "v": "neutral",
+      "h2h": {
+        "balls": 4,
+        "runs": 5,
+        "dismissals": 1,
+        "strike_rate": 125.0
+      },
+      "vs_t": {
+        "runs": 5,
+        "balls": 4,
+        "dismissals": 1,
+        "average": 5.0,
+        "strike_rate": 125.0
+      },
+      "b_f": [
+        5
+      ],
+      "w_f": [
+        1,
+        3,
+        0
+      ]
+    },
+    {
+      "bat": "J Ramanandi",
+      "bat_t": "Oman",
+      "bowl": "J Little",
+      "bowl_t": "Ireland",
+      "v": "neutral",
+      "h2h": {
+        "balls": 4,
+        "runs": 1,
+        "dismissals": 1,
+        "strike_rate": 25.0
+      },
+      "vs_t": {
+        "runs": 3,
+        "balls": 6,
+        "dismissals": 1,
+        "average": 3.0,
+        "strike_rate": 50.0
+      },
+      "b_f": [
+        1,
+        3,
+        0
+      ],
+      "w_f": [
+        3
+      ]
+    },
+    {
+      "bat": "Jatinder Singh",
+      "bat_t": "Oman",
+      "bowl": "MJ Humphreys",
+      "bowl_t": "Ireland",
+      "v": "bowler",
+      "h2h": {
+        "balls": 4,
+        "runs": 6,
+        "dismissals": 1,
+        "strike_rate": 150.0
+      },
+      "vs_t": {
+        "runs": 112,
+        "balls": 121,
+        "dismissals": 7,
+        "average": 16.0,
+        "strike_rate": 92.56
+      },
+      "b_f": [
+        17,
+        7,
+        1
+      ],
+      "w_f": [
+        2,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "Sufyan Mehmood",
+      "bat_t": "Oman",
+      "bowl": "BJ McCarthy",
+      "bowl_t": "Ireland",
+      "v": "neutral",
+      "h2h": {
+        "balls": 4,
+        "runs": 1,
+        "dismissals": 1,
+        "strike_rate": 25.0
+      },
+      "vs_t": {
+        "runs": 10,
+        "balls": 11,
+        "dismissals": 1,
+        "average": 10.0,
+        "strike_rate": 90.91
+      },
+      "b_f": [
+        10,
+        1,
+        25
+      ],
+      "w_f": [
+        2,
+        0,
+        2
+      ]
+    },
+    {
+      "bat": "GR Adair",
+      "bat_t": "Ireland",
+      "bowl": "Shakeel Ahmed",
+      "bowl_t": "Oman",
+      "v": "neutral",
+      "h2h": {
+        "balls": 3,
+        "runs": 1,
+        "dismissals": 1,
+        "strike_rate": 33.33
+      },
+      "vs_t": {
+        "runs": 14,
+        "balls": 7,
+        "dismissals": 1,
+        "average": 14.0,
+        "strike_rate": 200.0
+      },
+      "b_f": [
+        14,
+        12,
+        34
+      ],
+      "w_f": [
+        1,
+        3,
+        0
+      ]
+    },
+    {
+      "bat": "Shakeel Ahmed",
+      "bat_t": "Oman",
+      "bowl": "MJ Humphreys",
+      "bowl_t": "Ireland",
+      "v": "neutral",
+      "h2h": {
+        "balls": 3,
+        "runs": 4,
+        "dismissals": 1,
+        "strike_rate": 133.33
+      },
+      "vs_t": {
+        "runs": 4,
+        "balls": 6,
+        "dismissals": 1,
+        "average": 4.0,
+        "strike_rate": 66.67
+      },
+      "b_f": [
+        3,
+        4,
+        4
+      ],
+      "w_f": [
+        2,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "Aamir Kaleem",
+      "bat_t": "Oman",
+      "bowl": "BJ McCarthy",
+      "bowl_t": "Ireland",
+      "v": "bowler",
+      "h2h": {
+        "balls": 2,
+        "runs": 1,
+        "dismissals": 1,
+        "strike_rate": 50.0
+      },
+      "vs_t": {
+        "runs": 129,
+        "balls": 94,
+        "dismissals": 4,
+        "average": 32.25,
+        "strike_rate": 137.23
+      },
+      "b_f": [
+        0,
+        50,
+        6
+      ],
+      "w_f": [
+        2,
+        0,
+        2
+      ]
+    },
+    {
+      "bat": "C Campher",
+      "bat_t": "Ireland",
+      "bowl": "Aamir Kaleem",
+      "bowl_t": "Oman",
+      "v": "neutral",
+      "h2h": {
+        "balls": 1,
+        "runs": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 12,
+        "balls": 7,
+        "dismissals": 1,
+        "average": 12.0,
+        "strike_rate": 171.43
+      },
+      "b_f": [
+        12,
+        4,
+        13
+      ],
+      "w_f": [
+        1
+      ]
+    },
+    {
+      "bat": "Nadeem Khan",
+      "bat_t": "Oman",
+      "bowl": "J Little",
+      "bowl_t": "Ireland",
+      "v": "neutral",
+      "h2h": {
+        "balls": 1,
+        "runs": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 0,
+        "balls": 2,
+        "dismissals": 1,
+        "average": 0.0,
+        "strike_rate": 0.0
+      },
+      "b_f": [
+        0,
+        2,
+        20
+      ],
+      "w_f": [
+        3
+      ]
+    },
+    {
+      "bat": "V Shukla",
+      "bat_t": "Oman",
+      "bowl": "GH Dockrell",
+      "bowl_t": "Ireland",
+      "v": "neutral",
+      "h2h": {
+        "balls": 1,
+        "runs": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 0,
+        "balls": 3,
+        "dismissals": 1,
+        "average": 0.0,
+        "strike_rate": 0.0
+      },
+      "b_f": [
+        9,
+        0,
+        1
+      ],
+      "w_f": [
+        1,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "Jatinder Singh",
+      "bat_t": "Oman",
+      "bowl": "MR Adair",
+      "bowl_t": "Ireland",
+      "v": "bowler",
+      "h2h": {
+        "balls": 24,
+        "runs": 21,
+        "dismissals": 0,
+        "strike_rate": 87.5
+      },
+      "vs_t": {
+        "runs": 112,
+        "balls": 121,
+        "dismissals": 7,
+        "average": 16.0,
+        "strike_rate": 92.56
+      },
+      "b_f": [
+        17,
+        7,
+        1
+      ],
+      "w_f": [
+        0,
+        2,
+        1
+      ]
+    },
+    {
+      "bat": "GJ Delany",
+      "bat_t": "Ireland",
+      "bowl": "Aamir Kaleem",
+      "bowl_t": "Oman",
+      "v": "batsman",
+      "h2h": {
+        "balls": 21,
+        "runs": 32,
+        "dismissals": 0,
+        "strike_rate": 152.38
+      },
+      "vs_t": {
+        "runs": 215,
+        "balls": 136,
+        "dismissals": 3,
+        "average": 71.67,
+        "strike_rate": 158.09
+      },
+      "b_f": [
+        56,
+        11,
+        0
+      ],
+      "w_f": [
+        1
+      ]
+    },
+    {
+      "bat": "Aamir Kaleem",
+      "bat_t": "Oman",
+      "bowl": "GH Dockrell",
+      "bowl_t": "Ireland",
+      "v": "batsman",
+      "h2h": {
+        "balls": 18,
+        "runs": 28,
+        "dismissals": 0,
+        "strike_rate": 155.56
+      },
+      "vs_t": {
+        "runs": 129,
+        "balls": 94,
+        "dismissals": 4,
+        "average": 32.25,
+        "strike_rate": 137.23
+      },
+      "b_f": [
+        0,
+        50,
+        6
+      ],
+      "w_f": [
+        1,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "L Tucker",
+      "bat_t": "Ireland",
+      "bowl": "Nadeem Khan",
+      "bowl_t": "Oman",
+      "v": "batsman",
+      "h2h": {
+        "balls": 15,
+        "runs": 15,
+        "dismissals": 0,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 116,
+        "balls": 72,
+        "dismissals": 1,
+        "average": 116.0,
+        "strike_rate": 161.11
+      },
+      "b_f": [
+        94,
+        24,
+        21
+      ],
+      "w_f": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "L Tucker",
+      "bat_t": "Ireland",
+      "bowl": "Aamir Kaleem",
+      "bowl_t": "Oman",
+      "v": "batsman",
+      "h2h": {
+        "balls": 14,
+        "runs": 17,
+        "dismissals": 0,
+        "strike_rate": 121.43
+      },
+      "vs_t": {
+        "runs": 116,
+        "balls": 72,
+        "dismissals": 1,
+        "average": 116.0,
+        "strike_rate": 161.11
+      },
+      "b_f": [
+        94,
+        24,
+        21
+      ],
+      "w_f": [
+        1
+      ]
+    },
+    {
+      "bat": "Aamir Kaleem",
+      "bat_t": "Oman",
+      "bowl": "MR Adair",
+      "bowl_t": "Ireland",
+      "v": "batsman",
+      "h2h": {
+        "balls": 14,
+        "runs": 20,
+        "dismissals": 0,
+        "strike_rate": 142.86
+      },
+      "vs_t": {
+        "runs": 129,
+        "balls": 94,
+        "dismissals": 4,
+        "average": 32.25,
+        "strike_rate": 137.23
+      },
+      "b_f": [
+        0,
+        50,
+        6
+      ],
+      "w_f": [
+        0,
+        2,
+        1
+      ]
+    },
+    {
+      "bat": "HT Tector",
+      "bat_t": "Ireland",
+      "bowl": "Aamir Kaleem",
+      "bowl_t": "Oman",
+      "v": "bowler",
+      "h2h": {
+        "balls": 12,
+        "runs": 13,
+        "dismissals": 0,
+        "strike_rate": 108.33
+      },
+      "vs_t": {
+        "runs": 89,
+        "balls": 67,
+        "dismissals": 4,
+        "average": 22.25,
+        "strike_rate": 132.84
+      },
+      "b_f": [
+        14,
+        0,
+        40
+      ],
+      "w_f": [
+        1
+      ]
+    },
+    {
+      "bat": "Aamir Kaleem",
+      "bat_t": "Oman",
+      "bowl": "J Little",
+      "bowl_t": "Ireland",
+      "v": "bowler",
+      "h2h": {
+        "balls": 12,
+        "runs": 11,
+        "dismissals": 0,
+        "strike_rate": 91.67
+      },
+      "vs_t": {
+        "runs": 129,
+        "balls": 94,
+        "dismissals": 4,
+        "average": 32.25,
+        "strike_rate": 137.23
+      },
+      "b_f": [
+        0,
+        50,
+        6
+      ],
+      "w_f": [
+        3
+      ]
+    },
+    {
+      "bat": "L Tucker",
+      "bat_t": "Ireland",
+      "bowl": "Mohammad Nadeem",
+      "bowl_t": "Oman",
+      "v": "batsman",
+      "h2h": {
+        "balls": 11,
+        "runs": 37,
+        "dismissals": 0,
+        "strike_rate": 336.36
+      },
+      "vs_t": {
+        "runs": 116,
+        "balls": 72,
+        "dismissals": 1,
+        "average": 116.0,
+        "strike_rate": 161.11
+      },
+      "b_f": [
+        94,
+        24,
+        21
+      ],
+      "w_f": [
+        0
+      ]
+    },
+    {
+      "bat": "Aamir Kaleem",
+      "bat_t": "Oman",
+      "bowl": "GJ Delany",
+      "bowl_t": "Ireland",
+      "v": "batsman",
+      "h2h": {
+        "balls": 10,
+        "runs": 22,
+        "dismissals": 0,
+        "strike_rate": 220.0
+      },
+      "vs_t": {
+        "runs": 129,
+        "balls": 94,
+        "dismissals": 4,
+        "average": 32.25,
+        "strike_rate": 137.23
+      },
+      "b_f": [
+        0,
+        50,
+        6
+      ],
+      "w_f": [
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "Hammad Mirza",
+      "bat_t": "Oman",
+      "bowl": "BJ McCarthy",
+      "bowl_t": "Ireland",
+      "v": "batsman",
+      "h2h": {
+        "balls": 9,
+        "runs": 23,
+        "dismissals": 0,
+        "strike_rate": 255.56
+      },
+      "vs_t": {
+        "runs": 46,
+        "balls": 37,
+        "dismissals": 0,
+        "average": 46.0,
+        "strike_rate": 124.32
+      },
+      "b_f": [
+        16,
+        46,
+        9
+      ],
+      "w_f": [
+        2,
+        0,
+        2
+      ]
+    },
+    {
+      "bat": "MR Adair",
+      "bat_t": "Ireland",
+      "bowl": "Mohammad Nadeem",
+      "bowl_t": "Oman",
+      "v": "neutral",
+      "h2h": {
+        "balls": 8,
+        "runs": 5,
+        "dismissals": 0,
+        "strike_rate": 62.5
+      },
+      "vs_t": {
+        "runs": 29,
+        "balls": 29,
+        "dismissals": 1,
+        "average": 29.0,
+        "strike_rate": 100.0
+      },
+      "b_f": [
+        12,
+        10
+      ],
+      "w_f": [
+        0
+      ]
+    },
+    {
+      "bat": "Mohammad Nadeem",
+      "bat_t": "Oman",
+      "bowl": "GH Dockrell",
+      "bowl_t": "Ireland",
+      "v": "bowler",
+      "h2h": {
+        "balls": 8,
+        "runs": 9,
+        "dismissals": 0,
+        "strike_rate": 112.5
+      },
+      "vs_t": {
+        "runs": 32,
+        "balls": 37,
+        "dismissals": 3,
+        "average": 10.67,
+        "strike_rate": 86.49
+      },
+      "b_f": [
+        2,
+        1,
+        53
+      ],
+      "w_f": [
+        1,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "Hammad Mirza",
+      "bat_t": "Oman",
+      "bowl": "GJ Delany",
+      "bowl_t": "Ireland",
+      "v": "neutral",
+      "h2h": {
+        "balls": 8,
+        "runs": 1,
+        "dismissals": 0,
+        "strike_rate": 12.5
+      },
+      "vs_t": {
+        "runs": 46,
+        "balls": 37,
+        "dismissals": 0,
+        "average": 46.0,
+        "strike_rate": 124.32
+      },
+      "b_f": [
+        16,
+        46,
+        9
+      ],
+      "w_f": [
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "L Tucker",
+      "bat_t": "Ireland",
+      "bowl": "Sufyan Mehmood",
+      "bowl_t": "Oman",
+      "v": "batsman",
+      "h2h": {
+        "balls": 7,
+        "runs": 16,
+        "dismissals": 0,
+        "strike_rate": 228.57
+      },
+      "vs_t": {
+        "runs": 116,
+        "balls": 72,
+        "dismissals": 1,
+        "average": 116.0,
+        "strike_rate": 161.11
+      },
+      "b_f": [
+        94,
+        24,
+        21
+      ],
+      "w_f": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "GJ Delany",
+      "bat_t": "Ireland",
+      "bowl": "Nadeem Khan",
+      "bowl_t": "Oman",
+      "v": "batsman",
+      "h2h": {
+        "balls": 6,
+        "runs": 12,
+        "dismissals": 0,
+        "strike_rate": 200.0
+      },
+      "vs_t": {
+        "runs": 215,
+        "balls": 136,
+        "dismissals": 3,
+        "average": 71.67,
+        "strike_rate": 158.09
+      },
+      "b_f": [
+        56,
+        11,
+        0
+      ],
+      "w_f": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "Hammad Mirza",
+      "bat_t": "Oman",
+      "bowl": "J Little",
+      "bowl_t": "Ireland",
+      "v": "neutral",
+      "h2h": {
+        "balls": 6,
+        "runs": 3,
+        "dismissals": 0,
+        "strike_rate": 50.0
+      },
+      "vs_t": {
+        "runs": 46,
+        "balls": 37,
+        "dismissals": 0,
+        "average": 46.0,
+        "strike_rate": 124.32
+      },
+      "b_f": [
+        16,
+        46,
+        9
+      ],
+      "w_f": [
+        3
+      ]
+    },
+    {
+      "bat": "Jatinder Singh",
+      "bat_t": "Oman",
+      "bowl": "J Little",
+      "bowl_t": "Ireland",
+      "v": "bowler",
+      "h2h": {
+        "balls": 6,
+        "runs": 4,
+        "dismissals": 0,
+        "strike_rate": 66.67
+      },
+      "vs_t": {
+        "runs": 112,
+        "balls": 121,
+        "dismissals": 7,
+        "average": 16.0,
+        "strike_rate": 92.56
+      },
+      "b_f": [
+        17,
+        7,
+        1
+      ],
+      "w_f": [
+        3
+      ]
+    },
+    {
+      "bat": "C Campher",
+      "bat_t": "Ireland",
+      "bowl": "Shakeel Ahmed",
+      "bowl_t": "Oman",
+      "v": "neutral",
+      "h2h": {
+        "balls": 5,
+        "runs": 11,
+        "dismissals": 0,
+        "strike_rate": 220.0
+      },
+      "vs_t": {
+        "runs": 12,
+        "balls": 7,
+        "dismissals": 1,
+        "average": 12.0,
+        "strike_rate": 171.43
+      },
+      "b_f": [
+        12,
+        4,
+        13
+      ],
+      "w_f": [
+        1,
+        3,
+        0
+      ]
+    },
+    {
+      "bat": "GJ Delany",
+      "bat_t": "Ireland",
+      "bowl": "J Ramanandi",
+      "bowl_t": "Oman",
+      "v": "batsman",
+      "h2h": {
+        "balls": 5,
+        "runs": 14,
+        "dismissals": 0,
+        "strike_rate": 280.0
+      },
+      "vs_t": {
+        "runs": 215,
+        "balls": 136,
+        "dismissals": 3,
+        "average": 71.67,
+        "strike_rate": 158.09
+      },
+      "b_f": [
+        56,
+        11,
+        0
+      ],
+      "w_f": [
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "bat": "L Tucker",
+      "bat_t": "Ireland",
+      "bowl": "J Ramanandi",
+      "bowl_t": "Oman",
+      "v": "batsman",
+      "h2h": {
+        "balls": 5,
+        "runs": 8,
+        "dismissals": 0,
+        "strike_rate": 160.0
+      },
+      "vs_t": {
+        "runs": 116,
+        "balls": 72,
+        "dismissals": 1,
+        "average": 116.0,
+        "strike_rate": 161.11
+      },
+      "b_f": [
+        94,
+        24,
+        21
+      ],
+      "w_f": [
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "bat": "Hammad Mirza",
+      "bat_t": "Oman",
+      "bowl": "MJ Humphreys",
+      "bowl_t": "Ireland",
+      "v": "neutral",
+      "h2h": {
+        "balls": 5,
+        "runs": 3,
+        "dismissals": 0,
+        "strike_rate": 60.0
+      },
+      "vs_t": {
+        "runs": 46,
+        "balls": 37,
+        "dismissals": 0,
+        "average": 46.0,
+        "strike_rate": 124.32
+      },
+      "b_f": [
+        16,
+        46,
+        9
+      ],
+      "w_f": [
+        2,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "GR Adair",
+      "bat_t": "Ireland",
+      "bowl": "Shah Faisal",
+      "bowl_t": "Oman",
+      "v": "neutral",
+      "h2h": {
+        "balls": 4,
+        "runs": 13,
+        "dismissals": 0,
+        "strike_rate": 325.0
+      },
+      "vs_t": {
+        "runs": 14,
+        "balls": 7,
+        "dismissals": 1,
+        "average": 14.0,
+        "strike_rate": 200.0
+      },
+      "b_f": [
+        14,
+        12,
+        34
+      ],
+      "w_f": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "GH Dockrell",
+      "bat_t": "Ireland",
+      "bowl": "J Ramanandi",
+      "bowl_t": "Oman",
+      "v": "bowler",
+      "h2h": {
+        "balls": 4,
+        "runs": 15,
+        "dismissals": 0,
+        "strike_rate": 375.0
+      },
+      "vs_t": {
+        "runs": 58,
+        "balls": 31,
+        "dismissals": 2,
+        "average": 29.0,
+        "strike_rate": 187.1
+      },
+      "b_f": [
+        35,
+        41,
+        9
+      ],
+      "w_f": [
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "bat": "GH Dockrell",
+      "bat_t": "Ireland",
+      "bowl": "Sufyan Mehmood",
+      "bowl_t": "Oman",
+      "v": "bowler",
+      "h2h": {
+        "balls": 4,
+        "runs": 18,
+        "dismissals": 0,
+        "strike_rate": 450.0
+      },
+      "vs_t": {
+        "runs": 58,
+        "balls": 31,
+        "dismissals": 2,
+        "average": 29.0,
+        "strike_rate": 187.1
+      },
+      "b_f": [
+        35,
+        41,
+        9
+      ],
+      "w_f": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "L Tucker",
+      "bat_t": "Ireland",
+      "bowl": "Shakeel Ahmed",
+      "bowl_t": "Oman",
+      "v": "batsman",
+      "h2h": {
+        "balls": 4,
+        "runs": 8,
+        "dismissals": 0,
+        "strike_rate": 200.0
+      },
+      "vs_t": {
+        "runs": 116,
+        "balls": 72,
+        "dismissals": 1,
+        "average": 116.0,
+        "strike_rate": 161.11
+      },
+      "b_f": [
+        94,
+        24,
+        21
+      ],
+      "w_f": [
+        1,
+        3,
+        0
+      ]
+    },
+    {
+      "bat": "HT Tector",
+      "bat_t": "Ireland",
+      "bowl": "Mohammad Nadeem",
+      "bowl_t": "Oman",
+      "v": "bowler",
+      "h2h": {
+        "balls": 4,
+        "runs": 7,
+        "dismissals": 0,
+        "strike_rate": 175.0
+      },
+      "vs_t": {
+        "runs": 89,
+        "balls": 67,
+        "dismissals": 4,
+        "average": 22.25,
+        "strike_rate": 132.84
+      },
+      "b_f": [
+        14,
+        0,
+        40
+      ],
+      "w_f": [
+        0
+      ]
+    },
+    {
+      "bat": "Shah Faisal",
+      "bat_t": "Oman",
+      "bowl": "MR Adair",
+      "bowl_t": "Ireland",
+      "v": "neutral",
+      "h2h": {
+        "balls": 4,
+        "runs": 6,
+        "dismissals": 0,
+        "strike_rate": 150.0
+      },
+      "vs_t": {
+        "runs": 9,
+        "balls": 7,
+        "dismissals": 0,
+        "average": 9.0,
+        "strike_rate": 128.57
+      },
+      "b_f": [
+        9,
+        1,
+        5
+      ],
+      "w_f": [
+        0,
+        2,
+        1
+      ]
+    },
+    {
+      "bat": "Hammad Mirza",
+      "bat_t": "Oman",
+      "bowl": "GH Dockrell",
+      "bowl_t": "Ireland",
+      "v": "neutral",
+      "h2h": {
+        "balls": 4,
+        "runs": 5,
+        "dismissals": 0,
+        "strike_rate": 125.0
+      },
+      "vs_t": {
+        "runs": 46,
+        "balls": 37,
+        "dismissals": 0,
+        "average": 46.0,
+        "strike_rate": 124.32
+      },
+      "b_f": [
+        16,
+        46,
+        9
+      ],
+      "w_f": [
+        1,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "Jatinder Singh",
+      "bat_t": "Oman",
+      "bowl": "GH Dockrell",
+      "bowl_t": "Ireland",
+      "v": "bowler",
+      "h2h": {
+        "balls": 4,
+        "runs": 4,
+        "dismissals": 0,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 112,
+        "balls": 121,
+        "dismissals": 7,
+        "average": 16.0,
+        "strike_rate": 92.56
+      },
+      "b_f": [
+        17,
+        7,
+        1
+      ],
+      "w_f": [
+        1,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "Aamir Kaleem",
+      "bat_t": "Oman",
+      "bowl": "MJ Humphreys",
+      "bowl_t": "Ireland",
+      "v": "bowler",
+      "h2h": {
+        "balls": 4,
+        "runs": 6,
+        "dismissals": 0,
+        "strike_rate": 150.0
+      },
+      "vs_t": {
+        "runs": 129,
+        "balls": 94,
+        "dismissals": 4,
+        "average": 32.25,
+        "strike_rate": 137.23
+      },
+      "b_f": [
+        0,
+        50,
+        6
+      ],
+      "w_f": [
+        2,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "HT Tector",
+      "bat_t": "Ireland",
+      "bowl": "Nadeem Khan",
+      "bowl_t": "Oman",
+      "v": "bowler",
+      "h2h": {
+        "balls": 3,
+        "runs": 5,
+        "dismissals": 0,
+        "strike_rate": 166.67
+      },
+      "vs_t": {
+        "runs": 89,
+        "balls": 67,
+        "dismissals": 4,
+        "average": 22.25,
+        "strike_rate": 132.84
+      },
+      "b_f": [
+        14,
+        0,
+        40
+      ],
+      "w_f": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "AR Odedara",
+      "bat_t": "Oman",
+      "bowl": "MJ Humphreys",
+      "bowl_t": "Ireland",
+      "v": "neutral",
+      "h2h": {
+        "balls": 3,
+        "runs": 1,
+        "dismissals": 0,
+        "strike_rate": 33.33
+      },
+      "vs_t": {
+        "runs": 1,
+        "balls": 3,
+        "dismissals": 0,
+        "average": 1.0,
+        "strike_rate": 33.33
+      },
+      "b_f": [
+        1
+      ],
+      "w_f": [
+        2,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "Hammad Mirza",
+      "bat_t": "Oman",
+      "bowl": "HT Tector",
+      "bowl_t": "Ireland",
+      "v": "neutral",
+      "h2h": {
+        "balls": 3,
+        "runs": 6,
+        "dismissals": 0,
+        "strike_rate": 200.0
+      },
+      "vs_t": {
+        "runs": 46,
+        "balls": 37,
+        "dismissals": 0,
+        "average": 46.0,
+        "strike_rate": 124.32
+      },
+      "b_f": [
+        16,
+        46,
+        9
+      ],
+      "w_f": [
+        0,
+        1,
+        0
+      ]
+    }
+  ]
+}

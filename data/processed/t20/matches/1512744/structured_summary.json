@@ -1,0 +1,462 @@
+{
+    "match_context": {
+        "match_id": "1512744",
+        "date": "2026-02-15",
+        "tournament": "2025/26",
+        "venue": "MA Chidambaram Stadium, Chepauk, Chennai",
+        "stage": "ICC Men's T20 World Cup",
+        "Teams": {
+            "United States of America": {
+                "captain": "MD Patel",
+                "playing_xi_count": 11
+            },
+            "Namibia": {
+                "captain": "MG Erasmus",
+                "playing_xi_count": 11
+            }
+        }
+    },
+    "Match_Result": {
+        "summary": "United States of America won by 31 runs",
+        "winner": "United States of America",
+        "margin": 31,
+        "margin_type": "runs"
+    },
+    "Scorecard_Highlights": {
+        "Key_Support_Performers": [
+            {
+                "player": "Milind Kumar",
+                "team": "United States of America",
+                "runs": 28,
+                "balls": 21,
+                "sr": 133.33,
+                "fours": 1,
+                "sixes": 1,
+                "win_contribution_percent": 14.1,
+                "score": 51.19
+            },
+            {
+                "player": "Shayan Jahangir",
+                "team": "United States of America",
+                "runs": 22,
+                "balls": 18,
+                "sr": 122.22,
+                "fours": 2,
+                "sixes": 1,
+                "win_contribution_percent": 11.1,
+                "score": 43.26
+            },
+            {
+                "player": "SR Mukkamalla",
+                "team": "United States of America",
+                "runs": 17,
+                "balls": 18,
+                "sr": 94.44,
+                "fours": 2,
+                "sixes": 0,
+                "win_contribution_percent": 8.5,
+                "score": 33.43
+            },
+            {
+                "player": "JN Frylinck",
+                "team": "Namibia",
+                "runs": 19,
+                "balls": 15,
+                "sr": 126.67,
+                "fours": 1,
+                "sixes": 1,
+                "win_contribution_percent": 11.3,
+                "score": 41.03
+            },
+            {
+                "player": "ZE Green",
+                "team": "Namibia",
+                "runs": 18,
+                "balls": 13,
+                "sr": 138.46,
+                "fours": 2,
+                "sixes": 0,
+                "win_contribution_percent": 10.7,
+                "score": 42.08
+            }
+        ],
+        "Career_vs_Match_Bowling": [
+            {
+                "player": "SN Netravalkar",
+                "team": "United States of America",
+                "match_figures": "4.0-27-1",
+                "match_economy": 6.75,
+                "career_economy": 7.44,
+                "economy_delta": -0.69,
+                "match_sr": 24.0,
+                "career_sr": 20.79,
+                "career_wickets": 42,
+                "career_best": "5/12",
+                "verdict": "On par with career economy (7.44)"
+            },
+            {
+                "player": "Shubham Ranjane",
+                "team": "United States of America",
+                "match_figures": "1.0-6-1",
+                "match_economy": 6.0,
+                "career_economy": 6.5,
+                "economy_delta": -0.5,
+                "match_sr": 6.0,
+                "career_sr": 24.0,
+                "career_wickets": 1,
+                "career_best": "1/6",
+                "verdict": "On par with career economy (6.5)"
+            },
+            {
+                "player": "Harmeet Singh",
+                "team": "United States of America",
+                "match_figures": "3.0-25-0",
+                "match_economy": 8.33,
+                "career_economy": 7.05,
+                "economy_delta": 1.28,
+                "match_sr": null,
+                "career_sr": 19.87,
+                "career_wickets": 31,
+                "career_best": "4/18",
+                "verdict": "On par with career economy (7.05)"
+            },
+            {
+                "player": "Milind Kumar",
+                "team": "United States of America",
+                "match_figures": "3.0-27-0",
+                "match_economy": 9.0,
+                "career_economy": 7.49,
+                "economy_delta": 1.51,
+                "match_sr": null,
+                "career_sr": 16.08,
+                "career_wickets": 12,
+                "career_best": "5/16",
+                "verdict": "On par with career economy (7.49)"
+            },
+            {
+                "player": "Ali Khan",
+                "team": "United States of America",
+                "match_figures": "4.0-43-1",
+                "match_economy": 10.75,
+                "career_economy": 9.15,
+                "economy_delta": 1.6,
+                "match_sr": 24.0,
+                "career_sr": 24.76,
+                "career_wickets": 17,
+                "career_best": "3/27",
+                "verdict": "On par with career economy (9.15)"
+            }
+        ],
+        "Bowling_Standouts": {
+            "Economical_Spells": [],
+            "Expensive_Spells": [],
+            "High_Economy_No_Baseline": [
+                {
+                    "player": "JJ Smit",
+                    "team": "Namibia",
+                    "overs": 3.0,
+                    "runs": 43,
+                    "wickets": 0,
+                    "econ": 14.33,
+                    "score": 12.44,
+                    "bowling_baseline": {
+                        "career_wickets": 0,
+                        "career_economy": 0.0,
+                        "career_sr": 0.0,
+                        "career_avg": 0.0,
+                        "best_bowling": "N/A",
+                        "matches": 0,
+                        "source": "none",
+                        "baseline_available": false
+                    }
+                },
+                {
+                    "player": "R Trumpelmann",
+                    "team": "Namibia",
+                    "overs": 4.0,
+                    "runs": 53,
+                    "wickets": 0,
+                    "econ": 13.25,
+                    "score": 13.46,
+                    "bowling_baseline": {
+                        "career_wickets": 0,
+                        "career_economy": 0.0,
+                        "career_sr": 0.0,
+                        "career_avg": 0.0,
+                        "best_bowling": "N/A",
+                        "matches": 0,
+                        "source": "none",
+                        "baseline_available": false
+                    }
+                }
+            ]
+        },
+        "Significant_Collapses": []
+    },
+    "Innings_Metrics": [
+        {
+            "innings": 1,
+            "team": "United States of America",
+            "total_runs": 199,
+            "total_wickets": 4,
+            "balls_faced": 120,
+            "overs_faced": 20.0,
+            "phase_analysis": {
+                "Powerplay": {
+                    "runs": 65,
+                    "wkts": 0,
+                    "rr": 10.83
+                },
+                "Middle": {
+                    "runs": 71,
+                    "wkts": 3,
+                    "rr": 7.89
+                },
+                "Death": {
+                    "runs": 63,
+                    "wkts": 1,
+                    "rr": 12.6
+                }
+            }
+        },
+        {
+            "innings": 2,
+            "team": "Namibia",
+            "total_runs": 168,
+            "total_wickets": 6,
+            "balls_faced": 120,
+            "overs_faced": 20.0,
+            "phase_analysis": {
+                "Powerplay": {
+                    "runs": 57,
+                    "wkts": 1,
+                    "rr": 9.5
+                },
+                "Middle": {
+                    "runs": 68,
+                    "wkts": 3,
+                    "rr": 7.56
+                },
+                "Death": {
+                    "runs": 43,
+                    "wkts": 2,
+                    "rr": 8.6
+                }
+            },
+            "pressure_index": 78.0,
+            "target": 200
+        }
+    ],
+    "Detailed_Impact_Analysis": [
+        {
+            "player": "SP Krishnamurthi",
+            "team": "United States of America",
+            "runs": 68,
+            "balls": 34,
+            "sr": 200.0,
+            "fours": 4,
+            "sixes": 6,
+            "win_contribution_percent": 34.2,
+            "score": 102.79,
+            "role": "batting",
+            "match_stats": "68(34)",
+            "baseline": {
+                "avg": 32.67,
+                "sr": 139.01,
+                "matches": 9,
+                "source": "t20_master",
+                "baseline_available": true
+            }
+        },
+        {
+            "player": "WP Myburgh",
+            "team": "Namibia",
+            "overs": 4.0,
+            "runs": 24,
+            "wickets": 2,
+            "econ": 6.0,
+            "score": 89.72,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-24r-2w"
+        },
+        {
+            "player": "SC van Schalkwyk",
+            "team": "United States of America",
+            "overs": 4.0,
+            "runs": 30,
+            "wickets": 2,
+            "econ": 7.5,
+            "score": 83.77,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-30r-2w"
+        },
+        {
+            "player": "L Steenkamp",
+            "team": "Namibia",
+            "runs": 58,
+            "balls": 41,
+            "sr": 141.46,
+            "fours": 5,
+            "sixes": 3,
+            "win_contribution_percent": 34.5,
+            "score": 82.61,
+            "role": "batting",
+            "match_stats": "58(41)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "MD Patel",
+            "team": "United States of America",
+            "runs": 52,
+            "balls": 31,
+            "sr": 167.74,
+            "fours": 3,
+            "sixes": 3,
+            "win_contribution_percent": 26.1,
+            "score": 81.18,
+            "role": "batting",
+            "match_stats": "52(31)",
+            "baseline": {
+                "avg": 28.89,
+                "sr": 132.68,
+                "matches": 40,
+                "source": "t20_master",
+                "baseline_available": true
+            }
+        },
+        {
+            "player": "MG Erasmus",
+            "team": "Namibia",
+            "overs": 3.0,
+            "runs": 27,
+            "wickets": 2,
+            "econ": 9.0,
+            "score": 79.81,
+            "bowling_baseline": {
+                "career_wickets": 0,
+                "career_economy": 0.0,
+                "career_sr": 0.0,
+                "career_avg": 0.0,
+                "best_bowling": "N/A",
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            },
+            "role": "bowling",
+            "match_stats": "3.0o-27r-2w"
+        },
+        {
+            "player": "Shubham Ranjane",
+            "team": "United States of America",
+            "overs": 1.0,
+            "runs": 6,
+            "wickets": 1,
+            "econ": 6.0,
+            "score": 59.72,
+            "bowling_baseline": {
+                "career_wickets": 1,
+                "career_economy": 6.5,
+                "career_sr": 24.0,
+                "career_avg": 26.0,
+                "best_bowling": "1/6",
+                "matches": 3,
+                "source": "t20_bowling_master",
+                "baseline_available": true
+            },
+            "role": "bowling",
+            "match_stats": "1.0o-6r-1w"
+        },
+        {
+            "player": "JN Loftie-Eaton",
+            "team": "Namibia",
+            "runs": 28,
+            "balls": 17,
+            "sr": 164.71,
+            "fours": 4,
+            "sixes": 0,
+            "win_contribution_percent": 16.7,
+            "score": 56.65,
+            "role": "batting",
+            "match_stats": "28(17)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        },
+        {
+            "player": "SN Netravalkar",
+            "team": "United States of America",
+            "overs": 4.0,
+            "runs": 27,
+            "wickets": 1,
+            "econ": 6.75,
+            "score": 56.41,
+            "bowling_baseline": {
+                "career_wickets": 42,
+                "career_economy": 7.44,
+                "career_sr": 20.79,
+                "career_avg": 25.79,
+                "best_bowling": "5/12",
+                "matches": 43,
+                "source": "t20_bowling_master",
+                "baseline_available": true
+            },
+            "role": "bowling",
+            "match_stats": "4.0o-27r-1w"
+        },
+        {
+            "player": "JJ Smit",
+            "team": "Namibia",
+            "runs": 31,
+            "balls": 24,
+            "sr": 129.17,
+            "fours": 1,
+            "sixes": 1,
+            "win_contribution_percent": 18.5,
+            "score": 53.47,
+            "role": "batting",
+            "match_stats": "31(24)",
+            "baseline": {
+                "avg": 0.0,
+                "sr": 0.0,
+                "matches": 0,
+                "source": "none",
+                "baseline_available": false
+            }
+        }
+    ],
+    "Tactical_Post_Match_Analysis": [
+        "United States of America's victory was anchored by SP Krishnamurthi, who contributed 34.2% of the team's runs.",
+        "Defensive pressure was sustained by SC van Schalkwyk, finishing with an impact score of 83.77.",
+        "High-scoring finish by United States of America in Death Overs (RR: 12.6) shifted match momentum."
+    ]
+}

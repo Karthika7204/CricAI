@@ -1,0 +1,96 @@
+{
+    "match_id": "1512742",
+    "winner": "South Africa",
+    "loser": "New Zealand",
+    "awards": {
+        "player_of_the_match": {
+            "name": "AK Markram",
+            "team": "South Africa",
+            "impact_score": 151.0,
+            "breakdown": {
+                "batting": 151.0,
+                "bowling": 0.0,
+                "fielding": 0.0,
+                "pressure_multiplier": 1.0
+            },
+            "key_stats": {
+                "batting": "86(48) SR:179.17",
+                "bowling": "1.0ov-0wkt econ:15.0"
+            }
+        },
+        "best_batter": {
+            "name": "AK Markram",
+            "team": "South Africa",
+            "batting_impact": 151.0,
+            "stats": {
+                "runs": 86,
+                "balls": 48,
+                "sr": 179.17,
+                "fours": 8,
+                "sixes": 4
+            }
+        },
+        "best_bowler": {
+            "name": "M Jansen",
+            "team": "South Africa",
+            "bowling_impact": 85,
+            "stats": {
+                "overs": 4.0,
+                "wickets": 4,
+                "econ": 10.25
+            }
+        },
+        "game_changer": {
+            "name": "AK Markram",
+            "team": "South Africa",
+            "reason": "SR 179.17 with 4 sixes",
+            "key_stats": {
+                "batting": "86(48) SR:179.17",
+                "bowling": "1.0ov-0wkt econ:15.0"
+            }
+        },
+        "pressure_performer": {
+            "name": "AK Markram",
+            "team": "South Africa",
+            "pressure_multiplier": 1.0,
+            "reason": "Chasing team batter under pressure | Attacking SR 179.17 under pressure",
+            "key_stats": {
+                "batting": "86(48) SR:179.17",
+                "bowling": "1.0ov-0wkt econ:15.0"
+            }
+        },
+        "emerging_player": {
+            "name": "AK Markram",
+            "team": "South Africa",
+            "reason": "Outperformed team average by 2.73x",
+            "key_stats": {
+                "batting": "86(48) SR:179.17",
+                "bowling": "1.0ov-0wkt econ:15.0"
+            }
+        },
+        "fielding_impact": {
+            "name": "M Jansen",
+            "team": "South Africa",
+            "fielding_proxy_score": 24,
+            "methodology": "Proxy-based: catch attribution (65% T20 wickets are catches) + dot ball pressure bonus + economy-implied fielding support",
+            "reason": "Estimated 3 caught dismissals from 4 wickets",
+            "stats": {
+                "overs": 4.0,
+                "wickets": 4,
+                "econ": 10.25
+            }
+        },
+        "all_rounder_impact": {
+            "name": "JDS Neesham",
+            "team": "New Zealand",
+            "all_rounder_score": 79.0,
+            "stats": {
+                "runs": 23,
+                "sr": 153.33,
+                "overs": 2.0,
+                "wickets": 1,
+                "econ": 7.5
+            }
+        }
+    }
+}

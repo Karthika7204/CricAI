@@ -1,0 +1,92 @@
+{
+    "match_id": "1512744",
+    "winner": "United States of America",
+    "loser": "Namibia",
+    "awards": {
+        "player_of_the_match": {
+            "name": "SP Krishnamurthi",
+            "team": "United States of America",
+            "impact_score": 127.0,
+            "breakdown": {
+                "batting": 127.0,
+                "bowling": 0.0,
+                "fielding": 0.0,
+                "pressure_multiplier": 1.0
+            },
+            "key_stats": {
+                "batting": "68(34) SR:200.0"
+            }
+        },
+        "best_batter": {
+            "name": "SP Krishnamurthi",
+            "team": "United States of America",
+            "batting_impact": 127.0,
+            "stats": {
+                "runs": 68,
+                "balls": 34,
+                "sr": 200.0,
+                "fours": 4,
+                "sixes": 6
+            }
+        },
+        "best_bowler": {
+            "name": "WP Myburgh",
+            "team": "Namibia",
+            "bowling_impact": 75,
+            "stats": {
+                "overs": 4.0,
+                "wickets": 2,
+                "econ": 6.0
+            }
+        },
+        "game_changer": {
+            "name": "SP Krishnamurthi",
+            "team": "United States of America",
+            "reason": "SR 200.0 with 6 sixes",
+            "key_stats": {
+                "batting": "68(34) SR:200.0"
+            }
+        },
+        "pressure_performer": {
+            "name": "SP Krishnamurthi",
+            "team": "United States of America",
+            "pressure_multiplier": 1.0,
+            "reason": "Attacking SR 200.0 under pressure",
+            "key_stats": {
+                "batting": "68(34) SR:200.0"
+            }
+        },
+        "emerging_player": {
+            "name": "SP Krishnamurthi",
+            "team": "United States of America",
+            "reason": "Outperformed team average by 2.85x",
+            "key_stats": {
+                "batting": "68(34) SR:200.0"
+            }
+        },
+        "fielding_impact": {
+            "name": "SC van Schalkwyk",
+            "team": "United States of America",
+            "fielding_proxy_score": 8,
+            "methodology": "Proxy-based: catch attribution (65% T20 wickets are catches) + dot ball pressure bonus + economy-implied fielding support",
+            "reason": "Estimated 1 caught dismissals from 2 wickets",
+            "stats": {
+                "overs": 4.0,
+                "wickets": 2,
+                "econ": 7.5
+            }
+        },
+        "all_rounder_impact": {
+            "name": "Shubham Ranjane",
+            "team": "United States of America",
+            "all_rounder_score": 57.0,
+            "stats": {
+                "runs": 5,
+                "sr": 250.0,
+                "overs": 1.0,
+                "wickets": 1,
+                "econ": 6.0
+            }
+        }
+    }
+}

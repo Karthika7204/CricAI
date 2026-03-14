@@ -1,0 +1,94 @@
+{
+    "match_id": "1512751",
+    "winner": "Nepal",
+    "loser": "Scotland",
+    "awards": {
+        "player_of_the_match": {
+            "name": "DS Airee",
+            "team": "Nepal",
+            "impact_score": 127.6,
+            "breakdown": {
+                "batting": 101.0,
+                "bowling": 15,
+                "fielding": 0.0,
+                "pressure_multiplier": 1.1
+            },
+            "key_stats": {
+                "batting": "50(23) SR:217.39",
+                "bowling": "3.0ov-0wkt econ:7.67"
+            }
+        },
+        "best_batter": {
+            "name": "MA Jones",
+            "team": "Scotland",
+            "batting_impact": 115.0,
+            "stats": {
+                "runs": 71,
+                "balls": 46,
+                "sr": 154.35,
+                "fours": 8,
+                "sixes": 3
+            }
+        },
+        "best_bowler": {
+            "name": "Sompal Kami",
+            "team": "Nepal",
+            "bowling_impact": 100,
+            "stats": {
+                "overs": 4.0,
+                "wickets": 3,
+                "econ": 6.5
+            }
+        },
+        "game_changer": {
+            "name": "MA Jones",
+            "team": "Scotland",
+            "reason": "SR 154.35 with 3 sixes",
+            "key_stats": {
+                "batting": "71(46) SR:154.35"
+            }
+        },
+        "pressure_performer": {
+            "name": "DS Airee",
+            "team": "Nepal",
+            "pressure_multiplier": 1.1,
+            "reason": "Chasing team batter under pressure | Attacking SR 217.39 under pressure | Economy 7.67 while defending chase",
+            "key_stats": {
+                "batting": "50(23) SR:217.39",
+                "bowling": "3.0ov-0wkt econ:7.67"
+            }
+        },
+        "emerging_player": {
+            "name": "MA Jones",
+            "team": "Scotland",
+            "reason": "Outperformed team average by 3.22x",
+            "key_stats": {
+                "batting": "71(46) SR:154.35"
+            }
+        },
+        "fielding_impact": {
+            "name": "Sompal Kami",
+            "team": "Nepal",
+            "fielding_proxy_score": 16,
+            "methodology": "Proxy-based: catch attribution (65% T20 wickets are catches) + dot ball pressure bonus + economy-implied fielding support",
+            "reason": "Estimated 2 caught dismissals from 3 wickets",
+            "stats": {
+                "overs": 4.0,
+                "wickets": 3,
+                "econ": 6.5
+            }
+        },
+        "all_rounder_impact": {
+            "name": "K Bhurtel",
+            "team": "Nepal",
+            "all_rounder_score": 94.0,
+            "stats": {
+                "runs": 43,
+                "sr": 122.86,
+                "overs": 4.0,
+                "wickets": 1,
+                "econ": 9.25
+            }
+        }
+    }
+}

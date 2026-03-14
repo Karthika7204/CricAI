@@ -1,0 +1,1435 @@
+{
+  "match_id": "1512738",
+  "team_a": "Canada",
+  "team_b": "United Arab Emirates",
+  "matchups": [
+    {
+      "bat": "Shoaib Khan",
+      "bat_t": "United Arab Emirates",
+      "bowl": "Jaskaran Singh",
+      "bowl_t": "Canada",
+      "v": "batsman",
+      "h2h": {
+        "balls": 13,
+        "runs": 17,
+        "dismissals": 1,
+        "strike_rate": 130.77
+      },
+      "vs_t": {
+        "runs": 115,
+        "balls": 110,
+        "dismissals": 5,
+        "average": 23.0,
+        "strike_rate": 104.55
+      },
+      "w_car": {
+        "avg": 27.17,
+        "eco": 9.01
+      },
+      "b_f": [
+        6,
+        51,
+        7
+      ],
+      "w_f": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "DS Bajwa",
+      "bat_t": "Canada",
+      "bowl": "Junaid Siddique",
+      "bowl_t": "United Arab Emirates",
+      "v": "neutral",
+      "h2h": {
+        "balls": 8,
+        "runs": 6,
+        "dismissals": 1,
+        "strike_rate": 75.0
+      },
+      "vs_t": {
+        "runs": 11,
+        "balls": 13,
+        "dismissals": 1,
+        "average": 11.0,
+        "strike_rate": 84.62
+      },
+      "b_f": [
+        36,
+        11,
+        0
+      ],
+      "w_f": [
+        0,
+        5,
+        0
+      ]
+    },
+    {
+      "bat": "Waseem Muhammad",
+      "bat_t": "United Arab Emirates",
+      "bowl": "Kaleem Sana",
+      "bowl_t": "Canada",
+      "v": "neutral",
+      "h2h": {
+        "balls": 6,
+        "runs": 3,
+        "dismissals": 1,
+        "strike_rate": 50.0
+      },
+      "vs_t": {
+        "runs": 4,
+        "balls": 8,
+        "dismissals": 1,
+        "average": 4.0,
+        "strike_rate": 50.0
+      },
+      "b_f": [
+        22,
+        4,
+        66
+      ],
+      "w_f": [
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "A Sharafu",
+      "bat_t": "United Arab Emirates",
+      "bowl": "Saad Bin Zafar",
+      "bowl_t": "Canada",
+      "v": "neutral",
+      "h2h": {
+        "balls": 5,
+        "runs": 1,
+        "dismissals": 1,
+        "strike_rate": 20.0
+      },
+      "vs_t": {
+        "runs": 5,
+        "balls": 13,
+        "dismissals": 1,
+        "average": 5.0,
+        "strike_rate": 38.46
+      },
+      "b_f": [
+        45,
+        5,
+        55
+      ],
+      "w_f": [
+        1,
+        3,
+        0
+      ]
+    },
+    {
+      "bat": "Saad Bin Zafar",
+      "bat_t": "Canada",
+      "bowl": "Junaid Siddique",
+      "bowl_t": "United Arab Emirates",
+      "v": "neutral",
+      "h2h": {
+        "balls": 4,
+        "runs": 5,
+        "dismissals": 1,
+        "strike_rate": 125.0
+      },
+      "vs_t": {
+        "runs": 5,
+        "balls": 4,
+        "dismissals": 1,
+        "average": 5.0,
+        "strike_rate": 125.0
+      },
+      "b_f": [
+        5,
+        11
+      ],
+      "w_f": [
+        0,
+        5,
+        0
+      ]
+    },
+    {
+      "bat": "A Sharma",
+      "bat_t": "United Arab Emirates",
+      "bowl": "Ansh Patel",
+      "bowl_t": "Canada",
+      "v": "bowler",
+      "h2h": {
+        "balls": 14,
+        "runs": 14,
+        "dismissals": 0,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 74,
+        "balls": 57,
+        "dismissals": 0,
+        "average": 74.0,
+        "strike_rate": 129.82
+      },
+      "b_car": {
+        "avg": 25.82,
+        "sr": 113.44
+      },
+      "w_car": {
+        "avg": 14.38,
+        "eco": 5.75
+      },
+      "b_f": [
+        13,
+        74,
+        8
+      ],
+      "w_f": [
+        0,
+        0,
+        3
+      ]
+    },
+    {
+      "bat": "H Thaker",
+      "bat_t": "Canada",
+      "bowl": "Junaid Siddique",
+      "bowl_t": "United Arab Emirates",
+      "v": "neutral",
+      "h2h": {
+        "balls": 3,
+        "runs": 1,
+        "dismissals": 1,
+        "strike_rate": 33.33
+      },
+      "vs_t": {
+        "runs": 50,
+        "balls": 43,
+        "dismissals": 1,
+        "average": 50.0,
+        "strike_rate": 116.28
+      },
+      "b_f": [
+        3,
+        50,
+        33
+      ],
+      "w_f": [
+        0,
+        5,
+        0
+      ]
+    },
+    {
+      "bat": "S Movva",
+      "bat_t": "Canada",
+      "bowl": "Junaid Siddique",
+      "bowl_t": "United Arab Emirates",
+      "v": "neutral",
+      "h2h": {
+        "balls": 3,
+        "runs": 2,
+        "dismissals": 1,
+        "strike_rate": 66.67
+      },
+      "vs_t": {
+        "runs": 21,
+        "balls": 21,
+        "dismissals": 1,
+        "average": 21.0,
+        "strike_rate": 100.0
+      },
+      "b_f": [
+        21,
+        9
+      ],
+      "w_f": [
+        0,
+        5,
+        0
+      ]
+    },
+    {
+      "bat": "H Kaushik",
+      "bat_t": "United Arab Emirates",
+      "bowl": "Saad Bin Zafar",
+      "bowl_t": "Canada",
+      "v": "neutral",
+      "h2h": {
+        "balls": 3,
+        "runs": 1,
+        "dismissals": 1,
+        "strike_rate": 33.33
+      },
+      "vs_t": {
+        "runs": 5,
+        "balls": 9,
+        "dismissals": 1,
+        "average": 5.0,
+        "strike_rate": 55.56
+      },
+      "b_f": [
+        5,
+        2
+      ],
+      "w_f": [
+        1,
+        3,
+        0
+      ]
+    },
+    {
+      "bat": "MR Kumar",
+      "bat_t": "United Arab Emirates",
+      "bowl": "Saad Bin Zafar",
+      "bowl_t": "Canada",
+      "v": "neutral",
+      "h2h": {
+        "balls": 3,
+        "runs": 1,
+        "dismissals": 1,
+        "strike_rate": 33.33
+      },
+      "vs_t": {
+        "runs": 4,
+        "balls": 6,
+        "dismissals": 1,
+        "average": 4.0,
+        "strike_rate": 66.67
+      },
+      "b_f": [
+        4,
+        21
+      ],
+      "w_f": [
+        1,
+        3,
+        0
+      ]
+    },
+    {
+      "bat": "YS Samra",
+      "bat_t": "Canada",
+      "bowl": "Junaid Siddique",
+      "bowl_t": "United Arab Emirates",
+      "v": "neutral",
+      "h2h": {
+        "balls": 1,
+        "runs": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 5,
+        "balls": 5,
+        "dismissals": 1,
+        "average": 5.0,
+        "strike_rate": 100.0
+      },
+      "b_f": [
+        110,
+        5,
+        12
+      ],
+      "w_f": [
+        0,
+        5,
+        0
+      ]
+    },
+    {
+      "bat": "NR Kirton",
+      "bat_t": "Canada",
+      "bowl": "Muhammad Jawadullah",
+      "bowl_t": "United Arab Emirates",
+      "v": "neutral",
+      "h2h": {
+        "balls": 1,
+        "runs": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 41,
+        "balls": 48,
+        "dismissals": 1,
+        "average": 41.0,
+        "strike_rate": 85.42
+      },
+      "b_f": [
+        2,
+        4,
+        4
+      ],
+      "w_f": [
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "A Sharma",
+      "bat_t": "United Arab Emirates",
+      "bowl": "Jaskaran Singh",
+      "bowl_t": "Canada",
+      "v": "batsman",
+      "h2h": {
+        "balls": 11,
+        "runs": 24,
+        "dismissals": 0,
+        "strike_rate": 218.18
+      },
+      "vs_t": {
+        "runs": 74,
+        "balls": 57,
+        "dismissals": 0,
+        "average": 74.0,
+        "strike_rate": 129.82
+      },
+      "b_car": {
+        "avg": 25.82,
+        "sr": 113.44
+      },
+      "w_car": {
+        "avg": 27.17,
+        "eco": 9.01
+      },
+      "b_f": [
+        13,
+        74,
+        8
+      ],
+      "w_f": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "Shoaib Khan",
+      "bat_t": "United Arab Emirates",
+      "bowl": "D Heyliger",
+      "bowl_t": "Canada",
+      "v": "bowler",
+      "h2h": {
+        "balls": 27,
+        "runs": 29,
+        "dismissals": 0,
+        "strike_rate": 107.41
+      },
+      "vs_t": {
+        "runs": 115,
+        "balls": 110,
+        "dismissals": 5,
+        "average": 23.0,
+        "strike_rate": 104.55
+      },
+      "b_f": [
+        6,
+        51,
+        7
+      ],
+      "w_f": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "A Sharma",
+      "bat_t": "United Arab Emirates",
+      "bowl": "Saad Bin Zafar",
+      "bowl_t": "Canada",
+      "v": "neutral",
+      "h2h": {
+        "balls": 11,
+        "runs": 10,
+        "dismissals": 0,
+        "strike_rate": 90.91
+      },
+      "vs_t": {
+        "runs": 74,
+        "balls": 57,
+        "dismissals": 0,
+        "average": 74.0,
+        "strike_rate": 129.82
+      },
+      "b_car": {
+        "avg": 25.82,
+        "sr": 113.44
+      },
+      "b_f": [
+        13,
+        74,
+        8
+      ],
+      "w_f": [
+        1,
+        3,
+        0
+      ]
+    },
+    {
+      "bat": "A Sharma",
+      "bat_t": "United Arab Emirates",
+      "bowl": "D Heyliger",
+      "bowl_t": "Canada",
+      "v": "neutral",
+      "h2h": {
+        "balls": 11,
+        "runs": 10,
+        "dismissals": 0,
+        "strike_rate": 90.91
+      },
+      "vs_t": {
+        "runs": 74,
+        "balls": 57,
+        "dismissals": 0,
+        "average": 74.0,
+        "strike_rate": 129.82
+      },
+      "b_car": {
+        "avg": 25.82,
+        "sr": 113.44
+      },
+      "b_f": [
+        13,
+        74,
+        8
+      ],
+      "w_f": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "A Sharma",
+      "bat_t": "United Arab Emirates",
+      "bowl": "Kaleem Sana",
+      "bowl_t": "Canada",
+      "v": "batsman",
+      "h2h": {
+        "balls": 10,
+        "runs": 16,
+        "dismissals": 0,
+        "strike_rate": 160.0
+      },
+      "vs_t": {
+        "runs": 74,
+        "balls": 57,
+        "dismissals": 0,
+        "average": 74.0,
+        "strike_rate": 129.82
+      },
+      "b_car": {
+        "avg": 25.82,
+        "sr": 113.44
+      },
+      "b_f": [
+        13,
+        74,
+        8
+      ],
+      "w_f": [
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "MR Kumar",
+      "bat_t": "United Arab Emirates",
+      "bowl": "Ansh Patel",
+      "bowl_t": "Canada",
+      "v": "bowler",
+      "h2h": {
+        "balls": 3,
+        "runs": 3,
+        "dismissals": 0,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 4,
+        "balls": 6,
+        "dismissals": 1,
+        "average": 4.0,
+        "strike_rate": 66.67
+      },
+      "w_car": {
+        "avg": 14.38,
+        "eco": 5.75
+      },
+      "b_f": [
+        4,
+        21
+      ],
+      "w_f": [
+        0,
+        0,
+        3
+      ]
+    },
+    {
+      "bat": "H Thaker",
+      "bat_t": "Canada",
+      "bowl": "Muhammad Jawadullah",
+      "bowl_t": "United Arab Emirates",
+      "v": "neutral",
+      "h2h": {
+        "balls": 12,
+        "runs": 6,
+        "dismissals": 0,
+        "strike_rate": 50.0
+      },
+      "vs_t": {
+        "runs": 50,
+        "balls": 43,
+        "dismissals": 1,
+        "average": 50.0,
+        "strike_rate": 116.28
+      },
+      "b_f": [
+        3,
+        50,
+        33
+      ],
+      "w_f": [
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "Jaskaran Singh",
+      "bat_t": "Canada",
+      "bowl": "Muhammad Jawadullah",
+      "bowl_t": "United Arab Emirates",
+      "v": "neutral",
+      "h2h": {
+        "balls": 2,
+        "runs": 2,
+        "dismissals": 0,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 4,
+        "balls": 4,
+        "dismissals": 0,
+        "average": 4.0,
+        "strike_rate": 100.0
+      },
+      "b_car": {
+        "avg": 22.6,
+        "sr": 168.66
+      },
+      "b_f": [
+        4,
+        0
+      ],
+      "w_f": [
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "Jaskaran Singh",
+      "bat_t": "Canada",
+      "bowl": "Junaid Siddique",
+      "bowl_t": "United Arab Emirates",
+      "v": "neutral",
+      "h2h": {
+        "balls": 2,
+        "runs": 2,
+        "dismissals": 0,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 4,
+        "balls": 4,
+        "dismissals": 0,
+        "average": 4.0,
+        "strike_rate": 100.0
+      },
+      "b_car": {
+        "avg": 22.6,
+        "sr": 168.66
+      },
+      "b_f": [
+        4,
+        0
+      ],
+      "w_f": [
+        0,
+        5,
+        0
+      ]
+    },
+    {
+      "bat": "Shoaib Khan",
+      "bat_t": "United Arab Emirates",
+      "bowl": "Ansh Patel",
+      "bowl_t": "Canada",
+      "v": "bowler",
+      "h2h": {
+        "balls": 2,
+        "runs": 7,
+        "dismissals": 0,
+        "strike_rate": 350.0
+      },
+      "vs_t": {
+        "runs": 115,
+        "balls": 110,
+        "dismissals": 5,
+        "average": 23.0,
+        "strike_rate": 104.55
+      },
+      "w_car": {
+        "avg": 14.38,
+        "eco": 5.75
+      },
+      "b_f": [
+        6,
+        51,
+        7
+      ],
+      "w_f": [
+        0,
+        0,
+        3
+      ]
+    },
+    {
+      "bat": "Shoaib Khan",
+      "bat_t": "United Arab Emirates",
+      "bowl": "Kaleem Sana",
+      "bowl_t": "Canada",
+      "v": "bowler",
+      "h2h": {
+        "balls": 11,
+        "runs": 11,
+        "dismissals": 0,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 115,
+        "balls": 110,
+        "dismissals": 5,
+        "average": 23.0,
+        "strike_rate": 104.55
+      },
+      "b_f": [
+        6,
+        51,
+        7
+      ],
+      "w_f": [
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "Muhammad Arfan",
+      "bat_t": "United Arab Emirates",
+      "bowl": "Jaskaran Singh",
+      "bowl_t": "Canada",
+      "v": "neutral",
+      "h2h": {
+        "balls": 1,
+        "runs": 1,
+        "dismissals": 0,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 1,
+        "balls": 1,
+        "dismissals": 0,
+        "average": 1.0,
+        "strike_rate": 100.0
+      },
+      "w_car": {
+        "avg": 27.17,
+        "eco": 9.01
+      },
+      "b_f": [
+        11,
+        1,
+        0
+      ],
+      "w_f": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "Jaskaran Singh",
+      "bat_t": "Canada",
+      "bowl": "Muhammad Farooq",
+      "bowl_t": "United Arab Emirates",
+      "v": "neutral",
+      "vs_t": {
+        "runs": 4,
+        "balls": 4,
+        "dismissals": 0,
+        "average": 4.0,
+        "strike_rate": 100.0
+      },
+      "b_car": {
+        "avg": 22.6,
+        "sr": 168.66
+      },
+      "b_f": [
+        4,
+        0
+      ],
+      "w_f": [
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "Jaskaran Singh",
+      "bat_t": "Canada",
+      "bowl": "Shoaib Khan",
+      "bowl_t": "United Arab Emirates",
+      "v": "neutral",
+      "vs_t": {
+        "runs": 4,
+        "balls": 4,
+        "dismissals": 0,
+        "average": 4.0,
+        "strike_rate": 100.0
+      },
+      "b_car": {
+        "avg": 22.6,
+        "sr": 168.66
+      },
+      "b_f": [
+        4,
+        0
+      ]
+    },
+    {
+      "bat": "Jaskaran Singh",
+      "bat_t": "Canada",
+      "bowl": "H Kaushik",
+      "bowl_t": "United Arab Emirates",
+      "v": "neutral",
+      "vs_t": {
+        "runs": 4,
+        "balls": 4,
+        "dismissals": 0,
+        "average": 4.0,
+        "strike_rate": 100.0
+      },
+      "b_car": {
+        "avg": 22.6,
+        "sr": 168.66
+      },
+      "b_f": [
+        4,
+        0
+      ],
+      "w_f": [
+        0
+      ]
+    },
+    {
+      "bat": "Jaskaran Singh",
+      "bat_t": "Canada",
+      "bowl": "Muhammad Arfan",
+      "bowl_t": "United Arab Emirates",
+      "v": "neutral",
+      "vs_t": {
+        "runs": 4,
+        "balls": 4,
+        "dismissals": 0,
+        "average": 4.0,
+        "strike_rate": 100.0
+      },
+      "b_car": {
+        "avg": 22.6,
+        "sr": 168.66
+      },
+      "b_f": [
+        4,
+        0
+      ],
+      "w_f": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "Jaskaran Singh",
+      "bat_t": "Canada",
+      "bowl": "A Sharma",
+      "bowl_t": "United Arab Emirates",
+      "v": "neutral",
+      "vs_t": {
+        "runs": 4,
+        "balls": 4,
+        "dismissals": 0,
+        "average": 4.0,
+        "strike_rate": 100.0
+      },
+      "b_car": {
+        "avg": 22.6,
+        "sr": 168.66
+      },
+      "b_f": [
+        4,
+        0
+      ]
+    },
+    {
+      "bat": "Jaskaran Singh",
+      "bat_t": "Canada",
+      "bowl": "MR Kumar",
+      "bowl_t": "United Arab Emirates",
+      "v": "neutral",
+      "vs_t": {
+        "runs": 4,
+        "balls": 4,
+        "dismissals": 0,
+        "average": 4.0,
+        "strike_rate": 100.0
+      },
+      "b_car": {
+        "avg": 22.6,
+        "sr": 168.66
+      },
+      "b_f": [
+        4,
+        0
+      ]
+    },
+    {
+      "bat": "Jaskaran Singh",
+      "bat_t": "Canada",
+      "bowl": "Haider Ali",
+      "bowl_t": "United Arab Emirates",
+      "v": "neutral",
+      "vs_t": {
+        "runs": 4,
+        "balls": 4,
+        "dismissals": 0,
+        "average": 4.0,
+        "strike_rate": 100.0
+      },
+      "b_car": {
+        "avg": 22.6,
+        "sr": 168.66
+      },
+      "b_f": [
+        4,
+        0
+      ],
+      "w_f": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "Jaskaran Singh",
+      "bat_t": "Canada",
+      "bowl": "A Sharafu",
+      "bowl_t": "United Arab Emirates",
+      "v": "neutral",
+      "vs_t": {
+        "runs": 4,
+        "balls": 4,
+        "dismissals": 0,
+        "average": 4.0,
+        "strike_rate": 100.0
+      },
+      "b_car": {
+        "avg": 22.6,
+        "sr": 168.66
+      },
+      "b_f": [
+        4,
+        0
+      ]
+    },
+    {
+      "bat": "Jaskaran Singh",
+      "bat_t": "Canada",
+      "bowl": "Waseem Muhammad",
+      "bowl_t": "United Arab Emirates",
+      "v": "neutral",
+      "vs_t": {
+        "runs": 4,
+        "balls": 4,
+        "dismissals": 0,
+        "average": 4.0,
+        "strike_rate": 100.0
+      },
+      "b_car": {
+        "avg": 22.6,
+        "sr": 168.66
+      },
+      "b_f": [
+        4,
+        0
+      ]
+    },
+    {
+      "bat": "Shoaib Khan",
+      "bat_t": "United Arab Emirates",
+      "bowl": "Saad Bin Zafar",
+      "bowl_t": "Canada",
+      "v": "batsman",
+      "h2h": {
+        "balls": 10,
+        "runs": 26,
+        "dismissals": 0,
+        "strike_rate": 260.0
+      },
+      "vs_t": {
+        "runs": 115,
+        "balls": 110,
+        "dismissals": 5,
+        "average": 23.0,
+        "strike_rate": 104.55
+      },
+      "b_f": [
+        6,
+        51,
+        7
+      ],
+      "w_f": [
+        1,
+        3,
+        0
+      ]
+    },
+    {
+      "bat": "H Kaushik",
+      "bat_t": "United Arab Emirates",
+      "bowl": "Ansh Patel",
+      "bowl_t": "Canada",
+      "v": "bowler",
+      "vs_t": {
+        "runs": 5,
+        "balls": 9,
+        "dismissals": 1,
+        "average": 5.0,
+        "strike_rate": 55.56
+      },
+      "w_car": {
+        "avg": 14.38,
+        "eco": 5.75
+      },
+      "b_f": [
+        5,
+        2
+      ],
+      "w_f": [
+        0,
+        0,
+        3
+      ]
+    },
+    {
+      "bat": "H Kaushik",
+      "bat_t": "United Arab Emirates",
+      "bowl": "Jaskaran Singh",
+      "bowl_t": "Canada",
+      "v": "neutral",
+      "vs_t": {
+        "runs": 5,
+        "balls": 9,
+        "dismissals": 1,
+        "average": 5.0,
+        "strike_rate": 55.56
+      },
+      "w_car": {
+        "avg": 27.17,
+        "eco": 9.01
+      },
+      "b_f": [
+        5,
+        2
+      ],
+      "w_f": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "Muhammad Arfan",
+      "bat_t": "United Arab Emirates",
+      "bowl": "Ansh Patel",
+      "bowl_t": "Canada",
+      "v": "bowler",
+      "vs_t": {
+        "runs": 1,
+        "balls": 1,
+        "dismissals": 0,
+        "average": 1.0,
+        "strike_rate": 100.0
+      },
+      "w_car": {
+        "avg": 14.38,
+        "eco": 5.75
+      },
+      "b_f": [
+        11,
+        1,
+        0
+      ],
+      "w_f": [
+        0,
+        0,
+        3
+      ]
+    },
+    {
+      "bat": "A Sharma",
+      "bat_t": "United Arab Emirates",
+      "bowl": "H Thaker",
+      "bowl_t": "Canada",
+      "v": "neutral",
+      "vs_t": {
+        "runs": 74,
+        "balls": 57,
+        "dismissals": 0,
+        "average": 74.0,
+        "strike_rate": 129.82
+      },
+      "b_car": {
+        "avg": 25.82,
+        "sr": 113.44
+      },
+      "b_f": [
+        13,
+        74,
+        8
+      ]
+    },
+    {
+      "bat": "A Sharma",
+      "bat_t": "United Arab Emirates",
+      "bowl": "DS Bajwa",
+      "bowl_t": "Canada",
+      "v": "neutral",
+      "vs_t": {
+        "runs": 74,
+        "balls": 57,
+        "dismissals": 0,
+        "average": 74.0,
+        "strike_rate": 129.82
+      },
+      "b_car": {
+        "avg": 25.82,
+        "sr": 113.44
+      },
+      "b_f": [
+        13,
+        74,
+        8
+      ],
+      "w_f": [
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "bat": "A Sharma",
+      "bat_t": "United Arab Emirates",
+      "bowl": "YS Samra",
+      "bowl_t": "Canada",
+      "v": "neutral",
+      "vs_t": {
+        "runs": 74,
+        "balls": 57,
+        "dismissals": 0,
+        "average": 74.0,
+        "strike_rate": 129.82
+      },
+      "b_car": {
+        "avg": 25.82,
+        "sr": 113.44
+      },
+      "b_f": [
+        13,
+        74,
+        8
+      ]
+    },
+    {
+      "bat": "A Sharma",
+      "bat_t": "United Arab Emirates",
+      "bowl": "S Movva",
+      "bowl_t": "Canada",
+      "v": "neutral",
+      "vs_t": {
+        "runs": 74,
+        "balls": 57,
+        "dismissals": 0,
+        "average": 74.0,
+        "strike_rate": 129.82
+      },
+      "b_car": {
+        "avg": 25.82,
+        "sr": 113.44
+      },
+      "b_f": [
+        13,
+        74,
+        8
+      ]
+    },
+    {
+      "bat": "A Sharma",
+      "bat_t": "United Arab Emirates",
+      "bowl": "NR Kirton",
+      "bowl_t": "Canada",
+      "v": "neutral",
+      "vs_t": {
+        "runs": 74,
+        "balls": 57,
+        "dismissals": 0,
+        "average": 74.0,
+        "strike_rate": 129.82
+      },
+      "b_car": {
+        "avg": 25.82,
+        "sr": 113.44
+      },
+      "b_f": [
+        13,
+        74,
+        8
+      ]
+    },
+    {
+      "bat": "A Sharma",
+      "bat_t": "United Arab Emirates",
+      "bowl": "NS Dhaliwal",
+      "bowl_t": "Canada",
+      "v": "neutral",
+      "vs_t": {
+        "runs": 74,
+        "balls": 57,
+        "dismissals": 0,
+        "average": 74.0,
+        "strike_rate": 129.82
+      },
+      "b_car": {
+        "avg": 25.82,
+        "sr": 113.44
+      },
+      "b_f": [
+        13,
+        74,
+        8
+      ]
+    },
+    {
+      "bat": "MR Kumar",
+      "bat_t": "United Arab Emirates",
+      "bowl": "Jaskaran Singh",
+      "bowl_t": "Canada",
+      "v": "neutral",
+      "vs_t": {
+        "runs": 4,
+        "balls": 6,
+        "dismissals": 1,
+        "average": 4.0,
+        "strike_rate": 66.67
+      },
+      "w_car": {
+        "avg": 27.17,
+        "eco": 9.01
+      },
+      "b_f": [
+        4,
+        21
+      ],
+      "w_f": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "A Sharafu",
+      "bat_t": "United Arab Emirates",
+      "bowl": "Ansh Patel",
+      "bowl_t": "Canada",
+      "v": "bowler",
+      "vs_t": {
+        "runs": 5,
+        "balls": 13,
+        "dismissals": 1,
+        "average": 5.0,
+        "strike_rate": 38.46
+      },
+      "w_car": {
+        "avg": 14.38,
+        "eco": 5.75
+      },
+      "b_f": [
+        45,
+        5,
+        55
+      ],
+      "w_f": [
+        0,
+        0,
+        3
+      ]
+    },
+    {
+      "bat": "A Sharafu",
+      "bat_t": "United Arab Emirates",
+      "bowl": "Jaskaran Singh",
+      "bowl_t": "Canada",
+      "v": "neutral",
+      "vs_t": {
+        "runs": 5,
+        "balls": 13,
+        "dismissals": 1,
+        "average": 5.0,
+        "strike_rate": 38.46
+      },
+      "w_car": {
+        "avg": 27.17,
+        "eco": 9.01
+      },
+      "b_f": [
+        45,
+        5,
+        55
+      ],
+      "w_f": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "Waseem Muhammad",
+      "bat_t": "United Arab Emirates",
+      "bowl": "Ansh Patel",
+      "bowl_t": "Canada",
+      "v": "bowler",
+      "vs_t": {
+        "runs": 4,
+        "balls": 8,
+        "dismissals": 1,
+        "average": 4.0,
+        "strike_rate": 50.0
+      },
+      "w_car": {
+        "avg": 14.38,
+        "eco": 5.75
+      },
+      "b_f": [
+        22,
+        4,
+        66
+      ],
+      "w_f": [
+        0,
+        0,
+        3
+      ]
+    },
+    {
+      "bat": "Waseem Muhammad",
+      "bat_t": "United Arab Emirates",
+      "bowl": "Jaskaran Singh",
+      "bowl_t": "Canada",
+      "v": "neutral",
+      "vs_t": {
+        "runs": 4,
+        "balls": 8,
+        "dismissals": 1,
+        "average": 4.0,
+        "strike_rate": 50.0
+      },
+      "w_car": {
+        "avg": 27.17,
+        "eco": 9.01
+      },
+      "b_f": [
+        22,
+        4,
+        66
+      ],
+      "w_f": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "H Thaker",
+      "bat_t": "Canada",
+      "bowl": "Muhammad Arfan",
+      "bowl_t": "United Arab Emirates",
+      "v": "batsman",
+      "h2h": {
+        "balls": 9,
+        "runs": 12,
+        "dismissals": 0,
+        "strike_rate": 133.33
+      },
+      "vs_t": {
+        "runs": 50,
+        "balls": 43,
+        "dismissals": 1,
+        "average": 50.0,
+        "strike_rate": 116.28
+      },
+      "b_f": [
+        3,
+        50,
+        33
+      ],
+      "w_f": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "bat": "NS Dhaliwal",
+      "bat_t": "Canada",
+      "bowl": "Muhammad Arfan",
+      "bowl_t": "United Arab Emirates",
+      "v": "neutral",
+      "h2h": {
+        "balls": 9,
+        "runs": 11,
+        "dismissals": 0,
+        "strike_rate": 122.22
+      },
+      "vs_t": {
+        "runs": 75,
+        "balls": 65,
+        "dismissals": 1,
+        "average": 75.0,
+        "strike_rate": 115.38
+      },
+      "b_f": [
+        10,
+        34,
+        64
+      ],
+      "w_f": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

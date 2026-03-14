@@ -1,0 +1,95 @@
+{
+    "match_id": "1512754",
+    "winner": "India",
+    "loser": "Netherlands",
+    "awards": {
+        "player_of_the_match": {
+            "name": "S Dube",
+            "team": "India",
+            "impact_score": 168.0,
+            "breakdown": {
+                "batting": 125.0,
+                "bowling": 35,
+                "fielding": 8,
+                "pressure_multiplier": 1.0
+            },
+            "key_stats": {
+                "batting": "66(36) SR:183.33",
+                "bowling": "3.0ov-2wkt econ:11.67"
+            }
+        },
+        "best_batter": {
+            "name": "S Dube",
+            "team": "India",
+            "batting_impact": 125.0,
+            "stats": {
+                "runs": 66,
+                "balls": 36,
+                "sr": 183.33,
+                "fours": 4,
+                "sixes": 6
+            }
+        },
+        "best_bowler": {
+            "name": "CV Varun",
+            "team": "India",
+            "bowling_impact": 120,
+            "stats": {
+                "overs": 3.0,
+                "wickets": 3,
+                "econ": 4.67
+            }
+        },
+        "game_changer": {
+            "name": "S Dube",
+            "team": "India",
+            "reason": "SR 183.33 with 6 sixes",
+            "key_stats": {
+                "batting": "66(36) SR:183.33",
+                "bowling": "3.0ov-2wkt econ:11.67"
+            }
+        },
+        "pressure_performer": {
+            "name": "A Dutt",
+            "team": "Netherlands",
+            "pressure_multiplier": 1.2,
+            "reason": "Chasing team contributor | Economy 4.75 while defending chase",
+            "key_stats": {
+                "bowling": "4.0ov-2wkt econ:4.75"
+            }
+        },
+        "emerging_player": {
+            "name": "S Dube",
+            "team": "India",
+            "reason": "Outperformed team average by 3.19x",
+            "key_stats": {
+                "batting": "66(36) SR:183.33",
+                "bowling": "3.0ov-2wkt econ:11.67"
+            }
+        },
+        "fielding_impact": {
+            "name": "CV Varun",
+            "team": "India",
+            "fielding_proxy_score": 21,
+            "methodology": "Proxy-based: catch attribution (65% T20 wickets are catches) + dot ball pressure bonus + economy-implied fielding support",
+            "reason": "Estimated 2 caught dismissals from 3 wickets | Economy 4.67 — tight fielding support implied",
+            "stats": {
+                "overs": 3.0,
+                "wickets": 3,
+                "econ": 4.67
+            }
+        },
+        "all_rounder_impact": {
+            "name": "S Dube",
+            "team": "India",
+            "all_rounder_score": 160.0,
+            "stats": {
+                "runs": 66,
+                "sr": 183.33,
+                "overs": 3.0,
+                "wickets": 2,
+                "econ": 11.67
+            }
+        }
+    }
+}

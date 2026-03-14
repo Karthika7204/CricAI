@@ -1,0 +1,1474 @@
+{
+  "match_id": "1512725",
+  "team_a": "Scotland",
+  "team_b": "Italy",
+  "matchups": [
+    {
+      "bat": "HG Munsey",
+      "bat_t": "Scotland",
+      "bowl": "G Stewart",
+      "bowl_t": "Italy",
+      "v": "bowler",
+      "h2h": {
+        "balls": 32,
+        "runs": 35,
+        "dismissals": 2,
+        "strike_rate": 109.38
+      },
+      "vs_t": {
+        "runs": 168,
+        "balls": 137,
+        "dismissals": 3,
+        "average": 56.0,
+        "strike_rate": 122.63
+      },
+      "b_f": [
+        27,
+        4,
+        84
+      ],
+      "w_f": [
+        0,
+        2,
+        0
+      ]
+    },
+    {
+      "bat": "BJ McMullen",
+      "bat_t": "Scotland",
+      "bowl": "HJ Manenti",
+      "bowl_t": "Italy",
+      "v": "bowler",
+      "h2h": {
+        "balls": 14,
+        "runs": 20,
+        "dismissals": 2,
+        "strike_rate": 142.86
+      },
+      "vs_t": {
+        "runs": 137,
+        "balls": 71,
+        "dismissals": 2,
+        "average": 68.5,
+        "strike_rate": 192.96
+      },
+      "b_f": [
+        25,
+        0,
+        41
+      ],
+      "w_f": [
+        0
+      ]
+    },
+    {
+      "bat": "J Mosca",
+      "bat_t": "Italy",
+      "bowl": "MA Leask",
+      "bowl_t": "Scotland",
+      "v": "bowler",
+      "h2h": {
+        "balls": 5,
+        "runs": 4,
+        "dismissals": 2,
+        "strike_rate": 80.0
+      },
+      "vs_t": {
+        "runs": 17,
+        "balls": 22,
+        "dismissals": 3,
+        "average": 5.67,
+        "strike_rate": 77.27
+      },
+      "b_f": [
+        2,
+        43,
+        60
+      ],
+      "w_f": [
+        3,
+        1,
+        4
+      ]
+    },
+    {
+      "bat": "HG Munsey",
+      "bat_t": "Scotland",
+      "bowl": "HJ Manenti",
+      "bowl_t": "Italy",
+      "v": "batsman",
+      "h2h": {
+        "balls": 15,
+        "runs": 21,
+        "dismissals": 1,
+        "strike_rate": 140.0
+      },
+      "vs_t": {
+        "runs": 168,
+        "balls": 137,
+        "dismissals": 3,
+        "average": 56.0,
+        "strike_rate": 122.63
+      },
+      "b_f": [
+        27,
+        4,
+        84
+      ],
+      "w_f": [
+        0
+      ]
+    },
+    {
+      "bat": "JT Smuts",
+      "bat_t": "Italy",
+      "bowl": "BJ Currie",
+      "bowl_t": "Scotland",
+      "v": "neutral",
+      "h2h": {
+        "balls": 3,
+        "runs": 1,
+        "dismissals": 1,
+        "strike_rate": 33.33
+      },
+      "vs_t": {
+        "runs": 22,
+        "balls": 12,
+        "dismissals": 1,
+        "average": 22.0,
+        "strike_rate": 183.33
+      },
+      "b_car": {
+        "avg": 13.53,
+        "sr": 104.05
+      },
+      "b_f": [
+        24,
+        0,
+        22
+      ],
+      "w_f": [
+        0,
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "J Mosca",
+      "bat_t": "Italy",
+      "bowl": "BJ Currie",
+      "bowl_t": "Scotland",
+      "v": "bowler",
+      "h2h": {
+        "balls": 10,
+        "runs": 7,
+        "dismissals": 1,
+        "strike_rate": 70.0
+      },
+      "vs_t": {
+        "runs": 17,
+        "balls": 22,
+        "dismissals": 3,
+        "average": 5.67,
+        "strike_rate": 77.27
+      },
+      "b_f": [
+        2,
+        43,
+        60
+      ],
+      "w_f": [
+        0,
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "MA Jones",
+      "bat_t": "Scotland",
+      "bowl": "JT Smuts",
+      "bowl_t": "Italy",
+      "v": "neutral",
+      "h2h": {
+        "balls": 9,
+        "runs": 8,
+        "dismissals": 1,
+        "strike_rate": 88.89
+      },
+      "vs_t": {
+        "runs": 37,
+        "balls": 31,
+        "dismissals": 1,
+        "average": 37.0,
+        "strike_rate": 119.35
+      },
+      "b_f": [
+        71,
+        33,
+        37
+      ],
+      "w_f": [
+        0,
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "BAD Manenti",
+      "bat_t": "Italy",
+      "bowl": "O Davidson",
+      "bowl_t": "Scotland",
+      "v": "batsman",
+      "h2h": {
+        "balls": 9,
+        "runs": 19,
+        "dismissals": 1,
+        "strike_rate": 211.11
+      },
+      "vs_t": {
+        "runs": 63,
+        "balls": 45,
+        "dismissals": 3,
+        "average": 21.0,
+        "strike_rate": 140.0
+      },
+      "b_f": [
+        26,
+        60,
+        52
+      ],
+      "w_f": [
+        0,
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "G Stewart",
+      "bat_t": "Italy",
+      "bowl": "MA Leask",
+      "bowl_t": "Scotland",
+      "v": "batsman",
+      "h2h": {
+        "balls": 9,
+        "runs": 8,
+        "dismissals": 1,
+        "strike_rate": 88.89
+      },
+      "vs_t": {
+        "runs": 87,
+        "balls": 54,
+        "dismissals": 2,
+        "average": 43.5,
+        "strike_rate": 161.11
+      },
+      "b_f": [
+        12,
+        45,
+        2
+      ],
+      "w_f": [
+        3,
+        1,
+        4
+      ]
+    },
+    {
+      "bat": "HJ Manenti",
+      "bat_t": "Italy",
+      "bowl": "BJ Currie",
+      "bowl_t": "Scotland",
+      "v": "batsman",
+      "h2h": {
+        "balls": 8,
+        "runs": 12,
+        "dismissals": 1,
+        "strike_rate": 150.0
+      },
+      "vs_t": {
+        "runs": 79,
+        "balls": 66,
+        "dismissals": 2,
+        "average": 39.5,
+        "strike_rate": 119.7
+      },
+      "b_f": [
+        8,
+        12,
+        37
+      ],
+      "w_f": [
+        0,
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "HJ Manenti",
+      "bat_t": "Italy",
+      "bowl": "MA Leask",
+      "bowl_t": "Scotland",
+      "v": "bowler",
+      "h2h": {
+        "balls": 7,
+        "runs": 6,
+        "dismissals": 1,
+        "strike_rate": 85.71
+      },
+      "vs_t": {
+        "runs": 79,
+        "balls": 66,
+        "dismissals": 2,
+        "average": 39.5,
+        "strike_rate": 119.7
+      },
+      "b_f": [
+        8,
+        12,
+        37
+      ],
+      "w_f": [
+        3,
+        1,
+        4
+      ]
+    },
+    {
+      "bat": "TJ Draca",
+      "bat_t": "Italy",
+      "bowl": "MRJ Watt",
+      "bowl_t": "Scotland",
+      "v": "neutral",
+      "h2h": {
+        "balls": 4,
+        "runs": 1,
+        "dismissals": 1,
+        "strike_rate": 25.0
+      },
+      "vs_t": {
+        "runs": 2,
+        "balls": 5,
+        "dismissals": 1,
+        "average": 2.0,
+        "strike_rate": 40.0
+      },
+      "b_f": [
+        5,
+        2
+      ],
+      "w_f": [
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "bat": "RD Berrington",
+      "bat_t": "Scotland",
+      "bowl": "Ali Hasan",
+      "bowl_t": "Italy",
+      "v": "neutral",
+      "h2h": {
+        "balls": 3,
+        "runs": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 61,
+        "balls": 50,
+        "dismissals": 1,
+        "average": 61.0,
+        "strike_rate": 122.0
+      },
+      "b_f": [
+        10,
+        49,
+        15
+      ],
+      "w_f": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "MA Leask",
+      "bat_t": "Scotland",
+      "bowl": "HJ Manenti",
+      "bowl_t": "Italy",
+      "v": "neutral",
+      "h2h": {
+        "balls": 3,
+        "runs": 3,
+        "dismissals": 1,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 29,
+        "balls": 14,
+        "dismissals": 1,
+        "average": 29.0,
+        "strike_rate": 207.14
+      },
+      "b_f": [
+        4,
+        1,
+        22
+      ],
+      "w_f": [
+        0
+      ]
+    },
+    {
+      "bat": "AJ Mosca",
+      "bat_t": "Italy",
+      "bowl": "MRJ Watt",
+      "bowl_t": "Scotland",
+      "v": "bowler",
+      "h2h": {
+        "balls": 3,
+        "runs": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 25,
+        "balls": 24,
+        "dismissals": 2,
+        "average": 12.5,
+        "strike_rate": 104.17
+      },
+      "b_f": [
+        19,
+        0,
+        62
+      ],
+      "w_f": [
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "bat": "Ali Hasan",
+      "bat_t": "Italy",
+      "bowl": "BTJ Wheal",
+      "bowl_t": "Scotland",
+      "v": "neutral",
+      "h2h": {
+        "balls": 2,
+        "runs": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 0,
+        "balls": 2,
+        "dismissals": 1,
+        "average": 0.0,
+        "strike_rate": 0.0
+      },
+      "b_f": [
+        0,
+        0,
+        0
+      ],
+      "w_f": [
+        0,
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "GP Meade",
+      "bat_t": "Italy",
+      "bowl": "MA Leask",
+      "bowl_t": "Scotland",
+      "v": "neutral",
+      "h2h": {
+        "balls": 2,
+        "runs": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 4,
+        "balls": 9,
+        "dismissals": 2,
+        "average": 2.0,
+        "strike_rate": 44.44
+      },
+      "b_f": [
+        4,
+        0,
+        0
+      ],
+      "w_f": [
+        3,
+        1,
+        4
+      ]
+    },
+    {
+      "bat": "TC Bruce",
+      "bat_t": "Scotland",
+      "bowl": "TJ Draca",
+      "bowl_t": "Italy",
+      "v": "neutral",
+      "h2h": {
+        "balls": 1,
+        "runs": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 1,
+        "balls": 2,
+        "dismissals": 1,
+        "average": 1.0,
+        "strike_rate": 50.0
+      },
+      "b_f": [
+        5,
+        24,
+        1
+      ],
+      "w_f": [
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "BAD Manenti",
+      "bat_t": "Italy",
+      "bowl": "BJ Currie",
+      "bowl_t": "Scotland",
+      "v": "bowler",
+      "h2h": {
+        "balls": 1,
+        "runs": 0,
+        "dismissals": 1,
+        "strike_rate": 0.0
+      },
+      "vs_t": {
+        "runs": 63,
+        "balls": 45,
+        "dismissals": 3,
+        "average": 21.0,
+        "strike_rate": 140.0
+      },
+      "b_f": [
+        26,
+        60,
+        52
+      ],
+      "w_f": [
+        0,
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "HG Munsey",
+      "bat_t": "Scotland",
+      "bowl": "BAD Manenti",
+      "bowl_t": "Italy",
+      "v": "bowler",
+      "h2h": {
+        "balls": 28,
+        "runs": 36,
+        "dismissals": 0,
+        "strike_rate": 128.57
+      },
+      "vs_t": {
+        "runs": 168,
+        "balls": 137,
+        "dismissals": 3,
+        "average": 56.0,
+        "strike_rate": 122.63
+      },
+      "b_f": [
+        27,
+        4,
+        84
+      ],
+      "w_f": [
+        2,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "BAD Manenti",
+      "bat_t": "Italy",
+      "bowl": "MRJ Watt",
+      "bowl_t": "Scotland",
+      "v": "batsman",
+      "h2h": {
+        "balls": 16,
+        "runs": 25,
+        "dismissals": 0,
+        "strike_rate": 156.25
+      },
+      "vs_t": {
+        "runs": 63,
+        "balls": 45,
+        "dismissals": 3,
+        "average": 21.0,
+        "strike_rate": 140.0
+      },
+      "b_f": [
+        26,
+        60,
+        52
+      ],
+      "w_f": [
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "bat": "BJ McMullen",
+      "bat_t": "Scotland",
+      "bowl": "G Stewart",
+      "bowl_t": "Italy",
+      "v": "batsman",
+      "h2h": {
+        "balls": 15,
+        "runs": 20,
+        "dismissals": 0,
+        "strike_rate": 133.33
+      },
+      "vs_t": {
+        "runs": 137,
+        "balls": 71,
+        "dismissals": 2,
+        "average": 68.5,
+        "strike_rate": 192.96
+      },
+      "b_f": [
+        25,
+        0,
+        41
+      ],
+      "w_f": [
+        0,
+        2,
+        0
+      ]
+    },
+    {
+      "bat": "JT Smuts",
+      "bat_t": "Italy",
+      "bowl": "MA Leask",
+      "bowl_t": "Scotland",
+      "v": "neutral",
+      "h2h": {
+        "balls": 5,
+        "runs": 4,
+        "dismissals": 0,
+        "strike_rate": 80.0
+      },
+      "vs_t": {
+        "runs": 22,
+        "balls": 12,
+        "dismissals": 1,
+        "average": 22.0,
+        "strike_rate": 183.33
+      },
+      "b_car": {
+        "avg": 13.53,
+        "sr": 104.05
+      },
+      "b_f": [
+        24,
+        0,
+        22
+      ],
+      "w_f": [
+        3,
+        1,
+        4
+      ]
+    },
+    {
+      "bat": "AJ Mosca",
+      "bat_t": "Italy",
+      "bowl": "BJ Currie",
+      "bowl_t": "Scotland",
+      "v": "bowler",
+      "h2h": {
+        "balls": 15,
+        "runs": 12,
+        "dismissals": 0,
+        "strike_rate": 80.0
+      },
+      "vs_t": {
+        "runs": 25,
+        "balls": 24,
+        "dismissals": 2,
+        "average": 12.5,
+        "strike_rate": 104.17
+      },
+      "b_f": [
+        19,
+        0,
+        62
+      ],
+      "w_f": [
+        0,
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "HG Munsey",
+      "bat_t": "Scotland",
+      "bowl": "CJPF Kalugamage",
+      "bowl_t": "Italy",
+      "v": "bowler",
+      "h2h": {
+        "balls": 14,
+        "runs": 15,
+        "dismissals": 0,
+        "strike_rate": 107.14
+      },
+      "vs_t": {
+        "runs": 168,
+        "balls": 137,
+        "dismissals": 3,
+        "average": 56.0,
+        "strike_rate": 122.63
+      },
+      "b_f": [
+        27,
+        4,
+        84
+      ],
+      "w_f": [
+        2,
+        2,
+        3
+      ]
+    },
+    {
+      "bat": "HG Munsey",
+      "bat_t": "Scotland",
+      "bowl": "TJ Draca",
+      "bowl_t": "Italy",
+      "v": "batsman",
+      "h2h": {
+        "balls": 14,
+        "runs": 20,
+        "dismissals": 0,
+        "strike_rate": 142.86
+      },
+      "vs_t": {
+        "runs": 168,
+        "balls": 137,
+        "dismissals": 3,
+        "average": 56.0,
+        "strike_rate": 122.63
+      },
+      "b_f": [
+        27,
+        4,
+        84
+      ],
+      "w_f": [
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "JT Smuts",
+      "bat_t": "Italy",
+      "bowl": "BTJ Wheal",
+      "bowl_t": "Scotland",
+      "v": "neutral",
+      "h2h": {
+        "balls": 4,
+        "runs": 17,
+        "dismissals": 0,
+        "strike_rate": 425.0
+      },
+      "vs_t": {
+        "runs": 22,
+        "balls": 12,
+        "dismissals": 1,
+        "average": 22.0,
+        "strike_rate": 183.33
+      },
+      "b_car": {
+        "avg": 13.53,
+        "sr": 104.05
+      },
+      "b_f": [
+        24,
+        0,
+        22
+      ],
+      "w_f": [
+        0,
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "HG Munsey",
+      "bat_t": "Scotland",
+      "bowl": "Ali Hasan",
+      "bowl_t": "Italy",
+      "v": "bowler",
+      "h2h": {
+        "balls": 13,
+        "runs": 13,
+        "dismissals": 0,
+        "strike_rate": 100.0
+      },
+      "vs_t": {
+        "runs": 168,
+        "balls": 137,
+        "dismissals": 3,
+        "average": 56.0,
+        "strike_rate": 122.63
+      },
+      "b_f": [
+        27,
+        4,
+        84
+      ],
+      "w_f": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "BJ McMullen",
+      "bat_t": "Scotland",
+      "bowl": "BAD Manenti",
+      "bowl_t": "Italy",
+      "v": "batsman",
+      "h2h": {
+        "balls": 12,
+        "runs": 20,
+        "dismissals": 0,
+        "strike_rate": 166.67
+      },
+      "vs_t": {
+        "runs": 137,
+        "balls": 71,
+        "dismissals": 2,
+        "average": 68.5,
+        "strike_rate": 192.96
+      },
+      "b_f": [
+        25,
+        0,
+        41
+      ],
+      "w_f": [
+        2,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "HJ Manenti",
+      "bat_t": "Italy",
+      "bowl": "MRJ Watt",
+      "bowl_t": "Scotland",
+      "v": "bowler",
+      "h2h": {
+        "balls": 12,
+        "runs": 10,
+        "dismissals": 0,
+        "strike_rate": 83.33
+      },
+      "vs_t": {
+        "runs": 79,
+        "balls": 66,
+        "dismissals": 2,
+        "average": 39.5,
+        "strike_rate": 119.7
+      },
+      "b_f": [
+        8,
+        12,
+        37
+      ],
+      "w_f": [
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "bat": "RD Berrington",
+      "bat_t": "Scotland",
+      "bowl": "BAD Manenti",
+      "bowl_t": "Italy",
+      "v": "neutral",
+      "h2h": {
+        "balls": 10,
+        "runs": 12,
+        "dismissals": 0,
+        "strike_rate": 120.0
+      },
+      "vs_t": {
+        "runs": 61,
+        "balls": 50,
+        "dismissals": 1,
+        "average": 61.0,
+        "strike_rate": 122.0
+      },
+      "b_f": [
+        10,
+        49,
+        15
+      ],
+      "w_f": [
+        2,
+        1,
+        2
+      ]
+    },
+    {
+      "bat": "JT Smuts",
+      "bat_t": "Italy",
+      "bowl": "RD Berrington",
+      "bowl_t": "Scotland",
+      "v": "neutral",
+      "vs_t": {
+        "runs": 22,
+        "balls": 12,
+        "dismissals": 1,
+        "average": 22.0,
+        "strike_rate": 183.33
+      },
+      "b_car": {
+        "avg": 13.53,
+        "sr": 104.05
+      },
+      "b_f": [
+        24,
+        0,
+        22
+      ]
+    },
+    {
+      "bat": "JT Smuts",
+      "bat_t": "Italy",
+      "bowl": "MRJ Watt",
+      "bowl_t": "Scotland",
+      "v": "neutral",
+      "vs_t": {
+        "runs": 22,
+        "balls": 12,
+        "dismissals": 1,
+        "average": 22.0,
+        "strike_rate": 183.33
+      },
+      "b_car": {
+        "avg": 13.53,
+        "sr": 104.05
+      },
+      "b_f": [
+        24,
+        0,
+        22
+      ],
+      "w_f": [
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "bat": "JT Smuts",
+      "bat_t": "Italy",
+      "bowl": "MA Jones",
+      "bowl_t": "Scotland",
+      "v": "neutral",
+      "vs_t": {
+        "runs": 22,
+        "balls": 12,
+        "dismissals": 1,
+        "average": 22.0,
+        "strike_rate": 183.33
+      },
+      "b_car": {
+        "avg": 13.53,
+        "sr": 104.05
+      },
+      "b_f": [
+        24,
+        0,
+        22
+      ]
+    },
+    {
+      "bat": "JT Smuts",
+      "bat_t": "Italy",
+      "bowl": "TC Bruce",
+      "bowl_t": "Scotland",
+      "v": "neutral",
+      "vs_t": {
+        "runs": 22,
+        "balls": 12,
+        "dismissals": 1,
+        "average": 22.0,
+        "strike_rate": 183.33
+      },
+      "b_car": {
+        "avg": 13.53,
+        "sr": 104.05
+      },
+      "b_f": [
+        24,
+        0,
+        22
+      ]
+    },
+    {
+      "bat": "JT Smuts",
+      "bat_t": "Italy",
+      "bowl": "HG Munsey",
+      "bowl_t": "Scotland",
+      "v": "neutral",
+      "vs_t": {
+        "runs": 22,
+        "balls": 12,
+        "dismissals": 1,
+        "average": 22.0,
+        "strike_rate": 183.33
+      },
+      "b_car": {
+        "avg": 13.53,
+        "sr": 104.05
+      },
+      "b_f": [
+        24,
+        0,
+        22
+      ]
+    },
+    {
+      "bat": "JT Smuts",
+      "bat_t": "Italy",
+      "bowl": "O Davidson",
+      "bowl_t": "Scotland",
+      "v": "neutral",
+      "vs_t": {
+        "runs": 22,
+        "balls": 12,
+        "dismissals": 1,
+        "average": 22.0,
+        "strike_rate": 183.33
+      },
+      "b_car": {
+        "avg": 13.53,
+        "sr": 104.05
+      },
+      "b_f": [
+        24,
+        0,
+        22
+      ],
+      "w_f": [
+        0,
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "JT Smuts",
+      "bat_t": "Italy",
+      "bowl": "BJ McMullen",
+      "bowl_t": "Scotland",
+      "v": "neutral",
+      "vs_t": {
+        "runs": 22,
+        "balls": 12,
+        "dismissals": 1,
+        "average": 22.0,
+        "strike_rate": 183.33
+      },
+      "b_car": {
+        "avg": 13.53,
+        "sr": 104.05
+      },
+      "b_f": [
+        24,
+        0,
+        22
+      ],
+      "w_f": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "RD Berrington",
+      "bat_t": "Scotland",
+      "bowl": "HJ Manenti",
+      "bowl_t": "Italy",
+      "v": "neutral",
+      "h2h": {
+        "balls": 9,
+        "runs": 5,
+        "dismissals": 0,
+        "strike_rate": 55.56
+      },
+      "vs_t": {
+        "runs": 61,
+        "balls": 50,
+        "dismissals": 1,
+        "average": 61.0,
+        "strike_rate": 122.0
+      },
+      "b_f": [
+        10,
+        49,
+        15
+      ],
+      "w_f": [
+        0
+      ]
+    },
+    {
+      "bat": "BJ McMullen",
+      "bat_t": "Scotland",
+      "bowl": "CJPF Kalugamage",
+      "bowl_t": "Italy",
+      "v": "batsman",
+      "h2h": {
+        "balls": 9,
+        "runs": 31,
+        "dismissals": 0,
+        "strike_rate": 344.44
+      },
+      "vs_t": {
+        "runs": 137,
+        "balls": 71,
+        "dismissals": 2,
+        "average": 68.5,
+        "strike_rate": 192.96
+      },
+      "b_f": [
+        25,
+        0,
+        41
+      ],
+      "w_f": [
+        2,
+        2,
+        3
+      ]
+    },
+    {
+      "bat": "HJ Manenti",
+      "bat_t": "Italy",
+      "bowl": "O Davidson",
+      "bowl_t": "Scotland",
+      "v": "batsman",
+      "h2h": {
+        "balls": 9,
+        "runs": 18,
+        "dismissals": 0,
+        "strike_rate": 200.0
+      },
+      "vs_t": {
+        "runs": 79,
+        "balls": 66,
+        "dismissals": 2,
+        "average": 39.5,
+        "strike_rate": 119.7
+      },
+      "b_f": [
+        8,
+        12,
+        37
+      ],
+      "w_f": [
+        0,
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "RD Berrington",
+      "bat_t": "Scotland",
+      "bowl": "G Stewart",
+      "bowl_t": "Italy",
+      "v": "neutral",
+      "h2h": {
+        "balls": 8,
+        "runs": 10,
+        "dismissals": 0,
+        "strike_rate": 125.0
+      },
+      "vs_t": {
+        "runs": 61,
+        "balls": 50,
+        "dismissals": 1,
+        "average": 61.0,
+        "strike_rate": 122.0
+      },
+      "b_f": [
+        10,
+        49,
+        15
+      ],
+      "w_f": [
+        0,
+        2,
+        0
+      ]
+    },
+    {
+      "bat": "G Stewart",
+      "bat_t": "Italy",
+      "bowl": "BJ Currie",
+      "bowl_t": "Scotland",
+      "v": "batsman",
+      "h2h": {
+        "balls": 8,
+        "runs": 13,
+        "dismissals": 0,
+        "strike_rate": 162.5
+      },
+      "vs_t": {
+        "runs": 87,
+        "balls": 54,
+        "dismissals": 2,
+        "average": 43.5,
+        "strike_rate": 161.11
+      },
+      "b_f": [
+        12,
+        45,
+        2
+      ],
+      "w_f": [
+        0,
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "HJ Manenti",
+      "bat_t": "Italy",
+      "bowl": "BJ McMullen",
+      "bowl_t": "Scotland",
+      "v": "bowler",
+      "h2h": {
+        "balls": 8,
+        "runs": 10,
+        "dismissals": 0,
+        "strike_rate": 125.0
+      },
+      "vs_t": {
+        "runs": 79,
+        "balls": 66,
+        "dismissals": 2,
+        "average": 39.5,
+        "strike_rate": 119.7
+      },
+      "b_f": [
+        8,
+        12,
+        37
+      ],
+      "w_f": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "bat": "RD Berrington",
+      "bat_t": "Scotland",
+      "bowl": "CJPF Kalugamage",
+      "bowl_t": "Italy",
+      "v": "batsman",
+      "h2h": {
+        "balls": 7,
+        "runs": 16,
+        "dismissals": 0,
+        "strike_rate": 228.57
+      },
+      "vs_t": {
+        "runs": 61,
+        "balls": 50,
+        "dismissals": 1,
+        "average": 61.0,
+        "strike_rate": 122.0
+      },
+      "b_f": [
+        10,
+        49,
+        15
+      ],
+      "w_f": [
+        2,
+        2,
+        3
+      ]
+    },
+    {
+      "bat": "MA Jones",
+      "bat_t": "Scotland",
+      "bowl": "G Stewart",
+      "bowl_t": "Italy",
+      "v": "batsman",
+      "h2h": {
+        "balls": 7,
+        "runs": 10,
+        "dismissals": 0,
+        "strike_rate": 142.86
+      },
+      "vs_t": {
+        "runs": 37,
+        "balls": 31,
+        "dismissals": 1,
+        "average": 37.0,
+        "strike_rate": 119.35
+      },
+      "b_f": [
+        71,
+        33,
+        37
+      ],
+      "w_f": [
+        0,
+        2,
+        0
+      ]
+    },
+    {
+      "bat": "MA Leask",
+      "bat_t": "Scotland",
+      "bowl": "G Stewart",
+      "bowl_t": "Italy",
+      "v": "neutral",
+      "h2h": {
+        "balls": 6,
+        "runs": 4,
+        "dismissals": 0,
+        "strike_rate": 66.67
+      },
+      "vs_t": {
+        "runs": 29,
+        "balls": 14,
+        "dismissals": 1,
+        "average": 29.0,
+        "strike_rate": 207.14
+      },
+      "b_f": [
+        4,
+        1,
+        22
+      ],
+      "w_f": [
+        0,
+        2,
+        0
+      ]
+    },
+    {
+      "bat": "BJ McMullen",
+      "bat_t": "Scotland",
+      "bowl": "JT Smuts",
+      "bowl_t": "Italy",
+      "v": "batsman",
+      "h2h": {
+        "balls": 6,
+        "runs": 11,
+        "dismissals": 0,
+        "strike_rate": 183.33
+      },
+      "vs_t": {
+        "runs": 137,
+        "balls": 71,
+        "dismissals": 2,
+        "average": 68.5,
+        "strike_rate": 192.96
+      },
+      "b_f": [
+        25,
+        0,
+        41
+      ],
+      "w_f": [
+        0,
+        1,
+        1
+      ]
+    },
+    {
+      "bat": "J Mosca",
+      "bat_t": "Italy",
+      "bowl": "MRJ Watt",
+      "bowl_t": "Scotland",
+      "v": "bowler",
+      "h2h": {
+        "balls": 6,
+        "runs": 5,
+        "dismissals": 0,
+        "strike_rate": 83.33
+      },
+      "vs_t": {
+        "runs": 17,
+        "balls": 22,
+        "dismissals": 3,
+        "average": 5.67,
+        "strike_rate": 77.27
+      },
+      "b_f": [
+        2,
+        43,
+        60
+      ],
+      "w_f": [
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "bat": "BAD Manenti",
+      "bat_t": "Italy",
+      "bowl": "MA Leask",
+      "bowl_t": "Scotland",
+      "v": "bowler",
+      "h2h": {
+        "balls": 6,
+        "runs": 7,
+        "dismissals": 0,
+        "strike_rate": 116.67
+      },
+      "vs_t": {
+        "runs": 63,
+        "balls": 45,
+        "dismissals": 3,
+        "average": 21.0,
+        "strike_rate": 140.0
+      },
+      "b_f": [
+        26,
+        60,
+        52
+      ],
+      "w_f": [
+        3,
+        1,
+        4
+      ]
+    }
+  ]
+}
