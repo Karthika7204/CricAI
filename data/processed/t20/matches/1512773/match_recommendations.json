@@ -1,0 +1,41 @@
+{
+  "match_id": "1512773",
+  "generated_at": "2026-03-15T21:11:02.959533",
+  "recommendations": {
+    "Strategic Adjustments": [
+      "Maintain aggressive Powerplay batting strategy, targeting 15+ RPO, as India's 92/0 in the Powerplay was foundational to the high total.",
+      "New Zealand must prioritize Powerplay wicket retention and foundational run-scoring; losing 3 wickets for 52 runs in the Powerplay critically undermined the chase.",
+      "India's death overs batting needs optimization; while 52 runs were scored, losing 4 wickets indicates a need to balance aggression with more strategic wicket preservation for stronger finishes."
+    ],
+    "Batting Optimization": [
+      "New Zealand must develop clear contingency plans for high-pressure chases (Pressure Index 90.0), focusing on managing required run rate spikes without compromising wicket stability.",
+      "Implement targeted training for New Zealand's Powerplay batting under pressure, improving shot selection against high-economy-delta bowlers to avoid early collapses.",
+      "India should integrate data-driven matchups for death-over hitting, ensuring optimal batters face specific bowlers to maximize scoring while minimizing wicket loss, given 4 fell in that phase."
+    ],
+    "Bowling Optimization": [
+      "India must strategically leverage Abhishek Sharma and JJ Bumrah in critical phases. Their significant economy deltas (-3.87 and -3.1) confirm their reliability and wicket-taking ability under pressure.",
+      "Address CV Varun's high economy (14.33, +6.97 delta). Review his role, field placements, or variations under high-scoring conditions to mitigate similar expensive spells.",
+      "New Zealand requires a re-evaluation of its bowling attack composition or strategy against aggressive batting, as LH Ferguson (24.0 Econ) and R Ravindra (16.0 Econ) were excessively expensive."
+    ],
+    "Player Role Recommendations": [
+      "Designate Abhishek Sharma as a primary spin option for India, given his exceptional match economy (5.0) significantly below his career average, indicating strong current form and tactical value.",
+      "New Zealand needs to identify and develop a specialized death-overs bowler, as their inability to contain India's scoring (52 runs) in that phase highlights a critical gap.",
+      "India should continue empowering SV Samson as a cornerstone middle-order anchor-aggressor (contributing 34.9% of team runs) while exploring optimal batting partners for strike rotation efficiency."
+    ],
+    "Pressure Management Insights": [
+      "New Zealand must develop specific strategies for mitigating extreme chase pressure, as a Pressure Index of 90.0 directly correlated with their late-innings collapse (4 wickets for 20 runs in Death phase).",
+      "Implement drills for New Zealand focusing on decision-making under high required run rate scenarios, particularly in the Powerplay, to prevent early wicket losses.",
+      "India should maintain disciplined bowling lines and lengths when the opposition is under high pressure, as exemplified by JJ Bumrah's impact (150.0) in sustaining defensive pressure."
+    ],
+    "Risk Alerts": [
+      "New Zealand's excessive reliance on high-risk boundary options early in a chase led to 3 Powerplay wicket losses, indicating an unsustainable approach against a high target.",
+      "India faces a potential over-reliance on top-order run contributions; while effective here, cultivating deeper middle-order contributions is crucial for consistent performance.",
+      "CV Varun represents a specific bowler vulnerability for India under high run-rate pressure, with an economy delta of +6.97 making him a potential target for opposition batters."
+    ],
+    "Future Preparation Focus": [
+      "New Zealand should undertake intensive practice against high-quality death bowling, mimicking match scenarios with steep required rates to build resilience and effective shot selection.",
+      "India must focus on maintaining high-intensity bowling performance from core pacers and primary spinners (Bumrah, Abhishek, Patel), as their consistency is a significant match-winning factor.",
+      "New Zealand should invest in scouted data for opposition bowlers to identify specific targets and develop strategies to minimize the impact of highly economical spells, such as Bumrah's 3.75 economy."
+    ]
+  }
+}

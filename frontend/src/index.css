@@ -5,35 +5,148 @@
 @tailwind utilities;
 
 @layer base {
+  :root {
+    --accent-rgb: 0, 212, 255;
+    --primary-glow: 0 0 20px rgba(102, 252, 241, 0.3);
+    --secondary-glow: 0 0 40px rgba(69, 162, 158, 0.1);
+  }
   body {
-    @apply bg-background text-text font-inter selection:bg-primary selection:text-background;
+    @apply bg-background text-text font-inter selection:bg-primary selection:text-background overflow-x-hidden;
   }
 }
 
 @layer components {
   .glass-card {
-    @apply bg-card backdrop-blur-md border border-white/10 rounded-2xl transition-all duration-300;
+    @apply bg-[#0a1128]/80 backdrop-blur-xl border border-white/10 rounded-3xl transition-all duration-500 relative overflow-hidden;
+    box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.4);
   }
   
   .glass-card:hover {
-    @apply border-primary/30 shadow-neon;
+    @apply border-primary/30 ring-1 ring-primary/20;
+    box-shadow: 0 0 30px rgba(0, 245, 196, 0.1);
   }
 
   .btn-primary {
-    @apply bg-primary text-background font-bold px-6 py-2 rounded-xl transition-all duration-300 hover:scale-105 active:scale-95 hover:shadow-neon;
+    @apply bg-primary text-background font-black uppercase tracking-tighter px-8 py-3 rounded-xl transition-all duration-300 hover:scale-105 active:scale-95 hover:shadow-neon flex items-center justify-center gap-2;
   }
 
   .nav-link {
-    @apply text-text/70 hover:text-primary transition-colors duration-200 font-medium;
+    @apply text-text/70 hover:text-primary transition-all duration-300 font-bold uppercase tracking-widest text-[10px];
+  }
+
+  /* Holographic Effects */
+  .holographic-glow {
+    position: relative;
+  }
+  .holographic-glow::after {
+    content: '';
+    position: absolute;
+    inset: -1px;
+    background: linear-gradient(45deg, transparent, rgba(102, 252, 241, 0.2), transparent);
+    z-index: -1;
+    filter: blur(5px);
+    opacity: 0;
+    transition: opacity 0.5s;
+  }
+  .holographic-glow:hover::after {
+    opacity: 1;
+  }
+
+  /* Scanning Animation */
+  .scanning-bar {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 2px;
+    background: linear-gradient(90deg, transparent, var(--primary), transparent);
+    animation: scan 3s linear infinite;
+    z-index: 20;
+    box-shadow: 0 0 15px var(--primary);
+  }
+
+  /* 3D Perspective Utilities */
+  .perspective-1000 {
+    perspective: 1000px;
+  }
+  .preserve-3d {
+    transform-style: preserve-3d;
+  }
+  .tilt-card {
+    transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  }
+  .tilt-card:hover {
+    transform: rotateX(5deg) rotateY(5deg) translateZ(20px);
   }
 }
 
-/* Custom Animations */
-@keyframes pulse-neon {
-  0%, 100% { box-shadow: 0 0 5px rgba(102, 252, 241, 0.2); }
-  50% { box-shadow: 0 0 20px rgba(102, 252, 241, 0.5); }
+/* Dynamic Hub Background - Professional Bluish Theme */
+.mesh-gradient {
+  background-color: #020617;
+  position: fixed;
+  inset: 0;
+  z-index: -10;
+  overflow: hidden;
 }
 
-.animate-pulse-neon {
-  animation: pulse-neon 2s infinite;
+.mesh-gradient::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background-image: 
+    linear-gradient(rgba(59, 130, 246, 0.04) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(59, 130, 246, 0.04) 1px, transparent 1px);
+  background-size: 50px 50px;
+  animation: grid-scroll 40s linear infinite;
+  z-index: -5;
+  opacity: 0.5;
+}
+
+.mesh-gradient::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 200px;
+  background: linear-gradient(to bottom, transparent, rgba(0, 245, 196, 0.04), transparent);
+  animation: scan-line 15s linear infinite;
+  pointer-events: none;
+  z-index: -2;
+}
+
+/* Custom Keyframes */
+@keyframes grid-scroll {
+  from { background-position: 0 0; }
+  to { background-position: 50px 50px; }
+}
+
+@keyframes bg-pulse {
+  0%, 100% { opacity: 0.3; transform: scale(1); }
+  50% { opacity: 0.6; transform: scale(1.02); }
+}
+
+@keyframes scan-line {
+  0% { transform: translateY(-100%); }
+  100% { transform: translateY(100vh); }
+}
+
+@keyframes scan {
+  from { transform: translateY(-100%); }
+  to { transform: translateY(100vh); }
+}
+
+@keyframes float-nexus {
+  0%, 100% { transform: translateY(0) rotate(0deg); }
+  50% { transform: translateY(-20px) rotate(2deg); }
+}
+
+.animate-nexus {
+  animation: float-nexus 10s ease-in-out infinite;
+}
+
+.data-grid {
+  background-image: linear-gradient(rgba(59, 130, 246, 0.04) 1px, transparent 1px),
+                    linear-gradient(90deg, rgba(59, 130, 246, 0.04) 1px, transparent 1px);
+  background-size: 50px 50px;
 }

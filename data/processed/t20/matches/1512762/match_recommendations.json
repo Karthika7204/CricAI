@@ -1,0 +1,42 @@
+{
+  "match_id": "1512762",
+  "generated_at": "2026-03-15T21:39:18.086947",
+  "recommendations": {
+    "Strategic Adjustments": [
+      "Zimbabwe failed to contain West Indies' scoring in the middle (RR 13.78) and death (RR 15.0) phases. A revised bowling strategy integrating more defensive field settings or rotation of primary bowlers is essential during these periods.",
+      "Zimbabwe's Powerplay chase (RR 7.83 with 3 wickets lost) was inadequate for a 255-run target. Implement a more aggressive, yet wicket-preserving, Powerplay batting strategy to maintain a viable required run rate.",
+      "West Indies successfully sustained high run rates across all phases, particularly in the middle and death overs, exploiting bowling weaknesses. Maintain this aggressive batting template against opposition with limited bowling depth."
+    ],
+    "Batting Optimization": [
+      "West Indies' middle-overs acceleration (124 runs for 1 wicket, RR 13.78) was pivotal. Focus on consistently identifying and targeting specific opposition bowlers in this phase to maximize scoring opportunities.",
+      "Zimbabwe's Powerplay collapse (47 runs, 3 wickets) negated any chase momentum. Prioritize establishing stable partnerships and minimizing early wicket loss to construct a foundation for large targets.",
+      "Despite the overall collapse, Zimbabwe's death-overs run rate (RR 14.25) indicates latent hitting potential. Strategically position power hitters to capitalize on the final overs, regardless of the match situation."
+    ],
+    "Bowling Optimization": [
+      "West Indies' bowlers, particularly G Motie (4w) and AJ Hosein (3w), effectively stifled Zimbabwe's chase by taking crucial wickets in the Powerplay and Middle Overs. Emphasize consistent wicket-taking aggression in these phases.",
+      "Zimbabwe's bowling unit allowed excessive leakage, with D Myers (Econ 19.0) and Sikandar Raza (Econ 17.33) being highly expensive. A critical review of bowling plans and personnel changes for high-pressure situations is required.",
+      "Focus Zimbabwe's bowling efforts on restricting run flow and inducing false shots during the opposition's middle-overs acceleration phase, where West Indies scored 124 runs from just 9 overs."
+    ],
+    "Player Role Recommendations": [
+      "SO Hetmyer (85 off 38) and R Powell (59 off 37) demonstrated significant impact for West Indies. Ensure their optimal positioning in the batting order to maximize their contribution over a longer duration.",
+      "G Motie (impact 148.41) and AJ Hosein (impact 118.41) are proven wicket-takers for West Indies. Utilize them strategically in critical phases, including Powerplay and middle-overs, to break partnerships and build pressure.",
+      "Zimbabwe must reconsider the deployment of bowlers with high economy rates like D Myers and Sikandar Raza. Explore alternative bowling options or limit their overs in high-scoring scenarios."
+    ],
+    "Pressure Management Insights": [
+      "Zimbabwe's extreme chase pressure index (89.0) directly contributed to their collapse. Implement targeted training to simulate high-target chase scenarios, focusing on decision-making under severe run-rate demands.",
+      "West Indies' sustained bowling pressure, evidenced by Motie's impact, was effective. Maintain aggressive field settings and a wicket-taking mentality when defending large totals to compound opposition pressure.",
+      "Zimbabwe's loss of 3 Powerplay wickets immediately escalated chase pressure. Develop a revised Powerplay approach balancing calculated aggression with meticulous wicket preservation to mitigate early collapse risks."
+    ],
+    "Risk Alerts": [
+      "Zimbabwe's significant bowling vulnerability is highlighted by D Myers (19.0 Econ) and Sikandar Raza (17.33 Econ). This high-cost bowling repeatedly jeopardizes containment efforts and reduces strategic flexibility.",
+      "The consistent Powerplay collapse (3 wickets for 47 runs) is a critical risk for Zimbabwe. This pattern prevents foundational stability in chases and requires immediate tactical and personnel reassessment.",
+      "While West Indies' death-overs hitting was potent (RR 15.0), losing 3 wickets indicates a marginal risk in wicket preservation during the final acceleration phase. Optimize risk assessment for maximum returns with minimal loss."
+    ],
+    "Future Preparation Focus": [
+      "Zimbabwe must develop specific bowling and fielding strategies to counter opposition middle-over acceleration, given West Indies' dominant 13.78 run rate in this phase.",
+      "Conduct extensive scenario-based training for Zimbabwe, simulating chases of 250+ totals, emphasizing structured Powerplay approaches and stable middle-overs partnership building.",
+      "West Indies should continue refining death-overs batting strategies, balancing aggressive run-scoring with minimizing wicket loss to consistently maximize final totals.",
+      "Zimbabwe needs to identify and nurture additional bowling talent to provide greater depth and control, particularly for containing high-impact batsmen during all phases of the innings."
+    ]
+  }
+}

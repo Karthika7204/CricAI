@@ -1,0 +1,42 @@
+{
+  "match_id": "1512764",
+  "generated_at": "2026-03-15T21:36:38.520236",
+  "recommendations": {
+    "Strategic Adjustments": [
+      "Sri Lanka's Powerplay run rate of 3.33 was critically insufficient for a 169-run target; a more aggressive, calculated approach is required to prevent early pressure accumulation.",
+      "New Zealand's Death Overs acceleration (15.6 RR, 78 runs for 1 wicket) highlights a significant vulnerability in Sri Lanka's end-overs bowling strategy, demanding immediate re-evaluation of plans and execution.",
+      "Sri Lanka's boundary frequency (one every 13.3 balls) is unsustainable for T20 chases; a strategic shift to prioritize boundary-hitting opportunities is necessary to maintain required run rate."
+    ],
+    "Batting Optimization": [
+      "Sri Lanka's top order must increase Powerplay scoring intent. An output of 20/2 in the Powerplay (vs NZ's 44/2) dictates a failure to capitalize on fielding restrictions and set a foundational chase.",
+      "Improve middle-overs strike rotation and boundary conversion. The 6.33 RR with 5 wickets down indicates a lack of fluency and sustained pressure absorption.",
+      "Identify specific batters capable of consistent boundary striking against various bowling types to address the overall boundary drought (1 every 13.3 balls)."
+    ],
+    "Bowling Optimization": [
+      "Sri Lanka's death bowling requires immediate tactical overhaul. Allowing New Zealand to score at 15.6 runs per over in the death phase led directly to an unchaseable total.",
+      "Analyze and mitigate the high economy rates of D Madushanka (11.33) and MADI Hemantha (11.0). This requires review of their specific lines, lengths, and match-up effectiveness.",
+      "Maximize the impact of effective wicket-takers like M Theekshana (3/30) and PVD Chameera (3/38) by strategically deploying their overs during critical partnership-breaking phases."
+    ],
+    "Player Role Recommendations": [
+      "Sri Lanka needs designated Powerplay aggressors in the top order to elevate the initial scoring trajectory beyond 3.33 RR.",
+      "Develop a robust middle-order anchor-hitter role similar to MJ Santner (28% of NZ's runs) to stabilize and accelerate, particularly under chase pressure.",
+      "Strategically deploy high-impact bowlers like MJ Henry (148.71) and R Ravindra (139.71) in opposition to key batting pairs to maximize wicket-taking opportunities."
+    ],
+    "Pressure Management Insights": [
+      "Sri Lanka's high chase pressure index (84.0) directly correlates with the late-innings collapse; implement targeted mental resilience training for high-RPO scenarios.",
+      "The inability to consistently find boundaries exacerbated pressure. Integrate boundary-hitting simulations under escalating run rate demands.",
+      "Establish clear communication and tactical adjustments within batting partnerships to manage dot ball accumulation and prevent pressure from compounding."
+    ],
+    "Risk Alerts": [
+      "Sri Lanka's consistently low Powerplay scoring creates a critical structural weakness, making large chases extremely difficult due to the immediate build-up of required run rate pressure.",
+      "The high economy rates from bowlers like D Madushanka and MADI Hemantha expose a potential depth issue or specific match-up vulnerability within the bowling unit.",
+      "An over-reliance on individual brilliance for boundaries, coupled with poor strike rotation, leads to increased dot ball percentages and unsustainable pressure in the middle overs."
+    ],
+    "Future Preparation Focus": [
+      "Develop adaptive Powerplay batting plans that incorporate calculated risk assessment to balance boundary hitting with wicket preservation.",
+      "Implement specific death bowling drills focused on restricting power hitters and executing variations under extreme pressure, directly addressing the 15.6 RR conceded.",
+      "Integrate data-driven match-up analysis into pre-match strategy for both batting and bowling units to optimize player deployment and exploit opposition weaknesses.",
+      "Focus on mental conditioning and scenario-based training for run chases, specifically addressing composure under high-pressure indexes and maintaining boundary frequency."
+    ]
+  }
+}

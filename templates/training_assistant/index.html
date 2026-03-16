@@ -1,0 +1,534 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Player Training Assistant | Cricket AI</title>
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;600;700;900&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <style>
+        :root {
+            --neon: #00f5c4;
+            --neon2: #7b61ff;
+            --gold: #ffd700;
+            --danger: #ff4a6e;
+            --bg: #050b14;
+            --card-bg: rgba(10, 20, 35, 0.92);
+            --border: rgba(0, 245, 196, 0.18);
+            --text: #e8f4ff;
+            --muted: #6b8fa8;
+        }
+
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+
+        body {
+            font-family: 'Inter', sans-serif;
+            background: var(--bg);
+            color: var(--text);
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            overflow: hidden;
+            position: relative;
+        }
+
+        /* Animated cricket field background */
+        .bg-scene {
+            position: fixed;
+            inset: 0;
+            z-index: 0;
+            overflow: hidden;
+        }
+
+        .bg-scene::before {
+            content: '';
+            position: absolute;
+            inset: 0;
+            background:
+                radial-gradient(ellipse 80% 60% at 50% 110%, rgba(0,245,196,0.08) 0%, transparent 70%),
+                radial-gradient(ellipse 60% 40% at 20% 20%, rgba(123,97,255,0.07) 0%, transparent 60%),
+                radial-gradient(ellipse 60% 40% at 80% 80%, rgba(0,180,255,0.06) 0%, transparent 60%);
+        }
+
+        /* Floating orbs */
+        .orb {
+            position: absolute;
+            border-radius: 50%;
+            filter: blur(60px);
+            opacity: 0.15;
+            animation: floatOrb 8s ease-in-out infinite;
+        }
+        .orb1 { width: 400px; height: 400px; background: var(--neon); top: -100px; left: -100px; animation-delay: 0s; }
+        .orb2 { width: 300px; height: 300px; background: var(--neon2); bottom: -80px; right: -80px; animation-delay: -3s; }
+        .orb3 { width: 200px; height: 200px; background: var(--gold); top: 40%; left: 60%; animation-delay: -5s; }
+
+        @keyframes floatOrb {
+            0%, 100% { transform: translate(0, 0) scale(1); }
+            33% { transform: translate(30px, -30px) scale(1.05); }
+            66% { transform: translate(-20px, 20px) scale(0.95); }
+        }
+
+        /* Grid lines */
+        .grid-lines {
+            position: absolute;
+            inset: 0;
+            background-image:
+                linear-gradient(rgba(0,245,196,0.03) 1px, transparent 1px),
+                linear-gradient(90deg, rgba(0,245,196,0.03) 1px, transparent 1px);
+            background-size: 60px 60px;
+        }
+
+        /* Cricket ball particles */
+        .particle {
+            position: absolute;
+            width: 6px; height: 6px;
+            border-radius: 50%;
+            background: var(--neon);
+            opacity: 0;
+            animation: particleFly 6s linear infinite;
+        }
+        @keyframes particleFly {
+            0% { opacity: 0; transform: translateY(100vh) scale(0); }
+            10% { opacity: 0.6; }
+            90% { opacity: 0.3; }
+            100% { opacity: 0; transform: translateY(-20px) scale(1.5); }
+        }
+
+        /* Main card */
+        .card-wrapper {
+            position: relative;
+            z-index: 10;
+            width: 100%;
+            max-width: 520px;
+            padding: 20px;
+        }
+
+        /* Top cricket icon badge */
+        .cricket-badge {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin-bottom: 20px;
+            gap: 12px;
+        }
+        .badge-icon {
+            width: 56px; height: 56px;
+            background: linear-gradient(135deg, var(--neon), #00a86b);
+            border-radius: 16px;
+            display: flex; align-items: center; justify-content: center;
+            font-size: 1.8rem;
+            box-shadow: 0 0 30px rgba(0,245,196,0.4), inset 0 1px 0 rgba(255,255,255,0.2);
+            animation: pulseBadge 3s ease-in-out infinite;
+        }
+        @keyframes pulseBadge {
+            0%, 100% { box-shadow: 0 0 30px rgba(0,245,196,0.4), inset 0 1px 0 rgba(255,255,255,0.2); }
+            50% { box-shadow: 0 0 50px rgba(0,245,196,0.7), inset 0 1px 0 rgba(255,255,255,0.2); }
+        }
+        .badge-text {
+            font-family: 'Orbitron', monospace;
+            font-size: 0.75rem;
+            font-weight: 600;
+            color: var(--neon);
+            letter-spacing: 3px;
+            text-transform: uppercase;
+        }
+
+        .main-card {
+            background: var(--card-bg);
+            border: 1px solid var(--border);
+            border-radius: 28px;
+            padding: 42px 44px;
+            backdrop-filter: blur(20px);
+            box-shadow:
+                0 0 0 1px rgba(0,245,196,0.05),
+                0 20px 60px rgba(0,0,0,0.5),
+                inset 0 1px 0 rgba(255,255,255,0.05);
+            position: relative;
+            overflow: hidden;
+        }
+
+        .main-card::before {
+            content: '';
+            position: absolute;
+            top: 0; left: 0; right: 0;
+            height: 2px;
+            background: linear-gradient(90deg, transparent, var(--neon), var(--neon2), transparent);
+            animation: shimmer 3s linear infinite;
+        }
+        @keyframes shimmer {
+            0% { opacity: 0.4; }
+            50% { opacity: 1; }
+            100% { opacity: 0.4; }
+        }
+
+        /* Heading */
+        .main-title {
+            font-family: 'Orbitron', monospace;
+            font-size: 1.75rem;
+            font-weight: 900;
+            text-align: center;
+            background: linear-gradient(135deg, #ffffff 0%, var(--neon) 50%, #00a8ff 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            line-height: 1.3;
+            margin-bottom: 6px;
+            letter-spacing: -0.5px;
+        }
+
+        .main-subtitle {
+            text-align: center;
+            color: var(--muted);
+            font-size: 0.88rem;
+            margin-bottom: 36px;
+            font-weight: 400;
+        }
+
+        /* Divider with cricket stumps */
+        .divider {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            margin-bottom: 30px;
+        }
+        .divider-line { flex: 1; height: 1px; background: var(--border); }
+        .divider-icon { color: var(--neon); font-size: 0.8rem; opacity: 0.7; }
+
+        /* Error */
+        .error-alert {
+            background: rgba(255, 74, 110, 0.1);
+            border: 1px solid rgba(255,74,110,0.3);
+            border-radius: 12px;
+            padding: 14px 16px;
+            margin-bottom: 20px;
+            display: flex; align-items: center; gap: 10px;
+            color: #ff7a96;
+            font-size: 0.9rem;
+            animation: slideIn 0.3s ease;
+        }
+        @keyframes slideIn {
+            from { transform: translateY(-10px); opacity: 0; }
+            to { transform: translateY(0); opacity: 1; }
+        }
+
+        /* Form */
+        .form-group {
+            display: flex;
+            flex-direction: column;
+            gap: 6px;
+            margin-bottom: 20px;
+        }
+        .form-label {
+            font-size: 0.78rem;
+            font-weight: 600;
+            color: var(--neon);
+            letter-spacing: 1px;
+            text-transform: uppercase;
+            display: flex; align-items: center; gap: 8px;
+        }
+        .form-label i { font-size: 0.85rem; opacity: 0.8; }
+
+        .form-control {
+            width: 100%;
+            padding: 14px 18px;
+            background: rgba(255,255,255,0.04);
+            border: 1px solid rgba(0,245,196,0.2);
+            border-radius: 14px;
+            color: var(--text);
+            font-size: 0.95rem;
+            font-family: 'Inter', sans-serif;
+            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+            outline: none;
+            appearance: none;
+            -webkit-appearance: none;
+            cursor: pointer;
+            position: relative;
+        }
+        .form-control:hover {
+            border-color: rgba(0,245,196,0.4);
+            background: rgba(255,255,255,0.06);
+        }
+        .form-control:focus {
+            border-color: var(--neon);
+            background: rgba(0,245,196,0.05);
+            box-shadow: 0 0 0 3px rgba(0,245,196,0.12), 0 0 20px rgba(0,245,196,0.08);
+        }
+        .form-control option {
+            background: #0d1f35;
+            color: var(--text);
+        }
+        .form-control:disabled {
+            opacity: 0.4;
+            cursor: not-allowed;
+        }
+
+        /* Select wrapper with arrow */
+        .select-wrapper {
+            position: relative;
+        }
+        .select-wrapper::after {
+            content: '\f107';
+            font-family: 'Font Awesome 6 Free';
+            font-weight: 900;
+            position: absolute;
+            right: 16px;
+            top: 50%;
+            transform: translateY(-50%);
+            color: var(--neon);
+            pointer-events: none;
+            font-size: 0.9rem;
+            transition: transform 0.3s ease;
+        }
+        .select-wrapper.open::after {
+            transform: translateY(-50%) rotate(180deg);
+        }
+
+        /* Player loading indicator */
+        .loading-dot {
+            display: none;
+            width: 8px; height: 8px;
+            background: var(--neon);
+            border-radius: 50%;
+            animation: blink 0.8s ease-in-out infinite;
+        }
+        @keyframes blink {
+            0%, 100% { opacity: 1; transform: scale(1); }
+            50% { opacity: 0.3; transform: scale(0.7); }
+        }
+
+        /* Player count badge */
+        .player-count {
+            display: none;
+            background: rgba(0,245,196,0.12);
+            color: var(--neon);
+            border-radius: 20px;
+            padding: 2px 10px;
+            font-size: 0.75rem;
+            font-weight: 600;
+            margin-left: auto;
+        }
+
+        /* Submit button */
+        .btn-analyze {
+            width: 100%;
+            padding: 16px;
+            background: linear-gradient(135deg, var(--neon) 0%, #00a86b 40%, var(--neon2) 100%);
+            border: none;
+            border-radius: 14px;
+            color: #050b14;
+            font-size: 1rem;
+            font-weight: 700;
+            font-family: 'Inter', sans-serif;
+            letter-spacing: 0.5px;
+            cursor: pointer;
+            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+            position: relative;
+            overflow: hidden;
+            box-shadow: 0 4px 20px rgba(0,245,196,0.25);
+            margin-top: 8px;
+        }
+        .btn-analyze::before {
+            content: '';
+            position: absolute;
+            inset: 0;
+            background: linear-gradient(135deg, rgba(255,255,255,0.2) 0%, transparent 50%);
+            opacity: 0;
+            transition: opacity 0.3s;
+        }
+        .btn-analyze:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 8px 35px rgba(0,245,196,0.45);
+        }
+        .btn-analyze:hover::before { opacity: 1; }
+        .btn-analyze:active { transform: translateY(0); }
+        .btn-analyze i { margin-right: 8px; }
+
+        /* Stats strip */
+        .stats-strip {
+            display: flex;
+            gap: 16px;
+            margin-top: 28px;
+            padding-top: 24px;
+            border-top: 1px solid var(--border);
+        }
+        .stat-item {
+            flex: 1;
+            text-align: center;
+        }
+        .stat-num {
+            font-family: 'Orbitron', monospace;
+            font-size: 1.1rem;
+            font-weight: 700;
+            color: var(--neon);
+            display: block;
+        }
+        .stat-label {
+            font-size: 0.7rem;
+            color: var(--muted);
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            margin-top: 2px;
+        }
+
+        @media (max-width: 560px) {
+            .main-card { padding: 30px 24px; }
+            .main-title { font-size: 1.4rem; }
+        }
+    </style>
+</head>
+<body>
+
+<div class="bg-scene">
+    <div class="grid-lines"></div>
+    <div class="orb orb1"></div>
+    <div class="orb orb2"></div>
+    <div class="orb orb3"></div>
+    <!-- Particles -->
+    <div class="particle" style="left:10%;animation-delay:0s;animation-duration:7s;"></div>
+    <div class="particle" style="left:25%;animation-delay:1.5s;animation-duration:5s;background:#7b61ff;"></div>
+    <div class="particle" style="left:50%;animation-delay:3s;animation-duration:8s;"></div>
+    <div class="particle" style="left:75%;animation-delay:0.5s;animation-duration:6s;background:#ffd700;"></div>
+    <div class="particle" style="left:90%;animation-delay:2s;animation-duration:7.5s;background:#7b61ff;"></div>
+    <div class="particle" style="left:40%;animation-delay:4s;animation-duration:5.5s;"></div>
+</div>
+
+<div class="card-wrapper">
+    <div class="cricket-badge">
+        <div class="badge-icon">🏏</div>
+        <div class="badge-text">AI Powered Analysis</div>
+    </div>
+
+    <div class="main-card">
+        <h1 class="main-title">Player Training<br>Assistant</h1>
+        <p class="main-subtitle">Select your team & player to unlock AI-driven training insights</p>
+
+        <div class="divider">
+            <div class="divider-line"></div>
+            <div class="divider-icon"><i class="fas fa-cricket-ball" style="font-size:12px;">◎</i></div>
+            <div class="divider-line"></div>
+        </div>
+
+        {% if error %}
+        <div class="error-alert">
+            <i class="fas fa-exclamation-circle"></i>
+            <span>{{ error }}</span>
+        </div>
+        {% endif %}
+
+        <form action="/analyze" method="POST" id="mainForm">
+            <!-- Team Dropdown -->
+            <div class="form-group">
+                <label class="form-label" for="team">
+                    <i class="fas fa-shield-halved"></i> Select IPL Team
+                    <span class="loading-dot" id="teamLoadDot"></span>
+                </label>
+                <div class="select-wrapper" id="teamWrapper">
+                    <select id="team" name="team" class="form-control" required>
+                        <option value="">— Choose a Team —</option>
+                        {% for t in teams %}
+                        <option value="{{ t }}">{{ t }}</option>
+                        {% endfor %}
+                    </select>
+                </div>
+            </div>
+
+            <!-- Player Dropdown (dynamic) -->
+            <div class="form-group">
+                <label class="form-label" for="player_name">
+                    <i class="fas fa-user-ninja"></i> Select Player
+                    <span class="loading-dot" id="playerLoadDot"></span>
+                    <span class="player-count" id="playerCountBadge"></span>
+                </label>
+                <div class="select-wrapper" id="playerWrapper">
+                    <select id="player_name" name="player_name" class="form-control" required disabled>
+                        <option value="">— Select Team First —</option>
+                    </select>
+                </div>
+            </div>
+
+            <button type="submit" class="btn-analyze" id="analyzeBtn">
+                <i class="fas fa-bolt"></i> Analyze & Generate Training Plan
+            </button>
+        </form>
+
+        <div class="stats-strip">
+            <div class="stat-item">
+                <span class="stat-num">AI</span>
+                <div class="stat-label">Powered</div>
+            </div>
+            <div class="stat-item">
+                <span class="stat-num">4+</span>
+                <div class="stat-label">Insights</div>
+            </div>
+            <div class="stat-item">
+                <span class="stat-num">IPL</span>
+                <div class="stat-label">Dataset</div>
+            </div>
+            <div class="stat-item">
+                <span class="stat-num">360°</span>
+                <div class="stat-label">Analysis</div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    const teamSelect = document.getElementById('team');
+    const playerSelect = document.getElementById('player_name');
+    const playerLoadDot = document.getElementById('playerLoadDot');
+    const playerCountBadge = document.getElementById('playerCountBadge');
+    const teamWrapper = document.getElementById('teamWrapper');
+    const playerWrapper = document.getElementById('playerWrapper');
+
+    teamSelect.addEventListener('focus', () => teamWrapper.classList.add('open'));
+    teamSelect.addEventListener('blur', () => teamWrapper.classList.remove('open'));
+    playerSelect.addEventListener('focus', () => playerWrapper.classList.add('open'));
+    playerSelect.addEventListener('blur', () => playerWrapper.classList.remove('open'));
+
+    async function loadPlayers(team) {
+        if (!team) {
+            playerSelect.innerHTML = '<option value="">— Select Team First —</option>';
+            playerSelect.disabled = true;
+            playerCountBadge.style.display = 'none';
+            return;
+        }
+
+        // Show loading state
+        playerLoadDot.style.display = 'inline-block';
+        playerSelect.disabled = true;
+        playerSelect.innerHTML = '<option value="">Loading players...</option>';
+        playerCountBadge.style.display = 'none';
+
+        try {
+            const res = await fetch(`/api/ta/team_players?team=${encodeURIComponent(team)}`);
+            const { players } = await res.json();
+
+            playerSelect.innerHTML = '<option value="">— Choose a Player —</option>' +
+                players.map(p => `<option value="${p}">${p}</option>`).join('');
+            playerSelect.disabled = false;
+
+            // Show count badge
+            if (players.length > 0) {
+                playerCountBadge.textContent = players.length + ' players';
+                playerCountBadge.style.display = 'inline-block';
+            }
+        } catch (err) {
+            playerSelect.innerHTML = '<option value="">Failed to load players</option>';
+            console.error(err);
+        } finally {
+            playerLoadDot.style.display = 'none';
+        }
+    }
+
+    teamSelect.addEventListener('change', () => loadPlayers(teamSelect.value));
+
+    // Handle form submit animation
+    document.getElementById('mainForm').addEventListener('submit', function(e) {
+        const btn = document.getElementById('analyzeBtn');
+        btn.innerHTML = '<i class="fas fa-spinner fa-spin"></i> Analyzing...';
+        btn.style.opacity = '0.8';
+    });
+</script>
+</body>
+</html>

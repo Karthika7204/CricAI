@@ -1,0 +1,41 @@
+{
+  "match_id": "1512772",
+  "generated_at": "2026-03-15T21:15:07.678763",
+  "recommendations": {
+    "Strategic Adjustments": [
+      "Implement a targeted death-over bowling strategy to counter opposition acceleration, as India's 15.2 RR in the Death phase significantly shifted momentum.",
+      "Prioritize Powerplay wicket retention for chasing teams; England's loss of 3 wickets within the first 6 overs compromised their chase foundation.",
+      "Develop an adaptive bowling plan for high-scoring venues, considering four bowlers significantly exceeded their career economy rates by 4.0 runs/over or more."
+    ],
+    "Batting Optimization": [
+      "Distribute run-scoring responsibility to mitigate over-reliance on key batters; SV Samson contributed 35.2% of India's total runs.",
+      "Enhance Powerplay batting stability by reducing early wicket losses; England's 3 wickets down in the Powerplay hindered their ability to set up a successful chase.",
+      "Focus on maintaining scoring tempo throughout the Middle Overs (7-15); both teams sustained high run rates (India 12.22, England 13.0) during this crucial phase."
+    ],
+    "Bowling Optimization": [
+      "Conduct immediate review and targeted training for Arshdeep Singh, AR Patel, CV Varun, and S Dube, whose economies were 4.0, 4.74, 8.64, and 12.26 runs above their career averages respectively.",
+      "Refine bowling plans for specific match situations to prevent individual economy rate spikes, particularly from bowlers with established career baselines.",
+      "Integrate simulation training for high-pressure scenarios to improve execution and minimize expensive overs, especially in critical phases like the Death Overs."
+    ],
+    "Player Role Recommendations": [
+      "Utilize HH Pandya in high-leverage bowling situations, given his impactful performance (Impact Score 83.71) and defensive pressure sustainment.",
+      "Evaluate the tactical deployment of bowlers with no established career baseline (LA Dawson, JC Archer) in T20s, especially given their high economy rates in this match.",
+      "Develop support mechanisms around primary run-scorers to ensure consistent team totals even if anchor batsmen like SV Samson perform below their usual high impact."
+    ],
+    "Pressure Management Insights": [
+      "Develop specific strategies for chasing high targets under extreme pressure; England's Pressure Index of 81.0 correlated with a late-innings collapse.",
+      "Implement scenario-based practice sessions focusing on rebuilding innings after early wicket losses to enhance resilience.",
+      "Reinforce decision-making processes for late-innings hitting, balancing aggression with wicket preservation to avoid collapses."
+    ],
+    "Risk Alerts": [
+      "Significant bowling economy deviations (Arshdeep +4.0, Patel +4.74, Varun +8.64, Dube +12.26) represent a critical vulnerability for the bowling unit that requires immediate tactical remediation.",
+      "Over-reliance on a single batter for a substantial portion of the team's runs (Samson 35.2%) exposes the batting lineup to increased risk if that player fails.",
+      "Deployment of bowlers without established career baselines or recent form data (LA Dawson, JC Archer with 19.0 and 15.25 economy respectively) introduces an unpredictable element into the bowling attack."
+    ],
+    "Future Preparation Focus": [
+      "Prioritize skill development and mental conditioning for bowlers performing significantly below career economy averages.",
+      "Strengthen middle-order batting partnerships to absorb pressure and maintain scoring momentum.",
+      "Conduct in-depth opposition analysis to identify and exploit weaknesses, particularly against teams capable of high scoring rates across all innings phases."
+    ]
+  }
+}

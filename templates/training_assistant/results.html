@@ -1,0 +1,799 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>{{ player_name }} — Training Report | Cricket AI</title>
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;600;700;900&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <style>
+        :root {
+            --neon: #00f5c4;
+            --neon2: #7b61ff;
+            --gold: #ffd700;
+            --danger: #ff4a6e;
+            --warning: #ff9f43;
+            --info: #54a0ff;
+            --bg: #050b14;
+            --card-bg: rgba(8, 18, 32, 0.95);
+            --border: rgba(0, 245, 196, 0.12);
+            --text: #e8f4ff;
+            --muted: #5a7a94;
+            --muted2: #8aafc8;
+        }
+
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+
+        html { scroll-behavior: smooth; }
+
+        body {
+            font-family: 'Inter', sans-serif;
+            background: var(--bg);
+            color: var(--text);
+            min-height: 100vh;
+        }
+
+        /* ─── Background ─── */
+        .bg-fixed {
+            position: fixed;
+            inset: 0;
+            z-index: 0;
+            background:
+                radial-gradient(ellipse 70% 50% at 10% 0%, rgba(0,245,196,0.07) 0%, transparent 60%),
+                radial-gradient(ellipse 50% 40% at 90% 100%, rgba(123,97,255,0.08) 0%, transparent 60%);
+            pointer-events: none;
+        }
+        .bg-grid {
+            position: fixed;
+            inset: 0;
+            z-index: 0;
+            background-image:
+                linear-gradient(rgba(0,245,196,0.025) 1px, transparent 1px),
+                linear-gradient(90deg, rgba(0,245,196,0.025) 1px, transparent 1px);
+            background-size: 50px 50px;
+            pointer-events: none;
+        }
+
+        /* ─── Layout ─── */
+        .page {
+            position: relative;
+            z-index: 1;
+            max-width: 1260px;
+            margin: 0 auto;
+            padding: 28px 20px 60px;
+        }
+
+        /* ─── Top Nav Bar ─── */
+        .top-bar {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            margin-bottom: 36px;
+            gap: 16px;
+            flex-wrap: wrap;
+        }
+        .top-bar-left { display: flex; align-items: center; gap: 14px; }
+        .logo-badge {
+            width: 44px; height: 44px;
+            background: linear-gradient(135deg, var(--neon), #00a36b);
+            border-radius: 12px;
+            display: flex; align-items: center; justify-content: center;
+            font-size: 1.4rem;
+            box-shadow: 0 0 20px rgba(0,245,196,0.3);
+            flex-shrink: 0;
+        }
+        .top-title {
+            font-family: 'Orbitron', monospace;
+            font-size: 0.85rem;
+            color: var(--neon);
+            letter-spacing: 2px;
+            text-transform: uppercase;
+        }
+        .top-sub {
+            font-size: 0.75rem;
+            color: var(--muted);
+            margin-top: 2px;
+        }
+        .btn-back {
+            display: inline-flex; align-items: center; gap: 8px;
+            padding: 10px 20px;
+            background: rgba(0,245,196,0.06);
+            border: 1px solid rgba(0,245,196,0.2);
+            border-radius: 12px;
+            color: var(--neon);
+            text-decoration: none;
+            font-size: 0.85rem;
+            font-weight: 600;
+            transition: all 0.25s ease;
+            white-space: nowrap;
+        }
+        .btn-back:hover {
+            background: rgba(0,245,196,0.12);
+            border-color: var(--neon);
+            transform: translateX(-3px);
+        }
+
+        /* ─── Hero Profile ─── */
+        .hero-profile {
+            background: var(--card-bg);
+            border: 1px solid rgba(0,245,196,0.15);
+            border-radius: 24px;
+            padding: 36px 40px;
+            margin-bottom: 28px;
+            position: relative;
+            overflow: hidden;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.4), inset 0 1px 0 rgba(255,255,255,0.04);
+        }
+        .hero-profile::before {
+            content: '';
+            position: absolute;
+            top: 0; left: 0; right: 0;
+            height: 3px;
+            background: linear-gradient(90deg, var(--neon), var(--neon2), var(--gold));
+        }
+        .hero-top {
+            display: flex;
+            align-items: flex-start;
+            gap: 28px;
+            flex-wrap: wrap;
+        }
+        .player-avatar {
+            width: 90px; height: 90px;
+            background: linear-gradient(135deg, rgba(0,245,196,0.15), rgba(123,97,255,0.15));
+            border: 2px solid rgba(0,245,196,0.3);
+            border-radius: 22px;
+            display: flex; align-items: center; justify-content: center;
+            font-size: 2.8rem;
+            flex-shrink: 0;
+            box-shadow: 0 0 30px rgba(0,245,196,0.12);
+        }
+        .player-info { flex: 1; min-width: 200px; }
+        .player-name-big {
+            font-family: 'Orbitron', monospace;
+            font-size: 2rem;
+            font-weight: 900;
+            background: linear-gradient(135deg, #fff 30%, var(--neon));
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            line-height: 1.2;
+            margin-bottom: 8px;
+        }
+        .team-pill {
+            display: inline-flex; align-items: center; gap: 6px;
+            background: rgba(123,97,255,0.12);
+            border: 1px solid rgba(123,97,255,0.3);
+            border-radius: 999px;
+            padding: 5px 14px;
+            font-size: 0.8rem;
+            font-weight: 600;
+            color: #a891ff;
+            margin-bottom: 16px;
+        }
+
+        /* ─── Metrics Row ─── */
+        .metrics-row {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+            gap: 16px;
+            margin-top: 28px;
+        }
+        .metric-card {
+            background: rgba(255,255,255,0.03);
+            border: 1px solid rgba(0,245,196,0.1);
+            border-radius: 16px;
+            padding: 18px 16px;
+            text-align: center;
+            transition: all 0.3s ease;
+            position: relative;
+            overflow: hidden;
+        }
+        .metric-card::after {
+            content: '';
+            position: absolute;
+            bottom: 0; left: 0; right: 0;
+            height: 2px;
+            background: linear-gradient(90deg, transparent, var(--neon), transparent);
+            opacity: 0;
+            transition: opacity 0.3s;
+        }
+        .metric-card:hover { border-color: rgba(0,245,196,0.25); transform: translateY(-2px); }
+        .metric-card:hover::after { opacity: 1; }
+        .metric-icon { font-size: 1.3rem; margin-bottom: 8px; }
+        .metric-val {
+            font-family: 'Orbitron', monospace;
+            font-size: 1.5rem;
+            font-weight: 700;
+            color: var(--neon);
+            display: block;
+        }
+        .metric-lbl {
+            font-size: 0.7rem;
+            color: var(--muted2);
+            text-transform: uppercase;
+            letter-spacing: 0.8px;
+            margin-top: 4px;
+        }
+
+        /* ─── Section Grid ─── */
+        .sections-grid {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 20px;
+        }
+        @media (max-width: 900px) {
+            .sections-grid { grid-template-columns: 1fr; }
+        }
+
+        /* ─── Section Card ─── */
+        .section-card {
+            background: var(--card-bg);
+            border: 1px solid var(--border);
+            border-radius: 22px;
+            padding: 28px;
+            transition: box-shadow 0.3s ease, border-color 0.3s ease;
+            position: relative;
+            overflow: hidden;
+            animation: fadeInUp 0.6s ease both;
+        }
+        .section-card:hover {
+            border-color: rgba(0,245,196,0.2);
+            box-shadow: 0 0 30px rgba(0,245,196,0.06);
+        }
+
+        @keyframes fadeInUp {
+            from { opacity: 0; transform: translateY(30px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        .section-card:nth-child(1) { animation-delay: 0.1s; }
+        .section-card:nth-child(2) { animation-delay: 0.2s; }
+        .section-card:nth-child(3) { animation-delay: 0.3s; }
+        .section-card:nth-child(4) { animation-delay: 0.4s; }
+
+        /* Section header */
+        .sec-header {
+            display: flex; align-items: center; gap: 12px;
+            margin-bottom: 22px;
+        }
+        .sec-icon {
+            width: 38px; height: 38px;
+            border-radius: 10px;
+            display: flex; align-items: center; justify-content: center;
+            font-size: 0.95rem;
+            flex-shrink: 0;
+        }
+        .icon-red { background: rgba(255,74,110,0.15); color: var(--danger); border: 1px solid rgba(255,74,110,0.25); }
+        .icon-green { background: rgba(0,245,196,0.1); color: var(--neon); border: 1px solid rgba(0,245,196,0.2); }
+        .icon-purple { background: rgba(123,97,255,0.12); color: #a891ff; border: 1px solid rgba(123,97,255,0.25); }
+        .icon-gold { background: rgba(255,215,0,0.1); color: var(--gold); border: 1px solid rgba(255,215,0,0.2); }
+
+        .sec-title {
+            font-family: 'Orbitron', monospace;
+            font-size: 0.78rem;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+        }
+        .sec-title-red { color: var(--danger); }
+        .sec-title-green { color: var(--neon); }
+        .sec-title-purple { color: #a891ff; }
+        .sec-title-gold { color: var(--gold); }
+
+        /* ─── Weakness Tags ─── */
+        .weakness-list { display: flex; flex-direction: column; gap: 10px; }
+        .weakness-tag {
+            display: flex; align-items: flex-start; gap: 10px;
+            background: rgba(255,74,110,0.07);
+            border: 1px solid rgba(255,74,110,0.2);
+            border-radius: 12px;
+            padding: 12px 14px;
+            transition: all 0.2s ease;
+        }
+        .weakness-tag:hover {
+            background: rgba(255,74,110,0.12);
+            transform: translateX(4px);
+        }
+        .weakness-tag .w-icon {
+            color: var(--danger);
+            font-size: 0.85rem;
+            margin-top: 2px;
+            flex-shrink: 0;
+        }
+        .weakness-tag .w-text {
+            font-size: 0.88rem;
+            color: #ffc0cb;
+            line-height: 1.5;
+        }
+
+        /* ─── Training Timeline ─── */
+        .training-list { display: flex; flex-direction: column; gap: 0; }
+        .training-item {
+            display: flex; gap: 14px;
+            padding: 14px 0;
+            border-bottom: 1px solid rgba(255,255,255,0.04);
+            position: relative;
+        }
+        .training-item:last-child { border-bottom: none; }
+        .t-step {
+            width: 30px; height: 30px;
+            background: linear-gradient(135deg, var(--neon), #00a36b);
+            border-radius: 50%;
+            display: flex; align-items: center; justify-content: center;
+            font-size: 0.72rem;
+            font-weight: 800;
+            font-family: 'Orbitron', monospace;
+            color: #050b14;
+            flex-shrink: 0;
+        }
+        .t-content { flex: 1; }
+        .t-label {
+            font-size: 0.88rem;
+            color: var(--text);
+            line-height: 1.5;
+        }
+        .t-label .tip-badge {
+            display: inline-block;
+            background: rgba(0,245,196,0.1);
+            color: var(--neon);
+            border-radius: 4px;
+            padding: 1px 7px;
+            font-size: 0.7rem;
+            font-weight: 700;
+            margin-right: 6px;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+
+        /* Coach tips */
+        .tips-list { display: flex; flex-direction: column; gap: 10px; margin-top: 20px; padding-top: 16px; border-top: 1px solid var(--border); }
+        .tip-item {
+            display: flex; align-items: flex-start; gap: 10px;
+            font-size: 0.86rem;
+            color: var(--muted2);
+            line-height: 1.5;
+        }
+        .tip-item i { color: var(--neon); flex-shrink: 0; margin-top: 3px; }
+
+        /* ─── Matchup Battle ─── */
+        .matchup-vs {
+            display: flex;
+            align-items: center;
+            gap: 16px;
+            background: rgba(255,255,255,0.03);
+            border: 1px solid rgba(123,97,255,0.2);
+            border-radius: 16px;
+            padding: 20px;
+            margin-bottom: 18px;
+        }
+        .vs-side {
+            flex: 1;
+            text-align: center;
+        }
+        .vs-emoji { font-size: 2.2rem; margin-bottom: 6px; display: block; }
+        .vs-name {
+            font-family: 'Orbitron', monospace;
+            font-size: 0.75rem;
+            color: var(--muted2);
+            letter-spacing: 1px;
+            text-transform: uppercase;
+            margin-bottom: 4px;
+        }
+        .vs-value {
+            font-size: 1.1rem;
+            font-weight: 700;
+            color: var(--text);
+        }
+        .vs-divider {
+            font-family: 'Orbitron', monospace;
+            font-size: 1.1rem;
+            font-weight: 900;
+            color: var(--danger);
+            background: rgba(255,74,110,0.1);
+            border: 1px solid rgba(255,74,110,0.25);
+            border-radius: 8px;
+            padding: 6px 12px;
+        }
+
+        .matchup-stats { display: flex; flex-direction: column; gap: 10px; }
+        .mstat-row {
+            display: flex; align-items: center; justify-content: space-between;
+            background: rgba(255,255,255,0.03);
+            border: 1px solid rgba(123,97,255,0.1);
+            border-radius: 10px;
+            padding: 11px 16px;
+        }
+        .mstat-label { font-size: 0.82rem; color: var(--muted2); }
+        .mstat-val {
+            font-family: 'Orbitron', monospace;
+            font-size: 0.95rem;
+            font-weight: 700;
+        }
+        .mstat-val.danger { color: var(--danger); }
+        .mstat-val.info { color: var(--info); }
+        .mstat-val.warning { color: var(--warning); }
+
+        /* ─── Field Strategy ─── */
+        /* Cricket field SVG diagram */
+        .field-diagram-wrap {
+            position: relative;
+            margin-bottom: 20px;
+        }
+        .field-ellipse {
+            width: 100%;
+            aspect-ratio: 1;
+            max-height: 260px;
+            display: block;
+            margin: 0 auto;
+        }
+        .field-label-overlay {
+            position: absolute;
+            inset: 0;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            pointer-events: none;
+        }
+        .field-center-txt {
+            font-size: 0.6rem;
+            color: var(--muted);
+            text-align: center;
+            font-family: 'Orbitron', monospace;
+            letter-spacing: 1px;
+        }
+
+        .fielding-list { display: flex; flex-direction: column; gap: 8px; }
+        .field-item {
+            display: flex; align-items: flex-start; gap: 10px;
+            background: rgba(255,215,0,0.05);
+            border: 1px solid rgba(255,215,0,0.15);
+            border-radius: 10px;
+            padding: 11px 14px;
+            transition: all 0.2s ease;
+        }
+        .field-item:hover {
+            background: rgba(255,215,0,0.09);
+            border-color: rgba(255,215,0,0.25);
+            transform: translateX(4px);
+        }
+        .field-item .f-icon { color: var(--gold); font-size: 0.8rem; margin-top: 2px; flex-shrink: 0; }
+        .field-item .f-text { font-size: 0.85rem; color: #ffe484; line-height: 1.5; }
+
+        /* ─── Coaching Tips sub-section ─── */
+        .coaching-header {
+            font-family: 'Orbitron', monospace;
+            font-size: 0.7rem;
+            letter-spacing: 2px;
+            color: var(--muted);
+            text-transform: uppercase;
+            margin-bottom: 10px;
+        }
+
+        /* ─── Bottom CTA ─── */
+        .bottom-cta {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 14px;
+            margin-top: 32px;
+            flex-wrap: wrap;
+        }
+
+        /* ─── Responsive ─── */
+        @media (max-width: 640px) {
+            .hero-profile { padding: 24px 20px; }
+            .player-name-big { font-size: 1.5rem; }
+            .section-card { padding: 20px 16px; }
+            .top-bar { flex-direction: column; align-items: flex-start; }
+            .hero-top { gap: 16px; }
+            .player-avatar { width: 70px; height: 70px; font-size: 2rem; }
+        }
+
+        /* Scroll animation trigger */
+        .reveal {
+            opacity: 0;
+            transform: translateY(24px);
+            transition: opacity 0.5s ease, transform 0.5s ease;
+        }
+        .reveal.visible {
+            opacity: 1;
+            transform: none;
+        }
+    </style>
+</head>
+<body>
+<div class="bg-fixed"></div>
+<div class="bg-grid"></div>
+
+<div class="page">
+    <!-- Top Nav -->
+    <div class="top-bar">
+        <div class="top-bar-left">
+            <div class="logo-badge">🏏</div>
+            <div>
+                <div class="top-title">Player Training Assistant</div>
+                <div class="top-sub">AI-Powered Cricket Analysis</div>
+            </div>
+        </div>
+        <a href="/" class="btn-back"><i class="fas fa-arrow-left"></i> New Analysis</a>
+    </div>
+
+    <!-- Hero Profile -->
+    <div class="hero-profile reveal">
+        <div class="hero-top">
+            <div class="player-avatar">🏏</div>
+            <div class="player-info">
+                <div class="player-name-big">{{ player_name }}</div>
+                <div class="team-pill">
+                    <i class="fas fa-shield-halved" style="font-size:0.7rem;"></i>
+                    {{ team if team else 'IPL' }}
+                </div>
+                <div style="font-size:0.82rem; color: var(--muted2); line-height: 1.6;">
+                    Full AI analysis complete — weaknesses identified, training plan generated, matchup analyzed, and field setup recommended.
+                </div>
+            </div>
+        </div>
+
+        <!-- Key Metrics -->
+        <div class="metrics-row">
+            <div class="metric-card">
+                <div class="metric-icon">🏃</div>
+                <span class="metric-val">{{ stats.runs if stats and stats.runs is defined else 'N/A' }}</span>
+                <div class="metric-lbl">Total Runs</div>
+            </div>
+            <div class="metric-card">
+                <div class="metric-icon">⚡</div>
+                <span class="metric-val">
+                    {% if stats and stats.strike_rate is defined %}
+                        {{ "%.1f"|format(stats.strike_rate) }}
+                    {% else %}N/A{% endif %}
+                </span>
+                <div class="metric-lbl">Strike Rate</div>
+            </div>
+            <div class="metric-card">
+                <div class="metric-icon">⚾</div>
+                <span class="metric-val">{{ stats.balls if stats and stats.balls is defined else 'N/A' }}</span>
+                <div class="metric-lbl">Balls Faced</div>
+            </div>
+            <div class="metric-card">
+                <div class="metric-icon">🔴</div>
+                <span class="metric-val">
+                    {% if stats and stats.dot_ball_pct is defined %}
+                        {{ "%.1f"|format(stats.dot_ball_pct) }}%
+                    {% else %}N/A{% endif %}
+                </span>
+                <div class="metric-lbl">Dot Ball %</div>
+            </div>
+            <div class="metric-card">
+                <div class="metric-icon">⚠️</div>
+                <span class="metric-val">{{ weaknesses|length if weaknesses else 0 }}</span>
+                <div class="metric-lbl">Weaknesses</div>
+            </div>
+        </div>
+    </div>
+
+    <!-- 4-Panel Analysis Grid -->
+    <div class="sections-grid">
+
+        <!-- ① Detected Weaknesses -->
+        <div class="section-card">
+            <div class="sec-header">
+                <div class="sec-icon icon-red"><i class="fas fa-triangle-exclamation"></i></div>
+                <div>
+                    <div class="sec-title sec-title-red">Detected Weaknesses</div>
+                    <div style="font-size:0.73rem; color:var(--muted); margin-top:3px;">Areas needing improvement</div>
+                </div>
+            </div>
+            <div class="weakness-list">
+                {% if weaknesses %}
+                    {% for w in weaknesses %}
+                    <div class="weakness-tag">
+                        <i class="fas fa-xmark-circle w-icon"></i>
+                        <span class="w-text">{{ w }}</span>
+                    </div>
+                    {% endfor %}
+                {% else %}
+                    <div class="weakness-tag">
+                        <i class="fas fa-check-circle w-icon" style="color:var(--neon)"></i>
+                        <span class="w-text" style="color:#a0ffcc;">No critical weaknesses detected!</span>
+                    </div>
+                {% endif %}
+            </div>
+        </div>
+
+        <!-- ② Training Techniques -->
+        <div class="section-card">
+            <div class="sec-header">
+                <div class="sec-icon icon-green"><i class="fas fa-dumbbell"></i></div>
+                <div>
+                    <div class="sec-title sec-title-green">Training Techniques</div>
+                    <div style="font-size:0.73rem; color:var(--muted); margin-top:3px;">Personalized drills & exercises</div>
+                </div>
+            </div>
+            <div class="training-list">
+                {% if simulation and simulation.training_plan %}
+                    {% for item in simulation.training_plan %}
+                    <div class="training-item">
+                        <div class="t-step">{{ loop.index }}</div>
+                        <div class="t-content">
+                            <div class="t-label">{{ item }}</div>
+                        </div>
+                    </div>
+                    {% endfor %}
+                {% else %}
+                    <div class="t-label" style="color:var(--muted);">No training plan available.</div>
+                {% endif %}
+            </div>
+
+            {% if simulation and simulation.training_tips %}
+            <div class="tips-list">
+                <div class="coaching-header">Coach Tips</div>
+                {% for tip in simulation.training_tips %}
+                <div class="tip-item">
+                    <i class="fas fa-lightbulb"></i>
+                    <span>{{ tip }}</span>
+                </div>
+                {% endfor %}
+            </div>
+            {% endif %}
+        </div>
+
+        <!-- ③ Matchup vs Bowler -->
+        <div class="section-card">
+            <div class="sec-header">
+                <div class="sec-icon icon-purple"><i class="fas fa-sword" style="font-family:monospace;">⚡</i><i class="fas fa-bolt"></i></div>
+                <div>
+                    <div class="sec-title sec-title-purple">Matchup vs Bowler</div>
+                    <div style="font-size:0.73rem; color:var(--muted); margin-top:3px;">Danger bowler analysis</div>
+                </div>
+            </div>
+
+            {% if matchup %}
+            <div class="matchup-vs">
+                <div class="vs-side">
+                    <span class="vs-emoji">🏏</span>
+                    <div class="vs-name">Batter</div>
+                    <div class="vs-value">{{ player_name.split(' ')[0] if player_name else '—' }}</div>
+                </div>
+                <div class="vs-divider">VS</div>
+                <div class="vs-side">
+                    <span class="vs-emoji">🎯</span>
+                    <div class="vs-name">Bowler</div>
+                    <div class="vs-value" style="color:var(--danger);">{{ matchup.danger_bowler if matchup.danger_bowler else '—' }}</div>
+                </div>
+            </div>
+            <div class="matchup-stats">
+                <div class="mstat-row">
+                    <span class="mstat-label"><i class="fas fa-skull-crossbones" style="color:var(--danger);margin-right:6px;"></i>Dismissals</span>
+                    <span class="mstat-val danger">{{ matchup.dismissals if matchup.dismissals is defined else '—' }}</span>
+                </div>
+                <div class="mstat-row">
+                    <span class="mstat-label"><i class="fas fa-gauge-high" style="color:var(--info);margin-right:6px;"></i>SR vs Bowler</span>
+                    <span class="mstat-val info">{{ matchup.strike_rate if matchup.strike_rate is defined else '—' }}</span>
+                </div>
+                <div class="mstat-row">
+                    <span class="mstat-label"><i class="fas fa-circle-info" style="color:var(--warning);margin-right:6px;"></i>Vulnerability</span>
+                    <span class="mstat-val warning">High Risk</span>
+                </div>
+            </div>
+            {% else %}
+            <div style="color:var(--muted); font-size:0.88rem;">No matchup data available.</div>
+            {% endif %}
+        </div>
+
+        <!-- ④ Field Setup -->
+        <div class="section-card">
+            <div class="sec-header">
+                <div class="sec-icon icon-gold"><i class="fas fa-location-dot"></i></div>
+                <div>
+                    <div class="sec-title sec-title-gold">AI Field Setup</div>
+                    <div style="font-size:0.73rem; color:var(--muted); margin-top:3px;">Optimal fielding positions</div>
+                </div>
+            </div>
+
+            <!-- Simple cricket field SVG -->
+            <div class="field-diagram-wrap">
+                <svg class="field-ellipse" viewBox="0 0 280 280" xmlns="http://www.w3.org/2000/svg">
+                    <!-- Outer boundary -->
+                    <ellipse cx="140" cy="140" rx="130" ry="130"
+                        fill="rgba(0,40,20,0.5)"
+                        stroke="rgba(0,245,196,0.15)" stroke-width="1.5"/>
+                    <!-- 30-yard circle -->
+                    <ellipse cx="140" cy="140" rx="80" ry="80"
+                        fill="none"
+                        stroke="rgba(0,245,196,0.1)" stroke-width="1" stroke-dasharray="6 4"/>
+                    <!-- Pitch strip -->
+                    <rect x="128" y="96" width="24" height="88" rx="3"
+                        fill="rgba(180,140,70,0.3)" stroke="rgba(180,140,70,0.4)" stroke-width="1"/>
+                    <!-- Stumps Top -->
+                    <line x1="134" y1="100" x2="146" y2="100" stroke="#ffd700" stroke-width="2" stroke-linecap="round"/>
+                    <line x1="136" y1="98" x2="136" y2="106" stroke="#ffd700" stroke-width="1.5"/>
+                    <line x1="140" y1="98" x2="140" y2="106" stroke="#ffd700" stroke-width="1.5"/>
+                    <line x1="144" y1="98" x2="144" y2="106" stroke="#ffd700" stroke-width="1.5"/>
+                    <!-- Stumps Bottom -->
+                    <line x1="134" y1="180" x2="146" y2="180" stroke="#ffd700" stroke-width="2" stroke-linecap="round"/>
+                    <line x1="136" y1="174" x2="136" y2="182" stroke="#ffd700" stroke-width="1.5"/>
+                    <line x1="140" y1="174" x2="140" y2="182" stroke="#ffd700" stroke-width="1.5"/>
+                    <line x1="144" y1="174" x2="144" y2="182" stroke="#ffd700" stroke-width="1.5"/>
+                    <!-- Batter position dot - dynamic field marker positions -->
+                    <!-- Slip cordon - right of stumps top -->
+                    <circle cx="165" cy="108" r="5" fill="rgba(255,74,110,0.8)" stroke="#ff4a6e" stroke-width="1"/>
+                    <text x="173" y="112" font-size="7" fill="#ffa0b0" font-family="Inter">Slip</text>
+                    <!-- Gully -->
+                    <circle cx="182" cy="125" r="5" fill="rgba(255,159,67,0.8)" stroke="#ff9f43" stroke-width="1"/>
+                    <text x="190" y="129" font-size="7" fill="#ffcf99" font-family="Inter">Gully</text>
+                    <!-- Fine leg -->
+                    <circle cx="118" cy="240" r="5" fill="rgba(0,245,196,0.8)" stroke="#00f5c4" stroke-width="1"/>
+                    <text x="72" y="244" font-size="7" fill="#a0ffe8" font-family="Inter">Fine Leg</text>
+                    <!-- Mid-on -->
+                    <circle cx="108" cy="165" r="5" fill="rgba(84,160,255,0.8)" stroke="#54a0ff" stroke-width="1"/>
+                    <text x="70" y="169" font-size="7" fill="#a0ccff" font-family="Inter">Mid-on</text>
+                    <!-- Mid-off -->
+                    <circle cx="172" cy="165" r="5" fill="rgba(84,160,255,0.8)" stroke="#54a0ff" stroke-width="1"/>
+                    <text x="180" y="169" font-size="7" fill="#a0ccff" font-family="Inter">Mid-off</text>
+                    <!-- Cover -->
+                    <circle cx="200" cy="155" r="5" fill="rgba(123,97,255,0.8)" stroke="#7b61ff" stroke-width="1"/>
+                    <text x="208" y="159" font-size="7" fill="#c0b0ff" font-family="Inter">Cover</text>
+                    <!-- Square Leg -->
+                    <circle cx="70" cy="145" r="5" fill="rgba(255,215,0,0.8)" stroke="#ffd700" stroke-width="1"/>
+                    <text x="30" y="149" font-size="7" fill="#ffe080" font-family="Inter">Sq. Leg</text>
+                    <!-- Centre label -->
+                    <text x="140" y="145" text-anchor="middle" font-size="7" fill="rgba(0,245,196,0.4)" font-family="Orbitron, monospace" font-weight="600">PITCH</text>
+                </svg>
+            </div>
+
+            <!-- Field positions text -->
+            <div class="fielding-list">
+                {% if field_strategy %}
+                    {% for f in field_strategy %}
+                    <div class="field-item">
+                        <i class="fas fa-circle-dot f-icon"></i>
+                        <span class="f-text">{{ f }}</span>
+                    </div>
+                    {% endfor %}
+                {% else %}
+                    <div style="color:var(--muted); font-size:0.88rem;">No field strategy available.</div>
+                {% endif %}
+            </div>
+        </div>
+
+    </div><!-- end sections-grid -->
+
+        <a href="/training-assistant" class="btn-back"><i class="fas fa-arrow-left"></i> New Analysis</a>
+
+    <!-- Bottom CTA -->
+    <div class="bottom-cta">
+        <a href="/training-assistant" class="btn-back" style="padding:14px 28px; font-size:0.9rem;">
+            <i class="fas fa-rotate-left"></i> Analyze Another Player
+        </a>
+    </div>
+
+</div><!-- end page -->
+
+<script>
+    // Scroll reveal
+    const reveals = document.querySelectorAll('.reveal');
+    const hero = document.querySelector('.hero-profile');
+    if (hero) {
+        setTimeout(() => hero.classList.add('visible'), 100);
+    }
+
+    const observer = new IntersectionObserver((entries) => {
+        entries.forEach(e => {
+            if (e.isIntersecting) {
+                e.target.classList.add('visible');
+                observer.unobserve(e.target);
+            }
+        });
+    }, { threshold: 0.1 });
+
+    reveals.forEach(el => observer.observe(el));
+
+    // Add reveal class to section cards
+    document.querySelectorAll('.section-card').forEach(card => {
+        card.classList.add('reveal');
+        observer.observe(card);
+    });
+</script>
+</body>
+</html>

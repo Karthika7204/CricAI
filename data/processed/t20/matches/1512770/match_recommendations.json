@@ -1,0 +1,41 @@
+{
+  "match_id": "1512770",
+  "generated_at": "2026-03-15T21:16:42.706515",
+  "recommendations": {
+    "Strategic Adjustments": [
+      "Re-evaluate death bowling strategies to mitigate opposition run rates, specifically targeting the 14.0 RR conceded in the first innings death overs.",
+      "Implement a revised bowler rotation plan, considering three frontline bowlers were significantly above their career economy rates in this match.",
+      "Prioritize pre-match scenario planning for high-target defenses or chases, especially against teams capable of explosive death-over hitting."
+    ],
+    "Batting Optimization": [
+      "Reduce over-reliance on singular impact players; SV Samson's 48.7% contribution highlights a potential vulnerability in run-scoring distribution.",
+      "Balance aggressive powerplay intent (8.83 RR) with calculated risk to prevent early wicket losses (2 wickets in Powerplay 2).",
+      "Develop middle-order stability to consistently maintain or accelerate the run rate (10.33 RR in Middle Overs 2) and ease pressure on the death overs."
+    ],
+    "Bowling Optimization": [
+      "Focus intensive death bowling training on specific metrics: executing yorkers under pressure and mastering slower variations to reduce runs conceded (WI Death RR 14.0).",
+      "Conduct individual bowler analytics for Arshdeep Singh (+2.0 economy delta), JJ Bumrah (+2.4 economy delta), and CV Varun (+2.64 economy delta) to rectify significant economy deviations.",
+      "Tailor CV Varun's role and spell composition for optimal impact, addressing his 10.0 economy rate and highest career delta in this fixture."
+    ],
+    "Player Role Recommendations": [
+      "Invest in specialized training for non-anchor batsmen to increase their run production share, lessening the dependence seen with SV Samson.",
+      "Optimize JJ Bumrah's overs allocation, capitalizing on his high impact score (80.53) for wicket-taking moments, even when economy is elevated.",
+      "Identify and develop a dedicated death-over specialist or combination to consistently deliver economical spells in the final five overs."
+    ],
+    "Pressure Management Insights": [
+      "Analyze specific phases within the chase where the 75.0 pressure index spiked, identifying tactical or technical areas for improvement under duress.",
+      "Implement communication protocols for high-pressure situations, ensuring clear decision-making between batting partners during tight chases.",
+      "Develop strategies for the non-striker to effectively rotate strike and support a dominant partner during critical periods, minimizing dot balls."
+    ],
+    "Risk Alerts": [
+      "The concentrated run-scoring on SV Samson (48.7% of total) presents a high-risk scenario; an early loss of such a dominant player could destabilize the chase.",
+      "Elevated economy rates across three key bowlers (Arshdeep, Bumrah, Varun) suggests a systemic issue requiring immediate tactical and technical intervention.",
+      "Consistent failure to restrict runs in the death overs (WI RR 14.0) indicates a recurring vulnerability that opposing teams will target."
+    ],
+    "Future Preparation Focus": [
+      "Design high-intensity net sessions focused on simulating death bowling scenarios against aggressive power-hitters to improve execution and mental fortitude.",
+      "Conduct detailed opposition analysis to identify specific match-ups where bowlers can exploit weaknesses rather than relying on generic plans.",
+      "Practice chasing targets exceeding 190 with varied scenarios to build resilience and strategic depth for high-pressure T20 encounters."
+    ]
+  }
+}

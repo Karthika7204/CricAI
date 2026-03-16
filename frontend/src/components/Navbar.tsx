@@ -1,5 +1,5 @@
 import { motion } from 'framer-motion';
-import { Search, Bell, User, LayoutDashboard, Trophy, LineChart, GraduationCap } from 'lucide-react';
+import { Search, Bell, User, LayoutDashboard, Trophy, Cpu, Dumbbell } from 'lucide-react';
 
 interface NavbarProps {
     activeTab: string;
@@ -10,8 +10,8 @@ export const Navbar = ({ activeTab, setActiveTab }: NavbarProps) => {
     const navItems = [
         { id: 'dashboard', label: 'Dashboard', icon: LayoutDashboard },
         { id: 'match_center', label: 'Match Center', icon: Trophy },
-        { id: 'stats', label: 'Analytics', icon: LineChart },
-        { id: 'learning', label: 'Academy', icon: GraduationCap },
+        { id: 'ipl_intelligence', label: 'IPL Intelligence', icon: Cpu },
+        { id: 'training_assistant', label: 'Training Assistant', icon: Dumbbell },
     ];
 
     return (

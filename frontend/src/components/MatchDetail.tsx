@@ -1,7 +1,8 @@
 import { useState, useEffect, useRef } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
-import { Award, Zap, ChevronRight, MessageCircle, ChevronLeft, Share2, MoreVertical, PlayCircle, BarChart3, TrendingUp, Info, Bot } from 'lucide-react';
+import { Award, Zap, ChevronRight, MessageCircle, ChevronLeft, Share2, MoreVertical, PlayCircle, TrendingUp, Info, Bot } from 'lucide-react';
 import { matchApi } from '../api';
+import { getFlagUrl } from '../utils/flags';
 
 export const MatchDetail = ({ matchId, onBack }: { matchId: string, onBack: () => void }) => {
     const [data, setData] = useState<any>(null);
@@ -13,25 +14,47 @@ export const MatchDetail = ({ matchId, onBack }: { matchId: string, onBack: () =
         { id: 'Match Flow', label: 'AI Match Flow', icon: PlayCircle },
         { id: 'Pre-match Insights', label: 'Pre-match Insights', icon: Zap },
         { id: 'AI Stats & Awards', label: 'AI Stats & Awards', icon: Award },
-        { id: 'Recommendation Bot', label: 'Recommendation Bot', icon: TrendingUp },
-        { id: 'Overs', label: 'Overs', icon: BarChart3 },
-        { id: 'Table', label: 'Table', icon: BarChart3 }
+        { id: 'Recommendation Bot', label: 'Recommendation Bot', icon: TrendingUp }
     ];
 
+    const dataLoaded = useRef(false);
+
     useEffect(() => {
-        Promise.all([
-            matchApi.getFlow(matchId),
-            matchApi.getAwards(matchId),
-            matchApi.getInsights(matchId),
-            matchApi.getScorecard(matchId)
-        ]).then(([flow, awards, insights, scorecard]) => {
-            setData({
-                flow: flow.data,
-                awards: awards.data,
-                insights: insights.data,
-                scorecard: scorecard.data
-            });
-        });
+        if (dataLoaded.current) return;
+        dataLoaded.current = true;
+
+        const fetchData = async () => {
+            try {
+                // Core data: Scorecard, Awards, Insights
+                const [awards, insights, scorecard] = await Promise.all([
+                    matchApi.getAwards(matchId).catch(e => ({ data: { error: e.response?.status === 429 ? "Quota Reached" : "Error" } })),
+                    matchApi.getInsights(matchId).catch(e => ({ data: { error: e.response?.status === 429 ? "Quota Reached" : "Error" } })),
+                    matchApi.getScorecard(matchId)
+                ]);
+
+                // AI flow is more likely to hit rate limits, fetch it separately or catch it
+                let flowData = { flow_points: [] };
+                try {
+                    const flowRes = await matchApi.getFlow(matchId);
+                    flowData = flowRes.data;
+                } catch (e: any) {
+                    flowData = { error: e.response?.status === 429 ? "Daily AI Limit Reached" : "Flow unavailable", flow_points: [] } as any;
+                }
+
+                setData({
+                    flow: flowData,
+                    awards: awards.data,
+                    insights: insights.data,
+                    scorecard: scorecard.data
+                });
+            } catch (err) {
+                console.error("Critical match data failed to load", err);
+            }
+        };
+
+        fetchData();
+
+        return () => { dataLoaded.current = false; };
     }, [matchId]);
 
     if (!data) return (
@@ -47,19 +70,6 @@ export const MatchDetail = ({ matchId, onBack }: { matchId: string, onBack: () =
 
     const clean = (str: string) => str?.replace(/['"]/g, '') || '';
 
-    const getTeamCode = (name: string) => {
-        const cleanName = clean(name);
-        if (cleanName === 'India') return 'IND';
-        if (cleanName === 'Pakistan') return 'PAK';
-        if (cleanName === 'Sri Lanka') return 'SL';
-        if (cleanName === 'U.S.A.' || cleanName === 'USA') return 'USA';
-        if (cleanName === 'England') return 'ENG';
-        if (cleanName === 'Australia') return 'AUS';
-        if (cleanName === 'South Africa') return 'RSA';
-        if (cleanName === 'New Zealand') return 'NZ';
-        if (cleanName === 'West Indies') return 'WI';
-        return cleanName.substring(0, 3).toUpperCase();
-    };
 
     const getTeamStats = (name: string) => {
         const cleanedName = clean(name).trim().toLowerCase();
@@ -102,7 +112,7 @@ export const MatchDetail = ({ matchId, onBack }: { matchId: string, onBack: () =
                         <div className="flex items-center justify-between">
                             <div className="flex items-center gap-4">
                                 <div className="w-12 h-8 bg-white/5 rounded flex items-center justify-center border border-white/10 overflow-hidden">
-                                    <span className="text-xl font-black italic">{getTeamCode(team1)}</span>
+                                    <img src={getFlagUrl(team1)} alt="" className="w-full h-full object-cover opacity-80" />
                                 </div>
                                 <h2 className="text-4xl font-outfit font-black uppercase tracking-tighter">{clean(team1)}</h2>
                             </div>
@@ -113,7 +123,7 @@ export const MatchDetail = ({ matchId, onBack }: { matchId: string, onBack: () =
                         <div className="flex items-center justify-between opacity-40">
                             <div className="flex items-center gap-4">
                                 <div className="w-12 h-8 bg-white/5 rounded flex items-center justify-center border border-white/10 overflow-hidden">
-                                    <span className="text-xl font-black italic">{getTeamCode(team2)}</span>
+                                    <img src={getFlagUrl(team2)} alt="" className="w-full h-full object-cover opacity-80" />
                                 </div>
                                 <h2 className="text-4xl font-outfit font-black uppercase tracking-tighter">{clean(team2)}</h2>
                             </div>
@@ -193,8 +203,10 @@ export const MatchDetail = ({ matchId, onBack }: { matchId: string, onBack: () =
                                 {data.scorecard?.innings ? Object.values(data.scorecard.innings).map((inn: any, idx: number) => (
                                     <div key={idx} className="p-1">
                                         <div className="bg-primary/10 px-6 py-4 border-b border-white/5 flex items-center justify-between">
-                                            <h3 className="font-outfit font-black uppercase text-primary tracking-widest flex items-center gap-2">
-                                                {inn.team} <span className="text-[10px] font-bold opacity-60">({inn.total_runs}/{inn.wickets})</span>
+                                            <h3 className="font-outfit font-black uppercase text-primary tracking-widest flex items-center gap-3">
+                                                <img src={getFlagUrl(inn.team)} alt="" className="w-6 h-4 object-cover rounded shadow-sm" />
+                                                <span>{inn.team}</span>
+                                                <span className="text-[10px] font-bold opacity-60">({inn.total_runs}/{inn.wickets})</span>
                                             </h3>
                                             <span className="text-[10px] font-black text-primary/40 uppercase">{idx === 0 ? '1st' : '2nd'} Innings</span>
                                         </div>
@@ -224,8 +236,12 @@ export const MatchDetail = ({ matchId, onBack }: { matchId: string, onBack: () =
                                 </div>
                                 <div className="space-y-4">
                                     {data.flow?.error ? (
-                                        <div className="p-6 bg-red-500/10 border border-red-500/20 rounded-xl text-red-400 text-sm font-medium">
-                                            ⚠️ This match's detailed LLM summary has not been generated yet, so tactical flow points are unavailable. ({data.flow.error})
+                                        <div className="p-6 bg-primary/5 border border-primary/10 rounded-xl text-text/60 text-sm font-medium">
+                                            {data.flow.error === "Daily AI Limit Reached" ? (
+                                                <span className="text-primary font-bold">🚨 Daily AI Limit Reached. Tactical summary is offline.</span>
+                                            ) : (
+                                                `⚠️ ${data.flow.error}`
+                                            )}
                                         </div>
                                     ) : data.flow?.flow_points?.length > 0 ? (
                                         data.flow.flow_points.map((p: string, i: number) => (
@@ -325,8 +341,12 @@ const RecommendationBot = ({ matchId }: { matchId: string }) => {
         try {
             const res = await matchApi.chat(matchId, input);
             setMessages([...newMsgs, { role: 'bot', text: res.data.answer }]);
-        } catch {
-            setMessages([...newMsgs, { role: 'bot', text: 'Strategy engine busy. Please try again.' }]);
+        } catch (err: any) {
+            if (err.response?.status === 429) {
+                setMessages([...newMsgs, { role: 'bot', text: '🚨 Daily AI Limit Reached (Free Tier). My strategic engines are resting. Please try again tomorrow!' }]);
+            } else {
+                setMessages([...newMsgs, { role: 'bot', text: 'Strategy engine busy or disconnected. Please try again.' }]);
+            }
         } finally {
             setIsLoading(false);
         }
@@ -417,8 +437,12 @@ const PostMatchChat = ({ matchId }: { matchId: string }) => {
         try {
             const res = await matchApi.chat(matchId, input);
             setMessages([...newMsgs, { role: 'bot', text: res.data.answer }]);
-        } catch {
-            setMessages([...newMsgs, { role: 'bot', text: 'Connection lost. Please try again later.' }]);
+        } catch (err: any) {
+            if (err.response?.status === 429) {
+                setMessages([...newMsgs, { role: 'bot', text: '🚨 Daily AI Reasoning Quota Reached. I can still show you raw stats, but my deep-match analysis is offline until tomorrow.' }]);
+            } else {
+                setMessages([...newMsgs, { role: 'bot', text: 'Connection lost. Please try again later.' }]);
+            }
         } finally {
             setIsLoading(false);
         }

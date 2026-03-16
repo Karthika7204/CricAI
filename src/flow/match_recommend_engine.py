@@ -121,5 +121,5 @@ class MatchRecommendEngine:
 if __name__ == "__main__":
     engine = MatchRecommendEngine()
     # Test with match_id 1512721
-    result = engine.generate_recommendations("1512721")
+    result = engine.generate_recommendations("1512743")
     print(json.dumps(result, indent=2))

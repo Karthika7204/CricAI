@@ -1,0 +1,42 @@
+{
+  "match_id": "1512724",
+  "generated_at": "2026-03-15T21:58:45.807589",
+  "recommendations": {
+    "Strategic Adjustments": [
+      "Ireland's chase strategy requires a revised death-over plan. Losing 7 wickets for 30 runs at 6.21 RR indicates a severe execution failure under extreme pressure (Index 100.0).",
+      "Sri Lanka must address the middle-overs batting slowdown. A 5.0 RR and 3 wickets lost between overs 7-15 represent a potential vulnerability despite the strong finish.",
+      "Ireland needs to develop specific counter-strategies for aggressive death-over batting. Conceding 68 runs at a 13.6 RR allowed Sri Lanka to set a formidable total."
+    ],
+    "Batting Optimization": [
+      "Sri Lanka should focus on maintaining a higher run rate through the middle overs, reducing the dip from 8.33 RR in the Powerplay to 5.0 RR post-Powerplay.",
+      "Ireland's batting unit requires significant improvement in high-pressure death-over scenarios. The collapse of 7 wickets for 30 runs is unsustainable for successful chases.",
+      "PR Stirling's innings (6 runs from 14 balls) indicates a need for increased intent or tactical adjustment for the opening role to avoid early pressure accumulation."
+    ],
+    "Bowling Optimization": [
+      "Ireland must identify and mitigate highly expensive bowling spells, specifically BJ McCarthy (13.33 econ) and MJ Humphreys (11.0 econ), particularly in crucial phases.",
+      "Sri Lanka's bowlers, especially M Theekshana (114.48 impact) and PWH de Silva (113.5 impact), should continue to be leveraged to sustain defensive pressure and induce collapses.",
+      "Ireland needs a more effective death-bowling strategy to prevent opposition teams from scoring 68 runs at 13.6 RR in the final five overs."
+    ],
+    "Player Role Recommendations": [
+      "Ireland should re-evaluate the roles of BJ McCarthy and MJ Humphreys in high-leverage overs, given their high economy rates (13.33 and 11.0 respectively).",
+      "Sri Lanka's middle-order batsmen need to provide more consistent contributions to alleviate over-reliance on opening impacts like PHKD Mendis (27.0% of team runs).",
+      "Ireland requires an anchor or finisher capable of sustaining momentum and mitigating collapses in high-pressure chases, complementing GH Dockrell's bowling impact."
+    ],
+    "Pressure Management Insights": [
+      "Ireland failed to convert middle-overs stability (68 runs for 2 wickets, 7.56 RR) into sustained acceleration, ultimately succumbing to extreme chase pressure (Index 100.0).",
+      "Sri Lanka demonstrated superior pressure application by converting a middle-overs slowdown into a match-winning death-over surge (RR 13.6) and then dismantling the opposition chase.",
+      "The significant collapse of 7 wickets for 30 runs in Ireland's death overs highlights a critical deficiency in mental fortitude and strategic execution under duress."
+    ],
+    "Risk Alerts": [
+      "Ireland's consistent inability to finish chases under extreme pressure, highlighted by the 30-run, 7-wicket collapse, presents a significant recurring tactical risk.",
+      "Sri Lanka's middle-overs batting vulnerability (5.0 RR, 3 wickets) suggests potential susceptibility to opposition spin or disciplined bowling if the death-overs acceleration is negated.",
+      "The presence of multiple high-economy bowling spells for Ireland (McCarthy, Humphreys) indicates a potential lack of depth or specific skill-set for containing aggressive batting."
+    ],
+    "Future Preparation Focus": [
+      "Ireland must implement targeted training for death-overs batting, focusing on power hitting against specific bowling variations and running under extreme pressure.",
+      "Sri Lanka should strategize to improve middle-overs batting stability and run-rate acceleration to reduce reliance on late-innings heroics for competitive totals.",
+      "Ireland needs to analyze and refine bowling attack compositions to minimize the impact of expensive spells and improve overall death-overs economy.",
+      "Focus on developing secondary impact batsmen for Ireland to support initial partnerships and prevent top-order collapses from derailing the chase."
+    ]
+  }
+}

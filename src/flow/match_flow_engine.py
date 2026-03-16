@@ -10,13 +10,17 @@ from flow.flow_builder import FlowBuilder
 from flow.flow_prompt import SYSTEM_PROMPT, get_match_flow_prompt
 from rag.llm_connector import GeminiConnector
 
+import threading
+
 class MatchFlowEngine:
     """
     Coordinates the generation, caching, and loading of AI Match Flow.
+    Includes a generation lock to prevent duplicate parallel LLM calls.
     """
-    def __init__(self, data_root="d:/CricAI/data/processed/t20/matches"):
+    def __init__(self, data_root="d:/CricAI/data/processed/t20/matches", gemini_api_key=None):
         self.data_root = os.path.normpath(data_root)
-        self.llm = GeminiConnector()
+        self.llm = GeminiConnector(api_key=gemini_api_key)
+        self._lock = threading.Lock()
 
     def _get_match_path(self, match_id):
         return os.path.join(self.data_root, str(match_id))
@@ -35,6 +39,7 @@ class MatchFlowEngine:
     def save_match_flow(self, match_id, flow_points):
         """Saves generated flow to disk."""
         path = self._get_flow_file_path(match_id)
+        os.makedirs(os.path.dirname(path), exist_ok=True)
         flow_data = {
             "match_id": str(match_id),
             "generated_at": datetime.datetime.now().isoformat(),
@@ -45,11 +50,17 @@ class MatchFlowEngine:
         return flow_data
 
     def generate_match_flow(self, match_id):
-        """Full pipeline: Extracted events -> LLM -> Cache -> Return."""
-        # Check cache first
+        """Full pipeline with concurrency protection: Extracted events -> LLM -> Cache -> Return."""
+        # Check cache first (Double-checked locking pattern)
         cached = self.load_match_flow(match_id)
         if cached:
             return cached
+
+        with self._lock:
+            # Check again inside lock in case another thread finished it
+            cached = self.load_match_flow(match_id)
+            if cached:
+                return cached
 
         # 1. Extraction
         match_path = self._get_match_path(match_id)
@@ -83,5 +94,5 @@ class MatchFlowEngine:
 if __name__ == "__main__":
     engine = MatchFlowEngine()
     # Test with match_id 1512721
-    result = engine.generate_match_flow("1512773")
+    result = engine.generate_match_flow("1512772")
     print(json.dumps(result, indent=2))

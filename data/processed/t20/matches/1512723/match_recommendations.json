@@ -1,0 +1,42 @@
+{
+  "match_id": "1512723",
+  "generated_at": "2026-03-15T21:56:58.996310",
+  "recommendations": {
+    "Strategic Adjustments": [
+      "England must refine death-over bowling strategies to reduce concession rates; Nepal's 11.0 RR in Death overs indicates a critical vulnerability.",
+      "Nepal requires a more aggressive Powerplay approach, as a 7.83 RR put undue pressure on later phases against a 185 target.",
+      "England's late innings batting needs stability; losing 3 wickets for 50 runs in the Death overs suggests a need to better manage wicket preservation for maximal acceleration."
+    ],
+    "Batting Optimization": [
+      "England's middle-overs run accumulation (8.56 RR, 2 wkts) can be optimized for higher acceleration with fewer wickets, building a stronger platform for death overs.",
+      "Nepal's top-order must enhance Powerplay boundary-hitting efficiency to improve the 7.83 RR and reduce required rate pressure on middle-order.",
+      "Nepal's middle-order, despite efficient run scoring (78 runs, 1 wkt, 8.67 RR), needs to convert this platform into a more commanding position to prevent death-over collapses."
+    ],
+    "Bowling Optimization": [
+      "England must re-evaluate the deployment of AU Rashid (economy 14.0) in high-pressure phases or against specific batting matchups.",
+      "Nepal needs to address the high economy of S Malla (11.67 RR) by either adjusting his role or improving his execution in specific overs.",
+      "England's death-over bowling conceded 55 runs for 3 wickets at 11.0 RR; specific plans for containing boundaries and taking wickets efficiently are critical."
+    ],
+    "Player Role Recommendations": [
+      "England: Continue leveraging HC Brook (28.8% team runs) and JG Bethell as primary run accumulators, ensuring they face a high proportion of deliveries.",
+      "England: Reassess AU Rashid's optimal overs to bowl, possibly avoiding periods where batsmen are set or actively looking to accelerate, given his high economy.",
+      "Nepal: Develop a targeted death-overs striking role for specific batters to finish chases, preventing the late collapse of 3 wickets for 55 runs."
+    ],
+    "Pressure Management Insights": [
+      "England: Implement clearer communication and execution strategies for death-over field settings and bowling plans to contain opposition surges.",
+      "Nepal: Enhance team composure in tight chases, focusing on calculated risk-taking and strategic boundary hitting rather than reactive shot selection in death overs.",
+      "Nepal: Improve Powerplay risk assessment; a cautious start puts undue pressure, leading to more forced errors in subsequent high-pressure overs."
+    ],
+    "Risk Alerts": [
+      "England's reliance on HC Brook's significant run contribution (28.8%) presents a structural vulnerability if primary batsmen fail.",
+      "High economy spells from frontline spinners (AU Rashid, 14.0 RR) are critical liabilities in tightly contested matches.",
+      "Nepal's consistent slow Powerplay starts (7.83 RR) against aggressive targets create a persistent required rate challenge, increasing overall match pressure."
+    ],
+    "Future Preparation Focus": [
+      "England: Dedicated death-overs bowling training, focusing on executing precise yorkers and slower balls under simulated pressure.",
+      "Nepal: Intensive Powerplay batting drills emphasizing calculated aggression and boundary targeting against pace and spin.",
+      "England: Data-driven analysis of spin bowler matchups and optimal deployment strategies to mitigate high economy rates in critical phases.",
+      "Nepal: Simulate close-finish scenarios in practice, specifically focusing on strike rotation, boundary acquisition, and wicket preservation in the final 3-5 overs."
+    ]
+  }
+}

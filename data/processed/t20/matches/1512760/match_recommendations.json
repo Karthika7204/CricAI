@@ -1,0 +1,40 @@
+{
+  "match_id": "1512760",
+  "generated_at": "2026-03-15T21:40:18.070650",
+  "recommendations": {
+    "Strategic Adjustments": [
+      "Sri Lanka must overhaul Powerplay batting strategy to prioritize wicket retention over early aggression, evidenced by the 5-wicket collapse at 34 runs.",
+      "Sri Lanka requires a revised chase algorithm for targets exceeding 140, integrating phases of calculated risk and stable accumulation to mitigate extreme pressure index (88.0).",
+      "England should explore tactical diversification in batting, reducing over-reliance on a single anchor (PD Salt contributed 42.5% of team runs) to prevent predictable run-scoring patterns."
+    ],
+    "Batting Optimization": [
+      "Sri Lanka's top order requires specific training for Powerplay survival and foundation building; a 5.67 run rate with 5 wickets down is unsustainable.",
+      "Sri Lanka must improve middle-order strike rotation and boundary conversion; the 5.78 run rate in the Middle overs reflects an inability to accelerate post-collapse.",
+      "Address the specific technical or mental deficiencies contributing to 'significant collapses' by players such as PVD Chameera, who scored 6 runs off 14 balls under pressure."
+    ],
+    "Bowling Optimization": [
+      "Sri Lanka's bowlers demonstrated effective containment (Wellalage, Theekshana, Madushanka secured 7 wickets for 72 runs from 12 overs); maintain this performance consistency.",
+      "England's spin attack, led by WG Jacks and AU Rashid, effectively exploited conditions with combined figures of 7.4 overs, 35 runs, 5 wickets, indicating optimal bowling partnerships."
+    ],
+    "Player Role Recommendations": [
+      "Sri Lanka needs to clearly define Powerplay batting roles, identifying an anchor capable of absorbing pressure and a designated attacker for calculated boundaries.",
+      "Implement a dedicated middle-order stabiliser for Sri Lanka, tasked with rebuilding momentum and preventing further collapses after early wickets, crucial given the 34/5 Powerplay.",
+      "England should identify and develop a secondary high-impact batting initiator to complement PD Salt, ensuring multiple avenues for rapid scoring and reducing sole dependency."
+    ],
+    "Pressure Management Insights": [
+      "Sri Lanka's management must integrate high-stakes simulation drills focusing on target chases, directly addressing the identified 'extreme chase pressure' (Index 88.0).",
+      "Reinforce decision-making processes for Sri Lankan batters during Powerplay collapses, specifically around shot selection and risk assessment when multiple wickets fall early.",
+      "Develop mental resilience protocols for Sri Lanka to counter the cascading effect of early wickets, which consistently led to a sub-6 run rate across all chase phases."
+    ],
+    "Risk Alerts": [
+      "Sri Lanka faces a critical structural weakness in Powerplay batting, where consistent early wicket losses (5 wickets) undermine any chase irrespective of the target.",
+      "England carries a risk of batting fragility if primary run-scorer PD Salt is neutralised early, as indicated by his 42.5% contribution to the total.",
+      "Sri Lanka's overall chase strategy presents a significant risk, failing to adapt beyond Powerplay; the consistently low run rates of 5.67, 5.78, and 5.4 in each phase confirm this."
+    ],
+    "Future Preparation Focus": [
+      "Sri Lanka requires intensive Powerplay batting camps focusing on technique under pressure, shot selection against new ball, and tactical intent.",
+      "Implement targeted mental conditioning programs for Sri Lanka's batting unit, specifically for high-pressure chase scenarios to improve composure and decision-making.",
+      "England should conduct scenario-based net sessions simulating early dismissals of key batters to develop alternative run-scoring strategies and middle-order acceleration plans."
+    ]
+  }
+}

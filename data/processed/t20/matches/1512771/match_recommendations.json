@@ -1,0 +1,43 @@
+{
+  "match_id": "1512771",
+  "generated_at": "2026-03-15T21:15:53.550567",
+  "recommendations": {
+    "Strategic Adjustments": [
+      "Re-evaluate Powerplay bowling strategy: The opposition scored 84 runs without losing a wicket in the Powerplay (RR 14.0), negating early pressure. Prioritize wicket-taking options to disrupt momentum.",
+      "Optimize middle-overs batting acceleration: South Africa's middle-overs run rate of 6.67 was insufficient to build a competitive total, despite a strong death-overs finish. Integrate aggressive intent earlier.",
+      "Develop counter-strategy for dominant opening partnerships: New Zealand's chase was anchored by a single batter (FH Allen, 57.8% of runs) without early breakthroughs, indicating a need for targeted plans against key opposition players.",
+      "Address overall fielding and bowling discipline: The opposition chased 170 runs in 12.5 overs, suggesting significant lapses in defensive execution and pressure application across all phases."
+    ],
+    "Batting Optimization": [
+      "Increase scoring intent in middle overs (7-15): South Africa's RR of 6.67 in this phase failed to capitalize on the Powerplay's momentum and left too much to achieve in the death overs.",
+      "Mitigate early wicket loss in Powerplay: Losing 2 wickets while achieving an RR of 8.0 indicates a vulnerability that can stall innings progression. Focus on calculated aggression to preserve wickets.",
+      "Leverage strong individual performances: M Jansen's 55 off 32 balls (82.15 impact score) demonstrates potential that needs consistent support from other batters to build formidable totals."
+    ],
+    "Bowling Optimization": [
+      "Address high economy rates of key bowlers: M Jansen (18.71) and C Bosch (17.5) conceded excessively, directly contributing to the rapid chase. Review their roles or develop specific control strategies.",
+      "Formulate Powerplay wicket-taking plans: Failure to secure any wickets in the Powerplay (NZ 84/0) allowed the opposition to dictate the chase. Focus on bowling lines and lengths to induce errors.",
+      "Implement targeted bowling strategies for set batters: FH Allen's 100(33) highlights an inability to contain or dismiss a dominant batter once set, necessitating specific match-up analysis and execution."
+    ],
+    "Player Role Recommendations": [
+      "Review M Jansen's primary role in T20: While impactful with the bat (55 runs), his bowling economy (18.71) is a significant liability. Reassess his deployment in crucial bowling phases or explore alternatives.",
+      "Identify dedicated Powerplay specialists: The team requires bowlers capable of either containing or taking wickets consistently in the first six overs to prevent runaway starts.",
+      "Evaluate C Bosch's T20 readiness: His economy rate of 17.5 suggests a need for targeted training on variations, control, and pressure bowling."
+    ],
+    "Pressure Management Insights": [
+      "Improve Powerplay pressure application: New Zealand's run rate of 14.0 with no wickets lost in the Powerplay indicates a complete absence of pressure from the bowling side.",
+      "Sustain pressure through middle overs: After a moderate Powerplay with the ball, the inability to build pressure in the middle overs allowed the opposition to maintain an RR of 13.02.",
+      "Develop strategies to halt rapid scoring: Allowing the opposition to reach 173 runs in 12.5 overs demonstrates a failure to create any form of pressure-inducing resistance."
+    ],
+    "Risk Alerts": [
+      "Critical vulnerability in Powerplay bowling: Conceding 84 runs with 0 wickets in 6 overs is an unsustainable approach in T20 cricket, guaranteeing a high-risk chase scenario.",
+      "Over-reliance on death-overs batting recovery: While South Africa scored at 12.2 RR in the death, a lower middle-overs rate leaves little margin for error, especially if early wickets fall.",
+      "Lack of bowling depth and control: Two bowlers registering economy rates above 17.0 indicates a significant weakness in the bowling unit's ability to restrict opposition scoring."
+    ],
+    "Future Preparation Focus": [
+      "Intensive Powerplay bowling drills: Develop specific plans for exploiting pitch conditions and opposition strengths in the first six overs, emphasizing wicket-taking over containment.",
+      "Middle-overs batting aggression training: Focus on converting singles into doubles and identifying boundary opportunities to maintain a run rate above 8.5-9.0 between overs 7-15.",
+      "Individualized bowling coaching for control: Target specific bowlers with high economy rates to refine their T20 skill-sets, focusing on execution under pressure and variation usage.",
+      "Scenario-based match simulations: Conduct practice sessions simulating rapid chases to train bowlers on how to react and adapt under extreme scoring pressure."
+    ]
+  }
+}

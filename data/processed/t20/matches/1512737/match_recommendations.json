@@ -1,0 +1,42 @@
+{
+  "match_id": "1512737",
+  "generated_at": "2026-03-15T22:25:25.077087",
+  "recommendations": {
+    "Strategic Adjustments": [
+      "Implement a revised Powerplay batting strategy to mitigate early wicket loss, aiming for <2 wickets within the first 6 overs to build a stable foundation, given Australia lost 4.",
+      "Review first innings bowling plans to consistently disrupt opposition's anchor batsmen, preventing single players from contributing disproportionately (e.g., Bennett 37.9% of total runs).",
+      "Adjust target assessment models to account for opposition's low-risk, high-efficiency innings construction (Zimbabwe 169/2) versus aggressive wicket-taking, which they sustained across all phases."
+    ],
+    "Batting Optimization": [
+      "Prioritize wicket preservation during the Powerplay, focusing on tactical rotation and risk mitigation rather than aggressive scoring, given the 4-wicket collapse to 38 runs.",
+      "Develop robust partnerships beyond the primary anchor; Renshaw's 65(46) was critical but lacked sustained support, leading to isolation and increased pressure.",
+      "Execute calculated risk-taking in the middle overs, balancing run rate acceleration (8.44 RR post-PP collapse) with avoiding further cluster dismissals, especially with the pressure index at 100.0."
+    ],
+    "Bowling Optimization": [
+      "Develop specific plans to disrupt anchor batsmen early, rather than allowing them to accumulate runs freely; Bennett's sustained innings significantly impacted the total.",
+      "Address high economy rate spells by specific bowlers, as seen with Maxwell's 14.0 economy, to maintain consistent pressure throughout the innings and restrict scoring.",
+      "Strategize wicket-taking opportunities against opposition's middle-order, preventing them from accelerating efficiently in the 7-15 over phase (Zimbabwe scored 78 runs for 1 wicket)."
+    ],
+    "Player Role Recommendations": [
+      "Identify and solidify a dedicated Powerplay batting specialist capable of navigating new-ball challenges and preserving wickets under initial pressure.",
+      "Clarify roles for all-rounders to ensure bowling contributions are economical and impactful, addressing any high economy outliers.",
+      "Define death-over batting responsibilities, distinguishing between boundary-hitting mandates and tactical singles to manage chase pressure, especially after losing 5 wickets in the final phase."
+    ],
+    "Pressure Management Insights": [
+      "Implement psychological conditioning for high-pressure chases (Pressure Index 100.0) to prevent late-innings collapses, as evidenced by 5 wickets in the death overs.",
+      "Develop strategies to absorb early Powerplay pressure, focusing on tactical rotation and risk mitigation after losing 4 wickets for 38 runs.",
+      "Practice run-chase scenarios that simulate building partnerships from challenging positions, specifically addressing recovery after significant early setbacks."
+    ],
+    "Risk Alerts": [
+      "Vulnerability to significant Powerplay batting collapses poses a critical risk to match outcomes, as demonstrated by the 38/4 start.",
+      "Over-reliance on individual batting brilliance (Renshaw 65(46)) creates a brittle batting lineup susceptible when that player is dismissed or unsupported.",
+      "The appearance of high economy rates, even in short spells (Maxwell 14.0), indicates potential weaknesses in bowling plans or execution that opposition can exploit."
+    ],
+    "Future Preparation Focus": [
+      "Intensive Powerplay batting drills specifically targeting wicket preservation and measured run accumulation under new-ball pressure.",
+      "Refine bowling strategies for defending targets against established opposition batsmen, focusing on variations and field placements that limit scoring zones.",
+      "Conduct simulated match scenarios replicating extreme chase pressure (Index 100.0) to improve decision-making and composure in critical phases.",
+      "Analyze opposition run-scoring patterns across Powerplay, Middle, and Death phases to preemptively counter their preferred acceleration periods."
+    ]
+  }
+}

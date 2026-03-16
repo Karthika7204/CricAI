@@ -7,13 +7,13 @@ export default {
     theme: {
         extend: {
             colors: {
-                background: "#0B0C10",
-                surface: "#1F2833",
-                primary: "#66FCF1",
-                secondary: "#45A29E",
-                text: "#C5C6C7",
-                accent: "#00E0FF", // Neon highlights
-                card: "rgba(31, 40, 51, 0.7)",
+                background: "#020817",
+                surface: "#0a1128",
+                primary: "#00f5c4",
+                secondary: "#1e293b",
+                text: "#e2e8f0",
+                accent: "#3b82f6",
+                card: "rgba(10, 17, 40, 0.82)",
             },
             fontFamily: {
                 outfit: ['Outfit', 'sans-serif'],

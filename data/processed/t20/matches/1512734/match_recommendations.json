@@ -1,0 +1,42 @@
+{
+  "match_id": "1512734",
+  "generated_at": "2026-03-15T22:22:15.557543",
+  "recommendations": {
+    "Strategic Adjustments": [
+      "Oman: Re-evaluate aggressive chase approach against high targets; prioritize wicket preservation in Powerplay to build foundation rather than immediate acceleration.",
+      "Oman: Develop a tiered chase strategy for targets exceeding 200, focusing on specific run-rate benchmarks per phase and emphasizing wicket stability over reckless hitting.",
+      "Sri Lanka: Continue leveraging early wicket-taking to compound opposition chase pressure, observed by Oman's 3-wicket loss in Powerplay reducing their effective chase rate.",
+      "Sri Lanka: Maintain aggressive Death Over batting strategy (RR 15.8), optimizing player selection for final five overs to consistently maximize scoring."
+    ],
+    "Batting Optimization": [
+      "Oman: Implement a targeted Powerplay batting strategy to minimize wicket loss; averaging 3 wickets for 36 runs in the Powerplay is unsustainable for large chases.",
+      "Oman: Improve boundary frequency by 30% in the middle overs; current rate (one every 13.3 balls) indicates a lack of scoring accelerators and sustained pressure.",
+      "Sri Lanka: Replicate the middle-overs run accumulation (88 runs for 1 wicket at 9.78 RR) to maintain scoring momentum before the Death Overs surge."
+    ],
+    "Bowling Optimization": [
+      "Oman: Address severe economy rates in the Death Overs (SL scored 79 runs in 5 overs at 15.8 RR); review bowler selection and execution plans for high-pressure finishes.",
+      "Oman: Analyze the effectiveness of bowlers like Sufyan Mehmood (15.0 econ) and Jay Odedra (14.0 econ) in specific match situations and consider alternative resources for critical overs.",
+      "Sri Lanka: Continue deploying M Theekshana (impact 120.22) in key defensive phases to sustain pressure and control run-rate, building on his established defensive impact."
+    ],
+    "Player Role Recommendations": [
+      "Oman: Identify and develop a specific anchor batsman capable of stabilizing the innings and converting starts under extreme chase pressure, given the 87.0 pressure index experienced.",
+      "Oman: Implement a clearer role definition for lower-order batsmen to contribute with boundary hitting and accelerate scoring, rather than merely occupying the crease.",
+      "Sri Lanka: Maintain P Rathnayake's role as the primary innings accelerator and anchor (contributing 26.7% of team runs) for consistent high-scoring totals."
+    ],
+    "Pressure Management Insights": [
+      "Oman: Develop specific training drills simulating high-target chase scenarios (Pressure Index 87.0) to improve decision-making and shot selection under duress.",
+      "Oman: Focus on psychological resilience during Powerplay batting; losing 3 wickets for 36 runs significantly amplified the chase pressure and contributed to the subsequent collapse.",
+      "Sri Lanka: Leverage early wicket-taking to apply and sustain psychological pressure on the opposition, as demonstrated by Oman's reduced Powerplay run rate and subsequent collapse."
+    ],
+    "Risk Alerts": [
+      "Oman: Over-reliance on a defensive mindset after early wickets, leading to a significantly reduced run rate (2.6 RR in Death Overs) and increasing the probability of a collapse.",
+      "Oman: High bowling economy rates from key bowlers in high-pressure situations pose a significant risk against competitive batting lineups and require immediate strategic review.",
+      "Sri Lanka: While successful, ensure diverse run-scoring contributions to avoid over-dependence on high-impact individuals like Rathnayake or Shanaka in tighter contests."
+    ],
+    "Future Preparation Focus": [
+      "Oman: Intensive net sessions focused on power hitting against pace and spin to increase boundary frequency across all phases, specifically targeting an improvement from 1 boundary every 13.3 balls.",
+      "Oman: Strategic review of death bowling options and execution plans, including variations and specific field placements to restrict scoring and prevent high RRs like 15.8.",
+      "Sri Lanka: Analyze current middle-order partnerships for sustained aggression against varied bowling attacks to ensure consistency in middle-overs run rates (9.78 RR)."
+    ]
+  }
+}
